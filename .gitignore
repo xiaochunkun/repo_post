@@ -170,3 +170,16 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .aider*
+
+# Jekyll build output
+docs/_site/
+docs/.jekyll-cache/
+docs/Gemfile
+docs/Gemfile.lock
+docs/vendor/
+
+# Translation intermediate files
+tools/_desc_batch_*.json
+tools/_zh_batch_*.json
+tools/_descriptions.json
+tools/.translate_progress.json
