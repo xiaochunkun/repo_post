@@ -1,13 +1,13 @@
 title: MAGI//ARCHIVE
 description: Discovered repositories from the open source frontier
-repository: tom-doerr/repo_posts
+repository: xiaochunkun/repo_post
 future: true
-baseurl: "/repo_posts"
-url: "https://tom-doerr.github.io"
+baseurl: "/repo_post"
+url: "https://xiaochunkun.github.io"
 remote_theme: pages-themes/minimal@v0.2.0
 author:
-  name: Tom Doerr
-  url: https://github.com/tom-doerr
+  name: xiaochunkun
+  url: https://github.com/xiaochunkun
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links

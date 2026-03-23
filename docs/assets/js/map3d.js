@@ -1,7 +1,7 @@
 import * as THREE from 'https://esm.sh/three@0.160.0';
 import { OrbitControls } from 'https://esm.sh/three@0.160.0/examples/jsm/controls/OrbitControls.js';
 
-const BASE = window.__SEM_ASSETS_BASE || '/repo_posts/assets/';
+const BASE = window.__SEM_ASSETS_BASE || '/repo_post/assets/';
 const SITE_BASE = BASE.replace(/\/assets\/?$/, '');
 let scene, camera, renderer, controls, points, data, searchIdx, urlToMeta = {};
 let raycaster, mouse, tooltip, infobox, hovered = -1, selected = -1, highlighted = -1;
