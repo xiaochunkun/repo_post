@@ -7,3 +7,5 @@ image: assets/wesm_agentsview_20260308_203140_106_20260308_203335_1e0c1c.png
 # [wesm/agentsview](https://github.com/wesm/agentsview)
 
 Analyzes AI agent coding sessions in a web interface
+
+在Web界面分析AI代理编码会话

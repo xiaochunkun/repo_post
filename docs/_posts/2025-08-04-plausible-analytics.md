@@ -7,3 +7,5 @@ image: assets/plausible_analytics_cropped.png
 # [plausible/analytics](https://github.com/plausible/analytics)
 
 privacy-first web analytics tool
+
+隐私优先的Web分析工具

@@ -7,3 +7,5 @@ image: assets/adithya_s_k_AI_Engineering_academy_20260209_040336_621_20260209_04
 # [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy)
 
 Learning paths for applied AI concepts
+
+应用 AI 概念的学习路径

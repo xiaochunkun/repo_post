@@ -7,3 +7,5 @@ image: assets/simonw_datasette_20260101_000728_900_20260101_000743_68158f.png
 # [simonw/datasette](https://github.com/simonw/datasette/)
 
 Publishes data as websites and APIs
+
+将数据发布为网站和API

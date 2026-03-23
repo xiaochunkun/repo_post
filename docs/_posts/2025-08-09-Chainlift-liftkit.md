@@ -7,3 +7,5 @@ image: assets/Chainlift_liftkit_cropped.png
 # [Chainlift/liftkit](https://github.com/Chainlift/liftkit)
 
 golden ratio UI kit for Figma and React
+
+Figma和React的黄金比例UI套件

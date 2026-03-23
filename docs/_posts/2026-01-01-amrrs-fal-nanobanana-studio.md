@@ -7,3 +7,5 @@ image: assets/amrrs_fal_nanobanana_studio_20251231_042940_178_20251231_042955_54
 # [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio/)
 
 Image editor with natural language prompts
+
+使用自然语言提示的图像编辑器

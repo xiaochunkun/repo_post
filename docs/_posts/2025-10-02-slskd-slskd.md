@@ -7,3 +7,5 @@ image: assets/20251001T203422920--slskd--slskd--20251001T203829289--cropped.png
 # [slskd/slskd](https://github.com/slskd/slskd)
 
 client-server app for Soulseek file sharing with web access and Docker support
+
+Soulseek文件共享的客户端-服务器应用，支持Web访问和Docker

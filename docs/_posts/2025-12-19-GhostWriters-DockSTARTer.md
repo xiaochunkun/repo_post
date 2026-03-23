@@ -7,3 +7,5 @@ image: assets/GhostWriters_DockSTARTer_20251217_221924_474_20251217_221944_31c3b
 # [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer/)
 
 Simplifies Docker setup through terminal menus
+
+通过终端菜单简化 Docker 设置

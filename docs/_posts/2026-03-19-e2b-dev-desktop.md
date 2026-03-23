@@ -7,3 +7,5 @@ image: assets/e2b_dev_desktop_20260319_044548_034_20260319_044648_d3b82d.png
 # [e2b-dev/desktop](https://github.com/e2b-dev/desktop)
 
 Isolated virtual desktops for AI agents
+
+用于 AI 代理的隔离虚拟桌面

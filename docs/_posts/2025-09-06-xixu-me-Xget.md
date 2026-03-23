@@ -7,3 +7,5 @@ image: assets/20250822T015608265--xixu-me--Xget--20250906T020645696--cropped.png
 # [xixu-me/Xget](https://github.com/xixu-me/Xget)
 
 all-in-one open-source download accelerator for repos, packages, AI, containers
+
+全能开源下载加速器，支持仓库、软件包、AI 模型和容器镜像

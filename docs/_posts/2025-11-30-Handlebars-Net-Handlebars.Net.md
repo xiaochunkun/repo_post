@@ -7,3 +7,5 @@ image: assets/Handlebars_Net_Handlebars_Net_20251127_202300_695_20251130_083111_
 # [Handlebars-Net/Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net/)
 
 Compiles Handlebars templates to IL bytecode
+
+将 Handlebars 模板编译为 IL 字节码

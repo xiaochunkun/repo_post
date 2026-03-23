@@ -7,3 +7,5 @@ image: assets/theredsix_cerebellum_20260305_034019_929_20260305_034133_a35e1d.pn
 # [theredsix/cerebellum](https://github.com/theredsix/cerebellum)
 
 System for browser automation using AI to navigate pages and perform tasks
+
+使用 AI 导航页面和执行任务的浏览器自动化系统

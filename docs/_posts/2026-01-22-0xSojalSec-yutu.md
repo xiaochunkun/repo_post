@@ -7,3 +7,5 @@ image: assets/0xSojalSec_yutu_20260113_173937_618_20260113_173952_35ba19.png
 # [0xSojalSec/yutu](https://github.com/0xSojalSec/yutu)
 
 MCP server and CLI for YouTube workflows
+
+YouTube 工作流程的 MCP 服务器和 CLI

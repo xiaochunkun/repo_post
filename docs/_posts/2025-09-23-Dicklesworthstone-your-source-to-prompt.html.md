@@ -7,3 +7,5 @@ image: assets/20250923T024414190--Dicklesworthstone--your-source-to-prompt.html-
 # [Dicklesworthstone/your-source-to-prompt.html](https://github.com/Dicklesworthstone/your-source-to-prompt.html)
 
 turn code files into LLM prompts locally with a simple browser GUI
+
+通过简单的浏览器 GUI 将代码文件本地转换为 LLM 提示

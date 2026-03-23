@@ -7,3 +7,5 @@ image: assets/BrowserOperator_browser_operator_core_20260103_103929_986_20260103
 # [BrowserOperator/browser-operator-core](https://github.com/BrowserOperator/browser-operator-core/)
 
 Browser with multi-agent platform for research and automation
+
+用于研究和自动化的多代理平台浏览器

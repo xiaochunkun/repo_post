@@ -7,3 +7,5 @@ image: assets/20250830T174424963--exadel-inc--CompreFace--20250830T183515752--cr
 # [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
 
 open-source face recognition REST API with docker support
+
+开源人脸识别 REST API，支持 Docker 部署

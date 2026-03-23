@@ -7,3 +7,5 @@ image: assets/20250907T194415607--HKUDS--LightRAG--20250908T091018078--cropped.p
 # [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
 
 graph-based RAG system for smarter document retrieval
+
+基于图的 RAG 系统，实现更智能的文档检索

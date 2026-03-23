@@ -7,3 +7,5 @@ image: assets/coderamp_labs_gitingest_20260122_105459_575_20260122_105516_8c333b
 # [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest)
 
 Converts GitHub repositories into text for LLMs
+
+将GitHub仓库转换为LLM文本

@@ -7,3 +7,5 @@ image: assets/supabase_supabase_js_20251114_230614_637_20251115_202123_bb5a60--2
 # [supabase/supabase-js](https://github.com/supabase/supabase-js/)
 
 Monorepo for the Supabase JavaScript SDK
+
+Supabase JavaScript SDK 的 monorepo

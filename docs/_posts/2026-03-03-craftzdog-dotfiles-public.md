@@ -7,3 +7,5 @@ image: assets/craftzdog_dotfiles_public_20260226_093613_490_20260226_093748_bb3d
 # [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)
 
 Configuration files for Neovim and terminal
+
+Neovim和终端的配置文件

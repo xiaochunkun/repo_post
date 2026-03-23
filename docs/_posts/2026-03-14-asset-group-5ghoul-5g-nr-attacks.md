@@ -7,3 +7,5 @@ image: assets/asset_group_5ghoul_5g_nr_attacks_20260227_153519_354_20260227_1536
 # [asset-group/5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks)
 
 Fuzzer for 5G NR attacks against Qualcomm and MediaTek modems
+
+针对高通和联发科调制解调器的5G NR攻击模糊测试工具

@@ -7,3 +7,5 @@ image: assets/jelmervdl_translatelocally_web_ext_20260112_003516_358_20260112_00
 # [jelmervdl/translatelocally-web-ext](https://github.com/jelmervdl/translatelocally-web-ext)
 
 Translates web pages on the client without sending data to servers
+
+在客户端翻译网页，无需向服务器发送数据

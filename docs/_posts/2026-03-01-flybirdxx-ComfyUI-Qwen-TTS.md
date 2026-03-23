@@ -7,3 +7,5 @@ image: assets/flybirdxx_ComfyUI_Qwen_TTS_20260226_131322_448_20260226_131506_32f
 # [flybirdxx/ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)
 
 Clones voices and designs speech through natural language descriptions
+
+通过自然语言描述克隆语音和设计语音

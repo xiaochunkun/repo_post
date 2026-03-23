@@ -7,3 +7,5 @@ image: assets/keycastr_keycastr_20260319_072010_655_20260319_072131_e3ae0a.png
 # [keycastr/keycastr](https://github.com/keycastr/keycastr)
 
 Visualizes keystrokes for screencasts
+
+为屏幕录制可视化按键

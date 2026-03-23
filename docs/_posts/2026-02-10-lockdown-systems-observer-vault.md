@@ -7,3 +7,5 @@ image: assets/lockdown_systems_observer_vault_20260208_111014_166_20260208_11104
 # [lockdown-systems/observer-vault](https://github.com/lockdown-systems/observer-vault)
 
 Saves Signal calls to a computer remotely
+
+远程保存Signal通话到电脑

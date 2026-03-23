@@ -7,3 +7,5 @@ image: assets/20250927T043152375--fosslife--devtools-x--20250927T044819380--crop
 # [fosslife/devtools-x](https://github.com/fosslife/devtools-x)
 
 cross-platform desktop dev tools suite, no electron
+
+跨平台桌面开发工具套件，无 electron

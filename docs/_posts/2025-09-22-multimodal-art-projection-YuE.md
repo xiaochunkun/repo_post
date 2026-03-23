@@ -7,3 +7,5 @@ image: assets/20250922T021816558--multimodal-art-projection--YuE--20250922T03054
 # [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
 
 open-source AI turns lyrics into full-length songs with vocals and instruments
+
+开源 AI 将歌词转换为带人声和乐器的完整歌曲

@@ -7,3 +7,5 @@ image: assets/miniscruff_changie_20251208_231551_760_20251208_231653_06aa9e.png
 # [miniscruff/changie](https://github.com/miniscruff/changie/)
 
 Automated changelog tool separates changes from commits
+
+自动化变更日志工具，将变更与提交分离

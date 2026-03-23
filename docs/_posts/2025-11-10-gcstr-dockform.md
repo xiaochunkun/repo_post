@@ -7,3 +7,5 @@ image: assets/gcstr_dockform_20251110_032731_168_20251110_120626_40aeaf--2025111
 # [gcstr/dockform](https://github.com/gcstr/dockform/)
 
 Declarative configurations for docker compose
+
+Docker Compose的声明式配置

@@ -7,3 +7,5 @@ image: assets/a21ns1g4ts_filament_short_url_20260102_062029_024_20260102_062044_
 # [a21ns1g4ts/filament-short-url](https://github.com/a21ns1g4ts/filament-short-url/)
 
 Adds shortened URLs to web apps
+
+为Web应用添加短链接

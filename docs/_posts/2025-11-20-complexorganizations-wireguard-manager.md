@@ -7,3 +7,5 @@ image: assets/complexorganizations_wireguard_manager_20251119_221122_569_2025112
 # [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager/)
 
 Tool to simplify WireGuard installation and management
+
+简化 WireGuard 安装和管理的工具

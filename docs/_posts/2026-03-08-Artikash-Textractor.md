@@ -7,3 +7,5 @@ image: assets/Artikash_Textractor_20260307_180733_528_20260307_180943_a162b4.png
 # [Artikash/Textractor](https://github.com/Artikash/Textractor)
 
 Hook text from video game engines
+
+从视频游戏引擎提取文本

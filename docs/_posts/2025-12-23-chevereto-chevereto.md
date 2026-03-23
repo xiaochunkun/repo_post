@@ -7,3 +7,5 @@ image: assets/chevereto_chevereto_20251221_233810_824_20251221_233829_7725cf.png
 # [chevereto/chevereto](https://github.com/chevereto/chevereto/)
 
 Self-hosted media sharing platform for images and videos
+
+自托管的图像和视频媒体分享平台

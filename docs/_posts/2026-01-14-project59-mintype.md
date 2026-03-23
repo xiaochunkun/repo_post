@@ -7,3 +7,5 @@ image: assets/project59_mintype_20260113_135854_011_20260113_135907_a80b78.png
 # [project59/mintype](https://github.com/project59/mintype)
 
 Encrypted notes on a whiteboard
+
+白板上的加密笔记

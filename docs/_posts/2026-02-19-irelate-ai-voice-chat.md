@@ -7,3 +7,5 @@ image: assets/irelate_ai_voice_chat_20260216_090614_649_20260216_090704_2f59bc.p
 # [irelate-ai/voice-chat](https://github.com/irelate-ai/voice-chat)
 
 Voice chat using WebGPU for local inference
+
+使用WebGPU进行本地推理的语音聊天

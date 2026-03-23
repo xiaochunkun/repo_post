@@ -7,3 +7,5 @@ image: assets/efaure_opencti_20260116_134115_454_20260116_134136_5a1e70.png
 # [efaure/opencti](https://github.com/efaure/opencti)
 
 Platform for managing cyber threat intelligence and observables
+
+管理网络威胁情报和可观测对象的平台

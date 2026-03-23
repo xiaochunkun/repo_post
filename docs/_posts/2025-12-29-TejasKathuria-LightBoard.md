@@ -7,3 +7,5 @@ image: assets/TejasKathuria_LightBoard_20251227_172221_719_20251227_172240_ab463
 # [TejasKathuria/LightBoard](https://github.com/TejasKathuria/LightBoard/)
 
 Simulates lighting effects on MacBook keyboards via virtual HID devices
+
+通过虚拟 HID 设备模拟 MacBook 键盘灯光效果

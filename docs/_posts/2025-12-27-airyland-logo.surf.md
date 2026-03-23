@@ -7,3 +7,5 @@ image: assets/airyland_logo_surf_20251225_172222_774_20251225_172246_5227ae.png
 # [airyland/logo.surf](https://github.com/airyland/logo.surf/)
 
 Generates logos and favicons from text
+
+从文本生成徽标和网站图标

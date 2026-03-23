@@ -7,3 +7,5 @@ image: assets/torlando_tech_columba_20260313_165032_237_20260313_165242_858379.p
 # [torlando-tech/columba](https://github.com/torlando-tech/columba)
 
 Send messages and voice calls without internet
+
+无需互联网发送消息和语音通话

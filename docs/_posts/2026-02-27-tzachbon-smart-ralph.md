@@ -7,3 +7,5 @@ image: assets/tzachbon_smart_ralph_20260215_083811_313_20260215_083911_1aeefd.pn
 # [tzachbon/smart-ralph](https://github.com/tzachbon/smart-ralph)
 
 Claude Code plugin for spec-driven development
+
+Claude Code插件，用于规范驱动开发

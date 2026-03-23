@@ -7,3 +7,5 @@ image: assets/xenova_chat_downloader_20260209_160511_837_20260209_160530_2629f7.
 # [xenova/chat-downloader](https://github.com/xenova/chat-downloader)
 
 Retrieves chat messages from livestreams and videos
+
+从直播和视频中检索聊天消息

@@ -7,3 +7,5 @@ image: assets/heyito_ito_20251030_193858_183_20251030_211055_9789e2--20251030T22
 # [heyito/ito](https://github.com/heyito/ito/)
 
 Voice dictation for any application on a computer
+
+计算机上任何应用的语音听写

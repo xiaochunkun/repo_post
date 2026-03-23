@@ -7,3 +7,5 @@ image: assets/0xbitx_Hacking_guide_20260102_004439_500_20260102_004455_de725d.pn
 # [0xbitx/Hacking-guide](https://github.com/0xbitx/Hacking-guide/)
 
 Tutorials for penetration testing and network security
+
+渗透测试和网络安全的教程

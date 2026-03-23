@@ -7,3 +7,5 @@ image: assets/agentset_ai_agentset_20251217_060910_609_20251217_060932_f65fc0.pn
 # [agentset-ai/agentset](https://github.com/agentset-ai/agentset/)
 
 Platform to build and ship RAG applications
+
+构建和部署 RAG 应用的平台

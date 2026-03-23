@@ -7,3 +7,5 @@ image: assets/markbeep_AudioBookRequest_20251107_204210_829_20251108_000641_1f51
 # [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest/)
 
 Handles audiobook requests for Plex/Jellyfin
+
+处理Plex/Jellyfin的有声书请求

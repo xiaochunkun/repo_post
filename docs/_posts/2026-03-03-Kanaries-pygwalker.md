@@ -7,3 +7,5 @@ image: assets/Kanaries_pygwalker_20260227_234015_627_20260227_234214_6a2a0d.png
 # [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)
 
 Turns dataframes into interactive interfaces for data analysis
+
+将数据框转换为数据分析的交互界面

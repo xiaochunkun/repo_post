@@ -7,3 +7,5 @@ image: assets/AgentOps_AI_agentops_20260204_031231_041_20260204_031251_daa2dc.pn
 # [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
 
 SDK for monitoring and benchmarking AI agents
+
+监控和基准测试AI代理的SDK

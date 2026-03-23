@@ -7,3 +7,5 @@ image: assets/20251005T102049130--httptoolkit--httptoolkit--20251005T103311120--
 # [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit)
 
 Open-source tool to intercept, debug, and rewrite HTTP(S) traffic on any platform
+
+开源工具，用于在任何平台上拦截、调试和重写 HTTP(S) 流量

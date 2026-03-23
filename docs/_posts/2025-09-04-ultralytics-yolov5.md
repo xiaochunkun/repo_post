@@ -7,3 +7,5 @@ image: assets/20250903T031137173--ultralytics--yolov5--20250903T035127990--cropp
 # [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
 YOLOv5 fast object detection models by Ultralytics
+
+Ultralytics 出品的 YOLOv5 快速目标检测模型

@@ -7,3 +7,5 @@ image: assets/dscyrescotti_Memola_20260212_164311_496_20260212_164427_ce392b.png
 # [dscyrescotti/Memola](https://github.com/dscyrescotti/Memola)
 
 Note-taking application built with Metal
+
+使用 Metal 构建的笔记应用

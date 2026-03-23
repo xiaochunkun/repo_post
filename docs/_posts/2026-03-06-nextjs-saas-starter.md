@@ -7,3 +7,5 @@ image: assets/nextjs_saas_starter_20260212_184803_799_20260212_184900_f7f525.png
 # [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
 
 SaaS template with Stripe integration and RBAC
+
+集成 Stripe 和 RBAC 的 SaaS 模板

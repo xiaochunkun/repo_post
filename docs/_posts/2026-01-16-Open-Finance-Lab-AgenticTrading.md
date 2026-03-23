@@ -7,3 +7,5 @@ image: assets/Open_Finance_Lab_AgenticTrading_20260115_143220_993_20260115_14323
 # [Open-Finance-Lab/AgenticTrading](https://github.com/Open-Finance-Lab/AgenticTrading)
 
 Orchestrates autonomous agents for trading workflows
+
+编排交易工作流的自主代理

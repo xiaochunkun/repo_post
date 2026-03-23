@@ -7,3 +7,5 @@ image: assets/kubernetes_sigs_headlamp_20260203_074203_747_20260203_074229_8c000
 # [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
 
 Extensible interface for Kubernetes clusters
+
+Kubernetes 集群的可扩展界面

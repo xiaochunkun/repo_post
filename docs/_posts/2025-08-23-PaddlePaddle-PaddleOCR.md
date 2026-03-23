@@ -7,3 +7,5 @@ image: assets/20250822T024639730--PaddlePaddle--PaddleOCR--20250822T025307064--c
 # [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 multilingual OCR and document parsing toolkit
+
+多语言 OCR 和文档解析工具包

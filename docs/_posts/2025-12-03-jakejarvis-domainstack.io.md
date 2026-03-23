@@ -7,3 +7,5 @@ image: assets/jakejarvis_domainstack_io_20251201_072912_437_20251201_073022_543b
 # [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io/)
 
 Aggregates domain name intelligence
+
+聚合域名情报

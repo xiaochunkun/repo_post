@@ -7,3 +7,5 @@ image: assets/voxel51_fiftyone--20250918T051712911--cropped.png
 # [voxel51/fiftyone](https://github.com/voxel51/fiftyone)
 
 visualize and curate computer vision datasets, analyze models, spot data issues
+
+可视化和整理计算机视觉数据集，分析模型，发现数据问题

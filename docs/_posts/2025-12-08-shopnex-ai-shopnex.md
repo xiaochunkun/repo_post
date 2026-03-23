@@ -7,3 +7,5 @@ image: assets/shopnex_ai_shopnex_20251205_041318_669_20251205_041353_4a9670.png
 # [shopnex-ai/shopnex](https://github.com/shopnex-ai/shopnex/)
 
 Shopify alternative on Payload CMS
+
+基于Payload CMS的Shopify替代方案

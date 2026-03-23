@@ -7,3 +7,5 @@ image: assets/Slayingripper_Linux_SDR_20251121_141154_382_20251122_050408_1e2c41
 # [Slayingripper/Linux-SDR](https://github.com/Slayingripper/Linux-SDR/)
 
 List of SDR tools for Linux
+
+Linux 的 SDR 工具列表

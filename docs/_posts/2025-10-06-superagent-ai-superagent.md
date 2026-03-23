@@ -7,3 +7,5 @@ image: assets/20251005T225700918--superagent-ai--superagent--20251005T230454319-
 # [superagent-ai/superagent](https://github.com/superagent-ai/superagent)
 
 runtime protection for AI agents, blocks prompt injections and data leaks
+
+AI 代理的运行时保护，阻止提示注入和数据泄露

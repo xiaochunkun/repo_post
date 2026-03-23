@@ -7,3 +7,5 @@ image: assets/dioneapp_dioneapp_20260111_111254_538_20260111_111307_2b6970.png
 # [dioneapp/dioneapp](https://github.com/dioneapp/dioneapp)
 
 Installs applications through JSON files
+
+通过JSON文件安装应用程序

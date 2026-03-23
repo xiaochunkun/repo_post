@@ -7,3 +7,5 @@ image: assets/adamghill_django_unicorn_20251209_033619_707_20251209_033656_391e9
 # [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn/)
 
 Reactive component framework for Django templates
+
+Django模板的响应式组件框架

@@ -7,3 +7,5 @@ image: assets/20250925T214318496--ZhengPeng7--BiRefNet--20250925T214723363--crop
 # [ZhengPeng7/BiRefNet](https://github.com/ZhengPeng7/BiRefNet)
 
 high-res image segmentation with bilateral reference network
+
+使用双边参考网络的高分辨率图像分割

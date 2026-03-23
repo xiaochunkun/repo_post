@@ -7,3 +7,5 @@ image: assets/wavyrai_tmux_ide_20260316_200936_065_20260316_201001_b0937f.png
 # [wavyrai/tmux-ide](https://github.com/wavyrai/tmux-ide)
 
 Terminal IDE powered by tmux
+
+由tmux驱动的终端IDE

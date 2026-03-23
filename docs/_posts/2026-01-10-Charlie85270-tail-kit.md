@@ -7,3 +7,5 @@ image: assets/Charlie85270_tail_kit_20260109_060601_624_20260109_060615_516150.p
 # [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
 
 Components and templates for Tailwind CSS
+
+适用于Tailwind CSS的组件和模板

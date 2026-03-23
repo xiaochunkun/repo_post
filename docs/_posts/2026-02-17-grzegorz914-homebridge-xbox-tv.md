@@ -7,3 +7,5 @@ image: assets/grzegorz914_homebridge_xbox_tv_20260121_015559_413_20260121_015613
 # [grzegorz914/homebridge-xbox-tv](https://github.com/grzegorz914/homebridge-xbox-tv)
 
 Integrates Xbox consoles into HomeKit
+
+将Xbox游戏机集成到HomeKit

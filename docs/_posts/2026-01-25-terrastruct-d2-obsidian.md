@@ -7,3 +7,5 @@ image: assets/terrastruct_d2_obsidian_20260121_185523_368_20260121_185540_9284a9
 # [terrastruct/d2-obsidian](https://github.com/terrastruct/d2-obsidian)
 
 Turns text into diagrams within Obsidian
+
+在Obsidian中将文本转换为图表

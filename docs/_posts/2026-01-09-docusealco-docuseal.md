@@ -7,3 +7,5 @@ image: assets/docusealco_docuseal_20260108_014710_776_20260108_014723_976235.png
 # [docusealco/docuseal](https://github.com/docusealco/docuseal)
 
 Self-hosted alternative to DocuSign with PDF form builder
+
+自托管的DocuSign替代品，带PDF表单构建器

@@ -7,3 +7,5 @@ image: assets/ITSpecialist111_ai_automation_suggester_20251216_050123_038_202512
 # [ITSpecialist111/ai_automation_suggester](https://github.com/ITSpecialist111/ai_automation_suggester/)
 
 LLM-powered automation suggestions for Home Assistant
+
+基于LLM的Home Assistant自动化建议

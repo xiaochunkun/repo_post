@@ -7,3 +7,5 @@ image: assets/NVlabs_OmniVinci_20251123_033818_152_20251123_214938_1368c6--20251
 # [NVlabs/OmniVinci](https://github.com/NVlabs/OmniVinci/)
 
 LLM for vision, audio, and language
+
+用于视觉、音频和语言的LLM

@@ -7,3 +7,5 @@ image: assets/inulute_perplexity_ai_app_20260104_123355_597_20260104_123411_bfa9
 # [inulute/perplexity-ai-app](https://github.com/inulute/perplexity-ai-app/)
 
 Desktop application for AI search
+
+AI搜索桌面应用

@@ -7,3 +7,5 @@ image: assets/20250818T124622016_Onelevenvy_flock--20250820T143017861--cropped.p
 # [Onelevenvy/flock](https://github.com/Onelevenvy/flock)
 
 low-code platform for building chatbots and multi-agent workflows
+
+低代码平台，构建聊天机器人和多智能体工作流

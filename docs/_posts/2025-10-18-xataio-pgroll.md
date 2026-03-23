@@ -7,3 +7,5 @@ image: assets/xataio_pgroll_20251018_135447_012_20251018_153245--20251018T173245
 # [xataio/pgroll](https://github.com/xataio/pgroll/)
 
 Manages PostgreSQL schema migrations
+
+管理 PostgreSQL 模式迁移

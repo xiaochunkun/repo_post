@@ -7,3 +7,5 @@ image: assets/denisraslov_react_spreadsheet_grid_20251216_132441_720_20251216_13
 # [denisraslov/react-spreadsheet-grid](https://github.com/denisraslov/react-spreadsheet-grid/)
 
 Excel-like grid component for React
+
+用于 React 的类 Excel 网格组件

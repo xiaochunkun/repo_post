@@ -7,3 +7,5 @@ image: assets/director-run_director_cropped.png
 # [director-run/director](https://github.com/director-run/director)
 
 workflow automation tool for running scripts
+
+运行脚本的工作流自动化工具

@@ -7,3 +7,5 @@ image: assets/JohnRiceML_clawport_ui_20260308_183459_923_20260308_183656_6ae1e7.
 # [JohnRiceML/clawport-ui](https://github.com/JohnRiceML/clawport-ui)
 
 Dashboard for managing and monitoring AI agent teams
+
+用于管理和监控AI代理团队的仪表板

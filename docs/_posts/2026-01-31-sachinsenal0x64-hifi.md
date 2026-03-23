@@ -7,3 +7,5 @@ image: assets/sachinsenal0x64_hifi_20260130_074709_409_20260130_074758_ce730a.pn
 # [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi)
 
 Integrates Tidal music into Subsonic, Jellyfin, and Plexamp
+
+将Tidal音乐集成到Subsonic、Jellyfin和Plexamp

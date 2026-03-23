@@ -7,3 +7,5 @@ image: assets/tramcar_awesome_job_boards_20260213_205214_198_20260213_205249_74c
 # [tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards)
 
 Links to niche job boards by industry
+
+按行业分类的细分招聘网站链接

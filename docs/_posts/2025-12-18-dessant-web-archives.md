@@ -7,3 +7,5 @@ image: assets/dessant_web_archives_20251216_184005_374_20251216_184101_81f8e6.pn
 # [dessant/web-archives](https://github.com/dessant/web-archives/)
 
 Browser extension for viewing archived web pages
+
+用于查看存档网页的浏览器扩展

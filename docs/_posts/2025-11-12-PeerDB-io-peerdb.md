@@ -7,3 +7,5 @@ image: assets/PeerDB_io_peerdb_20251111_050444_835_20251111_151210_e840e3--20251
 # [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb/)
 
 Fast Postgres data streaming with CDC
+
+使用 CDC 的快速 Postgres 数据流

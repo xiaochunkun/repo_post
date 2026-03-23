@@ -7,3 +7,5 @@ image: assets/20250825T024101007--BuilderIO--builder--20250825T024944445--croppe
 # [BuilderIO/builder](https://github.com/BuilderIO/builder)
 
 visual dev platform for turning Figma designs into code
+
+可视化开发平台，将 Figma 设计转换为代码

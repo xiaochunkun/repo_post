@@ -7,3 +7,5 @@ image: assets/srlabs_Certiception_cropped.png
 # [srlabs/Certiception](https://github.com/srlabs/Certiception)
 
 honeypot for catching ADCS attackers
+
+用于捕获 ADCS 攻击者的蜜罐

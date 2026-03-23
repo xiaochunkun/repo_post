@@ -7,3 +7,5 @@ image: assets/20250905T030414555--XuehaiPan--nvitop--20250905T032524803--cropped
 # [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop)
 
 interactive NVIDIA GPU process viewer
+
+交互式 NVIDIA GPU 进程查看器

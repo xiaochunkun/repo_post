@@ -7,3 +7,5 @@ image: assets/infernojs_inferno_cropped.png
 # [infernojs/inferno](https://github.com/infernojs/inferno)
 
 super fast React-like UI library for web apps
+
+用于Web应用的超快速类React UI库

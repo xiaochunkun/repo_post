@@ -7,3 +7,5 @@ image: assets/11notes_docker_qbittorrent_20251125_015332_795_20251126_101358_016
 # [11notes/docker-qbittorrent](https://github.com/11notes/docker-qbittorrent/)
 
 Rootless and distroless qBittorrent Docker image
+
+无根且无发行版的 qBittorrent Docker 镜像

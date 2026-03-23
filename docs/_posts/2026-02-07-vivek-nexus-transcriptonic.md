@@ -7,3 +7,5 @@ image: assets/vivek_nexus_transcriptonic_20260206_020029_764_20260206_020046_e7b
 # [vivek-nexus/transcriptonic](https://github.com/vivek-nexus/transcriptonic)
 
 Transcribes Google Meet calls into text files
+
+将Google Meet通话转录为文本文件

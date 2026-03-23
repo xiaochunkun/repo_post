@@ -7,3 +7,5 @@ image: assets/dyad_sh_dyad_20251020_031728_461_20251020_042559--20251020T0625598
 # [dyad-sh/dyad](https://github.com/dyad-sh/dyad/)
 
 Local open-source AI app builder
+
+本地开源 AI 应用构建器

@@ -7,3 +7,5 @@ image: assets/20250930T035113387--nerfstudio-project--nerfstudio--20250930T04101
 # [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
 
 toolkit for building, training, and visualizing NeRFs with modular components
+
+使用模块化组件构建、训练和可视化 NeRF 的工具包

@@ -7,3 +7,5 @@ image: assets/basecamp_upright_20260218_000204_863_20260218_000244_f5cc74.png
 # [basecamp/upright](https://github.com/basecamp/upright)
 
 Synthetic monitoring engine with Playwright and Prometheus
+
+合成监控引擎，使用 Playwright 和 Prometheus

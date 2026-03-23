@@ -7,3 +7,5 @@ image: assets/ZiggyCreatures_FusionCache_20251213_140131_460_20251213_140227_907
 # [ZiggyCreatures/FusionCache](https://github.com/ZiggyCreatures/FusionCache/)
 
 Hybrid cache with resiliency features
+
+具备容错功能的混合缓存

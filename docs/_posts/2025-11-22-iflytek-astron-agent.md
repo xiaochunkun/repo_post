@@ -7,3 +7,5 @@ image: assets/iflytek_astron_agent_20251121_132800_847_20251122_033801_5276e5--2
 # [iflytek/astron-agent](https://github.com/iflytek/astron-agent/)
 
 Orchestrates AI workflows with RPA
+
+用 RPA 编排 AI 工作流

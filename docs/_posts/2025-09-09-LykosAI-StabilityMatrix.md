@@ -7,3 +7,5 @@ image: assets/20250908T185744209--LykosAI--StabilityMatrix--20250908T195049284--
 # [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
 
 manage and run Stable Diffusion tools with one-click installs and portable setup
+
+一键安装和便携运行 Stable Diffusion 工具

@@ -7,3 +7,5 @@ image: assets/AravisProject_aravis_20260211_085438_073_20260211_085506_d11c26.pn
 # [AravisProject/aravis](https://github.com/AravisProject/aravis)
 
 Library for video acquisition from Genicam cameras
+
+从 Genicam 相机获取视频的库

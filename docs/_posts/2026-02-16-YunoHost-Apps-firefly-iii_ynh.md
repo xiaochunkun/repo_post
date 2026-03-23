@@ -7,3 +7,5 @@ image: assets/YunoHost_Apps_firefly_iii_ynh_20260214_004849_558_20260214_004948_
 # [YunoHost-Apps/firefly-iii_ynh](https://github.com/YunoHost-Apps/firefly-iii_ynh)
 
 Financial manager for YunoHost servers
+
+YunoHost服务器的财务管理器

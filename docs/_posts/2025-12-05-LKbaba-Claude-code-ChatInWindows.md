@@ -7,3 +7,5 @@ image: assets/LKbaba_Claude_code_ChatInWindows_20251202_222753_257_20251202_2228
 # [LKbaba/Claude-code-ChatInWindows](https://github.com/LKbaba/Claude-code-ChatInWindows/)
 
 Native Windows UI for Claude Code without WSL
+
+无需 WSL 的 Claude Code 原生 Windows UI

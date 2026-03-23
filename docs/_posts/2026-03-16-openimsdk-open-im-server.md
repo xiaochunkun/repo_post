@@ -7,3 +7,5 @@ image: assets/openimsdk_open_im_server_20260316_101208_706_20260316_101258_577bc
 # [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)
 
 Open source messaging solution for developers
+
+面向开发者的开源消息解决方案

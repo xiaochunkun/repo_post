@@ -7,3 +7,5 @@ image: assets/nilsherzig_LLocalSearch_cropped.png
 # [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
 
 LLocalSearch: local search aggregator using LLM agents, runs without external API keys
+
+LLocalSearch：使用LLM代理的本地搜索聚合器，无需外部API密钥即可运行

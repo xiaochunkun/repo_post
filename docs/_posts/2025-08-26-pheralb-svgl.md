@@ -7,3 +7,5 @@ image: assets/20250826T023858305--pheralb--svgl--20250826T024226135--cropped.png
 # [pheralb/svgl](https://github.com/pheralb/svgl)
 
 SVG logos library and API for devs
+
+面向开发者的 SVG Logo 库和 API

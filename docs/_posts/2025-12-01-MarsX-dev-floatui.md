@@ -7,3 +7,5 @@ image: assets/MarsX_dev_floatui_20251127_204457_652_20251130_083249_a311bb--2025
 # [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui/)
 
 React and Vue UI components and templates built with Tailwind CSS
+
+使用Tailwind CSS构建的React和Vue UI组件与模板

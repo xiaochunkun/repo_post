@@ -7,3 +7,5 @@ image: assets/MinorJerry_WebVoyager_20260206_015910_559_20260206_015925_9865bc.p
 # [MinorJerry/WebVoyager](https://github.com/MinorJerry/WebVoyager)
 
 Web agent for real-world websites
+
+用于真实世界网站的Web代理

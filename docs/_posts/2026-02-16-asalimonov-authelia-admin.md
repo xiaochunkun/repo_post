@@ -7,3 +7,5 @@ image: assets/asalimonov_authelia_admin_20260121_020803_300_20260121_020818_0e50
 # [asalimonov/authelia-admin](https://github.com/asalimonov/authelia-admin)
 
 Web interface for managing authentication servers with LLDAP
+
+使用 LLDAP 管理认证服务器的 Web 界面

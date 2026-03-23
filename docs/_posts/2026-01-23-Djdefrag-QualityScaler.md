@@ -7,3 +7,5 @@ image: assets/Djdefrag_QualityScaler_20260122_080923_938_20260122_081011_ff7941.
 # [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
 Upscales images and videos with AI
+
+使用 AI 提升图像和视频质量

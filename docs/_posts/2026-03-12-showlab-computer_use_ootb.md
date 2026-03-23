@@ -7,3 +7,5 @@ image: assets/showlab_computer_use_ootb_20260306_184318_246_20260306_184441_c0e3
 # [showlab/computer_use_ootb](https://github.com/showlab/computer_use_ootb)
 
 Control desktop interfaces via vision models
+
+通过视觉模型控制桌面界面

@@ -7,3 +7,5 @@ image: assets/navig_me_telert_20260117_090128_017_20260117_090146_d8cc3d.png
 # [navig-me/telert](https://github.com/navig-me/telert)
 
 Sends terminal alerts to messaging apps
+
+将终端警报发送到消息应用

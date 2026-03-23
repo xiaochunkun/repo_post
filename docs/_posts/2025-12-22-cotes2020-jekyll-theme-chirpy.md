@@ -7,3 +7,5 @@ image: assets/cotes2020_jekyll_theme_chirpy_20251221_183309_629_20251221_183326_
 # [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/)
 
 Jekyll theme for technical writing
+
+技术写作 Jekyll 主题

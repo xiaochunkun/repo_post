@@ -7,3 +7,5 @@ image: assets/satwikkansal_wtfpython_20251201_020720_701_20251201_020816_67437b.
 # [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython/)
 
 Explains counter-intuitive Python snippets
+
+解释反直觉的 Python 代码片段

@@ -7,3 +7,5 @@ image: assets/aliasvault_aliasvault_20260203_011233_996_20260203_011258_0a811c.p
 # [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault)
 
 Password manager with email aliasing and built-in server
+
+带电子邮件别名和内置服务器的密码管理器

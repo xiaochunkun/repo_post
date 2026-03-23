@@ -7,3 +7,5 @@ image: assets/atiilla_GeoIntel_20251025_002625_159_20251025_004722_fa00e9--20251
 # [atiilla/GeoIntel](https://github.com/atiilla/GeoIntel/)
 
 Finds photo locations using Google's Gemini API
+
+使用Google Gemini API查找照片位置

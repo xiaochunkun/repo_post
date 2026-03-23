@@ -7,3 +7,5 @@ image: assets/goldengrape_PDF_Chopper_20260111_133046_642_20260111_133100_801421
 # [goldengrape/PDF-Chopper](https://github.com/goldengrape/PDF-Chopper)
 
 Cuts PDF files into pieces for Gemini AI Studio apps
+
+将PDF文件切分，用于Gemini AI Studio应用

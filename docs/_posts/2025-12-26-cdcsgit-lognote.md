@@ -7,3 +7,5 @@ image: assets/cdcsgit_lognote_20251225_121039_291_20251225_121130_a33d92.png
 # [cdcsgit/lognote](https://github.com/cdcsgit/lognote/)
 
 Log viewer for Android logcat on Windows, Linux, and Mac
+
+适用于 Windows、Linux 和 Mac 的 Android logcat 日志查看器

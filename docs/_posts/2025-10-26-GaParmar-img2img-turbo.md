@@ -7,3 +7,5 @@ image: assets/GaParmar_img2img_turbo_20251025_043652_567_20251025_085105_a61fd7-
 # [GaParmar/img2img-turbo](https://github.com/GaParmar/img2img-turbo/)
 
 Turns sketches into images in real-time
+
+实时将草图转换为图像

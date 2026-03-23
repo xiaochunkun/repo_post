@@ -7,3 +7,5 @@ image: assets/Tencent_ncnn_cropped.png
 # [Tencent/ncnn](https://github.com/Tencent/ncnn)
 
 neural network inference framework for mobile devices
+
+用于移动设备的神经网络推理框架

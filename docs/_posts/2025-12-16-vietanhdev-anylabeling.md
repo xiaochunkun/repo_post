@@ -7,3 +7,5 @@ image: assets/vietanhdev_anylabeling_20251214_205521_411_20251214_205622_597991.
 # [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling/)
 
 Data labeling tool with AI support from YOLO and Segment Anything
+
+具有YOLO和Segment Anything AI支持的数据标注工具

@@ -7,3 +7,5 @@ image: assets/ruvnet_wifi_densepose_20260202_084806_575_20260202_084906_c705be.p
 # [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
 
 Pose estimation using WiFi signals
+
+使用WiFi信号进行姿态估计

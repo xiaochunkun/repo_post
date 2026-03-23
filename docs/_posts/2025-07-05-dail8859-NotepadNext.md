@@ -7,3 +7,5 @@ image: assets/dail8859_NotepadNext_cropped.png
 # [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)
 
 text and source code editor, cross-platform reimplementation of Notepad++
+
+文本和源代码编辑器，Notepad++的跨平台重新实现

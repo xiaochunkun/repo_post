@@ -7,3 +7,5 @@ image: assets/frycodelab_nicegui_component_based_20251205_000140_703_20251205_00
 # [frycodelab/nicegui-component-based](https://github.com/frycodelab/nicegui-component-based/)
 
 Component-based boilerplate for NiceGUI applications
+
+NiceGUI应用的组件化样板

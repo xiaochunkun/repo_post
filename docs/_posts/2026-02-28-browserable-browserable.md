@@ -7,3 +7,5 @@ image: assets/browserable_browserable_20260227_122755_674_20260227_122948_fb9ebb
 # [browserable/browserable](https://github.com/browserable/browserable)
 
 Builds browser agents for navigation and data extraction
+
+构建用于导航和数据提取的浏览器代理

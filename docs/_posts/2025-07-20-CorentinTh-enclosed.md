@@ -7,3 +7,5 @@ image: assets/CorentinTh_enclosed_cropped.png
 # [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed)
 
 send encrypted notes and files privately
+
+私密发送加密笔记和文件

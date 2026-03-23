@@ -7,3 +7,5 @@ image: assets/sardanioss_httpcloak_20260113_123338_350_20260113_123352_22263c.pn
 # [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak)
 
 Mimics browser fingerprints to bypass bot detection
+
+模拟浏览器指纹以绕过机器人检测

@@ -7,3 +7,5 @@ image: assets/Samsar4_Ethical_Hacking_Labs_20260203_191956_580_20260203_192020_1
 # [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 
 Tutorials and labs for ethical hacking
+
+道德黑客的教程和实验室

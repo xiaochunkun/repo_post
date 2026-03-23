@@ -7,3 +7,5 @@ image: assets/traceloop_openllmetry_20260203_184406_291_20260203_184424_198cbe.p
 # [traceloop/openllmetry](https://github.com/traceloop/openllmetry)
 
 Observability for LLM applications via OpenTelemetry
+
+通过 OpenTelemetry 实现 LLM 应用的可观测性

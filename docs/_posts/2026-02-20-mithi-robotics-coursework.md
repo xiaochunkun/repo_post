@@ -7,3 +7,5 @@ image: assets/mithi_robotics_coursework_20260209_195345_384_20260209_195420_1da4
 # [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework)
 
 Curated list of robotics courses and resources
+
+机器人学课程和资源的精选列表

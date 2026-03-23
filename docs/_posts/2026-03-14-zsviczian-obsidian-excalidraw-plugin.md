@@ -7,3 +7,5 @@ image: assets/zsviczian_obsidian_excalidraw_plugin_20260308_192930_599_20260308_
 # [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 
 Integrates sketching tool into Obsidian for visual note-taking
+
+将绘图工具集成到Obsidian中进行视觉笔记

@@ -7,3 +7,5 @@ image: assets/GhostPeony_clip_finder_20260131_222050_846_20260131_222136_bcaca3.
 # [GhostPeony/clip-finder](https://github.com/GhostPeony/clip-finder)
 
 Search YouTube videos by transcript with Gemini embeddings
+
+通过Gemini嵌入按转录搜索YouTube视频

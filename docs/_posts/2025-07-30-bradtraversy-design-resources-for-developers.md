@@ -7,3 +7,5 @@ image: assets/bradtraversy_design-resources-for-developers_cropped.png
 # [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 huge list of design tools and resources for devs
+
+面向开发者的庞大设计工具和资源列表

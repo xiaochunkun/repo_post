@@ -7,3 +7,5 @@ image: assets/codechenx_tv_20260124_055750_350_20260124_055810_0b55a4.png
 # [codechenx/tv](https://github.com/codechenx/tv)
 
 CSV viewer for the terminal with vim-inspired controls
+
+终端CSV查看器，带vim风格控制

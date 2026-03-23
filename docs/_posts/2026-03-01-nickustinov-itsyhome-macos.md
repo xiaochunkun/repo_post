@@ -7,3 +7,5 @@ image: assets/nickustinov_itsyhome_macos_20260223_190130_482_20260223_190222_19f
 # [nickustinov/itsyhome-macos](https://github.com/nickustinov/itsyhome-macos)
 
 HomeKit and Home Assistant control from the macOS menu bar
+
+从 macOS 菜单栏控制 HomeKit 和 Home Assistant

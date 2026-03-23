@@ -7,3 +7,5 @@ image: assets/johannesjo_parallel_code_20260305_033723_357_20260305_033841_f1cf9
 # [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code)
 
 Interface for running AI agents in git worktrees
+
+在git工作树中运行AI代理的界面

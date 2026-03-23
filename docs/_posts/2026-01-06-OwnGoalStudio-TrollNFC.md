@@ -7,3 +7,5 @@ image: assets/OwnGoalStudio_TrollNFC_20260105_054311_826_20260105_054327_03417a.
 # [OwnGoalStudio/TrollNFC](https://github.com/OwnGoalStudio/TrollNFC/)
 
 Reads, writes, and emulates NFC cards on iPhones
+
+在 iPhone 上读取、写入和模拟 NFC 卡

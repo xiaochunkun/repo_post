@@ -7,3 +7,5 @@ image: assets/0xK3vin_MegaMemory_20260322_013944_580_20260322_014037_e02466.png
 # [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory)
 
 Persistent knowledge graph for coding agents
+
+编码代理的持久知识图谱

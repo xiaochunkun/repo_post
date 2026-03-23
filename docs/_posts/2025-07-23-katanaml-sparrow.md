@@ -7,3 +7,5 @@ image: assets/katanaml_sparrow_cropped.png
 # [katanaml/sparrow](https://github.com/katanaml/sparrow)
 
 extracts data from documents using AI
+
+使用AI从文档中提取数据

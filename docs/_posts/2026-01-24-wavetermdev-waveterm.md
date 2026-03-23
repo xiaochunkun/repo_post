@@ -7,3 +7,5 @@ image: assets/wavetermdev_waveterm_20260124_033930_331_20260124_033949_2d6005.pn
 # [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 
 Terminal with file previews and AI assistance
+
+支持文件预览和AI辅助的终端

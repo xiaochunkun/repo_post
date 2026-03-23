@@ -7,3 +7,5 @@ image: assets/thedevs-network_kutt_cropped.png
 # [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
 
 modern URL shortener with custom domains and stats
+
+支持自定义域名和统计的现代URL短链服务

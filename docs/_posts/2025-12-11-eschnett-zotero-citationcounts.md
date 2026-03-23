@@ -7,3 +7,5 @@ image: assets/eschnett_zotero_citationcounts_20251208_012844_886_20251208_012910
 # [eschnett/zotero-citationcounts](https://github.com/eschnett/zotero-citationcounts/)
 
 Auto-fetches citation counts for Zotero items
+
+自动获取Zotero条目的引用次数

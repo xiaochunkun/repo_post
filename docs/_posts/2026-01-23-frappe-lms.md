@@ -7,3 +7,5 @@ image: assets/frappe_lms_20260122_014928_845_20260122_014950_dfcc38.png
 # [frappe/lms](https://github.com/frappe/lms)
 
 Learning management system for course content
+
+课程内容学习管理系统

@@ -7,3 +7,5 @@ image: assets/Nitwel_Immersive_Home_20260117_015417_266_20260117_015431_f978e3.p
 # [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home)
 
 Controls smart home devices through mixed reality headsets
+
+通过混合现实头显控制智能家居设备

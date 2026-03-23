@@ -7,3 +7,5 @@ image: assets/agenticnotetaking_arscontexta_20260223_080603_148_20260223_080652_
 # [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta)
 
 Generates knowledge systems for Claude Code from conversation
+
+从对话生成Claude Code知识系统

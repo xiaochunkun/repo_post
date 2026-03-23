@@ -7,3 +7,5 @@ image: assets/20250915T044843279--Stability-AI--StableSwarmUI--20250915T04522902
 # [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
 
 Modular web UI for Stable Diffusion image generation, focused on performance and easy access to advanced tools
+
+用于 Stable Diffusion 图像生成的模块化 Web UI，专注于性能和易于访问高级工具

@@ -7,3 +7,5 @@ image: assets/hancengiz_claude_code_prompt_coach_skill_20251213_103419_024_20251
 # [hancengiz/claude-code-prompt-coach-skill](https://github.com/hancengiz/claude-code-prompt-coach-skill/)
 
 Analyzes Claude Code session logs for insights
+
+分析Claude Code会话日志以获取洞察

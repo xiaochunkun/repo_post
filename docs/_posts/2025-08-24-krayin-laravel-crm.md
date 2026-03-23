@@ -7,3 +7,5 @@ image: assets/20250823T012451763--krayin--laravel-crm--20250823T013047964--cropp
 # [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
 
 open source CRM for Laravel projects
+
+Laravel 开源 CRM 系统

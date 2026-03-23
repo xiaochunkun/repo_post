@@ -7,3 +7,5 @@ image: assets/rafaelSwi_MenuBarUSB_20260301_012223_283_20260301_012441_55b641.pn
 # [rafaelSwi/MenuBarUSB](https://github.com/rafaelSwi/MenuBarUSB)
 
 Tracks USB connections in the macOS menu bar
+
+在 macOS 菜单栏追踪 USB 连接

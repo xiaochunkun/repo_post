@@ -7,3 +7,5 @@ image: assets/20250830T091925400--FerretDB--FerretDB--20250830T093803850--croppe
 # [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)
 
 open source MongoDB alternative using Postgres
+
+基于 Postgres 的开源 MongoDB 替代方案

@@ -7,3 +7,5 @@ image: assets/linagora_twake_workplace_20251217_230039_208_20251217_230129_f2525
 # [linagora/twake-workplace](https://github.com/linagora/twake-workplace/)
 
 Alternative to Microsoft Teams
+
+Microsoft Teams 的替代品

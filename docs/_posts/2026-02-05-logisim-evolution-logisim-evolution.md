@@ -7,3 +7,5 @@ image: assets/logisim_evolution_logisim_evolution_20260203_020240_692_20260203_0
 # [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
 
 Simulates logic circuits and integrates with hardware
+
+模拟逻辑电路并与硬件集成

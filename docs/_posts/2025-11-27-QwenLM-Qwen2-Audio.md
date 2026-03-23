@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen2_Audio_20251124_235940_820_20251125_224905_55af35--202
 # [QwenLM/Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio/)
 
 Accepts audio inputs for voice chat and analysis
+
+接受音频输入进行语音聊天和分析

@@ -7,3 +7,5 @@ image: assets/martin226_vibe-draw_cropped.png
 # [martin226/vibe-draw](https://github.com/martin226/vibe-draw)
 
 turn sketches into 3D models with AI, real-time collab
+
+AI将草图转为3D模型，支持实时协作

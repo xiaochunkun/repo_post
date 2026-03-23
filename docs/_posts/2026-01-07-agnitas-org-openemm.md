@@ -7,3 +7,5 @@ image: assets/agnitas_org_openemm_20260106_121148_188_20260106_121204_9a68ad.png
 # [agnitas-org/openemm](https://github.com/agnitas-org/openemm/)
 
 Software for email automation and marketing campaigns
+
+用于电子邮件自动化和营销活动的软件

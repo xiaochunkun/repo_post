@@ -7,3 +7,5 @@ image: assets/mrrfv_cloudflare_gateway_pihole_scripts_20251229_151402_814_202512
 # [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts/)
 
 Blocks ads and malware through Cloudflare Gateway
+
+通过Cloudflare Gateway屏蔽广告和恶意软件

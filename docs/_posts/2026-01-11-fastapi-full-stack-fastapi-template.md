@@ -7,3 +7,5 @@ image: assets/fastapi_full_stack_fastapi_template_20260108_022007_214_20260108_0
 # [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
 
 Template for FastAPI, React, and PostgreSQL with Docker
+
+FastAPI、React和PostgreSQL的Docker模板

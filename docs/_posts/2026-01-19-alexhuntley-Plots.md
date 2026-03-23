@@ -7,3 +7,5 @@ image: assets/alexhuntley_Plots_20260113_192555_788_20260113_192611_aa5164.png
 # [alexhuntley/Plots](https://github.com/alexhuntley/Plots)
 
 Graph plotting app for GNOME using OpenGL
+
+使用OpenGL的GNOME图形绘制应用

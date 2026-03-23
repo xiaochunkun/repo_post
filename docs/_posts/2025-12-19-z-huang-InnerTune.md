@@ -7,3 +7,5 @@ image: assets/z_huang_InnerTune_20251218_010302_522_20251218_010319_de8f9d.png
 # [z-huang/InnerTune](https://github.com/z-huang/InnerTune/)
 
 YouTube Music client for Android with background playback and synchronized lyrics
+
+支持后台播放和同步歌词的 Android YouTube Music 客户端

@@ -7,3 +7,5 @@ image: assets/20250831T030103295--TheAlgorithms--Rust--20250831T030721855--cropp
 # [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
 
 algorithms in Rust for learning and reference
+
+Rust 语言算法合集，适合学习和参考

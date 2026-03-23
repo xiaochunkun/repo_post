@@ -7,3 +7,5 @@ image: assets/Permify_permify_20260121_234557_061_20260121_234613_e327a9.png
 # [Permify/permify](https://github.com/Permify/permify)
 
 Authorization service based on Google Zanzibar
+
+基于 Google Zanzibar 的授权服务

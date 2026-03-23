@@ -7,3 +7,5 @@ image: assets/muratcankoylan_ralph_wiggum_marketer_20260210_042225_708_20260210_
 # [muratcankoylan/ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)
 
 Autonomous AI copywriter for SaaS content marketing
+
+SaaS 内容营销的自主 AI 文案撰写器

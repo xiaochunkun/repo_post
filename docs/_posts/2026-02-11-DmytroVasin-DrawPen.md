@@ -7,3 +7,5 @@ image: assets/DmytroVasin_DrawPen_20260204_144937_530_20260204_145008_8f7625.png
 # [DmytroVasin/DrawPen](https://github.com/DmytroVasin/DrawPen)
 
 Annotates screens on macOS, Windows, and Linux
+
+在macOS、Windows和Linux上标注屏幕

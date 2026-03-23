@@ -7,3 +7,5 @@ image: assets/excalith_excalith_start_page_20260204_211015_940_20260204_211032_c
 # [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
 
 Browser start page with terminal interface and command prompt
+
+浏览器起始页，具有终端界面和命令提示符

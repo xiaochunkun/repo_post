@@ -7,3 +7,5 @@ image: assets/ustaxes_UsTaxes_20260306_194312_886_20260306_194426_b328ce.png
 # [ustaxes/UsTaxes](https://github.com/ustaxes/UsTaxes)
 
 File federal tax returns via web or desktop
+
+通过Web或桌面端提交联邦税表

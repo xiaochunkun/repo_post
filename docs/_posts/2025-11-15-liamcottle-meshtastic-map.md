@@ -7,3 +7,5 @@ image: assets/liamcottle_meshtastic_map_20251114_191731_706_20251115_035244_4207
 # [liamcottle/meshtastic-map](https://github.com/liamcottle/meshtastic-map/)
 
 Visualizes a decentralized radio network on a map
+
+在地图上可视化去中心化无线电网络

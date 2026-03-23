@@ -7,3 +7,5 @@ image: assets/DeepMyst_Mysti_20260223_134539_854_20260223_134601_923c00.png
 # [DeepMyst/Mysti](https://github.com/DeepMyst/Mysti)
 
 Orchestrates AI agents for VS Code
+
+为VS Code编排AI智能体

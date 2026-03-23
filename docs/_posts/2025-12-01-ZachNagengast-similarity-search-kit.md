@@ -7,3 +7,5 @@ image: assets/ZachNagengast_similarity_search_kit_20251130_073033_302_20251130_0
 # [ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit/)
 
 On-device text embeddings and semantic search for iOS
+
+iOS设备上的文本嵌入和语义搜索

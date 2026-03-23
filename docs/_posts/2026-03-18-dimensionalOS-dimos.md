@@ -7,3 +7,5 @@ image: assets/dimensionalOS_dimos_20260317_220421_373_20260317_220603_fa7c96.png
 # [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos)
 
 Operating system for robotics
+
+机器人操作系统

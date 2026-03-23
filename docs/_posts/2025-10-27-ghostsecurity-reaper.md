@@ -7,3 +7,5 @@ image: assets/ghostsecurity_reaper_20251025_192655_027_20251025_230315_87b2d8--2
 # [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper/)
 
 Application security testing framework primed for AI
+
+为AI优化的应用安全测试框架

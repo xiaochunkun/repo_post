@@ -7,3 +7,5 @@ image: assets/Owloops_claude_powerline_20260309_104002_868_20260309_104147_8f76b
 # [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline)
 
 Statusline for Claude Code with usage tracking and git integration
+
+用于Claude Code的状态栏，具备使用追踪和git集成

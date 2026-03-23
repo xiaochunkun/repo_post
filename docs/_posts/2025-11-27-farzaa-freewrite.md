@@ -7,3 +7,5 @@ image: assets/farzaa_freewrite_20251125_001313_810_20251126_100247_fcd942--20251
 # [farzaa/freewrite](https://github.com/farzaa/freewrite/)
 
 Mac app for freewriting
+
+Mac 上的自由写作应用

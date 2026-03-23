@@ -7,3 +7,5 @@ image: assets/20250908T094023213--Tencent-Hunyuan--HunyuanWorld-1.0--20250908T09
 # [Tencent-Hunyuan/HunyuanWorld-1.0](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)
 
 Turn your text or images into explorable 3D worlds with HunyuanWorld-1.0
+
+用 HunyuanWorld-1.0 将文本或图像转化为可探索的 3D 世界

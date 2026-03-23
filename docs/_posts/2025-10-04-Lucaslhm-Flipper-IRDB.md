@@ -7,3 +7,5 @@ image: assets/20251003T231951163--Lucaslhm--Flipper-IRDB--20251003T232250296--cr
 # [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 
 IR remote files for Flipper Zero devices
+
+Flipper Zero 设备的红外遥控文件

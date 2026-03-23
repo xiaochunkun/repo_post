@@ -7,3 +7,5 @@ image: assets/autoscrape_labs_pydoll_20260108_022531_563_20260108_022546_db9a42.
 # [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll)
 
 Automates browsers via Chrome DevTools Protocol for bot evasion
+
+通过Chrome DevTools Protocol自动化浏览器以规避机器人检测

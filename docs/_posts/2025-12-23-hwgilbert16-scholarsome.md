@@ -7,3 +7,5 @@ image: assets/hwgilbert16_scholarsome_20251222_154001_110_20251222_154018_ebef2d
 # [hwgilbert16/scholarsome](https://github.com/hwgilbert16/scholarsome/)
 
 Flashcard system for study workflows
+
+用于学习工作流的闪卡系统

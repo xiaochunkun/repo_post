@@ -7,3 +7,5 @@ image: assets/loft-sh_devpod_cropped.png
 # [loft-sh/devpod](https://github.com/loft-sh/devpod)
 
 open-source tool for dev environments like Codespaces, works anywhere
+
+开源工具，用于在任何地方创建类似Codespaces的开发环境

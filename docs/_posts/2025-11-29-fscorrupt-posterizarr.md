@@ -7,3 +7,5 @@ image: assets/fscorrupt_posterizarr_20251126_013224_299_20251129_022052_ab8a3c--
 # [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr/)
 
 Automates creation of textless media posters
+
+自动化创建无文本媒体海报

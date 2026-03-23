@@ -7,3 +7,5 @@ image: assets/ad_on_is_coredock_20251120_064355_720_20251121_024113_71f6e8--2025
 # [ad-on-is/coredock](https://github.com/ad-on-is/coredock/)
 
 Exposes Docker containers as DNS records
+
+将Docker容器暴露为DNS记录

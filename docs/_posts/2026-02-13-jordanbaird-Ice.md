@@ -7,3 +7,5 @@ image: assets/jordanbaird_Ice_20260210_010722_671_20260210_010745_dd783a.png
 # [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
 
 Manages menu bar items on macOS
+
+管理 macOS 上的菜单栏项目

@@ -7,3 +7,5 @@ image: assets/goinfinite_os_cropped.png
 # [goinfinite/os](https://github.com/goinfinite/os)
 
 deploy apps without writing Dockerfiles
+
+无需编写Dockerfile即可部署应用

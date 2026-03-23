@@ -7,3 +7,5 @@ image: assets/antoniosarosi_mkdb_20251125_015128_340_20251126_101346_b41180--202
 # [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb/)
 
 Toy database implemented in Rust
+
+用 Rust 实现的玩具数据库

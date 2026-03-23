@@ -7,3 +7,5 @@ image: assets/20250818T124206038_xlab_c-for-go--20250818T124818815--cropped.png
 # [xlab/c-for-go](https://github.com/xlab/c-for-go)
 
 generate Go bindings for C/C++ libraries
+
+自动为 C/C++ 库生成 Go 语言绑定

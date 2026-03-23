@@ -7,3 +7,5 @@ image: assets/daveearley_screenshot_rocks_20251123_203509_171_20251125_215012_b9
 # [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks/)
 
 Creates mobile and browser mockups from screenshots
+
+从截图创建移动端和浏览器模拟图

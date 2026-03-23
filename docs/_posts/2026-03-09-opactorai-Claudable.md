@@ -7,3 +7,5 @@ image: assets/opactorai_Claudable_20260309_102930_041_20260309_103122_ed444b.png
 # [opactorai/Claudable](https://github.com/opactorai/Claudable)
 
 Generates Next.js apps from natural language using local agents
+
+使用本地代理从自然语言生成Next.js应用

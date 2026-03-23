@@ -7,3 +7,5 @@ image: assets/wagiminator_CH32X033_USB_NRF_20260131_102609_482_20260131_102649_f
 # [wagiminator/CH32X033-USB-NRF](https://github.com/wagiminator/CH32X033-USB-NRF)
 
 USB interface for nRF24L01+ transceivers via CH32X033 RISC-V microcontroller
+
+通过 CH32X033 RISC-V 微控制器为 nRF24L01+ 收发器提供 USB 接口

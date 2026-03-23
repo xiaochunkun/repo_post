@@ -7,3 +7,5 @@ image: assets/clockworkpi_PicoCalc_20260309_104839_498_20260309_105053_0b5a6d.pn
 # [clockworkpi/PicoCalc](https://github.com/clockworkpi/PicoCalc)
 
 Terminal and calculator for Raspberry Pi Pico
+
+Raspberry Pi Pico的终端和计算器

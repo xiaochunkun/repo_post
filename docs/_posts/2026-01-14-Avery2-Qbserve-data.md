@@ -7,3 +7,5 @@ image: assets/Avery2_Qbserve_data_20260113_220729_617_20260113_220744_c85cf5.png
 # [Avery2/Qbserve-data](https://github.com/Avery2/Qbserve-data)
 
 Tracks app usage for productivity analysis
+
+追踪应用使用以分析生产力

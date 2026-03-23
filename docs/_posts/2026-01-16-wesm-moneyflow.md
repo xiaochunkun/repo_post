@@ -7,3 +7,5 @@ image: assets/wesm_moneyflow_20260114_055425_027_20260114_055444_e21ed8.png
 # [wesm/moneyflow](https://github.com/wesm/moneyflow)
 
 Terminal interface for managing transactions via Monarch Money or YNAB
+
+通过 Monarch Money 或 YNAB 管理交易的终端界面

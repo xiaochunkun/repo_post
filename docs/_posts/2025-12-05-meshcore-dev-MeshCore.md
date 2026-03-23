@@ -7,3 +7,5 @@ image: assets/meshcore_dev_MeshCore_20251202_214807_551_20251202_214833_b04512.p
 # [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore/)
 
 C++ library for multi-hop packet routing
+
+用于多跳数据包路由的 C++ 库

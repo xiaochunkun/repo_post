@@ -7,3 +7,5 @@ image: assets/vietnh1009_ASCII_generator_20251123_063008_456_20251124_001810_ced
 # [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator/)
 
 Converts images and videos to ASCII art
+
+将图像和视频转换为 ASCII 艺术

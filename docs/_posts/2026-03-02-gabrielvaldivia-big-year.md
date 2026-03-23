@@ -7,3 +7,5 @@ image: assets/gabrielvaldivia_big_year_20260227_190109_480_20260227_190247_70b71
 # [gabrielvaldivia/big-year](https://github.com/gabrielvaldivia/big-year)
 
 Yearly calendar for Google Calendar events
+
+Google Calendar 事件的年度日历

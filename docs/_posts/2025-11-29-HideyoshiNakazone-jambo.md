@@ -7,3 +7,5 @@ image: assets/HideyoshiNakazone_jambo_20251126_000253_426_20251128_213249_94ab28
 # [HideyoshiNakazone/jambo](https://github.com/HideyoshiNakazone/jambo/)
 
 Converts JSON Schema definitions into Pydantic models
+
+将JSON Schema定义转换为Pydantic模型

@@ -7,3 +7,5 @@ image: assets/roboflow_notebooks_20260203_073047_489_20260203_073115_d57ba2.png
 # [roboflow/notebooks](https://github.com/roboflow/notebooks)
 
 Tutorials for computer vision models
+
+计算机视觉模型教程

@@ -7,3 +7,5 @@ image: assets/freqtrade_freqtrade_cropped.png
 # [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 
 Open-source crypto trading bot in Python
+
+Python 开源加密货币交易机器人

@@ -7,3 +7,5 @@ image: assets/RVC-Project_Retrieval-based-Voice-Conversion-WebUI_cropped.png
 # [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
 Voice-to-voice conversion tool with web interface for training and inference using short audio samples
+
+语音转语音转换工具，具有 Web 界面，使用短音频样本进行训练和推理

@@ -7,3 +7,5 @@ image: assets/bestofjs_bestofjs_20251229_002446_604_20251229_002503_0e9c1a.png
 # [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs/)
 
 Curated list of open source projects for the web platform
+
+Web 平台开源项目的精选列表

@@ -7,3 +7,5 @@ image: assets/hargata_lubelog_cropped.png
 # [hargata/lubelog](https://github.com/hargata/lubelog)
 
 Web app for logging vehicle maintenance and fuel usage
+
+用于记录车辆维护和燃油使用的 Web 应用

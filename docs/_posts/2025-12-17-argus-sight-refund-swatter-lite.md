@@ -7,3 +7,5 @@ image: assets/argus_sight_refund_swatter_lite_20251216_065018_485_20251216_06504
 # [argus-sight/refund-swatter-lite](https://github.com/argus-sight/refund-swatter-lite/)
 
 Prevents App Store refund fraud via Supabase
+
+通过 Supabase 防止 App Store 退款欺诈

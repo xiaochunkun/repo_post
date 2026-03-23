@@ -7,3 +7,5 @@ image: assets/TimothyYe_godns_20251103_232831_809_20251104_182300_6e8227--202511
 # [TimothyYe/godns](https://github.com/TimothyYe/godns/)
 
 Dynamic DNS client with a web UI and many providers
+
+具有Web UI和多提供商支持的动态DNS客户端

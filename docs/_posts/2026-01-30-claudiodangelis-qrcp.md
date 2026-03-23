@@ -7,3 +7,5 @@ image: assets/claudiodangelis_qrcp_20260129_021904_152_20260129_021943_fb26e9.pn
 # [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp)
 
 Transfers files via terminal QR codes
+
+通过终端二维码传输文件

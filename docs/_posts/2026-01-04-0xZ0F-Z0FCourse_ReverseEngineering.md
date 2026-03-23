@@ -7,3 +7,5 @@ image: assets/0xZ0F_Z0FCourse_ReverseEngineering_20260103_051028_874_20260103_05
 # [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering/)
 
 Reverse engineering course for x64 Windows
+
+针对 x64 Windows 的逆向工程课程

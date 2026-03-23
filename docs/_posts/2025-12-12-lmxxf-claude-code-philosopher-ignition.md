@@ -7,3 +7,5 @@ image: assets/lmxxf_claude_code_philosopher_ignition_20251209_034447_785_2025120
 # [lmxxf/claude-code-philosopher-ignition](https://github.com/lmxxf/claude-code-philosopher-ignition/)
 
 Framework for strategic reasoning in Claude Code
+
+Claude Code 战略推理框架

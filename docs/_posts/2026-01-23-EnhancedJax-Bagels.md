@@ -7,3 +7,5 @@ image: assets/EnhancedJax_Bagels_20260122_020933_593_20260122_020956_0fb72c.png
 # [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels)
 
 Expense tracker for the terminal
+
+终端版费用追踪器

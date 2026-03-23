@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen3_ASR_20260131_114036_324_20260131_114112_7f26aa.png
 # [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
 
 Speech recognition and forced alignment for 52 languages
+
+支持52种语言的语音识别和强制对齐

@@ -7,3 +7,5 @@ image: assets/tylerbuilds_x_manager_20260311_032526_421_20260311_032654_cf86b7.p
 # [tylerbuilds/x-manager](https://github.com/tylerbuilds/x-manager)
 
 Schedule posts and manage accounts with AI agents
+
+使用AI代理安排帖子和管理账户

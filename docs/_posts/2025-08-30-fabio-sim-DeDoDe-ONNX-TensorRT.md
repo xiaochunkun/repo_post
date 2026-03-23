@@ -7,3 +7,5 @@ image: assets/20250830T032418187--fabio-sim--DeDoDe-ONNX-TensorRT--20250830T0330
 # [fabio-sim/DeDoDe-ONNX-TensorRT](https://github.com/fabio-sim/DeDoDe-ONNX-TensorRT)
 
 ONNX local feature matching with TensorRT acceleration
+
+ONNX 局部特征匹配，支持 TensorRT 加速

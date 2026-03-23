@@ -7,3 +7,5 @@ image: assets/volfpeter_htmy_20251122_165548_021_20251123_001223_83b88e--2025112
 # [volfpeter/htmy](https://github.com/volfpeter/htmy/)
 
 Async server-side rendering engine in Python
+
+Python中的异步服务器端渲染引擎

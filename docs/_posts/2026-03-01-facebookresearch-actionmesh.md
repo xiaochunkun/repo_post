@@ -7,3 +7,5 @@ image: assets/facebookresearch_actionmesh_20260227_184108_924_20260227_184258_5c
 # [facebookresearch/actionmesh](https://github.com/facebookresearch/actionmesh)
 
 Generates animated 3D meshes from videos
+
+从视频生成动画 3D 网格

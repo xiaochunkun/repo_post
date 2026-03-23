@@ -7,3 +7,5 @@ image: assets/20250927T040352999--nxshell--nxshell--20250927T041517889--cropped.
 # [nxshell/nxshell](https://github.com/nxshell/nxshell)
 
 cross-platform SSH client with tabs, SFTP, VNC, and session management
+
+跨平台SSH客户端，支持标签、SFTP、VNC和会话管理

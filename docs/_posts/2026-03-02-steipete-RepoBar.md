@@ -7,3 +7,5 @@ image: assets/steipete_RepoBar_20260223_064815_876_20260223_064840_e9cebc.png
 # [steipete/RepoBar](https://github.com/steipete/RepoBar)
 
 GitHub dashboard in the macOS menu bar
+
+macOS菜单栏中的GitHub仪表板

@@ -7,3 +7,5 @@ image: assets/revolist_revogrid_20260121_233415_676_20260121_233431_f873d0.png
 # [revolist/revogrid](https://github.com/revolist/revogrid)
 
 Data grid for millions of cells
+
+支持数百万单元格的数据网格

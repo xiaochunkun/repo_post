@@ -7,3 +7,5 @@ image: assets/khromov_nook_20260113_091628_616_20260113_091642_b63131.png
 # [khromov/nook](https://github.com/khromov/nook)
 
 Runs AI models in a browser
+
+在浏览器中运行 AI 模型

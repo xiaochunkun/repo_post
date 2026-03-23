@@ -7,3 +7,5 @@ image: assets/20250822T030357433--pretzelai--pretzelai--20250822T033657546--crop
 # [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai)
 
 AI-powered Jupyter alternative with chat, code completion, and collaboration
+
+AI 增强的 Jupyter 替代品，支持对话、代码补全和协作

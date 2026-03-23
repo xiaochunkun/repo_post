@@ -7,3 +7,5 @@ image: assets/vosen_ZLUDA_cropped.png
 # [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
 
 run CUDA apps on AMD GPUs
+
+在 AMD GPU 上运行 CUDA 应用

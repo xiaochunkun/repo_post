@@ -7,3 +7,5 @@ image: assets/alexkroman_tiny_audio_20260205_051317_512_20260205_051333_96e229.p
 # [alexkroman/tiny-audio](https://github.com/alexkroman/tiny-audio)
 
 Trains speech recognition models for twelve dollars
+
+以十二美元训练语音识别模型

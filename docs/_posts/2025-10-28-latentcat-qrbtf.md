@@ -7,3 +7,5 @@ image: assets/latentcat_qrbtf_20251027_012239_619_20251027_014849_13d87b--202510
 # [latentcat/qrbtf](https://github.com/latentcat/qrbtf/)
 
 AI and parametric QR code generator
+
+AI 和参数化二维码生成器

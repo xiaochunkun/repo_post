@@ -7,3 +7,5 @@ image: assets/xlch88_YouTubeTweak_20251120_053834_776_20251121_011203_0b7203--20
 # [xlch88/YouTubeTweak](https://github.com/xlch88/YouTubeTweak/)
 
 Locks YouTube video quality and hides distractions
+
+锁定 YouTube 视频质量并隐藏干扰

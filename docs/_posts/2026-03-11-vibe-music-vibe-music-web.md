@@ -7,3 +7,5 @@ image: assets/vibe_music_vibe_music_web_20260222_121049_457_20260222_121117_26c3
 # [vibe-music/vibe-music-web](https://github.com/vibe-music/vibe-music-web)
 
 Cloud music player with local control and sync
+
+具有本地控制和同步功能的云音乐播放器

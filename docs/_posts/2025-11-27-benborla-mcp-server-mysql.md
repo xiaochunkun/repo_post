@@ -7,3 +7,5 @@ image: assets/benborla_mcp_server_mysql_20251125_004219_298_20251126_100601_c1de
 # [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql/)
 
 MySQL MCP server with SSH tunnel support
+
+支持 SSH 隧道的 MySQL MCP 服务器

@@ -7,3 +7,5 @@ image: assets/Snouzy_workout-cool_cropped.png
 # [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool)
 
 Modern open source fitness coaching platform
+
+现代开源健身教练平台

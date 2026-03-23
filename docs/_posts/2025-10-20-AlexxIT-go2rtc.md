@@ -7,3 +7,5 @@ image: assets/AlexxIT_go2rtc_20251020_074726_341_20251020_141333--20251020T16133
 # [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc/)
 
 Camera streaming application with multiple protocols
+
+支持多协议的摄像头流媒体应用

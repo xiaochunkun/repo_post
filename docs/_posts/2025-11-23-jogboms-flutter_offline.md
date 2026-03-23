@@ -7,3 +7,5 @@ image: assets/jogboms_flutter_offline_20251122_151154_152_20251123_001058_182b7a
 # [jogboms/flutter_offline](https://github.com/jogboms/flutter_offline/)
 
 Handles offline and online connectivity in Flutter
+
+处理Flutter中的离线与在线连接

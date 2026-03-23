@@ -7,3 +7,5 @@ image: assets/tonyantony300_alt_sendme_20260121_231525_869_20260121_231559_6a9de
 # [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme)
 
 Transfers files through peer-to-peer networking
+
+通过点对点网络传输文件

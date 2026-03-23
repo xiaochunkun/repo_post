@@ -7,3 +7,5 @@ image: assets/maragudk_gomponents_20251127_180549_912_20251130_040851_38ee3f--20
 # [maragudk/gomponents](https://github.com/maragudk/gomponents/)
 
 HTML components in pure Go
+
+纯 Go 的 HTML 组件

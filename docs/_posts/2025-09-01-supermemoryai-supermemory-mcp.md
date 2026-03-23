@@ -7,3 +7,5 @@ image: assets/20250830T175416325--supermemoryai--supermemory-mcp--20250830T18453
 # [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp)
 
 universal memory server for sharing context across all your AI apps
+
+通用记忆服务器，在所有 AI 应用间共享上下文

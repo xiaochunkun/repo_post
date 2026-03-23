@@ -7,3 +7,5 @@ image: assets/opds_community_awesome_opds_20260205_132557_842_20260205_132612_4e
 # [opds-community/awesome-opds](https://github.com/opds-community/awesome-opds)
 
 Resources for the distribution of publications
+
+出版物分发资源

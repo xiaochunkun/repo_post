@@ -7,3 +7,5 @@ image: assets/intel_auto_round_20260317_015508_355_20260317_015645_1d9c53.png
 # [intel/auto-round](https://github.com/intel/auto-round)
 
 Quantizes LLMs and VLMs to 2-4 bits using sign-gradient descent
+
+使用符号梯度下降将 LLM 和 VLM 量化至 2-4 位

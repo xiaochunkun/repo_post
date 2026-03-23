@@ -7,3 +7,5 @@ image: assets/clidey_whodb_cropped.png
 # [clidey/whodb](https://github.com/clidey/whodb)
 
 explore and query multiple databases with AI chat
+
+使用AI聊天探索和查询多个数据库

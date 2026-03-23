@@ -7,3 +7,5 @@ image: assets/gristlabs_grist_core_20260203_001035_973_20260203_001106_202242.pn
 # [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
 
 Relational spreadsheet with database features
+
+具有数据库功能的关系型电子表格

@@ -7,3 +7,5 @@ image: assets/20251005T225745557--UseInterstellar--Interstellar--20251005T230553
 # [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar)
 
 web proxy with tab cloaking, themes, and built-in games
+
+网页代理，支持标签伪装、主题和内置游戏

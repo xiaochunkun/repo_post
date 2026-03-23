@@ -7,3 +7,5 @@ image: assets/bahattinkoc_ipaverse_20260112_055828_733_20260112_055858_797c3a.pn
 # [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse)
 
 Downloads iOS apps to macOS via Apple ID
+
+通过 Apple ID 下载 iOS 应用到 macOS

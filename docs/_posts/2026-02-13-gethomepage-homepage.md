@@ -7,3 +7,5 @@ image: assets/gethomepage_homepage_20260210_021756_820_20260210_021848_a55525.pn
 # [gethomepage/homepage](https://github.com/gethomepage/homepage)
 
 Dashboard with service integrations and docker discovery
+
+带服务集成和 Docker 发现的仪表板

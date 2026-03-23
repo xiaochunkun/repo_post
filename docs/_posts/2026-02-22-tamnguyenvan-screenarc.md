@@ -7,3 +7,5 @@ image: assets/tamnguyenvan_screenarc_20260222_054355_526_20260222_054429_b65b9c.
 # [tamnguyenvan/screenarc](https://github.com/tamnguyenvan/screenarc)
 
 Screen recorder with automatic pan and zoom effects
+
+带自动平移和缩放效果的屏幕录制器

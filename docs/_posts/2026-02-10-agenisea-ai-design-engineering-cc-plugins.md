@@ -7,3 +7,5 @@ image: assets/agenisea_ai_design_engineering_cc_plugins_20260207_190158_315_2026
 # [agenisea/ai-design-engineering-cc-plugins](https://github.com/agenisea/ai-design-engineering-cc-plugins)
 
 Personas for agentic system design in Claude Code
+
+Claude Code 中代理系统设计的角色模板

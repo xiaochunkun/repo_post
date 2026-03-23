@@ -7,3 +7,5 @@ image: assets/glacier_creative_git_knowledge_graph_traversal_semantic_rag_resear
 # [glacier-creative-git/knowledge-graph-traversal-semantic-rag-research](https://github.com/glacier-creative-git/knowledge-graph-traversal-semantic-rag-research/)
 
 Graph traversal algorithms for semantic RAG systems
+
+语义RAG系统的图遍历算法

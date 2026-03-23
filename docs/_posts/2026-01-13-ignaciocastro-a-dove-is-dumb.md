@@ -7,3 +7,5 @@ image: assets/ignaciocastro_a_dove_is_dumb_20260111_160049_803_20260111_160102_5
 # [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb)
 
 Blocks Adobe telemetry checking domains
+
+屏蔽Adobe遥测检查域名

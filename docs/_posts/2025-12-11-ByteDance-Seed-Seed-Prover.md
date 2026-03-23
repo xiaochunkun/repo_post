@@ -7,3 +7,5 @@ image: assets/ByteDance_Seed_Seed_Prover_20251208_233752_570_20251208_233825_ba0
 # [ByteDance-Seed/Seed-Prover](https://github.com/ByteDance-Seed/Seed-Prover/)
 
 System that solved 4 IMO 2025 problems
+
+解决了4道IMO 2025问题的系统

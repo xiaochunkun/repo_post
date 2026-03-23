@@ -7,3 +7,5 @@ image: assets/stong_tldw_cropped.png
 # [stong/tldw](https://github.com/stong/tldw)
 
 Video and audio summarizer and chat tool
+
+视频和音频摘要及聊天工具

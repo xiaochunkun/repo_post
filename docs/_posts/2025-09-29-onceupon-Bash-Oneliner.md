@@ -7,3 +7,5 @@ image: assets/20250929T012248311--onceupon--Bash-Oneliner--20250929T012422827--c
 # [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 
 collection of bash one-liners and terminal tricks
+
+bash单行命令和终端技巧集合

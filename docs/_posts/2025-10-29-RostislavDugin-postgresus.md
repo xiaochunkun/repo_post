@@ -7,3 +7,5 @@ image: assets/RostislavDugin_postgresus_20251029_180456_156_20251029_182019_8d3e
 # [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus/)
 
 PostgreSQL backups with multiple storage destinations
+
+支持多存储目标的 PostgreSQL 备份

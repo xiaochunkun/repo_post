@@ -7,3 +7,5 @@ image: assets/20250912T010342549--neo4j-labs--llm-graph-builder--20250912T010756
 # [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
 
 turns unstructured files and web data into Neo4j knowledge graphs using LLMs
+
+用 LLM 将非结构化文件和网页数据转化为 Neo4j 知识图谱

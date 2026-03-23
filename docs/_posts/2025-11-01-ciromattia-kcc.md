@@ -7,3 +7,5 @@ image: assets/ciromattia_kcc_20251031_044459_778_20251031_205846_fb6d4b--2025103
 # [ciromattia/kcc](https://github.com/ciromattia/kcc/)
 
 Optimizes comics and manga for e-ink readers
+
+为电子墨水阅读器优化漫画和漫画

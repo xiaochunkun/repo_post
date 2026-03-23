@@ -7,3 +7,5 @@ image: assets/rust_mcp_stack_mcp_discovery_20251126_000119_105_20251128_213213_1
 # [rust-mcp-stack/mcp-discovery](https://github.com/rust-mcp-stack/mcp-discovery/)
 
 Rust CLI for discovering and documenting MCP Server capabilities
+
+用于发现和记录 MCP Server 功能的 Rust CLI

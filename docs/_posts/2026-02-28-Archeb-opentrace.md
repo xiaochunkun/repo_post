@@ -7,3 +7,5 @@ image: assets/Archeb_opentrace_20260225_231503_107_20260225_231645_447676.png
 # [Archeb/opentrace](https://github.com/Archeb/opentrace)
 
 Visualizes route tracing on desktop systems
+
+在桌面系统上可视化路由追踪

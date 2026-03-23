@@ -7,3 +7,5 @@ image: assets/zerebos_ghostty_config_20260205_213432_291_20260205_213451_863797.
 # [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)
 
 GUI for terminal configuration
+
+终端配置的 GUI

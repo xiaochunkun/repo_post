@@ -7,3 +7,5 @@ image: assets/eduardolat_kokoro_web_20251125_050915_025_20251127_170547_22ff12--
 # [eduardolat/kokoro-web](https://github.com/eduardolat/kokoro-web/)
 
 Browser-based AI voice generator with WebGPU acceleration
+
+基于浏览器的 AI 语音生成器，支持 WebGPU 加速

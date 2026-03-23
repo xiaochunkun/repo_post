@@ -7,3 +7,5 @@ image: assets/LoganRickert_warpdeck_app_20251123_044942_632_20251123_215125_eec4
 # [LoganRickert/warpdeck.app](https://github.com/LoganRickert/warpdeck.app/)
 
 Dashboard for organizing web links
+
+组织网页链接的仪表板

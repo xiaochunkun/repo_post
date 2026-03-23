@@ -7,3 +7,5 @@ image: assets/typed-rocks_type-buddy_cropped.png
 # [typed-rocks/type-buddy](https://github.com/typed-rocks/type-buddy)
 
 VSCode extension for showing TypeScript types as functions in your code
+
+VSCode扩展，用于在代码中显示TypeScript类型作为函数

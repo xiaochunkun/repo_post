@@ -7,3 +7,5 @@ image: assets/HeroTools_open_whispr_20251023_004326_748_20251025_000210_b6329e--
 # [HeroTools/open-whispr](https://github.com/HeroTools/open-whispr/)
 
 Desktop dictation with local and cloud AI
+
+本地和云端AI桌面听写工具

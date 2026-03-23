@@ -7,3 +7,5 @@ image: assets/sparrowapp_dev_sparrow_app_20260129_010014_469_20260129_010053_997
 # [sparrowapp-dev/sparrow-app](https://github.com/sparrowapp-dev/sparrow-app)
 
 API management tool for testing and development
+
+用于测试和开发的 API 管理工具

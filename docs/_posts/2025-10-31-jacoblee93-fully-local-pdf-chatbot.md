@@ -7,3 +7,5 @@ image: assets/jacoblee93_fully_local_pdf_chatbot_20251031_030742_921_20251031_14
 # [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot/)
 
 Chat with documents locally in a browser
+
+在浏览器中本地与文档聊天

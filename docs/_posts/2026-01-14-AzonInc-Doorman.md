@@ -7,3 +7,5 @@ image: assets/AzonInc_Doorman_20260113_222324_988_20260113_222338_9e2632.png
 # [AzonInc/Doorman](https://github.com/AzonInc/Doorman)
 
 Intercom gateway for home automation platforms
+
+家庭自动化平台的 intercom 网关

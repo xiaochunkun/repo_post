@@ -7,3 +7,5 @@ image: assets/20250923T020649830--jacklandrin--OnlySwitch--20250923T022046228--c
 # [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
 toggle desktop icons, dark mode, and more from your Mac menu bar
+
+从 Mac 菜单栏切换桌面图标、深色模式等

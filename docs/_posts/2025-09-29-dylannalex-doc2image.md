@@ -7,3 +7,5 @@ image: assets/20250929T015920073--dylannalex--doc2image--20250929T020530497--cro
 # [dylannalex/doc2image](https://github.com/dylannalex/doc2image)
 
 turns documents into AI-ready image prompts
+
+将文档转换为AI就绪的图像提示

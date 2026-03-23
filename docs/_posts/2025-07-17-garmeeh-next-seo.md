@@ -7,3 +7,5 @@ image: assets/garmeeh_next-seo_cropped.png
 # [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
 
 next-seo makes adding SEO to Next.js projects simple
+
+next-seo 简化了 Next.js 项目的 SEO 添加

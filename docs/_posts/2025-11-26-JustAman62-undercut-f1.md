@@ -7,3 +7,5 @@ image: assets/JustAman62_undercut_f1_20251123_204559_595_20251125_215902_9a90fc-
 # [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1/)
 
 F1 live timing TUI with variable delay sync
+
+具有可变延迟同步的 F1 实时计时 TUI

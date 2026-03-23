@@ -7,3 +7,5 @@ image: assets/juhovh_tailguard_20251125_024658_754_20251127_163015_38de25--20251
 # [juhovh/tailguard](https://github.com/juhovh/tailguard/)
 
 Connects WireGuard hosts to Tailscale network
+
+将 WireGuard 主机连接到 Tailscale 网络

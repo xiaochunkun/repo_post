@@ -7,3 +7,5 @@ image: assets/VSRemoter_LuxPDF_cropped.png
 # [VSRemoter/LuxPDF](https://github.com/VSRemoter/LuxPDF)
 
 open source tool for PDFs, privacy focus
+
+开源PDF工具，注重隐私

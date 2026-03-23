@@ -7,3 +7,5 @@ image: assets/FactoryBoy_factory_boy_20251207_184935_843_20251207_184957_f34cec.
 # [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy/)
 
 Test fixtures replacement for Python
+
+Python 的测试夹具替代方案

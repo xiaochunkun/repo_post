@@ -7,3 +7,5 @@ image: assets/firecrawl_open_scouts_20260204_165910_707_20260204_165940_d75b46.p
 # [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)
 
 Monitors the web with AI agents
+
+使用AI代理监控网络

@@ -7,3 +7,5 @@ image: assets/20250823T012406533--hengli--camodocal--20250823T013002081--cropped
 # [hengli/camodocal](https://github.com/hengli/camodocal)
 
 C++ library for camera and multi-camera rig calibration
+
+C++ 相机和多相机标定库

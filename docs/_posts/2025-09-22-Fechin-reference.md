@@ -7,3 +7,5 @@ image: assets/20250922T015152134--Fechin--reference--20250922T023046544--cropped
 # [Fechin/reference](https://github.com/Fechin/reference)
 
 developer cheat sheets collection, quick references for coding
+
+开发者速查表集合，提供编码快速参考

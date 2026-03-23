@@ -7,3 +7,5 @@ image: assets/tannerhelland_PhotoDemon_20260304_232639_831_20260304_232819_c6438
 # [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
 
 Photo editor for Windows from a USB drive
+
+从USB驱动器运行的Windows照片编辑器

@@ -7,3 +7,5 @@ image: assets/positive_intentions_chat_20260212_123440_123_20260212_123503_a3c7d
 # [positive-intentions/chat](https://github.com/positive-intentions/chat)
 
 Decentralized chat with encryption in a browser
+
+浏览器中加密的去中心化聊天

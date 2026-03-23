@@ -7,3 +7,5 @@ image: assets/browser_use_desktop_20251126_111722_324_20251129_022543_242898--20
 # [browser-use/desktop](https://github.com/browser-use/desktop/)
 
 Makes websites accessible for AI agents
+
+使网站对AI代理可访问

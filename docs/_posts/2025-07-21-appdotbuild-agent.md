@@ -7,3 +7,5 @@ image: assets/appdotbuild_agent_cropped.png
 # [appdotbuild/agent](https://github.com/appdotbuild/agent)
 
 AI agent that builds working apps from a prompt
+
+根据提示构建可用应用的AI代理

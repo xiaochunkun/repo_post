@@ -7,3 +7,5 @@ image: assets/NVIDIA_NeMo_Nemotron_20260306_183920_411_20260306_184043_0c8a06.pn
 # [NVIDIA-NeMo/Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)
 
 Train and deploy models for agents
+
+为代理训练和部署模型

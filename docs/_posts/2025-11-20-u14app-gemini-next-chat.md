@@ -7,3 +7,5 @@ image: assets/u14app_gemini_next_chat_20251119_110135_818_20251120_003247_10e74d
 # [u14app/gemini-next-chat](https://github.com/u14app/gemini-next-chat/)
 
 Self-hostable chat UI for Gemini models
+
+Gemini模型自托管聊天界面

@@ -7,3 +7,5 @@ image: assets/alibaba_Logics_Parsing_20251107_023055_792_20251107_165931_c4998b-
 # [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing/)
 
 End-to-end document parsing model for complex layouts
+
+复杂布局的端到端文档解析模型

@@ -7,3 +7,5 @@ image: assets/DO3RB_WirelessNetworkTransceiver_20251229_062728_189_20251229_0627
 # [DO3RB/WirelessNetworkTransceiver](https://github.com/DO3RB/WirelessNetworkTransceiver/)
 
 Transmits network packets over radio via USB CDC ECM ethernet adapter
+
+通过 USB CDC ECM 以太网适配器无线传输网络数据包

@@ -7,3 +7,5 @@ image: assets/sunarya_thito_shadcn_flutter_20251031_043818_456_20251031_205733_c
 # [sunarya-thito/shadcn_flutter](https://github.com/sunarya-thito/shadcn_flutter/)
 
 Flutter UI library inspired by shadcn/ui
+
+受 shadcn/ui 启发的 Flutter UI 库

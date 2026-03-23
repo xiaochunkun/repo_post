@@ -7,3 +7,5 @@ image: assets/yoheinakajima_instagraph_20260129_145851_871_20260129_145926_3c169
 # [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph)
 
 Converts text into knowledge graphs
+
+将文本转换为知识图谱

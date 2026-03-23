@@ -7,3 +7,5 @@ image: assets/maykar_kiosk_mode_20260115_134207_114_20260115_134222_28129a.png
 # [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode)
 
 Removes interface elements for Home Assistant dashboards
+
+移除 Home Assistant 仪表板的界面元素

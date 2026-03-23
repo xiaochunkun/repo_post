@@ -7,3 +7,5 @@ image: assets/DigitalRuby_IPBan_20251228_043050_895_20251228_043106_7ce825.png
 # [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan/)
 
 Blocks attackers on Linux and Windows
+
+在 Linux 和 Windows 上阻止攻击者

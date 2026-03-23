@@ -7,3 +7,5 @@ image: assets/arika0093_Linqraft_20251127_212618_910_20251130_083644_4bc620--202
 # [arika0093/Linqraft](https://github.com/arika0093/Linqraft/)
 
 Roslyn source generator for IQueryable projections
+
+IQueryable 投影的 Roslyn 源生成器

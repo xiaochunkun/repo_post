@@ -7,3 +7,5 @@ image: assets/mengps_HuskarUI_20260130_143140_297_20260130_143219_f7028d.png
 # [mengps/HuskarUI](https://github.com/mengps/HuskarUI)
 
 Qt Qml implementation of Ant Design components
+
+Ant Design 组件的 Qt Qml 实现

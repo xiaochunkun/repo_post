@@ -7,3 +7,5 @@ image: assets/20250906T220815000--external-secrets--external-secrets--20250906T2
 # [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)
 
 syncs secrets from external managers to kubernetes
+
+将外部密钥管理器中的密钥同步到 Kubernetes

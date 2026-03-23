@@ -7,3 +7,5 @@ image: assets/Livinglist_Hacki_20260112_004043_115_20260112_004058_50bed7.png
 # [Livinglist/Hacki](https://github.com/Livinglist/Hacki)
 
 Hacker News client with offline reading and cross-device sync
+
+Hacker News客户端，支持离线阅读和跨设备同步

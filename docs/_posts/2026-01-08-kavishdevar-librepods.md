@@ -7,3 +7,5 @@ image: assets/kavishdevar_librepods_20260108_044223_919_20260108_044237_c43efa.p
 # [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
 
 Unlocks AirPods features on Android and Linux
+
+在Android和Linux上解锁AirPods功能

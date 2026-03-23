@@ -7,3 +7,5 @@ image: assets/dropseed_plain_20251027_181330_376_20251028_090156_dde7f8--2025102
 # [dropseed/plain](https://github.com/dropseed/plain/)
 
 Python web framework with starter kits and a preflight check system
+
+带启动套件和预检系统的 Python Web 框架

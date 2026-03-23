@@ -7,3 +7,5 @@ image: assets/20250903T011242058--wazuh--wazuh--20250903T012049953--cropped.png
 # [wazuh/wazuh](https://github.com/wazuh/wazuh)
 
 Wazuh is an open source platform for monitoring, detecting, and responding to security threats across your systems and cloud environments
+
+Wazuh 是一个开源安全平台，用于监控、检测和响应系统及云环境中的安全威胁

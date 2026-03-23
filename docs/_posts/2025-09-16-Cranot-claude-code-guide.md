@@ -7,3 +7,5 @@ image: assets/20250915T225837284--Cranot--claude-code-guide--20250915T230741542-
 # [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide)
 
 Guide for Claude Code with quick commands, shortcuts, workflows, and advanced integration tips for smarter development
+
+Claude Code 指南，包含快速命令、快捷键、工作流和高级集成技巧，用于更智能的开发

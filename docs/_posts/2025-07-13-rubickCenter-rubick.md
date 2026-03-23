@@ -7,3 +7,5 @@ image: assets/rubickCenter_rubick_cropped.png
 # [rubickCenter/rubick](https://github.com/rubickCenter/rubick)
 
 Electron toolbox for plugins
+
+Electron插件工具箱

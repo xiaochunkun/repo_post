@@ -7,3 +7,5 @@ image: assets/20250903T235430810--openai--gpt-oss--20250904T000049117--cropped.p
 # [openai/gpt-oss](https://github.com/openai/gpt-oss)
 
 open-weight GPT models for reasoning and agent tasks
+
+用于推理和智能体任务的开放权重 GPT 模型

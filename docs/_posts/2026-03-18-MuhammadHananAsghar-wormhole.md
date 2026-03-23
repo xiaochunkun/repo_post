@@ -7,3 +7,5 @@ image: assets/MuhammadHananAsghar_wormhole_20260315_020928_328_20260315_021038_2
 # [MuhammadHananAsghar/wormhole](https://github.com/MuhammadHananAsghar/wormhole)
 
 Ngrok alternative for localhost tunneling
+
+用于本地主机隧道的Ngrok替代方案

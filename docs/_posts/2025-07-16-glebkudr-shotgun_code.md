@@ -7,3 +7,5 @@ image: assets/glebkudr_shotgun_code_cropped.png
 # [glebkudr/shotgun_code](https://github.com/glebkudr/shotgun_code)
 
 one-click project folder dump for AI code tools
+
+一键项目文件夹转储，用于AI代码工具

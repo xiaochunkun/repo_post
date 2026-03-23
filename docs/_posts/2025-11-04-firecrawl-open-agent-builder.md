@@ -7,3 +7,5 @@ image: assets/firecrawl_open_agent_builder_20251102_224414_556_20251103_211955_3
 # [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder/)
 
 Visual workflow builder for AI agent pipelines
+
+AI智能体流水线可视化工作流构建器

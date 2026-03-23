@@ -7,3 +7,5 @@ image: assets/rotemweiss57_gpt_newspaper_20251208_003839_488_20251208_003911_6f1
 # [rotemweiss57/gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper/)
 
 Autonomous agents curate personalized newspapers
+
+自主Agent策划个性化报纸

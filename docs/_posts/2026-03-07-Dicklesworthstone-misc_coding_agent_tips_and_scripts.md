@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_misc_coding_agent_tips_and_scripts_20260305_0421
 # [Dicklesworthstone/misc_coding_agent_tips_and_scripts](https://github.com/Dicklesworthstone/misc_coding_agent_tips_and_scripts)
 
 Scripts and guides for AI agents and terminal customization
+
+AI代理和终端自定义的脚本与指南

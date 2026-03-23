@@ -7,3 +7,5 @@ image: assets/huggingface_transformers_cropped.png
 # [huggingface/transformers](https://github.com/huggingface/transformers)
 
 transformers library for working with machine learning models
+
+用于处理机器学习模型的 transformers 库

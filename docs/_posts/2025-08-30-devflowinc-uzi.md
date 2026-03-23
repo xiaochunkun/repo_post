@@ -7,3 +7,5 @@ image: assets/20250830T041012771--devflowinc--uzi--20250830T041634484--cropped.p
 # [devflowinc/uzi](https://github.com/devflowinc/uzi)
 
 run multiple AI coding agents in parallel from the command line
+
+命令行中并行运行多个 AI 编码智能体

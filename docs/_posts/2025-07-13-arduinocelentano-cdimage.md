@@ -7,3 +7,5 @@ image: assets/arduinocelentano_cdimage_cropped.png
 # [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage)
 
 tool for burning pictures onto a compact disc surface
+
+将图片刻录到CD表面的工具

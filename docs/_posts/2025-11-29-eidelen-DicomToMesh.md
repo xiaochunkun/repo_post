@@ -7,3 +7,5 @@ image: assets/eidelen_DicomToMesh_20251126_004024_051_20251128_214353_ece02f--20
 # [eidelen/DicomToMesh](https://github.com/eidelen/DicomToMesh/)
 
 Converts 2D DICOM images into 3D meshes
+
+将2D DICOM图像转换为3D网格

@@ -7,3 +7,5 @@ image: assets/intruder_io_autoswagger_20260209_101125_990_20260209_101341_e312f9
 # [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
 
 Tests API endpoints for PII leaks and secret exposures
+
+测试 API 端点是否存在 PII 泄露和秘密暴露

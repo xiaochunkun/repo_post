@@ -7,3 +7,5 @@ image: assets/microsoft_AI_For_Beginners_20260203_001419_877_20260203_001454_ecf
 # [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 
 Curriculum for artificial intelligence with lessons and labs
+
+包含课程和实验的人工智能课程

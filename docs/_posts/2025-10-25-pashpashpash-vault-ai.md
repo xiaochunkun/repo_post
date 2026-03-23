@@ -7,3 +7,5 @@ image: assets/pashpashpash_vault_ai_20251025_032748_304_20251025_040334_041112--
 # [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai/)
 
 Ask questions about custom documents using OpenAI and Pinecone
+
+使用OpenAI和Pinecone对自定义文档提问

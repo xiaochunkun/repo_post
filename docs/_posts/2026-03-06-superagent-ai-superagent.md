@@ -7,3 +7,5 @@ image: assets/superagent_ai_superagent_20260306_183103_778_20260306_183226_d2b10
 # [superagent-ai/superagent](https://github.com/superagent-ai/superagent)
 
 Secure AI agents via guardrails
+
+通过护栏保护 AI 智能体

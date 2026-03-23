@@ -7,3 +7,5 @@ image: assets/ancorasir_as_DeepClaw_20260113_200841_541_20260113_200855_82f52a.p
 # [ancorasir/as_DeepClaw](https://github.com/ancorasir/as_DeepClaw)
 
 Robot platform for autonomous pick-and-place with deep learning
+
+用于自主拾放的深度学习机器人平台

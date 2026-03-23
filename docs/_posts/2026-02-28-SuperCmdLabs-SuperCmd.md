@@ -7,3 +7,5 @@ image: assets/SuperCmdLabs_SuperCmd_20260225_123445_880_20260225_123616_e750ca.p
 # [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd)
 
 Launcher for macOS with Raycast extensions and voice workflows
+
+带有Raycast扩展和语音工作流的macOS启动器

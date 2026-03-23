@@ -7,3 +7,5 @@ image: assets/DeepPythonist_EmotionTracker_20251222_132744_153_20251222_132804_2
 # [DeepPythonist/EmotionTracker](https://github.com/DeepPythonist/EmotionTracker/)
 
 Detects facial emotions via webcam and stores analytics locally
+
+通过摄像头检测面部情绪并本地存储分析数据

@@ -7,3 +7,5 @@ image: assets/20250922T031947931--radiac--nanodjango--20250922T032533139--croppe
 # [radiac/nanodjango](https://github.com/radiac/nanodjango)
 
 Django apps in a single file, with built-in models, admin, and API support
+
+单文件 Django 应用，内置模型、管理界面和 API 支持

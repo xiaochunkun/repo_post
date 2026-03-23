@@ -7,3 +7,5 @@ image: assets/nari_labs_dia2_20251227_192714_191_20251227_192731_555994.png
 # [nari-labs/dia2](https://github.com/nari-labs/dia2/)
 
 Streaming dialogue TTS model for conversations in realtime
+
+用于实时对话的流式对话 TTS 模型

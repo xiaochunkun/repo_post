@@ -7,3 +7,5 @@ image: assets/covertsh_ubuntu_autoinstall_generator_20251217_212007_165_20251217
 # [covertsh/ubuntu-autoinstall-generator](https://github.com/covertsh/ubuntu-autoinstall-generator/)
 
 Generates ISOs for automated Ubuntu installations
+
+生成用于自动化 Ubuntu 安装的 ISO 文件

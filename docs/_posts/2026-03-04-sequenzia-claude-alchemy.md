@@ -7,3 +7,5 @@ image: assets/sequenzia_claude_alchemy_20260201_060001_402_20260201_060037_648e6
 # [sequenzia/claude-alchemy](https://github.com/sequenzia/claude-alchemy)
 
 Kanban board and plugins for Claude Code tasks
+
+用于Claude Code任务的看板和插件

@@ -7,3 +7,5 @@ image: assets/influxdata_telegraf_20260321_152428_580_20260321_152454_f46495.png
 # [influxdata/telegraf](https://github.com/influxdata/telegraf)
 
 Agent collecting and writing metrics logs
+
+收集和写入指标日志的代理

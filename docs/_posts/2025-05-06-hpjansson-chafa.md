@@ -7,3 +7,5 @@ image: assets/hpjansson_chafa_cropped.png
 # [hpjansson/chafa](https://github.com/hpjansson/chafa)
 
 convert images to terminal character art
+
+将图像转换为终端字符艺术

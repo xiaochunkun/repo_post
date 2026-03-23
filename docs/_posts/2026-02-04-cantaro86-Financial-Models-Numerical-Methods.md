@@ -7,3 +7,5 @@ image: assets/cantaro86_Financial_Models_Numerical_Methods_20260203_004020_624_2
 # [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods)
 
 Python notebooks for quantitative finance algorithms
+
+量化金融算法的 Python 笔记本

@@ -7,3 +7,5 @@ image: assets/bcicen_ctop_20251018_064723_584_20251019_204555--20251019T22455663
 # [bcicen/ctop](https://github.com/bcicen/ctop/)
 
 Top-like interface for real-time container metrics
+
+类似 top 的实时容器指标界面

@@ -7,3 +7,5 @@ image: assets/exodus_tola_mindCoder_gissy_20251031_092550_275_20251102_205812_f0
 # [exodus-tola-mindCoder/gissy](https://github.com/exodus-tola-mindCoder/gissy/)
 
 A CLI assistant for Git workflows with multiple AI providers
+
+支持多AI提供商的Git工作流CLI助手

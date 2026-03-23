@@ -7,3 +7,5 @@ image: assets/BlueBubblesApp_bluebubbles_app_20251120_071521_029_20251121_061653
 # [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app/)
 
 Brings iMessage to Android, Windows, and Linux
+
+将iMessage带到Android、Windows和Linux

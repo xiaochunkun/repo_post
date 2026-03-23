@@ -7,3 +7,5 @@ image: assets/resend_resend_cli_20260316_011817_676_20260316_011906_0d9995.png
 # [resend/resend-cli](https://github.com/resend/resend-cli)
 
 Command line tool for sending emails
+
+发送电子邮件的命令行工具

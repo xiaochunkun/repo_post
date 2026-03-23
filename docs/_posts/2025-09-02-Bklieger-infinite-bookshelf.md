@@ -7,3 +7,5 @@ image: assets/20250831T020827892--Bklieger--infinite-bookshelf--20250831T0255458
 # [Bklieger/infinite-bookshelf](https://github.com/Bklieger/infinite-bookshelf)
 
 generate full books from a prompt using llama3 and groq
+
+一个提示词用 Llama3 和 Groq 生成完整书籍

@@ -7,3 +7,5 @@ image: assets/abhiTronix_vidgear_20251218_040148_951_20251218_040209_3995b5.png
 # [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear/)
 
 Video processing framework for real-time media applications
+
+用于实时媒体应用的视频处理框架

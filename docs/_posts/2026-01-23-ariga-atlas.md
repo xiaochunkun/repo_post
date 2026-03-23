@@ -7,3 +7,5 @@ image: assets/ariga_atlas_20260122_004851_854_20260122_004908_494dea.png
 # [ariga/atlas](https://github.com/ariga/atlas)
 
 Manages database schemas as code
+
+将数据库模式作为代码管理

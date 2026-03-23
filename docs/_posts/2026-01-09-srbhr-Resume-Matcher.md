@@ -7,3 +7,5 @@ image: assets/srbhr_Resume_Matcher_20260108_020945_008_20260108_021002_a1bdc7.pn
 # [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 
 Tailors resumes for job descriptions using local or remote LLMs
+
+使用本地或远程LLM根据职位描述定制简历

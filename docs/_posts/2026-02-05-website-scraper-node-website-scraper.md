@@ -7,3 +7,5 @@ image: assets/website_scraper_node_website_scraper_20260203_021608_083_20260203_
 # [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper)
 
 Saves websites with assets to local directories
+
+将网站及资源保存到本地目录

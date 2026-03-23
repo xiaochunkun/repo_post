@@ -7,3 +7,5 @@ image: assets/tidwall_pogocache_cropped.png
 # [tidwall/pogocache](https://github.com/tidwall/pogocache)
 
 a fast, simple key-value cache
+
+一个快速、简单的键值缓存

@@ -7,3 +7,5 @@ image: assets/RezaSi_go-interview-practice_cropped.png
 # [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice)
 
 Go coding challenges for interview prep
+
+用于面试准备的Go编码挑战

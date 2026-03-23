@@ -7,3 +7,5 @@ image: assets/avechuch0_telegram_bigbang_20260111_234601_676_20260111_234615_bf7
 # [avechuch0/telegram-bigbang](https://github.com/avechuch0/telegram-bigbang)
 
 Deletes data from phishing bots on Telegram
+
+删除Telegram钓鱼机器人的数据

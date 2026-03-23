@@ -7,3 +7,5 @@ image: assets/meshtastic_python_20251123_203743_526_20251125_215330_e193e2--2025
 # [meshtastic/python](https://github.com/meshtastic/python/)
 
 Python library for communicating with mesh radio devices
+
+用于与 mesh 无线电设备通信的 Python 库

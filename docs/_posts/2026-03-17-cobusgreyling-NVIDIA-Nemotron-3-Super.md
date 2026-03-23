@@ -7,3 +7,5 @@ image: assets/cobusgreyling_NVIDIA_Nemotron_3_Super_20260316_055357_702_20260316
 # [cobusgreyling/NVIDIA-Nemotron-3-Super](https://github.com/cobusgreyling/NVIDIA-Nemotron-3-Super)
 
 Controllable reasoning model with 12B active parameters
+
+具有120亿活跃参数的可控推理模型

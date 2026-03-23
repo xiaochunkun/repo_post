@@ -7,3 +7,5 @@ image: assets/ravikiranvm_aws_finops_dashboard_20251217_112557_417_20251217_1126
 # [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard/)
 
 Terminal-based AWS cost and resource dashboard
+
+基于终端的 AWS 成本和资源仪表板

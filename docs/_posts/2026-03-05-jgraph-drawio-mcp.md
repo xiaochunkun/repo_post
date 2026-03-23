@@ -7,3 +7,5 @@ image: assets/jgraph_drawio_mcp_20260304_222313_053_20260304_222454_ea75cf.png
 # [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
 
 Server for creation of diagrams by LLMs
+
+LLM 创建图表的服务器

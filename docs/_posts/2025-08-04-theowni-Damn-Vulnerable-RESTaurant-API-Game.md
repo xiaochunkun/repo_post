@@ -7,3 +7,5 @@ image: assets/theowni_Damn-Vulnerable-RESTaurant-API-Game_cropped.png
 # [theowni/Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game)
 
 practice API hacking with vulnerable restaurant game
+
+通过漏洞餐厅游戏练习API黑客技术

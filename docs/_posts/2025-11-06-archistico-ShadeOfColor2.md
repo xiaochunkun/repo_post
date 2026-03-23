@@ -7,3 +7,5 @@ image: assets/archistico_ShadeOfColor2_20251106_040937_704_20251106_133744_a7ad1
 # [archistico/ShadeOfColor2](https://github.com/archistico/ShadeOfColor2/)
 
 Hides any file inside a PNG image
+
+将任何文件隐藏在 PNG 图像中

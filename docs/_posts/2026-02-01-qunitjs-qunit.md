@@ -7,3 +7,5 @@ image: assets/qunitjs_qunit_20260130_052623_673_20260130_052705_4cb49c.png
 # [qunitjs/qunit](https://github.com/qunitjs/qunit)
 
 Testing framework for JavaScript code
+
+JavaScript 代码的测试框架

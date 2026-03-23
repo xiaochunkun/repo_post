@@ -7,3 +7,5 @@ image: assets/20250825T020122396--Safe3--openresty-manager--20250825T020800191--
 # [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager)
 
 open source panel for managing OpenResty servers and apps
+
+OpenResty 服务器和应用管理的开源面板

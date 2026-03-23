@@ -7,3 +7,5 @@ image: assets/getomnico_omni_20260206_233735_475_20260206_233756_d1eb87.png
 # [getomnico/omni](https://github.com/getomnico/omni)
 
 Search engine for workplace applications
+
+工作场所应用的搜索引擎

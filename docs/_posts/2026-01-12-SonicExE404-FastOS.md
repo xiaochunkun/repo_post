@@ -7,3 +7,5 @@ image: assets/SonicExE404_FastOS_20260112_061845_200_20260112_061903_338ba1.png
 # [SonicExE404/FastOS](https://github.com/SonicExE404/FastOS)
 
 Operating system with a shell and chatbot
+
+带shell和聊天机器人的操作系统

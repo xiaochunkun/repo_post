@@ -7,3 +7,5 @@ image: assets/dharam_gfx_nookchat_20260205_115914_031_20260205_115936_83d746.png
 # [dharam-gfx/nookchat](https://github.com/dharam-gfx/nookchat)
 
 Encrypted chat without accounts or traces
+
+无需账户或痕迹的加密聊天

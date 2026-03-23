@@ -7,3 +7,5 @@ image: assets/GhostNaN_mpvpaper_20251106_181729_981_20251106_211835_865d8c--2025
 # [GhostNaN/mpvpaper](https://github.com/GhostNaN/mpvpaper/)
 
 Wallpaper program that plays videos with mpv
+
+使用mpv播放视频的壁纸程序

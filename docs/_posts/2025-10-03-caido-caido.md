@@ -7,3 +7,5 @@ image: assets/20251001T210110734--caido--caido--20251001T211252925--cropped.png
 # [caido/caido](https://github.com/caido/caido)
 
 web app security auditing toolkit for testing and intercepting requests
+
+Web应用安全审计工具包，用于测试和拦截请求

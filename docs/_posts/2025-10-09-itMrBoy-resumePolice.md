@@ -7,3 +7,5 @@ image: assets/20251009T050518462--itMrBoy--resumePolice--20251009T051405228--cro
 # [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice)
 
 resume review tool with job matching analysis
+
+具备职位匹配分析的简历审查工具

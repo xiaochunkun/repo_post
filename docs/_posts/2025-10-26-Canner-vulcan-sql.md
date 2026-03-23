@@ -7,3 +7,5 @@ image: assets/Canner_vulcan_sql_20251025_052905_141_20251025_101856_f72f79--2025
 # [Canner/vulcan-sql](https://github.com/Canner/vulcan-sql/)
 
 Turns SQL into RESTful APIs for AI agents
+
+将SQL转换为AI代理的RESTful API

@@ -7,3 +7,5 @@ image: assets/maxvfischer_DIY_CNC_machine_20260212_061826_882_20260212_061928_33
 # [maxvfischer/DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine)
 
 Builds CNC machine from scratch
+
+从零开始构建 CNC 机器

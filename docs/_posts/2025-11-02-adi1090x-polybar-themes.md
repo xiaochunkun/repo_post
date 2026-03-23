@@ -7,3 +7,5 @@ image: assets/adi1090x_polybar_themes_20251031_081253_490_20251101_210954_c0446e
 # [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes/)
 
 Collection of themes for the Polybar status bar
+
+Polybar 状态栏主题集合

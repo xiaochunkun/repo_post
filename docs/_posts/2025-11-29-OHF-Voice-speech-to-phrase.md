@@ -7,3 +7,5 @@ image: assets/OHF_Voice_speech_to_phrase_20251126_104616_273_20251129_022326_1e4
 # [OHF-Voice/speech-to-phrase](https://github.com/OHF-Voice/speech-to-phrase/)
 
 Local speech-to-text personalized with Home Assistant entities
+
+本地语音转文本，使用Home Assistant实体个性化

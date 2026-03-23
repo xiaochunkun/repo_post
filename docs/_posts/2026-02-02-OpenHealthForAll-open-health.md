@@ -7,3 +7,5 @@ image: assets/OpenHealthForAll_open_health_20260202_193256_588_20260202_193349_b
 # [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health)
 
 AI health assistant powered by user data
+
+基于用户数据的AI健康助手

@@ -7,3 +7,5 @@ image: assets/cloudreve_cloudreve_20260121_235423_679_20260121_235448_d113b2.png
 # [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)
 
 File management system with multi-cloud support
+
+支持多云的文件管理系统

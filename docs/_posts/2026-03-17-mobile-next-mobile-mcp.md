@@ -7,3 +7,5 @@ image: assets/mobile_next_mobile_mcp_20260316_035456_792_20260316_035540_fba41f.
 # [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 
 MCP server for mobile automation and development
+
+移动自动化和开发的 MCP 服务器

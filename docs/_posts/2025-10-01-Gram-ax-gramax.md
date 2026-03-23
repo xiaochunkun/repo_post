@@ -7,3 +7,5 @@ image: assets/20251001T131729987--Gram-ax--gramax--20251001T132234232--cropped.p
 # [Gram-ax/gramax](https://github.com/Gram-ax/gramax)
 
 Markdown docs app with visual editor, Git integration, and local storage
+
+带有可视化编辑器、Git集成和本地存储的Markdown文档应用

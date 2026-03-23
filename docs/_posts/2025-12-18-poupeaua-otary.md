@@ -7,3 +7,5 @@ image: assets/poupeaua_otary_20251217_151932_282_20251217_152002_a77269.png
 # [poupeaua/otary](https://github.com/poupeaua/otary/)
 
 Image and 2D geometry manipulation library
+
+图像和 2D 几何操作库

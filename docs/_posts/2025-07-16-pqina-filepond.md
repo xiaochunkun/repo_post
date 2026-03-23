@@ -7,3 +7,5 @@ image: assets/pqina_filepond_cropped.png
 # [pqina/filepond](https://github.com/pqina/filepond)
 
 drag and drop file uploads with image optimization
+
+支持图像优化的拖放文件上传工具

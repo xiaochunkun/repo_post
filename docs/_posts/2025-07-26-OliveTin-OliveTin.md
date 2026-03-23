@@ -7,3 +7,5 @@ image: assets/OliveTin_OliveTin_cropped.png
 # [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin)
 
 web app for running shell commands with buttons
+
+通过按钮运行Shell命令的Web应用

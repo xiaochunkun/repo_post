@@ -7,3 +7,5 @@ image: assets/freqtrade_ftui_20251210_011032_501_20251210_013627_2d9e9e.png
 # [freqtrade/ftui](https://github.com/freqtrade/ftui/)
 
 Text-based interface for Freqtrade bot
+
+Freqtrade 机器人的文本界面

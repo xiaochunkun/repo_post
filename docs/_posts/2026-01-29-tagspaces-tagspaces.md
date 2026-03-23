@@ -7,3 +7,5 @@ image: assets/tagspaces_tagspaces_20260129_094539_089_20260129_094626_88aec1.png
 # [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces)
 
 Organizes local files with tags offline
+
+离线使用标签组织本地文件

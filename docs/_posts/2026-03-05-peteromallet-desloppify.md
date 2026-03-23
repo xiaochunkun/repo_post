@@ -7,3 +7,5 @@ image: assets/peteromallet_desloppify_20260304_221137_746_20260304_221323_78527f
 # [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
 
 Harness for AI agents to improve codebases
+
+AI代理改进代码库的工具

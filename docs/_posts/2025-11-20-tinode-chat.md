@@ -7,3 +7,5 @@ image: assets/tinode_chat_20251118_111000_634_20251119_212541_fbb0ca--20251120T0
 # [tinode/chat](https://github.com/tinode/chat/)
 
 Instant messaging server to replace XMPP
+
+替代XMPP的即时通讯服务器

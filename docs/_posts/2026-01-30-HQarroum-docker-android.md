@@ -7,3 +7,5 @@ image: assets/HQarroum_docker_android_20260129_173437_026_20260129_173515_a21bd1
 # [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
 
 Android emulator in a Docker container
+
+Docker容器中的Android模拟器

@@ -7,3 +7,5 @@ image: assets/coelacant1_ProxmoxScripts_20260222_083330_866_20260222_083354_9822
 # [coelacant1/ProxmoxScripts](https://github.com/coelacant1/ProxmoxScripts)
 
 Automation scripts for Proxmox VE management
+
+Proxmox VE管理的自动化脚本

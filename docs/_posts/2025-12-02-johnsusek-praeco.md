@@ -7,3 +7,5 @@ image: assets/johnsusek_praeco_20251201_024818_797_20251201_024842_d25c45.png
 # [johnsusek/praeco](https://github.com/johnsusek/praeco/)
 
 Alerting tool for Elasticsearch and GUI for ElastAlert 2
+
+Elasticsearch 告警工具和 ElastAlert 2 的图形界面

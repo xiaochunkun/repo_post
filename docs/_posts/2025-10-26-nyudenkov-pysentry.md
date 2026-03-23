@@ -7,3 +7,5 @@ image: assets/nyudenkov_pysentry_20251025_053649_696_20251025_102140_78398c--202
 # [nyudenkov/pysentry](https://github.com/nyudenkov/pysentry/)
 
 Security vulnerability scanner for Python projects, written in Rust
+
+用Rust编写的Python项目安全漏洞扫描器

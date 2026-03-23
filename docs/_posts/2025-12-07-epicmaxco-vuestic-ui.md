@@ -7,3 +7,5 @@ image: assets/epicmaxco_vuestic_ui_20251205_010136_189_20251205_010211_565062.pn
 # [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui/)
 
 Vue 3 component library with accessibility support
+
+支持无障碍访问的Vue 3组件库

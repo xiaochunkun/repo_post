@@ -7,3 +7,5 @@ image: assets/shadps4-emu_shadPS4_cropped.png
 # [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 
 PS4 emulator for Windows, Linux and macOS
+
+适用于Windows、Linux和macOS的PS4模拟器

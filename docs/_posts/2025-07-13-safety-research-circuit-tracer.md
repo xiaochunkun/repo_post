@@ -7,3 +7,5 @@ image: assets/safety-research_circuit-tracer_cropped.png
 # [safety-research/circuit-tracer](https://github.com/safety-research/circuit-tracer)
 
 tool for visualizing and tracing circuits in neural networks
+
+神经网络电路可视化与追踪工具

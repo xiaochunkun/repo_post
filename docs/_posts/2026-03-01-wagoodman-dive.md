@@ -7,3 +7,5 @@ image: assets/wagoodman_dive_20260226_074219_742_20260226_074414_2715c4.png
 # [wagoodman/dive](https://github.com/wagoodman/dive)
 
 Explores Docker image layers to find wasted space
+
+探索 Docker 镜像层以查找浪费空间

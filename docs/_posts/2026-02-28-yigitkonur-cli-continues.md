@@ -7,3 +7,5 @@ image: assets/yigitkonur_cli_continues_20260225_122124_147_20260225_122305_761ce
 # [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues)
 
 Transfers coding sessions between AI tools
+
+在AI工具间传输编码会话

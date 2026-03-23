@@ -7,3 +7,5 @@ image: assets/AgriciDaniel_claude_seo_20260212_172653_287_20260212_172851_d85b21
 # [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
 
 SEO analysis skill for Claude Code
+
+Claude Code 的 SEO 分析技能

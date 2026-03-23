@@ -7,3 +7,5 @@ image: assets/antoniorodr_cronboard_20251108_222141_141_20251108_235957_b0daca--
 # [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard/)
 
 Terminal application to manage and schedule cronjobs
+
+管理和调度cronjob的终端应用

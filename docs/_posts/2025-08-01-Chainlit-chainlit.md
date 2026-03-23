@@ -7,3 +7,5 @@ image: assets/Chainlit_chainlit_cropped.png
 # [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
 
 builds Python chat UIs for LLM apps with custom logic
+
+为LLM应用构建Python聊天界面，支持自定义逻辑

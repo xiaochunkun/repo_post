@@ -7,3 +7,5 @@ image: assets/ibelick_prompt-kit--20250816T053814275--cropped.png
 # [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit)
 
 components for building AI chat apps
+
+用于构建AI聊天应用的组件

@@ -7,3 +7,5 @@ image: assets/Billionmail_BillionMail_20260202_224855_471_20260202_224916_fcece1
 # [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail)
 
 Self-hosted mail server and marketing platform
+
+自托管邮件服务器和营销平台

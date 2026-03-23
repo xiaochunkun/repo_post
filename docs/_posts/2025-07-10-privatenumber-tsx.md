@@ -7,3 +7,5 @@ image: assets/privatenumber_tsx_cropped.png
 # [privatenumber/tsx](https://github.com/privatenumber/tsx)
 
 run TypeScript files in Node.js with tsx
+
+在Node.js中使用tsx运行TypeScript文件

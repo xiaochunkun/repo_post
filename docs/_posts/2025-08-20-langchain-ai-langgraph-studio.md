@@ -7,3 +7,5 @@ image: assets/20250818T123413417_langchain-ai_langgraph-studio--20250818T1239203
 # [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio)
 
 Agent IDE for visualizing, testing, and debugging LangGraph workflows
+
+用于可视化、测试和调试 LangGraph 工作流的代理 IDE

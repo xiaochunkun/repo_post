@@ -7,3 +7,5 @@ image: assets/20250927T040631756--Goodnight77--Just-RAG--20250927T041712524--cro
 # [Goodnight77/Just-RAG](https://github.com/Goodnight77/Just-RAG)
 
 RAG tutorials and examples using Qdrant, LangChain, OpenAI, and more
+
+使用 Qdrant、LangChain、OpenAI 等的 RAG 教程和示例

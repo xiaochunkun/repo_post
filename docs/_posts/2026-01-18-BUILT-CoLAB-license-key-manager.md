@@ -7,3 +7,5 @@ image: assets/BUILT_CoLAB_license_key_manager_20260116_125024_590_20260116_12511
 # [BUILT-CoLAB/license-key-manager](https://github.com/BUILT-CoLAB/license-key-manager)
 
 Manages software distribution and license keys via a web interface
+
+通过Web界面管理软件分发和许可证密钥

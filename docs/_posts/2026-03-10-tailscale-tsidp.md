@@ -7,3 +7,5 @@ image: assets/tailscale_tsidp_20260309_104757_953_20260309_104941_34ecc8.png
 # [tailscale/tsidp](https://github.com/tailscale/tsidp)
 
 OIDC identity provider for Tailscale networks
+
+用于Tailscale网络的OIDC身份提供商

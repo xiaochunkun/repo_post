@@ -7,3 +7,5 @@ image: assets/gnmyt_LicenseAPI_20260205_081321_623_20260205_081336_d24af7.png
 # [gnmyt/LicenseAPI](https://github.com/gnmyt/LicenseAPI)
 
 Self-hosted licensing system with REST API
+
+具有 REST API 的自托管许可系统

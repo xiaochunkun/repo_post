@@ -7,3 +7,5 @@ image: assets/deltachat_deltachat_desktop_20260202_230851_704_20260202_230949_a8
 # [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop)
 
 Messenger using email for transport
+
+使用电子邮件传输的 Messenger

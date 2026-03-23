@@ -7,3 +7,5 @@ image: assets/IDEA_Research_DINO_X_API_20251210_021732_633_20251210_021821_9de4c
 # [IDEA-Research/DINO-X-API](https://github.com/IDEA-Research/DINO-X-API/)
 
 Unified vision model for open-world object detection
+
+用于开放世界物体检测的统一视觉模型

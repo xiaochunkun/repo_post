@@ -7,3 +7,5 @@ image: assets/dena_sohrabi_There_20260116_130023_665_20260116_130037_e78057.png
 # [dena-sohrabi/There](https://github.com/dena-sohrabi/There)
 
 Menubar app tracks time zones for people and cities
+
+菜单栏应用跟踪人员和城市的时区

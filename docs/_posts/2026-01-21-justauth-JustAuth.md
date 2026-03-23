@@ -7,3 +7,5 @@ image: assets/justauth_JustAuth_20260120_043132_289_20260120_043150_358fed.png
 # [justauth/JustAuth](https://github.com/justauth/JustAuth)
 
 Aggregates third-party logins into a single SDK
+
+将第三方登录聚合到单个 SDK

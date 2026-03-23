@@ -7,3 +7,5 @@ image: assets/ierror_synaps_cad_20260308_194501_167_20260308_194703_b15916.png
 # [ierror/synaps-cad](https://github.com/ierror/synaps-cad)
 
 CAD editor with AI assistant for 3D modeling via natural language
+
+通过自然语言进行3D建模的AI辅助CAD编辑器

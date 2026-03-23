@@ -7,3 +7,5 @@ image: assets/MemMachine_MemMachine_20260211_024200_267_20260211_024216_7ed8da.p
 # [MemMachine/MemMachine](https://github.com/MemMachine/MemMachine)
 
 Memory layer for AI agents
+
+AI代理的记忆层

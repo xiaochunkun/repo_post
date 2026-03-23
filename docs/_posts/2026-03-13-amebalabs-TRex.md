@@ -7,3 +7,5 @@ image: assets/amebalabs_TRex_20260212_182529_431_20260212_182622_3ac304.png
 # [amebalabs/TRex](https://github.com/amebalabs/TRex)
 
 Extracts text from the screen to the clipboard
+
+从屏幕提取文本到剪贴板

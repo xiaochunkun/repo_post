@@ -7,3 +7,5 @@ image: assets/akivacp_chatgpt_and_deepseek_json_tree_viewer_20260112_135353_486_
 # [akivacp/chatgpt-and-deepseek-json-tree-viewer](https://github.com/akivacp/chatgpt-and-deepseek-json-tree-viewer)
 
 Visualizes AI conversation exports as branching trees
+
+将AI对话导出可视化为分支树

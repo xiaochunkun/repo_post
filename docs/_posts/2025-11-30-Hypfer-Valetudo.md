@@ -7,3 +7,5 @@ image: assets/Hypfer_Valetudo_20251127_194236_215_20251130_082648_702b2a--202511
 # [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo/)
 
 Vacuum robot operation without cloud connectivity
+
+无需云连接的扫地机器人操作

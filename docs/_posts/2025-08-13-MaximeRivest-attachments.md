@@ -7,3 +7,5 @@ image: assets/20250810T053945--MaximeRivest--attachments--20250812T233018--cropp
 # [MaximeRivest/attachments](https://github.com/MaximeRivest/attachments)
 
 python funnel for files into LLM-ready text and images
+
+将文件转换为 LLM 就绪文本和图像的 Python 漏斗工具

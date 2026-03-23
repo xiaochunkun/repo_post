@@ -7,3 +7,5 @@ image: assets/gollum_gollum_cropped.png
 # [gollum/gollum](https://github.com/gollum/gollum)
 
 git-powered wiki for your docs
+
+基于 git 的 wiki，用于文档

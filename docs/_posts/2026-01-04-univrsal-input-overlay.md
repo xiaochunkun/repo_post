@@ -7,3 +7,5 @@ image: assets/univrsal_input_overlay_20260103_042517_532_20260103_042533_ab74da.
 # [univrsal/input-overlay](https://github.com/univrsal/input-overlay/)
 
 Displays keyboard, mouse, and gamepad inputs on stream
+
+在直播中显示键盘、鼠标和游戏手柄输入

@@ -7,3 +7,5 @@ image: assets/xintaofei_codeg_20260316_064818_140_20260316_064838_7e0807.png
 # [xintaofei/codeg](https://github.com/xintaofei/codeg)
 
 Multi-agent coding workspace unifying local AI agents
+
+多代理编码工作空间，统一本地AI代理

@@ -7,3 +7,5 @@ image: assets/20250905T024847412--firecrawl--firecrawl--20250905T025200963--crop
 # [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 
 API for scraping and extracting website data for AI apps
+
+面向 AI 应用的网站数据抓取和提取 API

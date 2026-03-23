@@ -7,3 +7,5 @@ image: assets/20250826T024632437--aminalaee--sqladmin--20250826T025259745--cropp
 # [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin)
 
 Admin dashboard for SQLAlchemy models in FastAPI or Starlette
+
+FastAPI 或 Starlette 中 SQLAlchemy 模型的管理后台

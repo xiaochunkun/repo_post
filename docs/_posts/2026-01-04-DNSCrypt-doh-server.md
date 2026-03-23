@@ -7,3 +7,5 @@ image: assets/DNSCrypt_doh_server_20260103_101719_739_20260103_101736_49eee6.png
 # [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server/)
 
 Proxy for DNS-over-HTTPS and Oblivious DoH
+
+DNS-over-HTTPS和Oblivious DoH代理

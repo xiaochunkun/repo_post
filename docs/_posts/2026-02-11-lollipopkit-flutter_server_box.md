@@ -7,3 +7,5 @@ image: assets/lollipopkit_flutter_server_box_20260203_004409_119_20260203_004430
 # [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box)
 
 Server status and toolbox for Linux, Unix, and Windows
+
+适用于 Linux、Unix 和 Windows 的服务器状态与工具箱

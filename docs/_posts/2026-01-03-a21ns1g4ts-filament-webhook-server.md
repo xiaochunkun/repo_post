@@ -7,3 +7,5 @@ image: assets/a21ns1g4ts_filament_webhook_server_20260102_061955_929_20260102_06
 # [a21ns1g4ts/filament-webhook-server](https://github.com/a21ns1g4ts/filament-webhook-server/)
 
 Sends webhooks from Filament applications
+
+从Filament应用发送webhook

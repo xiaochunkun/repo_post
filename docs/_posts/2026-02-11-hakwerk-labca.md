@@ -7,3 +7,5 @@ image: assets/hakwerk_labca_20260204_121501_386_20260204_121519_913086.png
 # [hakwerk/labca](https://github.com/hakwerk/labca)
 
 Private certificate authority for internal networks
+
+内部网络的私有证书颁发机构

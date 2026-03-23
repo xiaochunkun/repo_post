@@ -7,3 +7,5 @@ image: assets/NoFxAiOS_nofx_20260222_045416_002_20260222_045458_84f288.png
 # [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
 
 Infrastructure for AI financial trading
+
+AI金融交易基础设施

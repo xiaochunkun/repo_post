@@ -7,3 +7,5 @@ image: assets/Runchuan_BU_BioClaw_20260309_201032_503_20260309_201212_2bac08.png
 # [Runchuan-BU/BioClaw](https://github.com/Runchuan-BU/BioClaw)
 
 Bioinformatics research assistant on WhatsApp
+
+WhatsApp上的生物信息学研究助手

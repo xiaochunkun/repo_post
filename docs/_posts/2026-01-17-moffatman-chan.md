@@ -7,3 +7,5 @@ image: assets/moffatman_chan_20260117_031402_124_20260117_031416_353784.png
 # [moffatman/chan](https://github.com/moffatman/chan)
 
 Imageboard browser for iOS and Android
+
+适用于iOS和Android的图像板浏览器

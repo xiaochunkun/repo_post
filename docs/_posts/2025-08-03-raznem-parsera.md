@@ -7,3 +7,5 @@ image: assets/raznem_parsera_cropped.png
 # [raznem/parsera](https://github.com/raznem/parsera)
 
 lightweight Python tool for website scraping with LLMs
+
+使用LLM进行网站抓取的轻量级Python工具

@@ -7,3 +7,5 @@ image: assets/20250917T011008685--semgrep--semgrep--20250917T011715859--cropped.
 # [semgrep/semgrep](https://github.com/semgrep/semgrep)
 
 static code analysis for finding bugs and enforcing code standards across 30+ languages
+
+用于在 30 多种语言中查找错误和执行代码标准的静态代码分析工具

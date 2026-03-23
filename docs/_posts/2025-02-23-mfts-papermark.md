@@ -7,3 +7,5 @@ image: assets/mfts_papermark_cropped.png
 # [mfts/papermark](https://github.com/mfts/papermark)
 
 Open-source document sharing platform with analytics
+
+带有分析功能的开源文档共享平台

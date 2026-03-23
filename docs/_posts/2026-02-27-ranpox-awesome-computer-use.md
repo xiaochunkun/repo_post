@@ -7,3 +7,5 @@ image: assets/ranpox_awesome_computer_use_20260227_123216_456_20260227_123409_6b
 # [ranpox/awesome-computer-use](https://github.com/ranpox/awesome-computer-use)
 
 Resources for agents using computers
+
+计算机使用代理的资源

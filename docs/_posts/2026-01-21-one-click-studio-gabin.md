@@ -7,3 +7,5 @@ image: assets/one_click_studio_gabin_20260120_224622_853_20260120_224700_ce13b3.
 # [one-click-studio/gabin](https://github.com/one-click-studio/gabin)
 
 Automates camera switching with OBS and audio APIs
+
+使用 OBS 和音频 API 自动化相机切换

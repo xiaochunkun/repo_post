@@ -7,3 +7,5 @@ image: assets/DataflareApp_Dataflare_20260124_074852_098_20260124_074910_a907d7.
 # [DataflareApp/Dataflare](https://github.com/DataflareApp/Dataflare)
 
 Database manager with SQL editor and AI assistant
+
+带SQL编辑器和AI助手的数据库管理器

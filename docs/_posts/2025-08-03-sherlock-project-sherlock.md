@@ -7,3 +7,5 @@ image: assets/sherlock-project_sherlock_cropped.png
 # [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
 find social media accounts by username
+
+通过用户名查找社交媒体账户

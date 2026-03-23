@@ -7,3 +7,5 @@ image: assets/googleanalytics_google-analytics-mcp--20250815T022321866--cropped.
 # [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp)
 
 chat with your Google Analytics data using LLMs
+
+使用 LLM 与您的 Google Analytics 数据聊天

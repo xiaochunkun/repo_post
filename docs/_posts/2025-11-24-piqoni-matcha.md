@@ -7,3 +7,5 @@ image: assets/piqoni_matcha_20251123_150039_989_20251124_003505_d09e30--20251124
 # [piqoni/matcha](https://github.com/piqoni/matcha/)
 
 RSS digest generator for markdown viewers and terminal
+
+用于 Markdown 查看器和终端的 RSS 摘要生成器

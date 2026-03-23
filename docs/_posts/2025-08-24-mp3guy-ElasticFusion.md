@@ -7,3 +7,5 @@ image: assets/20250823T012920588--mp3guy--ElasticFusion--20250823T013321562--cro
 # [mp3guy/ElasticFusion](https://github.com/mp3guy/ElasticFusion)
 
 ElasticFusion lets you build real-time 3D maps of indoor spaces using an RGB-D camera, perfect for capturing detailed room layouts as you move around
+
+使用 RGB-D 相机实时构建室内 3D 地图

@@ -7,3 +7,5 @@ image: assets/grananqvist_Awesome_Quant_Machine_Learning_Trading_20260120_095316
 # [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
 
 Resources for machine learning in trading
+
+交易中机器学习的资源

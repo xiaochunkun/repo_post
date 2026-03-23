@@ -7,3 +7,5 @@ image: assets/20250927T044822192--cloudpanel-io--cloudpanel-ce--20250927T0458076
 # [cloudpanel-io/cloudpanel-ce](https://github.com/cloudpanel-io/cloudpanel-ce)
 
 manage PHP, Node.js, static sites, and more with a simple server control panel
+
+通过简单的服务器控制面板管理PHP、Node.js、静态网站等

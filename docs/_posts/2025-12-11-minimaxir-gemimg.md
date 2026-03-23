@@ -7,3 +7,5 @@ image: assets/minimaxir_gemimg_20251208_013023_447_20251208_013045_5a2f67.png
 # [minimaxir/gemimg](https://github.com/minimaxir/gemimg/)
 
 Wrapper for generating images with Gemini API
+
+用于通过Gemini API生成图像的包装器

@@ -7,3 +7,5 @@ image: assets/mariocandela_beelzebub_cropped.png
 # [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
 
 honeypot framework using AI and LLMs to trap attackers
+
+使用AI和LLM诱捕攻击者的蜜罐框架

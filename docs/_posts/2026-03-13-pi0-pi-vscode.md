@@ -7,3 +7,5 @@ image: assets/pi0_pi_vscode_20260309_115848_002_20260309_120057_3addb0.png
 # [pi0/pi-vscode](https://github.com/pi0/pi-vscode)
 
 VS Code extension for coding agent
+
+用于编码代理的VS Code扩展

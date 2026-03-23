@@ -7,3 +7,5 @@ image: assets/20250917T003712777--remix-run--remix--20250918T030935239--cropped.
 # [remix-run/remix](https://github.com/remix-run/remix)
 
 modular web framework focused on model-first development and web standards
+
+专注于模型优先开发和Web标准的模块化Web框架

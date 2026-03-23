@@ -7,3 +7,5 @@ image: assets/JuergenFleiss_aTrain_20260215_163928_958_20260215_164020_9fd34f.pn
 # [JuergenFleiss/aTrain](https://github.com/JuergenFleiss/aTrain)
 
 Transcribes speech recordings with speaker detection offline
+
+离线转录带说话人检测的语音录音

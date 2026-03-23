@@ -7,3 +7,5 @@ image: assets/ngocjohn_vehicle_status_card_20260205_045335_128_20260205_045357_a
 # [ngocjohn/vehicle-status-card](https://github.com/ngocjohn/vehicle-status-card)
 
 Home Assistant card for vehicle status and location tracking
+
+用于车辆状态和位置追踪的Home Assistant卡片

@@ -7,3 +7,5 @@ image: assets/nodenv_nodenv_20251115_213423_288_20251117_040235_cb449b--20251117
 # [nodenv/nodenv](https://github.com/nodenv/nodenv/)
 
 Manages Node.js versions on a per-project basis
+
+按项目管理Node.js版本

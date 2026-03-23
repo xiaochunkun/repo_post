@@ -7,3 +7,5 @@ image: assets/anonaddy_anonaddy_20251118_044049_209_20251118_050058_1a3b76--2025
 # [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy/)
 
 Source code for self-hosted anonymous email forwarding
+
+自托管匿名邮件转发的源代码

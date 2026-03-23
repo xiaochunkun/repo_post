@@ -7,3 +7,5 @@ image: assets/marin_m_SongRec_20251213_030801_703_20251213_030919_029fc4.png
 # [marin-m/SongRec](https://github.com/marin-m/SongRec/)
 
 Open-source Shazam client for Linux written in Rust
+
+Rust 编写的开源 Linux Shazam 客户端

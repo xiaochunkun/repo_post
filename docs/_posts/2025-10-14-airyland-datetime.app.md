@@ -7,3 +7,5 @@ image: assets/20251013T002012723--airyland--datetime.app--20251013T002637979--cr
 # [airyland/datetime.app](https://github.com/airyland/datetime.app)
 
 time viewing and conversion tool for working across time zones
+
+跨时区工作的时间查看和转换工具

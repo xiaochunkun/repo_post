@@ -7,3 +7,5 @@ image: assets/getomni-ai_zerox_cropped.png
 # [getomni-ai/zerox](https://github.com/getomni-ai/zerox)
 
 OCR & document extraction using vision models
+
+使用视觉模型进行OCR和文档提取

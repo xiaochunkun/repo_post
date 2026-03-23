@@ -7,3 +7,5 @@ image: assets/20250911T020353147--showlab--ShowUI--20250911T021900324--cropped.p
 # [showlab/ShowUI](https://github.com/showlab/ShowUI)
 
 vision-language-action model for automating GUI tasks
+
+用于自动化 GUI 操作的视觉-语言-动作模型

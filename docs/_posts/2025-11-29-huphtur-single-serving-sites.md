@@ -7,3 +7,5 @@ image: assets/huphtur_single_serving_sites_20251126_104116_853_20251129_022253_7
 # [huphtur/single-serving-sites](https://github.com/huphtur/single-serving-sites/)
 
 List of single-page websites with dedicated domains
+
+具有专用域名的单页网站列表

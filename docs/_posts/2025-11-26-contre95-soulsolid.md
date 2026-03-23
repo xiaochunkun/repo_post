@@ -7,3 +7,5 @@ image: assets/contre95_soulsolid_20251123_202557_288_20251125_170744_87380b--202
 # [contre95/soulsolid](https://github.com/contre95/soulsolid/)
 
 Self-hosted music organizer for hoarders
+
+为囤积者设计的自托管音乐管理器

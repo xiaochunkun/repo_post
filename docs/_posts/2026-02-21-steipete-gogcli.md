@@ -7,3 +7,5 @@ image: assets/steipete_gogcli_20260220_150453_129_20260220_150512_237902.png
 # [steipete/gogcli](https://github.com/steipete/gogcli)
 
 CLI for Google Workspace with JSON output
+
+具有JSON输出的Google Workspace CLI

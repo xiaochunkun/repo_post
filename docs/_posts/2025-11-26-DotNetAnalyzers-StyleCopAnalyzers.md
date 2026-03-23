@@ -7,3 +7,5 @@ image: assets/DotNetAnalyzers_StyleCopAnalyzers_20251123_204247_899_20251125_215
 # [DotNetAnalyzers/StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers/)
 
 Implementation of StyleCop rules using Roslyn
+
+使用 Roslyn 实现 StyleCop 规则

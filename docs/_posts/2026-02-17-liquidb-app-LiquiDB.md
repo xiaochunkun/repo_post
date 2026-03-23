@@ -7,3 +7,5 @@ image: assets/liquidb_app_LiquiDB_20260121_230133_947_20260121_230207_d26987.png
 # [liquidb-app/LiquiDB](https://github.com/liquidb-app/LiquiDB)
 
 Manages database instances on macOS
+
+在macOS上管理数据库实例

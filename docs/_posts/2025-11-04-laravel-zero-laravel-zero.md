@@ -7,3 +7,5 @@ image: assets/laravel_zero_laravel_zero_20251031_162217_139_20251102_220058_9459
 # [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero/)
 
 Micro-framework for console applications
+
+控制台应用微框架

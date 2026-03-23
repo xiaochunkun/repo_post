@@ -7,3 +7,5 @@ image: assets/ALucek_agentic_memory_20260213_202657_410_20260213_202758_f8dff5.p
 # [ALucek/agentic-memory](https://github.com/ALucek/agentic-memory)
 
 Implements cognitive architecture and memory systems for agents
+
+为代理实现认知架构和记忆系统

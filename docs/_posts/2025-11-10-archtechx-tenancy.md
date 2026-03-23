@@ -7,3 +7,5 @@ image: assets/archtechx_tenancy_20251110_011610_593_20251110_014408_36e493--2025
 # [archtechx/tenancy](https://github.com/archtechx/tenancy/)
 
 Multi-tenancy for Laravel without code changes
+
+无需代码更改的Laravel多租户支持

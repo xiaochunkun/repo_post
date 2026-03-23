@@ -7,3 +7,5 @@ image: assets/golf_mcp_golf_20260318_000933_588_20260318_001021_a247e8.png
 # [golf-mcp/golf](https://github.com/golf-mcp/golf)
 
 MCP servers with enterprise auth and telemetry
+
+MCP服务器，支持企业认证和遥测

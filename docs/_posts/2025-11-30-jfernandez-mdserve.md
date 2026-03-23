@@ -7,3 +7,5 @@ image: assets/jfernandez_mdserve_20251127_201531_144_20251130_083018_e56503--202
 # [jfernandez/mdserve](https://github.com/jfernandez/mdserve/)
 
 Markdown preview server with live reload
+
+支持实时重载的 Markdown 预览服务器

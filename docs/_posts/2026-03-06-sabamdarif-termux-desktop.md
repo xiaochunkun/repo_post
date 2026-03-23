@@ -7,3 +7,5 @@ image: assets/sabamdarif_termux_desktop_20260306_013355_300_20260306_013513_1ec9
 # [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop)
 
 Install Linux desktop environments on Android
+
+在 Android 上安装 Linux 桌面环境

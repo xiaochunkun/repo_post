@@ -7,3 +7,5 @@ image: assets/20250829T041439004--jinghaihan--vscode-crosside-sync--20250829T042
 # [jinghaihan/vscode-crosside-sync](https://github.com/jinghaihan/vscode-crosside-sync)
 
 sync VS Code settings and extensions across forks like Cursor
+
+在 Cursor 等 VS Code 分支间同步设置和扩展

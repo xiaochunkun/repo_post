@@ -7,3 +7,5 @@ image: assets/FireRedTeam_FireRedVAD_20260304_084942_797_20260304_085119_49a63d.
 # [FireRedTeam/FireRedVAD](https://github.com/FireRedTeam/FireRedVAD)
 
 Voice activity and audio event detection for 100+ languages
+
+支持 100 多种语言的语音活动和音频事件检测

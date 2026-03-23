@@ -7,3 +7,5 @@ image: assets/robinebers_openusage_20260225_223501_091_20260225_223653_1944f4.pn
 # [robinebers/openusage](https://github.com/robinebers/openusage)
 
 Tracks AI usage from the menu bar
+
+从菜单栏追踪AI使用情况

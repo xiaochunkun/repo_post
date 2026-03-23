@@ -7,3 +7,5 @@ image: assets/ringsaturn_tzf_20251125_040220_391_20251127_165032_d32439--2025112
 # [ringsaturn/tzf](https://github.com/ringsaturn/tzf/)
 
 Finds timezones via coordinates in Go
+
+通过坐标查找时区的Go库

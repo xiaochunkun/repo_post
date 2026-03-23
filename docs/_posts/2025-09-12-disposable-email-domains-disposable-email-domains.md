@@ -7,3 +7,5 @@ image: assets/20250911T165847985--disposable-email-domains--disposable-email-dom
 # [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)
 
 A maintained list of disposable email domains to help block temporary or throw-away email signups
+
+持续维护的一次性邮箱域名列表，用于拦截临时邮箱注册

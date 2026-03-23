@@ -7,3 +7,5 @@ image: assets/20251001T135202742--asr-pub--index-tts-lora--20251001T135915686--c
 # [asr-pub/index-tts-lora](https://github.com/asr-pub/index-tts-lora)
 
 LoRA fine-tuning for single and multi-speaker TTS, with prosody and naturalness focus
+
+用于单人和多人语音TTS的LoRA微调，专注于韵律和自然度

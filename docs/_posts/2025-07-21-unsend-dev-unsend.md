@@ -7,3 +7,5 @@ image: assets/unsend-dev_unsend_cropped.png
 # [unsend-dev/unsend](https://github.com/unsend-dev/unsend)
 
 open source email sending platform with dashboard and API
+
+开源邮件发送平台，带仪表板和API

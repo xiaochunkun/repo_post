@@ -7,3 +7,5 @@ image: assets/20250825T025016434--Ahmet-Dedeler--ai-llm-comparison--20250825T030
 # [Ahmet-Dedeler/ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison)
 
 compare AI models and prices from all major providers
+
+比较各大 AI 模型的性能和价格

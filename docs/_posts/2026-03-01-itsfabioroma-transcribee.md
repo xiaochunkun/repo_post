@@ -7,3 +7,5 @@ image: assets/itsfabioroma_transcribee_20260208_080430_692_20260208_080453_f0f51
 # [itsfabioroma/transcribee](https://github.com/itsfabioroma/transcribee)
 
 Organizes video transcripts into knowledge bases
+
+将视频转录整理为知识库

@@ -7,3 +7,5 @@ image: assets/ConduitPlatform_Conduit_20251201_022619_856_20251201_022643_334775
 # [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit/)
 
 Self-hosted backend-as-a-service with ready-made modules
+
+自托管后端即服务，带有预制模块

@@ -7,3 +7,5 @@ image: assets/A2Wolverin3_tinypilot_20260101_203119_509_20260101_203137_e4d353.p
 # [A2Wolverin3/tinypilot](https://github.com/A2Wolverin3/tinypilot/)
 
 Raspberry Pi as KVM over IP via browser
+
+通过浏览器将Raspberry Pi作为IP KVM

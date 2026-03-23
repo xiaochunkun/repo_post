@@ -7,3 +7,5 @@ image: assets/pascalorg_editor_20260321_113704_634_20260321_113743_7ef6e5.png
 # [pascalorg/editor](https://github.com/pascalorg/editor)
 
 3D building editor with React Three Fiber and WebGPU
+
+使用React Three Fiber和WebGPU的3D建筑编辑器

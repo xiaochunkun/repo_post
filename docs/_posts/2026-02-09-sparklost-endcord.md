@@ -7,3 +7,5 @@ image: assets/sparklost_endcord_20260205_102424_026_20260205_102452_3420f1.png
 # [sparklost/endcord](https://github.com/sparklost/endcord)
 
 Discord client for the terminal
+
+终端版 Discord 客户端

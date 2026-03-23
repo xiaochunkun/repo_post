@@ -7,3 +7,5 @@ image: assets/AgentX_ai_yahoo_finance_server_20260114_041127_043_20260114_041213
 # [AgentX-ai/yahoo-finance-server](https://github.com/AgentX-ai/yahoo-finance-server)
 
 Connects AI to Yahoo Finance
+
+连接 AI 到 Yahoo Finance

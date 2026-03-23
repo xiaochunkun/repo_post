@@ -7,3 +7,5 @@ image: assets/gabrielchua_open-notebooklm_cropped.png
 # [gabrielchua/open-notebooklm](https://github.com/gabrielchua/open-notebooklm)
 
 turns any PDF into a podcast episode
+
+将任何 PDF 转换为播客剧集

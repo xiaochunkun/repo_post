@@ -7,3 +7,5 @@ image: assets/flusterIO_fluster_20251207_170941_473_20251207_171025_cf2262.png
 # [flusterIO/fluster](https://github.com/flusterIO/fluster/)
 
 Rust-powered academic note-taking with interactive plotting
+
+支持交互式绘图的 Rust 驱动学术笔记工具

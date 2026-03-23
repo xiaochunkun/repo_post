@@ -7,3 +7,5 @@ image: assets/jackyzha0_quartz_20260316_212715_884_20260316_212811_597372.png
 # [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
 
 Publish notes as website
+
+将笔记发布为网站

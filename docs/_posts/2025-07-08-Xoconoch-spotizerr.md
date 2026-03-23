@@ -7,3 +7,5 @@ image: assets/Xoconoch_spotizerr_cropped.png
 # [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr)
 
 Spotify music downloader with lossless audio
+
+支持无损音频的 Spotify 音乐下载器

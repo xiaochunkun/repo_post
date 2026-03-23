@@ -7,3 +7,5 @@ image: assets/Casecommons_pg_search_20251126_101859_182_20251129_022130_a05b3d--
 # [Casecommons/pg_search](https://github.com/Casecommons/pg_search/)
 
 Builds ActiveRecord named scopes for PostgreSQL full text search
+
+为PostgreSQL全文搜索构建ActiveRecord命名作用域

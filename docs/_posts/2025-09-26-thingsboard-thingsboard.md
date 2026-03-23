@@ -7,3 +7,5 @@ image: assets/20250926T001719044--thingsboard--thingsboard--20250926T004114062--
 # [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
 
 IoT platform for device management, data collection, and dashboards
+
+用于设备管理、数据收集和仪表板的 IoT 平台

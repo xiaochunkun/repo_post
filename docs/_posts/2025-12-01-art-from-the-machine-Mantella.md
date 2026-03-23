@@ -7,3 +7,5 @@ image: assets/art_from_the_machine_Mantella_20251127_213631_491_20251130_083749_
 # [art-from-the-machine/Mantella](https://github.com/art-from-the-machine/Mantella/)
 
 Conversational AI mod for Skyrim and Fallout 4
+
+《上古卷轴5：天际》和《辐射4》的对话 AI 模组

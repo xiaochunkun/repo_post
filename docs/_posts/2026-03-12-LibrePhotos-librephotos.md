@@ -7,3 +7,5 @@ image: assets/LibrePhotos_librephotos_20260305_063622_661_20260305_063745_91643f
 # [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)
 
 Service for photo management with face recognition and object detection
+
+带人脸识别和物体检测的照片管理服务

@@ -7,3 +7,5 @@ image: assets/todoesverso_logss_20251205_012504_403_20251205_012526_126fa4.png
 # [todoesverso/logss](https://github.com/todoesverso/logss/)
 
 Command line tool for visualizing input text streams
+
+用于可视化输入文本流的命令行工具

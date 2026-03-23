@@ -7,3 +7,5 @@ image: assets/drmingler_docling-api_cropped.png
 # [drmingler/docling-api](https://github.com/drmingler/docling-api)
 
 API for converting documents like pdf, docx, pptx, and images to Markdown
+
+将 PDF、DOCX、PPTX 和图像等文档转换为 Markdown 的 API

@@ -7,3 +7,5 @@ image: assets/openai_openai-agents-python_cropped.png
 # [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
 
 OpenAI Agents SDK for building Python multi-agent AI workflows
+
+OpenAI Agents SDK，用于构建 Python 多代理 AI 工作流

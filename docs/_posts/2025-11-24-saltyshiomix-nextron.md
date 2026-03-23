@@ -7,3 +7,5 @@ image: assets/saltyshiomix_nextron_20251123_174904_154_20251124_095411_b92e62--2
 # [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron/)
 
 Electron application development with Next.js
+
+使用 Next.js 进行 Electron 应用开发

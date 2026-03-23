@@ -7,3 +7,5 @@ image: assets/zhanymkanov_fastapi_best_practices_20260311_114054_051_20260311_11
 # [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)
 
 FastAPI production project structure
+
+FastAPI生产项目结构指南

@@ -7,3 +7,5 @@ image: assets/ConardLi_easy_llm_cli_20251205_021430_493_20251205_021507_fee85c.p
 # [ConardLi/easy-llm-cli](https://github.com/ConardLi/easy-llm-cli/)
 
 Command-line AI agent supporting multiple LLM providers
+
+支持多LLM提供商的命令行AI代理

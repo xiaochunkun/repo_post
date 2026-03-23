@@ -7,3 +7,5 @@ image: assets/Nuvix_Tech_nuvix_20251205_041139_670_20251205_041248_75d5ae.png
 # [Nuvix-Tech/nuvix](https://github.com/Nuvix-Tech/nuvix/)
 
 TypeScript backend platform with authentication and multi-schema database
+
+具有身份验证和多模式数据库的 TypeScript 后端平台

@@ -7,3 +7,5 @@ image: assets/stack_auth_stack_auth_20260122_011510_868_20260122_011545_440df2.p
 # [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth)
 
 Open-source alternative to Auth0 and Clerk
+
+Auth0和Clerk的开源替代方案

@@ -7,3 +7,5 @@ image: assets/madd86_awesome_system_design_20260203_015739_732_20260203_015803_2
 # [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
 
 Resources for distributed systems and microservices
+
+分布式系统和微服务资源

@@ -7,3 +7,5 @@ image: assets/emailmonday_Cerberus_20251207_231307_775_20251207_231329_f3012b.pn
 # [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus/)
 
 Patterns for responsive HTML emails
+
+响应式 HTML 邮件的模式

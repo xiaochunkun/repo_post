@@ -7,3 +7,5 @@ image: assets/gabe565_ascii_movie_20251123_054203_883_20251123_215356_4992f7--20
 # [gabe565/ascii-movie](https://github.com/gabe565/ascii-movie/)
 
 Streams Star Wars ASCII movie via SSH or Telnet
+
+通过 SSH 或 Telnet 流式传输《星球大战》ASCII 电影

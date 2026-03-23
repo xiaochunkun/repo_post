@@ -7,3 +7,5 @@ image: assets/serenakeyitan_awesome_notebookLM_prompts_20260309_102959_863_20260
 # [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts)
 
 Prompts for generating slide decks with NotebookLM
+
+用于NotebookLM生成幻灯片的提示词

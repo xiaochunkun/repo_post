@@ -7,3 +7,5 @@ image: assets/immichFrame_ImmichFrame_20260205_104222_810_20260205_104321_fae0d7
 # [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame)
 
 Displays photos as a digital photo frame
+
+作为数字相框显示照片

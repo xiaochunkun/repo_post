@@ -7,3 +7,5 @@ image: assets/guhcostan_mac_cleaner_cli_20260103_011220_092_20260103_011235_79a3
 # [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli/)
 
 Scans and removes junk files from the terminal
+
+从终端扫描和清理垃圾文件

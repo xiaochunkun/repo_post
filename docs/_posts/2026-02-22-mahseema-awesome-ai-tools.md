@@ -7,3 +7,5 @@ image: assets/mahseema_awesome_ai_tools_20260212_030830_065_20260212_030852_a64a
 # [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)
 
 Directory of generative tools and models
+
+生成式工具和模型目录

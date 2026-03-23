@@ -7,3 +7,5 @@ image: assets/Aura_Industry_auramaxx_20260311_170240_449_20260311_170823_20d5e3.
 # [Aura-Industry/auramaxx](https://github.com/Aura-Industry/auramaxx)
 
 Game engine running in terminal
+
+在终端中运行的游戏引擎

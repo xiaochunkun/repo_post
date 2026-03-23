@@ -7,3 +7,5 @@ image: assets/HKUDS_Auto_Deep_Research_20260226_170612_761_20260226_170750_f306a
 # [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)
 
 Agent for research tasks across LLMs
+
+跨LLM的研究任务智能体

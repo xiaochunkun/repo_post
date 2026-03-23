@@ -7,3 +7,5 @@ image: assets/fer0n_Unwatched_20260204_055338_521_20260204_055358_5a7995.png
 # [fer0n/Unwatched](https://github.com/fer0n/Unwatched)
 
 YouTube player with RSS feeds and no algorithms
+
+具有 RSS 源且无算法的 YouTube 播放器

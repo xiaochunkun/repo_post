@@ -7,3 +7,5 @@ image: assets/stonith404_pocket_id_20260130_055355_126_20260130_055429_33ad6c.pn
 # [stonith404/pocket-id](https://github.com/stonith404/pocket-id)
 
 OIDC provider for passkey authentication
+
+用于 passkey 认证的 OIDC 提供商

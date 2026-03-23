@@ -7,3 +7,5 @@ image: assets/20251009T050518414--vocodedev--vocode-core--20251009T051218865--cr
 # [vocodedev/vocode-core](https://github.com/vocodedev/vocode-core)
 
 open source toolkit for building real-time voice LLM apps and agents
+
+用于构建实时语音 LLM 应用和代理的开源工具包

@@ -7,3 +7,5 @@ image: assets/voidauth_voidauth_20251122_214926_042_20251123_001645_64c081--2025
 # [voidauth/voidauth](https://github.com/voidauth/voidauth/)
 
 Single sign-on for self-hosted services
+
+自托管服务的单点登录

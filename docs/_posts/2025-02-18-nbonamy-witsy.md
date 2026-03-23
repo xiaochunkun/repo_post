@@ -7,3 +7,5 @@ image: assets/nbonamy_witsy_cropped.png
 # [nbonamy/witsy](https://github.com/nbonamy/witsy)
 
 Desktop AI assistant using LLM APIs
+
+使用 LLM API 的桌面 AI 助手

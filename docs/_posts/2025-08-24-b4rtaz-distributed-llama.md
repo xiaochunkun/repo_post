@@ -7,3 +7,5 @@ image: assets/20250822T025749970--b4rtaz--distributed-llama--20250822T030355786-
 # [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama)
 
 turn home devices into a cluster for faster llama inference
+
+将家用设备组成集群加速 Llama 推理

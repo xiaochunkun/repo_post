@@ -7,3 +7,5 @@ image: assets/LinwoodDev_Butterfly_20251121_135501_606_20251122_034237_e17e48--2
 # [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly/)
 
 Cross-platform note-taking with infinite canvas
+
+跨平台无限画布笔记应用

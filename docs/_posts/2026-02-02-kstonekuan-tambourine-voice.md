@@ -7,3 +7,5 @@ image: assets/kstonekuan_tambourine_voice_20260111_234209_189_20260111_234223_a7
 # [kstonekuan/tambourine-voice](https://github.com/kstonekuan/tambourine-voice)
 
 Voice interface for dictation into any application
+
+用于在任何应用中听写的语音界面

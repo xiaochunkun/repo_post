@@ -7,3 +7,5 @@ image: assets/Maxteabag_sqlit_20251221_185536_815_20251221_185553_29d282.png
 # [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit/)
 
 Terminal interface for SQL databases
+
+SQL 数据库的终端界面

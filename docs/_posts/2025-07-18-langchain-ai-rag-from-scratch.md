@@ -7,3 +7,5 @@ image: assets/langchain-ai_rag-from-scratch_cropped.png
 # [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
 
 step-by-step notebooks for building RAG with LangChain
+
+使用 LangChain 构建 RAG 的逐步笔记本

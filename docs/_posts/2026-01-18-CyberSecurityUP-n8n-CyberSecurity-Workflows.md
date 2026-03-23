@@ -7,3 +7,5 @@ image: assets/CyberSecurityUP_n8n_CyberSecurity_Workflows_20260115_231239_057_20
 # [CyberSecurityUP/n8n-CyberSecurity-Workflows](https://github.com/CyberSecurityUP/n8n-CyberSecurity-Workflows)
 
 Blueprints for cybersecurity automation workflows
+
+网络安全自动化工作流蓝图

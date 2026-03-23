@@ -7,3 +7,5 @@ image: assets/miguelgrinberg_microdot_20251115_060612_800_20251117_032322_edc246
 # [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot/)
 
 Web framework for microcontrollers
+
+微控制器的 Web 框架

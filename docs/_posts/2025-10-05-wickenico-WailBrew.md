@@ -7,3 +7,5 @@ image: assets/20251005T003322001--wickenico--WailBrew--20251005T003925666--cropp
 # [wickenico/WailBrew](https://github.com/wickenico/WailBrew)
 
 Homebrew package manager with a modern desktop interface for macOS
+
+macOS 的 Homebrew 包管理器，带现代桌面界面

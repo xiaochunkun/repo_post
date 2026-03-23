@@ -7,3 +7,5 @@ image: assets/vzhd1701_gridplayer_20251031_023401_271_20251031_140745_086664--20
 # [vzhd1701/gridplayer](https://github.com/vzhd1701/gridplayer/)
 
 Media player for playing multiple videos at once
+
+同时播放多个视频的媒体播放器

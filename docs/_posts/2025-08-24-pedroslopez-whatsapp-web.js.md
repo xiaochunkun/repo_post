@@ -7,3 +7,5 @@ image: assets/20250823T012247600--pedroslopez--whatsapp-web.js--20250823T0138032
 # [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 
 Node.js library for automating WhatsApp Web
+
+Node.js WhatsApp Web 自动化库

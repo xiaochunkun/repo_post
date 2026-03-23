@@ -7,3 +7,5 @@ image: assets/aws_nova_act_20251122_183100_839_20251123_001343_c1592d--20251123T
 # [aws/nova-act](https://github.com/aws/nova-act/)
 
 SDK and model for building browser agents
+
+构建浏览器代理的 SDK 和模型

@@ -7,3 +7,5 @@ image: assets/papercomputeco_stereOS_20260305_085539_817_20260305_085651_238ad3.
 # [papercomputeco/stereOS](https://github.com/papercomputeco/stereOS)
 
 Operating system for AI agents
+
+AI 智能体的操作系统

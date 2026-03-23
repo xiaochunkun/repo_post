@@ -7,3 +7,5 @@ image: assets/DavidoTek_ProtonUp_Qt_20251130_073247_154_20251130_085309_4edf28--
 # [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt/)
 
 Install and manage Proton-GE for Steam and Lutris
+
+为 Steam 和 Lutris 安装和管理 Proton-GE

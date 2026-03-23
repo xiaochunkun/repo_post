@@ -7,3 +7,5 @@ image: assets/All-Hands-AI_OpenHands_cropped.png
 # [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
 
 AI-powered software development tool
+
+AI 驱动的软件开发工具

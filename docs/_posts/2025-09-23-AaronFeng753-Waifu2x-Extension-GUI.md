@@ -7,3 +7,5 @@ image: assets/20250923T032432939--AaronFeng753--Waifu2x-Extension-GUI--20250923T
 # [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 Upscale images, GIFs, and videos or interpolate frames with AI, supports most GPUs
+
+使用 AI 放大图像、GIF 和视频或插值帧，支持大多数 GPU

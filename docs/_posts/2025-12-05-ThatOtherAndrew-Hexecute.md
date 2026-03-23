@@ -7,3 +7,5 @@ image: assets/ThatOtherAndrew_Hexecute_20251202_220646_215_20251202_220722_3c587
 # [ThatOtherAndrew/Hexecute](https://github.com/ThatOtherAndrew/Hexecute/)
 
 Gesture-based launcher for Wayland
+
+基于手势的 Wayland 启动器

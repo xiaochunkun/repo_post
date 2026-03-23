@@ -7,3 +7,5 @@ image: assets/trylinky_linky_20251213_054501_538_20251213_054524_791590.png
 # [trylinky/linky](https://github.com/trylinky/linky/)
 
 Open-source dynamic personal page builder
+
+开源动态个人页面构建器

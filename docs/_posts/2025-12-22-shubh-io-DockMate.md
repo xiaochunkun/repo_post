@@ -7,3 +7,5 @@ image: assets/shubh_io_DockMate_20251221_030416_284_20251221_030434_b5be86.png
 # [shubh-io/DockMate](https://github.com/shubh-io/DockMate/)
 
 Terminal interface for managing Docker containers
+
+管理 Docker 容器的终端界面

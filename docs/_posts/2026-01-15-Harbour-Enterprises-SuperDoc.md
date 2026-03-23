@@ -7,3 +7,5 @@ image: assets/Harbour_Enterprises_SuperDoc_20260113_090742_391_20260113_090800_8
 # [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc)
 
 Document editor with Microsoft Word capabilities for the web
+
+具有 Microsoft Word 功能的 Web 文档编辑器

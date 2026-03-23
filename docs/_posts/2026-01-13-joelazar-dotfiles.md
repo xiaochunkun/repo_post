@@ -7,3 +7,5 @@ image: assets/joelazar_dotfiles_20260112_143316_010_20260112_143333_21dd6d.png
 # [joelazar/dotfiles](https://github.com/joelazar/dotfiles)
 
 Configuration files for macOS setup
+
+macOS设置配置文件

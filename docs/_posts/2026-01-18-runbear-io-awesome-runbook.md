@@ -7,3 +7,5 @@ image: assets/runbear_io_awesome_runbook_20260117_042539_943_20260117_042555_6e8
 # [runbear-io/awesome-runbook](https://github.com/runbear-io/awesome-runbook)
 
 Resources for runbook automation and documentation
+
+运行手册自动化和文档资源

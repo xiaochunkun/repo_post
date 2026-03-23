@@ -7,3 +7,5 @@ image: assets/20250831T020856511--QwikDev--partytown--20250831T025813949--croppe
 # [QwikDev/partytown](https://github.com/QwikDev/partytown)
 
 moves third-party scripts to web workers for faster sites
+
+将第三方脚本移至 Web Worker 运行以加速网页

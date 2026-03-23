@@ -7,3 +7,5 @@ image: assets/frenck_spook_20251120_055141_088_20251121_011331_81d658--20251121T
 # [frenck/spook](https://github.com/frenck/spook/)
 
 Integration toolbox for Home Assistant
+
+Home Assistant 的集成工具箱

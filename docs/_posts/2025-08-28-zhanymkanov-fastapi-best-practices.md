@@ -7,3 +7,5 @@ image: assets/20250826T032407491--zhanymkanov--fastapi-best-practices--20250826T
 # [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)
 
 FastAPI tips and project structure ideas for startups
+
+FastAPI 最佳实践和项目结构建议

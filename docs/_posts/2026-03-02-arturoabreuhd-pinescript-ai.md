@@ -7,3 +7,5 @@ image: assets/arturoabreuhd_pinescript_ai_20260301_062904_864_20260301_063058_9d
 # [arturoabreuhd/pinescript-ai](https://github.com/arturoabreuhd/pinescript-ai)
 
 Generates PineScript code with RAG and validation
+
+使用 RAG 和验证生成 PineScript 代码

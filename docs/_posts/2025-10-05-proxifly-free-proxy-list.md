@@ -7,3 +7,5 @@ image: assets/20251005T101506126--proxifly--free-proxy-list--20251005T102302787-
 # [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
 
 fresh proxy lists updated every 5 minutes, includes http, https, socks4, socks5
+
+每 5 分钟更新的新鲜代理列表，包含 HTTP、HTTPS、SOCKS4、SOCKS5

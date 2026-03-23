@@ -7,3 +7,5 @@ image: assets/BlackSnufkin_Maverick_20260311_021839_606_20260311_022100_7a6b2c.p
 # [BlackSnufkin/Maverick](https://github.com/BlackSnufkin/Maverick)
 
 Builds modular shellcode agents with runtime loading
+
+构建支持运行时加载的模块化shellcode代理

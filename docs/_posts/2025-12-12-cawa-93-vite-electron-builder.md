@@ -7,3 +7,5 @@ image: assets/cawa_93_vite_electron_builder_20251209_023038_274_20251209_023107_
 # [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/)
 
 Boilerplate for Electron apps based on Vite
+
+基于Vite的Electron应用样板

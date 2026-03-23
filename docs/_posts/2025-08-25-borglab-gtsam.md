@@ -7,3 +7,5 @@ image: assets/20250823T014136777--borglab--gtsam--20250823T014529402--cropped.pn
 # [borglab/gtsam](https://github.com/borglab/gtsam)
 
 C++ library for robotics and vision smoothing, mapping, and sensor fusion
+
+C++ 机器人和视觉库，用于平滑、建图和传感器融合

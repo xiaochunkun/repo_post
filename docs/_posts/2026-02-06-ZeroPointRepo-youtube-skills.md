@@ -7,3 +7,5 @@ image: assets/ZeroPointRepo_youtube_skills_20260205_193117_442_20260205_193132_8
 # [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)
 
 Extracts YouTube transcripts and data for AI agents
+
+为 AI 代理提取 YouTube 转录和数据

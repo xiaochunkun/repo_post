@@ -7,3 +7,5 @@ image: assets/20250926T173129940--ai-collection--ai-collection--20250926T1738343
 # [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection)
 
 curated list of generative AI apps and tools
+
+生成式AI应用和工具的精选列表

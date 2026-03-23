@@ -7,3 +7,5 @@ image: assets/wiredopposite_OGX_Mini_20251123_173339_140_20251124_095220_66ac9a-
 # [wiredopposite/OGX-Mini](https://github.com/wiredopposite/OGX-Mini/)
 
 RP2040 firmware emulates gamepads for consoles
+
+RP2040 固件模拟游戏手柄用于游戏机

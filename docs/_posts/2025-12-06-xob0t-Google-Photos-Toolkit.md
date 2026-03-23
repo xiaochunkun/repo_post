@@ -7,3 +7,5 @@ image: assets/xob0t_Google_Photos_Toolkit_20251204_224452_775_20251204_224556_2e
 # [xob0t/Google-Photos-Toolkit](https://github.com/xob0t/Google-Photos-Toolkit/)
 
 Userscript to filter and organize Google Photos
+
+用于过滤和组织Google Photos的用户脚本

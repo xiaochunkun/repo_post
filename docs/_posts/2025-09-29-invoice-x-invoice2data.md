@@ -7,3 +7,5 @@ image: assets/20250929T014001988--invoice-x--invoice2data--20250929T015024907--c
 # [invoice-x/invoice2data](https://github.com/invoice-x/invoice2data)
 
 extracts key info from PDF invoices to CSV or JSON
+
+从PDF发票中提取关键信息到CSV或JSON

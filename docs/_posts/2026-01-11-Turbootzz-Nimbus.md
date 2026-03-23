@@ -7,3 +7,5 @@ image: assets/Turbootzz_Nimbus_20260111_064816_435_20260111_064829_12e32a.png
 # [Turbootzz/Nimbus](https://github.com/Turbootzz/Nimbus)
 
 Dashboard for homelab service monitoring and management
+
+家庭实验室服务监控与管理仪表板

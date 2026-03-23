@@ -7,3 +7,5 @@ image: assets/formatjs_formatjs_cropped.png
 # [formatjs/formatjs](https://github.com/formatjs/formatjs)
 
 JavaScript libraries for internationalization and formatting
+
+用于国际化和格式化的JavaScript库

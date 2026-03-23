@@ -7,3 +7,5 @@ image: assets/Ray-D-Song_lexe_cropped.png
 # [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe)
 
 bundle Node.js app into one tiny executable
+
+将 Node.js 应用打包成一个微小的可执行文件

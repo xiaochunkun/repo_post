@@ -7,3 +7,5 @@ image: assets/hslatman_awesome_threat_intelligence_20260214_070053_979_20260214_
 # [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
 Curated list of threat intelligence resources
+
+威胁情报资源的精选列表

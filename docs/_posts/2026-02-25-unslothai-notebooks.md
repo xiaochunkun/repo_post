@@ -7,3 +7,5 @@ image: assets/unslothai_notebooks_20260213_062057_350_20260213_062152_a81e47.png
 # [unslothai/notebooks](https://github.com/unslothai/notebooks)
 
 Fine-tuning notebooks for language models
+
+语言模型的微调笔记本

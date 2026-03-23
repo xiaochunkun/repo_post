@@ -7,3 +7,5 @@ image: assets/ggerganov_ggwave_20260121_233222_493_20260121_233240_605c80.png
 # [ggerganov/ggwave](https://github.com/ggerganov/ggwave)
 
 Transmits data through sound waves
+
+通过声波传输数据

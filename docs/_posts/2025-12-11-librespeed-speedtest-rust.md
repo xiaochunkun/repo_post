@@ -7,3 +7,5 @@ image: assets/librespeed_speedtest_rust_20251209_012822_787_20251209_012928_2df9
 # [librespeed/speedtest-rust](https://github.com/librespeed/speedtest-rust/)
 
 Speedtest backend written in Rust
+
+用Rust编写的网速测试后端

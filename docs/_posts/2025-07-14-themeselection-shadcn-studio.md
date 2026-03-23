@@ -7,3 +7,5 @@ image: assets/themeselection_shadcn-studio_cropped.png
 # [themeselection/shadcn-studio](https://github.com/themeselection/shadcn-studio)
 
 copy-paste shadcn components and templates with a theme editor
+
+通过主题编辑器复制粘贴 shadcn 组件和模板

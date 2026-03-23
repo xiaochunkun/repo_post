@@ -7,3 +7,5 @@ image: assets/community-scripts_ProxmoxVE_cropped.png
 # [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
 
 community scripts for easier Proxmox VE setup and management
+
+用于简化Proxmox VE设置和管理的社区脚本

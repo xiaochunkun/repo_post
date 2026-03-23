@@ -7,3 +7,5 @@ image: assets/shridarpatil_whatomate_20260113_091353_874_20260113_091406_b2b4d4.
 # [shridarpatil/whatomate](https://github.com/shridarpatil/whatomate)
 
 WhatsApp Business platform with multi-tenant architecture
+
+采用多租户架构的 WhatsApp Business 平台

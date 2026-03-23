@@ -7,3 +7,5 @@ image: assets/ospfranco_sol_20260122_075307_638_20260122_075323_c53278.png
 # [ospfranco/sol](https://github.com/ospfranco/sol)
 
 Open source command launcher for macOS
+
+macOS 的开源命令启动器

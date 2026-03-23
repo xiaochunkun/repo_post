@@ -7,3 +7,5 @@ image: assets/20250825T031127891--netease-youdao--EmotiVoice--20250825T032003864
 # [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 
 text-to-speech engine with 2000+ voices and emotion control
+
+文本转语音引擎，2000+ 种声音，支持情感控制

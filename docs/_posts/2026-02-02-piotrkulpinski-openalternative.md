@@ -7,3 +7,5 @@ image: assets/piotrkulpinski_openalternative_20260202_174728_200_20260202_174844
 # [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative)
 
 Directory of open source alternatives to proprietary software
+
+专有软件的开源替代品目录

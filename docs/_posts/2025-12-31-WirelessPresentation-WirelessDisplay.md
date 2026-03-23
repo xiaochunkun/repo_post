@@ -7,3 +7,5 @@ image: assets/WirelessPresentation_WirelessDisplay_20251230_044657_685_20251230_
 # [WirelessPresentation/WirelessDisplay](https://github.com/WirelessPresentation/WirelessDisplay/)
 
 SDK for Airplay, Miracast, and GoogleCast protocols
+
+Airplay、Miracast和GoogleCast协议的SDK

@@ -7,3 +7,5 @@ image: assets/highlight_highlight_20260212_075348_148_20260212_075408_6026ea.png
 # [highlight/highlight](https://github.com/highlight/highlight)
 
 Monitors errors, replays sessions, and logs traces
+
+监控错误、重放会话和记录追踪

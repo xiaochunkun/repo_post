@@ -7,3 +7,5 @@ image: assets/coder_coder_20260306_004530_486_20260306_004649_5027e6.png
 # [coder/coder](https://github.com/coder/coder)
 
 Provision development environments via Terraform
+
+通过 Terraform 配置开发环境

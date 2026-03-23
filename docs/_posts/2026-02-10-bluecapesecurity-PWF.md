@@ -7,3 +7,5 @@ image: assets/bluecapesecurity_PWF_20260209_211537_772_20260209_211553_3a7287.pn
 # [bluecapesecurity/PWF](https://github.com/bluecapesecurity/PWF)
 
 Training for digital forensic analysis on Windows systems
+
+Windows 系统数字取证分析的培训

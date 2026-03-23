@@ -7,3 +7,5 @@ image: assets/mercurjs_b2c_marketplace_storefront_20251214_232542_954_20251214_2
 # [mercurjs/b2c-marketplace-storefront](https://github.com/mercurjs/b2c-marketplace-storefront/)
 
 Open source B2C marketplace storefront
+
+开源B2C市场店面

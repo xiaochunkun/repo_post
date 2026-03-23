@@ -7,3 +7,5 @@ image: assets/bayang_jelu_20251031_065023_594_20251101_205227_0036ce--20251101T2
 # [bayang/jelu](https://github.com/bayang/jelu/)
 
 Self-hosted Goodreads alternative to track reading
+
+自托管的 Goodreads 替代品，用于追踪阅读

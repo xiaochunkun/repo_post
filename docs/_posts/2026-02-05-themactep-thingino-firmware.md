@@ -7,3 +7,5 @@ image: assets/themactep_thingino_firmware_20260203_012749_235_20260203_012806_1c
 # [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware)
 
 Firmware for Ingenic SoC IP cameras
+
+Ingenic SoC IP摄像头的固件

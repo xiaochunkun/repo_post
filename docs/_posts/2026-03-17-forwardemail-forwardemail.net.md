@@ -7,3 +7,5 @@ image: assets/forwardemail_forwardemail_net_20260317_010640_879_20260317_010713_
 # [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net)
 
 Open source privacy focused email service
+
+开源隐私优先的电子邮件服务

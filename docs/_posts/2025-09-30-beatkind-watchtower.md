@@ -7,3 +7,5 @@ image: assets/20250930T002032254--beatkind--watchtower--20250930T002633557--crop
 # [beatkind/watchtower](https://github.com/beatkind/watchtower)
 
 automates Docker container image updates
+
+自动化 Docker 容器镜像更新

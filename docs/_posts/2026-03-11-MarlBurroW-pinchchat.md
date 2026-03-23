@@ -7,3 +7,5 @@ image: assets/MarlBurroW_pinchchat_20260309_141412_258_20260309_141611_d147f6.pn
 # [MarlBurroW/pinchchat](https://github.com/MarlBurroW/pinchchat)
 
 Web interface for monitoring OpenClaw sessions and tool calls
+
+监控 OpenClaw 会话和工具调用的 Web 界面

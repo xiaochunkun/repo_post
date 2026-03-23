@@ -7,3 +7,5 @@ image: assets/iptv-org_iptv_cropped.png
 # [iptv-org/iptv](https://github.com/iptv-org/iptv)
 
 public IPTV channel lists from around the world
+
+来自全球的公共IPTV频道列表

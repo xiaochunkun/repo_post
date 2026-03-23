@@ -7,3 +7,5 @@ image: assets/emprcl_signls_20251125_035458_370_20251127_164945_93ef53--20251127
 # [emprcl/signls](https://github.com/emprcl/signls/)
 
 Non-linear generative MIDI sequencer for the terminal
+
+终端非线性生成式 MIDI 音序器

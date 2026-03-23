@@ -7,3 +7,5 @@ image: assets/stanford_mast_blast_20260122_083324_053_20260122_083354_272820.png
 # [stanford-mast/blast](https://github.com/stanford-mast/blast)
 
 Serving engine for web browsing agents
+
+网页浏览智能体的服务引擎

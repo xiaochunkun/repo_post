@@ -7,3 +7,5 @@ image: assets/surge_downloader_surge_20260121_004342_499_20260121_004413_dc7adb.
 # [surge-downloader/surge](https://github.com/surge-downloader/surge)
 
 Terminal download manager with a headless server and a dashboard
+
+含无头服务器和仪表板的终端下载管理器

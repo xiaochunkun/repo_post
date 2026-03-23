@@ -7,3 +7,5 @@ image: assets/DimensionDev_Flare_20251221_170901_969_20251221_170918_db092c.png
 # [DimensionDev/Flare](https://github.com/DimensionDev/Flare/)
 
 Merges social feeds into a timeline
+
+将社交源合并为时间线

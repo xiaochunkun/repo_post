@@ -7,3 +7,5 @@ image: assets/Leask_Tabminal_20251224_171817_494_20251224_171849_b349a2.png
 # [Leask/Tabminal](https://github.com/Leask/Tabminal/)
 
 Terminal with AI integration for browsers
+
+浏览器中集成 AI 的终端

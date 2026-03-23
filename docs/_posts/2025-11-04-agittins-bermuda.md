@@ -7,3 +7,5 @@ image: assets/agittins_bermuda_20251031_160725_386_20251102_215717_189676--20251
 # [agittins/bermuda](https://github.com/agittins/bermuda/)
 
 Track Bluetooth devices by room in Home Assistant
+
+在Home Assistant中按房间追踪蓝牙设备

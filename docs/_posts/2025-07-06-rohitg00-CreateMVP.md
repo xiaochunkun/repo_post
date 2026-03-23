@@ -7,3 +7,5 @@ image: assets/rohitg00_CreateMVP_cropped.png
 # [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP)
 
 create-mvp plans MVPs using AI, supports multiple models, self-hosted setup
+
+使用AI创建MVP计划，支持多种模型和自托管设置

@@ -7,3 +7,5 @@ image: assets/20250825T032029874--webjsx--webjsx--20250825T032545798--cropped.pn
 # [webjsx/webjsx](https://github.com/webjsx/webjsx)
 
 minimal JSX and Web Components library for building web apps
+
+极简 JSX + Web Components 库，用于构建 Web 应用

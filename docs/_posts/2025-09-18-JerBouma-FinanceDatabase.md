@@ -7,3 +7,5 @@ image: assets/20250915T231100808--JerBouma--FinanceDatabase--20250918T051612501-
 # [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)
 
 Database of 300k+ categorized financial symbols for equities, ETFs, funds, indices, currencies, and crypto
+
+包含 30 万以上分类金融符号的数据库，涵盖股票、ETF、基金、指数、货币和加密货币

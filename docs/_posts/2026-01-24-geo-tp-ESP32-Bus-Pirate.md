@@ -7,3 +7,5 @@ image: assets/geo_tp_ESP32_Bus_Pirate_20260122_034923_038_20260122_034941_619c2f
 # [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
 
 Firmware for hardware hacking via serial or web interface
+
+通过串口或 Web 界面进行硬件黑客的固件

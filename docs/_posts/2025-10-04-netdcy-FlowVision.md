@@ -7,3 +7,5 @@ image: assets/20251003T230645580--netdcy--FlowVision--20251003T231111820--croppe
 # [netdcy/FlowVision](https://github.com/netdcy/FlowVision)
 
 waterfall-style image and video viewer for macOS with adaptive layout and file management
+
+macOS瀑布式图像和视频查看器，具有自适应布局和文件管理功能

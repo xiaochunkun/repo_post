@@ -7,3 +7,5 @@ image: assets/vercel_labs_workflow_builder_template_20260121_000050_096_20260121
 # [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)
 
 Visual workflow builder with code generation
+
+带代码生成的可视化工作流构建器

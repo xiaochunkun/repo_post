@@ -7,3 +7,5 @@ image: assets/gethomepage_homepage_cropped.png
 # [gethomepage/homepage](https://github.com/gethomepage/homepage)
 
 Startpage for self-hosted services with Docker and API integrations
+
+自托管服务的启动页，支持Docker和API集成

@@ -7,3 +7,5 @@ image: assets/qifi-dev_qrs_cropped.png
 # [qifi-dev/qrs](https://github.com/qifi-dev/qrs)
 
 streaming data with QR codes
+
+通过二维码流式传输数据

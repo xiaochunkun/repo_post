@@ -7,3 +7,5 @@ image: assets/fabioluciano_tmux_tokyo_night_20260103_153527_919_20260103_153543_
 # [fabioluciano/tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night/)
 
 Framework for tmux status bars
+
+tmux状态栏框架

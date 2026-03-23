@@ -7,3 +7,5 @@ image: assets/facebookresearch_sam_3d_body_20260305_032154_660_20260305_032309_1
 # [facebookresearch/sam-3d-body](https://github.com/facebookresearch/sam-3d-body)
 
 Model for recovery of human mesh from images
+
+从图像恢复人体网格的模型

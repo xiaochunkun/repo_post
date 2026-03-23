@@ -7,3 +7,5 @@ image: assets/madelson_DistributedLock_20251127_195110_927_20251130_082727_b49af
 # [madelson/DistributedLock](https://github.com/madelson/DistributedLock/)
 
 Distributed synchronization primitives for .NET
+
+.NET 的分布式同步原语

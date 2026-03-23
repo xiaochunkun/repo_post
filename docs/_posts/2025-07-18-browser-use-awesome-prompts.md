@@ -7,3 +7,5 @@ image: assets/browser-use_awesome-prompts_cropped.png
 # [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts)
 
 Collection of prompts for Browser-Use agents
+
+Browser-Use 代理的提示集合

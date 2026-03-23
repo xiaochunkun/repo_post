@@ -7,3 +7,5 @@ image: assets/6551Team_daily_news_20260318_160957_391_20260318_161049_e28d72.png
 # [6551Team/daily-news](https://github.com/6551Team/daily-news)
 
 AI news and crypto intelligence server
+
+AI新闻和加密情报服务器

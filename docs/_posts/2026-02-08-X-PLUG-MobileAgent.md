@@ -7,3 +7,5 @@ image: assets/X_PLUG_MobileAgent_20260202_231839_559_20260202_231933_47732c.png
 # [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)
 
 Operates mobile devices through vision
+
+通过视觉操作移动设备

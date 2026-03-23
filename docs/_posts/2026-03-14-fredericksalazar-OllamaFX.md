@@ -7,3 +7,5 @@ image: assets/fredericksalazar_OllamaFX_20260314_011728_669_20260314_011952_b3cf
 # [fredericksalazar/OllamaFX](https://github.com/fredericksalazar/OllamaFX)
 
 Native desktop client for local LLMs
+
+本地LLM的原生桌面客户端

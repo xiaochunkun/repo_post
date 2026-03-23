@@ -7,3 +7,5 @@ image: assets/asiff00_On_Device_Speech_to_Speech_Conversational_AI_20251224_1759
 # [asiff00/On-Device-Speech-to-Speech-Conversational-AI](https://github.com/asiff00/On-Device-Speech-to-Speech-Conversational-AI/)
 
 Conversational system on CPU with interruption handling
+
+在 CPU 上运行的带中断处理的对话系统

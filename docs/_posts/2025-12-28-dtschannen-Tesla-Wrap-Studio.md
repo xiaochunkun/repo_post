@@ -7,3 +7,5 @@ image: assets/dtschannen_Tesla_Wrap_Studio_20251227_082953_718_20251227_083012_6
 # [dtschannen/Tesla-Wrap-Studio](https://github.com/dtschannen/Tesla-Wrap-Studio/)
 
 Design tool for Tesla wraps
+
+Tesla 贴膜设计工具

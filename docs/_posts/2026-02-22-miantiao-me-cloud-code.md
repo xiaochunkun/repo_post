@@ -7,3 +7,5 @@ image: assets/miantiao_me_cloud_code_20260210_032100_583_20260210_032134_093bea.
 # [miantiao-me/cloud-code](https://github.com/miantiao-me/cloud-code)
 
 Containerized agent on Cloudflare infrastructure
+
+基于 Cloudflare 基础设施的容器化智能体

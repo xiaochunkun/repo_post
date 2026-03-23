@@ -7,3 +7,5 @@ image: assets/Bbalduzz_fletmint_20251223_104856_383_20251223_104917_d31a43.png
 # [Bbalduzz/fletmint](https://github.com/Bbalduzz/fletmint/)
 
 Components library for Flet
+
+Flet 组件库

@@ -7,3 +7,5 @@ image: assets/kid1412621_SummaryExpressive_20251217_233734_172_20251217_233825_a
 # [kid1412621/SummaryExpressive](https://github.com/kid1412621/SummaryExpressive/)
 
 Summarizes videos and documents with LLMs
+
+使用 LLMs 总结视频和文档

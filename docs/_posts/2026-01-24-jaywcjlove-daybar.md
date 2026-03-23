@@ -7,3 +7,5 @@ image: assets/jaywcjlove_daybar_20260122_073733_986_20260122_073804_7d6fcb.png
 # [jaywcjlove/daybar](https://github.com/jaywcjlove/daybar)
 
 Menu bar app for calendar and reminders
+
+菜单栏应用，用于日历和提醒

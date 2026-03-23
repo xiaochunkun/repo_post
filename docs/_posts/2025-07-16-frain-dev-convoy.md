@@ -7,3 +7,5 @@ image: assets/frain-dev_convoy_cropped.png
 # [frain-dev/convoy](https://github.com/frain-dev/convoy)
 
 open-source webhooks gateway for managing millions of events
+
+用于管理数百万事件的开源Webhooks网关

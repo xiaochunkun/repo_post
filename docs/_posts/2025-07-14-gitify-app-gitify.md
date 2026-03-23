@@ -7,3 +7,5 @@ image: assets/gitify-app_gitify_cropped.png
 # [gitify-app/gitify](https://github.com/gitify-app/gitify)
 
 GitHub notifications in your menu bar
+
+菜单栏中的 GitHub 通知

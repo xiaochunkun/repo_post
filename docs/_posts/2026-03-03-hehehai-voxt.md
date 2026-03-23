@@ -7,3 +7,5 @@ image: assets/hehehai_voxt_20260302_111509_492_20260302_111633_4ab406.png
 # [hehehai/voxt](https://github.com/hehehai/voxt)
 
 Voice input and translation for macOS using local MLX models or Apple Intelligence
+
+基于本地 MLX 模型或 Apple Intelligence 的 macOS 语音输入与翻译

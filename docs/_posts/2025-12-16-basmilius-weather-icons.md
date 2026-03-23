@@ -7,3 +7,5 @@ image: assets/basmilius_weather_icons_20251215_011627_740_20251215_011650_d015bd
 # [basmilius/weather-icons](https://github.com/basmilius/weather-icons/)
 
 Set of SVG weather animations
+
+SVG天气动画图标集

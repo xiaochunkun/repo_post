@@ -7,3 +7,5 @@ image: assets/awslabs_amazon_kinesis_video_streams_webrtc_sdk_c_20260117_014508_
 # [awslabs/amazon-kinesis-video-streams-webrtc-sdk-c](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c)
 
 WebRTC client for video streams in C
+
+C语言视频流WebRTC客户端

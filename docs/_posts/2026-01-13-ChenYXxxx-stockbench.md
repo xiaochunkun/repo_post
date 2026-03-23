@@ -7,3 +7,5 @@ image: assets/ChenYXxxx_stockbench_20260113_030511_487_20260113_030525_13908a.pn
 # [ChenYXxxx/stockbench](https://github.com/ChenYXxxx/stockbench)
 
 Evaluates language models on stock trading decisions
+
+评估语言模型在股票交易决策上的表现

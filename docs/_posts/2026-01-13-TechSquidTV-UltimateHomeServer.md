@@ -7,3 +7,5 @@ image: assets/TechSquidTV_UltimateHomeServer_20260112_130804_459_20260112_130825
 # [TechSquidTV/UltimateHomeServer](https://github.com/TechSquidTV/UltimateHomeServer)
 
 Deploys home server stack with K3s and Helm
+
+使用K3s和Helm部署家庭服务器堆栈

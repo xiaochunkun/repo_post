@@ -7,3 +7,5 @@ image: assets/karpathy_LLM101n_cropped.png
 # [karpathy/LLM101n](https://github.com/karpathy/LLM101n)
 
 Builds a basic AI storyteller language model step by step
+
+逐步构建基础 AI 讲故事语言模型

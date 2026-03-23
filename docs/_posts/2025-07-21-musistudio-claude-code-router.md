@@ -7,3 +7,5 @@ image: assets/musistudio_claude-code-router_cropped.png
 # [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
 
 route Claude Code requests to different models, customize how they run
+
+将Claude Code请求路由到不同模型，自定义运行方式

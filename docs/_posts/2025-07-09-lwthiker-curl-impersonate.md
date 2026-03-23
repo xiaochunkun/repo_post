@@ -7,3 +7,5 @@ image: assets/lwthiker_curl-impersonate_cropped.png
 # [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate)
 
 curl that mimics real browsers for web scraping
+
+模仿真实浏览器进行网络爬取的 curl

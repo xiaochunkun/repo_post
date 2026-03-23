@@ -7,3 +7,5 @@ image: assets/balu_a_pass_20260106_174258_912_20260106_174314_007822.png
 # [balu-/a-pass](https://github.com/balu-/a-pass/)
 
 Password manager using age encryption
+
+使用 age 加密的密码管理器

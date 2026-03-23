@@ -7,3 +7,5 @@ image: assets/dmcke5_DIY_VR_20260207_190846_404_20260207_190907_5c5794.png
 # [dmcke5/DIY_VR](https://github.com/dmcke5/DIY_VR)
 
 3D printed VR headset with head tracking
+
+带头部追踪的 3D 打印 VR 头显

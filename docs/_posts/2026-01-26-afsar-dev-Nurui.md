@@ -7,3 +7,5 @@ image: assets/afsar_dev_Nurui_20260116_170834_977_20260116_170900_340478.png
 # [afsar-dev/Nurui](https://github.com/afsar-dev/Nurui)
 
 React component library with CLI scaffolding and live previews
+
+CLI脚手架和实时预览React组件库

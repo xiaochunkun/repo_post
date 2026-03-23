@@ -7,3 +7,5 @@ image: assets/ImagineAILab_ai-by-hand-excel_cropped.png
 # [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 
 AI concepts built in Excel sheets
+
+在Excel表格中构建的AI概念

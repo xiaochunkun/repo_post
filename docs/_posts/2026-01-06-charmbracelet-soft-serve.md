@@ -7,3 +7,5 @@ image: assets/charmbracelet_soft_serve_20260105_012519_145_20260105_012538_0b4bb
 # [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve/)
 
 Self-hostable Git server with a TUI over SSH
+
+可通过 SSH 使用 TUI 的自托管 Git 服务器

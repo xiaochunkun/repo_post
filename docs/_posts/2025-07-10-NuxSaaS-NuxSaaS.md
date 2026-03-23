@@ -7,3 +7,5 @@ image: assets/NuxSaaS_NuxSaaS_cropped.png
 # [NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS)
 
 Nuxt full-stack SaaS starter kit with auth, payments, dashboard
+
+Nuxt全栈SaaS启动套件，包含认证、支付和仪表板

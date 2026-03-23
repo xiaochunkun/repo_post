@@ -7,3 +7,5 @@ image: assets/nhost_nhost_cropped.png
 # [nhost/nhost](https://github.com/nhost/nhost)
 
 Open source Firebase alternative with GraphQL and PostgreSQL
+
+开源 Firebase 替代方案，支持 GraphQL 和 PostgreSQL

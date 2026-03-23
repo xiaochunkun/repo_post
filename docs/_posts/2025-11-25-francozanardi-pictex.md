@@ -7,3 +7,5 @@ image: assets/francozanardi_pictex_20251123_194921_494_20251125_012502_d3613d--2
 # [francozanardi/pictex](https://github.com/francozanardi/pictex/)
 
 Component-based Python graphics library powered by Skia
+
+基于 Skia 的组件化 Python 图形库

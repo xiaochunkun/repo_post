@@ -7,3 +7,5 @@ image: assets/audiamus_AaxAudioConverter_20251225_235319_612_20251225_235337_b15
 # [audiamus/AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter/)
 
 Transcodes Audible files into mp3 or m4b
+
+将 Audible 文件转码为 mp3 或 m4b

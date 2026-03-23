@@ -7,3 +7,5 @@ image: assets/TheNickOfTime_handbrake-web_cropped.png
 # [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web)
 
 control HandBrake from your browser across devices
+
+从浏览器跨设备控制 HandBrake

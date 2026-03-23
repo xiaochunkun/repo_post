@@ -7,3 +7,5 @@ image: assets/Eugeny_tabby_web_20260108_054530_245_20260108_054544_284008.png
 # [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
 
 SSH and Telnet client in a browser
+
+浏览器中的SSH和Telnet客户端

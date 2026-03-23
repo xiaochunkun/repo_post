@@ -7,3 +7,5 @@ image: assets/danielfriis_ruby_llm_schema_20251201_093803_142_20251201_093824_1a
 # [danielfriis/ruby_llm-schema](https://github.com/danielfriis/ruby_llm-schema/)
 
 Ruby DSL for defining LLM function schemas
+
+用于定义LLM函数模式的Ruby DSL

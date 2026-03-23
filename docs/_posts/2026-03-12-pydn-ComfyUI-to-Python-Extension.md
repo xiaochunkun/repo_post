@@ -7,3 +7,5 @@ image: assets/pydn_ComfyUI_to_Python_Extension_20260311_170829_064_20260311_1711
 # [pydn/ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension)
 
 Translates visual workflows to Python code
+
+将可视化工作流转换为Python代码

@@ -7,3 +7,5 @@ image: assets/TIGER_AI_Lab_VLM2Vec_20251201_012954_624_20251201_013030_bbcf90.pn
 # [TIGER-AI-Lab/VLM2Vec](https://github.com/TIGER-AI-Lab/VLM2Vec/)
 
 Embeddings for videos, images, and documents
+
+视频、图像和文档的嵌入模型

@@ -7,3 +7,5 @@ image: assets/20251010T065012637--release-argus--Argus--20251010T065947010--crop
 # [release-argus/Argus](https://github.com/release-argus/Argus)
 
 get notified when software you use ships new versions
+
+在您使用的软件发布新版本时获取通知

@@ -7,3 +7,5 @@ image: assets/maurodesouza_profile_readme_generator_20260225_004341_934_20260225
 # [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
 
 Generates GitHub profile READMEs with dynamic widgets
+
+使用动态小部件生成GitHub个人资料README

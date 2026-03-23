@@ -7,3 +7,5 @@ image: assets/crossoverJie_SkillDeck_20260311_092948_379_20260311_093202_31a8f1.
 # [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck)
 
 Manages AI code agent skills on macOS
+
+在macOS上管理AI代码代理技能

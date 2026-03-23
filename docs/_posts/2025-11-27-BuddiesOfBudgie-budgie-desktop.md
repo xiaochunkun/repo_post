@@ -7,3 +7,5 @@ image: assets/BuddiesOfBudgie_budgie_desktop_20251125_030113_320_20251127_163401
 # [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop/)
 
 Desktop environment designed for simplicity
+
+为简洁性设计的桌面环境

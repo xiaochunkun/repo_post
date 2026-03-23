@@ -7,3 +7,5 @@ image: assets/imfing_hextra_cropped.png
 # [imfing/hextra](https://github.com/imfing/hextra)
 
 Hugo theme for building websites with Markdown
+
+使用Markdown构建网站的Hugo主题

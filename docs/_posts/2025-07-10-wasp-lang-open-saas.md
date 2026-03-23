@@ -7,3 +7,5 @@ image: assets/wasp-lang_open-saas_cropped.png
 # [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)
 
 open-source SaaS starter kit for React and Node.js
+
+用于React和Node.js的开源SaaS启动套件

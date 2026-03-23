@@ -7,3 +7,5 @@ image: assets/formbricks_formbricks_cropped.png
 # [formbricks/formbricks](https://github.com/formbricks/formbricks)
 
 Open-source survey and experience management platform
+
+开源调查和体验管理平台

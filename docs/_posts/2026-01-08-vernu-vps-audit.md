@@ -7,3 +7,5 @@ image: assets/vernu_vps_audit_20260108_044201_020_20260108_044214_9b902b.png
 # [vernu/vps-audit](https://github.com/vernu/vps-audit)
 
 Bash script for security and performance audits of Linux servers
+
+用于Linux服务器安全和性能审计的Bash脚本

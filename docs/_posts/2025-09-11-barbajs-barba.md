@@ -7,3 +7,5 @@ image: assets/20250911T020442231--barbajs--barba--20250911T022025176--cropped.pn
 # [barbajs/barba](https://github.com/barbajs/barba)
 
 fluid page transitions for websites with a small js library
+
+用小巧的 JS 库实现流畅的页面过渡效果

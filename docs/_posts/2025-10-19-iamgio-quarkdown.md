@@ -7,3 +7,5 @@ image: assets/iamgio_quarkdown_20251018_124454_931_20251019_204111--20251019T224
 # [iamgio/quarkdown](https://github.com/iamgio/quarkdown/)
 
 Markdown typesetting with Turing-complete extension
+
+支持图灵完备扩展的 Markdown 排版

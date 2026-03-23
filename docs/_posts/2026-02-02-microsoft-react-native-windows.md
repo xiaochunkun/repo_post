@@ -7,3 +7,5 @@ image: assets/microsoft_react_native_windows_20260201_151021_424_20260201_151057
 # [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows)
 
 Builds Windows apps with React
+
+使用React构建Windows应用

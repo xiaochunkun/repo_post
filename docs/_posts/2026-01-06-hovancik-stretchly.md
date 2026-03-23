@@ -7,3 +7,5 @@ image: assets/hovancik_stretchly_20260105_023756_591_20260105_023813_9c457d.png
 # [hovancik/stretchly](https://github.com/hovancik/stretchly/)
 
 Reminds users to take breaks during computer work
+
+提醒用户在电脑工作时休息

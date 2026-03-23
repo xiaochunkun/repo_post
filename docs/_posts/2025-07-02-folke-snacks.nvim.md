@@ -7,3 +7,5 @@ image: assets/folke_snacks.nvim_cropped.png
 # [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 
 Snacks.nvim: Neovim plugins collection
+
+Snacks.nvim：Neovim插件集合

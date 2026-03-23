@@ -7,3 +7,5 @@ image: assets/burakorkmez_mern_advanced_auth_20260106_182826_853_20260106_182842
 # [burakorkmez/mern-advanced-auth](https://github.com/burakorkmez/mern-advanced-auth/)
 
 Authentication system with email verification and password resets
+
+带邮箱验证和密码重置的认证系统

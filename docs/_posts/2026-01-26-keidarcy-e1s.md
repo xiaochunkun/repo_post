@@ -7,3 +7,5 @@ image: assets/keidarcy_e1s_20260117_052840_984_20260117_052904_c8c106.png
 # [keidarcy/e1s](https://github.com/keidarcy/e1s)
 
 Terminal interface for AWS ECS management
+
+用于管理 AWS ECS 的终端界面

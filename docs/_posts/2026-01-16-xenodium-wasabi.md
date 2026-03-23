@@ -7,3 +7,5 @@ image: assets/xenodium_wasabi_20260116_090425_427_20260116_090439_d743f6.png
 # [xenodium/wasabi](https://github.com/xenodium/wasabi)
 
 WhatsApp interface for Emacs
+
+Emacs 的 WhatsApp 界面

@@ -7,3 +7,5 @@ image: assets/20250912T171835903--certbot--certbot--20250912T172528766--cropped.
 # [certbot/certbot](https://github.com/certbot/certbot)
 
 automates getting and renewing HTTPS certificates for web servers
+
+自动获取和续签 Web 服务器 HTTPS 证书

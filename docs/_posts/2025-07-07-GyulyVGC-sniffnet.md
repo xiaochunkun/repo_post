@@ -7,3 +7,5 @@ image: assets/GyulyVGC_sniffnet_cropped.png
 # [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 
 Monitor and analyze your network traffic in real time
+
+实时监控和分析网络流量

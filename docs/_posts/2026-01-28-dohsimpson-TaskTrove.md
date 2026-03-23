@@ -7,3 +7,5 @@ image: assets/dohsimpson_TaskTrove_20260122_005212_747_20260122_005230_9ccaba.pn
 # [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove)
 
 Self-hostable task manager with natural language parsing
+
+支持自然语言解析的自托管任务管理器

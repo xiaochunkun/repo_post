@@ -7,3 +7,5 @@ image: assets/HKUDS_CLI_Anything_20260310_232023_322_20260310_232300_795891.png
 # [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 Makes software agent-ready via CLI
+
+通过CLI使软件具备代理能力

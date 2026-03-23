@@ -7,3 +7,5 @@ image: assets/kangraemin_claude_inspector_20260318_073755_891_20260318_073855_18
 # [kangraemin/claude-inspector](https://github.com/kangraemin/claude-inspector)
 
 Visualizes hidden Claude Code prompt mechanics
+
+可视化隐藏的Claude Code提示机制

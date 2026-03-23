@@ -7,3 +7,5 @@ image: assets/prowler_cloud_prowler_20251029_221658_018_20251029_222619_526a06--
 # [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler/)
 
 Automates security and compliance for AWS, Azure, and GCP
+
+自动化 AWS、Azure 和 GCP 的安全与合规性

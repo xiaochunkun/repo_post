@@ -7,3 +7,5 @@ image: assets/glzr_io_zebar_20260109_060526_582_20260109_060540_bfab57.png
 # [glzr-io/zebar](https://github.com/glzr-io/zebar)
 
 Creates taskbars and widgets across platforms
+
+跨平台创建任务栏和小部件

@@ -7,3 +7,5 @@ image: assets/flet_dev_flet_20260108_023443_786_20260108_023457_e7af3f.png
 # [flet-dev/flet](https://github.com/flet-dev/flet)
 
 Builds multi-platform apps in Python
+
+用 Python 构建多平台应用

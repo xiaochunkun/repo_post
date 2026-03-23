@@ -7,3 +7,5 @@ image: assets/forrestchang_andrej_karpathy_skills_20260216_213340_746_20260216_2
 # [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 
 Guidelines for LLM coding agents
+
+LLM 编码代理的指南

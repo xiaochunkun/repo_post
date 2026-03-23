@@ -7,3 +7,5 @@ image: assets/MakeYourPet_hexapod_20260111_094523_229_20260111_094538_b41f80.png
 # [MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod)
 
 Files for a 3D printed robot with six legs
+
+3D打印六足机器人文件

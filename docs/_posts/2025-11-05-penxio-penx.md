@@ -7,3 +7,5 @@ image: assets/penxio_penx_20251105_052836_531_20251105_123646_ab94a7--20251105T1
 # [penxio/penx](https://github.com/penxio/penx/)
 
 Local-first data hub with AI features
+
+本地优先的数据中心，具备 AI 功能

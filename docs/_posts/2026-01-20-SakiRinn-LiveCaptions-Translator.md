@@ -7,3 +7,5 @@ image: assets/SakiRinn_LiveCaptions_Translator_20260119_161128_062_20260119_1611
 # [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator)
 
 Translates Windows LiveCaptions with LLMs
+
+使用LLM翻译Windows LiveCaptions

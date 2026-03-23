@@ -7,3 +7,5 @@ image: assets/polarsource_polar_20260108_021339_326_20260108_021352_ada127.png
 # [polarsource/polar](https://github.com/polarsource/polar)
 
 Monetization platform for developers
+
+面向开发者的变现平台

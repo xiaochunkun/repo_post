@@ -7,3 +7,5 @@ image: assets/20251012T025921601--DesignLipsx--WinUI-3-Apps-List--20251012T03043
 # [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List)
 
 Curated list of 420+ Windows apps embracing WinUI 3 design
+
+精选的 420+ 个采用 WinUI 3 设计的 Windows 应用列表

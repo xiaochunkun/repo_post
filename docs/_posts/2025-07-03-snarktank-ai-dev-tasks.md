@@ -7,3 +7,5 @@ image: assets/snarktank_ai-dev-tasks_cropped.png
 # [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks)
 
 task files and workflows for AI development in Cursor
+
+用于Cursor中AI开发的任务文件和工作流

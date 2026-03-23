@@ -7,3 +7,5 @@ image: assets/malpern_VoxClaw_20260304_160521_521_20260304_160710_38ecb0.png
 # [malpern/VoxClaw](https://github.com/malpern/VoxClaw)
 
 Tool for text to speech on macOS with teleprompter overlay
+
+在macOS上进行文本转语音并叠加提词器的工具

@@ -7,3 +7,5 @@ image: assets/YTLitePlus_YTLitePlus_cropped.png
 # [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus)
 
 YouTube for iOS with extra tweaks and custom features
+
+iOS 版 YouTube，带有额外调整和自定义功能

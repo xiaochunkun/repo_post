@@ -7,3 +7,5 @@ image: assets/karpathy_llm_council_20260204_040823_890_20260204_040902_1b3f7c.pn
 # [karpathy/llm-council](https://github.com/karpathy/llm-council)
 
 Aggregates LLM responses for peer review and ranking
+
+聚合 LLM 响应进行同行评审和排名

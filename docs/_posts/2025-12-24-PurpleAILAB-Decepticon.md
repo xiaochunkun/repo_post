@@ -7,3 +7,5 @@ image: assets/PurpleAILAB_Decepticon_20251222_192326_710_20251222_192400_393bd5.
 # [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon/)
 
 Automates red teaming with AI agents
+
+使用AI代理自动化红队测试

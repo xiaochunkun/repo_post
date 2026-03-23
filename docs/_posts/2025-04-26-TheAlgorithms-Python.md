@@ -7,3 +7,5 @@ image: assets/TheAlgorithms_Python_cropped.png
 # [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
 Collection of Python algorithm code for learning and reference
+
+用于学习和参考的Python算法代码集合

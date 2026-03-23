@@ -7,3 +7,5 @@ image: assets/millionco_react_doctor_20260222_043908_192_20260222_043942_545042.
 # [millionco/react-doctor](https://github.com/millionco/react-doctor)
 
 Scans React codebases for security and performance issues
+
+扫描React代码库的安全和性能问题

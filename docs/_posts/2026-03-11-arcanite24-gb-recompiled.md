@@ -7,3 +7,5 @@ image: assets/arcanite24_gb_recompiled_20260303_015410_939_20260303_015550_51543
 # [arcanite24/gb-recompiled](https://github.com/arcanite24/gb-recompiled)
 
 Translates GameBoy ROMs into C code
+
+将GameBoy ROM转换为C代码

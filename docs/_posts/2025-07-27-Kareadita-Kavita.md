@@ -7,3 +7,5 @@ image: assets/Kareadita_Kavita_cropped.png
 # [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
 
 self-hosted server for comics, manga, and ebooks
+
+自托管服务器，用于漫画、动漫和电子书

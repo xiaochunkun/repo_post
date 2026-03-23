@@ -7,3 +7,5 @@ image: assets/KilledByAPixel_LittleJS_20251125_054843_817_20251127_170946_d3b660
 # [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS/)
 
 HTML5 game engine without dependencies
+
+无依赖的 HTML5 游戏引擎

@@ -7,3 +7,5 @@ image: assets/Atlas-OS_Atlas_cropped.png
 # [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 
 custom Windows for gaming, less bloat, more FPS
+
+为游戏定制的 Windows，减少臃肿，提高 FPS

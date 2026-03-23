@@ -7,3 +7,5 @@ image: assets/20250910T030159819--sindresorhus--type-fest--20250910T030326386--c
 # [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
 
 TypeScript utility types for everyday coding
+
+日常编程用的 TypeScript 工具类型

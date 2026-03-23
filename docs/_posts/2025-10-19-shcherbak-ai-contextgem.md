@@ -7,3 +7,5 @@ image: assets/shcherbak_ai_contextgem_20251019_003416_042_20251019_015705--20251
 # [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem/)
 
 Structured data extraction for LLMs
+
+为 LLMs 提取结构化数据

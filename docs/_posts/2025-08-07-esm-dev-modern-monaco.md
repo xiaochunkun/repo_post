@@ -7,3 +7,5 @@ image: assets/esm-dev_modern-monaco_cropped.png
 # [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco)
 
 Monaco editor, but modern
+
+现代化的 Monaco 编辑器

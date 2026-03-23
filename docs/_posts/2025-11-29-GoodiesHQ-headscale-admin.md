@@ -7,3 +7,5 @@ image: assets/GoodiesHQ_headscale_admin_20251126_111919_315_20251129_022551_d0fc
 # [GoodiesHQ/headscale-admin](https://github.com/GoodiesHQ/headscale-admin/)
 
 Web interface for the Headscale control server
+
+Headscale控制服务器的Web界面

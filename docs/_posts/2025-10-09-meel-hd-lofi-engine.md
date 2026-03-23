@@ -7,3 +7,5 @@ image: assets/20251009T194956465--meel-hd--lofi-engine--20251009T195616810--crop
 # [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine)
 
 generate your own lofi tracks and customize the vibe right from your desktop
+
+从桌面生成自定义氛围的 lofi 音轨

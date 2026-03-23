@@ -7,3 +7,5 @@ image: assets/PreMiD_PreMiD_20260124_034527_504_20260124_034545_e84c78.png
 # [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD)
 
 Displays web activities on Discord profiles
+
+在Discord个人资料上显示网页活动

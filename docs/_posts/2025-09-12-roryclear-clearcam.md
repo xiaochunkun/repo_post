@@ -7,3 +7,5 @@ image: assets/20250911T164647308--roryclear--clearcam--20250911T165933171--cropp
 # [roryclear/clearcam](https://github.com/roryclear/clearcam)
 
 turns your RTSP camera or old iPhone into an AI-powered security cam
+
+将 RTSP 摄像头或旧 iPhone 变成 AI 安防摄像头

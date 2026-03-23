@@ -7,3 +7,5 @@ image: assets/prakhar1989_awesome-courses_cropped.png
 # [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
 curated list of free computer science courses
+
+精选免费计算机科学课程列表

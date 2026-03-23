@@ -7,3 +7,5 @@ image: assets/20250830T152828271--SWE-agent--SWE-agent--20250830T153132838--crop
 # [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
 
 AI agent that fixes GitHub issues and finds bugs
+
+AI 智能体自动修复 GitHub Issue 和发现 Bug

@@ -7,3 +7,5 @@ image: assets/NExT_GPT_NExT_GPT_20251111_214418_802_20251112_032453_82caa5--2025
 # [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT/)
 
 End-to-end multimodal LLM for any-to-any I/O
+
+用于任意到任意 I/O 的端到端多模态 LLM

@@ -7,3 +7,5 @@ image: assets/kiki_ki_go_qo_20251219_223224_289_20251219_223241_c9f4b3.png
 # [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo/)
 
 SQL interface for JSON, CSV, and TSV files
+
+JSON、CSV和TSV文件的SQL接口

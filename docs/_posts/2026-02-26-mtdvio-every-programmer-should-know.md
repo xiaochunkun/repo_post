@@ -7,3 +7,5 @@ image: assets/mtdvio_every_programmer_should_know_20260221_094700_416_20260221_0
 # [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 
 Curated resources for software developers
+
+为软件开发人员整理的资源

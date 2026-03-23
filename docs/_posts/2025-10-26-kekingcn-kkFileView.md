@@ -6,3 +6,5 @@ image: assets/kekingcn_kkFileView_20251025_041706_013_20251025_041737_f056a2--20
 # [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView/)
 
 Online document preview for many file formats
+
+多种文件格式的在线文档预览

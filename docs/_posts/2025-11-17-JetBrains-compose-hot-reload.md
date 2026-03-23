@@ -7,3 +7,5 @@ image: assets/JetBrains_compose_hot_reload_20251115_070414_583_20251117_035811_0
 # [JetBrains/compose-hot-reload](https://github.com/JetBrains/compose-hot-reload/)
 
 See UI code changes instantly without restarting
+
+无需重启即可即时查看 UI 代码更改

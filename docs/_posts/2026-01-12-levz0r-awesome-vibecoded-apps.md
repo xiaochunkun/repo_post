@@ -7,3 +7,5 @@ image: assets/levz0r_awesome_vibecoded_apps_20260111_154216_800_20260111_154230_
 # [levz0r/awesome-vibecoded-apps](https://github.com/levz0r/awesome-vibecoded-apps)
 
 List of software built through AI-assisted development
+
+通过AI辅助开发构建的软件列表

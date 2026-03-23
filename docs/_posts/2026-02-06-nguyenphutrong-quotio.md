@@ -7,3 +7,5 @@ image: assets/nguyenphutrong_quotio_20260206_092120_635_20260206_092145_733217.p
 # [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)
 
 Manages AI accounts and quotas for coding tools
+
+管理AI账户和编码工具配额

@@ -7,3 +7,5 @@ image: assets/firstbatchxyz_dria_agent_20251124_232451_975_20251125_221317_90da2
 # [firstbatchxyz/dria-agent](https://github.com/firstbatchxyz/dria-agent/)
 
 Tool calling agents for edge devices
+
+用于边缘设备的工具调用代理

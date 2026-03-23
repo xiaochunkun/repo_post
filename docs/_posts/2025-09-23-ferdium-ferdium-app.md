@@ -7,3 +7,5 @@ image: assets/20250923T020628349--ferdium--ferdium-app--20250923T022018459--crop
 # [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app)
 
 organize all your apps and messaging services in one desktop workspace
+
+在一个桌面工作区中组织所有应用和消息服务

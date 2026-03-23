@@ -7,3 +7,5 @@ image: assets/JoseDeFreitas_awesome_youtubers_20251229_024637_482_20251229_02465
 # [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers/)
 
 List of technology channels on YouTube
+
+YouTube技术频道列表

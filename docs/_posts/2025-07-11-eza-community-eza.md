@@ -7,3 +7,5 @@ image: assets/eza-community_eza_cropped.png
 # [eza-community/eza](https://github.com/eza-community/eza)
 
 modern ls alternative for your terminal
+
+终端的现代ls替代工具

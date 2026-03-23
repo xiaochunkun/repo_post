@@ -7,3 +7,5 @@ image: assets/20251005T100554074--neuphonic--neutts-air--20251005T100733741--cro
 # [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
 
 on-device text-to-speech with instant voice cloning from just a few seconds of audio
+
+设备端文本转语音，支持从几秒音频快速克隆声音

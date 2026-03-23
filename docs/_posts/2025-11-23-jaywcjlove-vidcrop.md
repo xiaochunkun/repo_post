@@ -7,3 +7,5 @@ image: assets/jaywcjlove_vidcrop_20251122_121519_184_20251122_221948_4780db--202
 # [jaywcjlove/vidcrop](https://github.com/jaywcjlove/vidcrop/)
 
 Crops video files on macOS
+
+在macOS上裁剪视频文件

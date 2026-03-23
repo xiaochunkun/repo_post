@@ -7,3 +7,5 @@ image: assets/ethicalhackeragnidhra_Repositories_20260118_094438_381_20260118_09
 # [ethicalhackeragnidhra/Repositories](https://github.com/ethicalhackeragnidhra/Repositories)
 
 Curated lists for security researchers
+
+为安全研究人员整理的列表

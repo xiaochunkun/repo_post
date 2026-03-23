@@ -7,3 +7,5 @@ image: assets/Taskosaur_Taskosaur_20260203_003203_964_20260203_003226_73ec41.png
 # [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur)
 
 Project management with conversational task execution
+
+项目管理，支持对话式任务执行

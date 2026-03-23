@@ -7,3 +7,5 @@ image: assets/20250829T040200702--amplication--amplication--20250829T040821237--
 # [amplication/amplication](https://github.com/amplication/amplication)
 
 automates backend code and APIs with live templates and plugins
+
+自动生成后端代码和 API，支持模板和插件

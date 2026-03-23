@@ -7,3 +7,5 @@ image: assets/deepblue597_sixpath_20260213_203702_521_20260213_203801_1f8a48.png
 # [deepblue597/sixpath](https://github.com/deepblue597/sixpath)
 
 Maps professional connections through a graph interface
+
+通过图界面映射专业连接

@@ -7,3 +7,5 @@ image: assets/olvvier_apple_silicon_accelerometer_20260309_194819_318_20260309_1
 # [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)
 
 Reads accelerometer and gyroscope data from MacBook Pro sensors
+
+从MacBook Pro传感器读取加速度计和陀螺仪数据

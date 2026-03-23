@@ -7,3 +7,5 @@ image: assets/unpoller_unpoller_20251122_225136_203_20251123_001728_1eb951--2025
 # [unpoller/unpoller](https://github.com/unpoller/unpoller/)
 
 Exports UniFi data to InfluxDB and Prometheus
+
+将UniFi数据导出到InfluxDB和Prometheus

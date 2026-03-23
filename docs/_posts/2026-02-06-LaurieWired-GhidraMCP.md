@@ -7,3 +7,5 @@ image: assets/LaurieWired_GhidraMCP_20260206_113021_740_20260206_113038_4c2476.p
 # [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
 
 Server for LLMs to reverse engineer applications
+
+用于LLMs逆向工程应用的服务器

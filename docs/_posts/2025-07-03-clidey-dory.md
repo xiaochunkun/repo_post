@@ -7,3 +7,5 @@ image: assets/clidey_dory_cropped.png
 # [clidey/dory](https://github.com/clidey/dory)
 
 Static site generator for technical docs using Markdown and MDX
+
+使用Markdown和MDX的技术文档静态站点生成器

@@ -7,3 +7,5 @@ image: assets/Shpigford_skills_20260309_124344_797_20260309_124533_4e652e.png
 # [Shpigford/skills](https://github.com/Shpigford/skills)
 
 Agent skills for AI coding assistants
+
+AI 编码助手的代理技能

@@ -7,3 +7,5 @@ image: assets/mustbeperfect_definitive-opensource_cropped.png
 # [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource)
 
 curated list of top open source projects
+
+精选顶级开源项目列表

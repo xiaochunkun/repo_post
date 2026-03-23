@@ -7,3 +7,5 @@ image: assets/longbridge_longbridge_terminal_20260214_175309_269_20260214_175407
 # [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal)
 
 Terminal interface for stock trading
+
+股票交易的终端界面

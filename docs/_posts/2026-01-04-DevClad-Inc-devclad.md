@@ -7,3 +7,5 @@ image: assets/DevClad_Inc_devclad_20260103_063641_213_20260103_063700_daff1f.png
 # [DevClad-Inc/devclad](https://github.com/DevClad-Inc/devclad/)
 
 Social workspace for developers to network and build
+
+开发者社交工作空间，用于网络和构建

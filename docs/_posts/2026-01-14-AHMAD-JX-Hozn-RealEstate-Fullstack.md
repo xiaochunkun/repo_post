@@ -7,3 +7,5 @@ image: assets/AHMAD_JX_Hozn_RealEstate_Fullstack_20260114_040244_033_20260114_04
 # [AHMAD-JX/Hozn-RealEstate-Fullstack](https://github.com/AHMAD-JX/Hozn-RealEstate-Fullstack)
 
 Real estate platform with property management and admin dashboard
+
+集成物业管理和后台仪表板的房地产平台

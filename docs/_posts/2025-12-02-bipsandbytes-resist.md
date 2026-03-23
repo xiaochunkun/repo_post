@@ -7,3 +7,5 @@ image: assets/bipsandbytes_resist_20251201_021027_537_20251201_021102_3ac472.png
 # [bipsandbytes/resist](https://github.com/bipsandbytes/resist/)
 
 Chrome extension creating nutrition labels for digital content
+
+Chrome扩展，为数字内容创建营养标签

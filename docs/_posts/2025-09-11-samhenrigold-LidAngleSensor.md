@@ -7,3 +7,5 @@ image: assets/20250911T011744641--samhenrigold--LidAngleSensor--20250911T0122126
 # [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor)
 
 shows your MacBook lid angle and plays a creaking sound
+
+显示 MacBook 开合角度并播放吱嘎声效

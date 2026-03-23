@@ -7,3 +7,5 @@ image: assets/plugdata_team_plugdata_20251223_010758_854_20251223_010816_0329c9.
 # [plugdata-team/plugdata](https://github.com/plugdata-team/plugdata/)
 
 Plugin wrapper for Pure Data patching in DAWs
+
+用于DAWs中Pure Data补丁的插件包装器

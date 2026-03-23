@@ -7,3 +7,5 @@ image: assets/dsa_fast-voice-assistant--20250815T015840167--cropped.png
 # [dsa/fast-voice-assistant](https://github.com/dsa/fast-voice-assistant)
 
 AI voice assistant in 50 lines, responds in under 500ms
+
+50行代码的AI语音助手，响应时间低于500毫秒

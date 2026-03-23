@@ -7,3 +7,5 @@ image: assets/20251016T020615448--relativty--Relativty--20251016T024252449--crop
 # [relativty/Relativty](https://github.com/relativty/Relativty)
 
 open source VR headset project with SteamVR support and DIY build guide
+
+开源VR头显项目，支持SteamVR并提供DIY构建指南

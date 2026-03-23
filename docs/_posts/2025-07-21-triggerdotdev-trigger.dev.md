@@ -7,3 +7,5 @@ image: assets/triggerdotdev_trigger.dev_cropped.png
 # [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 
 open source background jobs and AI workflows
+
+开源后台任务与AI工作流平台

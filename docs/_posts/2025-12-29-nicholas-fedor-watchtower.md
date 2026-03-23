@@ -7,3 +7,5 @@ image: assets/nicholas_fedor_watchtower_20251227_205141_087_20251227_205158_7666
 # [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower/)
 
 Updates Docker container images automatically
+
+自动更新 Docker 容器镜像

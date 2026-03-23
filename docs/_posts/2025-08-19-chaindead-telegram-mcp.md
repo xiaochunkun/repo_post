@@ -7,3 +7,5 @@ image: assets/20250818T114128232_chaindead_telegram-mcp--20250818T114556611--cro
 # [chaindead/telegram-mcp](https://github.com/chaindead/telegram-mcp)
 
 bridge for AI assistants to manage Telegram chats via MCP
+
+通过MCP连接AI助手管理Telegram聊天的桥接工具

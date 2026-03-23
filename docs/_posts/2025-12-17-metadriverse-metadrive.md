@@ -7,3 +7,5 @@ image: assets/metadriverse_metadrive_20251215_035134_371_20251215_035229_ac442e.
 # [metadriverse/metadrive](https://github.com/metadriverse/metadrive/)
 
 Open-source driving simulator for AI research
+
+用于AI研究的开源驾驶模拟器

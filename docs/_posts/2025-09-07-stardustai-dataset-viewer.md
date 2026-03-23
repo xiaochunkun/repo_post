@@ -7,3 +7,5 @@ image: assets/20250906T222616119--stardustai--dataset-viewer--20250906T222749187
 # [stardustai/dataset-viewer](https://github.com/stardustai/dataset-viewer)
 
 view and search huge datasets, preview archives, supports many formats
+
+查看和搜索大型数据集，预览压缩包，支持多种格式

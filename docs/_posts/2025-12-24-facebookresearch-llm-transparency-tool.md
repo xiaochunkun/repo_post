@@ -7,3 +7,5 @@ image: assets/facebookresearch_llm_transparency_tool_20251223_083521_637_2025122
 # [facebookresearch/llm-transparency-tool](https://github.com/facebookresearch/llm-transparency-tool/)
 
 Visualizes internal workings of Transformer models
+
+可视化Transformer模型的内部工作原理

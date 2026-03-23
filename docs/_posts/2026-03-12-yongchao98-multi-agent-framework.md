@@ -7,3 +7,5 @@ image: assets/yongchao98_multi_agent_framework_20260304_114546_177_20260304_1147
 # [yongchao98/multi-agent-framework](https://github.com/yongchao98/multi-agent-framework)
 
 LLM discussion framework for multi-agent robot coordination
+
+多智能体机器人协调的LLM讨论框架

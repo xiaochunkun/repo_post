@@ -7,3 +7,5 @@ image: assets/OpenGalaxea_GalaxeaVLA_20260112_112147_861_20260112_112201_56c8c2.
 # [OpenGalaxea/GalaxeaVLA](https://github.com/OpenGalaxea/GalaxeaVLA)
 
 Dataset and model for robot manipulation
+
+机器人操作的数据集和模型

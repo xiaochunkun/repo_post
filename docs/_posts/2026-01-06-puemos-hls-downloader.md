@@ -7,3 +7,5 @@ image: assets/puemos_hls_downloader_20260104_194138_538_20260104_194153_d66772.p
 # [puemos/hls-downloader](https://github.com/puemos/hls-downloader/)
 
 Downloads HLS streams from a browser
+
+从浏览器下载 HLS 流

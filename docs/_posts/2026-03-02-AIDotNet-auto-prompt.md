@@ -7,3 +7,5 @@ image: assets/AIDotNet_auto_prompt_20260226_201723_740_20260226_201915_127fc8.pn
 # [AIDotNet/auto-prompt](https://github.com/AIDotNet/auto-prompt)
 
 Optimizes prompts through inference analysis and visualization
+
+通过推理分析和可视化优化提示

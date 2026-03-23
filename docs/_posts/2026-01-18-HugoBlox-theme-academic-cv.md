@@ -7,3 +7,5 @@ image: assets/HugoBlox_theme_academic_cv_20260117_144600_037_20260117_144617_bd9
 # [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)
 
 Builds research portfolios from Markdown files
+
+从Markdown文件构建研究组合

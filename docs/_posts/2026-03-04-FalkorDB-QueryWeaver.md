@@ -7,3 +7,5 @@ image: assets/FalkorDB_QueryWeaver_20260303_091009_412_20260303_091207_f5bc88.pn
 # [FalkorDB/QueryWeaver](https://github.com/FalkorDB/QueryWeaver)
 
 Converts language into SQL through schema understanding
+
+通过模式理解将语言转换为 SQL

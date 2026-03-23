@@ -7,3 +7,5 @@ image: assets/20250829T021719918--evershopcommerce--evershop--20250829T023243712
 # [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop)
 
 open source TypeScript eCommerce platform with GraphQL and React
+
+基于 TypeScript 的开源电商平台，支持 GraphQL 和 React

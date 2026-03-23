@@ -7,3 +7,5 @@ image: assets/Arindam200_awesome_ai_apps_20260207_070220_837_20260207_070235_e2c
 # [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
 
 Collection of examples for building LLM applications
+
+构建 LLM 应用的示例集合

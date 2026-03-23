@@ -7,3 +7,5 @@ image: assets/Dimillian_RedditOS_20251123_182042_645_20251124_184140_76327d--202
 # [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS/)
 
 SwiftUI Reddit client for macOS
+
+macOS 的 SwiftUI Reddit 客户端

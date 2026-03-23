@@ -7,3 +7,5 @@ image: assets/httpie_cli_cropped.png
 # [httpie/cli](https://github.com/httpie/cli)
 
 Command-line tool for sending HTTP requests and working with APIs
+
+用于发送HTTP请求和处理API的命令行工具

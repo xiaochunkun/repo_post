@@ -7,3 +7,5 @@ image: assets/cloudwego_eino_cropped.png
 # [cloudwego/eino](https://github.com/cloudwego/eino)
 
 LLM app framework from CloudWeGo for building with Golang
+
+来自CloudWeGo的LLM应用框架，用于使用Golang构建

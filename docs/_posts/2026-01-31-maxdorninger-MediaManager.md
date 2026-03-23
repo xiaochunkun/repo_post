@@ -7,3 +7,5 @@ image: assets/maxdorninger_MediaManager_20260129_034736_518_20260129_034816_e420
 # [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager)
 
 Automates media management with Docker and OAuth
+
+使用Docker和OAuth自动化媒体管理

@@ -7,3 +7,5 @@ image: assets/asternic_wuzapi_20251122_065633_521_20251122_111229_060114--202511
 # [asternic/wuzapi](https://github.com/asternic/wuzapi/)
 
 WhatsApp REST API service in Go
+
+Go 语言编写的 WhatsApp REST API 服务

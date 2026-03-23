@@ -7,3 +7,5 @@ image: assets/raghavpillai_branchlet_20260306_182201_687_20260306_182326_5f5f28.
 # [raghavpillai/branchlet](https://github.com/raghavpillai/branchlet)
 
 Manage Git worktrees via CLI menu
+
+通过 CLI 菜单管理 Git 工作树

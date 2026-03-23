@@ -7,3 +7,5 @@ image: assets/20250919T023115228--carbon-app--carbon--20250919T023735090--croppe
 # [carbon-app/carbon](https://github.com/carbon-app/carbon)
 
 create and share images of your code snippets
+
+创建和分享代码片段的图像

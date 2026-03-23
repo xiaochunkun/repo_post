@@ -7,3 +7,5 @@ image: assets/m1guelpf_auto_subtitle_20260203_213609_246_20260203_213637_58735b.
 # [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle)
 
 Generates and overlays subtitles using Whisper
+
+使用 Whisper 生成并叠加字幕

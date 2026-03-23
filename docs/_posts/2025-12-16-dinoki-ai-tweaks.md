@@ -7,3 +7,5 @@ image: assets/dinoki_ai_tweaks_20251213_141651_262_20251213_141731_998e29.png
 # [dinoki-ai/tweaks](https://github.com/dinoki-ai/tweaks/)
 
 AI-powered text enhancement for macOS
+
+macOS的AI文本增强工具

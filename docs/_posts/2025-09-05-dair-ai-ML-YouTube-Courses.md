@@ -7,3 +7,5 @@ image: assets/20250903T024457341--dair-ai--ML-YouTube-Courses--20250904T00361579
 # [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
 This repo lists YouTube machine learning courses by topic
+
+按主题整理的 YouTube 机器学习课程列表

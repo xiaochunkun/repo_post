@@ -7,3 +7,5 @@ image: assets/di_sukharev_opencommit_20251105_115110_384_20251105_123614_31c0f8-
 # [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit/)
 
 Auto-generates git commit messages
+
+自动生成git提交消息

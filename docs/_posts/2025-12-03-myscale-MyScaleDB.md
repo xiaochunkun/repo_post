@@ -7,3 +7,5 @@ image: assets/myscale_MyScaleDB_20251201_052316_322_20251201_052357_8634d4.png
 # [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB/)
 
 SQL vector database built on ClickHouse
+
+基于ClickHouse构建的SQL向量数据库

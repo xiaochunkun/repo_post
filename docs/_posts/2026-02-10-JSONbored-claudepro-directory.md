@@ -7,3 +7,5 @@ image: assets/JSONbored_claudepro_directory_20260204_131558_725_20260204_131619_
 # [JSONbored/claudepro-directory](https://github.com/JSONbored/claudepro-directory)
 
 Searchable collection of configurations and MCP servers for Claude AI
+
+Claude AI的可搜索配置和MCP服务器集合

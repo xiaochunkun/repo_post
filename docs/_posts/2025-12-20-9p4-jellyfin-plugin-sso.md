@@ -7,3 +7,5 @@ image: assets/9p4_jellyfin_plugin_sso_20251218_085029_692_20251218_085045_e78530
 # [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso/)
 
 Enables single sign-on for media servers
+
+为媒体服务器启用单点登录

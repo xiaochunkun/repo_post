@@ -7,3 +7,5 @@ image: assets/soxoj_maigret_20260108_030115_796_20260108_030129_29cdf8.png
 # [soxoj/maigret](https://github.com/soxoj/maigret)
 
 Collects dossiers on usernames across thousands of sites
+
+在数千个网站上收集用户名的档案

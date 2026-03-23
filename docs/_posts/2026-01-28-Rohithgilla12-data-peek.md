@@ -7,3 +7,5 @@ image: assets/Rohithgilla12_data_peek_20260121_204750_653_20260121_204808_10147c
 # [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek)
 
 SQL client with AI querying and ER diagrams
+
+支持AI查询和ER图的SQL客户端

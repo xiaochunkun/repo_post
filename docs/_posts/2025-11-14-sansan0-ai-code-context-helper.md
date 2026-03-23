@@ -7,3 +7,5 @@ image: assets/sansan0_ai_code_context_helper_20251113_181116_830_20251114_014611
 # [sansan0/ai-code-context-helper](https://github.com/sansan0/ai-code-context-helper/)
 
 Extracts code context for AI assistants
+
+提取AI助手代码上下文

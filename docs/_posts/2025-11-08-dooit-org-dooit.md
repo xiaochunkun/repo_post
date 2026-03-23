@@ -7,3 +7,5 @@ image: assets/dooit_org_dooit_20251107_202323_788_20251108_000011_fd00db--202511
 # [dooit-org/dooit](https://github.com/dooit-org/dooit/)
 
 Terminal todo manager with python configuration
+
+使用Python配置的终端待办事项管理器

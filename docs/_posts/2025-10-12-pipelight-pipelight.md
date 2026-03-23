@@ -7,3 +7,5 @@ image: assets/20251012T015351258--pipelight--pipelight--20251012T023022333--crop
 # [pipelight/pipelight](https://github.com/pipelight/pipelight)
 
 tiny CLI tool for automating repetitive tasks with pipelines
+
+使用流水线自动化重复任务的微型 CLI 工具

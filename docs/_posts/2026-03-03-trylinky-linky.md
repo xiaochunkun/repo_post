@@ -7,3 +7,5 @@ image: assets/trylinky_linky_20260303_163054_417_20260303_163239_f79b76.png
 # [trylinky/linky](https://github.com/trylinky/linky)
 
 Personal page builder with self-hosting support
+
+个人页面构建器，支持自托管

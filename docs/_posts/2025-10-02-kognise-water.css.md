@@ -7,3 +7,5 @@ image: assets/20251001T134648242--kognise--water.css--20251001T134856597--croppe
 # [kognise/water.css](https://github.com/kognise/water.css)
 
 classless CSS for quick, nice-looking static sites
+
+无类CSS，用于快速构建美观的静态网站

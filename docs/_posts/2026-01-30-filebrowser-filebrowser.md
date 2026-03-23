@@ -7,3 +7,5 @@ image: assets/filebrowser_filebrowser_20260129_135549_464_20260129_135626_152ac7
 # [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
 
 Self-hosted cloud for file management
+
+自托管文件管理云

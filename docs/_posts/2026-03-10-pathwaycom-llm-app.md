@@ -7,3 +7,5 @@ image: assets/pathwaycom_llm_app_20260228_184627_771_20260228_184833_a86ac1.png
 # [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 Syncs data sources with LLM pipelines in real-time
+
+实时同步数据源与LLM管道

@@ -7,3 +7,5 @@ image: assets/SnowingFox_open_nof1_ai_20251225_091612_643_20251225_091629_81ba9c
 # [SnowingFox/open-nof1.ai](https://github.com/SnowingFox/open-nof1.ai/)
 
 Evaluates AI models trading cryptocurrency in real markets
+
+在真实市场中评估 AI 模型交易加密货币

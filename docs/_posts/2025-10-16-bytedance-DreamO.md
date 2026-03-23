@@ -7,3 +7,5 @@ image: assets/20251016T010328531--bytedance--DreamO--20251016T070153799--cropped
 # [bytedance/DreamO](https://github.com/bytedance/DreamO)
 
 unified framework for advanced image customization and text-to-image generation
+
+用于高级图像定制和文本到图像生成的统一框架

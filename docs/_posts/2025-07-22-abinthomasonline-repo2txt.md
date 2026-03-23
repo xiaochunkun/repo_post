@@ -7,3 +7,5 @@ image: assets/abinthomasonline_repo2txt_cropped.png
 # [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt)
 
 turn a GitHub repo into a single text file for LLMs
+
+将GitHub仓库转为单文本文件，供LLM使用

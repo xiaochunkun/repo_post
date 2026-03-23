@@ -7,3 +7,5 @@ image: assets/11notes_docker_netbird_20251114_063854_568_20251114_163149_cd6499-
 # [11notes/docker-netbird](https://github.com/11notes/docker-netbird/)
 
 Run a WireGuard-based overlay network from a single image
+
+从单个镜像运行基于WireGuard的覆盖网络

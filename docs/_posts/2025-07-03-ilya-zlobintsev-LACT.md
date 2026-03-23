@@ -7,3 +7,5 @@ image: assets/ilya-zlobintsev_LACT_cropped.png
 # [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT)
 
 Linux GPU configuration and monitoring tool
+
+Linux GPU配置和监控工具

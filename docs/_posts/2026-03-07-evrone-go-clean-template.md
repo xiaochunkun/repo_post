@@ -7,3 +7,5 @@ image: assets/evrone_go_clean_template_20260306_001823_778_20260306_002019_6ebea
 # [evrone/go-clean-template](https://github.com/evrone/go-clean-template)
 
 Template for Golang services using Clean Architecture principles
+
+使用Clean Architecture原则的Golang服务模板

@@ -7,3 +7,5 @@ image: assets/SimonSchubert_LinuxCommandLibrary_20251118_045006_014_20251118_050
 # [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary/)
 
 Offline library of 7680 Linux manual pages
+
+包含7680个Linux手册页的离线库

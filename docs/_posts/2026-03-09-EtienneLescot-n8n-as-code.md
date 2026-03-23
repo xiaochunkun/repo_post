@@ -7,3 +7,5 @@ image: assets/EtienneLescot_n8n_as_code_20260309_110222_436_20260309_110436_ca87
 # [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code)
 
 Syncs n8n workflows with code editors for AI agents
+
+将n8n工作流与代码编辑器同步以用于AI代理

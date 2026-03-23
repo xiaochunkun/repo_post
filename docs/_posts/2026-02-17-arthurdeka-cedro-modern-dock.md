@@ -7,3 +7,5 @@ image: assets/arthurdeka_cedro_modern_dock_20260120_132759_763_20260120_132824_f
 # [arthurdeka/cedro-modern-dock](https://github.com/arthurdeka/cedro-modern-dock)
 
 Customizable application dock for Windows built with JavaFX
+
+用JavaFX构建的可自定义Windows应用坞

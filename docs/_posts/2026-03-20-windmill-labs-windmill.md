@@ -7,3 +7,5 @@ image: assets/windmill_labs_windmill_20260223_045057_710_20260223_045115_b97321.
 # [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
 
 Turns scripts into workflows and UIs
+
+将脚本转换为工作流和UI

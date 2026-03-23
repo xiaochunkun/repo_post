@@ -7,3 +7,5 @@ image: assets/bsogulcan_another_iptv_player_20260213_202611_917_20260213_202704_
 # [bsogulcan/another-iptv-player](https://github.com/bsogulcan/another-iptv-player)
 
 IPTV player for multiple platforms
+
+多平台 IPTV 播放器

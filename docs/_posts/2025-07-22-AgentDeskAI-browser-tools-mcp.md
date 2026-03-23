@@ -7,3 +7,5 @@ image: assets/AgentDeskAI_browser-tools-mcp_cropped.png
 # [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
 
 AI tools talk to your browser, automate tasks, debug web apps
+
+AI工具与浏览器交互，自动化任务和调试网页应用

@@ -7,3 +7,5 @@ image: assets/keepassxreboot_keepassxc_20251122_170652_070_20251123_001235_56351
 # [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc/)
 
 Stores passwords in offline encrypted files
+
+在离线加密文件中存储密码

@@ -7,3 +7,5 @@ image: assets/infranodus_mcp_server_infranodus_20260209_033544_779_20260209_0336
 # [infranodus/mcp-server-infranodus](https://github.com/infranodus/mcp-server-infranodus)
 
 Transforms text into knowledge graphs for LLMs
+
+将文本转换为知识图谱供 LLM 使用

@@ -7,3 +7,5 @@ image: assets/firecracker_microvm_firecracker_20260215_174349_610_20260215_17444
 # [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 
 Runs microVMs for serverless workloads
+
+运行无服务器工作负载的 microVM

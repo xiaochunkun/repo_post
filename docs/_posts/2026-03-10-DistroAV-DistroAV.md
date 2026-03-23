@@ -7,3 +7,5 @@ image: assets/DistroAV_DistroAV_20260309_104117_630_20260309_104232_742a62.png
 # [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV)
 
 NDI integration for OBS Studio
+
+OBS Studio 的 NDI 集成

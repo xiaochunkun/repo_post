@@ -7,3 +7,5 @@ image: assets/beacondb_beacondb_20251120_065138_453_20251121_054949_7638da--2025
 # [beacondb/beacondb](https://github.com/beacondb/beacondb/)
 
 Mozilla Location Services alternative in Rust
+
+Rust实现的Mozilla定位服务替代方案

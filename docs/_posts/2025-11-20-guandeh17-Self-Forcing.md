@@ -7,3 +7,5 @@ image: assets/guandeh17_Self_Forcing_20251120_032413_582_20251120_041026_d944cc-
 # [guandeh17/Self-Forcing](https://github.com/guandeh17/Self-Forcing/)
 
 Real-time streaming video generation on a single GPU
+
+在单个 GPU 上实时流式视频生成

@@ -7,3 +7,5 @@ image: assets/runkids_skillshare_20260211_055901_156_20260211_055918_65adae.png
 # [runkids/skillshare](https://github.com/runkids/skillshare)
 
 Syncs AI CLI skills across tools
+
+跨工具同步 AI CLI 技能

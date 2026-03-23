@@ -7,3 +7,5 @@ image: assets/kingToolbox_WindTerm_cropped.png
 # [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm)
 
 cross-platform SSH and terminal client with tmux integration
+
+跨平台 SSH 和终端客户端，集成 tmux

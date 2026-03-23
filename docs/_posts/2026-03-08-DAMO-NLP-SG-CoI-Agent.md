@@ -7,3 +7,5 @@ image: assets/DAMO_NLP_SG_CoI_Agent_20260207_184616_916_20260207_184638_d7882a.p
 # [DAMO-NLP-SG/CoI-Agent](https://github.com/DAMO-NLP-SG/CoI-Agent)
 
 Develops research ideas with LLM agents
+
+利用 LLM 代理开发研究想法

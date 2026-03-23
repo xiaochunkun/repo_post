@@ -7,3 +7,5 @@ image: assets/20250928T055241921--GladysAssistant--Gladys--20250928T060149180--c
 # [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys)
 
 privacy-focused open-source smart home assistant with easy setup and automation
+
+注重隐私的开源智能家居助手，易于设置和自动化

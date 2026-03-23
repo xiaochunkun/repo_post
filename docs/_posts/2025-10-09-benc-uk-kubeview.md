@@ -7,3 +7,5 @@ image: assets/20251009T061455162--benc-uk--kubeview--20251009T061910086--cropped
 # [benc-uk/kubeview](https://github.com/benc-uk/kubeview)
 
 visualizes Kubernetes clusters and relationships in real time
+
+实时可视化 Kubernetes 集群和关系

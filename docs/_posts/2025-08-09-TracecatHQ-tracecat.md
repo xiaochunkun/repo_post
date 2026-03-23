@@ -7,3 +7,5 @@ image: assets/TracecatHQ_tracecat_cropped.png
 # [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
 
 open source security automation platform, no-code workflows, case management
+
+开源安全自动化平台，支持无代码工作流和案例管理

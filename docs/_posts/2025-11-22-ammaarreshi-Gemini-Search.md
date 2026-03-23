@@ -7,3 +7,5 @@ image: assets/ammaarreshi_Gemini_Search_20251121_135657_669_20251122_045921_83bf
 # [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search/)
 
 Perplexity clone using Gemini 2.0 Flash
+
+使用 Gemini 2.0 Flash 的 Perplexity 克隆

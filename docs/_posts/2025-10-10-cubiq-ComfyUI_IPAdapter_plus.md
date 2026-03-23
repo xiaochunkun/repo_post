@@ -7,3 +7,5 @@ image: assets/20251010T064530077--cubiq--ComfyUI_IPAdapter_plus--20251010T065045
 # [cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
 
 image-to-image style and subject transfer for ComfyUI
+
+用于 ComfyUI 的图像到图像风格和主题转换工具

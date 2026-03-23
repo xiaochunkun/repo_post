@@ -7,3 +7,5 @@ image: assets/sruinz_Video_Download_to_NAS_20251223_121232_521_20251223_121250_b
 # [sruinz/Video-Download-to-NAS](https://github.com/sruinz/Video-Download-to-NAS/)
 
 Archives videos to a NAS with Docker
+
+使用 Docker 将视频归档到 NAS

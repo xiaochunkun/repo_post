@@ -7,3 +7,5 @@ image: assets/mult1v4c_hestia_core_20260203_001627_147_20260203_001652_e5c53f.pn
 # [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core)
 
 Grid dashboard for homelab integrations in a browser
+
+浏览器中的家庭实验室集成网格仪表板

@@ -7,3 +7,5 @@ image: assets/frappe_crm_20260122_042602_046_20260122_042624_fb6185.png
 # [frappe/crm](https://github.com/frappe/crm)
 
 Open source sales tool with unlimited users
+
+无限用户的开源销售工具

@@ -7,3 +7,5 @@ image: assets/di_sukharev_opencommit_20260203_100822_738_20260203_100845_45bd77.
 # [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)
 
 Generates commit messages with LLMs
+
+使用LLM生成提交信息

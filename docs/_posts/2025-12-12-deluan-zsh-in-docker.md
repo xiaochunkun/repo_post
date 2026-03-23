@@ -7,3 +7,5 @@ image: assets/deluan_zsh_in_docker_20251209_032551_558_20251209_032626_44cb6a.pn
 # [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker/)
 
 Automates Oh My Zsh installation in Docker containers
+
+在Docker容器中自动化安装Oh My Zsh

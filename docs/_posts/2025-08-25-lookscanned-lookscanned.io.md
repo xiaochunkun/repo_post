@@ -7,3 +7,5 @@ image: assets/20250825T020426262--lookscanned--lookscanned.io--20250825T02393403
 # [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io)
 
 turns PDFs into scanned-looking files right in your browser
+
+在浏览器中将 PDF 处理成扫描件效果

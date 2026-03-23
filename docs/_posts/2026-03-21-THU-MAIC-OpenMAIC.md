@@ -7,3 +7,5 @@ image: assets/THU_MAIC_OpenMAIC_20260321_062035_836_20260321_062210_ae5222.png
 # [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
 Generative multi-agent learning classroom
+
+生成式多智能体学习课堂

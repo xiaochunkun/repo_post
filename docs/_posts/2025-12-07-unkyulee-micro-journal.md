@@ -7,3 +7,5 @@ image: assets/unkyulee_micro_journal_20251205_000701_688_20251205_000726_c8d4ad.
 # [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal/)
 
 Open-source DIY distraction-free writing device
+
+开源DIY无干扰写作设备

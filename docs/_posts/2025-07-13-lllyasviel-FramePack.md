@@ -7,3 +7,5 @@ image: assets/lllyasviel_FramePack_cropped.png
 # [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)
 
 turns images into videos with low GPU needs
+
+低GPU需求将图像转为视频

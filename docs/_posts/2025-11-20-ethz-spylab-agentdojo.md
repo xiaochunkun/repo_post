@@ -7,3 +7,5 @@ image: assets/ethz_spylab_agentdojo_20251118_171323_221_20251119_235802_8caf9e--
 # [ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo/)
 
 Environment to evaluate prompt injection attacks on LLM agents
+
+评估 LLM 代理上提示注入攻击的环境

@@ -7,3 +7,5 @@ image: assets/dineug_erd_editor_20260321_111241_021_20260321_111316_033f89.png
 # [dineug/erd-editor](https://github.com/dineug/erd-editor)
 
 Entity-Relationship Diagram Editor with real-time collaboration
+
+支持实时协作的实体关系图编辑器

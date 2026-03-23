@@ -7,3 +7,5 @@ image: assets/gluesql_glues_20251115_052121_159_20251116_150436_a7ee25--20251116
 # [gluesql/glues](https://github.com/gluesql/glues/)
 
 Terminal note-taking app with multiple storage options
+
+支持多存储选项的终端笔记应用

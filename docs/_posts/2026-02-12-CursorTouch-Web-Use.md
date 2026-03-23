@@ -7,3 +7,5 @@ image: assets/CursorTouch_Web_Use_20260211_090010_417_20260211_090028_543ac3.png
 # [CursorTouch/Web-Use](https://github.com/CursorTouch/Web-Use)
 
 Agent for web browsing and scraping using LLMs and Playwright
+
+使用LLM和Playwright进行网页浏览和抓取的代理

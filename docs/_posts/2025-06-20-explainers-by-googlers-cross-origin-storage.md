@@ -7,3 +7,5 @@ image: assets/explainers-by-googlers_cross-origin-storage_cropped.png
 # [explainers-by-googlers/cross-origin-storage](https://github.com/explainers-by-googlers/cross-origin-storage)
 
 cross-origin file storage and retrieval for web apps
+
+用于Web应用的跨源文件存储和检索

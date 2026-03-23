@@ -7,3 +7,5 @@ image: assets/20251005T003100898--inbucket--inbucket--20251005T003539313--croppe
 # [inbucket/inbucket](https://github.com/inbucket/inbucket)
 
 email testing server for capturing and viewing messages in dev environments
+
+开发环境中捕获和查看邮件的电子邮件测试服务器

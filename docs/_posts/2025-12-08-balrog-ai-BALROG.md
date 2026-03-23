@@ -7,3 +7,5 @@ image: assets/balrog_ai_BALROG_20251207_175953_165_20251207_180015_44381e.png
 # [balrog-ai/BALROG](https://github.com/balrog-ai/BALROG/)
 
 Benchmark for agentic LLM and VLM reasoning on games
+
+游戏中的智能体 LLM 和 VLM 推理基准测试

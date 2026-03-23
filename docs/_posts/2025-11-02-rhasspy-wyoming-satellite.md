@@ -7,3 +7,5 @@ image: assets/rhasspy_wyoming_satellite_20251031_081508_138_20251101_211023_e3ef
 # [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite/)
 
 A remote voice satellite for Home Assistant
+
+Home Assistant 的远程语音卫星

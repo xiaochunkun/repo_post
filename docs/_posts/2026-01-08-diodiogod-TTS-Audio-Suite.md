@@ -7,3 +7,5 @@ image: assets/diodiogod_TTS_Audio_Suite_20251222_112954_059_20251222_113015_c757
 # [diodiogod/TTS-Audio-Suite](https://github.com/diodiogod/TTS-Audio-Suite/)
 
 Integrates text-to-speech and voice conversion into ComfyUI
+
+将文本转语音和语音转换集成到 ComfyUI

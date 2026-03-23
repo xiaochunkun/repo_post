@@ -7,3 +7,5 @@ image: assets/krypton_byte_neonize_20260115_104121_491_20260115_104210_fa80df.pn
 # [krypton-byte/neonize](https://github.com/krypton-byte/neonize)
 
 WhatsApp automation library with Go backend for Python
+
+WhatsApp 自动化库，使用 Go 后端支持 Python

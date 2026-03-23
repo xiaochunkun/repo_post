@@ -7,3 +7,5 @@ image: assets/20250818T120521006_Tecnativa_docker-socket-proxy--20250818T1209551
 # [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy)
 
 security proxy for Docker socket access
+
+Docker Socket 安全代理工具

@@ -7,3 +7,5 @@ image: assets/akaunting_akaunting_cropped.png
 # [akaunting/akaunting](https://github.com/akaunting/akaunting)
 
 Open source accounting for small businesses and freelancers
+
+面向小型企业和自由职业者的开源会计软件

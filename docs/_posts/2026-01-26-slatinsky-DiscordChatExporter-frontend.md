@@ -7,3 +7,5 @@ image: assets/slatinsky_DiscordChatExporter_frontend_20260111_174901_387_2026011
 # [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend)
 
 Viewer for chat exports in a browser
+
+在浏览器中查看聊天导出内容

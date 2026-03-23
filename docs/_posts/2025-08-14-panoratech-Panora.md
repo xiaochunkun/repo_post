@@ -7,3 +7,5 @@ image: assets/panoratech_Panora--20250814T035300387--cropped.png
 # [panoratech/Panora](https://github.com/panoratech/Panora)
 
 Open-source unified API for integrating data sources with LLMs
+
+开源统一API，用于将数据源与LLM集成

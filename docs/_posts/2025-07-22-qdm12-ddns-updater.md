@@ -7,3 +7,5 @@ image: assets/qdm12_ddns-updater_cropped.png
 # [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater)
 
 updates DNS records for lots of providers with a simple container
+
+通过简单容器更新多家提供商的DNS记录

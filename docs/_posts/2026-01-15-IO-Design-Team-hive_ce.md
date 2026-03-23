@@ -7,3 +7,5 @@ image: assets/IO_Design_Team_hive_ce_20260115_102617_402_20260115_102631_2abc83.
 # [IO-Design-Team/hive_ce](https://github.com/IO-Design-Team/hive_ce)
 
 NoSQL database for Dart and Flutter
+
+用于 Dart 和 Flutter 的 NoSQL 数据库

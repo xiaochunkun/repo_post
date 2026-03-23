@@ -7,3 +7,5 @@ image: assets/Alliedium_awesome_software_engineering_20260104_170039_734_2026010
 # [Alliedium/awesome-software-engineering](https://github.com/Alliedium/awesome-software-engineering/)
 
 Curated list of software engineering resources
+
+精选软件工程资源列表

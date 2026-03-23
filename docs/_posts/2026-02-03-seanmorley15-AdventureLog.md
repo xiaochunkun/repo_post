@@ -7,3 +7,5 @@ image: assets/seanmorley15_AdventureLog_20260202_221316_810_20260202_221345_c820
 # [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog)
 
 Self-hostable travel tracker and trip planner
+
+可自托管的旅行追踪器和行程规划器

@@ -7,3 +7,5 @@ image: assets/dronesploit_dronesploit_20251228_223340_131_20251228_223406_aa3296
 # [dronesploit/dronesploit](https://github.com/dronesploit/dronesploit/)
 
 Pentesting framework for drone hacking
+
+无人机渗透测试框架

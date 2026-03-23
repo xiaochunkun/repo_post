@@ -7,3 +7,5 @@ image: assets/20250820T132641947_EbiPenMan_solana-constraints-almanac--20250820T
 # [EbiPenMan/solana-constraints-almanac](https://github.com/EbiPenMan/solana-constraints-almanac)
 
 A handy guide for Solana devs listing all the key blockchain limits and constraints in one place
+
+Solana 开发者速查手册，汇总所有区块链限制和约束

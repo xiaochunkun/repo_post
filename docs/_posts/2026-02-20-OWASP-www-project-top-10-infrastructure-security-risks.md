@@ -7,3 +7,5 @@ image: assets/OWASP_www_project_top_10_infrastructure_security_risks_20260217_15
 # [OWASP/www-project-top-10-infrastructure-security-risks](https://github.com/OWASP/www-project-top-10-infrastructure-security-risks)
 
 Lists infrastructure security risks and vulnerabilities
+
+列出基础设施安全风险和漏洞

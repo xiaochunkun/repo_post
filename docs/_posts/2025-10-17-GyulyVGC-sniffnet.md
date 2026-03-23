@@ -7,3 +7,5 @@ image: assets/screenshot_20251017_052901--20251017T072901329--cropped.png
 # [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/)
 
 AI multilingual speech recognition, translation, dubbing web app
+
+AI多语言语音识别、翻译、配音Web应用

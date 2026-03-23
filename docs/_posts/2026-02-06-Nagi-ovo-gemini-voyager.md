@@ -7,3 +7,5 @@ image: assets/Nagi_ovo_gemini_voyager_20260204_034000_082_20260204_034016_068973
 # [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager)
 
 Timeline and prompt vault for Gemini
+
+Gemini的时间线和提示库

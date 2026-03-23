@@ -7,3 +7,5 @@ image: assets/kbumsik_VirtScreen_20251228_194511_100_20251228_194529_9add95.png
 # [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen/)
 
 Turns a tablet into a secondary monitor on Linux via VNC
+
+通过VNC将平板变为Linux的副显示器

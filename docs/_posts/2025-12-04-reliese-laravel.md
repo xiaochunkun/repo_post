@@ -7,3 +7,5 @@ image: assets/reliese_laravel_20251201_091832_577_20251201_091901_2c308f.png
 # [reliese/laravel](https://github.com/reliese/laravel/)
 
 Generates Laravel models from database schemas
+
+从数据库模式生成Laravel模型

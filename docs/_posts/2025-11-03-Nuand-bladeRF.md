@@ -7,3 +7,5 @@ image: assets/Nuand_bladeRF_20251031_153855_059_20251102_214544_f294cf--20251102
 # [Nuand/bladeRF](https://github.com/Nuand/bladeRF/)
 
 Source code for a USB 3.0 software defined radio
+
+USB 3.0软件定义无线电源码

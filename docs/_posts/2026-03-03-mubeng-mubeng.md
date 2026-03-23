@@ -7,3 +7,5 @@ image: assets/mubeng_mubeng_20260303_164752_151_20260303_164929_9754d8.png
 # [mubeng/mubeng](https://github.com/mubeng/mubeng)
 
 Rotates IP addresses and verifies proxy availability
+
+轮换 IP 地址并验证代理可用性

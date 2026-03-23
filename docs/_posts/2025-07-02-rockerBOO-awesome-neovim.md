@@ -7,3 +7,5 @@ image: assets/rockerBOO_awesome-neovim_cropped.png
 # [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 
 List of Neovim plugins organized by category for extending Neovim functionality
+
+按类别组织的Neovim插件列表，用于扩展Neovim功能

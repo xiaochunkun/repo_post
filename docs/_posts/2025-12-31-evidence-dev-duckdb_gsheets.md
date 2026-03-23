@@ -7,3 +7,5 @@ image: assets/evidence_dev_duckdb_gsheets_20251229_185305_906_20251229_185323_47
 # [evidence-dev/duckdb_gsheets](https://github.com/evidence-dev/duckdb_gsheets/)
 
 Read and write Google Sheets with SQL
+
+使用 SQL 读写 Google Sheets

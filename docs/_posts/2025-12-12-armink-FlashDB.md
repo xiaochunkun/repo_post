@@ -7,3 +7,5 @@ image: assets/armink_FlashDB_20251209_051256_357_20251209_051318_e555d2.png
 # [armink/FlashDB](https://github.com/armink/FlashDB/)
 
 Key-value and time-series storage for Flash
+
+Flash的键值和时间序列存储

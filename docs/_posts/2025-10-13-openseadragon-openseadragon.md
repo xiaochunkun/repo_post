@@ -7,3 +7,5 @@ image: assets/20251012T030244791--openseadragon--openseadragon--20251012T0308308
 # [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon)
 
 viewer for zoomable images in JavaScript
+
+JavaScript 可缩放图像查看器

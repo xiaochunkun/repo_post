@@ -7,3 +7,5 @@ image: assets/charles_001_dolphie_20251031_050013_941_20251031_210025_07e1df--20
 # [charles-001/dolphie](https://github.com/charles-001/dolphie/)
 
 Real-time analytics for MySQL, MariaDB, and ProxySQL
+
+MySQL、MariaDB 和 ProxySQL 的实时分析工具

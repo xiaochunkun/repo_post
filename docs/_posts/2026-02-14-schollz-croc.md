@@ -7,3 +7,5 @@ image: assets/schollz_croc_20260129_005811_993_20260129_005848_8b6791.png
 # [schollz/croc](https://github.com/schollz/croc)
 
 Transfers files between computers with encryption
+
+在计算机之间加密传输文件

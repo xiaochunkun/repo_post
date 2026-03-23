@@ -7,3 +7,5 @@ image: assets/moazbuilds_CodeMachine_CLI_20260210_025941_014_20260210_025957_6bd
 # [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI)
 
 Orchestrates AI agents into repeatable workflows
+
+将 AI 代理编排为可重复的工作流

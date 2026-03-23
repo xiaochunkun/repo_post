@@ -7,3 +7,5 @@ image: assets/martin98_afk_CanvasMind_20260115_121735_114_20260115_121754_cbacf0
 # [martin98-afk/CanvasMind](https://github.com/martin98-afk/CanvasMind)
 
 Visual programming platform for AI workflow development
+
+AI 工作流开发的可视化编程平台

@@ -7,3 +7,5 @@ image: assets/frankwxu_digital_forensics_lab_20260221_074031_740_20260221_074104
 # [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab)
 
 Labs for digital forensics using Kali Linux
+
+使用 Kali Linux 的数字取证实验室

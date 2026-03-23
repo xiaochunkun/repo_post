@@ -7,3 +7,5 @@ image: assets/computebaker_tekir_20260112_121645_071_20260112_121658_fadac5.png
 # [computebaker/tekir](https://github.com/computebaker/tekir)
 
 Search engine with AI assistant and privacy by design
+
+内置AI助手和隐私设计的搜索引擎

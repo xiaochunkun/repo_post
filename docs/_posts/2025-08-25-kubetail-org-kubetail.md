@@ -7,3 +7,5 @@ image: assets/20250822T023446585--kubetail-org--kubetail--20250825T024511540--cr
 # [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail)
 
 real-time Kubernetes log dashboard for browser or terminal
+
+Kubernetes 实时日志面板，支持浏览器和终端

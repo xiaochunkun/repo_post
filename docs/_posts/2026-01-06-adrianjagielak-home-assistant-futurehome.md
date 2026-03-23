@@ -7,3 +7,5 @@ image: assets/adrianjagielak_home_assistant_futurehome_20260105_193222_208_20260
 # [adrianjagielak/home-assistant-futurehome](https://github.com/adrianjagielak/home-assistant-futurehome/)
 
 Integrates Futurehome devices into Home Assistant
+
+将 Futurehome 设备集成到 Home Assistant

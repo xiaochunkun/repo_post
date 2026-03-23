@@ -7,3 +7,5 @@ image: assets/ScrapeGraphAI_Scrapegraph-ai_cropped.png
 # [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
 
 AI-powered Python tool for scraping websites and documents
+
+AI驱动的Python工具，用于抓取网站和文档

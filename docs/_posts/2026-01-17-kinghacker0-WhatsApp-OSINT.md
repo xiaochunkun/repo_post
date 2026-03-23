@@ -7,3 +7,5 @@ image: assets/kinghacker0_WhatsApp_OSINT_20260116_071343_159_20260116_071356_753
 # [kinghacker0/WhatsApp-OSINT](https://github.com/kinghacker0/WhatsApp-OSINT)
 
 Retrieves profile data and privacy settings via phone numbers
+
+通过电话号码检索个人资料数据和隐私设置

@@ -7,3 +7,5 @@ image: assets/Luzifer_ots_20251113_181624_091_20251114_015104_575f9d--20251114T0
 # [Luzifer/ots](https://github.com/Luzifer/ots/)
 
 One-time secret sharing platform with in-browser encryption
+
+具有浏览器内加密的一次性秘密共享平台

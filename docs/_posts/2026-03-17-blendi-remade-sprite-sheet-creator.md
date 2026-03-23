@@ -7,3 +7,5 @@ image: assets/blendi_remade_sprite_sheet_creator_20260316_042832_391_20260316_04
 # [blendi-remade/sprite-sheet-creator](https://github.com/blendi-remade/sprite-sheet-creator)
 
 Generates 2D pixel art sprite sheets
+
+生成2D像素艺术精灵表

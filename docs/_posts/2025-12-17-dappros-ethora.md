@@ -7,3 +7,5 @@ image: assets/dappros_ethora_20251216_064148_052_20251216_064216_20c797.png
 # [dappros/ethora](https://github.com/dappros/ethora/)
 
 Low-code engine for chat, AI, and wallet apps
+
+用于聊天、AI 和钱包应用的低代码引擎

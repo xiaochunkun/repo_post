@@ -7,3 +7,5 @@ image: assets/py_pdf_pdfly_20251118_083903_583_20251118_160742_eb98c3--20251118T
 # [py-pdf/pdfly](https://github.com/py-pdf/pdfly/)
 
 Pure-python CLI for PDF manipulation
+
+纯 Python CLI，用于 PDF 操作

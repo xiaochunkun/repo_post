@@ -7,3 +7,5 @@ image: assets/langchain_ai_streamlit_agent_20251027_011827_358_20251027_014748_6
 # [langchain-ai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent/)
 
 Reference implementations for building chatbots with memory and search
+
+构建带记忆和搜索功能的聊天机器人的参考实现

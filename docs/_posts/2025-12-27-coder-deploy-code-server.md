@@ -7,3 +7,5 @@ image: assets/coder_deploy_code_server_20251225_161714_513_20251225_161731_c5387
 # [coder/deploy-code-server](https://github.com/coder/deploy-code-server/)
 
 Scripts for deploying code-server to cloud platforms
+
+部署 code-server 到云平台的脚本

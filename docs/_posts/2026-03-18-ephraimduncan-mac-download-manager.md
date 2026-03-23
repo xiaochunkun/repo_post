@@ -7,3 +7,5 @@ image: assets/ephraimduncan_mac_download_manager_20260316_064147_085_20260316_06
 # [ephraimduncan/mac-download-manager](https://github.com/ephraimduncan/mac-download-manager)
 
 aria2c macOS downloads with native messaging
+
+aria2c macOS下载，支持原生消息传递

@@ -7,3 +7,5 @@ image: assets/radiac_django_style_20251123_145509_337_20251124_003500_fd3b45--20
 # [radiac/django-style](https://github.com/radiac/django-style/)
 
 Themes and layouts for Django prototypes
+
+Django 原型的主题和布局

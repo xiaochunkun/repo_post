@@ -7,3 +7,5 @@ image: assets/algolia_autocomplete_20251118_082838_520_20251118_160537_747534--2
 # [algolia/autocomplete](https://github.com/algolia/autocomplete/)
 
 JavaScript library for building autocomplete experiences
+
+用于构建自动补全体验的 JavaScript 库

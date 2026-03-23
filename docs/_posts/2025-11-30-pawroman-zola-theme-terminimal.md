@@ -7,3 +7,5 @@ image: assets/pawroman_zola_theme_terminimal_20251127_193016_301_20251130_082603
 # [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal/)
 
 Retro terminal theme for Zola
+
+Zola 的复古终端主题

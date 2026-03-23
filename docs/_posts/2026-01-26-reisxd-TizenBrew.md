@@ -7,3 +7,5 @@ image: assets/reisxd_TizenBrew_20260111_120051_982_20260111_120144_0f8c29.png
 # [reisxd/TizenBrew](https://github.com/reisxd/TizenBrew)
 
 Installs apps on Tizen without Tizen Studio
+
+无需 Tizen Studio 即可在 Tizen 上安装应用

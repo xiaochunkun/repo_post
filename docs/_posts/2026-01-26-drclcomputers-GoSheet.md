@@ -7,3 +7,5 @@ image: assets/drclcomputers_GoSheet_20260120_101335_392_20260120_101357_c03d10.p
 # [drclcomputers/GoSheet](https://github.com/drclcomputers/GoSheet)
 
 Terminal spreadsheet with a formula engine
+
+公式引擎终端电子表格

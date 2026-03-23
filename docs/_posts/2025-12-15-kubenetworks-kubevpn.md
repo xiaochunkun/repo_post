@@ -7,3 +7,5 @@ image: assets/kubenetworks_kubevpn_20251213_062615_857_20251213_062645_aa78b3.pn
 # [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn/)
 
 Connects local environment to Kubernetes cluster network
+
+将本地环境连接到Kubernetes集群网络

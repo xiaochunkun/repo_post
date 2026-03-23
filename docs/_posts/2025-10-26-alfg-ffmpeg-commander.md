@@ -7,3 +7,5 @@ image: assets/alfg_ffmpeg_commander_20251025_044231_764_20251025_085122_23aa53--
 # [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander/)
 
 Web UI for generating FFmpeg commands
+
+生成FFmpeg命令的Web UI

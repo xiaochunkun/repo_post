@@ -7,3 +7,5 @@ image: assets/backant_io_backant_agents_20251118_183429_065_20251120_000224_019e
 # [backant-io/backant-agents](https://github.com/backant-io/backant-agents/)
 
 Claude Code agents for task delegation, QA, and code review
+
+用于任务委派、QA 和代码审查的 Claude Code 代理

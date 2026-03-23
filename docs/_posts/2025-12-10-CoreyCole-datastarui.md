@@ -7,3 +7,5 @@ image: assets/CoreyCole_datastarui_20251207_224225_735_20251207_224254_fc2d01.pn
 # [CoreyCole/datastarui](https://github.com/CoreyCole/datastarui/)
 
 Port of shadcn/ui components to Go and templ
+
+将 shadcn/ui 组件移植到 Go 和 templ

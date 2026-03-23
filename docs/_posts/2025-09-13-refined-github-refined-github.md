@@ -7,3 +7,5 @@ image: assets/20250912T001203976--refined-github--refined-github--20250912T00171
 # [refined-github/refined-github](https://github.com/refined-github/refined-github)
 
 browser extension that adds features and tweaks to GitHub
+
+为 GitHub 添加功能和优化的浏览器扩展

@@ -7,3 +7,5 @@ image: assets/aborruso_alice_pdf_20260113_181502_404_20260113_181516_9d7ec3.png
 # [aborruso/alice-pdf](https://github.com/aborruso/alice-pdf)
 
 Extracts tables from PDFs into CSV files using OCR engines
+
+使用 OCR 引擎从 PDF 提取表格到 CSV 文件

@@ -7,3 +7,5 @@ image: assets/akashrchandran_spotify_lyrics_api_20251031_063934_818_20251101_205
 # [akashrchandran/spotify-lyrics-api](https://github.com/akashrchandran/spotify-lyrics-api/)
 
 REST API for fetching Spotify lyrics via Musixmatch
+
+通过 Musixmatch 获取 Spotify 歌词的 REST API

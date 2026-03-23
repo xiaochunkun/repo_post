@@ -7,3 +7,5 @@ image: assets/shenhao_stu_ohmycaptcha_20260315_100550_355_20260315_100702_d8bfec
 # [shenhao-stu/ohmycaptcha](https://github.com/shenhao-stu/ohmycaptcha)
 
 Self-hosted YesCaptcha-style solver with 19 task types
+
+自托管的YesCaptcha式求解器，支持19种任务类型

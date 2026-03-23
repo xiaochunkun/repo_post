@@ -7,3 +7,5 @@ image: assets/20250917T003857776--sipeed--NanoKVM--20250917T004652229--cropped.p
 # [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM)
 
 tiny open-source IP-KVM lets you control any computer remotely, even at BIOS level
+
+微型开源 IP-KVM，让你远程控制任何计算机，甚至在 BIOS 级别

@@ -7,3 +7,5 @@ image: assets/phalkemm159_EduRAG_AI_Powered_Learning_Assistant_20260208_185047_1
 # [phalkemm159/EduRAG-AI-Powered-Learning-Assistant](https://github.com/phalkemm159/EduRAG-AI-Powered-Learning-Assistant)
 
 Converts video lectures into a knowledge base for LLMs
+
+将视频讲座转换为 LLM 的知识库

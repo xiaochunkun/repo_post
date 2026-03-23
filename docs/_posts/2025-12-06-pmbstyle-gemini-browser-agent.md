@@ -7,3 +7,5 @@ image: assets/pmbstyle_gemini_browser_agent_20251203_012414_406_20251203_012522_
 # [pmbstyle/gemini-browser-agent](https://github.com/pmbstyle/gemini-browser-agent/)
 
 Browser automation agent using Gemini Computer Use API
+
+使用Gemini Computer Use API的浏览器自动化代理

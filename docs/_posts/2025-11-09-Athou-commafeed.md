@@ -7,3 +7,5 @@ image: assets/Athou_commafeed_20251109_163222_257_20251109_164750_e44994--202511
 # [Athou/commafeed](https://github.com/Athou/commafeed/)
 
 Self-hosted RSS reader inspired by Google Reader
+
+受Google Reader启发的自托管RSS阅读器

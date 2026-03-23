@@ -7,3 +7,5 @@ image: assets/Nutlope_receipthero_20251121_131012_226_20251121_232107_4c535a--20
 # [Nutlope/receipthero](https://github.com/Nutlope/receipthero/)
 
 Organizes receipts using Llama models
+
+使用 Llama 模型整理收据

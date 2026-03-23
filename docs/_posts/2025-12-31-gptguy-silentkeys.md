@@ -7,3 +7,5 @@ image: assets/gptguy_silentkeys_20251231_041929_182_20251231_041945_f7ba59.png
 # [gptguy/silentkeys](https://github.com/gptguy/silentkeys/)
 
 Dictation app for local transcription
+
+用于本地转录的听写应用

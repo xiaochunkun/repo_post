@@ -7,3 +7,5 @@ image: assets/OpenBB_finance_OpenBB_20260202_105959_688_20260202_110038_2ef10d.p
 # [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 
 Consolidates financial data into Python and Excel environments
+
+将金融数据整合到Python和Excel环境

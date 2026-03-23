@@ -7,3 +7,5 @@ image: assets/agiresearch_WarAgent_20260111_115030_718_20260111_115044_9613cf.pn
 # [agiresearch/WarAgent](https://github.com/agiresearch/WarAgent)
 
 Simulates world wars with agents
+
+使用代理模拟世界大战

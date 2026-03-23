@@ -7,3 +7,5 @@ image: assets/Aetherinox_pause_windows_updates_20260111_130219_244_20260111_1302
 # [Aetherinox/pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates)
 
 Pauses Windows updates until 2051
+
+暂停Windows更新至2051年

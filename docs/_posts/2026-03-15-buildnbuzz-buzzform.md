@@ -7,3 +7,5 @@ image: assets/buildnbuzz_buzzform_20260309_083410_952_20260309_083619_3f85ec.png
 # [buildnbuzz/buzzform](https://github.com/buildnbuzz/buzzform)
 
 Schema-driven form library for React and shadcn/ui
+
+用于React和shadcn/ui的基于模式的表单库

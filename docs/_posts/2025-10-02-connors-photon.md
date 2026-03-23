@@ -7,3 +7,5 @@ image: assets/20251001T133959240--connors--photon--20251001T134238971--cropped.p
 # [connors/photon](https://github.com/connors/photon)
 
 UI toolkit for building desktop apps with Electron
+
+用于构建桌面应用的UI工具包，基于Electron

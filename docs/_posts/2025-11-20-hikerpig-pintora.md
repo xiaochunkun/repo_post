@@ -7,3 +7,5 @@ image: assets/hikerpig_pintora_20251118_171105_123_20251119_235726_bc9ff0--20251
 # [hikerpig/pintora](https://github.com/hikerpig/pintora/)
 
 Text-to-diagrams library for browsers and Node.js
+
+浏览器和Node.js文本转图表库

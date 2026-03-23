@@ -7,3 +7,5 @@ image: assets/paulpacifico_shutter_encoder_20251029_062441_261_20251029_062520_4
 # [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder/)
 
 Video compression tool for editors
+
+编辑人员的视频压缩工具

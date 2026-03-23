@@ -7,3 +7,5 @@ image: assets/localstack_localstack_20260108_030504_450_20260108_030551_999ceb.p
 # [localstack/localstack](https://github.com/localstack/localstack)
 
 AWS cloud stack for development and testing
+
+用于开发和测试的AWS云堆栈

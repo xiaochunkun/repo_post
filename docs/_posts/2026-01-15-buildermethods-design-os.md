@@ -7,3 +7,5 @@ image: assets/buildermethods_design_os_20260115_083635_337_20260115_083653_93256
 # [buildermethods/design-os](https://github.com/buildermethods/design-os)
 
 Guides AI agents through product planning and architecture
+
+引导 AI 代理进行产品规划和架构

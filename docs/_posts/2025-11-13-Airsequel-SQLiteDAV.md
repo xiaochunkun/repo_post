@@ -7,3 +7,5 @@ image: assets/Airsequel_SQLiteDAV_20251111_220331_990_20251112_032857_a02649--20
 # [Airsequel/SQLiteDAV](https://github.com/Airsequel/SQLiteDAV/)
 
 WebDAV server that maps an SQLite database to a file system
+
+将 SQLite 数据库映射到文件系统的 WebDAV 服务器

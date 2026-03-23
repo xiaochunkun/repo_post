@@ -7,3 +7,5 @@ image: assets/GoAdminGroup_go_admin_20260321_100646_354_20260321_100738_259cac.p
 # [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin)
 
 Fast golang data admin panel builder
+
+快速Golang数据管理面板构建器

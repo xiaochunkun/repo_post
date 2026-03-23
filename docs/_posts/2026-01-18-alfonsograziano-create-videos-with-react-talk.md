@@ -7,3 +7,5 @@ image: assets/alfonsograziano_create_videos_with_react_talk_20260117_125849_782_
 # [alfonsograziano/create-videos-with-react-talk](https://github.com/alfonsograziano/create-videos-with-react-talk)
 
 Creates videos using React components
+
+使用React组件创建视频

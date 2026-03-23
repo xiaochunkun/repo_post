@@ -7,3 +7,5 @@ image: assets/trailofbits_claude_code_devcontainer_20260223_112244_305_20260223_
 # [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer)
 
 Sandboxes agent for code reviews
+
+用于代码审查的沙盒代理

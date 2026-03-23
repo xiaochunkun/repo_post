@@ -7,3 +7,5 @@ image: assets/20251012T024826184--mehtabmahir--easy-whisper-ui--20251012T0253118
 # [mehtabmahir/easy-whisper-ui](https://github.com/mehtabmahir/easy-whisper-ui)
 
 desktop app for fast audio transcription with Whisper, supports batch files, live mode, Windows and macOS
+
+使用 Whisper 进行快速音频转录的桌面应用，支持批量文件、实时模式、Windows 和 macOS

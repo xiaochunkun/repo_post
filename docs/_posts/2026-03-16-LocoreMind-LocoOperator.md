@@ -7,3 +7,5 @@ image: assets/LocoreMind_LocoOperator_20260316_034413_762_20260316_034448_729ec8
 # [LocoreMind/LocoOperator](https://github.com/LocoreMind/LocoOperator)
 
 Code exploration agent for Claude Code loops
+
+Claude Code 循环的代码探索代理

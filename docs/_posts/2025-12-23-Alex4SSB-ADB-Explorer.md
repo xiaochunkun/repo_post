@@ -7,3 +7,5 @@ image: assets/Alex4SSB_ADB_Explorer_20251221_225411_513_20251221_225429_b69aa9.p
 # [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer/)
 
 Interface for file management via ADB on Windows
+
+Windows上通过ADB进行文件管理的界面

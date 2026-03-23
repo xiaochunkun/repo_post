@@ -7,3 +7,5 @@ image: assets/YeautyYE_ez_ffmpeg_20251201_092720_076_20251201_092828_8766e1.png
 # [YeautyYE/ez-ffmpeg](https://github.com/YeautyYE/ez-ffmpeg/)
 
 Safe Rust interface for FFmpeg integration
+
+用于 FFmpeg 集成的安全 Rust 接口

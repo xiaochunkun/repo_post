@@ -7,3 +7,5 @@ image: assets/David_Crty_databasement_20260126_001427_282_20260126_001500_b4fc16
 # [David-Crty/databasement](https://github.com/David-Crty/databasement)
 
 Schedules database backups to local or S3 storage
+
+本地或S3存储数据库备份调度器

@@ -7,3 +7,5 @@ image: assets/public-api-lists_public-api-lists_cropped.png
 # [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
 
 public list of free APIs for software and web projects
+
+免费 API 公共列表，适用于软件和网页项目

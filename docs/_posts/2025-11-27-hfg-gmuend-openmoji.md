@@ -7,3 +7,5 @@ image: assets/hfg_gmuend_openmoji_20251125_002641_983_20251126_100403_2e2963--20
 # [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji/)
 
 Library of emojis for designers and developers
+
+面向设计师和开发者的表情符号库

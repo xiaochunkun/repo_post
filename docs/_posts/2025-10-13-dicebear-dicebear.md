@@ -7,3 +7,5 @@ image: assets/20251013T001857772--dicebear--dicebear--20251013T002455099--croppe
 # [dicebear/dicebear](https://github.com/dicebear/dicebear)
 
 generate customizable avatars for apps or profiles
+
+为应用或配置文件生成可定制的头像

@@ -7,3 +7,5 @@ image: assets/vitali87_code-graph-rag_cropped.png
 # [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)
 
 query your Python codebase with graphs and AI
+
+使用图和AI查询Python代码库

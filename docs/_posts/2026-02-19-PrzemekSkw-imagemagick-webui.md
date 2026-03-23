@@ -7,3 +7,5 @@ image: assets/PrzemekSkw_imagemagick_webui_20260129_161333_109_20260129_161419_3
 # [PrzemekSkw/imagemagick-webui](https://github.com/PrzemekSkw/imagemagick-webui)
 
 Web interface for ImageMagick with background removal
+
+带背景移除功能的ImageMagick网页界面

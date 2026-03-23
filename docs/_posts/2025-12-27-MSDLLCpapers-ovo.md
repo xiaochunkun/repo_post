@@ -7,3 +7,5 @@ image: assets/MSDLLCpapers_ovo_20251226_020525_177_20251226_020545_dce158.png
 # [MSDLLCpapers/ovo](https://github.com/MSDLLCpapers/ovo/)
 
 Orchestrates workflows for protein design
+
+编排蛋白质设计的工作流

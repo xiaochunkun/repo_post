@@ -7,3 +7,5 @@ image: assets/games-on-whales_wolf_cropped.png
 # [games-on-whales/wolf](https://github.com/games-on-whales/wolf)
 
 stream virtual desktops and games from Docker
+
+从 Docker 流式传输虚拟桌面和游戏

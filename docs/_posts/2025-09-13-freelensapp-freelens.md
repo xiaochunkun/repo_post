@@ -7,3 +7,5 @@ image: assets/20250912T004822390--freelensapp--freelens--20250912T005330095--cro
 # [freelensapp/freelens](https://github.com/freelensapp/freelens)
 
 Kubernetes clusters made easier with a cross-platform open source desktop app
+
+跨平台开源桌面应用，简化 Kubernetes 集群管理

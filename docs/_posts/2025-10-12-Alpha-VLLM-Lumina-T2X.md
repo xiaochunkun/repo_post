@@ -7,3 +7,5 @@ image: assets/20251012T022129857--Alpha-VLLM--Lumina-T2X--20251012T023250345--cr
 # [Alpha-VLLM/Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X)
 
 transforms text into images, videos, 3D objects, and audio using flow-based diffusion transformers
+
+使用基于流的扩散变换器将文本转换为图像、视频、3D 对象和音频

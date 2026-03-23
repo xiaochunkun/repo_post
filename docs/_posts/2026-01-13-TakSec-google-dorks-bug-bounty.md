@@ -7,3 +7,5 @@ image: assets/TakSec_google_dorks_bug_bounty_20260112_130256_417_20260112_130309
 # [TakSec/google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty)
 
 Google dorks for security research
+
+安全研究的Google dorks

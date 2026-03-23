@@ -7,3 +7,5 @@ image: assets/robert_mcdermott_ai_knowledge_graph_20260111_134458_444_20260111_1
 # [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph)
 
 Extracts triplets from text into interactive graphs
+
+从文本提取三元组到交互式图表

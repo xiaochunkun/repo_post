@@ -7,3 +7,5 @@ image: assets/flow_mn_flow_20260103_201659_378_20260103_201721_968ffb.png
 # [flow-mn/flow](https://github.com/flow-mn/flow/)
 
 Expense tracker for offline use
+
+离线使用的费用追踪器

@@ -7,3 +7,5 @@ image: assets/corbindavenport_just_the_browser_20260129_130622_666_20260129_1306
 # [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser)
 
 Removes AI features and telemetry from browsers
+
+从浏览器移除 AI 功能和遥测

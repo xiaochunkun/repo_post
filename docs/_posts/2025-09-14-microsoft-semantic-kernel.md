@@ -7,3 +7,5 @@ image: assets/20250914T182058775--microsoft--semantic-kernel--20250914T191048949
 # [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
 
 framework for building and orchestrating AI agents and multi-agent systems
+
+构建和编排 AI 智能体和多智能体系统的框架

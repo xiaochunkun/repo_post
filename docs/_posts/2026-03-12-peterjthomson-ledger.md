@@ -7,3 +7,5 @@ image: assets/peterjthomson_ledger_20260305_104224_913_20260305_104400_bc4351.pn
 # [peterjthomson/ledger](https://github.com/peterjthomson/ledger)
 
 Interface for git to manage code from agents and humans
+
+管理智能体与人类代码的git接口

@@ -7,3 +7,5 @@ image: assets/obsidian_nvim_obsidian_nvim_20251125_005054_819_20251126_100654_4e
 # [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim/)
 
 Neovim plugin for writing and navigating Obsidian vaults
+
+用于编写和导航 Obsidian 知识库的 Neovim 插件

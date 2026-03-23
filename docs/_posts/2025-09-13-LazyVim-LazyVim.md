@@ -7,3 +7,5 @@ image: assets/20250912T004918211--LazyVim--LazyVim--20250912T005528969--cropped.
 # [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 
 Neovim config that’s easy to extend and turns it into an IDE
+
+易于扩展的 Neovim 配置，将其打造为 IDE

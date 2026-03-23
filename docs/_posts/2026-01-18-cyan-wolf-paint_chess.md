@@ -7,3 +7,5 @@ image: assets/cyan_wolf_paint_chess_20260118_050231_957_20260118_050245_faa384.p
 # [cyan-wolf/paint_chess](https://github.com/cyan-wolf/paint_chess)
 
 Chess variant where pieces leave trails
+
+棋子留下轨迹的变体国际象棋

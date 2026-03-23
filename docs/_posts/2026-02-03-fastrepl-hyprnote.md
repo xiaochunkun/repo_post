@@ -7,3 +7,5 @@ image: assets/fastrepl_hyprnote_20260202_212621_737_20260202_212711_d670a0.png
 # [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
 
 Transcribes and summarizes meetings offline via local models
+
+通过本地模型离线转录和总结会议

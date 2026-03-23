@@ -7,3 +7,5 @@ image: assets/higress_group_himarket_20251228_032320_601_20251228_032339_7e1cc1.
 # [higress-group/himarket](https://github.com/higress-group/himarket/)
 
 Marketplace for AI assets and MCP servers
+
+AI 资产和 MCP 服务器的市场

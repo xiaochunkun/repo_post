@@ -7,3 +7,5 @@ image: assets/watzon_pindrop_20260208_174219_265_20260208_174258_9db511.png
 # [watzon/pindrop](https://github.com/watzon/pindrop)
 
 Dictation app using local speech-to-text on macOS
+
+在 macOS 上使用本地语音转文本的听写应用

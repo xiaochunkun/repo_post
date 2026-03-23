@@ -7,3 +7,5 @@ image: assets/sethkarten_LLM_Economist_20260304_113552_088_20260304_113719_61ba6
 # [sethkarten/LLM-Economist](https://github.com/sethkarten/LLM-Economist)
 
 Economic simulations using LLM agents for tax policy optimization
+
+使用LLM智能体进行税收政策优化的经济模拟

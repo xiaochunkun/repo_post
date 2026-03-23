@@ -7,3 +7,5 @@ image: assets/store-craft_storecraft_cropped.png
 # [store-craft/storecraft](https://github.com/store-craft/storecraft)
 
 AI-powered headless e-commerce backend for JavaScript platforms
+
+面向JavaScript平台的AI驱动无头电商后端

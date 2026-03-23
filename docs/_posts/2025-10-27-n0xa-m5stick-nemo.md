@@ -7,3 +7,5 @@ image: assets/n0xa_m5stick_nemo_20251026_221633_049_20251027_001359_be5c8f--2025
 # [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo/)
 
 Firmware for pranks on M5Stack ESP32 devices
+
+用于 M5Stack ESP32 设备恶作剧的固件

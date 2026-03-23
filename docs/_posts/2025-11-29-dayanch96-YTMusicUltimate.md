@@ -7,3 +7,5 @@ image: assets/dayanch96_YTMusicUltimate_20251125_235609_258_20251128_213156_be58
 # [dayanch96/YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate/)
 
 Tweak for YouTube Music on iOS
+
+iOS版YouTube Music的调整工具

@@ -7,3 +7,5 @@ image: assets/speeduino_speeduino_20251123_165519_654_20251124_003559_ca7251--20
 # [speeduino/speeduino](https://github.com/speeduino/speeduino/)
 
 Engine management system on Arduino
+
+基于 Arduino 的发动机管理系统

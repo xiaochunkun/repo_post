@@ -7,3 +7,5 @@ image: assets/microsoft_Generative_AI_for_beginners_dotnet_20251213_060601_205_2
 # [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/)
 
 Lessons for building AI applications in .NET
+
+.NET AI 应用构建教程

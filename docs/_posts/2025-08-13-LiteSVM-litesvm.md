@@ -7,3 +7,5 @@ image: assets/20250812T224623--LiteSVM--litesvm--20250812T225139--cropped.png
 # [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm)
 
 fast in-process Solana VM for program testing across Rust, TS/JS, and Python
+
+用于 Rust、TS/JS 和 Python 程序测试的快速进程内 Solana VM

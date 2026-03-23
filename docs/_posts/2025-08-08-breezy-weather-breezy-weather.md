@@ -7,3 +7,5 @@ image: assets/breezy-weather_breezy-weather_cropped.png
 # [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
 
 open source weather app with lots of sources and widgets
+
+具有多种数据源和小部件的开源天气应用

@@ -7,3 +7,5 @@ image: assets/antirez_voxtral_c_20260305_074842_313_20260305_075019_7e7f87.png
 # [antirez/voxtral.c](https://github.com/antirez/voxtral.c)
 
 Inference engine for speech to text model in C
+
+C语言语音转文本模型的推理引擎

@@ -7,3 +7,5 @@ image: assets/pedramamini_Maestro_20260209_070838_932_20260209_070902_06ef2b.png
 # [pedramamini/Maestro](https://github.com/pedramamini/Maestro)
 
 Orchestrates fleets of AI agents for parallel project execution
+
+为并行项目执行编排AI代理群组

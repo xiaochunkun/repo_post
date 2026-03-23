@@ -7,3 +7,5 @@ image: assets/nyldn_claude_octopus_20260207_030908_424_20260207_030926_2a6145.pn
 # [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus)
 
 Orchestrates Codex, Gemini, and Claude for parallel task execution
+
+协调Codex、Gemini和Claude进行并行任务执行

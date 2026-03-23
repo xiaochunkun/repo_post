@@ -7,3 +7,5 @@ image: assets/hustcc_mcp_mermaid_20260318_001744_258_20260318_001850_4e8863.png
 # [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid)
 
 Generates Mermaid diagrams with AI
+
+使用 AI 生成 Mermaid 图表

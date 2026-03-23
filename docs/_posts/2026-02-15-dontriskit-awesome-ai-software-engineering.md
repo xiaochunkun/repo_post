@@ -7,3 +7,5 @@ image: assets/dontriskit_awesome_ai_software_engineering_20260201_070038_529_202
 # [dontriskit/awesome-ai-software-engineering](https://github.com/dontriskit/awesome-ai-software-engineering)
 
 Resources for AI-powered software engineering
+
+AI 驱动的软件工程资源

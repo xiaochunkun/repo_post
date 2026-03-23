@@ -7,3 +7,5 @@ image: assets/gradio-app_gradio_cropped.png
 # [gradio-app/gradio](https://github.com/gradio-app/gradio)
 
 turn python functions into web apps for demos
+
+将Python函数转换为Web应用以进行演示

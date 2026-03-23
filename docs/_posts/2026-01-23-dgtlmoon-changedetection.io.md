@@ -7,3 +7,5 @@ image: assets/dgtlmoon_changedetection_io_20260122_001506_484_20260122_001531_b5
 # [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
 Monitors website changes with alerts via Discord or Slack
+
+通过 Discord 或 Slack 监控网站变化并发送警报

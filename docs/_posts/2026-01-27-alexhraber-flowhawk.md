@@ -7,3 +7,5 @@ image: assets/alexhraber_flowhawk_20260119_082704_023_20260119_082717_f5f832.png
 # [alexhraber/flowhawk](https://github.com/alexhraber/flowhawk)
 
 Monitors network security with eBPF and machine learning
+
+使用 eBPF 和机器学习监控网络安全

@@ -7,3 +7,5 @@ image: assets/codegouvfr_react_dsfr_20260104_100023_511_20260104_100042_0f561c.p
 # [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr/)
 
 React toolkit for the French State Design System
+
+法国国家设计系统的 React 工具包

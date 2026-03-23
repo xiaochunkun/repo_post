@@ -7,3 +7,5 @@ image: assets/litestar_org_litestar_20260318_095934_607_20260318_100036_14f546.p
 # [litestar-org/litestar](https://github.com/litestar-org/litestar)
 
 ASGI framework with plugin API
+
+带插件 API 的 ASGI 框架

@@ -7,3 +7,5 @@ image: assets/20250825T020801933--sadmann7--shadcn-table--20250825T024059131--cr
 # [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table)
 
 shadcn table with server-side sorting, filtering, and pagination
+
+shadcn 表格组件，支持服务端排序、筛选和分页

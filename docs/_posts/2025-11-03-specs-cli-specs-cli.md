@@ -7,3 +7,5 @@ image: assets/specs_cli_specs_cli_20251031_085756_888_20251102_154752_c92d67--20
 # [specs-cli/specs-cli](https://github.com/specs-cli/specs-cli/)
 
 Agentic CLI for AI-assisted specification-driven development
+
+AI辅助规范驱动开发的智能CLI

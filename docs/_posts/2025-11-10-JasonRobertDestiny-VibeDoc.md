@@ -7,3 +7,5 @@ image: assets/JasonRobertDestiny_VibeDoc_20251110_014636_580_20251110_014855_754
 # [JasonRobertDestiny/VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc/)
 
 AI product manager generates development plans from ideas
+
+从创意生成开发计划的AI产品经理

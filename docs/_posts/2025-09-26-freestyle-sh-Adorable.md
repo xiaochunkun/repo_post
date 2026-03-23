@@ -7,3 +7,5 @@ image: assets/20250926T173436831--freestyle-sh--Adorable--20250926T174854972--cr
 # [freestyle-sh/Adorable](https://github.com/freestyle-sh/Adorable)
 
 AI agent that builds and edits web apps through chat
+
+通过聊天构建和编辑 Web 应用的 AI 代理

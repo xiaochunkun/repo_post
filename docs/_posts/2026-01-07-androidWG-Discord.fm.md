@@ -7,3 +7,5 @@ image: assets/androidWG_Discord_fm_20260106_144633_007_20260106_144650_05e702.pn
 # [androidWG/Discord.fm](https://github.com/androidWG/Discord.fm/)
 
 Displays Last.fm scrobbles on Discord profiles
+
+在 Discord 个人资料上显示 Last.fm 播放记录

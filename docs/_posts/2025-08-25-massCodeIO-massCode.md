@@ -7,3 +7,5 @@ image: assets/20250823T014920240--massCodeIO--massCode--20250825T015121573--crop
 # [massCodeIO/massCode](https://github.com/massCodeIO/massCode)
 
 code snippet manager for organizing and editing snippets
+
+代码片段管理器，整理和编辑代码片段

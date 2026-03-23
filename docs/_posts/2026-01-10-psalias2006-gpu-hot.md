@@ -7,3 +7,5 @@ image: assets/psalias2006_gpu_hot_20260108_035039_184_20260108_035053_580196.png
 # [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)
 
 Monitors NVIDIA GPU metrics via web dashboard
+
+通过Web仪表板监控NVIDIA GPU指标

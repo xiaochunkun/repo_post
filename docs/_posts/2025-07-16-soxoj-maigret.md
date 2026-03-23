@@ -7,3 +7,5 @@ image: assets/soxoj_maigret_cropped.png
 # [soxoj/maigret](https://github.com/soxoj/maigret)
 
 find social accounts by username across thousands of sites
+
+通过用户名在数千个网站中查找社交账户

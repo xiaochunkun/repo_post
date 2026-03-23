@@ -7,3 +7,5 @@ image: assets/BIT_DataLab_Edit_Banana_20260301_222838_187_20260301_223001_71dc71
 # [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana)
 
 Converts static images into editable diagrams and slides
+
+将静态图像转换为可编辑图表和幻灯片

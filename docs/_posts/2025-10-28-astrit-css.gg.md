@@ -7,3 +7,5 @@ image: assets/astrit_css_gg_20251027_185438_613_20251028_091101_2bc34b--20251028
 # [astrit/css.gg](https://github.com/astrit/css.gg/)
 
 Open-source icon library in CSS, SVG, and Figma
+
+CSS、SVG 和 Figma 的开源图标库

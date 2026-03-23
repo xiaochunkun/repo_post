@@ -7,3 +7,5 @@ image: assets/cfu288_mere_medical_20260113_115830_382_20260113_115917_99fa36.png
 # [cfu288/mere-medical](https://github.com/cfu288/mere-medical)
 
 Syncs medical records from patient portals into a dashboard
+
+从患者门户同步医疗记录到仪表板

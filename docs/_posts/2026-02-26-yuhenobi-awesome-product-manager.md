@@ -7,3 +7,5 @@ image: assets/yuhenobi_awesome_product_manager_20260212_184505_095_20260212_1845
 # [yuhenobi/awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager)
 
 Repository of courses, tools, and frameworks for product management
+
+产品管理的课程、工具和框架仓库

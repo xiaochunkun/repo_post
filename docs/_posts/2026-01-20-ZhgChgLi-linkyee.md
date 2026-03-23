@@ -7,3 +7,5 @@ image: assets/ZhgChgLi_linkyee_20260116_072512_018_20260116_072525_606c81.png
 # [ZhgChgLi/linkyee](https://github.com/ZhgChgLi/linkyee)
 
 Linktree alternative on GitHub Pages
+
+GitHub Pages上的Linktree替代品

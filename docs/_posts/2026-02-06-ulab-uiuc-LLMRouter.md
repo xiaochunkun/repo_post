@@ -7,3 +7,5 @@ image: assets/ulab_uiuc_LLMRouter_20260202_231530_149_20260202_231623_b35d9c.png
 # [ulab-uiuc/LLMRouter](https://github.com/ulab-uiuc/LLMRouter)
 
 Routes queries to models based on complexity and cost
+
+基于复杂度和成本将查询路由到模型

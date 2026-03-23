@@ -7,3 +7,5 @@ image: assets/mhattingpete_claude_skills_marketplace_20260120_005555_965_2026012
 # [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace)
 
 Marketplace for Claude Code plugins
+
+Claude Code插件的市场

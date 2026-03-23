@@ -7,3 +7,5 @@ image: assets/FunnyWolf_Viper_20260111_192850_272_20260111_192908_8664b7.png
 # [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper)
 
 Red team platform with LLM agent and automation workflows
+
+红队平台，集成LLM代理与自动化工作流

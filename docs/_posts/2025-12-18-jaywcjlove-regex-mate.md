@@ -7,3 +7,5 @@ image: assets/jaywcjlove_regex_mate_20251217_160919_147_20251217_160954_81a424.p
 # [jaywcjlove/regex-mate](https://github.com/jaywcjlove/regex-mate/)
 
 Regular expression application for macOS and iOS
+
+适用于 macOS 和 iOS 的正则表达式应用

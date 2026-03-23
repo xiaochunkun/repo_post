@@ -7,3 +7,5 @@ image: assets/ProgrammingWithPixels_PwP_20260208_104627_441_20260208_104709_daf0
 # [ProgrammingWithPixels/PwP](https://github.com/ProgrammingWithPixels/PwP)
 
 Framework for software engineering agents using visual perception
+
+使用视觉感知的软件工程智能体框架

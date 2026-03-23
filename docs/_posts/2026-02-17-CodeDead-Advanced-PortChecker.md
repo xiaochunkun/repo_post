@@ -7,3 +7,5 @@ image: assets/CodeDead_Advanced_PortChecker_20260120_031642_756_20260120_031700_
 # [CodeDead/Advanced-PortChecker](https://github.com/CodeDead/Advanced-PortChecker)
 
 Scans ports and exports results
+
+扫描端口并导出结果

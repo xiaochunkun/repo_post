@@ -7,3 +7,5 @@ image: assets/kestra-io_kestra_cropped.png
 # [kestra-io/kestra](https://github.com/kestra-io/kestra)
 
 Workflow automation platform for orchestrating and scheduling code
+
+用于编排和调度代码的工作流自动化平台

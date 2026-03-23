@@ -7,3 +7,5 @@ image: assets/AllAboutAI_awesome-nlp_cropped.png
 # [AllAboutAI/awesome-nlp](https://github.com/AllAboutAI/awesome-nlp)
 
 curated list of NLP resources, libraries, datasets, and tutorials
+
+NLP资源、库、数据集和教程的精选列表

@@ -7,3 +7,5 @@ image: assets/kestra-io_kestra_cropped.png
 # [kestra-io/kestra](https://github.com/kestra-io/kestra)
 
 open-source workflow orchestration for data, automation, and devops
+
+开源工作流编排，用于数据、自动化和DevOps

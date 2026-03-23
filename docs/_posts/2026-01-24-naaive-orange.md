@@ -7,3 +7,5 @@ image: assets/naaive_orange_20260123_203835_448_20260123_203855_7d870c.png
 # [naaive/orange](https://github.com/naaive/orange)
 
 Search engine for local files
+
+本地文件的搜索引擎

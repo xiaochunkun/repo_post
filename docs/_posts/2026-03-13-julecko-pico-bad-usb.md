@@ -7,3 +7,5 @@ image: assets/julecko_pico_bad_usb_20260308_183644_771_20260308_183852_349191.pn
 # [julecko/pico-bad-usb](https://github.com/julecko/pico-bad-usb)
 
 Converts Ducky scripts into Python for Raspberry Pi Pico
+
+将 Ducky 脚本转换为 Raspberry Pi Pico 的 Python 代码

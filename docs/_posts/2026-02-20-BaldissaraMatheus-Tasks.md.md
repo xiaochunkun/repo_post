@@ -7,3 +7,5 @@ image: assets/BaldissaraMatheus_Tasks_md_20260209_172743_160_20260209_172807_36a
 # [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md)
 
 Self-hosted task management board using Markdown files
+
+使用 Markdown 文件的自托管任务管理看板

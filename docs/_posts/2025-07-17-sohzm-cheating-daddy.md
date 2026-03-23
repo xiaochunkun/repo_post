@@ -7,3 +7,5 @@ image: assets/sohzm_cheating-daddy_cropped.png
 # [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)
 
 real-time AI assistant for calls and meetings
+
+通话和会议的实时 AI 助手

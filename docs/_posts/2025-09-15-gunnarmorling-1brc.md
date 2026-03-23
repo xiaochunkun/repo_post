@@ -7,3 +7,5 @@ image: assets/20250915T040422362--gunnarmorling--1brc--20250915T041157110--cropp
 # [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc)
 
 challenge to process a billion weather records as fast as possible
+
+挑战以最快速度处理十亿条天气记录

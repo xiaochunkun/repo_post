@@ -7,3 +7,5 @@ image: assets/sbs20_scanservjs_20251219_081046_166_20251219_081103_55d002.png
 # [sbs20/scanservjs](https://github.com/sbs20/scanservjs/)
 
 Web interface for SANE scanners
+
+SANE扫描仪的Web界面

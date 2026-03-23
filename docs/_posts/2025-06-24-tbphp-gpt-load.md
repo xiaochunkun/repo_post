@@ -7,3 +7,5 @@ image: assets/tbphp_gpt-load_cropped.png
 # [tbphp/gpt-load](https://github.com/tbphp/gpt-load)
 
 OpenAI API proxy server with multi-key rotation and load balancing, built in Go
+
+OpenAI API代理服务器，具有多密钥轮换和负载均衡，用Go构建

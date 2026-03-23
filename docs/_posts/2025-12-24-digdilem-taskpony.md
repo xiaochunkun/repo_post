@@ -7,3 +7,5 @@ image: assets/digdilem_taskpony_20251223_055215_505_20251223_055231_b0dfeb.png
 # [digdilem/taskpony](https://github.com/digdilem/taskpony/)
 
 Self-hosted task manager with no internet access required
+
+无需互联网访问的自托管任务管理器

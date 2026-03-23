@@ -7,3 +7,5 @@ image: assets/eclipse_sprotty_sprotty_20260204_035429_174_20260204_035446_fe8281
 # [eclipse-sprotty/sprotty](https://github.com/eclipse-sprotty/sprotty)
 
 Diagramming framework for web technologies
+
+用于 Web 技术的图表框架

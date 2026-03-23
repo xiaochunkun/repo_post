@@ -7,3 +7,5 @@ image: assets/istarkov_ai_cli_edit_20251226_034317_092_20251226_034334_ce39e2.pn
 # [istarkov/ai-cli-edit](https://github.com/istarkov/ai-cli-edit/)
 
 Visual refactoring tool for AI agents
+
+AI 代理的可视化重构工具

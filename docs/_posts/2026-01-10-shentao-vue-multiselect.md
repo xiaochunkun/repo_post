@@ -7,3 +7,5 @@ image: assets/shentao_vue_multiselect_20260109_060941_223_20260109_060954_84d00b
 # [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect)
 
 Select component for Vue.js with tagging and filtering
+
+Vue.js的选择组件，支持标记和过滤

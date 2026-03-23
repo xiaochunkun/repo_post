@@ -7,3 +7,5 @@ image: assets/20250823T014756254--cdown--sshrc--20250825T024031720--cropped.png
 # [cdown/sshrc](https://github.com/cdown/sshrc)
 
 lets you use your local .sshrc config when connecting to servers
+
+SSH 连接远程服务器时自动使用本地 .sshrc 配置

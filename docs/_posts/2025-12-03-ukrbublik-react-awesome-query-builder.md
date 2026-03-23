@@ -7,3 +7,5 @@ image: assets/ukrbublik_react_awesome_query_builder_20251201_072548_019_20251201
 # [ukrbublik/react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder/)
 
 React component for building queries
+
+用于构建查询的React组件

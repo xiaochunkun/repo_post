@@ -7,3 +7,5 @@ image: assets/CorentinJ_Real_Time_Voice_Cloning_20260226_090539_098_20260226_090
 # [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
 Clones voices from audio samples
+
+从音频样本克隆语音

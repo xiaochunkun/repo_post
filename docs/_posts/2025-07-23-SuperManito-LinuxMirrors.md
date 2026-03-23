@@ -7,3 +7,5 @@ image: assets/SuperManito_LinuxMirrors_cropped.png
 # [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors)
 
 one-click script for switching Linux software sources
+
+一键切换Linux软件源的脚本

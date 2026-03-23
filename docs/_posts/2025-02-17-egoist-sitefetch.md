@@ -7,3 +7,5 @@ image: assets/egoist_sitefetch_cropped.png
 # [egoist/sitefetch](https://github.com/egoist/sitefetch)
 
 Fetch entire site to text file
+
+将整个网站抓取到文本文件

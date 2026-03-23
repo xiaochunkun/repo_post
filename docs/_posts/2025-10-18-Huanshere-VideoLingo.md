@@ -7,3 +7,5 @@ image: assets/Huanshere_VideoLingo_20251018_062443_323_20251018_131530--20251018
 # [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo/)
 
 Automates multilingual video translation and dubbing
+
+自动化多语言视频翻译和配音

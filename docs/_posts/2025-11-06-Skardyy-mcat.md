@@ -7,3 +7,5 @@ image: assets/Skardyy_mcat_20251105_045305_873_20251105_124646_0caa2c--20251105T
 # [Skardyy/mcat](https://github.com/Skardyy/mcat/)
 
 Preview images, videos, and markdown in the terminal
+
+在终端中预览图像、视频和markdown

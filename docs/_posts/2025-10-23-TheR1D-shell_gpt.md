@@ -7,3 +7,5 @@ image: assets/TheR1D_shell_gpt_20251023_193059_100_20251023_193241_d174df--20251
 # [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt/)
 
 AI for the command line
+
+命令行AI工具

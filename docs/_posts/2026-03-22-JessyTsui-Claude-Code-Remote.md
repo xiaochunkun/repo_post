@@ -7,3 +7,5 @@ image: assets/JessyTsui_Claude_Code_Remote_20260321_130341_834_20260321_130417_6
 # [JessyTsui/Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote)
 
 Control Claude Code via email and Telegram
+
+通过电子邮件和Telegram控制Claude Code

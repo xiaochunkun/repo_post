@@ -7,3 +7,5 @@ image: assets/leng_yue_py_scrcpy_client_20260121_004038_451_20260121_004052_2dac
 # [leng-yue/py-scrcpy-client](https://github.com/leng-yue/py-scrcpy-client)
 
 Control Android devices through Python in realtime
+
+通过 Python 实时控制 Android 设备

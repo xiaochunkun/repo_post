@@ -7,3 +7,5 @@ image: assets/ronivay_XenOrchestraInstallerUpdater_20251209_010533_047_20251209_
 # [ronivay/XenOrchestraInstallerUpdater](https://github.com/ronivay/XenOrchestraInstallerUpdater/)
 
 Script to install and update Xen Orchestra
+
+安装和更新Xen Orchestra的脚本

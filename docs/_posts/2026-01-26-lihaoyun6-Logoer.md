@@ -7,3 +7,5 @@ image: assets/lihaoyun6_Logoer_20260122_223231_284_20260122_223247_d3dadf.png
 # [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer)
 
 Changes the Apple logo style in the macOS menu bar
+
+更改 macOS 菜单栏中的 Apple 徽标样式

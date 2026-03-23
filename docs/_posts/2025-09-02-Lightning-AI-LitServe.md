@@ -7,3 +7,5 @@ image: assets/20250901T033839190--Lightning-AI--LitServe--20250901T034548266--cr
 # [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe)
 
 serve any AI model with batching and pipelines
+
+支持批处理和流水线的 AI 模型服务框架

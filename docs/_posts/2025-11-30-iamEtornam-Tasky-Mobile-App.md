@@ -7,3 +7,5 @@ image: assets/iamEtornam_Tasky_Mobile_App_20251127_174543_088_20251130_035037_75
 # [iamEtornam/Tasky-Mobile-App](https://github.com/iamEtornam/Tasky-Mobile-App/)
 
 Flutter project management app without external state management
+
+无外部状态管理的 Flutter 项目管理应用

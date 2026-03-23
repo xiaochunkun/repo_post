@@ -7,3 +7,5 @@ image: assets/jwilder_dockerize_20251105_012930_352_20251105_014046_a199a4--2025
 # [jwilder/dockerize](https://github.com/jwilder/dockerize/)
 
 Generates config files and waits for services in a container
+
+生成配置文件并等待容器内服务就绪

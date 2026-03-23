@@ -7,3 +7,5 @@ image: assets/20251003T231959631--raycast--script-commands--20251008T181025880--
 # [raycast/script-commands](https://github.com/raycast/script-commands)
 
 Collection of community scripts for automating tasks with keyboard shortcuts
+
+社区脚本集合，用于通过键盘快捷键自动化任务

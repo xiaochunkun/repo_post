@@ -7,3 +7,5 @@ image: assets/google_robotstxt_20251120_070938_024_20251121_055056_4e0eae--20251
 # [google/robotstxt](https://github.com/google/robotstxt/)
 
 Google's robots.txt parser and matcher
+
+Google 的 robots.txt 解析器和匹配器

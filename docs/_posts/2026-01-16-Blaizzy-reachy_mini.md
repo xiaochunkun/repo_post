@@ -7,3 +7,5 @@ image: assets/Blaizzy_reachy_mini_20260115_193058_736_20260115_193113_52cd71.png
 # [Blaizzy/reachy_mini](https://github.com/Blaizzy/reachy_mini)
 
 Robot with Hugging Face app store
+
+带有 Hugging Face 应用商店的机器人

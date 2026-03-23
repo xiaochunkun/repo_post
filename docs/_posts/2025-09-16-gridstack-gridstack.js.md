@@ -7,3 +7,5 @@ image: assets/20250915T230440589--gridstack--gridstack.js--20250915T230951009--c
 # [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js)
 
 drag-and-drop dashboard layouts with resizable, responsive grids
+
+拖放式仪表板布局，支持可调整大小和响应式网格

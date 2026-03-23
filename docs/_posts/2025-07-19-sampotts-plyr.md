@@ -7,3 +7,5 @@ image: assets/sampotts_plyr_cropped.png
 # [sampotts/plyr](https://github.com/sampotts/plyr)
 
 HTML5, YouTube and Vimeo media player for web projects
+
+用于Web项目的HTML5、YouTube和Vimeo媒体播放器

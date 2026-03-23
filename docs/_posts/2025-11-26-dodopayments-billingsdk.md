@@ -7,3 +7,5 @@ image: assets/dodopayments_billingsdk_20251123_204837_333_20251125_215937_5355b4
 # [dodopayments/billingsdk](https://github.com/dodopayments/billingsdk/)
 
 React components for billing and subscription management
+
+用于计费和订阅管理的 React 组件

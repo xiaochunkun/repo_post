@@ -7,3 +7,5 @@ image: assets/shinpr_claude_code_workflows_20260212_110730_149_20260212_110758_8
 # [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows)
 
 Development workflows for Claude Code with agents and safety guardrails
+
+Claude Code的开发工作流，包含智能体与安全护栏

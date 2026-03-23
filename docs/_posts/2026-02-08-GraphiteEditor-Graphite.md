@@ -7,3 +7,5 @@ image: assets/GraphiteEditor_Graphite_20260203_022310_853_20260203_022331_586fc3
 # [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 
 Combines raster and vector graphics with node-based compositing
+
+结合光栅和矢量图形，支持基于节点的合成

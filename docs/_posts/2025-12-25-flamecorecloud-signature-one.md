@@ -7,3 +7,5 @@ image: assets/flamecorecloud_signature_one_20251224_115443_227_20251224_115459_4
 # [flamecorecloud/signature-one](https://github.com/flamecorecloud/signature-one/)
 
 Signs and encrypts PDF documents offline
+
+离线签名和加密 PDF 文档

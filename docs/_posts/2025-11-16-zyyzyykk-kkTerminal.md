@@ -7,3 +7,5 @@ image: assets/zyyzyykk_kkTerminal_20251114_223916_968_20251115_202011_bbb705--20
 # [zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal/)
 
 Terminal for Web SSH connections
+
+用于 Web SSH 连接的终端

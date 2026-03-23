@@ -7,3 +7,5 @@ image: assets/20250922T031947997--obsidianmd--obsidian-releases--20250922T032603
 # [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
 
 Directory for Obsidian public releases, plugins, and themes
+
+Obsidian 公共版本、插件和主题目录

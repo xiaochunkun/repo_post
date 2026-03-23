@@ -7,3 +7,5 @@ image: assets/TimWitzdam_GitSave_20251025_001407_096_20251025_004400_759f3c--202
 # [TimWitzdam/GitSave](https://github.com/TimWitzdam/GitSave/)
 
 Self-hosted scheduled backups for Git repositories
+
+Git仓库的自托管定时备份

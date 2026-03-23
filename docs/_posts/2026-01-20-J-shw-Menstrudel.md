@@ -7,3 +7,5 @@ image: assets/J_shw_Menstrudel_20260114_074701_151_20260114_074714_11485a.png
 # [J-shw/Menstrudel](https://github.com/J-shw/Menstrudel)
 
 Period and pill tracker for Android and iOS
+
+Android和iOS的经期和药片追踪器

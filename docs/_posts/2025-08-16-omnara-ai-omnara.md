@@ -7,3 +7,5 @@ image: assets/omnara-ai_omnara--20250816T003854412--cropped.png
 # [omnara-ai/omnara](https://github.com/omnara-ai/omnara)
 
 turns ai agents into chatty teammates you can guide from your phone
+
+将AI智能体转化为可通过手机引导的聊天伙伴

@@ -7,3 +7,5 @@ image: assets/20250818T114120730_dbgate_dbgate--20250818T114524132--cropped.png
 # [dbgate/dbgate](https://github.com/dbgate/dbgate)
 
 cross-platform SQL and NoSQL database manager
+
+跨平台SQL和NoSQL数据库管理器

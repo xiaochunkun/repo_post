@@ -7,3 +7,5 @@ image: assets/kapi2800_qwen3_tts_apple_silicon_20260305_144605_711_20260305_1447
 # [kapi2800/qwen3-tts-apple-silicon](https://github.com/kapi2800/qwen3-tts-apple-silicon)
 
 Text-to-speech for Apple Silicon using MLX
+
+使用 MLX 为 Apple Silicon 提供文本转语音

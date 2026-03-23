@@ -7,3 +7,5 @@ image: assets/Coding_Solo_godot_mcp_20260306_181209_957_20260306_181351_62c62a.p
 # [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)
 
 Connect AI assistants to Godot engine
+
+将 AI 助手连接到 Godot 引擎

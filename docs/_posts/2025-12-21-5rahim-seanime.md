@@ -7,3 +7,5 @@ image: assets/5rahim_seanime_20251219_134214_106_20251219_134239_e2f8bf.png
 # [5rahim/seanime](https://github.com/5rahim/seanime/)
 
 Media server for anime and manga
+
+动漫与漫画媒体服务器

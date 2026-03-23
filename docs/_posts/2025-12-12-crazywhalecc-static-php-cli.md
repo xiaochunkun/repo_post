@@ -7,3 +7,5 @@ image: assets/crazywhalecc_static_php_cli_20251209_034940_991_20251209_035004_24
 # [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli/)
 
 Builds static standalone PHP runtimes with extensions
+
+构建带扩展的静态独立PHP运行时

@@ -7,3 +7,5 @@ image: assets/purpleidea_mgmt_20251207_192615_974_20251207_192638_b9d45a.png
 # [purpleidea/mgmt](https://github.com/purpleidea/mgmt/)
 
 Real-time automation and configuration management
+
+实时自动化和配置管理

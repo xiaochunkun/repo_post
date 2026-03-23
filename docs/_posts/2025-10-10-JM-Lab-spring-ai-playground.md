@@ -7,3 +7,5 @@ image: assets/20251010T065427105--JM-Lab--spring-ai-playground--20251010T0708003
 # [JM-Lab/spring-ai-playground](https://github.com/JM-Lab/spring-ai-playground)
 
 self-hosted UI for testing AI models, prompt engineering, and RAG with Spring AI
+
+自托管 UI，用于测试 AI 模型、提示工程和 Spring AI 的 RAG

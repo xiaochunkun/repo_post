@@ -7,3 +7,5 @@ image: assets/plexe-ai_plexe_cropped.png
 # [plexe-ai/plexe](https://github.com/plexe-ai/plexe)
 
 build ML models from plain English
+
+从纯英文构建ML模型

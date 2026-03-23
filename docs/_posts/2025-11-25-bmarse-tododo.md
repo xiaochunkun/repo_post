@@ -7,3 +7,5 @@ image: assets/bmarse_tododo_20251123_180951_347_20251124_100043_5584ac--20251124
 # [bmarse/tododo](https://github.com/bmarse/tododo/)
 
 TUI todo manager using markdown files
+
+使用 markdown 文件的 TUI 待办事项管理器

@@ -7,3 +7,5 @@ image: assets/HQarroum_awesome_iot_20260114_020720_639_20260114_020737_6f325d.pn
 # [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot)
 
 List of Internet of Things projects and resources
+
+物联网项目和资源列表

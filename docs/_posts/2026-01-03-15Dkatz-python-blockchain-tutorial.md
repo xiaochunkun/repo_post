@@ -7,3 +7,5 @@ image: assets/15Dkatz_python_blockchain_tutorial_20260102_074329_608_20260102_07
 # [15Dkatz/python-blockchain-tutorial](https://github.com/15Dkatz/python-blockchain-tutorial/)
 
 Blockchain with cryptocurrency system using Python and React
+
+使用Python和React构建的区块链加密货币系统

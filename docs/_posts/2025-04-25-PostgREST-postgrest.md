@@ -7,3 +7,5 @@ image: assets/PostgREST_postgrest_cropped.png
 # [PostgREST/postgrest](https://github.com/PostgREST/postgrest)
 
 serves a REST API from a PostgreSQL database
+
+从PostgreSQL数据库提供REST API

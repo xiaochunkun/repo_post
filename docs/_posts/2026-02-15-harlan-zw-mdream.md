@@ -7,3 +7,5 @@ image: assets/harlan_zw_mdream_20260207_085706_557_20260207_085736_c9d02b.png
 # [harlan-zw/mdream](https://github.com/harlan-zw/mdream)
 
 Converts HTML to Markdown for LLMs
+
+将HTML转换为Markdown，适用于LLM

@@ -7,3 +7,5 @@ image: assets/zealdocs_zeal_20260103_025936_456_20260103_025952_6bc757.png
 # [zealdocs/zeal](https://github.com/zealdocs/zeal/)
 
 Offline documentation browser for developers
+
+开发者的离线文档浏览器

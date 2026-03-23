@@ -7,3 +7,5 @@ image: assets/ZephrFish_OmniProx_20251213_125546_346_20251213_125621_6713a9.png
 # [ZephrFish/OmniProx](https://github.com/ZephrFish/OmniProx/)
 
 Multi-cloud HTTP proxy manager for IP rotation
+
+多云 HTTP 代理管理器，支持 IP 轮换

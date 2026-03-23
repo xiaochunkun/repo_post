@@ -7,3 +7,5 @@ image: assets/chickensoft_games_GameDemo_20260115_222523_370_20260115_222536_de8
 # [chickensoft-games/GameDemo](https://github.com/chickensoft-games/GameDemo)
 
 3D game demo with Godot and C#
+
+使用Godot和C#的3D游戏演示

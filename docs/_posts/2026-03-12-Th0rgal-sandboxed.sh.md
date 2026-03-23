@@ -7,3 +7,5 @@ image: assets/Th0rgal_sandboxed_sh_20260307_075022_357_20260307_075137_c5f3a0.pn
 # [Th0rgal/sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh)
 
 Orchestrate AI agents in Linux workspaces
+
+在Linux工作空间中编排AI智能体

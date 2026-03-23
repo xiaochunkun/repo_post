@@ -7,3 +7,5 @@ image: assets/embedpdf_embed_pdf_viewer_20260122_000145_624_20260122_000201_333c
 # [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer)
 
 PDF viewer for JavaScript frameworks
+
+适用于JavaScript框架的PDF查看器

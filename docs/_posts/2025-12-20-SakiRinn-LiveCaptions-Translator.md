@@ -7,3 +7,5 @@ image: assets/SakiRinn_LiveCaptions_Translator_20251218_081510_267_20251218_0815
 # [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator/)
 
 Translates Windows LiveCaptions in real-time via APIs
+
+通过 API 实时翻译 Windows LiveCaptions

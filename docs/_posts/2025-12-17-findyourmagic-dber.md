@@ -7,3 +7,5 @@ image: assets/findyourmagic_dber_20251216_045210_785_20251216_045243_0aeebf.png
 # [findyourmagic/dber](https://github.com/findyourmagic/dber/)
 
 Database design tool based on entity relation diagrams
+
+基于实体关系图的数据库设计工具

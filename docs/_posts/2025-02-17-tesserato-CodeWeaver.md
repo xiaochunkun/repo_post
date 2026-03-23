@@ -7,3 +7,5 @@ image: assets/tesserato_CodeWeaver_cropped.png
 # [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver)
 
 Generates Markdown codebase docs
+
+生成 Markdown 代码库文档

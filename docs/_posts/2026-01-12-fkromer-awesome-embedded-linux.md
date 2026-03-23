@@ -7,3 +7,5 @@ image: assets/fkromer_awesome_embedded_linux_20260112_080428_121_20260112_080445
 # [fkromer/awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux)
 
 Resources for Linux on embedded systems
+
+嵌入式系统Linux资源

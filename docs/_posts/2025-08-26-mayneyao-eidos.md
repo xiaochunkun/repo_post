@@ -7,3 +7,5 @@ image: assets/20250825T025436617--mayneyao--eidos--20250825T030524905--cropped.p
 # [mayneyao/eidos](https://github.com/mayneyao/eidos)
 
 open-source Notion-like personal data manager with AI and offline support
+
+类 Notion 的开源个人数据管理器，支持 AI 和离线使用

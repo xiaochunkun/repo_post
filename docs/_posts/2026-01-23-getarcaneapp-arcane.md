@@ -7,3 +7,5 @@ image: assets/getarcaneapp_arcane_20260122_000540_936_20260122_000557_d59b72.png
 # [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
 
 Management dashboard for Docker containers
+
+Docker 容器管理仪表板

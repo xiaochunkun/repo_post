@@ -7,3 +7,5 @@ image: assets/20251007T032258925--maizzle--maizzle--20251007T034239322--cropped.
 # [maizzle/maizzle](https://github.com/maizzle/maizzle)
 
 build HTML emails with Tailwind CSS
+
+使用 Tailwind CSS 构建 HTML 邮件

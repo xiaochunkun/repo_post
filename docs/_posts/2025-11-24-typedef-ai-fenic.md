@@ -7,3 +7,5 @@ image: assets/typedef_ai_fenic_20251123_103614_358_20251124_002941_b63db7--20251
 # [typedef-ai/fenic](https://github.com/typedef-ai/fenic/)
 
 DataFrame framework for LLM inference
+
+用于 LLM 推理的 DataFrame 框架

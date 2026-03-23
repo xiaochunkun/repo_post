@@ -7,3 +7,5 @@ image: assets/microsoft_WindowsAgentArena_20260228_130151_506_20260228_130346_35
 # [microsoft/WindowsAgentArena](https://github.com/microsoft/WindowsAgentArena)
 
 Platform for benchmarking agents on Windows
+
+Windows 上代理基准测试平台

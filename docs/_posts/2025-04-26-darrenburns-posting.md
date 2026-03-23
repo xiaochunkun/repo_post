@@ -7,3 +7,5 @@ image: assets/darrenburns_posting_cropped.png
 # [darrenburns/posting](https://github.com/darrenburns/posting)
 
 Terminal-based HTTP API client for sending requests and managing responses
+
+基于终端的HTTP API客户端，用于发送请求和管理响应

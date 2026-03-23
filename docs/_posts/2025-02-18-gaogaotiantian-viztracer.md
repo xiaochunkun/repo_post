@@ -7,3 +7,5 @@ image: assets/gaogaotiantian_viztracer_cropped.png
 # [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
 
 Tool to trace and visualize Python code execution
+
+跟踪和可视化 Python 代码执行的工具

@@ -7,3 +7,5 @@ image: assets/SubleXBle_Fail2Ban_Report_20251120_055618_784_20251121_011345_2bfd
 # [SubleXBle/Fail2Ban-Report](https://github.com/SubleXBle/Fail2Ban-Report/)
 
 Visualizes Fail2Ban logs across servers
+
+跨服务器可视化 Fail2Ban 日志

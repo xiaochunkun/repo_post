@@ -7,3 +7,5 @@ image: assets/giselles_ai_giselle_20260112_144703_997_20260112_144719_18d604.png
 # [giselles-ai/giselle](https://github.com/giselles-ai/giselle)
 
 Studio for agentic workflows and human-AI collaboration
+
+代理工作流和人机协作的工作室

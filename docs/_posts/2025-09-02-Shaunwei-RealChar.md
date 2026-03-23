@@ -7,3 +7,5 @@ image: assets/20250831T020055198--Shaunwei--RealChar--20250831T022200282--croppe
 # [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)
 
 create and chat with realtime AI characters
+
+创建 AI 角色并进行实时对话

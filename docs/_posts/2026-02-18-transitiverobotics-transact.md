@@ -7,3 +7,5 @@ image: assets/transitiverobotics_transact_20260213_222931_719_20260213_223027_76
 # [transitiverobotics/transact](https://github.com/transitiverobotics/transact)
 
 Dashboard for robot fleet management
+
+机器人车队管理仪表板

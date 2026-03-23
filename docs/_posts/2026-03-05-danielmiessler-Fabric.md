@@ -7,3 +7,5 @@ image: assets/danielmiessler_Fabric_20260304_204812_949_20260304_205018_c75fca.p
 # [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
 
 Framework for human augmentation using AI prompts
+
+使用 AI 提示进行人类增强的框架

@@ -7,3 +7,5 @@ image: assets/stramanu_webpizza_ai_poc_20251215_030153_374_20251215_030218_386ca
 # [stramanu/webpizza-ai-poc](https://github.com/stramanu/webpizza-ai-poc/)
 
 Client-side RAG document chat via WebGPU
+
+通过WebGPU的客户端RAG文档聊天

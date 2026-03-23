@@ -7,3 +7,5 @@ image: assets/rospogrigio_localtuya_20251108_192809_331_20251108_215508_8dab88--
 # [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya/)
 
 Home Assistant integration for local control of Tuya devices
+
+用于本地控制Tuya设备的Home Assistant集成

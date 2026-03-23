@@ -7,3 +7,5 @@ image: assets/bkerler_apple_bleee_20260118_132733_142_20260118_132751_f7f029.png
 # [bkerler/apple_bleee](https://github.com/bkerler/apple_bleee)
 
 Sniffs Bluetooth traffic from Apple devices
+
+嗅探Apple设备的蓝牙流量

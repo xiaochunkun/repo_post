@@ -7,3 +7,5 @@ image: assets/20250927T041843813--initialcommit-com--git-sim--20250927T042838856
 # [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim)
 
 simulate and visualize git commands in your repo
+
+在仓库中模拟和可视化git命令

@@ -7,3 +7,5 @@ image: assets/zefanja_awesome_opensource_school_20260309_121841_052_20260309_122
 # [zefanja/awesome-opensource-school](https://github.com/zefanja/awesome-opensource-school)
 
 List of software for schools and infrastructure
+
+学校和基础设施的软件列表

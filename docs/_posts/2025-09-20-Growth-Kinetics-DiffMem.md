@@ -7,3 +7,5 @@ image: assets/20250920T062230942--Growth-Kinetics--DiffMem--20250920T065213027--
 # [Growth-Kinetics/DiffMem](https://github.com/Growth-Kinetics/DiffMem)
 
 git-based memory backend for AI agents, tracks knowledge evolution, uses markdown and BM25 search
+
+基于git的AI代理内存后端，跟踪知识演化，使用markdown和BM25搜索

@@ -7,3 +7,5 @@ image: assets/klawsh_klaw_sh_20260223_084524_876_20260223_084552_e3b19c.png
 # [klawsh/klaw.sh](https://github.com/klawsh/klaw.sh)
 
 Orchestrates AI agents via command line or Slack
+
+通过命令行或Slack编排AI代理

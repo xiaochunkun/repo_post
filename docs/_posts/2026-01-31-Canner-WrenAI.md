@@ -7,3 +7,5 @@ image: assets/Canner_WrenAI_20260129_020344_879_20260129_020425_fe00d3.png
 # [Canner/WrenAI](https://github.com/Canner/WrenAI)
 
 Queries databases in natural language
+
+用自然语言查询数据库

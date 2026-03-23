@@ -7,3 +7,5 @@ image: assets/nats-io_nats-server--20250906T223507169--cropped.png
 # [nats-io/nats-server](https://github.com/nats-io/nats-server)
 
 messaging server for digital systems, services and devices
+
+面向数字系统、服务和设备的消息服务器

@@ -7,3 +7,5 @@ image: assets/20250822T021829225--ai-shifu--ChatALL--20250822T022602180--cropped
 # [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL)
 
 chat with multiple AI bots at once, compare answers
+
+同时与多个 AI 对话，对比答案

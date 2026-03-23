@@ -7,3 +7,5 @@ image: assets/betterlockscreen_betterlockscreen_20251221_161517_192_20251221_161
 # [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen/)
 
 Caches images with effects for lockscreens on Linux
+
+Linux 锁屏图像缓存与特效处理

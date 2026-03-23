@@ -7,3 +7,5 @@ image: assets/alajmo_sake_20251109_162209_945_20251109_164133_afbb14--20251109T1
 # [alajmo/sake](https://github.com/alajmo/sake/)
 
 Run commands on hosts via a YAML file
+
+通过YAML文件在主机上运行命令

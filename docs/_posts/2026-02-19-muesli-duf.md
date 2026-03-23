@@ -7,3 +7,5 @@ image: assets/muesli_duf_20260209_231453_090_20260209_231506_396a0a.png
 # [muesli/duf](https://github.com/muesli/duf)
 
 Disk usage utility with JSON output
+
+带JSON输出的磁盘使用工具

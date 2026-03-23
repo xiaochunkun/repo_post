@@ -7,3 +7,5 @@ image: assets/ruvnet_midstream_20260305_035212_006_20260305_035408_39fa94.png
 # [ruvnet/midstream](https://github.com/ruvnet/midstream)
 
 Platform for streaming from LLMs with agents and temporal analysis
+
+带代理和时间分析的LLM流式平台

@@ -7,3 +7,5 @@ image: assets/RaspAP_raspap_webgui_20260108_090958_872_20260108_091012_2f9f8c.pn
 # [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui)
 
 Wireless router software for Debian devices
+
+适用于Debian设备的无线路由器软件

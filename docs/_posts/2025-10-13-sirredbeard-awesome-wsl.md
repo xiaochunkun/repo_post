@@ -7,3 +7,5 @@ image: assets/20251013T001531878--sirredbeard--awesome-wsl--20251013T002125709--
 # [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl)
 
 Curated resources, guides, and tools for using Linux on Windows with WSL
+
+精选资源、指南和工具，用于在 Windows 上通过 WSL 使用 Linux

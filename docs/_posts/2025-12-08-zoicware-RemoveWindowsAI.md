@@ -7,3 +7,5 @@ image: assets/zoicware_RemoveWindowsAI_20251205_040439_363_20251205_040516_6c07b
 # [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI/)
 
 Script removes AI features from Windows 11
+
+从Windows 11移除AI功能的脚本

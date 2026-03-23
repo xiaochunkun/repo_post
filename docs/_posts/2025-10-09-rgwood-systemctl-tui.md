@@ -7,3 +7,5 @@ image: assets/20251009T050518692--rgwood--systemctl-tui--20251009T050705656--cro
 # [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui)
 
 terminal UI for managing systemd services and logs on Linux
+
+用于管理 Linux 上 systemd 服务和日志的终端 UI

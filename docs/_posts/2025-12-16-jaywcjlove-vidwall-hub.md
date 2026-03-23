@@ -7,3 +7,5 @@ image: assets/jaywcjlove_vidwall_hub_20251213_141953_996_20251213_142031_23daba.
 # [jaywcjlove/vidwall-hub](https://github.com/jaywcjlove/vidwall-hub/)
 
 Imports videos into macOS system wallpaper service
+
+将视频导入macOS系统壁纸服务

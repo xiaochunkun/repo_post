@@ -7,3 +7,5 @@ image: assets/TechnitiumSoftware_DnsServer_cropped.png
 # [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
 
 run your own DNS server for privacy and control
+
+运行自己的 DNS 服务器以保护隐私和控制

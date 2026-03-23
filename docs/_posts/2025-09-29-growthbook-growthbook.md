@@ -7,3 +7,5 @@ image: assets/20250929T013452538--growthbook--growthbook--20250929T014151816--cr
 # [growthbook/growthbook](https://github.com/growthbook/growthbook)
 
 feature flags and A/B testing for your apps
+
+应用程序的功能标志和A/B测试

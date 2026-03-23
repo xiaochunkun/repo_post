@@ -7,3 +7,5 @@ image: assets/ToxSam_open_source_3D_assets_20260224_033158_072_20260224_033216_a
 # [ToxSam/open-source-3D-assets](https://github.com/ToxSam/open-source-3D-assets)
 
 Registry of 3D assets for games and VR
+
+游戏和VR的3D资产注册表

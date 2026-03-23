@@ -7,3 +7,5 @@ image: assets/watercrawl_WaterCrawl_20260122_022219_859_20260122_022237_edecd1.p
 # [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl)
 
 Crawls websites into data for LLMs
+
+将网站爬取为LLM可用数据

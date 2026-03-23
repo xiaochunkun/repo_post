@@ -7,3 +7,5 @@ image: assets/IvanGlinkin_Fast-Google-Dorks-Scan_cropped.png
 # [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
 
 automates finding site vulnerabilities with google dorks
+
+自动化使用Google Dorks查找网站漏洞

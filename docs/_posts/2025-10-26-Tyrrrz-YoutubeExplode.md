@@ -6,3 +6,5 @@ image: assets/Tyrrrz_YoutubeExplode_20251025_043508_918_20251025_085039_9c57be--
 # [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode/)
 
 Library for querying YouTube metadata, video streams, and captions
+
+查询YouTube元数据、视频流和字幕的库

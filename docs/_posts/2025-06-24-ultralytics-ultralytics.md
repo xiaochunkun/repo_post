@@ -7,3 +7,5 @@ image: assets/ultralytics_ultralytics_cropped.png
 # [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 
 YOLO object detection and vision AI tools
+
+YOLO目标检测和视觉AI工具

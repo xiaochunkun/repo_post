@@ -7,3 +7,5 @@ image: assets/azukaar_Cosmos_Server_20260225_032453_509_20260225_032613_28d344.p
 # [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server)
 
 Selfhosted home server with authentication and anti-bot protection
+
+具有身份验证和反机器人保护的自托管家庭服务器

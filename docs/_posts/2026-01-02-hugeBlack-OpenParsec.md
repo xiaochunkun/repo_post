@@ -7,3 +7,5 @@ image: assets/hugeBlack_OpenParsec_20260101_103220_810_20260101_103236_290edb.pn
 # [hugeBlack/OpenParsec](https://github.com/hugeBlack/OpenParsec/)
 
 Parsec client for iOS and iPadOS with touch support
+
+支持触摸的iOS和iPadOS Parsec客户端

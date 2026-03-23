@@ -7,3 +7,5 @@ image: assets/mother_of_all_self_hosting_mash_playbook_20260212_025014_785_20260
 # [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook)
 
 Ansible playbook for hosting services as Docker containers
+
+用于将服务作为Docker容器托管的Ansible playbook

@@ -7,3 +7,5 @@ image: assets/20251005T225427161--bellingcat--telegram-phone-number-checker--202
 # [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker)
 
 checks if phone numbers are linked to Telegram accounts
+
+检查电话号码是否关联 Telegram 账户

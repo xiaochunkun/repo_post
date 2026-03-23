@@ -7,3 +7,5 @@ image: assets/k88hudson_git_flight_rules_20251122_193217_067_20251123_001443_d0b
 # [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules/)
 
 Guide for fixing Git mistakes
+
+修复Git错误的指南

@@ -7,3 +7,5 @@ image: assets/floating_ui_floating_ui_20251209_070802_648_20251209_070900_46bf14
 # [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui/)
 
 Library for positioning floating elements
+
+用于定位浮动元素的库

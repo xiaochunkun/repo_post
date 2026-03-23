@@ -7,3 +7,5 @@ image: assets/labring_sealos--20250812T000222--cropped.png
 # [labring/sealos](https://github.com/labring/sealos)
 
 cloud os to dev, deploy, and scale on kubernetes
+
+在Kubernetes上开发、部署和扩展的云操作系统

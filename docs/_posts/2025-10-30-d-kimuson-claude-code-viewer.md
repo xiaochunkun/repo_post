@@ -7,3 +7,5 @@ image: assets/d_kimuson_claude_code_viewer_20251030_010707_761_20251030_130954_2
 # [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer/)
 
 Web-based client for managing Claude Code projects
+
+基于 Web 的 Claude Code 项目管理客户端

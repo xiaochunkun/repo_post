@@ -7,3 +7,5 @@ image: assets/espocrm_espocrm_20260116_113951_312_20260116_114005_ae3da4.png
 # [espocrm/espocrm](https://github.com/espocrm/espocrm)
 
 CRM platform for lead and contact management
+
+用于线索和联系人管理的CRM平台

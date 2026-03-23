@@ -7,3 +7,5 @@ image: assets/kaplayjs_kaplay_20251125_020804_815_20251126_101547_f87c24--202511
 # [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay/)
 
 JavaScript and TypeScript 2D game library
+
+JavaScript 和 TypeScript 的 2D 游戏库

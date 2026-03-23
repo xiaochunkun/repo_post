@@ -7,3 +7,5 @@ image: assets/keyshade_xyz_keyshade_20251222_124632_320_20251222_124649_a51191.p
 # [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade/)
 
 Manages secrets through public key encryption
+
+通过公钥加密管理密钥

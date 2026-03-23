@@ -7,3 +7,5 @@ image: assets/shutootaki_bookwith_20251218_013919_413_20251218_013936_939014.png
 # [shutootaki/bookwith](https://github.com/shutootaki/bookwith/)
 
 Conversational reader for e-books with AI
+
+带 AI 功能的电子书对话式阅读器

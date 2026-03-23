@@ -7,3 +7,5 @@ image: assets/validatedev_BrewServicesManager_20260102_012122_797_20260102_01213
 # [validatedev/BrewServicesManager](https://github.com/validatedev/BrewServicesManager/)
 
 Manages Homebrew services from the menu bar
+
+从菜单栏管理 Homebrew 服务

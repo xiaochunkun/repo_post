@@ -7,3 +7,5 @@ image: assets/MemoriLabs_Memori_20251219_214954_549_20251219_215046_9b3f6d.png
 # [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori/)
 
 SQL memory layer for LLMs and agents
+
+LLM和代理的SQL内存层

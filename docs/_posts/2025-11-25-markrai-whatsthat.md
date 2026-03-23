@@ -7,3 +7,5 @@ image: assets/markrai_whatsthat_20251123_195708_851_20251125_012642_1308f3--2025
 # [markrai/whatsthat](https://github.com/markrai/whatsthat/)
 
 Analyzes WhatsApp Web group chat dynamics
+
+分析 WhatsApp Web 群聊动态

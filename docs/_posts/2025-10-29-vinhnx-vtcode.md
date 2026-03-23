@@ -7,3 +7,5 @@ image: assets/vinhnx_vtcode_20251029_070019_472_20251029_083332_9a88e9--20251029
 # [vinhnx/vtcode](https://github.com/vinhnx/vtcode/)
 
 Terminal coding agent with semantic code intelligence
+
+具有语义代码智能的终端编码代理

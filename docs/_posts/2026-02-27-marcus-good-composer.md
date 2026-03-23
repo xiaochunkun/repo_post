@@ -7,3 +7,5 @@ image: assets/marcus_good_composer_20260212_183607_476_20260212_183652_41c262.pn
 # [marcus/good-composer](https://github.com/marcus/good-composer)
 
 Streams MIDI from LLMs via WebSocket
+
+通过WebSocket从LLM流式传输MIDI

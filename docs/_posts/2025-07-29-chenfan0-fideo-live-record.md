@@ -7,3 +7,5 @@ image: assets/chenfan0_fideo-live-record_cropped.png
 # [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 
 record live streams from YouTube, Twitch, TikTok, and more
+
+录制 YouTube、Twitch、TikTok 等平台的直播

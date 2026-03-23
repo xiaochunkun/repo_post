@@ -7,3 +7,5 @@ image: assets/sadanandpai_frontend_mini_challenges_20260130_161653_532_20260130_
 # [sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges)
 
 Frontend challenges for learning and interviews
+
+前端挑战，用于学习和面试

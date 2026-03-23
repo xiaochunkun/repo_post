@@ -7,3 +7,5 @@ image: assets/rosadiaznewyork_video_finder_algorithm_20251202_202752_191_2025120
 # [rosadiaznewyork/video-finder-algorithm](https://github.com/rosadiaznewyork/video-finder-algorithm/)
 
 AI-powered YouTube video recommendation system
+
+基于AI的YouTube视频推荐系统

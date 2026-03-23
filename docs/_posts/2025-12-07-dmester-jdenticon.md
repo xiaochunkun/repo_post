@@ -7,3 +7,5 @@ image: assets/dmester_jdenticon_20251205_014535_260_20251205_014558_434396.png
 # [dmester/jdenticon](https://github.com/dmester/jdenticon/)
 
 Generates recognizable identicons with HTML5 canvas or SVG
+
+使用HTML5 canvas或SVG生成可识别头像

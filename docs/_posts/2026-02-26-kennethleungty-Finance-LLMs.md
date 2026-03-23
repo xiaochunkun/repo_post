@@ -7,3 +7,5 @@ image: assets/kennethleungty_Finance_LLMs_20260213_213713_080_20260213_213743_37
 # [kennethleungty/Finance-LLMs](https://github.com/kennethleungty/Finance-LLMs)
 
 Compiles LLM implementations in financial services
+
+编译金融服务中的LLM实现

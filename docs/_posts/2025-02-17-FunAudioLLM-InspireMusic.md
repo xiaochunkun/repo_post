@@ -7,3 +7,5 @@ image: assets/FunAudioLLM_InspireMusic_cropped.png
 # [FunAudioLLM/InspireMusic](https://github.com/FunAudioLLM/InspireMusic)
 
 Music generation toolkit using AI
+
+使用 AI 的音乐生成工具包

@@ -7,3 +7,5 @@ image: assets/kalcaddle_kodbox_20260108_215635_401_20260108_215722_b044bf.png
 # [kalcaddle/kodbox](https://github.com/kalcaddle/kodbox)
 
 File manager and code editor for the web browser
+
+网页浏览器的文件管理器和代码编辑器

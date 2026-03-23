@@ -7,3 +7,5 @@ image: assets/Finsys_dockhand_20260121_235913_016_20260121_235931_64f42e.png
 # [Finsys/dockhand](https://github.com/Finsys/dockhand)
 
 Docker management UI with Git integration and terminal access
+
+具有Git集成和终端访问的Docker管理UI

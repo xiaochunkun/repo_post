@@ -7,3 +7,5 @@ image: assets/MyoHub_myosuite_20251209_061510_020_20251209_061545_61b180.png
 # [MyoHub/myosuite](https://github.com/MyoHub/myosuite/)
 
 Musculoskeletal environments simulated with MuJoCo
+
+使用 MuJoCo 模拟的肌肉骨骼环境

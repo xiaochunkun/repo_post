@@ -7,3 +7,5 @@ image: assets/MacRimi_ProxMenux_20251123_201618_437_20251125_013153_8042c7--2025
 # [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux/)
 
 Menu script for Proxmox VE administration
+
+Proxmox VE 管理菜单脚本

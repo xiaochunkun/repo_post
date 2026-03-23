@@ -7,3 +7,5 @@ image: assets/dotnet_outdated_dotnet_outdated_20251202_201038_405_20251202_20112
 # [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated/)
 
 Reports outdated NuGet packages in .NET projects
+
+报告.NET项目中过时的NuGet包

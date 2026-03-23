@@ -7,3 +7,5 @@ image: assets/dannybouwers_trala_20251025_033722_359_20251025_040715_e92433--202
 # [dannybouwers/trala](https://github.com/dannybouwers/trala/)
 
 Automatically discovers and displays Traefik services
+
+自动发现并显示Traefik服务

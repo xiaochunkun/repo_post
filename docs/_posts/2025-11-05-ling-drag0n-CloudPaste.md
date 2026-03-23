@@ -7,3 +7,5 @@ image: assets/ling_drag0n_CloudPaste_20251105_035715_233_20251105_123441_0536ea-
 # [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste/)
 
 Cloudflare-based clipboard with Markdown support
+
+基于 Cloudflare 的剪贴板，支持 Markdown

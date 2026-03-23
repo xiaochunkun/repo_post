@@ -7,3 +7,5 @@ image: assets/watsonbox_exportify_20251025_051546_316_20251025_101623_2a08dc--20
 # [watsonbox/exportify](https://github.com/watsonbox/exportify/)
 
 Export Spotify playlists to CSV files
+
+将Spotify播放列表导出为CSV文件

@@ -7,3 +7,5 @@ image: assets/ace_step_ACE_Step_20260304_134514_460_20260304_134710_68251c.png
 # [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step)
 
 Foundation model for music generation
+
+音乐生成的基础模型

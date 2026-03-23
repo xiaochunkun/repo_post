@@ -7,3 +7,5 @@ image: assets/htrgouvea_nipe_20251216_191849_814_20251216_191959_6a6846.png
 # [htrgouvea/nipe](https://github.com/htrgouvea/nipe/)
 
 Makes Tor network your default gateway
+
+将 Tor 网络设为默认网关

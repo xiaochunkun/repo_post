@@ -7,3 +7,5 @@ image: assets/vercel_v0-sdk_cropped.png
 # [vercel/v0-sdk](https://github.com/vercel/v0-sdk)
 
 TypeScript SDK for working with v0 Platform API chat, projects, integrations
+
+用于v0 Platform API聊天、项目和集成的TypeScript SDK

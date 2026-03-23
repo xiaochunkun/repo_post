@@ -7,3 +7,5 @@ image: assets/20250818T101335609_robinmoisson_staticrypt--20250820T131749570--cr
 # [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt)
 
 password protect static HTML pages with AES encryption
+
+使用 AES 加密为静态 HTML 页面添加密码保护

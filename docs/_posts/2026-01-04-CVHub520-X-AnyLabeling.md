@@ -7,3 +7,5 @@ image: assets/CVHub520_X_AnyLabeling_20260103_144939_773_20260103_145003_d31a82.
 # [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling/)
 
 Labels data with segment anything models
+
+使用segment anything模型标注数据

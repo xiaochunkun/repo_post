@@ -7,3 +7,5 @@ image: assets/ForrestKnight_open_source_cs_20251114_030713_971_20251114_160232_f
 # [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs/)
 
 Path to a computer science education using online courses
+
+使用在线课程的计算机科学教育路径

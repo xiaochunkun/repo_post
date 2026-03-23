@@ -7,3 +7,5 @@ image: assets/Botspot_bvm_20260103_015342_744_20260103_015358_490c4d.png
 # [Botspot/bvm](https://github.com/Botspot/bvm/)
 
 Windows 11 on ARM Linux via KVM
+
+通过 KVM 在 ARM Linux 上运行 Windows 11

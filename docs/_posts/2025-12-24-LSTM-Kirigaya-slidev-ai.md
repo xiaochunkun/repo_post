@@ -7,3 +7,5 @@ image: assets/LSTM_Kirigaya_slidev_ai_20251223_025852_978_20251223_025908_3d2926
 # [LSTM-Kirigaya/slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai/)
 
 Generates presentations from prompts using large language models
+
+使用大语言模型根据提示生成演示文稿

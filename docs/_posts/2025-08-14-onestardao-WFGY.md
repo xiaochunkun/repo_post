@@ -7,3 +7,5 @@ image: assets/onestardao_WFGY--20250814T032228481--cropped.png
 # [onestardao/WFGY](https://github.com/onestardao/WFGY)
 
 semantic reasoning engine for LLMs, fixes RAG drift, boosts AI logic
+
+用于LLM的语义推理引擎，修复RAG漂移，增强AI逻辑

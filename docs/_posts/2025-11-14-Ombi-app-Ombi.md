@@ -7,3 +7,5 @@ image: assets/Ombi_app_Ombi_20251113_043823_902_20251113_222532_f45e46--20251113
 # [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi/)
 
 Media request tool that syncs with media servers
+
+与媒体服务器同步的媒体请求工具

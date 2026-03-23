@@ -7,3 +7,5 @@ image: assets/EpicGamesExt_PixelStreamingInfrastructure_20260116_042430_115_2026
 # [EpicGamesExt/PixelStreamingInfrastructure](https://github.com/EpicGamesExt/PixelStreamingInfrastructure)
 
 Streams Unreal Engine content to browsers via WebRTC
+
+通过WebRTC将Unreal Engine内容流式传输到浏览器

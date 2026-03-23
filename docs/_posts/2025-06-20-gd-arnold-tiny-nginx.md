@@ -7,3 +7,5 @@ image: assets/gd-arnold_tiny-nginx_cropped.png
 # [gd-arnold/tiny-nginx](https://github.com/gd-arnold/tiny-nginx)
 
 tiny HTTP server in C, uses nginx-inspired event-driven design
+
+C语言编写的微型HTTP服务器，采用nginx风格的事件驱动设计

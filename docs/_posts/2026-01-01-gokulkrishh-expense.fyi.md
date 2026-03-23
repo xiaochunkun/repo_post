@@ -7,3 +7,5 @@ image: assets/gokulkrishh_expense_fyi_20260101_005012_204_20260101_005026_1b28c0
 # [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi/)
 
 Tracks incomes and expenses with Supabase and Next.js
+
+使用Supabase和Next.js跟踪收入和支出

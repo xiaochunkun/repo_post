@@ -7,3 +7,5 @@ image: assets/20250912T195913627--Portkey-AI--gateway--20250912T200303923--cropp
 # [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
 Unified API for fast, secure routing to 1600+ AI models including language, vision, and audio
+
+统一 API 快速安全路由到 1600 多个 AI 模型，涵盖语言、视觉和音频

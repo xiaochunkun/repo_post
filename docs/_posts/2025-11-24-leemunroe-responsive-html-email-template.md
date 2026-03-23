@@ -7,3 +7,5 @@ image: assets/leemunroe_responsive_html_email_template_20251123_041604_997_20251
 # [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template/)
 
 Responsive HTML email template with a call-to-action button
+
+带行动号召按钮的响应式 HTML 电子邮件模板

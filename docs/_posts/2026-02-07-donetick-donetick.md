@@ -7,3 +7,5 @@ image: assets/donetick_donetick_20260204_115845_500_20260204_115925_c2a999.png
 # [donetick/donetick](https://github.com/donetick/donetick)
 
 Task manager with natural language processing and adaptive scheduling
+
+具有自然语言处理和自适应调度的任务管理器

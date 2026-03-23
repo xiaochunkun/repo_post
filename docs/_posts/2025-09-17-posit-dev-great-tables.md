@@ -7,3 +7,5 @@ image: assets/20250917T011343646--posit-dev--great-tables--20250917T011932220--c
 # [posit-dev/great-tables](https://github.com/posit-dev/great-tables)
 
 Publication-quality tables in Python
+
+Python 中的出版级表格

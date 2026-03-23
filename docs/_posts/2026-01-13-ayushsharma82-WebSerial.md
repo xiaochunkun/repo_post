@@ -7,3 +7,5 @@ image: assets/ayushsharma82_WebSerial_20260112_103956_817_20260112_104010_94914e
 # [ayushsharma82/WebSerial](https://github.com/ayushsharma82/WebSerial)
 
 Terminal for microcontrollers via browser
+
+通过浏览器连接微控制器的终端

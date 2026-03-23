@@ -7,3 +7,5 @@ image: assets/klausmeyer_docker_registry_browser_20251204_212036_003_20251204_21
 # [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser/)
 
 Web interface for Docker Registry HTTP API V2
+
+Docker Registry HTTP API V2的Web界面

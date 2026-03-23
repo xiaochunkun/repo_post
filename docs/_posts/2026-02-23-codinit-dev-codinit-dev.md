@@ -7,3 +7,5 @@ image: assets/codinit_dev_codinit_dev_20260213_091309_820_20260213_091445_f38282
 # [codinit-dev/codinit-dev](https://github.com/codinit-dev/codinit-dev)
 
 Builds and deploys full-stack applications locally
+
+本地构建和部署全栈应用

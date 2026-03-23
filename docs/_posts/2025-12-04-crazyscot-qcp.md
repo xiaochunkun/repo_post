@@ -7,3 +7,5 @@ image: assets/crazyscot_qcp_20251202_204231_823_20251202_204258_2dff12.png
 # [crazyscot/qcp](https://github.com/crazyscot/qcp/)
 
 Remote file copy utility over QUIC
+
+基于QUIC的远程文件复制工具

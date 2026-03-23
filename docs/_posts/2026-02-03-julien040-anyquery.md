@@ -7,3 +7,5 @@ image: assets/julien040_anyquery_20260203_002642_384_20260203_002708_819525.png
 # [julien040/anyquery](https://github.com/julien040/anyquery)
 
 SQL engine for files, databases, and apps
+
+用于文件、数据库和应用的 SQL 引擎

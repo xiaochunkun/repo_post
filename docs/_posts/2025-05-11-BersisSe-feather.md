@@ -7,3 +7,5 @@ image: assets/BersisSe_feather_cropped.png
 # [BersisSe/feather](https://github.com/BersisSe/feather)
 
 Rust web framework without async, inspired by Express.js
+
+Rust Web 框架，无异步，灵感来自 Express.js

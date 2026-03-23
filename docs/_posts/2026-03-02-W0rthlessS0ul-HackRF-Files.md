@@ -7,3 +7,5 @@ image: assets/W0rthlessS0ul_HackRF_Files_20260213_195327_541_20260213_195419_710
 # [W0rthlessS0ul/HackRF-Files](https://github.com/W0rthlessS0ul/HackRF-Files)
 
 Files for radio frequency hardware
+
+射频硬件相关文件

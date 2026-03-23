@@ -7,3 +7,5 @@ image: assets/leoMirandaa_shadcn_landing_page_20260209_020328_467_20260209_02042
 # [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page)
 
 Landing page template with ShadcnUI and React
+
+使用 ShadcnUI 和 React 的着陆页模板

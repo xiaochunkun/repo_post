@@ -7,3 +7,5 @@ image: assets/nimin1_system_design_vibecoding_20260111_203120_288_20260111_20313
 # [nimin1/system-design-vibecoding](https://github.com/nimin1/system-design-vibecoding)
 
 System design for AI development
+
+AI开发的系统设计

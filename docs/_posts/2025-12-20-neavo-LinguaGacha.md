@@ -7,3 +7,5 @@ image: assets/neavo_LinguaGacha_20251218_060219_841_20251218_060238_434f61.png
 # [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha/)
 
 Translates novels and games using AI
+
+使用 AI 翻译小说和游戏

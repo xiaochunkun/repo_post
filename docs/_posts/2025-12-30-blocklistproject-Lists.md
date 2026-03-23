@@ -7,3 +7,5 @@ image: assets/blocklistproject_Lists_20251228_225505_249_20251228_225525_e08892.
 # [blocklistproject/Lists](https://github.com/blocklistproject/Lists/)
 
 Curated domain blocklists for content filtering
+
+用于内容过滤的精选域名屏蔽列表

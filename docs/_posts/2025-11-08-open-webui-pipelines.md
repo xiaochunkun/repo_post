@@ -7,3 +7,5 @@ image: assets/open_webui_pipelines_20251107_191325_650_20251107_235647_47aeae--2
 # [open-webui/pipelines](https://github.com/open-webui/pipelines/)
 
 UI-agnostic framework for offloading heavy OpenAI API tasks
+
+用于卸载繁重OpenAI API任务的UI无关框架

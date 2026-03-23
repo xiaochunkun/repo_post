@@ -7,3 +7,5 @@ image: assets/20250921T023354356--pyper-dev--pyper--20250921T030008073--cropped.
 # [pyper-dev/pyper](https://github.com/pyper-dev/pyper)
 
 concurrent and parallel data pipelines in Python using simple functional patterns
+
+使用简单函数模式在 Python 中实现并发和并行数据管道

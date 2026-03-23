@@ -7,3 +7,5 @@ image: assets/holgerBerger_hpc-workspace_cropped.png
 # [holgerBerger/hpc-workspace](https://github.com/holgerBerger/hpc-workspace)
 
 Tool for managing workspace directories with expiration dates in HPC environments
+
+用于在HPC环境中管理带过期日期的工作空间目录的工具

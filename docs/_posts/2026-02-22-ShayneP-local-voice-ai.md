@@ -7,3 +7,5 @@ image: assets/ShayneP_local_voice_ai_20260212_082212_011_20260212_082227_38884a.
 # [ShayneP/local-voice-ai](https://github.com/ShayneP/local-voice-ai)
 
 Voice assistant with WebRTC via Docker
+
+通过Docker使用WebRTC的语音助手

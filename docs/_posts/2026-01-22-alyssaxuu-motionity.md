@@ -7,3 +7,5 @@ image: assets/alyssaxuu_motionity_20260121_232038_626_20260121_232101_c1ef3b.png
 # [alyssaxuu/motionity](https://github.com/alyssaxuu/motionity)
 
 Web-based motion graphics editor with keyframing and masking
+
+基于 Web 的动态图形编辑器，支持关键帧和遮罩

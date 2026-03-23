@@ -7,3 +7,5 @@ image: assets/gpt_omni_mini_omni_20251120_034511_620_20251120_041048_1dd547--202
 # [gpt-omni/mini-omni](https://github.com/gpt-omni/mini-omni/)
 
 Streaming speech-to-speech language model
+
+流式语音到语音语言模型

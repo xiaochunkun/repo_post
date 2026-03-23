@@ -7,3 +7,5 @@ image: assets/mishushakov_llm_scraper_20260221_105554_500_20260221_105633_8b32e3
 # [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper)
 
 Extracts structured data from webpages using LLMs
+
+使用LLM从网页提取结构化数据

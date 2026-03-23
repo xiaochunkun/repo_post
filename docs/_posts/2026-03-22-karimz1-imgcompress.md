@@ -7,3 +7,5 @@ image: assets/karimz1_imgcompress_20260321_082012_895_20260321_082114_222c87.png
 # [karimz1/imgcompress](https://github.com/karimz1/imgcompress)
 
 Offline image compression and AI background removal
+
+离线图像压缩和AI背景移除

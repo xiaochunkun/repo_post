@@ -7,3 +7,5 @@ image: assets/mop_tracker_mop_20260212_052956_999_20260212_053023_972d7c.png
 # [mop-tracker/mop](https://github.com/mop-tracker/mop)
 
 Stock market tracker for the terminal
+
+终端股票市场追踪器

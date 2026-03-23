@@ -7,3 +7,5 @@ image: assets/20250929T013426106--emcie-co--parlant-chat-react--20250929T0140181
 # [emcie-co/parlant-chat-react](https://github.com/emcie-co/parlant-chat-react)
 
 React component for adding customizable chatbots to your site
+
+用于向网站添加可定制聊天机器人的React组件

@@ -7,3 +7,5 @@ image: assets/medusajs_nextjs_starter_medusa_20251205_005934_727_20251205_005957
 # [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa/)
 
 Next.js 15 starter template for Medusa commerce backends
+
+Medusa电商后端的Next.js 15启动模板

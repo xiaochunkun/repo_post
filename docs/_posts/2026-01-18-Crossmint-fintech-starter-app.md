@@ -7,3 +7,5 @@ image: assets/Crossmint_fintech_starter_app_20260117_222416_239_20260117_222433_
 # [Crossmint/fintech-starter-app](https://github.com/Crossmint/fintech-starter-app)
 
 Fintech app with wallets, onramp, and yield integration
+
+集成钱包、入金和收益功能的金融科技应用

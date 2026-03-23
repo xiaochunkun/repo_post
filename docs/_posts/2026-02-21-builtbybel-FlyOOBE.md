@@ -7,3 +7,5 @@ image: assets/builtbybel_FlyOOBE_20260220_230454_538_20260220_230523_349be7.png
 # [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE)
 
 Bypasses hardware checks for Windows 11 installations
+
+绕过 Windows 11 安装的硬件检查

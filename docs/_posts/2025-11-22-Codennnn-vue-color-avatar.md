@@ -7,3 +7,5 @@ image: assets/Codennnn_vue_color_avatar_20251121_123525_960_20251121_211739_c3d8
 # [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar/)
 
 Front-end vector avatar generator
+
+前端矢量头像生成器

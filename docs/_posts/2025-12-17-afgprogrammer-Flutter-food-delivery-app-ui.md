@@ -7,3 +7,5 @@ image: assets/afgprogrammer_Flutter_food_delivery_app_ui_20251215_013443_701_202
 # [afgprogrammer/Flutter-food-delivery-app-ui](https://github.com/afgprogrammer/Flutter-food-delivery-app-ui/)
 
 Food delivery app UI built with Flutter
+
+使用 Flutter 构建的外卖应用 UI

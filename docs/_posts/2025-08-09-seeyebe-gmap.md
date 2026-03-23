@@ -7,3 +7,5 @@ image: assets/seeyebe_gmap_cropped.png
 # [seeyebe/gmap](https://github.com/seeyebe/gmap)
 
 command-line tool to visualize Git activity
+
+命令行工具，用于可视化 Git 活动

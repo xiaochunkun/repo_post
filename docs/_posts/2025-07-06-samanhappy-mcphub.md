@@ -7,3 +7,5 @@ image: assets/samanhappy_mcphub_cropped.png
 # [samanhappy/mcphub](https://github.com/samanhappy/mcphub)
 
 mcphub: web app and extension for handling Model Context Protocol servers, like apt or pip for MCP servers
+
+mcphub：用于处理Model Context Protocol服务器的Web应用和扩展，类似MCP服务器的apt或pip

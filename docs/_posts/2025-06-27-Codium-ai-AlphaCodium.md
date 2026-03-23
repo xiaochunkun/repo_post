@@ -7,3 +7,5 @@ image: assets/Codium-ai_AlphaCodium_cropped.png
 # [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium)
 
 AlphaCodium GitHub repository: Code generation using LLMs
+
+AlphaCodium GitHub 仓库：使用 LLM 进行代码生成

@@ -7,3 +7,5 @@ image: assets/MercuryWorkshop_scramjet_20260104_074458_894_20260104_074514_873d6
 # [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet/)
 
 Web proxy for bypassing restrictions
+
+绕过限制的Web代理

@@ -7,3 +7,5 @@ image: assets/hcengineering_huly_coder_20251127_185046_777_20251130_052337_3bef3
 # [hcengineering/huly-coder](https://github.com/hcengineering/huly-coder/)
 
 Autonomous AI coding agent with terminal UI
+
+具有终端 UI 的自主 AI 编码代理

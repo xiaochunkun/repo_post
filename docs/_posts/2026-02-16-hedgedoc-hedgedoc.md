@@ -7,3 +7,5 @@ image: assets/hedgedoc_hedgedoc_20260117_210941_844_20260117_210956_86c350.png
 # [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
 
 Collaborative markdown notes in real-time
+
+实时协作的 Markdown 笔记

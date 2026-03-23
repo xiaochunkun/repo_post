@@ -7,3 +7,5 @@ image: assets/rikhuijzer_fx_20251031_164334_460_20251102_220519_97a3a5--20251102
 # [rikhuijzer/fx](https://github.com/rikhuijzer/fx/)
 
 Self-hosted microblogging with Markdown and LaTeX support
+
+支持Markdown和LaTeX的自托管微博客

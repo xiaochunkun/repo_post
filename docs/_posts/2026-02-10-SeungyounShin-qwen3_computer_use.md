@@ -7,3 +7,5 @@ image: assets/SeungyounShin_qwen3_computer_use_20260206_204022_067_20260206_2041
 # [SeungyounShin/qwen3_computer_use](https://github.com/SeungyounShin/qwen3_computer_use)
 
 GUI agent driver for computer control via vLLM
+
+通过vLLM控制计算机的GUI代理驱动

@@ -7,3 +7,5 @@ image: assets/microsoft_OmniParser_cropped.png
 # [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
 
 Parser for user interface screenshots
+
+用户界面截图解析器

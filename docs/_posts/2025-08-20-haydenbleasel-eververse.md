@@ -7,3 +7,5 @@ image: assets/20250818T122417905_haydenbleasel_eververse--20250818T122929577--cr
 # [haydenbleasel/eververse](https://github.com/haydenbleasel/eververse)
 
 Open source product management platform with AI-powered roadmaps
+
+具有 AI 驱动路线图的开源产品管理平台

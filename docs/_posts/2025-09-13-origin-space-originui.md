@@ -7,3 +7,5 @@ image: assets/20250911T234538479--origin-space--originui--20250911T235144747--cr
 # [origin-space/originui](https://github.com/origin-space/originui)
 
 UI components for React and Tailwind CSS projects
+
+适用于 React 和 Tailwind CSS 项目的 UI 组件

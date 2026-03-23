@@ -7,3 +7,5 @@ image: assets/ace_step_ACE_Step_1_5_20260212_153101_311_20260212_153136_7ccabb.p
 # [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5)
 
 Generates music on consumer hardware
+
+在消费级硬件上生成音乐

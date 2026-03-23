@@ -7,3 +7,5 @@ image: assets/louislam_dockge_cropped.png
 # [louislam/dockge](https://github.com/louislam/dockge)
 
 Docker compose stack manager with web UI
+
+带 Web UI 的 Docker compose 堆栈管理器

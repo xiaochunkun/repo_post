@@ -7,3 +7,5 @@ image: assets/XiCheng148_Dockit_cropped.png
 # [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit)
 
 macOS tool to dock windows to screen edges
+
+macOS工具，用于将窗口停靠到屏幕边缘

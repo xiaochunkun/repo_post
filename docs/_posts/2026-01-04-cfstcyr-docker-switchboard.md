@@ -7,3 +7,5 @@ image: assets/cfstcyr_docker_switchboard_20260103_041347_461_20260103_041404_cf0
 # [cfstcyr/docker-switchboard](https://github.com/cfstcyr/docker-switchboard/)
 
 Web interface for container management
+
+容器管理的Web界面

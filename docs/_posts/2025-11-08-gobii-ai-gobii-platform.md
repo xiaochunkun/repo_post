@@ -7,3 +7,5 @@ image: assets/gobii_ai_gobii_platform_20251107_172444_000_20251107_215828_0ba9c6
 # [gobii-ai/gobii-platform](https://github.com/gobii-ai/gobii-platform/)
 
 Platform for deploying and managing browser-use agents
+
+部署和管理浏览器使用代理的平台

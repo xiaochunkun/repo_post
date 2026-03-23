@@ -7,3 +7,5 @@ image: assets/Solomonkassa_javascript_mastery_20260131_184057_368_20260131_18414
 # [Solomonkassa/javascript-mastery](https://github.com/Solomonkassa/javascript-mastery)
 
 Curriculum with 500 examples and 50 projects
+
+包含 500 个示例和 50 个项目的课程

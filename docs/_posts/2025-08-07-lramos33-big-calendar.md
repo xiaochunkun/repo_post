@@ -7,3 +7,5 @@ image: assets/lramos33_big-calendar_cropped.png
 # [lramos33/big-calendar](https://github.com/lramos33/big-calendar)
 
 A calendar component for React
+
+React 的日历组件

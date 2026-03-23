@@ -7,3 +7,5 @@ image: assets/hanxiao_claudecode_telegram_20260222_124117_402_20260222_124206_1b
 # [hanxiao/claudecode-telegram](https://github.com/hanxiao/claudecode-telegram)
 
 Bridges Claude Code to Telegram via tmux
+
+通过tmux桥接Claude Code到Telegram

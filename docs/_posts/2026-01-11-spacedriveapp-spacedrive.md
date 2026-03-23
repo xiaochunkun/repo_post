@@ -7,3 +7,5 @@ image: assets/spacedriveapp_spacedrive_20260108_021603_253_20260108_021617_1496d
 # [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 
 File manager on a virtual distributed filesystem
+
+虚拟分布式文件系统上的文件管理器

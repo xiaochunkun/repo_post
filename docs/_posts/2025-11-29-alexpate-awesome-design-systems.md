@@ -7,3 +7,5 @@ image: assets/alexpate_awesome_design_systems_20251126_001723_825_20251128_21350
 # [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems/)
 
 Curated list of design systems and pattern libraries
+
+设计系统和模式库的精选列表

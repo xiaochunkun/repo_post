@@ -7,3 +7,5 @@ image: assets/Gen_Verse_OpenClaw_RL_20260304_051744_757_20260304_051944_54564a.p
 # [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
 
 Trains personalized agents through conversation feedback
+
+通过对话反馈训练个性化代理

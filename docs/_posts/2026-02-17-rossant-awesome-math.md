@@ -7,3 +7,5 @@ image: assets/rossant_awesome_math_20260206_225158_603_20260206_225315_7de7e3.pn
 # [rossant/awesome-math](https://github.com/rossant/awesome-math)
 
 Curated list of mathematics resources
+
+精选的数学资源列表

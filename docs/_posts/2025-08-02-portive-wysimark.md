@@ -7,3 +7,5 @@ image: assets/portive_wysimark_cropped.png
 # [portive/wysimark](https://github.com/portive/wysimark)
 
 markdown editor with image uploads
+
+支持图像上传的 Markdown 编辑器

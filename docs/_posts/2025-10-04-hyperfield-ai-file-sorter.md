@@ -7,3 +7,5 @@ image: assets/20251003T232253067--hyperfield--ai-file-sorter--20251003T232513096
 # [hyperfield/ai-file-sorter](https://github.com/hyperfield/ai-file-sorter)
 
 AI organizes and sorts your files into folders using local or remote models
+
+AI 使用本地或远程模型组织和排序文件到文件夹

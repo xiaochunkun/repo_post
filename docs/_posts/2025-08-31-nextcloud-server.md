@@ -7,3 +7,5 @@ image: assets/20250830T152828240--nextcloud--server--20250830T153114220--cropped
 # [nextcloud/server](https://github.com/nextcloud/server)
 
 self-hosted file sharing and sync with Nextcloud
+
+Nextcloud 自托管文件共享和同步平台

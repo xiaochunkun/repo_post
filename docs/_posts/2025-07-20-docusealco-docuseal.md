@@ -7,3 +7,5 @@ image: assets/docusealco_docuseal_cropped.png
 # [docusealco/docuseal](https://github.com/docusealco/docuseal)
 
 open source tool for digital document signing and PDF forms
+
+开源工具，用于数字文档签名和PDF表单

@@ -7,3 +7,5 @@ image: assets/FunnyWolf_agentic_soc_platform_20251230_165336_481_20251230_165353
 # [FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform/)
 
 Automates security operations with AI agents
+
+使用 AI 智能体自动化安全运营

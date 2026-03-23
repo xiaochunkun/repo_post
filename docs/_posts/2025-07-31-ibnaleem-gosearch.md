@@ -7,3 +7,5 @@ image: assets/ibnaleem_gosearch_cropped.png
 # [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
 
 search usernames across sites and leaks with Go
+
+使用 Go 跨网站和泄露数据搜索用户名

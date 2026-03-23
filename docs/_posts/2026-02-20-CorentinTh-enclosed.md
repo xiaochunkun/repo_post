@@ -7,3 +7,5 @@ image: assets/CorentinTh_enclosed_20260209_205510_545_20260209_205536_e303b0.png
 # [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed)
 
 Sends end-to-end encrypted notes with self-destruction
+
+发送端到端加密并自毁的笔记

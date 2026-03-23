@@ -7,3 +7,5 @@ image: assets/khcrysalis_EasyPKG_20251213_141802_582_20251213_141917_6581d5.png
 # [khcrysalis/EasyPKG](https://github.com/khcrysalis/EasyPKG/)
 
 Lists installed macOS packages and history
+
+列出已安装的macOS包及其历史记录

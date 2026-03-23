@@ -7,3 +7,5 @@ image: assets/homarr-labs_homarr_cropped.png
 # [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 
 dashboard for all your self-hosted apps
+
+用于所有自托管应用的仪表板

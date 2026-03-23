@@ -7,3 +7,5 @@ image: assets/Enemyx_net_VibeVoice_ComfyUI_20251201_060607_227_20251201_060630_d
 # [Enemyx-net/VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI/)
 
 ComfyUI integration for Microsoft VibeVoice TTS
+
+Microsoft VibeVoice TTS 的 ComfyUI 集成

@@ -7,3 +7,5 @@ image: assets/20251005T100554092--andydunstall--piko--20251005T100846399--croppe
 # [andydunstall/piko](https://github.com/andydunstall/piko)
 
 reverse proxy for secure service tunneling and easy Kubernetes hosting
+
+用于安全服务隧道和简化Kubernetes托管的反向代理

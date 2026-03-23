@@ -7,3 +7,5 @@ image: assets/Gentleman_Programming_agent_teams_lite_20260308_180349_360_2026030
 # [Gentleman-Programming/agent-teams-lite](https://github.com/Gentleman-Programming/agent-teams-lite)
 
 Orchestrates AI agents for feature development
+
+编排AI代理以进行功能开发

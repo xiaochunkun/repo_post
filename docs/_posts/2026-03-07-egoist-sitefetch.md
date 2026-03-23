@@ -7,3 +7,5 @@ image: assets/egoist_sitefetch_20260227_134219_167_20260227_134420_fba7ac.png
 # [egoist/sitefetch](https://github.com/egoist/sitefetch)
 
 Saves entire websites as text files for AI models
+
+将整个网站保存为文本文件供AI模型使用

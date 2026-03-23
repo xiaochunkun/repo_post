@@ -7,3 +7,5 @@ image: assets/awslabs_mountpoint_s3_20251029_232811_975_20251030_003325_4f42ba--
 # [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3/)
 
 Mount an Amazon S3 bucket as a local file system
+
+将 Amazon S3 存储桶挂载为本地文件系统

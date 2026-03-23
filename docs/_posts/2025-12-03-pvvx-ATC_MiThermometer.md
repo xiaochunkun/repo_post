@@ -7,3 +7,5 @@ image: assets/pvvx_ATC_MiThermometer_20251201_064232_567_20251201_064301_98a32e.
 # [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer/)
 
 Custom firmware for Telink BLE thermometers
+
+Telink BLE温度计的自定义固件

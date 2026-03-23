@@ -7,3 +7,5 @@ image: assets/cococonscious_koji_20251208_001827_940_20251208_001859_f6d932.png
 # [cococonscious/koji](https://github.com/cococonscious/koji/)
 
 Interactive CLI for creating conventional commits
+
+用于创建规范提交的交互式 CLI

@@ -7,3 +7,5 @@ image: assets/adolfintel_OpenPods_20251223_181929_243_20251223_181949_0b0a58.png
 # [adolfintel/OpenPods](https://github.com/adolfintel/OpenPods/)
 
 Monitors AirPods status on Android
+
+在Android上监控AirPods状态

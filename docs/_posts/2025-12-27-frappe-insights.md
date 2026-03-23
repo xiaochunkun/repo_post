@@ -7,3 +7,5 @@ image: assets/frappe_insights_20251225_184524_047_20251225_184542_2785f2.png
 # [frappe/insights](https://github.com/frappe/insights/)
 
 Business intelligence tool for data analysis and reporting
+
+用于数据分析和报告的商业智能工具

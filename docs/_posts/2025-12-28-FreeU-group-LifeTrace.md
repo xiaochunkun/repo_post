@@ -7,3 +7,5 @@ image: assets/FreeU_group_LifeTrace_20251226_221720_950_20251226_221741_951b34.p
 # [FreeU-group/LifeTrace](https://github.com/FreeU-group/LifeTrace/)
 
 Records screen and extracts text to manage task context
+
+记录屏幕并提取文本以管理任务上下文

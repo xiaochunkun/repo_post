@@ -7,3 +7,5 @@ image: assets/nzbdav_dev_nzbdav_20251122_141551_519_20251123_001008_0d8e1c--2025
 # [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav/)
 
 Mounts NZB documents as a virtual file system
+
+将NZB文档挂载为虚拟文件系统

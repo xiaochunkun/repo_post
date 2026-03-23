@@ -7,3 +7,5 @@ image: assets/cmdalbem_escapista_20260119_003720_829_20260119_003745_02ae36.png
 # [cmdalbem/escapista](https://github.com/cmdalbem/escapista)
 
 Webapp for watching slow TV and ambient videos
+
+观看慢电视和环境视频的Web应用

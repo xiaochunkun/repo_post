@@ -7,3 +7,5 @@ image: assets/ameshkov_dnslookup_20260213_225407_354_20260213_225457_f09838.png
 # [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup)
 
 DNS lookups via all protocols
+
+通过所有协议进行DNS查询

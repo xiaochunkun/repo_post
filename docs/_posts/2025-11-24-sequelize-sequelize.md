@@ -7,3 +7,5 @@ image: assets/sequelize_sequelize_20251123_095828_883_20251124_002526_6b2260--20
 # [sequelize/sequelize](https://github.com/sequelize/sequelize/)
 
 Node.js ORM for SQL databases
+
+用于 SQL 数据库的 Node.js ORM

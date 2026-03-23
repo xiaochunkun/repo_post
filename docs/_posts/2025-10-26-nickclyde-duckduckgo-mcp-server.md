@@ -7,3 +7,5 @@ image: assets/nickclyde_duckduckgo_mcp_server_20251025_045519_721_20251025_10110
 # [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server/)
 
 Server for DuckDuckGo search with LLM-friendly output
+
+提供LLM友好输出的DuckDuckGo搜索服务器

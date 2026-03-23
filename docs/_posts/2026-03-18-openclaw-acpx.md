@@ -7,3 +7,5 @@ image: assets/openclaw_acpx_20260317_011107_245_20260317_011133_4fe0e2.png
 # [openclaw/acpx](https://github.com/openclaw/acpx)
 
 Structured protocol for AI agent communication
+
+AI Agent通信的结构化协议

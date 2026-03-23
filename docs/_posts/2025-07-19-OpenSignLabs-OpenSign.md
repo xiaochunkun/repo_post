@@ -7,3 +7,5 @@ image: assets/OpenSignLabs_OpenSign_cropped.png
 # [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign)
 
 open source e-signature tool for signing and managing documents
+
+开源电子签名工具，用于签署和管理文档

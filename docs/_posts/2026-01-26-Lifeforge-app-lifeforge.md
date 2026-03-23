@@ -7,3 +7,5 @@ image: assets/Lifeforge_app_lifeforge_20260125_182153_422_20260125_182234_519611
 # [Lifeforge-app/lifeforge](https://github.com/Lifeforge-app/lifeforge)
 
 Self-hosted dashboard for life management
+
+用于生活管理的自托管仪表板

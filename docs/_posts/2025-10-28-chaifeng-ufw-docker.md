@@ -7,3 +7,5 @@ image: assets/chaifeng_ufw_docker_20251026_225615_512_20251027_001915_77e2a4--20
 # [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker/)
 
 Fixes the Docker and UFW security flaw
+
+修复 Docker 和 UFW 安全漏洞

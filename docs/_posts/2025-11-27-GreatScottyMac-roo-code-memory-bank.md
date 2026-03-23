@@ -7,3 +7,5 @@ image: assets/GreatScottyMac_roo_code_memory_bank_20251125_005537_299_20251126_1
 # [GreatScottyMac/roo-code-memory-bank](https://github.com/GreatScottyMac/roo-code-memory-bank/)
 
 Maintains AI context across development sessions
+
+在开发会话间维护 AI 上下文

@@ -7,3 +7,5 @@ image: assets/NeptuneHub_AudioMuse_AI_20251123_194940_252_20251125_012513_09150b
 # [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI/)
 
 Generates playlists via local sonic analysis
+
+通过本地音频分析生成播放列表

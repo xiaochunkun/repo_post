@@ -7,3 +7,5 @@ image: assets/alibaba_kt_connect_20251221_172823_857_20251221_172841_65d175.png
 # [alibaba/kt-connect](https://github.com/alibaba/kt-connect/)
 
 Connects workstations to Kubernetes clusters
+
+连接工作站到 Kubernetes 集群

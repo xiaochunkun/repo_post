@@ -7,3 +7,5 @@ image: assets/kuberhealthy_kuberhealthy_20251122_094139_445_20251122_111446_e610
 # [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy/)
 
 Verifies Kubernetes health via simulation
+
+通过模拟验证 Kubernetes 健康状态

@@ -7,3 +7,5 @@ image: assets/charmbracelet_ultraviolet_cropped.png
 # [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet)
 
 terminal UI building blocks for Go
+
+Go 的终端 UI 构建块

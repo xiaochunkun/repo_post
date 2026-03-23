@@ -7,3 +7,5 @@ image: assets/kantord_LibreLingo_20251123_190904_576_20251124_184845_936b0f--202
 # [kantord/LibreLingo](https://github.com/kantord/LibreLingo/)
 
 Language learning platform with community ownership
+
+社区所有的语言学习平台

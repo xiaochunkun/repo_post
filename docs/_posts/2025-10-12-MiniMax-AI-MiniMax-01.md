@@ -7,3 +7,5 @@ image: assets/20251012T024425060--MiniMax-AI--MiniMax-01--20251012T025044994--cr
 # [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01)
 
 open-source language and vision models with huge context window and hybrid attention
+
+具有大上下文窗口和混合注意力的开源语言和视觉模型

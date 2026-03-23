@@ -7,3 +7,5 @@ image: assets/jivoi_awesome-osint--20250816T043622611--cropped.png
 # [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 
 huge list of open source intelligence tools and resources
+
+开源情报工具和资源的大型列表

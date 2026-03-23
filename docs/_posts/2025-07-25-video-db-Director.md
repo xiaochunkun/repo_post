@@ -7,3 +7,5 @@ image: assets/video-db_Director_cropped.png
 # [video-db/Director](https://github.com/video-db/Director)
 
 VideoDB Director framework for AI video agents
+
+VideoDB Director：AI视频代理框架

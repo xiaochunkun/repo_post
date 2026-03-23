@@ -7,3 +7,5 @@ image: assets/Knuckles92_OpenWhisper_20260116_100051_334_20260116_100106_2fc60a.
 # [Knuckles92/OpenWhisper](https://github.com/Knuckles92/OpenWhisper)
 
 Transcribes audio to text with local models and auto-paste
+
+使用本地模型转录音频为文本并自动粘贴

@@ -7,3 +7,5 @@ image: assets/creativetimofficial_notus_react_20260106_091344_904_20260106_09140
 # [creativetimofficial/notus-react](https://github.com/creativetimofficial/notus-react/)
 
 UI kit and admin dashboard for Tailwind CSS and React
+
+Tailwind CSS 和 React 的 UI 套件和管理仪表板

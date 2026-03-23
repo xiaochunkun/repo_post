@@ -7,3 +7,5 @@ image: assets/deepseek-ai_open-infra-index_cropped.png
 # [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index)
 
 DeepSeek open-source AI infrastructure repos
+
+DeepSeek开源AI基础设施仓库

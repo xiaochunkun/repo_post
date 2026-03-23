@@ -7,3 +7,5 @@ image: assets/forefy_vulnvault--20250812T003615--cropped.png
 # [forefy/vulnvault](https://github.com/forefy/vulnvault)
 
 intentionally vulnerable yield vault showing balance manipulation exploit
+
+展示余额操纵漏洞的故意易受攻击的收益金库

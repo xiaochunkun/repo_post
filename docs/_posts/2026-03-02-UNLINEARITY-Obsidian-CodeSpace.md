@@ -7,3 +7,5 @@ image: assets/UNLINEARITY_Obsidian_CodeSpace_20260131_134254_814_20260131_134339
 # [UNLINEARITY/Obsidian-CodeSpace](https://github.com/UNLINEARITY/Obsidian-CodeSpace)
 
 Management and editing of code files in Obsidian
+
+在Obsidian中管理和编辑代码文件

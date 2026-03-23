@@ -7,3 +7,5 @@ image: assets/atfortes_Awesome_LLM_Reasoning_20251125_031003_822_20251127_163715
 # [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning/)
 
 Collection of papers on LLM reasoning
+
+LLM 推理论文合集

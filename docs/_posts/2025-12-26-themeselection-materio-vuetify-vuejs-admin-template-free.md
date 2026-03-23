@@ -7,3 +7,5 @@ image: assets/themeselection_materio_vuetify_vuejs_admin_template_free_20251225_
 # [themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free/)
 
 Vue.js admin template with Vuetify components
+
+带有 Vuetify 组件的 Vue.js 管理模板

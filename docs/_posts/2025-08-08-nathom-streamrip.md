@@ -7,3 +7,5 @@ image: assets/nathom_streamrip_cropped.png
 # [nathom/streamrip](https://github.com/nathom/streamrip)
 
 music downloader for Qobuz, Tidal, Deezer, SoundCloud
+
+音乐下载器，支持Qobuz、Tidal、Deezer、SoundCloud

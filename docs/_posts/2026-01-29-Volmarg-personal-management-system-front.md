@@ -7,3 +7,5 @@ image: assets/Volmarg_personal_management_system_front_20260113_170033_434_20260
 # [Volmarg/personal-management-system-front](https://github.com/Volmarg/personal-management-system-front)
 
 Vue.js interface for personal management systems
+
+个人管理系统的 Vue.js 界面

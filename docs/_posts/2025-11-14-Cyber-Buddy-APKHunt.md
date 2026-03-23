@@ -7,3 +7,5 @@ image: assets/Cyber_Buddy_APKHunt_20251113_200255_031_20251114_015345_d138b5--20
 # [Cyber-Buddy/APKHunt](https://github.com/Cyber-Buddy/APKHunt/)
 
 Static analysis for Android apps based on the OWASP MASVS framework
+
+基于OWASP MASVS框架的Android应用静态分析

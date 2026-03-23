@@ -7,3 +7,5 @@ image: assets/agentscope_ai_CoPaw_20260302_210246_342_20260302_210436_b49d8f.png
 # [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)
 
 AI assistant for chat apps with memory and cron skills
+
+具有记忆和定时技能的聊天应用AI助手

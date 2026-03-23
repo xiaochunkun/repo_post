@@ -7,3 +7,5 @@ image: assets/spacedriveapp_spacebot_20260217_180827_203_20260217_180858_35a0eb.
 # [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot)
 
 AI agent for multi-user environments
+
+多用户环境的AI代理

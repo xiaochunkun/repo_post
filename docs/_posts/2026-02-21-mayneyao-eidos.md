@@ -7,3 +7,5 @@ image: assets/mayneyao_eidos_20260212_055526_325_20260212_055555_ffb110.png
 # [mayneyao/eidos](https://github.com/mayneyao/eidos)
 
 Framework for personal data management using SQLite
+
+使用 SQLite 的个人数据管理框架

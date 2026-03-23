@@ -7,3 +7,5 @@ image: assets/20250911T014053562--sjdonado--idonthavespotify--20250911T014540118
 # [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify)
 
 convert music links across streaming platforms
+
+跨音乐流媒体平台转换歌曲链接

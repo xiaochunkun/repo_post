@@ -7,3 +7,5 @@ image: assets/Flowscape_UI_core_sdk_20260314_022105_568_20260314_022248_209da6.p
 # [Flowscape-UI/core-sdk](https://github.com/Flowscape-UI/core-sdk)
 
 2D canvas engine for infinite node-based interfaces
+
+用于无限节点界面的2D画布引擎

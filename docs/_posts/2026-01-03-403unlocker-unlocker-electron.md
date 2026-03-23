@@ -7,3 +7,5 @@ image: assets/403unlocker_unlocker_electron_20260102_052004_590_20260102_052021_
 # [403unlocker/unlocker-electron](https://github.com/403unlocker/unlocker-electron/)
 
 Tests DNS providers to bypass domain blocks
+
+测试DNS提供商以绕过域名封锁

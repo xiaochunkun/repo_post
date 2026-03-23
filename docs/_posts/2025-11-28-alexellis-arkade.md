@@ -7,3 +7,5 @@ image: assets/alexellis_arkade_20251125_051048_821_20251127_170601_d2b0e1--20251
 # [alexellis/arkade](https://github.com/alexellis/arkade/)
 
 Marketplace for installing Kubernetes apps and CLIs
+
+安装 Kubernetes 应用和 CLI 的市场

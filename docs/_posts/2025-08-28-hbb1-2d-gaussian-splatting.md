@@ -7,3 +7,5 @@ image: assets/20250827T223105859--hbb1--2d-gaussian-splatting--20250827T22345233
 # [hbb1/2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting)
 
 Implements 2D Gaussian splatting for geometrically accurate radiance fields and mesh extraction from images
+
+2D 高斯泼溅实现，用于几何精确的辐射场和网格提取

@@ -7,3 +7,5 @@ image: assets/kean_Pulse_20260213_030407_455_20260213_030514_65fa89.png
 # [kean/Pulse](https://github.com/kean/Pulse)
 
 Logs network requests on Apple platforms
+
+在Apple平台上记录网络请求

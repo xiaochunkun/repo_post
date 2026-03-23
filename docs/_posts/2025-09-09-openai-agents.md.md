@@ -7,3 +7,5 @@ image: assets/20250907T194743126--openai--agents.md--20250908T185334268--cropped
 # [openai/agents.md](https://github.com/openai/agents.md)
 
 open format for guiding AI coding agents with project instructions
+
+用项目指令引导 AI 编程智能体的开放格式

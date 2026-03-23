@@ -7,3 +7,5 @@ image: assets/hadriansecurity_subwiz_cropped.png
 # [hadriansecurity/subwiz](https://github.com/hadriansecurity/subwiz)
 
 AI tool for finding hidden subdomains in security scans
+
+用于在安全扫描中发现隐藏子域的 AI 工具

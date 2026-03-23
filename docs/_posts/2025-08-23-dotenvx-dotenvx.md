@@ -7,3 +7,5 @@ image: assets/20250822T024753457--dotenvx--dotenvx--20250822T025400607--cropped.
 # [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
 
 secure .env file management with encryption and multi-environment support
+
+安全的 .env 文件管理，支持加密和多环境

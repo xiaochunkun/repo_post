@@ -7,3 +7,5 @@ image: assets/uibakery_self_hosted_20260126_133941_285_20260126_134033_2dd350.pn
 # [uibakery/self-hosted](https://github.com/uibakery/self-hosted)
 
 Platform for building internal tools and workflow automations
+
+构建内部工具和工作流自动化的平台

@@ -7,3 +7,5 @@ image: assets/exadel_inc_CompreFace_20260203_121258_821_20260203_121323_97df66.p
 # [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
 
 Face recognition service with REST API
+
+带 REST API 的人脸识别服务

@@ -7,3 +7,5 @@ image: assets/20251003T031733728--Goekdeniz-Guelmez--Local-NotebookLM--20251003T
 # [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM)
 
 turns PDFs into podcast-style audio using local AI
+
+使用本地AI将PDF转换为播客风格音频

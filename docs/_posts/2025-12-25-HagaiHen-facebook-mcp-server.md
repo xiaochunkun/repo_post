@@ -7,3 +7,5 @@ image: assets/HagaiHen_facebook_mcp_server_20251223_235724_675_20251223_235749_4
 # [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server/)
 
 Facebook management tools for LLM agents
+
+用于 LLM 代理的 Facebook 管理工具

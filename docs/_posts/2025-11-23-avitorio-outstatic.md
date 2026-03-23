@@ -7,3 +7,5 @@ image: assets/avitorio_outstatic_20251122_220346_133_20251123_001704_e2ffd5--202
 # [avitorio/outstatic](https://github.com/avitorio/outstatic/)
 
 CMS inside a Next.js install
+
+Next.js 安装内的 CMS

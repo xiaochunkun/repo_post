@@ -7,3 +7,5 @@ image: assets/hydro_project_hydro_20251207_201822_621_20251207_201844_6a7317.png
 # [hydro-project/hydro](https://github.com/hydro-project/hydro/)
 
 Distributed programming framework for Rust
+
+Rust的分布式编程框架

@@ -7,3 +7,5 @@ image: assets/hyperion_cs_dpi_checkers_20251118_055954_600_20251118_160046_dd828
 # [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers/)
 
 Checkers to determine ISP censorship methods
+
+检测ISP审查方法的检查器

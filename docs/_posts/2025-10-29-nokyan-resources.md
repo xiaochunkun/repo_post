@@ -7,3 +7,5 @@ image: assets/nokyan_resources_20251029_021516_464_20251029_030216_fa462e--20251
 # [nokyan/resources](https://github.com/nokyan/resources/)
 
 Monitor system resources, including GPUs and NPUs
+
+监控系统资源，包括 GPU 和 NPU

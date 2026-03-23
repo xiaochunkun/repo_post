@@ -7,3 +7,5 @@ image: assets/Evavic44_portfolio_ideas_20251112_044906_231_20251113_035658_8934c
 # [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas/)
 
 Curated list of developer and designer portfolios
+
+精选的开发者和设计师作品集列表

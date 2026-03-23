@@ -7,3 +7,5 @@ image: assets/AdemBoukhris457_Doctra_20260206_132908_818_20260206_132943_08860e.
 # [AdemBoukhris457/Doctra](https://github.com/AdemBoukhris457/Doctra)
 
 Parses PDFs into structured data
+
+将 PDF 解析为结构化数据

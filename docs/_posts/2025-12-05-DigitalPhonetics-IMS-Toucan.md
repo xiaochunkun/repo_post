@@ -7,3 +7,5 @@ image: assets/DigitalPhonetics_IMS_Toucan_20251202_210201_032_20251202_210224_13
 # [DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan/)
 
 Text-to-speech synthesis for over 7000 languages
+
+支持 7000 多种语言的文本转语音合成

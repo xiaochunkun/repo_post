@@ -7,3 +7,5 @@ image: assets/GeoGPT_Research_Project_GeoGPT_20251217_075823_823_20251217_075847
 # [GeoGPT-Research-Project/GeoGPT](https://github.com/GeoGPT-Research-Project/GeoGPT/)
 
 LLMs for advancing geosciences research
+
+用于推进地球科学研究的 LLMs

@@ -7,3 +7,5 @@ image: assets/tiny_pilot_tinypilot_20251122_175226_913_20251123_001314_cc84b1--2
 # [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot/)
 
 Raspberry Pi KVM via browser
+
+通过浏览器的Raspberry Pi KVM

@@ -7,3 +7,5 @@ image: assets/adityachandelgit_BookLore_cropped.png
 # [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore)
 
 BookLore: self-hosted app for organizing, reading, and tracking books and ebooks
+
+BookLore：自托管应用，用于组织、阅读和跟踪书籍与电子书

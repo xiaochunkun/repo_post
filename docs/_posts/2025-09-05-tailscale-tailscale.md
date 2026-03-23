@@ -7,3 +7,5 @@ image: assets/20250903T235446308--tailscale--tailscale--20250904T000111603--crop
 # [tailscale/tailscale](https://github.com/tailscale/tailscale)
 
 mesh VPN built on WireGuard for easy secure device connections
+
+基于 WireGuard 的 Mesh VPN，轻松安全连接设备

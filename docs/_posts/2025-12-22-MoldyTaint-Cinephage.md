@@ -7,3 +7,5 @@ image: assets/MoldyTaint_Cinephage_20251219_224130_094_20251219_224149_865471.pn
 # [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage/)
 
 Media management for movies, shows, and subtitles
+
+电影、剧集和字幕的媒体管理

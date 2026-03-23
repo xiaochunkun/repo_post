@@ -7,3 +7,5 @@ image: assets/KudoAI_chatgpt_js_20251125_171530_777_20251127_171222_85867b--2025
 # [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js/)
 
 Client-side JavaScript library for ChatGPT interaction
+
+用于 ChatGPT 交互的客户端 JavaScript 库

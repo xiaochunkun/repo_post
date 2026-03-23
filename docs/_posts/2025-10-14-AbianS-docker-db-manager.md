@@ -7,3 +7,5 @@ image: assets/20251014T013245545--AbianS--docker-db-manager--20251014T014305829-
 # [AbianS/docker-db-manager](https://github.com/AbianS/docker-db-manager)
 
 manage Docker databases visually on macOS, no terminal needed
+
+在 macOS 上可视化管理 Docker 数据库，无需终端

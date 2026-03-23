@@ -7,3 +7,5 @@ image: assets/razerofficial_aikit_20260205_200300_860_20260205_200324_5c4fe6.png
 # [razerofficial/aikit](https://github.com/razerofficial/aikit)
 
 Runs LLMs over a cluster of GPUs
+
+在GPU集群上运行LLM

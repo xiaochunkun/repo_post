@@ -7,3 +7,5 @@ image: assets/20250926T173609267--diskoverdata--diskover-community--20250926T175
 # [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community)
 
 open source tool for indexing and managing files across storage systems
+
+用于跨存储系统索引和管理文件的开源工具

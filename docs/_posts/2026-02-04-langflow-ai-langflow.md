@@ -7,3 +7,5 @@ image: assets/langflow_ai_langflow_20260202_224907_642_20260202_224951_08346d.pn
 # [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
 
 Visual builder for AI agents and workflows
+
+AI 代理和工作流的可视化构建器

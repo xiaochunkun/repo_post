@@ -7,3 +7,5 @@ image: assets/windingwind_zotero_pdf_translate_20251121_130933_348_20251121_2320
 # [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate/)
 
 Translates PDFs and metadata in Zotero
+
+在 Zotero 中翻译 PDF 和元数据

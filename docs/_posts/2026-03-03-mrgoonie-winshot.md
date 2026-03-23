@@ -7,3 +7,5 @@ image: assets/mrgoonie_winshot_20260204_040824_691_20260204_040843_d7cd9c.png
 # [mrgoonie/winshot](https://github.com/mrgoonie/winshot)
 
 Screenshot tool with glassmorphism UI and native performance
+
+具有玻璃态 UI 和原生性能的截图工具

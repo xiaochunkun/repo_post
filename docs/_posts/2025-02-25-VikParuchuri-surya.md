@@ -7,3 +7,5 @@ image: assets/VikParuchuri_surya_cropped.png
 # [VikParuchuri/surya](https://github.com/VikParuchuri/surya)
 
 OCR and document analysis tool for multiple languages
+
+多语言 OCR 和文档分析工具

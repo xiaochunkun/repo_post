@@ -7,3 +7,5 @@ image: assets/stackryze_atom_homepage_20260126_070605_628_20260126_070701_e98f35
 # [stackryze/atom-homepage](https://github.com/stackryze/atom-homepage)
 
 Dashboard for monitoring services and Docker containers
+
+监控服务和Docker容器的仪表板

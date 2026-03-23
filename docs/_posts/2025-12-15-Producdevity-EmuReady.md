@@ -7,3 +7,5 @@ image: assets/Producdevity_EmuReady_20251213_065315_292_20251213_065401_609ad5.p
 # [Producdevity/EmuReady](https://github.com/Producdevity/EmuReady/)
 
 Community-driven emulation compatibility tracking platform
+
+社区驱动的模拟兼容性跟踪平台

@@ -7,3 +7,5 @@ image: assets/langchain_ai_langgraph_swarm_py_20251105_051046_115_20251105_12355
 # [langchain-ai/langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py/)
 
 Create multi-agent systems where agents dynamically hand off control
+
+创建智能体动态交接控制的多智能体系统

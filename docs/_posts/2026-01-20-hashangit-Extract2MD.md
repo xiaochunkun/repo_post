@@ -7,3 +7,5 @@ image: assets/hashangit_Extract2MD_20260111_091423_783_20260111_091437_e47713.pn
 # [hashangit/Extract2MD](https://github.com/hashangit/Extract2MD)
 
 Converts PDFs to Markdown in the browser
+
+在浏览器中将PDF转换为Markdown

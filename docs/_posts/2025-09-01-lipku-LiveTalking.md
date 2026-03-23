@@ -7,3 +7,5 @@ image: assets/20250831T001507519--lipku--LiveTalking--20250831T003041459--croppe
 # [lipku/LiveTalking](https://github.com/lipku/LiveTalking)
 
 real-time digital human avatars with audio and video chat
+
+实时数字人，支持音频和视频对话

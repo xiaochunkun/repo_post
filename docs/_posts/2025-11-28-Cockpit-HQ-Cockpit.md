@@ -7,3 +7,5 @@ image: assets/Cockpit_HQ_Cockpit_20251125_221833_895_20251127_171357_cef279--202
 # [Cockpit-HQ/Cockpit](https://github.com/Cockpit-HQ/Cockpit/)
 
 Headless content management system with API-first architecture
+
+无头内容管理系统，采用 API 优先架构

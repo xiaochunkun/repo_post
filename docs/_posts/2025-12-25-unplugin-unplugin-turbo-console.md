@@ -7,3 +7,5 @@ image: assets/unplugin_unplugin_turbo_console_20251224_190709_637_20251224_19072
 # [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console/)
 
 Enhances console logs with file locations and launch editor links
+
+通过文件位置和编辑器链接增强控制台日志

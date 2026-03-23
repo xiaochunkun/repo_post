@@ -7,3 +7,5 @@ image: assets/Agent-RL_ReCall_cropped.png
 # [Agent-RL/ReCall](https://github.com/Agent-RL/ReCall)
 
 ReCall: system for letting language models use and coordinate external tools
+
+ReCall：让语言模型使用和协调外部工具的系统

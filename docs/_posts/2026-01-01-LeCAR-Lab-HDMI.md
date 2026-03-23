@@ -7,3 +7,5 @@ image: assets/LeCAR_Lab_HDMI_20251231_203204_540_20251231_203220_2d2b78.png
 # [LeCAR-Lab/HDMI](https://github.com/LeCAR-Lab/HDMI/)
 
 Humanoid robot control from monocular videos
+
+从单目视频控制人形机器人

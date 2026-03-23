@@ -7,3 +7,5 @@ image: assets/20250818T092041523_activecm_rita--20250818T112739667--cropped.png
 # [activecm/rita](https://github.com/activecm/rita)
 
 open source tool for network traffic analysis and threat hunting
+
+用于网络流量分析和威胁狩猎的开源工具

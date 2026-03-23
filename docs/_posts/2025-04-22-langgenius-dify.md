@@ -7,3 +7,5 @@ image: assets/langgenius_dify_cropped.png
 # [langgenius/dify](https://github.com/langgenius/dify)
 
 open-source platform for building LLM apps and AI workflows
+
+用于构建 LLM 应用和 AI 工作流的开源平台

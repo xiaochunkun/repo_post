@@ -7,3 +7,5 @@ image: assets/charmbracelet_gum_20260203_011953_655_20260203_012022_7ae2ca.png
 # [charmbracelet/gum](https://github.com/charmbracelet/gum)
 
 Shell scripts with interactive components
+
+包含交互组件的 Shell 脚本

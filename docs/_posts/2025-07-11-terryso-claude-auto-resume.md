@@ -7,3 +7,5 @@ image: assets/terryso_claude-auto-resume_cropped.png
 # [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume)
 
 auto-resume Claude CLI tasks after hitting usage limits
+
+在达到使用限制后自动恢复 Claude CLI 任务

@@ -7,3 +7,5 @@ image: assets/FoundationAgents_MetaGPT_20260317_202631_467_20260317_202817_1b2e5
 # [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 
 Assigns roles to GPTs for complex tasks
+
+为GPT分配角色以处理复杂任务

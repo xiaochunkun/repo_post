@@ -7,3 +7,5 @@ image: assets/FareedKhan_dev_production_grade_agentic_system_20251229_113510_905
 # [FareedKhan-dev/production-grade-agentic-system](https://github.com/FareedKhan-dev/production-grade-agentic-system/)
 
 Architecture for multi-agent systems with observability and security layers
+
+具备可观测性和安全层的多智能体系统架构

@@ -7,3 +7,5 @@ image: assets/damontecres_Wholphin_20260316_090542_278_20260316_090623_95b13a.pn
 # [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
 
 Android TV client for Jellyfin with Plex UI
+
+Android TV客户端，用于Jellyfin，带Plex UI

@@ -7,3 +7,5 @@ image: assets/secluso_secluso_20251126_111514_581_20251129_022533_de3afa--202511
 # [secluso/secluso](https://github.com/secluso/secluso/)
 
 End-to-end encrypted home security camera solution
+
+端到端加密的家庭安防摄像头解决方案

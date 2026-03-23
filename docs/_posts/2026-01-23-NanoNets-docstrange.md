@@ -7,3 +7,5 @@ image: assets/NanoNets_docstrange_20260122_021353_480_20260122_021409_fce652.png
 # [NanoNets/docstrange](https://github.com/NanoNets/docstrange)
 
 Converts documents to Markdown for LLM navigation
+
+将文档转换为 Markdown 供 LLM 导航

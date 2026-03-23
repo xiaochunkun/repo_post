@@ -7,3 +7,5 @@ image: assets/BesianSherifaj_AI_PromptCraft_20260309_082551_823_20260309_082852_
 # [BesianSherifaj-AI/PromptCraft](https://github.com/BesianSherifaj-AI/PromptCraft)
 
 Management system for AI image generation prompts
+
+AI图像生成提示的管理系统

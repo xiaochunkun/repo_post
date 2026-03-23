@@ -7,3 +7,5 @@ image: assets/inputsh_awesome_linux_20260112_052753_352_20260112_052815_37e56c.p
 # [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux)
 
 Curated list of Linux resources
+
+精选Linux资源列表

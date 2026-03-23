@@ -7,3 +7,5 @@ image: assets/trailofbits_claude_code_config_20260215_014320_298_20260215_014410
 # [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config)
 
 Workflows and sandboxing for Claude Code
+
+Claude Code的工作流和沙盒化

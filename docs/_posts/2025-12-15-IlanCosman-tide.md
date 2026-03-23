@@ -7,3 +7,5 @@ image: assets/IlanCosman_tide_20251213_114414_139_20251213_114438_3ecfce.png
 # [IlanCosman/tide](https://github.com/IlanCosman/tide/)
 
 Asynchronous Fish shell prompt
+
+异步Fish shell提示符

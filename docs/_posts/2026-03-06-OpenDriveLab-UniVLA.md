@@ -7,3 +7,5 @@ image: assets/OpenDriveLab_UniVLA_20260305_023144_228_20260305_023316_28132f.png
 # [OpenDriveLab/UniVLA](https://github.com/OpenDriveLab/UniVLA)
 
 Model for robot actions from videos
+
+从视频生成机器人动作的模型

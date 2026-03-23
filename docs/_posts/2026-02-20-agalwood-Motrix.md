@@ -7,3 +7,5 @@ image: assets/agalwood_Motrix_20260213_071653_954_20260213_071750_130349.png
 # [agalwood/Motrix](https://github.com/agalwood/Motrix)
 
 Download manager for HTTP, FTP, BitTorrent, and Magnet links
+
+HTTP、FTP、BitTorrent和Magnet链接的下载管理器

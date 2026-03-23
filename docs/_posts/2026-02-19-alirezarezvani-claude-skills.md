@@ -7,3 +7,5 @@ image: assets/alirezarezvani_claude_skills_20260208_234230_687_20260208_234349_6
 # [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
 
 Skill packages for Claude Code and Claude AI
+
+Claude Code和Claude AI的技能包

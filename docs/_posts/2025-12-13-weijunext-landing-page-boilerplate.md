@@ -7,3 +7,5 @@ image: assets/weijunext_landing_page_boilerplate_20251209_065000_230_20251209_06
 # [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate/)
 
 Next.js landing page template with TailwindCSS
+
+使用 TailwindCSS 的 Next.js 落地页模板

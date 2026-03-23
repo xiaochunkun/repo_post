@@ -7,3 +7,5 @@ image: assets/kube_green_kube_green_20251123_075453_355_20251124_001953_015f35--
 # [kube-green/kube-green](https://github.com/kube-green/kube-green/)
 
 Reduces the CO2 footprint of Kubernetes clusters
+
+减少 Kubernetes 集群的 CO2 足迹

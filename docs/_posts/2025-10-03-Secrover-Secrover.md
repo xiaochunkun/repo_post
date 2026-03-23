@@ -7,3 +7,5 @@ image: assets/20251001T205734915--Secrover--Secrover--20251001T210746216--croppe
 # [Secrover/Secrover](https://github.com/Secrover/Secrover)
 
 generates easy-to-share security audit reports for your code and domains
+
+为代码和域名生成易于分享的安全审计报告

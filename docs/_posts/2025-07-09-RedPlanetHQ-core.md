@@ -7,3 +7,5 @@ image: assets/RedPlanetHQ_core_cropped.png
 # [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core)
 
 plug and play memory layer for LLMs
+
+即插即用的 LLM 内存层

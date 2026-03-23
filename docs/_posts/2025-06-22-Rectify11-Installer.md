@@ -7,3 +7,5 @@ image: assets/Rectify11_Installer_cropped.png
 # [Rectify11/Installer](https://github.com/Rectify11/Installer)
 
 Tool for installing Rectify11 mods on Windows 11
+
+在Windows 11上安装Rectify11修改的工具

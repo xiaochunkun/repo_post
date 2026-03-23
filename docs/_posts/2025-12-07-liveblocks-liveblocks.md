@@ -7,3 +7,5 @@ image: assets/liveblocks_liveblocks_20251205_004142_068_20251205_004210_2e7985.p
 # [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks/)
 
 Pre-built features for collaborative multiplayer apps
+
+协作多人应用预构建功能

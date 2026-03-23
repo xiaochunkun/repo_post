@@ -7,3 +7,5 @@ image: assets/danielmiessler_Personal_AI_Infrastructure_20260220_150247_459_2026
 # [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)
 
 Infrastructure for agentic AI capabilities
+
+支持代理 AI 能力的基础设施

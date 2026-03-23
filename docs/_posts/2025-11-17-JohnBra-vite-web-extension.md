@@ -7,3 +7,5 @@ image: assets/JohnBra_vite_web_extension_20251115_055857_505_20251117_031500_c10
 # [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension/)
 
 Boilerplate for browser extensions using React, Vite, and TailwindCSS
+
+使用 React、Vite 和 TailwindCSS 的浏览器扩展样板

@@ -7,3 +7,5 @@ image: assets/bingquanzhao_langfuse_20260115_205539_009_20260115_205554_cecfe9.p
 # [bingquanzhao/langfuse](https://github.com/bingquanzhao/langfuse)
 
 Observability platform for LLM engineering
+
+用于LLM工程的可观测性平台

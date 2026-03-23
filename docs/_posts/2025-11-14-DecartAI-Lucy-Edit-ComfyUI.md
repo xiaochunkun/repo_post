@@ -7,3 +7,5 @@ image: assets/DecartAI_Lucy_Edit_ComfyUI_20251113_190006_171_20251114_015141_088
 # [DecartAI/Lucy-Edit-ComfyUI](https://github.com/DecartAI/Lucy-Edit-ComfyUI/)
 
 Video editing model for instruction-guided edits
+
+用于指令引导编辑的视频编辑模型

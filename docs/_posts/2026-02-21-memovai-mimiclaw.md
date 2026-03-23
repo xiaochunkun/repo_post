@@ -7,3 +7,5 @@ image: assets/memovai_mimiclaw_20260218_020423_732_20260218_020446_3c4737.png
 # [memovai/mimiclaw](https://github.com/memovai/mimiclaw)
 
 AI assistant on a chip
+
+芯片上的 AI 助手

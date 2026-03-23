@@ -7,3 +7,5 @@ image: assets/TalEliyahu_awesome-business-of-cybersecurity--20250812T011422--cro
 # [TalEliyahu/awesome-business-of-cybersecurity](https://github.com/TalEliyahu/awesome-business-of-cybersecurity)
 
 curated resources on the business of cybersecurity
+
+网络安全业务精选资源

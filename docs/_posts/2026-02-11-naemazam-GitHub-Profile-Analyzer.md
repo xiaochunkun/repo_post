@@ -7,3 +7,5 @@ image: assets/naemazam_GitHub_Profile_Analyzer_20260202_025806_413_20260202_0258
 # [naemazam/GitHub-Profile-Analyzer](https://github.com/naemazam/GitHub-Profile-Analyzer)
 
 Visualizes GitHub statistics and compares developer profiles
+
+可视化 GitHub 统计数据并比较开发者资料

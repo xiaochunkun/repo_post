@@ -7,3 +7,5 @@ image: assets/mnfst_manifest_20260202_171330_453_20260202_171446_454c78.png
 # [mnfst/manifest](https://github.com/mnfst/manifest)
 
 UI blocks for ChatGPT apps
+
+ChatGPT应用的UI组件库

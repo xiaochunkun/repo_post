@@ -7,3 +7,5 @@ image: assets/AppiumTestDistribution_appium_device_farm_20251225_002841_100_2025
 # [AppiumTestDistribution/appium-device-farm](https://github.com/AppiumTestDistribution/appium-device-farm/)
 
 Manages device sessions for mobile automation
+
+管理移动自动化的设备会话

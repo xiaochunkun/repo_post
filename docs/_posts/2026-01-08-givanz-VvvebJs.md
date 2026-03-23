@@ -7,3 +7,5 @@ image: assets/givanz_VvvebJs_20260108_054616_578_20260108_054630_9a25f0.png
 # [givanz/VvvebJs](https://github.com/givanz/VvvebJs)
 
 Drag and drop page builder in vanilla javascript
+
+使用原生 JavaScript 的拖放页面构建器

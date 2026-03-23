@@ -7,3 +7,5 @@ image: assets/qnguyen3_docpixie_20251122_123428_575_20251122_222002_022f12--2025
 # [qnguyen3/docpixie](https://github.com/qnguyen3/docpixie/)
 
 Multimodal RAG using vision AI instead of embeddings
+
+使用视觉AI而非嵌入的多模态RAG

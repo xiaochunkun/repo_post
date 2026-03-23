@@ -7,3 +7,5 @@ image: assets/20250903T010617591--assafelovic--gpt-researcher--20250903T01154925
 # [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 
 AI agent for deep web and local research, generates reports with citations
+
+深度网络和本地研究 AI 智能体，自动生成带引用的报告

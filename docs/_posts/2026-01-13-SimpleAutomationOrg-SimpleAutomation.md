@@ -7,3 +7,5 @@ image: assets/SimpleAutomationOrg_SimpleAutomation_20260112_073014_288_20260112_
 # [SimpleAutomationOrg/SimpleAutomation](https://github.com/SimpleAutomationOrg/SimpleAutomation)
 
 Scripts for robot arms using foundational models
+
+使用基础模型的机器人手臂脚本

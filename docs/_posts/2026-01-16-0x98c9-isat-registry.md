@@ -7,3 +7,5 @@ image: assets/0x98c9_isat_registry_20260115_155208_921_20260115_155234_8314a5.pn
 # [0x98c9/isat-registry](https://github.com/0x98c9/isat-registry)
 
 Student identity platform on Git
+
+基于 Git 的学生身份平台

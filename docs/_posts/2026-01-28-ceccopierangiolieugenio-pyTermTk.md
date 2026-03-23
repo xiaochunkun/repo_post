@@ -7,3 +7,5 @@ image: assets/ceccopierangiolieugenio_pyTermTk_20260122_064748_280_20260122_0648
 # [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk)
 
 TUI library with a layout system and mouse support
+
+带布局系统和鼠标支持的TUI库

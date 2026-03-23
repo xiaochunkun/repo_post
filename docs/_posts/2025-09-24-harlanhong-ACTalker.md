@@ -7,3 +7,5 @@ image: assets/20250924T062012946--harlanhong--ACTalker--20250924T062504191--crop
 # [harlanhong/ACTalker](https://github.com/harlanhong/ACTalker)
 
 audio-driven talking head video generation using diffusion models
+
+使用扩散模型生成音频驱动的说话头部视频

@@ -7,3 +7,5 @@ image: assets/zilliztech_claude_context_20260203_071647_147_20260203_071723_a2a8
 # [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
 
 Semantic search for codebases via MCP
+
+通过MCP实现代码库的语义搜索

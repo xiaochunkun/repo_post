@@ -7,3 +7,5 @@ image: assets/20250903T030505663--arcee-ai--mergekit--20250903T031234796--croppe
 # [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
 
 toolkit for merging pretrained language models into one
+
+将多个预训练语言模型合并为一个的工具包

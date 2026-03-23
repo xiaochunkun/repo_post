@@ -7,3 +7,5 @@ image: assets/selfhosters_cc_container_census_20251113_203800_934_20251114_01562
 # [selfhosters-cc/container-census](https://github.com/selfhosters-cc/container-census/)
 
 Tool to visualize, track, and compare Docker containers
+
+可视化、跟踪和比较Docker容器的工具

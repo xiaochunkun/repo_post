@@ -7,3 +7,5 @@ image: assets/daya0576_nightwatcher_20260129_095423_091_20260129_095529_935c59.p
 # [daya0576/nightwatcher](https://github.com/daya0576/nightwatcher)
 
 IP camera viewer with object detection
+
+带物体检测的 IP 摄像头查看器

@@ -7,3 +7,5 @@ image: assets/sassanix_Warracker_20260122_035900_537_20260122_035925_ca7188.png
 # [sassanix/Warracker](https://github.com/sassanix/Warracker)
 
 Self-hostable warranty tracker for product expirations and receipts
+
+自托管产品保修和收据追踪器

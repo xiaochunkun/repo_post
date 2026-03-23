@@ -7,3 +7,5 @@ image: assets/harishsg993010_crossbow_agent_20260115_225958_242_20260115_230015_
 # [harishsg993010/crossbow-agent](https://github.com/harishsg993010/crossbow-agent)
 
 Autonomous agent for security engineering and threat intelligence
+
+用于安全工程和威胁情报的自主代理

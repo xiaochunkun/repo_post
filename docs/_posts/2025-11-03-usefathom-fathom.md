@@ -7,3 +7,5 @@ image: assets/usefathom_fathom_20251031_082923_136_20251101_211141_efa17f--20251
 # [usefathom/fathom](https://github.com/usefathom/fathom/)
 
 Open-source Google Analytics alternative
+
+开源的Google Analytics替代品

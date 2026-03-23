@@ -7,3 +7,5 @@ image: assets/yakhyo_face_parsing_20251213_123231_948_20251213_123301_f533f7.png
 # [yakhyo/face-parsing](https://github.com/yakhyo/face-parsing/)
 
 Real-time face parsing model for facial feature segmentation
+
+用于面部特征分割的实时人脸解析模型

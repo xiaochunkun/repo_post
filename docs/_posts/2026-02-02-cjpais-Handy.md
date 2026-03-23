@@ -7,3 +7,5 @@ image: assets/cjpais_Handy_20260202_120321_956_20260202_120403_c6fac5.png
 # [cjpais/Handy](https://github.com/cjpais/Handy)
 
 Transcribes speech to text offline via Whisper
+
+通过Whisper离线将语音转录为文本

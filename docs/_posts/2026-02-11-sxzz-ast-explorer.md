@@ -7,3 +7,5 @@ image: assets/sxzz_ast_explorer_20260205_051509_728_20260205_051530_f35feb.png
 # [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer)
 
 Explores ASTs from parsers in a browser
+
+在浏览器中探索解析器的 AST

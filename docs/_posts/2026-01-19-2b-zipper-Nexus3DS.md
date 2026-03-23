@@ -7,3 +7,5 @@ image: assets/2b_zipper_Nexus3DS_20260113_175137_420_20260113_175153_4145b5.png
 # [2b-zipper/Nexus3DS](https://github.com/2b-zipper/Nexus3DS)
 
 Firmware fork for Nintendo 3DS with plugin selector and home button simulation
+
+Nintendo 3DS的固件分支，带插件选择器和主页按钮模拟

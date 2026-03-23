@@ -7,3 +7,5 @@ image: assets/20251012T025026797--wsvincent--awesome-django--20251012T025600291-
 # [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
 
 Curated list of Django packages, tools, and learning resources
+
+精选的 Django 包、工具和学习资源列表

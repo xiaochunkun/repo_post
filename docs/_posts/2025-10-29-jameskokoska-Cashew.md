@@ -7,3 +7,5 @@ image: assets/jameskokoska_Cashew_20251029_084417_596_20251029_093520_140f45--20
 # [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew/)
 
 Open-source budget app built with Flutter
+
+使用 Flutter 构建的开源预算应用

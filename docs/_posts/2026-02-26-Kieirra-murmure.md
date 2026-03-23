@@ -7,3 +7,5 @@ image: assets/Kieirra_murmure_20260214_200436_392_20260214_200532_cd9055.png
 # [Kieirra/murmure](https://github.com/Kieirra/murmure)
 
 Transcribes speech locally using neural networks
+
+使用神经网络本地转录语音

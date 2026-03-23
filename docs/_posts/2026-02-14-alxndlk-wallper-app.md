@@ -7,3 +7,5 @@ image: assets/alxndlk_wallper_app_20260210_060448_022_20260210_060515_ed2a69.png
 # [alxndlk/wallper-app](https://github.com/alxndlk/wallper-app)
 
 4K video wallpapers for macOS with multi-screen support
+
+支持多屏幕的 macOS 4K 视频壁纸应用

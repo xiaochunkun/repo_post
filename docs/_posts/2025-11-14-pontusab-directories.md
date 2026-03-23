@@ -7,3 +7,5 @@ image: assets/pontusab_directories_20251113_045536_807_20251113_223118_34a5f7--2
 # [pontusab/directories](https://github.com/pontusab/directories/)
 
 Community collection of rules and prompts for Cursor
+
+Cursor的规则和提示社区合集

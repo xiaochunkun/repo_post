@@ -7,3 +7,5 @@ image: assets/Tencent_Hunyuan3D-2_cropped.png
 # [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
 
 Tencent's open-source 3D model generation system
+
+腾讯的开源3D模型生成系统

@@ -7,3 +7,5 @@ image: assets/NeuracoreAI_neuracore_20260321_151943_199_20260321_152009_e58611.p
 # [NeuracoreAI/neuracore](https://github.com/NeuracoreAI/neuracore)
 
 Robot learning library with real-time cloud inference
+
+带实时云推理的机器人学习库

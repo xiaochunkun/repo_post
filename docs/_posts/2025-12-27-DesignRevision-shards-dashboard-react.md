@@ -7,3 +7,5 @@ image: assets/DesignRevision_shards_dashboard_react_20251225_171419_151_20251225
 # [DesignRevision/shards-dashboard-react](https://github.com/DesignRevision/shards-dashboard-react/)
 
 React admin dashboard template with design system
+
+带有设计系统的 React 管理仪表板模板

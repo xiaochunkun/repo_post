@@ -7,3 +7,5 @@ image: assets/SecurityClaw_SecurityClaw_20260319_111013_921_20260319_111228_0006
 # [SecurityClaw/SecurityClaw](https://github.com/SecurityClaw/SecurityClaw)
 
 Autonomous SOC agent framework
+
+自主SOC代理框架

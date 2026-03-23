@@ -7,3 +7,5 @@ image: assets/paradedb_paradedb--20250911T232809286--cropped.png
 # [paradedb/paradedb](https://github.com/paradedb/paradedb)
 
 Postgres extension for real-time search and analytics
+
+PostgreSQL 实时搜索和分析扩展

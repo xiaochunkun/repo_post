@@ -7,3 +7,5 @@ image: assets/FaustoS88_PinescriptV6-docs-crawler_cropped.png
 # [FaustoS88/PinescriptV6-docs-crawler](https://github.com/FaustoS88/PinescriptV6-docs-crawler)
 
 Crawls and collects Pine Script v6 documentation from TradingView
+
+从 TradingView 爬取和收集 Pine Script v6 文档

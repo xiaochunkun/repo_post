@@ -7,3 +7,5 @@ image: assets/20250912T000743048--hashicorp--nomad--20250912T001145074--cropped.
 # [hashicorp/nomad](https://github.com/hashicorp/nomad)
 
 workload orchestrator for containers, VMs, and legacy apps across clouds
+
+跨云环境的容器、虚拟机和传统应用工作负载编排器

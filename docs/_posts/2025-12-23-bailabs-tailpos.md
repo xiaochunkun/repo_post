@@ -7,3 +7,5 @@ image: assets/bailabs_tailpos_20251222_143517_821_20251222_143535_8d2041.png
 # [bailabs/tailpos](https://github.com/bailabs/tailpos/)
 
 Offline point of sale for ERPNext
+
+ERPNext的离线销售点系统

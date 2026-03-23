@@ -7,3 +7,5 @@ image: assets/ublue_os_bazzite_20260123_163917_422_20260123_164014_586c97.png
 # [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 
 Fedora-based image for gaming on handhelds and home theater PCs
+
+基于Fedora的手持设备和家庭影院PC游戏镜像

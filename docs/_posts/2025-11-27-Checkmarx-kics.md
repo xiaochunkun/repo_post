@@ -7,3 +7,5 @@ image: assets/Checkmarx_kics_20251125_001649_791_20251126_100256_e987bf--2025112
 # [Checkmarx/kics](https://github.com/Checkmarx/kics/)
 
 Finds security vulnerabilities in infrastructure-as-code
+
+在基础设施即代码中查找安全漏洞

@@ -7,3 +7,5 @@ image: assets/20250818T100227386_ixartz_Next-js-Boilerplate--20250820T131152955-
 # [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 
 Next.js 15+ starter with Tailwind, TypeScript, auth, and dev tools
+
+Next.js 15+ 脚手架，集成 Tailwind、TypeScript、认证和开发工具

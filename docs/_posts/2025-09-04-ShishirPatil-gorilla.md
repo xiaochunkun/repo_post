@@ -7,3 +7,5 @@ image: assets/20250903T235032613--ShishirPatil--gorilla--20250903T235225694--cro
 # [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)
 
 connects language models to tons of APIs for tool use
+
+将语言模型连接到大量 API 实现工具调用

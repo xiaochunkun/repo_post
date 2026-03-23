@@ -7,3 +7,5 @@ image: assets/revisionhiep_create_LocalReader_Pro_20260213_200718_027_20260213_2
 # [revisionhiep-create/LocalReader-Pro](https://github.com/revisionhiep-create/LocalReader-Pro)
 
 Converts PDF and EPUB files to speech locally
+
+本地将 PDF 和 EPUB 文件转换为语音

@@ -7,3 +7,5 @@ image: assets/orhun_git_cliff_20260304_194104_016_20260304_194246_0c7ff0.png
 # [orhun/git-cliff](https://github.com/orhun/git-cliff)
 
 Generator for changelogs from git history
+
+从git历史生成变更日志的工具

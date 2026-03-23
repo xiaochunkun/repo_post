@@ -7,3 +7,5 @@ image: assets/SamurAIGPT_Generative_Media_Skills_20260311_133716_956_20260311_13
 # [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)
 
 CLI tools for AI media generation
+
+AI媒体生成的CLI工具

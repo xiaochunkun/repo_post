@@ -7,3 +7,5 @@ image: assets/darrenburns_posting_20260205_212032_710_20260205_212052_aa371f.png
 # [darrenburns/posting](https://github.com/darrenburns/posting)
 
 Terminal HTTP client with TUI and YAML storage
+
+带TUI和YAML存储的终端HTTP客户端

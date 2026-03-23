@@ -7,3 +7,5 @@ image: assets/aisingapore_sealion_20251201_070210_883_20251201_070236_96dd6c.png
 # [aisingapore/sealion](https://github.com/aisingapore/sealion/)
 
 LLMs for Southeast Asian languages
+
+面向东南亚语言的 LLMs

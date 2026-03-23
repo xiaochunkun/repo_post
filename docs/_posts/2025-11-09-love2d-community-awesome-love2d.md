@@ -7,3 +7,5 @@ image: assets/love2d_community_awesome_love2d_20251109_163456_642_20251109_16490
 # [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d/)
 
 Collection of libraries and resources for the LÖVE game engine
+
+LÖVE游戏引擎的库和资源集合

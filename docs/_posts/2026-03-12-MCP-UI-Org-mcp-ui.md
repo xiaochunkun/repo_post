@@ -7,3 +7,5 @@ image: assets/MCP_UI_Org_mcp_ui_20260309_103121_209_20260309_103257_535acd.png
 # [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui)
 
 SDK for building interactive UI over Model Context Protocol
+
+在Model Context Protocol上构建交互式UI的SDK

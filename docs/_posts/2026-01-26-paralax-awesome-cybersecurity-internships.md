@@ -7,3 +7,5 @@ image: assets/paralax_awesome_cybersecurity_internships_20260116_052129_600_2026
 # [paralax/awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships)
 
 List of cybersecurity internships for students
+
+面向学生的网络安全实习列表

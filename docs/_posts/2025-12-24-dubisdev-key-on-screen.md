@@ -7,3 +7,5 @@ image: assets/dubisdev_key_on_screen_20251223_070221_935_20251223_070241_b6f0cf.
 # [dubisdev/key-on-screen](https://github.com/dubisdev/key-on-screen/)
 
 Displays keystrokes on the screen
+
+在屏幕上显示按键

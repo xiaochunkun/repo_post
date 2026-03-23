@@ -7,3 +7,5 @@ image: assets/wbopan_cui_20260122_045644_466_20260122_045707_cc2d81.png
 # [wbopan/cui](https://github.com/wbopan/cui)
 
 Web interface for Claude Code agents
+
+Claude Code智能体的Web界面

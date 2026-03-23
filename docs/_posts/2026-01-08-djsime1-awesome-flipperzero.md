@@ -7,3 +7,5 @@ image: assets/djsime1_awesome_flipperzero_20260108_030032_085_20260108_030045_29
 # [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero)
 
 Resources for the Flipper Zero
+
+Flipper Zero 的资源集合

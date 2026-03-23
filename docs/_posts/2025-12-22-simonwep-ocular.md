@@ -7,3 +7,5 @@ image: assets/simonwep_ocular_20251221_040117_868_20251221_040137_fa4375.png
 # [simonwep/ocular](https://github.com/simonwep/ocular/)
 
 Self-hosted budget tracker with Sankey diagrams
+
+带有桑基图的自托管预算追踪器

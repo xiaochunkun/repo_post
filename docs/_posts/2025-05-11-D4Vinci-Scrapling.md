@@ -7,3 +7,5 @@ image: assets/D4Vinci_Scrapling_cropped.png
 # [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 
 Python tool for web scraping tasks
+
+Python 工具，用于 Web 抓取任务

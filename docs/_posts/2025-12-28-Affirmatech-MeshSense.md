@@ -7,3 +7,5 @@ image: assets/Affirmatech_MeshSense_20251226_232408_089_20251226_232426_2530ab.p
 # [Affirmatech/MeshSense](https://github.com/Affirmatech/MeshSense/)
 
 Monitors Meshtastic networks via Bluetooth or WiFi
+
+通过蓝牙或 WiFi 监控 Meshtastic 网络

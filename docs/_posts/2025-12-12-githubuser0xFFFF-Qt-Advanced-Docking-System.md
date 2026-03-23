@@ -7,3 +7,5 @@ image: assets/githubuser0xFFFF_Qt_Advanced_Docking_System_20251209_031809_813_20
 # [githubuser0xFFFF/Qt-Advanced-Docking-System](https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System/)
 
 Window docking system for Qt
+
+Qt 的窗口停靠系统

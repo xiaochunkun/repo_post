@@ -7,3 +7,5 @@ image: assets/20251010T130052121--stemrollerapp--stemroller--20251010T131720701-
 # [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller)
 
 separate vocals, drums, bass, and other stems from any song with one click
+
+一键分离任何歌曲的人声、鼓、贝斯和其他音轨

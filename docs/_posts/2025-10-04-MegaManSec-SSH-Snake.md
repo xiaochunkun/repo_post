@@ -7,3 +7,5 @@ image: assets/20251003T230248658--MegaManSec--SSH-Snake--20251003T230923308--cro
 # [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake)
 
 automates SSH network mapping and key-based traversal
+
+自动化SSH网络映射和基于密钥的遍历

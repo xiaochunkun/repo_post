@@ -7,3 +7,5 @@ image: assets/Eigenfocus_eigenfocus_cropped.png
 # [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus)
 
 self-hosted project and time tracking tool for teams
+
+团队自托管项目和时间跟踪工具

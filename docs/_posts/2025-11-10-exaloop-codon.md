@@ -7,3 +7,5 @@ image: assets/exaloop_codon_20251110_030638_225_20251110_120149_152fbb--20251110
 # [exaloop/codon](https://github.com/exaloop/codon/)
 
 Python implementation that compiles to native machine code
+
+编译为原生机器码的Python实现

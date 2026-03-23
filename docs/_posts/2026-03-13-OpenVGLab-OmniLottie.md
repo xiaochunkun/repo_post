@@ -7,3 +7,5 @@ image: assets/OpenVGLab_OmniLottie_20260309_115214_137_20260309_115426_5d16db.pn
 # [OpenVGLab/OmniLottie](https://github.com/OpenVGLab/OmniLottie)
 
 Generates vector animations from text, images, and videos
+
+从文本、图像和视频生成矢量动画

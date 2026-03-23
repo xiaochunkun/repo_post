@@ -7,3 +7,5 @@ image: assets/Quaint_Studios_Reia_20251124_233815_109_20251125_224346_efabfd--20
 # [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia/)
 
 Action-adventure MMO built with Godot and Rust
+
+使用 Godot 和 Rust 构建的动作冒险 MMO

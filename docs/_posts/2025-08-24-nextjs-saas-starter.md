@@ -7,3 +7,5 @@ image: assets/20250822T025600009--nextjs--saas-starter--20250822T030236984--crop
 # [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
 
 Next.js SaaS starter template with Stripe payments and user dashboard
+
+Next.js SaaS 启动模板，集成 Stripe 支付和用户面板

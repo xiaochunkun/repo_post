@@ -7,3 +7,5 @@ image: assets/zion_off_giggles_20260303_085600_707_20260303_085756_ba9eee.png
 # [zion-off/giggles](https://github.com/zion-off/giggles)
 
 React framework for terminal applications
+
+终端应用的React框架

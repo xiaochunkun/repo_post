@@ -7,3 +7,5 @@ image: assets/20251014T015042770--surajverma--pi-dash--20251014T015831234--cropp
 # [surajverma/pi-dash](https://github.com/surajverma/pi-dash)
 
 minimal dashboard for monitoring multiple Pi-hole instances at a glance
+
+用于一目了然监控多个 Pi-hole 实例的极简仪表板

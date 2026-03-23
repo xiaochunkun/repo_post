@@ -7,3 +7,5 @@ image: assets/zippoxer_subtask_20260305_034937_383_20260305_035058_0fde0a.png
 # [zippoxer/subtask](https://github.com/zippoxer/subtask)
 
 CLI for task management using Claude subagents
+
+使用 Claude 子智能体进行任务管理的 CLI

@@ -7,3 +7,5 @@ image: assets/bukosabino_ta_20251224_002132_630_20251224_002156_57495f.png
 # [bukosabino/ta](https://github.com/bukosabino/ta/)
 
 Feature engineering from financial time series datasets
+
+从金融时间序列数据集进行特征工程

@@ -7,3 +7,5 @@ image: assets/vchelaru_Gum_20260207_171246_303_20260207_171329_0e54ea.png
 # [vchelaru/Gum](https://github.com/vchelaru/Gum)
 
 UI layout tool built on object-oriented principles
+
+基于面向对象原则构建的 UI 布局工具

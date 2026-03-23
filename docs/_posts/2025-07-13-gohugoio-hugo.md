@@ -7,3 +7,5 @@ image: assets/gohugoio_hugo_cropped.png
 # [gohugoio/hugo](https://github.com/gohugoio/hugo)
 
 build static sites with hugo, super fast and easy
+
+用Hugo构建静态网站，极速便捷

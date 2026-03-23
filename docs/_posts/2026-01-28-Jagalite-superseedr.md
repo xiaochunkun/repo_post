@@ -7,3 +7,5 @@ image: assets/Jagalite_superseedr_20260111_071119_040_20260111_071206_593727.png
 # [Jagalite/superseedr](https://github.com/Jagalite/superseedr)
 
 BitTorrent client for the terminal
+
+终端的BitTorrent客户端

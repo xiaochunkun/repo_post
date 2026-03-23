@@ -7,3 +7,5 @@ image: assets/boerdereinar_copyous_20260221_190954_751_20260221_191011_5def1e.pn
 # [boerdereinar/copyous](https://github.com/boerdereinar/copyous)
 
 Clipboard manager for GNOME with support for images and files
+
+支持图像和文件的GNOME剪贴板管理器

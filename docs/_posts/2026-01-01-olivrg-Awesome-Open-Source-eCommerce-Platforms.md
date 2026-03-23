@@ -7,3 +7,5 @@ image: assets/olivrg_Awesome_Open_Source_eCommerce_Platforms_20260101_050051_954
 # [olivrg/Awesome-Open-Source-eCommerce-Platforms](https://github.com/olivrg/Awesome-Open-Source-eCommerce-Platforms/)
 
 List of e-commerce platforms categorized by language
+
+按语言分类的电子商务平台列表

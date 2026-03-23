@@ -7,3 +7,5 @@ image: assets/HandBrake_HandBrake_20260203_011411_230_20260203_011429_087712.png
 # [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
 
 Transcodes video into formats for devices
+
+将视频转码为设备格式

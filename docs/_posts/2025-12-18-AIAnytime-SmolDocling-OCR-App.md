@@ -7,3 +7,5 @@ image: assets/AIAnytime_SmolDocling_OCR_App_20251217_050826_885_20251217_050853_
 # [AIAnytime/SmolDocling-OCR-App](https://github.com/AIAnytime/SmolDocling-OCR-App/)
 
 Extracts text from images into structured Markdown
+
+从图像提取文本并转换为结构化 Markdown

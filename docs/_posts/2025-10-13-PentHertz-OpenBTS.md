@@ -7,3 +7,5 @@ image: assets/20251013T000205379--PentHertz--OpenBTS--20251013T001115183--croppe
 # [PentHertz/OpenBTS](https://github.com/PentHertz/OpenBTS)
 
 GSM+GPRS base station software with new UHD driver and Ubuntu 22.04/24.04 support
+
+GSM+GPRS 基站软件，含新 UHD 驱动，支持 Ubuntu 22.04/24.04

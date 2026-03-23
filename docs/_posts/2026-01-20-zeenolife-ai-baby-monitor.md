@@ -7,3 +7,5 @@ image: assets/zeenolife_ai_baby_monitor_20260120_013119_306_20260120_013136_bd3a
 # [zeenolife/ai-baby-monitor](https://github.com/zeenolife/ai-baby-monitor)
 
 Video LLM monitor for safety rules
+
+用于安全规则的视频LLM监控器

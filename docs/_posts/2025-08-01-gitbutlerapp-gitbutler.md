@@ -7,3 +7,5 @@ image: assets/gitbutlerapp_gitbutler_cropped.png
 # [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
 next gen Git client for managing branches and commits
+
+下一代Git客户端，管理分支和提交

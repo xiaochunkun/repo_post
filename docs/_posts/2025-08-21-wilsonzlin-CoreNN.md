@@ -7,3 +7,5 @@ image: assets/20250818T103634953_wilsonzlin_CoreNN--20250820T134311541--cropped.
 # [wilsonzlin/CoreNN](https://github.com/wilsonzlin/CoreNN)
 
 billion-scale vector database for fast similarity search
+
+十亿级向量数据库，快速相似性搜索

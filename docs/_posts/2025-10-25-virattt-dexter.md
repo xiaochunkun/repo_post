@@ -7,3 +7,5 @@ image: assets/virattt_dexter_20251023_194849_469_20251025_012533_cf2c78--2025102
 # [virattt/dexter](https://github.com/virattt/dexter/)
 
 Autonomous financial research agent using real-time market data
+
+使用实时市场数据的自主金融研究代理

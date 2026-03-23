@@ -7,3 +7,5 @@ image: assets/FalconOpsLLC_udpz_20251124_233610_641_20251125_224336_d17c26--2025
 # [FalconOpsLLC/udpz](https://github.com/FalconOpsLLC/udpz/)
 
 Cross-platform UDP port scanner in Go
+
+Go 语言的跨平台 UDP 端口扫描器

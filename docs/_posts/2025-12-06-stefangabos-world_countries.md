@@ -7,3 +7,5 @@ image: assets/stefangabos_world_countries_20251204_212249_473_20251204_212335_46
 # [stefangabos/world_countries](https://github.com/stefangabos/world_countries/)
 
 Lists of world countries in multiple formats
+
+多种格式的世界国家列表

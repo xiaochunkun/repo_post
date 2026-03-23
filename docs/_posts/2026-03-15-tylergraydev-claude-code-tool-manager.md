@@ -7,3 +7,5 @@ image: assets/tylergraydev_claude_code_tool_manager_20260314_235712_223_20260314
 # [tylergraydev/claude-code-tool-manager](https://github.com/tylergraydev/claude-code-tool-manager)
 
 Desktop app managing MCP servers and AI coding tools
+
+桌面应用管理MCP服务器和AI编码工具

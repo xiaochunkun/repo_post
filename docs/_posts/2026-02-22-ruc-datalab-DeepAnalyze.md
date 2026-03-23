@@ -7,3 +7,5 @@ image: assets/ruc_datalab_DeepAnalyze_20260203_022220_861_20260203_022253_754176
 # [ruc-datalab/DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze)
 
 Agentic LLM for autonomous data science
+
+用于自主数据科学的智能LLM代理

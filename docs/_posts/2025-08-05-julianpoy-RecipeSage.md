@@ -7,3 +7,5 @@ image: assets/julianpoy_RecipeSage_cropped.png
 # [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage)
 
 collaborative recipe keeper with meal planner and shopping list
+
+具有膳食计划和购物清单的协作食谱管理工具

@@ -7,3 +7,5 @@ image: assets/amirkarimi_term_ascii_diagram_20260106_070334_087_20260106_070350_
 # [amirkarimi/term-ascii-diagram](https://github.com/amirkarimi/term-ascii-diagram/)
 
 Creates terminal diagrams via keyboard
+
+通过键盘创建终端图表

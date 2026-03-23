@@ -7,3 +7,5 @@ image: assets/karol_broda_snitch_20260203_110445_207_20260203_110459_695b44.png
 # [karol-broda/snitch](https://github.com/karol-broda/snitch)
 
 Terminal interface for network connection inspection
+
+网络连接检查的终端界面

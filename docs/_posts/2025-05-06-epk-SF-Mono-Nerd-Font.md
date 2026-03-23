@@ -7,3 +7,5 @@ image: assets/epk_SF-Mono-Nerd-Font_cropped.png
 # [epk/SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font)
 
 Apple's SF Mono font with Nerd Fonts icons
+
+带有 Nerd Fonts 图标的 Apple SF Mono 字体

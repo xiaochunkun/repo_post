@@ -7,3 +7,5 @@ image: assets/20251014T012024890--InvisibleManVPN--InvisibleMan-XRayClient--2025
 # [InvisibleManVPN/InvisibleMan-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient)
 
 xray core client for managing proxies on Windows
+
+xray 核心客户端，用于在 Windows 上管理代理

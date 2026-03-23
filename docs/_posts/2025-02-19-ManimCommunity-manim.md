@@ -7,3 +7,5 @@ image: assets/ManimCommunity_manim_cropped.png
 # [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 
 Python framework for mathematical animations
+
+Python 数学动画框架

@@ -7,3 +7,5 @@ image: assets/myshell-ai_MeloTTS_cropped.png
 # [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS)
 
 multi-lingual text-to-speech that runs fast on CPUs
+
+在CPU上快速运行的多语言文本转语音

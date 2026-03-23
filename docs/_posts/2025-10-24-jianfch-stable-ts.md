@@ -7,3 +7,5 @@ image: assets/jianfch_stable_ts_20251023_200230_614_20251023_201033_0cfc81--2025
 # [jianfch/stable-ts](https://github.com/jianfch/stable-ts/)
 
 Produces stable timestamps for Whisper
+
+为Whisper生成稳定时间戳

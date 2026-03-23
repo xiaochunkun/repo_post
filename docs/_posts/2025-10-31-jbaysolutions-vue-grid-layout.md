@@ -7,3 +7,5 @@ image: assets/jbaysolutions_vue_grid_layout_20251031_003048_011_20251031_012708_
 # [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout/)
 
 Grid layout system for Vue.js with draggable and resizable widgets
+
+Vue.js 的网格布局系统，支持可拖拽和调整大小的部件

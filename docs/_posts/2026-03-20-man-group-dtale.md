@@ -7,3 +7,5 @@ image: assets/man_group_dtale_20260318_025747_156_20260318_025939_3feba0.png
 # [man-group/dtale](https://github.com/man-group/dtale)
 
 Web client for Pandas data structures
+
+Pandas 数据结构的 Web 客户端

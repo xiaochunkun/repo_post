@@ -7,3 +7,5 @@ image: assets/LeCoupa_awesome-cheatsheets_cropped.png
 # [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 
 Cheat sheets for programming languages, frameworks, and tools
+
+编程语言、框架和工具的速查表

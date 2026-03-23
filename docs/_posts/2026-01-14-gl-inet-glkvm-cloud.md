@@ -7,3 +7,5 @@ image: assets/gl_inet_glkvm_cloud_20260112_004642_065_20260112_004655_49ce51.png
 # [gl-inet/glkvm-cloud](https://github.com/gl-inet/glkvm-cloud)
 
 KVM remote management platform for self-hosting
+
+自托管 KVM 远程管理平台

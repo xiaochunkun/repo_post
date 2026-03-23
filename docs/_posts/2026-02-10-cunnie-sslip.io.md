@@ -7,3 +7,5 @@ image: assets/cunnie_sslip_io_20260207_033514_078_20260207_033533_50e4da.png
 # [cunnie/sslip.io](https://github.com/cunnie/sslip.io)
 
 Maps IP addresses to DNS records
+
+将 IP 地址映射到 DNS 记录

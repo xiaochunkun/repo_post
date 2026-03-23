@@ -7,3 +7,5 @@ image: assets/teslamotors_custom_wraps_20260113_075836_924_20260113_075851_df385
 # [teslamotors/custom-wraps](https://github.com/teslamotors/custom-wraps)
 
 Templates for Tesla vehicle wraps
+
+特斯拉车辆贴膜模板

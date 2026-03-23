@@ -7,3 +7,5 @@ image: assets/steipete_poltergeist_20260318_055005_449_20260318_055055_ae6f06.pn
 # [steipete/poltergeist](https://github.com/steipete/poltergeist)
 
 Automatically hot reloads any project
+
+自动热重载任何项目

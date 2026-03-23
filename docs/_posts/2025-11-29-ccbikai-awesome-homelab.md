@@ -7,3 +7,5 @@ image: assets/ccbikai_awesome_homelab_20251125_235315_560_20251128_213134_162275
 # [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab/)
 
 Curated list of open source homelab applications
+
+开源家庭实验室应用的精选列表

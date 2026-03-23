@@ -7,3 +7,5 @@ image: assets/conexaoazul_weaviate_20260104_174021_187_20260104_174037_47b103.pn
 # [conexaoazul/weaviate](https://github.com/conexaoazul/weaviate/)
 
 Vector database for machine learning models
+
+机器学习模型的向量数据库

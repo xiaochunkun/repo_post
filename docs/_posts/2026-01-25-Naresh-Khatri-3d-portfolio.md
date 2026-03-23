@@ -7,3 +7,5 @@ image: assets/Naresh_Khatri_3d_portfolio_20260121_223904_270_20260121_223921_d37
 # [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio)
 
 Portfolio with interactive 3D keyboard and animations
+
+含交互式3D键盘和动画的作品集

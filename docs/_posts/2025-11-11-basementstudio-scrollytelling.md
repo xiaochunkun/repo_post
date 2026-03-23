@@ -7,3 +7,5 @@ image: assets/basementstudio_scrollytelling_20251110_154920_852_20251111_014632_
 # [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling/)
 
 Library for creating scrollytelling animations in React
+
+在React中创建滚动叙事动画的库

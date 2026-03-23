@@ -7,3 +7,5 @@ image: assets/20250822T025457614--crazy-max--diun--20250822T030154584--cropped.p
 # [crazy-max/diun](https://github.com/crazy-max/diun)
 
 get notified when docker images are updated
+
+Docker 镜像更新通知工具

@@ -7,3 +7,5 @@ image: assets/sakofchit_system_css_20260129_095331_643_20260129_095404_d22d62.pn
 # [sakofchit/system.css](https://github.com/sakofchit/system.css)
 
 CSS library for Apple System 6 interfaces
+
+Apple System 6界面的CSS库

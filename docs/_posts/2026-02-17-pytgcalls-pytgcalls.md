@@ -7,3 +7,5 @@ image: assets/pytgcalls_pytgcalls_20260120_014010_656_20260120_014024_a23001.png
 # [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls)
 
 Streams audio to Telegram calls via WebRTC
+
+通过WebRTC向Telegram通话流式传输音频

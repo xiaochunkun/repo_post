@@ -7,3 +7,5 @@ image: assets/20250923T032430175--denisidoro--navi--20250923T032928172--cropped.
 # [denisidoro/navi](https://github.com/denisidoro/navi)
 
 interactive terminal cheatsheet for quick command lookups
+
+交互式终端备忘单，用于快速命令查找

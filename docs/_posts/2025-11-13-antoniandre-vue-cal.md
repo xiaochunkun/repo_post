@@ -7,3 +7,5 @@ image: assets/antoniandre_vue_cal_20251111_203323_885_20251112_031330_9851cd--20
 # [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal/)
 
 Calendar component for Vue 3 with multiple views
+
+具有多视图的 Vue 3 日历组件

@@ -7,3 +7,5 @@ image: assets/testsigmahq_testsigma_20251122_151643_008_20251123_001106_b19e1f--
 # [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma/)
 
 Automates testing using AI agents
+
+使用AI智能体自动化测试

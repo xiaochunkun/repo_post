@@ -7,3 +7,5 @@ image: assets/TheBevyFlock_bevy_simple_subsecond_system_20251209_030352_883_2025
 # [TheBevyFlock/bevy_simple_subsecond_system](https://github.com/TheBevyFlock/bevy_simple_subsecond_system/)
 
 Hotpatches Bevy systems while running
+
+运行时热修补 Bevy 系统

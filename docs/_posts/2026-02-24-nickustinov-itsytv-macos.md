@@ -7,3 +7,5 @@ image: assets/nickustinov_itsytv_macos_20260224_190755_395_20260224_190817_9512f
 # [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos)
 
 Apple TV remote for the macOS menu bar
+
+适用于 macOS 菜单栏的 Apple TV 遥控器

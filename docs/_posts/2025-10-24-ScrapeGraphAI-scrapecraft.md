@@ -7,3 +7,5 @@ image: assets/ScrapeGraphAI_scrapecraft_20251023_002651_969_20251023_222119_def1
 # [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft/)
 
 Build web scrapers with AI assistance
+
+AI辅助构建网络爬虫

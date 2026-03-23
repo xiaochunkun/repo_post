@@ -7,3 +7,5 @@ image: assets/ifsnop_mysqldump_php_20251123_090906_083_20251124_002252_363486--2
 # [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php/)
 
 MySQL dump library without dependencies
+
+无依赖的 MySQL 转储库

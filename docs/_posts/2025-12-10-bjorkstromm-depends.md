@@ -7,3 +7,5 @@ image: assets/bjorkstromm_depends_20251207_224336_401_20251207_224358_71f1a6.png
 # [bjorkstromm/depends](https://github.com/bjorkstromm/depends/)
 
 Explore .NET Core project dependencies
+
+探索.NET Core项目依赖关系

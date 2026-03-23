@@ -7,3 +7,5 @@ image: assets/rdumasia303_deepseek_ocr_app_20251024_224346_182_20251024_225009_b
 # [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app/)
 
 An OCR web app to extract, find, and describe text
+
+提取、查找和描述文本的OCR网页应用

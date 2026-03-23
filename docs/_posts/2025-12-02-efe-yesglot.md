@@ -7,3 +7,5 @@ image: assets/efe_yesglot_20251201_010809_406_20251201_012310_a91ba3.png
 # [efe/yesglot](https://github.com/efe/yesglot/)
 
 Autofills Django translations using LLMs
+
+使用LLM自动填充Django翻译

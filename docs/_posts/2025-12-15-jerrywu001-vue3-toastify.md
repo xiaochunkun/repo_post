@@ -7,3 +7,5 @@ image: assets/jerrywu001_vue3_toastify_20251213_085642_466_20251213_085715_c4f92
 # [jerrywu001/vue3-toastify](https://github.com/jerrywu001/vue3-toastify/)
 
 Add notifications to Vue 3 apps
+
+为Vue 3应用添加通知功能

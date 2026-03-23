@@ -7,3 +7,5 @@ image: assets/0xPugal_One_Liners_20251031_011907_556_20251031_014957_8fc269--202
 # [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners/)
 
 Collection of one-liners for bug bounty hunting
+
+漏洞赏金狩猎的单行命令集合

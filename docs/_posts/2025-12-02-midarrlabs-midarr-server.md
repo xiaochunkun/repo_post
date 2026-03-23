@@ -7,3 +7,5 @@ image: assets/midarrlabs_midarr_server_20251130_081413_249_20251201_004814_b7254
 # [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server/)
 
 Minimal lightweight media server for Radarr and Sonarr
+
+为 Radarr 和 Sonarr 设计的极简轻量媒体服务器

@@ -7,3 +7,5 @@ image: assets/cloudquery_cloudquery_20260103_082348_050_20260103_082409_2293cb.p
 # [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery/)
 
 Extracts data from cloud sources into databases
+
+从云源提取数据到数据库

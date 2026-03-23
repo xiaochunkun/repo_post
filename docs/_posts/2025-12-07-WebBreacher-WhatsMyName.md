@@ -7,3 +7,5 @@ image: assets/WebBreacher_WhatsMyName_20251205_004305_244_20251205_004327_92bff3
 # [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName/)
 
 Enumerates usernames across many websites
+
+枚举多个网站上的用户名

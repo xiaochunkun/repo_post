@@ -7,3 +7,5 @@ image: assets/20250925T045111694--antgroup--ditto-talkinghead--20250925T04564611
 # [antgroup/ditto-talkinghead](https://github.com/antgroup/ditto-talkinghead)
 
 realtime talking head synthesis using motion-space diffusion
+
+使用运动空间扩散实现实时说话头部合成

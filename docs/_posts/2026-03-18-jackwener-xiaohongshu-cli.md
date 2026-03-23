@@ -7,3 +7,5 @@ image: assets/jackwener_xiaohongshu_cli_20260316_191716_053_20260316_191746_b555
 # [jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli)
 
 Xiaohongshu CLI with reverse-engineered API and anti-detection
+
+小红书CLI，带逆向工程API和反检测

@@ -7,3 +7,5 @@ image: assets/20250917T005738282--simdjson--simdjson--20250917T010312851--croppe
 # [simdjson/simdjson](https://github.com/simdjson/simdjson)
 
 SIMD-accelerated JSON parsing for high-speed data processing
+
+SIMD 加速的 JSON 解析，用于高速数据处理

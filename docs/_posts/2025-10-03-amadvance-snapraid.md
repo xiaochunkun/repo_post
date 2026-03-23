@@ -7,3 +7,5 @@ image: assets/20251003T031711152--amadvance--snapraid--20251003T031910115--cropp
 # [amadvance/snapraid](https://github.com/amadvance/snapraid)
 
 parity-based backup for media servers and disk arrays
+
+基于奇偶校验的备份方案，适用于媒体服务器和磁盘阵列

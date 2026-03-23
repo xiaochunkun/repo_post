@@ -7,3 +7,5 @@ image: assets/wheaney_breezy_desktop_20260101_010152_331_20260101_010206_10c526.
 # [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop/)
 
 XR virtual workspace library for Linux
+
+用于Linux的XR虚拟工作空间库

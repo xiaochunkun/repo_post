@@ -7,3 +7,5 @@ image: assets/wmn_231314_diffusion_data_constraint_20251204_223022_030_20251204_
 # [wmn-231314/diffusion-data-constraint](https://github.com/wmn-231314/diffusion-data-constraint/)
 
 Diffusion models outperform autoregressive models in data-constrained settings
+
+在数据受限设置中，扩散模型优于自回归模型

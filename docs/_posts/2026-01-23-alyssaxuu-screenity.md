@@ -7,3 +7,5 @@ image: assets/alyssaxuu_screenity_20260122_030150_608_20260122_030223_f0d2e3.png
 # [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
 
 Screen recorder with annotation tools and background blur
+
+具有注释工具和背景模糊功能的屏幕录制器

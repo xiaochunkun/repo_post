@@ -7,3 +7,5 @@ image: assets/edoardottt_scilla_20251201_075143_567_20251201_075207_5af265.png
 # [edoardottt/scilla](https://github.com/edoardottt/scilla/)
 
 Information gathering tool for DNS, subdomains, ports, and directories
+
+DNS、子域名、端口和目录的信息收集工具

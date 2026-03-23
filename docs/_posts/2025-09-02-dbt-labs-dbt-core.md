@@ -7,3 +7,5 @@ image: assets/20250831T025147897--dbt-labs--dbt-core--20250831T030234772--croppe
 # [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
 
 open source tool for transforming data in your warehouse with SQL
+
+用 SQL 在数据仓库中转换数据的开源工具

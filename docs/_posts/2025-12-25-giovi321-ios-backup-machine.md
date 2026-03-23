@@ -7,3 +7,5 @@ image: assets/giovi321_ios_backup_machine_20251223_184350_885_20251223_184425_4e
 # [giovi321/ios-backup-machine](https://github.com/giovi321/ios-backup-machine/)
 
 Backs up iPhones to local storage via Radxa Zero 3W
+
+通过 Radxa Zero 3W 将 iPhone 备份到本地存储

@@ -7,3 +7,5 @@ image: assets/ifindev_fullstack_next_cloudflare_20251122_085830_385_20251122_111
 # [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare/)
 
 Next.js 15 template for Cloudflare Workers
+
+Cloudflare Workers 的 Next.js 15 模板

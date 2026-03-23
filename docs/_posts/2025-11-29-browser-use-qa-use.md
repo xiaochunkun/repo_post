@@ -7,3 +7,5 @@ image: assets/browser_use_qa_use_20251125_232143_237_20251128_212759_bbe07b--202
 # [browser-use/qa-use](https://github.com/browser-use/qa-use/)
 
 Automates web application testing with AI agents
+
+使用AI代理自动化Web应用测试

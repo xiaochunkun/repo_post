@@ -7,3 +7,5 @@ image: assets/clickvisual_clickvisual_20251219_044213_021_20251219_044233_5062cf
 # [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual/)
 
 Log analytics and search platform for ClickHouse
+
+ClickHouse 日志分析与搜索平台

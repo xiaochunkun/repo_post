@@ -7,3 +7,5 @@ image: assets/onecli_onecli_20260317_213100_414_20260317_213225_c5545e.png
 # [onecli/onecli](https://github.com/onecli/onecli)
 
 Gateway injecting secrets for AI agents
+
+为AI Agent注入密钥的网关

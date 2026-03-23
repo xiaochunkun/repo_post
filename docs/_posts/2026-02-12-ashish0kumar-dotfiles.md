@@ -7,3 +7,5 @@ image: assets/ashish0kumar_dotfiles_20260210_042236_952_20260210_042300_b963e4.p
 # [ashish0kumar/dotfiles](https://github.com/ashish0kumar/dotfiles)
 
 WSL2 development environment configuration files
+
+WSL2开发环境配置文件

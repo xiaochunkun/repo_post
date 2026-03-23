@@ -7,3 +7,5 @@ image: assets/pingcap_tidb_cropped.png
 # [pingcap/tidb](https://github.com/pingcap/tidb)
 
 MySQL-compatible distributed database for scalable apps
+
+适用于可扩展应用的MySQL兼容分布式数据库

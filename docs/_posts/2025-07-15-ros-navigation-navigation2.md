@@ -7,3 +7,5 @@ image: assets/ros-navigation_navigation2_cropped.png
 # [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2)
 
 Robot path planning and navigation system for ROS 2
+
+ROS 2的机器人路径规划和导航系统

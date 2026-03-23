@@ -7,3 +7,5 @@ image: assets/20250915T231416431--benfred--py-spy--20250918T051545121--cropped.p
 # [benfred/py-spy](https://github.com/benfred/py-spy)
 
 profile Python programs without restarting, see where your code spends time
+
+无需重启即可分析 Python 程序，查看代码耗时位置

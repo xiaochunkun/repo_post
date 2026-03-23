@@ -7,3 +7,5 @@ image: assets/apple_container_20260225_122339_580_20260225_122512_fcc831.png
 # [apple/container](https://github.com/apple/container)
 
 Runs Linux containers as virtual machines on Apple silicon
+
+在Apple芯片上以虚拟机形式运行Linux容器

@@ -7,3 +7,5 @@ image: assets/facebookresearch_BenchMARL_20251215_034037_348_20251215_034111_0f9
 # [facebookresearch/BenchMARL](https://github.com/facebookresearch/BenchMARL/)
 
 Library for benchmarking multi-agent reinforcement learning algorithms
+
+用于基准测试多智能体强化学习算法的库

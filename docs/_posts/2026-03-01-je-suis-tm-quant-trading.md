@@ -7,3 +7,5 @@ image: assets/je_suis_tm_quant_trading_20260227_132035_566_20260227_132209_4af95
 # [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading)
 
 Python scripts for backtesting trading strategies
+
+用于回测交易策略的 Python 脚本

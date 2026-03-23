@@ -7,3 +7,5 @@ image: assets/amnezia-vpn_amnezia-client_cropped.png
 # [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
 Open-source VPN client for deploying self-hosted VPN servers
+
+用于部署自托管 VPN 服务器的开源 VPN 客户端

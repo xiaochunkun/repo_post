@@ -7,3 +7,5 @@ image: assets/rupeshs_fastsdcpu_20251120_042426_062_20251120_141651_97bf95--2025
 # [rupeshs/fastsdcpu](https://github.com/rupeshs/fastsdcpu/)
 
 Stable Diffusion inference on CPU
+
+CPU运行Stable Diffusion推理

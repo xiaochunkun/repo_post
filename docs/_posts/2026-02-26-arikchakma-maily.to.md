@@ -7,3 +7,5 @@ image: assets/arikchakma_maily_to_20260208_030658_571_20260208_030717_a795ee.png
 # [arikchakma/maily.to](https://github.com/arikchakma/maily.to)
 
 Editor for emails with pre-designed components
+
+带有预设计组件的电子邮件编辑器

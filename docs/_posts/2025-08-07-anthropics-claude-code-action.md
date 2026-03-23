@@ -7,3 +7,5 @@ image: assets/anthropics_claude-code-action_cropped.png
 # [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
 
 Claude helps you fix code right in VS Code
+
+Claude 帮助你在 VS Code 中直接修复代码

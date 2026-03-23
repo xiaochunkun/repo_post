@@ -7,3 +7,5 @@ image: assets/facebookresearch_llm_speedrunner_20260225_220555_090_20260225_2207
 # [facebookresearch/llm-speedrunner](https://github.com/facebookresearch/llm-speedrunner)
 
 Benchmark for agents to reproduce scientific findings
+
+智能体复现科学发现的基准测试

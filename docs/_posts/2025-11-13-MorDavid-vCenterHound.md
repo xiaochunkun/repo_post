@@ -7,3 +7,5 @@ image: assets/MorDavid_vCenterHound_20251112_031730_285_20251112_033531_98f909--
 # [MorDavid/vCenterHound](https://github.com/MorDavid/vCenterHound/)
 
 Collects vCenter data for BloodHound graphs
+
+为 BloodHound 图表收集 vCenter 数据

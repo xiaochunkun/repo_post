@@ -7,3 +7,5 @@ image: assets/RaspAP_raspap_website_20260113_143007_279_20260113_143055_841099.p
 # [RaspAP/raspap-website](https://github.com/RaspAP/raspap-website)
 
 Wireless router setup for Debian devices
+
+Debian 设备的无线路由器设置

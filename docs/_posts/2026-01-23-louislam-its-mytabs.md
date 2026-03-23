@@ -7,3 +7,5 @@ image: assets/louislam_its_mytabs_20260122_085534_244_20260122_085550_4e243b.png
 # [louislam/its-mytabs](https://github.com/louislam/its-mytabs)
 
 Self-hostable guitar tab viewer and player
+
+自托管吉他谱查看器和播放器

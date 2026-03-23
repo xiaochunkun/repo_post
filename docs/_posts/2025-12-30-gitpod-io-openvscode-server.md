@@ -7,3 +7,5 @@ image: assets/gitpod_io_openvscode_server_20251228_175632_159_20251228_175650_89
 # [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server/)
 
 Runs VS Code on a remote machine through a browser
+
+通过浏览器在远程机器上运行 VS Code

@@ -7,3 +7,5 @@ image: assets/aiexperti_atlaswebx_20260206_200028_554_20260206_200044_0bca74.png
 # [aiexperti/atlaswebx](https://github.com/aiexperti/atlaswebx)
 
 Browser with integrated AI assistant
+
+集成 AI 助手的浏览器

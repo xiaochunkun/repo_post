@@ -7,3 +7,5 @@ image: assets/Astrotomic_laravel_translatable_20251125_231007_522_20251127_17162
 # [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable/)
 
 Stores translations of Laravel models in database
+
+在数据库中存储 Laravel 模型的翻译

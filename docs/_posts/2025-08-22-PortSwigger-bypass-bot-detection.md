@@ -7,3 +7,5 @@ image: assets/20250818T122335667_PortSwigger_bypass-bot-detection--20250820T1415
 # [PortSwigger/bypass-bot-detection](https://github.com/PortSwigger/bypass-bot-detection)
 
 Burp Suite extension for bypassing TLS-based bot detection
+
+Burp Suite 扩展，绕过基于 TLS 的机器人检测

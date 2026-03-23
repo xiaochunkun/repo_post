@@ -7,3 +7,5 @@ image: assets/ruvnet_RuView_20260303_090817_321_20260303_091008_063f6f.png
 # [ruvnet/RuView](https://github.com/ruvnet/RuView)
 
 Reconstructs human poses using WiFi signals
+
+利用WiFi信号重建人体姿态

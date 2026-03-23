@@ -7,3 +7,5 @@ image: assets/20251001T105947156--MrTurvey--flareprox--20251001T112137414--cropp
 # [MrTurvey/flareprox](https://github.com/MrTurvey/flareprox)
 
 Cloudflare Workers proxy for IP rotation and URL redirection
+
+Cloudflare Workers代理，用于IP轮换和URL重定向

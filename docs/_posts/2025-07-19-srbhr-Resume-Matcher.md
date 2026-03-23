@@ -7,3 +7,5 @@ image: assets/srbhr_Resume-Matcher_cropped.png
 # [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 
 match your resume to job descriptions with AI
+
+使用AI将简历与职位描述匹配

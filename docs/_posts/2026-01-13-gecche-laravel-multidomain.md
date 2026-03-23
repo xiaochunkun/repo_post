@@ -7,3 +7,5 @@ image: assets/gecche_laravel_multidomain_20260112_092221_772_20260112_092244_82b
 # [gecche/laravel-multidomain](https://github.com/gecche/laravel-multidomain)
 
 Laravel extension for multi domain settings
+
+Laravel多域名设置扩展

@@ -7,3 +7,5 @@ image: assets/OpenHub_Store_GitHub_Store_20260303_003143_609_20260303_003345_a9c
 # [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store)
 
 App store for GitHub releases
+
+GitHub发布的应用商店

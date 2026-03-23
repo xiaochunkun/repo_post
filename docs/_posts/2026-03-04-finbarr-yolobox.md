@@ -7,3 +7,5 @@ image: assets/finbarr_yolobox_20260227_153718_078_20260227_153827_523b9c.png
 # [finbarr/yolobox](https://github.com/finbarr/yolobox)
 
 Sandboxes AI agents inside containers
+
+在容器内沙盒化 AI 代理

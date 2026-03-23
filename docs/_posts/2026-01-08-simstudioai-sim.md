@@ -7,3 +7,5 @@ image: assets/simstudioai_sim_20260108_035113_810_20260108_035131_dc2f51.png
 # [simstudioai/sim](https://github.com/simstudioai/sim)
 
 Visual canvas for AI agent workflows
+
+AI代理工作流的可视化画布

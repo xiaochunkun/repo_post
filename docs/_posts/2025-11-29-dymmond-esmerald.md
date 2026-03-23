@@ -7,3 +7,5 @@ image: assets/dymmond_esmerald_20251126_005410_013_20251129_021728_183a58--20251
 # [dymmond/esmerald](https://github.com/dymmond/esmerald/)
 
 Async Python framework for APIs
+
+用于API的异步Python框架

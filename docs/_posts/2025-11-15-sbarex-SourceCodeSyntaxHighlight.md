@@ -7,3 +7,5 @@ image: assets/sbarex_SourceCodeSyntaxHighlight_20251114_175655_785_20251115_0350
 # [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight/)
 
 Quick Look extension for syntax highlighting on macOS
+
+macOS上的Quick Look语法高亮扩展

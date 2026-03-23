@@ -7,3 +7,5 @@ image: assets/freerouting_freerouting_20260205_030245_330_20260205_030315_3a9199
 # [freerouting/freerouting](https://github.com/freerouting/freerouting)
 
 Autorouter for PCB programs via DSN interface
+
+通过DSN接口的PCB程序自动布线器

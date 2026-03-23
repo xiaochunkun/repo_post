@@ -7,3 +7,5 @@ image: assets/chatfire_AI_huobao_drama_20260202_112004_899_20260202_112053_91a15
 # [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama)
 
 Generates short dramas from scripts
+
+从脚本生成短剧

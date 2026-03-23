@@ -7,3 +7,5 @@ image: assets/Selfdb_io_SelfDB_20251210_035816_274_20251210_035848_af35c8.png
 # [Selfdb-io/SelfDB](https://github.com/Selfdb-io/SelfDB/)
 
 Self-hosted backend-as-a-service alternative to Supabase
+
+自托管的后端即服务，替代 Supabase

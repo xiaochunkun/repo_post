@@ -7,3 +7,5 @@ image: assets/stumpapp_stump_20251118_042113_982_20251118_045747_cd33f3--2025111
 # [stumpapp/stump](https://github.com/stumpapp/stump/)
 
 Comics and manga server with OPDS support
+
+支持OPDS的漫画和漫画服务器

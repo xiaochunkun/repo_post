@@ -7,3 +7,5 @@ image: assets/20251013T000156564--rippleFCL--meshmon--20251013T000922692--croppe
 # [rippleFCL/meshmon](https://github.com/rippleFCL/meshmon)
 
 peer-to-peer monitoring with cryptographic security and flexible config
+
+点对点监控，具备加密安全和灵活配置

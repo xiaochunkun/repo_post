@@ -7,3 +7,5 @@ image: assets/20250908T194831071--anthropics--claude-code-sdk-python--20250908T1
 # [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python)
 
 Python SDK for Claude Code, async queries and tool integration
+
+Claude Code 的 Python SDK，支持异步查询和工具集成

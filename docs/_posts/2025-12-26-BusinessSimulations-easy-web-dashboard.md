@@ -7,3 +7,5 @@ image: assets/BusinessSimulations_easy_web_dashboard_20251225_062314_730_2025122
 # [BusinessSimulations/easy-web-dashboard](https://github.com/BusinessSimulations/easy-web-dashboard/)
 
 Cycles websites on office screens
+
+在办公室屏幕上循环显示网站

@@ -7,3 +7,5 @@ image: assets/vitessio_vitess_cropped.png
 # [vitessio/vitess](https://github.com/vitessio/vitess)
 
 Vitess: MySQL sharding system
+
+Vitess：MySQL分片系统

@@ -7,3 +7,5 @@ image: assets/stuartcrobinson_slupe--20250820T141126940--cropped.png
 # [stuartcrobinson/slupe](https://github.com/stuartcrobinson/slupe)
 
 sandboxed LLM file operations with NESL syntax
+
+使用 NESL 语法实现沙盒化 LLM 文件操作

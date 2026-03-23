@@ -7,3 +7,5 @@ image: assets/20250816T004410045_szr2001_WorkLifeBalance--20250816T004552905--cr
 # [szr2001/WorkLifeBalance](https://github.com/szr2001/WorkLifeBalance)
 
 tracks work and rest time with productivity stats
+
+跟踪工作和休息时间，提供生产力统计

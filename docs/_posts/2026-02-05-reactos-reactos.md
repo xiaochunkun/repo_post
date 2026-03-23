@@ -7,3 +7,5 @@ image: assets/reactos_reactos_20260203_074047_512_20260203_074113_3ab312.png
 # [reactos/reactos](https://github.com/reactos/reactos)
 
 Windows-compatible operating system from scratch
+
+从头开始的Windows兼容操作系统

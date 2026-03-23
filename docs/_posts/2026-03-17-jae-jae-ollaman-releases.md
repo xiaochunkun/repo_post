@@ -7,3 +7,5 @@ image: assets/jae_jae_ollaman_releases_20260316_063644_791_20260316_063715_d95fe
 # [jae-jae/ollaman-releases](https://github.com/jae-jae/ollaman-releases)
 
 Desktop application for Ollama model management and chat
+
+Ollama 模型管理和聊天的桌面应用

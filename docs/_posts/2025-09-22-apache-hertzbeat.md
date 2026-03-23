@@ -7,3 +7,5 @@ image: assets/20250922T032017001--apache--hertzbeat--20250922T032930930--cropped
 # [apache/hertzbeat](https://github.com/apache/hertzbeat)
 
 agentless real-time monitoring and alerts for apps, databases, servers, and more
+
+无代理实时监控和警报，适用于应用、数据库、服务器等

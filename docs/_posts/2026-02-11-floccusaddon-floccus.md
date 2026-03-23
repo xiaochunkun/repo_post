@@ -7,3 +7,5 @@ image: assets/floccusaddon_floccus_20260202_232416_831_20260202_232449_e865ed.pn
 # [floccusaddon/floccus](https://github.com/floccusaddon/floccus)
 
 Syncs bookmarks across browsers via WebDAV or Git
+
+通过WebDAV或Git跨浏览器同步书签

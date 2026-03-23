@@ -7,3 +7,5 @@ image: assets/deqrocks_deq_20260122_153241_358_20260122_153259_9490b2.png
 # [deqrocks/deq](https://github.com/deqrocks/deq)
 
 SSH control plane for homelabs via a single Python file
+
+通过单个 Python 文件实现家庭实验室的 SSH 控制平面

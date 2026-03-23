@@ -7,3 +7,5 @@ image: assets/20251005T100626901--cypht-org--cypht--20251005T101641310--cropped.
 # [cypht-org/cypht](https://github.com/cypht-org/cypht)
 
 webmail client that combines all your email accounts in one place
+
+将所有电子邮件账户整合在一起的Web邮件客户端

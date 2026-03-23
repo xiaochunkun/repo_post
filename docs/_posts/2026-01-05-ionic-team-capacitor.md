@@ -7,3 +7,5 @@ image: assets/ionic_team_capacitor_20260104_014204_654_20260104_014221_387e30.pn
 # [ionic-team/capacitor](https://github.com/ionic-team/capacitor/)
 
 Runs web apps natively on iOS and Android
+
+在iOS和Android上原生运行Web应用

@@ -7,3 +7,5 @@ image: assets/thalesgroup_cert_Watcher_20251219_130826_319_20251219_130848_d6e9a
 # [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher/)
 
 Threat intelligence platform with AI analysis
+
+集成 AI 分析的威胁情报平台

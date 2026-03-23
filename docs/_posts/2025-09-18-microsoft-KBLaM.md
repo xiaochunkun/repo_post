@@ -7,3 +7,5 @@ image: assets/20250917T003349050--microsoft--KBLaM--20250918T030755281--cropped.
 # [microsoft/KBLaM](https://github.com/microsoft/KBLaM)
 
 lets you plug structured knowledge bases into LLMs for efficient, scalable augmentation
+
+将结构化知识库接入LLM以实现高效、可扩展的增强

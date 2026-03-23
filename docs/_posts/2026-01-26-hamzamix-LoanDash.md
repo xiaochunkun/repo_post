@@ -7,3 +7,5 @@ image: assets/hamzamix_LoanDash_20260125_005540_356_20260125_005615_9991a7.png
 # [hamzamix/LoanDash](https://github.com/hamzamix/LoanDash)
 
 Tracks debts and loans with local data storage
+
+本地存储债务贷款追踪器

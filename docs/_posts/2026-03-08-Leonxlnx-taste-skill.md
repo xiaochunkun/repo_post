@@ -7,3 +7,5 @@ image: assets/Leonxlnx_taste_skill_20260304_144954_608_20260304_145116_93e2c6.pn
 # [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 Instructions for AI to write frontend code with focus on design and output quality
+
+AI 编写前端代码的指令，注重设计和输出质量

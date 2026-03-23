@@ -7,3 +7,5 @@ image: assets/foxwise_ai_seekqool_20260115_090143_492_20260115_090158_b40aef.png
 # [foxwise-ai/seekqool](https://github.com/foxwise-ai/seekqool)
 
 PostgreSQL client for macOS built with SwiftUI
+
+使用 SwiftUI 构建的 macOS PostgreSQL 客户端

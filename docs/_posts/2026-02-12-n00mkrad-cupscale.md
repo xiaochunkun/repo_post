@@ -7,3 +7,5 @@ image: assets/n00mkrad_cupscale_20260206_140136_568_20260206_140158_a3d6ab.png
 # [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale)
 
 GUI for image upscaling with ESRGAN
+
+使用 ESRGAN 进行图像放大的 GUI

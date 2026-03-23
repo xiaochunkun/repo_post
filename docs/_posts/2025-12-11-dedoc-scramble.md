@@ -7,3 +7,5 @@ image: assets/dedoc_scramble_20251208_232340_882_20251208_232415_6e022d.png
 # [dedoc/scramble](https://github.com/dedoc/scramble/)
 
 Generates Laravel API documentation without PHPDoc annotations
+
+无需PHPDoc注释生成Laravel API文档

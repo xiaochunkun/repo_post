@@ -7,3 +7,5 @@ image: assets/deepseek_ai_DeepSeek_Prover_V2_20251115_070038_832_20251117_035646
 # [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2/)
 
 Language model for theorem proving via subgoal decomposition
+
+通过子目标分解进行定理证明的语言模型

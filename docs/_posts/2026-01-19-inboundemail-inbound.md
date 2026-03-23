@@ -7,3 +7,5 @@ image: assets/inboundemail_inbound_20260116_040730_175_20260116_040744_8fa324.pn
 # [inboundemail/inbound](https://github.com/inboundemail/inbound)
 
 Programmable email addresses with webhooks
+
+支持 webhooks 的可编程电子邮件地址

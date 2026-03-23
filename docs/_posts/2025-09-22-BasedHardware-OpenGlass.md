@@ -7,3 +7,5 @@ image: assets/20250922T015436020--BasedHardware--OpenGlass--20250922T023351945--
 # [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass)
 
 turn any glasses into AI-powered smart glasses with off-the-shelf parts
+
+使用现成零件将任何眼镜变成 AI 驱动的智能眼镜

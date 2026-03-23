@@ -7,3 +7,5 @@ image: assets/HiEventsDev_Hi_Events_20260213_234945_281_20260213_235038_a1cca5.p
 # [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)
 
 Ticketing platform for event management
+
+用于活动管理的票务平台

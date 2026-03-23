@@ -7,3 +7,5 @@ image: assets/16131zzzzzzzz_EveryoneNobel_20251225_144652_542_20251225_144710_04
 # [16131zzzzzzzz/EveryoneNobel](https://github.com/16131zzzzzzzz/EveryoneNobel/)
 
 Generates Nobel Prize images via ComfyUI
+
+通过 ComfyUI 生成诺贝尔奖图像

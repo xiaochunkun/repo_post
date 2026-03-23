@@ -7,3 +7,5 @@ image: assets/xiaoluoboding_stunning_ui_20251207_211400_949_20251207_211425_2de7
 # [xiaoluoboding/stunning-ui](https://github.com/xiaoluoboding/stunning-ui/)
 
 Collection of interactive Tailwind CSS components for Vue and Nuxt
+
+Vue和Nuxt的交互式Tailwind CSS组件集合

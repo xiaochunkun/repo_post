@@ -7,3 +7,5 @@ image: assets/20250810T053907--jhuckaby--Cronicle--20250812T001357--cropped.png
 # [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle)
 
 multi-server job scheduler with web UI and plugins
+
+带Web UI和插件的多服务器作业调度器

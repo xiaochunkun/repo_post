@@ -7,3 +7,5 @@ image: assets/20251007T032620657--AvaloniaUI--Avalonia--20251007T034541326--crop
 # [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
 
 cross-platform .NET UI framework for building apps on Windows, macOS, Linux, iOS, Android, and WebAssembly
+
+跨平台 .NET UI 框架，用于在 Windows、macOS、Linux、iOS、Android 和 WebAssembly 上构建应用

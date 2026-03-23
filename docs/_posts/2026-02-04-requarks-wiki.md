@@ -7,3 +7,5 @@ image: assets/requarks_wiki_20260203_174242_064_20260203_174310_6afdfe.png
 # [requarks/wiki](https://github.com/requarks/wiki)
 
 Wiki app built on Node.js
+
+基于 Node.js 构建的 Wiki 应用

@@ -7,3 +7,5 @@ image: assets/simonbs_Runestone_20260124_053309_680_20260124_053327_bebd77.png
 # [simonbs/Runestone](https://github.com/simonbs/Runestone)
 
 Text editor for iOS using Tree-sitter for syntax highlighting
+
+使用 Tree-sitter 进行语法高亮的 iOS 文本编辑器

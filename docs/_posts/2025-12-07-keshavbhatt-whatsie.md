@@ -7,3 +7,5 @@ image: assets/keshavbhatt_whatsie_20251205_005237_787_20251205_005337_490de3.png
 # [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie/)
 
 WhatsApp web client for Linux Desktop
+
+Linux桌面的WhatsApp Web客户端

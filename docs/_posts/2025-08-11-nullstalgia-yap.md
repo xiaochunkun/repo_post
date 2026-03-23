@@ -7,3 +7,5 @@ image: assets/nullstalgia_yap--20250811T003035--cropped.png
 # [nullstalgia/yap](https://github.com/nullstalgia/yap)
 
 serial terminal for COM ports and flashing ESP32
+
+用于COM端口和ESP32刷写的串行终端

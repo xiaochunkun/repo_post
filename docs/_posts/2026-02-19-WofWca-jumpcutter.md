@@ -7,3 +7,5 @@ image: assets/WofWca_jumpcutter_20260127_192625_359_20260127_192706_f90af8.png
 # [WofWca/jumpcutter](https://github.com/WofWca/jumpcutter)
 
 Fast-forwards through silence in video streams
+
+在视频流中快速跳过静音部分

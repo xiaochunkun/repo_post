@@ -7,3 +7,5 @@ image: assets/ChristopherLyon_graphrag_workbench_20251204_230147_087_20251204_23
 # [ChristopherLyon/graphrag-workbench](https://github.com/ChristopherLyon/graphrag-workbench/)
 
 Visualizes documents as 3D knowledge graphs
+
+将文档可视化为3D知识图谱

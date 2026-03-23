@@ -7,3 +7,5 @@ image: assets/20250822T021555230--HuolalaTech--page-spy-web--20250822T022352869-
 # [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)
 
 remote debugging tool for web and mini app projects
+
+Web 和小程序项目的远程调试工具

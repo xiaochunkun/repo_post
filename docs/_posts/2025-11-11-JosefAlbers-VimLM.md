@@ -7,3 +7,5 @@ image: assets/JosefAlbers_VimLM_20251111_032446_287_20251111_145456_c7671d--2025
 # [JosefAlbers/VimLM](https://github.com/JosefAlbers/VimLM/)
 
 Keyboard-driven AI coding assistant for Vim
+
+用于Vim的键盘驱动AI编码助手

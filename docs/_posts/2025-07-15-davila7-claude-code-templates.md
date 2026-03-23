@@ -7,3 +7,5 @@ image: assets/davila7_claude-code-templates_cropped.png
 # [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 
 CLI tool for setting up and managing Claude Code templates
+
+用于设置和管理Claude Code模板的CLI工具

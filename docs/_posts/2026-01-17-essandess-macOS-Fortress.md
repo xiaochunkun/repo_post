@@ -7,3 +7,5 @@ image: assets/essandess_macOS_Fortress_20260117_003347_748_20260117_003402_8d9a0
 # [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress)
 
 Firewall and proxy for macOS security
+
+用于macOS安全的防火墙和代理

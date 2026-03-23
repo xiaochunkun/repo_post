@@ -7,3 +7,5 @@ image: assets/edrys_org_edrys_20260104_053414_337_20260104_053431_9c50c0.png
 # [edrys-org/edrys](https://github.com/edrys-org/edrys/)
 
 Platform for remote teaching with live classrooms and labs
+
+支持实时课堂和实验室的远程教学平台

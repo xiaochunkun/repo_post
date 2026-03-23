@@ -7,3 +7,5 @@ image: assets/Orgnise_webapp_20260120_074014_123_20260120_074036_769d44.png
 # [Orgnise/webapp](https://github.com/Orgnise/webapp)
 
 Knowledge base for team documentation and project management
+
+用于团队文档和项目管理的知识库

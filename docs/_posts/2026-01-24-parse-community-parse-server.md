@@ -7,3 +7,5 @@ image: assets/parse_community_parse_server_20260124_041814_880_20260124_041833_d
 # [parse-community/parse-server](https://github.com/parse-community/parse-server)
 
 Backend for Node.js and Express
+
+Node.js 和 Express 的后端

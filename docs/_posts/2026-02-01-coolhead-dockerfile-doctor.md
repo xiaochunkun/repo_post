@@ -7,3 +7,5 @@ image: assets/coolhead_dockerfile_doctor_20260131_122526_631_20260131_122606_314
 # [coolhead/dockerfile-doctor](https://github.com/coolhead/dockerfile-doctor)
 
 Rewrites Dockerfiles to reduce size and improve security
+
+重写 Dockerfile 以减少大小并提高安全性

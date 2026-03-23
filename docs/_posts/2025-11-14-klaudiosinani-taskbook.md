@@ -7,3 +7,5 @@ image: assets/klaudiosinani_taskbook_20251114_001955_336_20251114_020343_aa6304-
 # [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook/)
 
 Tasks, boards and notes for the command-line
+
+用于命令行的任务、看板和笔记

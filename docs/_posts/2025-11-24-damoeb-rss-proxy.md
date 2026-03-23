@@ -7,3 +7,5 @@ image: assets/damoeb_rss_proxy_20251123_094947_224_20251124_002516_00af26--20251
 # [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy/)
 
 Generates feeds from static websites
+
+从静态网站生成订阅源

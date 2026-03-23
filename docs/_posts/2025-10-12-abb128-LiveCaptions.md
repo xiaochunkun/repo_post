@@ -7,3 +7,5 @@ image: assets/20251012T025624746--abb128--LiveCaptions--20251012T030300690--crop
 # [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions)
 
 live captions for Linux desktop audio, runs locally, no cloud needed
+
+Linux 桌面音频的实时字幕，本地运行，无需云端

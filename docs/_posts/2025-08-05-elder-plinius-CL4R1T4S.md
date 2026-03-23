@@ -7,3 +7,5 @@ image: assets/elder-plinius_CL4R1T4S_cropped.png
 # [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
 
 leaked AI system prompts and guidelines
+
+泄露的 AI 系统提示和指南

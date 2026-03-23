@@ -7,3 +7,5 @@ image: assets/iordv_Droppy_20260113_023846_596_20260113_023903_cf3f51.png
 # [iordv/Droppy](https://github.com/iordv/Droppy)
 
 File management tool for macOS with a notch shelf and clipboard manager
+
+macOS文件管理工具，带凹槽架和剪贴板管理器

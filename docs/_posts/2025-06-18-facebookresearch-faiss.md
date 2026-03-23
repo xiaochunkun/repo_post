@@ -7,3 +7,5 @@ image: assets/facebookresearch_faiss_cropped.png
 # [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 
 library for finding similar vectors and clustering data
+
+用于查找相似向量和聚类数据的库

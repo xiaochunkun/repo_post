@@ -7,3 +7,5 @@ image: assets/discord_discord_example_app_20251219_032336_395_20251219_032354_48
 # [discord/discord-example-app](https://github.com/discord/discord-example-app/)
 
 Rock-paper-scissors app for Discord bots
+
+Discord 机器人的剪刀石头布应用

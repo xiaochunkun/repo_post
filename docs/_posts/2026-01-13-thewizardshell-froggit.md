@@ -7,3 +7,5 @@ image: assets/thewizardshell_froggit_20260111_135851_751_20260111_135905_00715b.
 # [thewizardshell/froggit](https://github.com/thewizardshell/froggit)
 
 Git interface for the terminal
+
+终端 Git 界面

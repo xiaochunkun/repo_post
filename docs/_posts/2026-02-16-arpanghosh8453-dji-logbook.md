@@ -7,3 +7,5 @@ image: assets/arpanghosh8453_dji_logbook_20260215_033053_634_20260215_033142_8c3
 # [arpanghosh8453/dji-logbook](https://github.com/arpanghosh8453/dji-logbook)
 
 Analyzes drone flight logs with DuckDB and Tauri
+
+使用 DuckDB 和 Tauri 分析无人机飞行日志

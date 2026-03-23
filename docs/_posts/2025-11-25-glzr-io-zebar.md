@@ -7,3 +7,5 @@ image: assets/glzr_io_zebar_20251123_192152_815_20251125_011602_72f870--20251125
 # [glzr-io/zebar](https://github.com/glzr-io/zebar/)
 
 Cross-platform desktop widgets and taskbars
+
+跨平台桌面小部件和任务栏

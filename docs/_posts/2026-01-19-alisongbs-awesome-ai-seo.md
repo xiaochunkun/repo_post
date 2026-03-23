@@ -7,3 +7,5 @@ image: assets/alisongbs_awesome_ai_seo_20260116_133721_008_20260116_133737_4fac3
 # [alisongbs/awesome-ai-seo](https://github.com/alisongbs/awesome-ai-seo)
 
 List of AI tools for SEO
+
+SEO的AI工具列表

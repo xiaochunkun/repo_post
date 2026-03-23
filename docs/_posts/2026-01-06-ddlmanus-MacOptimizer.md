@@ -7,3 +7,5 @@ image: assets/ddlmanus_MacOptimizer_20260105_063712_079_20260105_063733_9a533d.p
 # [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer/)
 
 System monitor and app uninstaller for macOS
+
+macOS 的系统监控器和应用卸载器

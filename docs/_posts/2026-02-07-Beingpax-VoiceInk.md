@@ -7,3 +7,5 @@ image: assets/Beingpax_VoiceInk_20260205_120135_836_20260205_120158_f58f62.png
 # [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)
 
 Transcribes voice to text offline on macOS
+
+在 macOS 上离线将语音转录为文本

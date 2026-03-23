@@ -7,3 +7,5 @@ image: assets/openinary_openinary_20260203_005310_751_20260203_005335_47d4de.png
 # [openinary/openinary](https://github.com/openinary/openinary)
 
 Self-hosted media processing with URL transformations
+
+自托管媒体处理，支持 URL 转换

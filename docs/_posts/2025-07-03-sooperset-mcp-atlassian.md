@@ -7,3 +7,5 @@ image: assets/sooperset_mcp-atlassian_cropped.png
 # [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian)
 
 Model Context Protocol server for integrating with Confluence and Jira APIs
+
+用于与Confluence和Jira API集成的Model Context Protocol服务器

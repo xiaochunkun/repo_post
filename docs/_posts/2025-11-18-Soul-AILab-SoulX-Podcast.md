@@ -7,3 +7,5 @@ image: assets/Soul_AILab_SoulX_Podcast_20251118_030628_782_20251118_030700_31ce7
 # [Soul-AILab/SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast/)
 
 Generates podcast-style speech with dialectal diversity
+
+生成具有方言多样性的播客风格语音

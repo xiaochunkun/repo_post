@@ -7,3 +7,5 @@ image: assets/joshuadavidthomas_opencode_agent_skills_20260304_114216_200_202603
 # [joshuadavidthomas/opencode-agent-skills](https://github.com/joshuadavidthomas/opencode-agent-skills)
 
 Plugin for loading and using AI agent skills
+
+加载和使用 AI 代理技能的插件

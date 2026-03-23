@@ -7,3 +7,5 @@ image: assets/enix_x509_certificate_exporter_20260111_054644_797_20260111_054658
 # [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter)
 
 Monitors certificate expiration in Kubernetes clusters
+
+监控Kubernetes集群中的证书过期

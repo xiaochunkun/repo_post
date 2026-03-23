@@ -7,3 +7,5 @@ image: assets/20251015T011210477--ansible-autobott--nanoSmart--20251015T01191107
 # [ansible-autobott/nanoSmart](https://github.com/ansible-autobott/nanoSmart)
 
 micro UI for viewing disk SMART data
+
+用于查看磁盘 SMART 数据的微型 UI

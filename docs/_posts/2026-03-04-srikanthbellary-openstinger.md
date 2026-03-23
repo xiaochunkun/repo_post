@@ -7,3 +7,5 @@ image: assets/srikanthbellary_openstinger_20260304_120827_202_20260304_121000_67
 # [srikanthbellary/openstinger](https://github.com/srikanthbellary/openstinger)
 
 Memory and reasoning harness for autonomous agents
+
+自主代理的记忆和推理框架

@@ -7,3 +7,5 @@ image: assets/Print3M_Google_Hack_Search_20260114_080628_027_20260114_080641_26b
 # [Print3M/Google-Hack-Search](https://github.com/Print3M/Google-Hack-Search)
 
 Search engine for security research
+
+用于安全研究的搜索引擎

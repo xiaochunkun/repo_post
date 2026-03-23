@@ -7,3 +7,5 @@ image: assets/passivestar_godot_minimal_theme_20251122_091741_703_20251122_11143
 # [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme/)
 
 Minimal theme for Godot editor
+
+Godot 编辑器的极简主题

@@ -7,3 +7,5 @@ image: assets/autobrr_netronome_20260127_000213_985_20260127_000309_437b21.png
 # [autobrr/netronome](https://github.com/autobrr/netronome)
 
 Network speed testing and monitoring with distributed agents
+
+使用分布式agent进行网络速度测试和监控

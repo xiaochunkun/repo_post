@@ -7,3 +7,5 @@ image: assets/sirmalloc_ccstatusline_20260311_185853_718_20260311_190034_d5ca00.
 # [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
 
 Status line formatter for Claude Code CLI
+
+Claude Code CLI的状态行格式化工具

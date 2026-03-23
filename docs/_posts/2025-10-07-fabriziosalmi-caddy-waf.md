@@ -7,3 +7,5 @@ image: assets/20251007T025154227--fabriziosalmi--caddy-waf--20251007T030125143--
 # [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf)
 
 Web Application Firewall middleware for Caddy with regex filtering, blacklisting, geo-blocking, and monitoring
+
+Caddy 的 Web 应用防火墙中间件，支持正则过滤、黑名单、地理封锁和监控

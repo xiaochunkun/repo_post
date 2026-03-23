@@ -7,3 +7,5 @@ image: assets/isaac_sim_IsaacAutomator_20260113_074045_814_20260113_074058_735c4
 # [isaac-sim/IsaacAutomator](https://github.com/isaac-sim/IsaacAutomator)
 
 Deploys robotics workstations to public clouds
+
+公共云机器人工作站部署工具

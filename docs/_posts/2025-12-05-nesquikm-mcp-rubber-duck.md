@@ -7,3 +7,5 @@ image: assets/nesquikm_mcp_rubber_duck_20251202_221229_928_20251202_221307_60dfe
 # [nesquikm/mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck/)
 
 Queries multiple LLMs for debugging
+
+查询多个 LLM 进行调试

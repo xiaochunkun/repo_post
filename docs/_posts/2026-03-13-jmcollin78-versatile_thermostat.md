@@ -7,3 +7,5 @@ image: assets/jmcollin78_versatile_thermostat_20260227_190419_275_20260227_19061
 # [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat)
 
 Thermostat integration for Home Assistant managing heating events natively
+
+Home Assistant 的原生加热事件管理恒温器集成

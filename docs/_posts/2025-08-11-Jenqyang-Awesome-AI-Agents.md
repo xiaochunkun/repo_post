@@ -7,3 +7,5 @@ image: assets/Jenqyang_Awesome-AI-Agents_cropped.png
 # [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents)
 
 curated list of autonomous AI agents and frameworks
+
+自主 AI 代理和框架的精选列表

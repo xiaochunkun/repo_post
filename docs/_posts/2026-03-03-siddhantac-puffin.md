@@ -7,3 +7,5 @@ image: assets/siddhantac_puffin_20260225_195228_529_20260225_195506_d7bb93.png
 # [siddhantac/puffin](https://github.com/siddhantac/puffin)
 
 Terminal dashboard for personal finances
+
+个人财务终端仪表板

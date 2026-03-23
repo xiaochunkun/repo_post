@@ -7,3 +7,5 @@ image: assets/supabase_etl_20251105_020340_768_20251105_114610_314304--20251105T
 # [supabase/etl](https://github.com/supabase/etl/)
 
 Rust framework for real-time Postgres replication
+
+用于实时 Postgres 复制的 Rust 框架

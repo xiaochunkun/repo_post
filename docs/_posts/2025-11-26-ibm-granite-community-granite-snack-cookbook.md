@@ -7,3 +7,5 @@ image: assets/ibm_granite_community_granite_snack_cookbook_20251123_203956_684_2
 # [ibm-granite-community/granite-snack-cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook/)
 
 Python notebooks showcasing IBM Granite model capabilities
+
+展示 IBM Granite 模型能力的 Python 笔记本

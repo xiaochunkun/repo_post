@@ -7,3 +7,5 @@ image: assets/OffcierCia_non_typical_OSINT_guide_20251130_064218_233_20251130_08
 # [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide/)
 
 Guide for open source intelligence professionals
+
+开源情报专业人员指南

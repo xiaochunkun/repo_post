@@ -7,3 +7,5 @@ image: assets/PlanExeOrg_PlanExe_20260226_021854_150_20260226_022036_3fc05e.png
 # [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe)
 
 Generates strategic plans from goal statements
+
+从目标陈述生成战略计划

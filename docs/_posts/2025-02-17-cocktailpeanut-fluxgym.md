@@ -7,3 +7,5 @@ image: assets/cocktailpeanut_fluxgym_cropped.png
 # [cocktailpeanut/fluxgym](https://github.com/cocktailpeanut/fluxgym)
 
 FLUX LoRA training UI
+
+FLUX LoRA 训练 UI

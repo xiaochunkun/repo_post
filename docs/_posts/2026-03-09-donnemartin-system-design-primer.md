@@ -7,3 +7,5 @@ image: assets/donnemartin_system_design_primer_20260307_073914_946_20260307_0740
 # [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 Learn system design via flashcards and diagrams
+
+通过闪卡和图表学习系统设计

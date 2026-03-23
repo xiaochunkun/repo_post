@@ -7,3 +7,5 @@ image: assets/al1abb_invoify_cropped.png
 # [al1abb/invoify](https://github.com/al1abb/invoify)
 
 Invoice generator with Next.js and TypeScript
+
+使用 Next.js 和 TypeScript 的发票生成器

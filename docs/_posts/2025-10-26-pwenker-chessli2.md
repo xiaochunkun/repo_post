@@ -7,3 +7,5 @@ image: assets/pwenker_chessli2_20251025_053117_480_20251025_101939_b0f557--20251
 # [pwenker/chessli2](https://github.com/pwenker/chessli2/)
 
 Chess trainer that finds mistakes in your lichess.org games
+
+在lichess.org对局中查找错误的国际象棋训练器

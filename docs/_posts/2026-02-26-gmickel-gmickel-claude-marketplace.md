@@ -7,3 +7,5 @@ image: assets/gmickel_gmickel_claude_marketplace_20260213_221308_698_20260213_22
 # [gmickel/gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace)
 
 Plugins for Claude Code to automate coding workflows
+
+Claude Code的插件，用于自动化编码工作流程

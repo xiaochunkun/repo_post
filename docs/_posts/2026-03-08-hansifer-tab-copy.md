@@ -7,3 +7,5 @@ image: assets/hansifer_tab_copy_20260213_200141_211_20260213_200228_cb108c.png
 # [hansifer/tab-copy](https://github.com/hansifer/tab-copy)
 
 Exports browser tab data into multiple formats
+
+将浏览器标签数据导出为多种格式

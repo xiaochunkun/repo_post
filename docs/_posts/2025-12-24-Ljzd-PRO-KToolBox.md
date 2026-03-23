@@ -7,3 +7,5 @@ image: assets/Ljzd_PRO_KToolBox_20251222_170918_198_20251222_170936_aecb6d.png
 # [Ljzd-PRO/KToolBox](https://github.com/Ljzd-PRO/KToolBox/)
 
 Downloads content from Kemono sites via command line
+
+通过命令行从Kemono站点下载内容

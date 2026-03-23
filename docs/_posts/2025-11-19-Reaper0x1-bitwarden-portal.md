@@ -7,3 +7,5 @@ image: assets/Reaper0x1_bitwarden_portal_20251118_103658_067_20251119_191525_0e6
 # [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal/)
 
 Automates backup and restore for a Bitwarden vault
+
+自动化 Bitwarden 保险库的备份和恢复

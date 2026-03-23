@@ -7,3 +7,5 @@ image: assets/aayushmishramechatronics_ocr_translator_20260114_053525_725_202601
 # [aayushmishramechatronics/ocr-translator](https://github.com/aayushmishramechatronics/ocr-translator)
 
 Extracts text from images and translates into languages
+
+从图像中提取文本并翻译成多种语言

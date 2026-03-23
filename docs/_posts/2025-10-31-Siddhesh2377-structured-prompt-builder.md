@@ -7,3 +7,5 @@ image: assets/Siddhesh2377_structured_prompt_builder_20251031_020040_445_2025103
 # [Siddhesh2377/structured-prompt-builder](https://github.com/Siddhesh2377/structured-prompt-builder/)
 
 Browser tool for designing and optimizing AI prompts
+
+用于设计和优化 AI 提示的浏览器工具

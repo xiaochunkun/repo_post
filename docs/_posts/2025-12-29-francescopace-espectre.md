@@ -7,3 +7,5 @@ image: assets/francescopace_espectre_20251227_190614_674_20251227_190634_fdcc80.
 # [francescopace/espectre](https://github.com/francescopace/espectre/)
 
 Motion detection using Wi-Fi signals
+
+使用 Wi-Fi 信号进行运动检测

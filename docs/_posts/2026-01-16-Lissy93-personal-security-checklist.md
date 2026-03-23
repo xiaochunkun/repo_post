@@ -7,3 +7,5 @@ image: assets/Lissy93_personal_security_checklist_20260116_103001_441_20260116_1
 # [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 
 Checklist for digital security and privacy
+
+数字安全和隐私检查清单

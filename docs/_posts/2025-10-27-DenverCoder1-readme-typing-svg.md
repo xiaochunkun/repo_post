@@ -7,3 +7,5 @@ image: assets/DenverCoder1_readme_typing_svg_20251025_194953_298_20251025_230658
 # [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg/)
 
 Generates a typing SVG for a GitHub README
+
+为GitHub README生成打字SVG

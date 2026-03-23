@@ -7,3 +7,5 @@ image: assets/anomalyco_opencode_20260113_043217_970_20260113_043232_9fc42c.png
 # [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 AI agent for coding tasks
+
+用于编码任务的 AI 代理

@@ -7,3 +7,5 @@ image: assets/buxuku_SmartSub--20250905T033156786--cropped.png
 # [buxuku/SmartSub](https://github.com/buxuku/SmartSub)
 
 AI-powered subtitles and translation for videos and audio
+
+AI 驱动的视频和音频字幕生成与翻译

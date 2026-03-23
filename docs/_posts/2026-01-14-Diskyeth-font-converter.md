@@ -7,3 +7,5 @@ image: assets/Diskyeth_font_converter_20260113_011558_318_20260113_011612_dcfb76
 # [Diskyeth/font-converter](https://github.com/Diskyeth/font-converter)
 
 Converts fonts between TrueType and WOFF formats on macOS
+
+macOS 上的 TrueType 和 WOFF 字体转换器

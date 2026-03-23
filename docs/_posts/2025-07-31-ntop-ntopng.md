@@ -7,3 +7,5 @@ image: assets/ntop_ntopng_cropped.png
 # [ntop/ntopng](https://github.com/ntop/ntopng)
 
 network traffic monitoring and analytics with ntopng
+
+使用 ntopng 进行网络流量监控和分析

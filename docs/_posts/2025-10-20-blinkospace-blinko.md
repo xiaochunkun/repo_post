@@ -7,3 +7,5 @@ image: assets/blinkospace_blinko_20251020_044656_506_20251020_044957--20251020T0
 # [blinkospace/blinko](https://github.com/blinkospace/blinko/)
 
 AI-powered note-taking with RAG and data ownership
+
+AI 驱动的笔记工具，支持 RAG 和数据所有权

@@ -7,3 +7,5 @@ image: assets/ByteDance_Seed_Depth_Anything_3_20260224_112430_743_20260224_11250
 # [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)
 
 Predicts geometry from visual inputs without camera poses
+
+无需相机姿态从视觉输入预测几何

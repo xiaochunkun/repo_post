@@ -7,3 +7,5 @@ image: assets/upscayl_upscayl_cropped.png
 # [upscayl/upscayl](https://github.com/upscayl/upscayl)
 
 Open source AI image upscaler app for desktop
+
+桌面开源AI图像放大应用

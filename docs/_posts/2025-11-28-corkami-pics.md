@@ -7,3 +7,5 @@ image: assets/corkami_pics_20251125_050015_791_20251127_170441_40e565--20251127T
 # [corkami/pics](https://github.com/corkami/pics/)
 
 Visual dissections of binary file formats
+
+二进制文件格式的可视化剖析

@@ -7,3 +7,5 @@ image: assets/firefly_iii_data_importer_20251127_195732_079_20251130_082839_7a66
 # [firefly-iii/data-importer](https://github.com/firefly-iii/data-importer/)
 
 Imports bank transactions into Firefly III
+
+将银行交易导入 Firefly III

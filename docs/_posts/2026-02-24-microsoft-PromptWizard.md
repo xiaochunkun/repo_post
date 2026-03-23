@@ -7,3 +7,5 @@ image: assets/microsoft_PromptWizard_20260212_025847_472_20260212_025901_d7517b.
 # [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard)
 
 Optimizes prompts through iterative feedback and synthesis
+
+通过迭代反馈和合成优化提示

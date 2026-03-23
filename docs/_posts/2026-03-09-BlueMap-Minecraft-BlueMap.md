@@ -7,3 +7,5 @@ image: assets/BlueMap_Minecraft_BlueMap_20260309_103946_544_20260309_104112_dcdb
 # [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
 
 3D maps of Minecraft worlds in a browser
+
+浏览器中的Minecraft世界3D地图

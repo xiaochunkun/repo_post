@@ -7,3 +7,5 @@ image: assets/addyosmani_bg_remove_20251031_063535_328_20251101_205002_73cbc1--2
 # [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove/)
 
 Removes image backgrounds in the browser using Transformers.js
+
+使用 Transformers.js 在浏览器中移除图像背景

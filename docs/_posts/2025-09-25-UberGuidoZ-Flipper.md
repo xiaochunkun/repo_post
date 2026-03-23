@@ -7,3 +7,5 @@ image: assets/20250925T044958109--UberGuidoZ--Flipper--20250925T045540935--cropp
 # [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper)
 
 Collection of Flipper Zero mods, research, and IR codes
+
+Flipper Zero修改、研究和红外代码的集合

@@ -7,3 +7,5 @@ image: assets/RealMikeChong_ultra-mcp_cropped.png
 # [RealMikeChong/ultra-mcp](https://github.com/RealMikeChong/ultra-mcp)
 
 connect Claude, Gemini, Cursor, and coding tools with MCP
+
+通过 MCP 连接 Claude、Gemini、Cursor 和编码工具

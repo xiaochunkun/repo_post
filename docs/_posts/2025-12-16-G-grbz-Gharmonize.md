@@ -7,3 +7,5 @@ image: assets/G_grbz_Gharmonize_20251215_011529_655_20251215_011600_2829dc.png
 # [G-grbz/Gharmonize](https://github.com/G-grbz/Gharmonize/)
 
 GPU-accelerated media converter for YouTube, Spotify, and discs
+
+支持YouTube、Spotify和光盘的GPU加速媒体转换器

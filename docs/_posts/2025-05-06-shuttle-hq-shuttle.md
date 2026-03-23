@@ -7,3 +7,5 @@ image: assets/shuttle-hq_shuttle_cropped.png
 # [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)
 
 Rust app deployment platform with simple resource provisioning
+
+Rust 应用部署平台，提供简单的资源供应

@@ -7,3 +7,5 @@ image: assets/obsidianmd_jsoncanvas_20251031_052244_905_20251031_210240_19d27a--
 # [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas/)
 
 JSON file format for infinite canvas apps
+
+无限画布应用的 JSON 文件格式

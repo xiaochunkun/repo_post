@@ -7,3 +7,5 @@ image: assets/dstotijn_hetty_20251020_054839_440_20251020_055547--20251020T07554
 # [dstotijn/hetty](https://github.com/dstotijn/hetty/)
 
 MITM HTTP proxy for security research
+
+用于安全研究的 MITM HTTP 代理

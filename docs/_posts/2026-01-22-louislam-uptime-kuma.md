@@ -7,3 +7,5 @@ image: assets/louislam_uptime_kuma_20260122_011239_062_20260122_011255_c0b3a2.pn
 # [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 Self-hosted monitoring tool for services and servers
+
+用于服务和服务器的自托管监控工具

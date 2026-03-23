@@ -7,3 +7,5 @@ image: assets/senaykt_cloud_security_resources_20251213_062846_280_20251213_0629
 # [senaykt/cloud-security-resources](https://github.com/senaykt/cloud-security-resources/)
 
 Collection of cloud security tools and resources
+
+云安全工具和资源集合

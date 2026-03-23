@@ -7,3 +7,5 @@ image: assets/mmarinovic_React2AWS_20260226_035031_133_20260226_035154_cbc602.pn
 # [mmarinovic/React2AWS](https://github.com/mmarinovic/React2AWS)
 
 JSX syntax for Terraform infrastructure
+
+Terraform基础设施的JSX语法

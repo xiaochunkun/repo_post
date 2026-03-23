@@ -7,3 +7,5 @@ image: assets/johannschopplich_toon_20251029_185116_196_20251030_010001_3bbbf9--
 # [johannschopplich/toon](https://github.com/johannschopplich/toon/)
 
 A data format for LLMs that reduces token usage
+
+减少令牌使用的 LLM 数据格式

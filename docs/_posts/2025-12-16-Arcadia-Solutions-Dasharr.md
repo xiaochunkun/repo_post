@@ -7,3 +7,5 @@ image: assets/Arcadia_Solutions_Dasharr_20251213_122424_125_20251213_122507_3067
 # [Arcadia-Solutions/Dasharr](https://github.com/Arcadia-Solutions/Dasharr/)
 
 Dashboard for tracking torrent indexer usage stats
+
+追踪种子索引器使用统计的仪表板

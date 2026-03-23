@@ -7,3 +7,5 @@ image: assets/antfu_node_modules_inspector_20260310_223016_133_20260310_223233_b
 # [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector)
 
 Visualizes Node.js dependency trees in real time
+
+实时可视化Node.js依赖树

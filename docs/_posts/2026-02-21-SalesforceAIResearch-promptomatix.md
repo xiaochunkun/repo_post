@@ -7,3 +7,5 @@ image: assets/SalesforceAIResearch_promptomatix_20260220_150258_488_20260220_150
 # [SalesforceAIResearch/promptomatix](https://github.com/SalesforceAIResearch/promptomatix)
 
 Optimizes prompts using synthetic data and feedback
+
+使用合成数据和反馈优化提示

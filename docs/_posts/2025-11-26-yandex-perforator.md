@@ -7,3 +7,5 @@ image: assets/yandex_perforator_20251124_235350_912_20251125_224812_0c5bd3--2025
 # [yandex/perforator](https://github.com/yandex/perforator/)
 
 Cluster-wide continuous profiling tool
+
+集群范围的持续性能分析工具

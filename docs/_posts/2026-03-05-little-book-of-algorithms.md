@@ -7,3 +7,5 @@ image: assets/little_book_of_algorithms_20260226_081111_763_20260226_081243_7029
 # [little-book-of/algorithms](https://github.com/little-book-of/algorithms)
 
 Algorithms book with Quarto source code
+
+包含Quarto源代码的算法书籍

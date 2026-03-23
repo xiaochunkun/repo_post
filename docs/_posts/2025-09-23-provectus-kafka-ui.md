@@ -7,3 +7,5 @@ image: assets/20250923T024724695--provectus--kafka-ui--20250923T032150397--cropp
 # [provectus/kafka-ui](https://github.com/provectus/kafka-ui)
 
 web UI for managing and monitoring Apache Kafka clusters
+
+用于管理和监控 Apache Kafka 集群的 Web UI

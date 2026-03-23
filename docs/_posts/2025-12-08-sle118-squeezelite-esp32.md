@@ -7,3 +7,5 @@ image: assets/sle118_squeezelite_esp32_20251207_165919_263_20251207_165954_e2a99
 # [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32/)
 
 ESP32 audio streaming software suite
+
+ESP32音频流媒体软件套件

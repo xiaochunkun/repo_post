@@ -7,3 +7,5 @@ image: assets/root-gg_plik--20250830T035816884--cropped.png
 # [root-gg/plik](https://github.com/root-gg/plik)
 
 temporary file sharing server in Go
+
+Go 编写的临时文件分享服务器

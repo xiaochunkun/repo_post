@@ -7,3 +7,5 @@ image: assets/SpriteOvO_AirPodsDesktop_20260323_010016_818_20260323_010217_f38dd
 # [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
 AirPods battery display for Windows and Linux
+
+适用于Windows和Linux的AirPods电量显示

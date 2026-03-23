@@ -7,3 +7,5 @@ image: assets/mq1_TinyWiiBackupManager_20251225_164541_180_20251225_164603_5f718
 # [mq1/TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager/)
 
 Manages Wii and GameCube game backups and homebrew apps
+
+管理 Wii 和 GameCube 游戏备份和自制应用

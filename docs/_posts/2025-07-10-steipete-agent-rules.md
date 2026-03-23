@@ -7,3 +7,5 @@ image: assets/steipete_agent-rules_cropped.png
 # [steipete/agent-rules](https://github.com/steipete/agent-rules)
 
 rules and knowledge for working with agents like Claude Code or Cursor
+
+用于处理Claude Code或Cursor等代理的规则和知识

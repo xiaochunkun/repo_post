@@ -7,3 +7,5 @@ image: assets/shadcnblocks_shadcn_ui_blocks_20260106_122256_253_20260106_122312_
 # [shadcnblocks/shadcn-ui-blocks](https://github.com/shadcnblocks/shadcn-ui-blocks/)
 
 Marketing blocks for Tailwind and React
+
+Tailwind 和 React 的营销区块

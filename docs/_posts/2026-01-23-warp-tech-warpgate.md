@@ -7,3 +7,5 @@ image: assets/warp_tech_warpgate_20260122_020627_913_20260122_020649_34c8fa.png
 # [warp-tech/warpgate](https://github.com/warp-tech/warpgate)
 
 Bastion host for SSH, HTTPS, and database access
+
+SSH、HTTPS和数据库访问的堡垒主机

@@ -7,3 +7,5 @@ image: assets/patrykandpatrick_vico_20251107_000956_037_20251107_214643_2bacac--
 # [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico/)
 
 Multiplatform chart library for Jetpack Compose
+
+适用于Jetpack Compose的多平台图表库

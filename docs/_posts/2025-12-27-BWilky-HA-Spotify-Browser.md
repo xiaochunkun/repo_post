@@ -7,3 +7,5 @@ image: assets/BWilky_HA_Spotify_Browser_20251226_060057_151_20251226_060113_814f
 # [BWilky/HA-Spotify-Browser](https://github.com/BWilky/HA-Spotify-Browser/)
 
 Spotify browser for Home Assistant dashboards
+
+用于 Home Assistant 仪表板的 Spotify 浏览器

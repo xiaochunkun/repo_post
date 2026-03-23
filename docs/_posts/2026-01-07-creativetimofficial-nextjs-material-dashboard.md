@@ -7,3 +7,5 @@ image: assets/creativetimofficial_nextjs_material_dashboard_20260106_171456_227_
 # [creativetimofficial/nextjs-material-dashboard](https://github.com/creativetimofficial/nextjs-material-dashboard/)
 
 Admin dashboard with Material Design for Next.js
+
+用于 Next.js 的 Material Design 管理仪表板

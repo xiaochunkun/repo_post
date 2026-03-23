@@ -7,3 +7,5 @@ image: assets/nabeelhyatt_coworkpowers_20260305_064857_566_20260305_065023_2ed78
 # [nabeelhyatt/coworkpowers](https://github.com/nabeelhyatt/coworkpowers)
 
 Plugin for Claude Code to automate knowledge work through research and feedback loops
+
+Claude Code 插件，通过研究和反馈循环自动化知识工作

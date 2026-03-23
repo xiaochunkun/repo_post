@@ -7,3 +7,5 @@ image: assets/hoophq_hoop_20260126_123802_221_20260126_123837_cbb0d9.png
 # [hoophq/hoop](https://github.com/hoophq/hoop)
 
 Access proxy masking data and blocking commands
+
+数据掩蔽和命令拦截的访问代理

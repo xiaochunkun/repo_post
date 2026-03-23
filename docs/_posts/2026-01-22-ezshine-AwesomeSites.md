@@ -7,3 +7,5 @@ image: assets/ezshine_AwesomeSites_20260122_025315_026_20260122_025341_1900e3.pn
 # [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites)
 
 Backups of websites for front-end study
+
+用于前端学习的网站备份

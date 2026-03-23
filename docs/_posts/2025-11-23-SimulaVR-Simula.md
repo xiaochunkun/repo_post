@@ -7,3 +7,5 @@ image: assets/SimulaVR_Simula_20251122_202051_703_20251123_001526_169289--202511
 # [SimulaVR/Simula](https://github.com/SimulaVR/Simula/)
 
 VR window manager for Linux on Godot
+
+基于Godot的Linux VR窗口管理器

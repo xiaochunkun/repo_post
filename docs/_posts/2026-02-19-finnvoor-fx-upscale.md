@@ -7,3 +7,5 @@ image: assets/finnvoor_fx_upscale_20260212_133823_009_20260212_133847_b1f354.png
 # [finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale)
 
 Upscales video using Metal
+
+使用Metal进行视频超分辨率

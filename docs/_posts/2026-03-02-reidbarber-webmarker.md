@@ -7,3 +7,5 @@ image: assets/reidbarber_webmarker_20260228_193135_953_20260228_193338_1e0487.pn
 # [reidbarber/webmarker](https://github.com/reidbarber/webmarker)
 
 Labels web elements for vision-language models
+
+为视觉语言模型标记 Web 元素

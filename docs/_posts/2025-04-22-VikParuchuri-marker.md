@@ -7,3 +7,5 @@ image: assets/VikParuchuri_marker_cropped.png
 # [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
 
 convert PDF or document files to markdown, JSON, or HTML
+
+将PDF或文档文件转换为markdown、JSON或HTML

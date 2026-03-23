@@ -7,3 +7,5 @@ image: assets/BradGroux_veritas_kanban_20260212_002421_715_20260212_030705_83dce
 # [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban)
 
 Kanban board for AI agents
+
+AI代理的看板工具

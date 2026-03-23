@@ -7,3 +7,5 @@ image: assets/mlc_ai_web_llm_chat_20260128_215504_344_20260128_215546_f9ad15.png
 # [mlc-ai/web-llm-chat](https://github.com/mlc-ai/web-llm-chat)
 
 Runs large language models in the browser with WebGPU acceleration
+
+在浏览器中运行大语言模型，使用WebGPU加速

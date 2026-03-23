@@ -7,3 +7,5 @@ image: assets/20250903T235231460--kyutai-labs--moshi--20250903T235657707--croppe
 # [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi)
 
 real-time speech-to-speech AI model for natural conversations
+
+实时语音对语音 AI 模型，实现自然对话

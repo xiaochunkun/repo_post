@@ -7,3 +7,5 @@ image: assets/devanshbatham_Everything_About_DNS_20251207_182739_767_20251207_18
 # [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS/)
 
 Explains DNS at varying complexity levels
+
+以不同复杂度级别解释 DNS

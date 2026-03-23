@@ -7,3 +7,5 @@ image: assets/myugan_awesome_cicd_security_20251030_230933_531_20251030_235309_8
 # [myugan/awesome-cicd-security](https://github.com/myugan/awesome-cicd-security/)
 
 List of resources about CI/CD security
+
+关于 CI/CD 安全的资源列表

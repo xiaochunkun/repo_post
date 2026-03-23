@@ -7,3 +7,5 @@ image: assets/mathesar_foundation_mathesar_20260204_035320_655_20260204_035341_f
 # [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)
 
 Spreadsheet interface for Postgres databases
+
+Postgres数据库的电子表格界面

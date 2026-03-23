@@ -7,3 +7,5 @@ image: assets/superhighfives_pika_20251106_152100_894_20251106_174339_40596c--20
 # [superhighfives/pika](https://github.com/superhighfives/pika/)
 
 Open-source macOS colour picker that checks contrast ratios
+
+检查对比度的开源macOS颜色选择器

@@ -7,3 +7,5 @@ image: assets/thedevdojo_pines_cropped.png
 # [thedevdojo/pines](https://github.com/thedevdojo/pines)
 
 UI components for Tailwind and Alpine projects
+
+Tailwind和Alpine项目的UI组件

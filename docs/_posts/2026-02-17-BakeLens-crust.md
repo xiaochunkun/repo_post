@@ -7,3 +7,5 @@ image: assets/BakeLens_crust_20260216_204843_929_20260216_204934_da07c4.png
 # [BakeLens/crust](https://github.com/BakeLens/crust)
 
 Blocks dangerous tool calls from AI agents
+
+阻止AI代理的危险工具调用

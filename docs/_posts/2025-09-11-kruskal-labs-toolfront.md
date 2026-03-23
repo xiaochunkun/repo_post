@@ -7,3 +7,5 @@ image: assets/20250911T015804830--kruskal-labs--toolfront--20250911T023033890--c
 # [kruskal-labs/toolfront](https://github.com/kruskal-labs/toolfront)
 
 Connect AI to your databases and APIs for natural language data retrieval
+
+将 AI 连接到数据库和 API，实现自然语言数据查询

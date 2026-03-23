@@ -7,3 +7,5 @@ image: assets/tambo_ai_tambo_20260220_145751_580_20260220_145816_e56479.png
 # [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
 
 React components for streaming agent interfaces with MCP support
+
+支持MCP的流式代理界面React组件

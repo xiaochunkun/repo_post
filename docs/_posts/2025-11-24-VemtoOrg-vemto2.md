@@ -7,3 +7,5 @@ image: assets/VemtoOrg_vemto2_20251123_174204_497_20251124_095311_797404--202511
 # [VemtoOrg/vemto2](https://github.com/VemtoOrg/vemto2/)
 
 Desktop application generating Laravel code from schemas
+
+从模式生成 Laravel 代码的桌面应用

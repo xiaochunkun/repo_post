@@ -7,3 +7,5 @@ image: assets/G4brym_email_explorer_20260305_140638_162_20260305_140802_eb0a4b.p
 # [G4brym/email-explorer](https://github.com/G4brym/email-explorer)
 
 Email client on Cloudflare Workers
+
+基于 Cloudflare Workers 的邮件客户端

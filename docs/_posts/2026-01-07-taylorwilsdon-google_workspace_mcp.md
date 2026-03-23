@@ -7,3 +7,5 @@ image: assets/taylorwilsdon_google_workspace_mcp_20260106_193644_540_20260106_19
 # [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp/)
 
 Controls Google Workspace through MCP clients
+
+通过 MCP 客户端控制 Google Workspace

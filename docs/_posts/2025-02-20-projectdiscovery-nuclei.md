@@ -7,3 +7,5 @@ image: assets/projectdiscovery_nuclei_cropped.png
 # [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
 
 Vulnerability scanner using YAML templates
+
+使用YAML模板的漏洞扫描器

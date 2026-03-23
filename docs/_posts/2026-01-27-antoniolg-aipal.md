@@ -7,3 +7,5 @@ image: assets/antoniolg_aipal_20260116_100141_601_20260116_100155_11aad5.png
 # [antoniolg/aipal](https://github.com/antoniolg/aipal)
 
 Telegram bot for local agent CLIs
+
+用于本地agent CLI的Telegram机器人

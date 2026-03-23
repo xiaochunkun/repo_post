@@ -7,3 +7,5 @@ image: assets/huggingface_agents_course_20260214_173846_409_20260214_173936_c518
 # [huggingface/agents-course](https://github.com/huggingface/agents-course)
 
 Course on building agents with smolagents and LangGraph
+
+使用smolagents和LangGraph构建代理的课程

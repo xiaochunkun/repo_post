@@ -7,3 +7,5 @@ image: assets/firecrawl_fire_enrich_20251209_000123_700_20251209_000148_6cdeb8.p
 # [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich/)
 
 Enriches email lists with company data using AI
+
+使用AI为邮件列表丰富公司数据

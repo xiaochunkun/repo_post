@@ -7,3 +7,5 @@ image: assets/20250826T030057678--ByteDance-Seed--m3-agent--20250826T030710114--
 # [ByteDance-Seed/m3-agent](https://github.com/ByteDance-Seed/m3-agent)
 
 multimodal agent with long-term memory for real-time visual and audio reasoning
+
+多模态智能体，支持长期记忆和实时视觉音频推理

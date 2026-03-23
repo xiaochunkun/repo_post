@@ -7,3 +7,5 @@ image: assets/bee_san_Ciphey_20260211_085053_118_20260211_085133_ee9b21.png
 # [bee-san/Ciphey](https://github.com/bee-san/Ciphey)
 
 Decrypts text without keys or ciphers
+
+无需密钥或密码解密文本

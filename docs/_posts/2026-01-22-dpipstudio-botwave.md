@@ -7,3 +7,5 @@ image: assets/dpipstudio_botwave_20260111_180512_762_20260111_180528_e46ac4.png
 # [dpipstudio/botwave](https://github.com/dpipstudio/botwave)
 
 FM radio network via Raspberry Pi hardware
+
+通过Raspberry Pi硬件实现的FM无线电网络

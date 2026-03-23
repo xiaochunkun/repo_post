@@ -7,3 +7,5 @@ image: assets/11notes_docker_traefik_20251215_004041_436_20251215_004104_c47e8b.
 # [11notes/docker-traefik](https://github.com/11notes/docker-traefik/)
 
 Rootless and distroless HTTP reverse proxy image
+
+无根和无发行版的HTTP反向代理镜像

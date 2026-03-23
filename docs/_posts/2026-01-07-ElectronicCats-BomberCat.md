@@ -7,3 +7,5 @@ image: assets/ElectronicCats_BomberCat_20260107_003300_144_20260107_003320_48960
 # [ElectronicCats/BomberCat](https://github.com/ElectronicCats/BomberCat/)
 
 Audits NFC and magnetic stripe technologies
+
+审计 NFC 和磁条技术

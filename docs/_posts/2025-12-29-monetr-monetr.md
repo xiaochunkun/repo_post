@@ -7,3 +7,5 @@ image: assets/monetr_monetr_20251227_211121_534_20251227_211140_c72b1a.png
 # [monetr/monetr](https://github.com/monetr/monetr/)
 
 Budgeting application for recurring expenses
+
+用于定期支出的预算应用

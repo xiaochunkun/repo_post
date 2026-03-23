@@ -7,3 +7,5 @@ image: assets/winedarksea_AutoTS_20260202_225225_125_20260202_225254_abe6b8.png
 # [winedarksea/AutoTS](https://github.com/winedarksea/AutoTS)
 
 Automates time series forecasting with genetic algorithms
+
+使用遗传算法自动化时间序列预测

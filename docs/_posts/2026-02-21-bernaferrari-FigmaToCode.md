@@ -7,3 +7,5 @@ image: assets/bernaferrari_FigmaToCode_20260203_020952_848_20260203_021018_1702a
 # [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode)
 
 Converts Figma designs into responsive code
+
+将 Figma 设计转换为响应式代码

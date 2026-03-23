@@ -7,3 +7,5 @@ image: assets/belav_csharpier_20251208_224851_421_20251208_224913_a56803.png
 # [belav/csharpier](https://github.com/belav/csharpier/)
 
 Code formatter for C# and XML
+
+C#和XML的代码格式化工具

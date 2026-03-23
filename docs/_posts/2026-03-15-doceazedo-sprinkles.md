@@ -7,3 +7,5 @@ image: assets/doceazedo_sprinkles_20260309_183258_413_20260309_183446_083d50.png
 # [doceazedo/sprinkles](https://github.com/doceazedo/sprinkles)
 
 GPU particle system and editor for Bevy
+
+Bevy 的 GPU 粒子系统和编辑器

@@ -7,3 +7,5 @@ image: assets/unfoldadmin_django_unfold_20260208_085134_321_20260208_085159_a1bf
 # [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold)
 
 Tailwind CSS theme for Django admin
+
+Django管理后台的Tailwind CSS主题

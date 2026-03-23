@@ -7,3 +7,5 @@ image: assets/bigstack_oss_cubecos_20260128_133956_513_20260128_134041_df4989.pn
 # [bigstack-oss/cubecos](https://github.com/bigstack-oss/cubecos)
 
 Platform for virtualization, Kubernetes, and OpenStack infrastructure
+
+虚拟化、Kubernetes 和 OpenStack 基础设施平台

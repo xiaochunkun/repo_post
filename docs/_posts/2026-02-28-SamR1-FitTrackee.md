@@ -7,3 +7,5 @@ image: assets/SamR1_FitTrackee_20260228_005432_656_20260228_005612_37bfce.png
 # [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee)
 
 Self-hosted outdoor activity tracker with data on your server
+
+自托管户外活动追踪器，数据存储在您的服务器上

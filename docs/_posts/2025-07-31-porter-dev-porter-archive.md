@@ -7,3 +7,5 @@ image: assets/porter-dev_porter-archive_cropped.png
 # [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive)
 
 Kubernetes PaaS for your own cloud, Heroku-style deploys
+
+用于您自己云的 Kubernetes PaaS，Heroku 风格部署

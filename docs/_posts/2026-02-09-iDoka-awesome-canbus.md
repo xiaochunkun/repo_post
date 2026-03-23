@@ -7,3 +7,5 @@ image: assets/iDoka_awesome_canbus_20260205_180116_641_20260205_180130_714b38.pn
 # [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus)
 
 Resources for reverse engineering CAN bus devices
+
+用于逆向工程CAN总线设备的资源

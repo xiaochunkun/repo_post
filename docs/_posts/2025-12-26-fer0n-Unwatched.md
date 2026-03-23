@@ -7,3 +7,5 @@ image: assets/fer0n_Unwatched_20251225_105154_540_20251225_105219_1125b6.png
 # [fer0n/Unwatched](https://github.com/fer0n/Unwatched/)
 
 RSS YouTube player for Apple devices with chapter skipping and no ads
+
+适用于 Apple 设备的 RSS YouTube 播放器，支持章节跳过和无广告

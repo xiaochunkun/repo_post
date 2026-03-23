@@ -7,3 +7,5 @@ image: assets/RyanFitzgerald_devportfolio_20251201_023314_809_20251201_023339_be
 # [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio/)
 
 Portfolio template built with Astro and Tailwind CSS
+
+基于 Astro 和 Tailwind CSS 构建的作品集模板

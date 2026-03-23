@@ -7,3 +7,5 @@ image: assets/alexjustesen_speedtest_tracker_20260122_022720_881_20260122_022738
 # [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
 
 Schedules speed tests and tracks internet performance over time
+
+安排速度测试并追踪互联网性能

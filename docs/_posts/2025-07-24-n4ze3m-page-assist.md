@@ -7,3 +7,5 @@ image: assets/n4ze3m_page-assist_cropped.png
 # [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist)
 
 browser sidebar to chat with your local AI models
+
+浏览器侧边栏，与本地AI模型聊天

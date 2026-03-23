@@ -7,3 +7,5 @@ image: assets/20250906T222510080--facebook--lexical--20250908T100114852--cropped
 # [facebook/lexical](https://github.com/facebook/lexical)
 
 JavaScript framework for building web text editors
+
+用于构建 Web 文本编辑器的 JavaScript 框架

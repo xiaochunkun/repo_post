@@ -7,3 +7,5 @@ image: assets/achristmascarl_rainfrog_cropped.png
 # [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)
 
 Terminal-based PostgreSQL database management tool with vim-like navigation
+
+基于终端的PostgreSQL数据库管理工具，支持类vim导航

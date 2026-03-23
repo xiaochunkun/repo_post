@@ -7,3 +7,5 @@ image: assets/VonKleistL_OptiMac_20251205_010919_436_20251205_010942_679428.png
 # [VonKleistL/OptiMac](https://github.com/VonKleistL/OptiMac/)
 
 MacOS optimization suite written in SwiftUI
+
+用SwiftUI编写的MacOS优化套件

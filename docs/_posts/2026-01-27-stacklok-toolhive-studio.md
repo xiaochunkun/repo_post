@@ -7,3 +7,5 @@ image: assets/stacklok_toolhive_studio_20260113_161616_282_20260113_161630_e53a9
 # [stacklok/toolhive-studio](https://github.com/stacklok/toolhive-studio)
 
 Runs MCP servers in containers
+
+在容器中运行MCP服务器

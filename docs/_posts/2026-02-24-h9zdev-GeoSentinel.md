@@ -7,3 +7,5 @@ image: assets/h9zdev_GeoSentinel_20260224_193440_289_20260224_193457_c9588e.png
 # [h9zdev/GeoSentinel](https://github.com/h9zdev/GeoSentinel)
 
 Aggregates transit data for visualization
+
+聚合交通数据以进行可视化

@@ -7,3 +7,5 @@ image: assets/hackerschoice_thc_tips_tricks_hacks_cheat_sheet_20251221_050507_18
 # [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet/)
 
 Linux tips and tricks for hackers
+
+黑客 Linux 技巧与窍门速查表

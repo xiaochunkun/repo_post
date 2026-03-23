@@ -7,3 +7,5 @@ image: assets/PranshulGG_WeatherMaster_20260203_185842_241_20260203_185906_dda00
 # [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 
 Weather app inspired by the Google Pixel
+
+受 Google Pixel 启发的天气应用

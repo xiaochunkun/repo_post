@@ -7,3 +7,5 @@ image: assets/xingyaoww_code_act_20251207_233746_699_20251207_233811_7fe612.png
 # [xingyaoww/code-act](https://github.com/xingyaoww/code-act/)
 
 Consolidates LLM agent actions into executable code
+
+将LLM Agent操作整合为可执行代码

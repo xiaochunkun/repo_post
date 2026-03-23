@@ -7,3 +7,5 @@ image: assets/brickbots_framedeck_20260116_134955_268_20260116_135021_5d8935.png
 # [brickbots/framedeck](https://github.com/brickbots/framedeck)
 
 Cyberdeck with a laptop mainboard
+
+带笔记本电脑主板的Cyberdeck

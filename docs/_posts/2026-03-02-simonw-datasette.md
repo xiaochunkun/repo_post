@@ -7,3 +7,5 @@ image: assets/simonw_datasette_20260301_205014_655_20260301_205154_8353d0.png
 # [simonw/datasette](https://github.com/simonw/datasette)
 
 Publishes data as interactive websites with APIs
+
+将数据发布为带 API 的交互式网站

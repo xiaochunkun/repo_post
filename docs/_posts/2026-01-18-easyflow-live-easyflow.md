@@ -7,3 +7,5 @@ image: assets/easyflow_live_easyflow_20260116_232244_146_20260116_232301_8f61c2.
 # [easyflow-live/easyflow](https://github.com/easyflow-live/easyflow)
 
 Kanban project manager for collaboration in real time
+
+实时协作的看板项目管理工具

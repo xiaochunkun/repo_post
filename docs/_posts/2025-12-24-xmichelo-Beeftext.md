@@ -7,3 +7,5 @@ image: assets/xmichelo_Beeftext_20251223_031754_926_20251223_031811_2fdcfc.png
 # [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext/)
 
 Text snippet management tool for Windows
+
+Windows文本片段管理工具

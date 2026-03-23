@@ -7,3 +7,5 @@ image: assets/autodistill_autodistill_20251210_014703_225_20251210_014729_642f75
 # [autodistill/autodistill](https://github.com/autodistill/autodistill/)
 
 Uses foundation models to train supervised models
+
+使用基础模型训练监督模型

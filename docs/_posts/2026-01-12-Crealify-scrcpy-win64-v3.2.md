@@ -7,3 +7,5 @@ image: assets/Crealify_scrcpy_win64_v3_2_20260111_150519_879_20260111_150533_ec8
 # [Crealify/scrcpy-win64-v3.2](https://github.com/Crealify/scrcpy-win64-v3.2)
 
 Mirrors and controls Android devices from a PC
+
+从 PC 镜像和控制 Android 设备

@@ -7,3 +7,5 @@ image: assets/underthestars_zhy_IconChanger_20260209_233818_038_20260209_233840_
 # [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger)
 
 Changes app icons on macOS
+
+更改macOS应用图标

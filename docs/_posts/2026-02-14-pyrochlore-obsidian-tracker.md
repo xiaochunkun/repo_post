@@ -7,3 +7,5 @@ image: assets/pyrochlore_obsidian_tracker_20260120_032507_047_20260120_032520_c8
 # [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
 
 Visualizes data from notes into charts and calendars
+
+将笔记数据可视化为图表和日历

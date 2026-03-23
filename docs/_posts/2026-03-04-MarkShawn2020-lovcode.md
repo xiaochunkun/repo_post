@@ -7,3 +7,5 @@ image: assets/MarkShawn2020_lovcode_20260210_153535_797_20260210_153941_220223.p
 # [MarkShawn2020/lovcode](https://github.com/MarkShawn2020/lovcode)
 
 Interface for managing AI coding tool configurations and history
+
+管理AI编码工具配置和历史的界面

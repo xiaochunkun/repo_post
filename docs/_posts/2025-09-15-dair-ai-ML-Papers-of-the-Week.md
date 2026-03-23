@@ -7,3 +7,5 @@ image: assets/20250912T181901157--dair-ai--ML-Papers-of-the-Week--20250915T04402
 # [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 
 weekly picks of trending ML research papers
+
+每周精选热门 ML 研究论文

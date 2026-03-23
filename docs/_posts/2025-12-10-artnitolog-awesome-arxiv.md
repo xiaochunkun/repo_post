@@ -7,3 +7,5 @@ image: assets/artnitolog_awesome_arxiv_20251207_232424_220_20251207_232445_16461
 # [artnitolog/awesome-arxiv](https://github.com/artnitolog/awesome-arxiv/)
 
 Curated tools for arXiv papers
+
+arXiv论文的精选工具集

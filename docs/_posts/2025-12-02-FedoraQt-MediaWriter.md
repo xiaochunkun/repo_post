@@ -7,3 +7,5 @@ image: assets/FedoraQt_MediaWriter_20251201_023544_483_20251201_023725_3d3452.pn
 # [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter/)
 
 Writes Fedora images to portable drives
+
+将Fedora镜像写入便携驱动器

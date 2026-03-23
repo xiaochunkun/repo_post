@@ -7,3 +7,5 @@ image: assets/PoloDB_PoloDB_cropped.png
 # [PoloDB/PoloDB](https://github.com/PoloDB/PoloDB)
 
 embedded NoSQL database with MongoDB-like API in Rust
+
+Rust中类似MongoDB API的嵌入式NoSQL数据库

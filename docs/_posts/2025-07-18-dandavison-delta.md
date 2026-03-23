@@ -7,3 +7,5 @@ image: assets/dandavison_delta_cropped.png
 # [dandavison/delta](https://github.com/dandavison/delta)
 
 syntax highlighting for git diffs in the terminal
+
+终端中 git diff 的语法高亮

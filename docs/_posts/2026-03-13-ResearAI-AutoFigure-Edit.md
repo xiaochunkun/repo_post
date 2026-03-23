@@ -7,3 +7,5 @@ image: assets/ResearAI_AutoFigure_Edit_20260311_022810_381_20260311_023019_bd5b0
 # [ResearAI/AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
 
 Generates publication-ready scientific illustrations from text
+
+从文本生成可直接发表的科学插图

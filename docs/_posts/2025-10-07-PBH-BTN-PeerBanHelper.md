@@ -7,3 +7,5 @@ image: assets/20251007T015816896--PBH-BTN--PeerBanHelper--20251007T024939118--cr
 # [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)
 
 auto bans unwanted or leeching BitTorrent peers, supports custom rules
+
+自动封禁不需要或吸血 BitTorrent 对等节点，支持自定义规则

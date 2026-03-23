@@ -7,3 +7,5 @@ image: assets/SeaDve_Kooha_20251210_035613_641_20251210_035647_355092.png
 # [SeaDve/Kooha](https://github.com/SeaDve/Kooha/)
 
 Screen recorder for GNOME with Wayland support
+
+支持 Wayland 的 GNOME 屏幕录制器

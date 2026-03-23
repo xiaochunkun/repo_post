@@ -7,3 +7,5 @@ image: assets/stevedylandev_bhvr_cropped.png
 # [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr)
 
 monorepo starter with Bun, Hono, Vite, React
+
+使用 Bun、Hono、Vite、React 的 monorepo 启动器

@@ -7,3 +7,5 @@ image: assets/20250907T195738823--weaviate--elysia--20250907T195931679--cropped.
 # [weaviate/elysia](https://github.com/weaviate/elysia)
 
 agentic RAG framework using decision trees for smarter data handling
+
+基于决策树的智能体 RAG 框架，实现更智能的数据处理

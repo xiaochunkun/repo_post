@@ -7,3 +7,5 @@ image: assets/gitroomhq_postiz_app_20251018_235743_634_20251019_002255--20251019
 # [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app/)
 
 AI social media scheduling tool
+
+AI 社交媒体调度工具

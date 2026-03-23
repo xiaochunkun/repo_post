@@ -7,3 +7,5 @@ image: assets/datalab_to_surya_20260211_083708_380_20260211_083731_a4cca7.png
 # [datalab-to/surya](https://github.com/datalab-to/surya)
 
 OCR toolkit for document analysis and layout recognition
+
+文档分析和布局识别的OCR工具包

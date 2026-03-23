@@ -7,3 +7,5 @@ image: assets/edgelesssys_constellation_20251029_233841_363_20251030_004032_4efb
 # [edgelesssys/constellation](https://github.com/edgelesssys/constellation/)
 
 Kubernetes engine for confidential computing
+
+用于机密计算的 Kubernetes 引擎

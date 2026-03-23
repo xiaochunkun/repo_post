@@ -7,3 +7,5 @@ image: assets/20250818T114506324_projectsend_projectsend--20250822T025748214--cr
 # [projectsend/projectsend](https://github.com/projectsend/projectsend)
 
 self-hosted file sharing for clients
+
+自托管的客户文件分享平台

@@ -7,3 +7,5 @@ image: assets/Team_xManager_xManager_20251228_063317_606_20251228_063336_7f99d0.
 # [Team-xManager/xManager](https://github.com/Team-xManager/xManager/)
 
 Manager for music streaming app versions
+
+音乐流媒体应用版本管理器

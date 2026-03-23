@@ -7,3 +7,5 @@ image: assets/20251010T212300696--sktime--pytorch-forecasting--20251010T21300344
 # [sktime/pytorch-forecasting](https://github.com/sktime/pytorch-forecasting)
 
 neural networks for time series forecasting with multiple architectures and built-in interpretability
+
+用于时间序列预测的神经网络，支持多种架构和内置可解释性

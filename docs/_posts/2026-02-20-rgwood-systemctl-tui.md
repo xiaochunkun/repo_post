@@ -7,3 +7,5 @@ image: assets/rgwood_systemctl_tui_20260205_211118_436_20260205_211134_b4a94d.pn
 # [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui)
 
 TUI for systemd services and logs
+
+systemd 服务和日志的 TUI

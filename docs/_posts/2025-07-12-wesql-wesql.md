@@ -7,3 +7,5 @@ image: assets/wesql_wesql_cropped.png
 # [wesql/wesql](https://github.com/wesql/wesql)
 
 cloud MySQL with S3 storage, runs anywhere
+
+基于S3存储的云MySQL，随处可运行

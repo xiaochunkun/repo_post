@@ -7,3 +7,5 @@ image: assets/FunnyWolf_ai_soc_framework_20251218_043955_968_20251218_044014_af0
 # [FunnyWolf/ai-soc-framework](https://github.com/FunnyWolf/ai-soc-framework/)
 
 Automates security operations with AI agents
+
+利用 AI 代理自动化安全运营

@@ -7,3 +7,5 @@ image: assets/codelitdev_courselit--20250814T044400331--cropped.png
 # [codelitdev/courselit](https://github.com/codelitdev/courselit)
 
 open source platform for selling courses and downloads
+
+用于销售课程和下载的开源平台

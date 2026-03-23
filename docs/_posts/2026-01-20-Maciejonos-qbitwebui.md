@@ -7,3 +7,5 @@ image: assets/Maciejonos_qbitwebui_20260118_220856_311_20260118_220917_ef5779.pn
 # [Maciejonos/qbitwebui](https://github.com/Maciejonos/qbitwebui)
 
 Web interface for managing multiple torrent instances
+
+管理多个torrent实例的Web界面

@@ -7,3 +7,5 @@ image: assets/InvoicePlane_InvoicePlane_20260122_042854_748_20260122_042916_777e
 # [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)
 
 Self-hosted application for managing invoices, clients, and payments
+
+发票客户付款管理自托管应用

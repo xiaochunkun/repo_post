@@ -7,3 +7,5 @@ image: assets/kyrolabs_awesome-langchain_cropped.png
 # [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)
 
 Curated list of LangChain projects, tools, templates, and resources
+
+LangChain项目、工具、模板和资源精选列表

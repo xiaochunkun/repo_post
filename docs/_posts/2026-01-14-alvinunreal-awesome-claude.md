@@ -7,3 +7,5 @@ image: assets/alvinunreal_awesome_claude_20260111_135724_576_20260111_135738_b87
 # [alvinunreal/awesome-claude](https://github.com/alvinunreal/awesome-claude)
 
 Curated list of resources for Claude
+
+Claude 资源精选列表

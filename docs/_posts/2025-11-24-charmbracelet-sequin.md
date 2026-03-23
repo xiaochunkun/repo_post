@@ -7,3 +7,5 @@ image: assets/charmbracelet_sequin_20251123_172010_134_20251124_094957_1204a1--2
 # [charmbracelet/sequin](https://github.com/charmbracelet/sequin/)
 
 Decodes ANSI sequences into descriptions
+
+将 ANSI 序列解码为描述

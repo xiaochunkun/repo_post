@@ -7,3 +7,5 @@ image: assets/commaai_openpilot_cropped.png
 # [commaai/openpilot](https://github.com/commaai/openpilot)
 
 Open-source driver assistance system for cars
+
+开源汽车驾驶辅助系统

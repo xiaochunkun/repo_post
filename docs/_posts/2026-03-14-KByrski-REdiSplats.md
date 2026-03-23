@@ -7,3 +7,5 @@ image: assets/KByrski_REdiSplats_20260311_062152_137_20260311_062352_0f11b6.png
 # [KByrski/REdiSplats](https://github.com/KByrski/REdiSplats)
 
 Ray tracing for editable Gaussian splatting
+
+可编辑高斯溅射的射线追踪

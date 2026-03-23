@@ -7,3 +7,5 @@ image: assets/NirDiamant_moltbook_agent_guard_20260315_165557_012_20260315_16572
 # [NirDiamant/moltbook-agent-guard](https://github.com/NirDiamant/moltbook-agent-guard)
 
 Secures AI agents against prompt injection
+
+保护 AI 代理免受提示注入攻击

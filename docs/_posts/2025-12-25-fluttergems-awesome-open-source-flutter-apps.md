@@ -7,3 +7,5 @@ image: assets/fluttergems_awesome_open_source_flutter_apps_20251223_225818_557_2
 # [fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps/)
 
 Curated list of open source Flutter apps
+
+精选的开源 Flutter 应用列表

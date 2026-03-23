@@ -7,3 +7,5 @@ image: assets/Fosowl_agenticSeek_20260213_042343_066_20260213_042456_1735a1.png
 # [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 
 Local AI agent for web browsing and coding
+
+用于网页浏览和编码的本地 AI 代理

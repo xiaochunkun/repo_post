@@ -7,3 +7,5 @@ image: assets/prettytable_prettytable_20260205_164440_386_20260205_164454_642b56
 # [prettytable/prettytable](https://github.com/prettytable/prettytable)
 
 Prints data in ASCII tables
+
+以ASCII表格打印数据

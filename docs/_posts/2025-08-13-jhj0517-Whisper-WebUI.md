@@ -7,3 +7,5 @@ image: assets/jhj0517_Whisper-WebUI--20250812T235638--cropped.png
 # [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)
 
 Gradio WebUI for Whisper subtitles, translation, and diarization
+
+用于Whisper字幕、翻译和说话人识别的Gradio WebUI

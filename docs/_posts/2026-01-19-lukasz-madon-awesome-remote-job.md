@@ -7,3 +7,5 @@ image: assets/lukasz_madon_awesome_remote_job_20260116_105559_982_20260116_10561
 # [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 
 Resources for remote work
+
+远程工作资源

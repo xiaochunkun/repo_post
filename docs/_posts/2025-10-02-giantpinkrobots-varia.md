@@ -7,3 +7,5 @@ image: assets/20251001T204235990--giantpinkrobots--varia--20251001T204956781--cr
 # [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia)
 
 download manager for files, torrents, and videos with browser integration
+
+文件、种子和视频的下载管理器，带有浏览器集成

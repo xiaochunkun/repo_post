@@ -7,3 +7,5 @@ image: assets/jamubc_gemini_mcp_tool_20260321_105830_622_20260321_105904_ed7e63.
 # [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)
 
 Gemini MCP server for Claude Code
+
+Claude Code的Gemini MCP服务器

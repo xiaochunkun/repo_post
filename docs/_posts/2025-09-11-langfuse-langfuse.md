@@ -7,3 +7,5 @@ image: assets/20250910T031454679--langfuse--langfuse--20250910T031625567--croppe
 # [langfuse/langfuse](https://github.com/langfuse/langfuse)
 
 Open source platform for developing, monitoring, and debugging LLM apps
+
+开发、监控和调试 LLM 应用的开源平台

@@ -7,3 +7,5 @@ image: assets/20250927T041609821--idurar--idurar-erp-crm--20250927T042619263--cr
 # [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
 
 open source ERP and CRM with invoicing, quotes, and accounting
+
+开源ERP和CRM，支持发票、报价和会计功能

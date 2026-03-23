@@ -7,3 +7,5 @@ image: assets/densumesh_clip_vault_20251126_113927_960_20251129_022738_6d1fe6--2
 # [densumesh/clip-vault](https://github.com/densumesh/clip-vault/)
 
 Secure cross-platform clipboard manager with encryption
+
+安全的跨平台加密剪贴板管理器

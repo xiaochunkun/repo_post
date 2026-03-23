@@ -7,3 +7,5 @@ image: assets/CortexReach_memory_lancedb_pro_20260316_040816_099_20260316_040847
 # [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)
 
 OpenClaw plugin for persistent long-term memory
+
+OpenClaw插件，用于持久化长期记忆

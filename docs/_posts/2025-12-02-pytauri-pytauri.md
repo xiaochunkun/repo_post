@@ -7,3 +7,5 @@ image: assets/pytauri_pytauri_20251130_082005_896_20251201_004913_d6bdab--202512
 # [pytauri/pytauri](https://github.com/pytauri/pytauri/)
 
 Tauri bindings for Python via PyO3
+
+通过 PyO3 实现的 Python Tauri 绑定

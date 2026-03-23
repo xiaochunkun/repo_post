@@ -7,3 +7,5 @@ image: assets/polhenarejos_pico_hsm_20251209_025013_508_20251209_025109_f43e09.p
 # [polhenarejos/pico-hsm](https://github.com/polhenarejos/pico-hsm/)
 
 Turns Raspberry Pi Pico into HSM
+
+将 Raspberry Pi Pico 转换为 HSM

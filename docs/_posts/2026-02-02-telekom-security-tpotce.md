@@ -7,3 +7,5 @@ image: assets/telekom_security_tpotce_20260201_033202_875_20260201_033246_abbf96
 # [telekom-security/tpotce](https://github.com/telekom-security/tpotce)
 
 Platform for honeypots and visualization
+
+蜜罐和可视化平台

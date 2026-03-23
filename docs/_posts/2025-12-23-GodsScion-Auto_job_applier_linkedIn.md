@@ -7,3 +7,5 @@ image: assets/GodsScion_Auto_job_applier_linkedIn_20251221_215505_541_20251221_2
 # [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn/)
 
 Automates LinkedIn job applications and resume customization
+
+自动化LinkedIn职位申请和简历定制

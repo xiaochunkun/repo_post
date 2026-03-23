@@ -7,3 +7,5 @@ image: assets/discord_userdoccers_discord_userdoccers_20251028_085233_522_202510
 # [discord-userdoccers/discord-userdoccers](https://github.com/discord-userdoccers/discord-userdoccers/)
 
 Documentation for the unofficial Discord user API
+
+非官方 Discord 用户 API 文档

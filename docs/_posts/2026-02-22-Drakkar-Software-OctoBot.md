@@ -7,3 +7,5 @@ image: assets/Drakkar_Software_OctoBot_20260221_122127_934_20260221_122204_00d1e
 # [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot)
 
 Automates crypto trading strategies across exchanges via AI and TradingView
+
+通过AI和TradingView自动化跨交易所的加密货币交易策略

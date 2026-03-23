@@ -7,3 +7,5 @@ image: assets/deltachat_deltachat_desktop_20251202_201224_472_20251202_201304_33
 # [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop/)
 
 Decentralized private messenger for desktop
+
+桌面端去中心化私密通讯工具

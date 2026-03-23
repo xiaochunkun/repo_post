@@ -7,3 +7,5 @@ image: assets/pamburus_hl_20251115_214850_124_20251117_040655_eb590f--20251117T0
 # [pamburus/hl](https://github.com/pamburus/hl/)
 
 Transforms JSON and logfmt logs into a readable format
+
+将JSON和logfmt日志转换为可读格式

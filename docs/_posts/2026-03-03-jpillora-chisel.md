@@ -7,3 +7,5 @@ image: assets/jpillora_chisel_20260302_002619_162_20260302_002752_893c68.png
 # [jpillora/chisel](https://github.com/jpillora/chisel)
 
 TCP/UDP tunnel over HTTP via SSH
+
+通过 SSH 的 HTTP TCP/UDP 隧道

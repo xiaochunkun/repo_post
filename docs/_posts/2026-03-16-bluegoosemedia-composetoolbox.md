@@ -7,3 +7,5 @@ image: assets/bluegoosemedia_composetoolbox_20260217_190009_439_20260217_190032_
 # [bluegoosemedia/composetoolbox](https://github.com/bluegoosemedia/composetoolbox)
 
 Editor and validator for docker-compose files
+
+docker-compose文件的编辑器和验证器

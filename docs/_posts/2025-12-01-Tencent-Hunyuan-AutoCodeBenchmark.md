@@ -7,3 +7,5 @@ image: assets/Tencent_Hunyuan_AutoCodeBenchmark_20251130_061504_821_20251130_084
 # [Tencent-Hunyuan/AutoCodeBenchmark](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark/)
 
 LLMs generate code benchmarks via sandbox interaction
+
+LLM通过沙箱交互生成代码基准测试

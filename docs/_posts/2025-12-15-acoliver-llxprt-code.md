@@ -7,3 +7,5 @@ image: assets/acoliver_llxprt_code_20251213_072748_037_20251213_072850_c21e5f.pn
 # [acoliver/llxprt-code](https://github.com/acoliver/llxprt-code/)
 
 Multi-provider AI-assisted CLI development tool
+
+多提供商 AI 辅助 CLI 开发工具

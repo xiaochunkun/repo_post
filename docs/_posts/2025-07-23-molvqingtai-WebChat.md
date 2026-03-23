@@ -7,3 +7,5 @@ image: assets/molvqingtai_WebChat_cropped.png
 # [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat)
 
 chat with anyone on any website
+
+在任何网站上与任何人聊天

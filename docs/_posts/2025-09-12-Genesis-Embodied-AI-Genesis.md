@@ -7,3 +7,5 @@ image: assets/20250903T030058920--Genesis-Embodied-AI--Genesis--20250911T2339123
 # [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
 
 universal physics engine for robotics, AI, and fast simulation
+
+通用物理引擎，面向机器人、AI 和快速仿真

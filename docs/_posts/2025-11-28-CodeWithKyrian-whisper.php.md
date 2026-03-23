@@ -7,3 +7,5 @@ image: assets/CodeWithKyrian_whisper_php_20251125_222851_442_20251127_171444_ad4
 # [CodeWithKyrian/whisper.php](https://github.com/CodeWithKyrian/whisper.php/)
 
 PHP binding for whisper.cpp speech recognition
+
+whisper.cpp 语音识别的 PHP 绑定

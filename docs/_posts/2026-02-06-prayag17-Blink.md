@@ -7,3 +7,5 @@ image: assets/prayag17_Blink_20260204_161956_420_20260204_162026_9267d4.png
 # [prayag17/Blink](https://github.com/prayag17/Blink)
 
 Jellyfin client for desktops using Tauri and React
+
+使用Tauri和React的桌面Jellyfin客户端

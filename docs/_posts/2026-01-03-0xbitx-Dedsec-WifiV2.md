@@ -7,3 +7,5 @@ image: assets/0xbitx_Dedsec_WifiV2_20260102_004517_518_20260102_004539_791cca.pn
 # [0xbitx/Dedsec-WifiV2](https://github.com/0xbitx/Dedsec-WifiV2/)
 
 Recovers WPA passphrases through WPS registrar PINs
+
+通过 WPS 注册商 PIN 恢复 WPA 密码

@@ -7,3 +7,5 @@ image: assets/open_saas_directory_awesome_native_macosx_apps_20260228_061039_101
 # [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)
 
 Directory of macOS apps without Electron
+
+无 Electron 的 macOS 应用目录

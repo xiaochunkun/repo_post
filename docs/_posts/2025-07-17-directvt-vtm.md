@@ -7,3 +7,5 @@ image: assets/directvt_vtm_cropped.png
 # [directvt/vtm](https://github.com/directvt/vtm)
 
 terminal desktop environment for running multiple console apps
+
+用于运行多个控制台应用的终端桌面环境

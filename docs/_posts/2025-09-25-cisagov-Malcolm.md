@@ -7,3 +7,5 @@ image: assets/20250925T045703950--cisagov--Malcolm--20250925T051722294--cropped.
 # [cisagov/Malcolm](https://github.com/cisagov/Malcolm)
 
 network traffic analysis with PCAP, Zeek, Suricata, dashboards, and container deployment
+
+使用PCAP、Zeek、Suricata、仪表板和容器部署进行网络流量分析

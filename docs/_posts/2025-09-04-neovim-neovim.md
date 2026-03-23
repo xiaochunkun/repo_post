@@ -7,3 +7,5 @@ image: assets/20250903T035153554--neovim--neovim--20250903T035722473--cropped.pn
 # [neovim/neovim](https://github.com/neovim/neovim)
 
 modern Vim-based text editor with extensibility
+
+现代化的可扩展 Vim 文本编辑器

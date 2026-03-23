@@ -7,3 +7,5 @@ image: assets/GuardKenzie_chafa_py_20260101_000001_651_20260101_000016_ea3088.pn
 # [GuardKenzie/chafa.py](https://github.com/GuardKenzie/chafa.py/)
 
 Renders images in the terminal
+
+在终端中渲染图像

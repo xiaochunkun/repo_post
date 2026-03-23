@@ -7,3 +7,5 @@ image: assets/Rezivure_Grid_Mobile_20260203_010141_357_20260203_010212_8363a9.pn
 # [Rezivure/Grid-Mobile](https://github.com/Rezivure/Grid-Mobile)
 
 Encrypted location sharing via Matrix protocol
+
+通过 Matrix 协议进行加密位置共享

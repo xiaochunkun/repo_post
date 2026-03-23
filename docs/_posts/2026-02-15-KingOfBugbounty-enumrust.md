@@ -7,3 +7,5 @@ image: assets/KingOfBugbounty_enumrust_20260206_032559_580_20260206_032614_f5cd0
 # [KingOfBugbounty/enumrust](https://github.com/KingOfBugbounty/enumrust)
 
 Security scanner for subdomains and secrets with a dashboard
+
+带有仪表板的子域名和秘密安全扫描器

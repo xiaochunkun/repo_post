@@ -7,3 +7,5 @@ image: assets/Tzahi12345_YoutubeDL_Material_20251218_044916_715_20251218_045005_
 # [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material/)
 
 Self-hosted downloader with Material Design interface
+
+采用 Material Design 界面的自托管下载器

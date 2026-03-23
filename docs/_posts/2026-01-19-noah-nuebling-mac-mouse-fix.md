@@ -7,3 +7,5 @@ image: assets/noah_nuebling_mac_mouse_fix_20260116_103102_754_20260116_103117_08
 # [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
 Adds trackpad gestures to mice on macOS
+
+为 macOS 鼠标添加触控板手势

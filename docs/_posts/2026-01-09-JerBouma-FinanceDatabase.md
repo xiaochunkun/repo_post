@@ -7,3 +7,5 @@ image: assets/JerBouma_FinanceDatabase_20260108_154127_578_20260108_154141_4fd70
 # [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)
 
 Categorized database of 300,000 financial tickers
+
+包含30万个金融代码的分类数据库

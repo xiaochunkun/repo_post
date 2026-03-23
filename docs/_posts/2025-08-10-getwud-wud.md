@@ -7,3 +7,5 @@ image: assets/getwud_wud_cropped.png
 # [getwud/wud](https://github.com/getwud/wud)
 
 Keep your Docker containers up-to-date with WUD
+
+使用 WUD 保持 Docker 容器最新

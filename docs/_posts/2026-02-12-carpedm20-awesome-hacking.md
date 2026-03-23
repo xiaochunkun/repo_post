@@ -7,3 +7,5 @@ image: assets/carpedm20_awesome_hacking_20260211_053107_694_20260211_053125_1f36
 # [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 
 Curated list of hacking tutorials, tools, and resources
+
+精选的黑客教程、工具和资源列表

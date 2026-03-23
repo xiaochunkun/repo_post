@@ -7,3 +7,5 @@ image: assets/20250829T043403293--Nutlope--loras-dev--20250829T044118405--croppe
 # [Nutlope/loras-dev](https://github.com/Nutlope/loras-dev)
 
 open source AI image generator using LoRA styles
+
+使用 LoRA 风格的开源 AI 图像生成器

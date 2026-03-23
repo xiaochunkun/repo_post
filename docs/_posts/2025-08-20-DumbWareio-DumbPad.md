@@ -7,3 +7,5 @@ image: assets/20250818T124434116_DumbWareio_DumbPad--20250818T124947794--cropped
 # [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad)
 
 simple self-hosted notepad with auto-save and dark mode
+
+具有自动保存和暗色模式的简单自托管记事本

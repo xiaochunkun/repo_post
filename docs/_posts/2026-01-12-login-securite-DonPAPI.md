@@ -7,3 +7,5 @@ image: assets/login_securite_DonPAPI_20260111_103657_842_20260111_103711_bf44c5.
 # [login-securite/DonPAPI](https://github.com/login-securite/DonPAPI)
 
 Dumps secrets from Windows computers with defense evasion
+
+从Windows计算机转储秘密并规避防御

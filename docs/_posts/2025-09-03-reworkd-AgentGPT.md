@@ -7,3 +7,5 @@ image: assets/20250903T010617579--reworkd--AgentGPT--20250903T010842458--cropped
 # [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 
 build and run autonomous AI agents in your browser
+
+在浏览器中构建和运行自主 AI 智能体

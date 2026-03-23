@@ -7,3 +7,5 @@ image: assets/steven_tey_novel_20260316_061045_186_20260316_061119_546248.png
 # [steven-tey/novel](https://github.com/steven-tey/novel)
 
 Editor with AI text generation
+
+具有AI文本生成功能的编辑器

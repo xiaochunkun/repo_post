@@ -7,3 +7,5 @@ image: assets/gssariev_overr_syncerr_20251123_203331_280_20251125_214503_6c7133-
 # [gssariev/overr-syncerr](https://github.com/gssariev/overr-syncerr/)
 
 Automates subtitle synchronization via Overseerr and Bazarr
+
+通过 Overseerr 和 Bazarr 自动同步字幕

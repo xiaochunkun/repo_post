@@ -7,3 +7,5 @@ image: assets/e2b-dev_awesome-ai-agents_cropped.png
 # [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 
 Curated list of AI autonomous agents, organized by source type and use case
+
+精选的AI自主代理列表，按来源类型和用例组织

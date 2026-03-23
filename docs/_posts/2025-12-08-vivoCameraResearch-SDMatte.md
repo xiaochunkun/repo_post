@@ -7,3 +7,5 @@ image: assets/vivoCameraResearch_SDMatte_20251207_164900_049_20251207_164957_3fa
 # [vivoCameraResearch/SDMatte](https://github.com/vivoCameraResearch/SDMatte/)
 
 Interactive image matting using stable diffusion
+
+使用stable diffusion进行交互式图像抠图

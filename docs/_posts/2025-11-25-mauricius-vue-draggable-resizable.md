@@ -7,3 +7,5 @@ image: assets/mauricius_vue_draggable_resizable_20251123_191915_837_20251125_011
 # [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable/)
 
 Draggable and resizable Vue component
+
+可拖拽和调整大小的 Vue 组件

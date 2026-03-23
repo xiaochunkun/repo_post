@@ -7,3 +7,5 @@ image: assets/ezshine_twitterxdownload_cropped.png
 # [ezshine/twitterxdownload](https://github.com/ezshine/twitterxdownload)
 
 twitter media downloader tool for posts
+
+用于下载 Twitter 帖子媒体的工具

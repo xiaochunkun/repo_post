@@ -7,3 +7,5 @@ image: assets/kzahel_yepanywhere_20260314_011736_593_20260314_012138_b6dc9d.png
 # [kzahel/yepanywhere](https://github.com/kzahel/yepanywhere)
 
 Self-hosted mobile interface for AI agents
+
+AI 代理的自托管移动界面

@@ -7,3 +7,5 @@ image: assets/LOLBAS_Project_LOLBAS_20251213_045340_095_20251213_045404_17d688.p
 # [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS/)
 
 Documents binaries for Living Off The Land techniques
+
+Living Off The Land 技术二进制文件文档

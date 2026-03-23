@@ -7,3 +7,5 @@ image: assets/20250825T015302383--Fosowl--monocularSlam--20250825T020120645--cro
 # [Fosowl/monocularSlam](https://github.com/Fosowl/monocularSlam)
 
 turn any mp4 video into a 3d point cloud in real time
+
+将任意 MP4 视频实时转换为 3D 点云

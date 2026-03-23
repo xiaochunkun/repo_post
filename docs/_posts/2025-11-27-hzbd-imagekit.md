@@ -7,3 +7,5 @@ image: assets/hzbd_imagekit_20251125_023206_092_20251127_161755_6ddb79--20251127
 # [hzbd/imagekit](https://github.com/hzbd/imagekit/)
 
 Batch image processing CLI written in Rust
+
+用 Rust 编写的批量图像处理 CLI

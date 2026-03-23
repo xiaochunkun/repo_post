@@ -7,3 +7,5 @@ image: assets/siinghd_yourinfo_20260227_015015_153_20260227_015209_6028bd.png
 # [siinghd/yourinfo](https://github.com/siinghd/yourinfo)
 
 Visualizes browser fingerprinting and behavior tracking
+
+可视化浏览器指纹和行为跟踪

@@ -7,3 +7,5 @@ image: assets/skydoves_FlexibleBottomSheet_20251213_125340_371_20251213_125421_e
 # [skydoves/FlexibleBottomSheet](https://github.com/skydoves/FlexibleBottomSheet/)
 
 Compose Multiplatform bottom sheet with segmented sizing
+
+具有分段尺寸的Compose Multiplatform底部面板

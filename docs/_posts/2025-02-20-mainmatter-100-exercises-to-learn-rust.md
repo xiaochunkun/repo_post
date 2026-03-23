@@ -7,3 +7,5 @@ image: assets/mainmatter_100-exercises-to-learn-rust_cropped.png
 # [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
 
 Learn Rust through 100 exercises
+
+通过100个练习学习Rust

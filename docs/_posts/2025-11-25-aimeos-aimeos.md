@@ -7,3 +7,5 @@ image: assets/aimeos_aimeos_20251123_194310_559_20251125_012415_18b17f--20251125
 # [aimeos/aimeos](https://github.com/aimeos/aimeos/)
 
 Laravel e-commerce framework for online shops
+
+用于在线商店的 Laravel 电子商务框架

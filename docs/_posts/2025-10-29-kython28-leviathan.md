@@ -7,3 +7,5 @@ image: assets/kython28_leviathan_20251029_164408_775_20251029_164443_191002--202
 # [kython28/leviathan](https://github.com/kython28/leviathan/)
 
 Zig-powered event loop for Python's asyncio
+
+为 Python asyncio 提供 Zig 驱动的事件循环

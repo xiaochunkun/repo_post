@@ -7,3 +7,5 @@ image: assets/timescale_pgai_cropped.png
 # [timescale/pgai](https://github.com/timescale/pgai)
 
 AI tools for PostgreSQL
+
+PostgreSQL 的 AI 工具

@@ -7,3 +7,5 @@ image: assets/FreedomIntelligence_BlenderLLM_20251216_204940_957_20251216_205029
 # [FreedomIntelligence/BlenderLLM](https://github.com/FreedomIntelligence/BlenderLLM/)
 
 Generates CAD scripts from instructions
+
+从指令生成 CAD 脚本

@@ -7,3 +7,5 @@ image: assets/Njengah_claude_code_cheat_sheet_20251029_204222_997_20251029_21312
 # [Njengah/claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet/)
 
 Cheat sheet for the Claude Code assistant
+
+Claude Code 助手的速查表

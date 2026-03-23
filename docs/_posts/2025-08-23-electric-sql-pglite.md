@@ -7,3 +7,5 @@ image: assets/20250822T021634136--electric-sql--pglite--20250822T022446826--crop
 # [electric-sql/pglite](https://github.com/electric-sql/pglite)
 
 run Postgres in browser or Node with WASM
+
+在浏览器或 Node.js 中通过 WASM 运行 Postgres

@@ -7,3 +7,5 @@ image: assets/Aider-AI_aider_cropped.png
 # [Aider-AI/aider](https://github.com/Aider-AI/aider)
 
 ai pair programming right in your terminal
+
+直接在终端中进行AI结对编程

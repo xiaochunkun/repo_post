@@ -7,3 +7,5 @@ image: assets/Sync_in_desktop_20260223_063805_531_20260223_063827_972c08.png
 # [Sync-in/desktop](https://github.com/Sync-in/desktop)
 
 Syncs files across devices and servers
+
+跨设备和服务器同步文件

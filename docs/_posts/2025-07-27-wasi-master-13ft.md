@@ -7,3 +7,5 @@ image: assets/wasi-master_13ft_cropped.png
 # [wasi-master/13ft](https://github.com/wasi-master/13ft)
 
 self-hosted tool to bypass paywalls and ads
+
+自托管工具，用于绕过付费墙和广告

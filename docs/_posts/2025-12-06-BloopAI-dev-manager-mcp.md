@@ -7,3 +7,5 @@ image: assets/BloopAI_dev_manager_mcp_20251204_220417_460_20251204_220449_d46ff7
 # [BloopAI/dev-manager-mcp](https://github.com/BloopAI/dev-manager-mcp/)
 
 Daemon manages dev servers with port allocation
+
+守护进程管理开发服务器，分配端口

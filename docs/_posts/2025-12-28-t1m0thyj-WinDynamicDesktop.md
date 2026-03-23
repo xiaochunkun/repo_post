@@ -7,3 +7,5 @@ image: assets/t1m0thyj_WinDynamicDesktop_20251221_171647_395_20251226_165546_e6e
 # [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop/)
 
 Cycles wallpapers with the sun
+
+根据太阳位置循环更换壁纸

@@ -7,3 +7,5 @@ image: assets/andreapianidev_WalkieTalkie_20251225_194812_225_20251225_194830_5d
 # [andreapianidev/WalkieTalkie](https://github.com/andreapianidev/WalkieTalkie/)
 
 Walkie-talkie and radio app with peer-to-peer connectivity
+
+具有点对点连接的对讲机和无线电应用

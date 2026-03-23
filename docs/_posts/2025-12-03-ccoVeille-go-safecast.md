@@ -7,3 +7,5 @@ image: assets/ccoVeille_go_safecast_20251201_065057_139_20251201_065122_b932a0.p
 # [ccoVeille/go-safecast](https://github.com/ccoVeille/go-safecast/)
 
 Prevents silent integer overflow in Go
+
+防止 Go 中的静默整数溢出

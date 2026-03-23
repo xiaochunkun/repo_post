@@ -7,3 +7,5 @@ image: assets/rust-lang_rust_cropped.png
 # [rust-lang/rust](https://github.com/rust-lang/rust)
 
 systems programming language focused on safety and performance
+
+专注于安全和性能的系统编程语言

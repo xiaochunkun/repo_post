@@ -7,3 +7,5 @@ image: assets/ahmadvh_AI_Agents_for_Medical_Diagnostics_20260113_144544_356_2026
 # [ahmadvh/AI-Agents-for-Medical-Diagnostics](https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics)
 
 Agents simulate medical specialists for diagnostics
+
+代理模拟医疗专家进行诊断

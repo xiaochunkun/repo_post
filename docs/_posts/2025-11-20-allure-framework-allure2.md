@@ -7,3 +7,5 @@ image: assets/allure_framework_allure2_20251120_042916_489_20251120_141735_b86ff
 # [allure-framework/allure2](https://github.com/allure-framework/allure2/)
 
 Visualizes test results across languages
+
+跨语言可视化测试结果

@@ -7,3 +7,5 @@ image: assets/20250911T170633106--iterative--datachain--20250911T171015403--crop
 # [iterative/datachain](https://github.com/iterative/datachain)
 
 AI data warehouse for transforming and analyzing unstructured files like images, audio, video, text, and PDFs
+
+AI 数据仓库，转换和分析图像、音频、视频、文本和 PDF 等非结构化文件

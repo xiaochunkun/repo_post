@@ -7,3 +7,5 @@ image: assets/Dataherald_dataherald_cropped.png
 # [Dataherald/dataherald](https://github.com/Dataherald/dataherald)
 
 natural language to SQL engine for querying databases
+
+用于查询数据库的自然语言到SQL引擎

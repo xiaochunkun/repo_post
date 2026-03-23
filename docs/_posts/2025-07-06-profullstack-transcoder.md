@@ -7,3 +7,5 @@ image: assets/profullstack_transcoder_cropped.png
 # [profullstack/transcoder](https://github.com/profullstack/transcoder)
 
 Node.js tool for transcoding video, audio, and images using FFmpeg
+
+使用FFmpeg进行视频、音频和图像转码的Node.js工具

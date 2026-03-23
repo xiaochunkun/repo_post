@@ -7,3 +7,5 @@ image: assets/laylavish_uBlockOrigin_HUGE_AI_Blocklist_20260225_031218_225_20260
 # [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 Filters AI imagery from search results
+
+从搜索结果中过滤 AI 图像

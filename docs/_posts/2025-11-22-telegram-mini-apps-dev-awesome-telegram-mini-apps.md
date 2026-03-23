@@ -7,3 +7,5 @@ image: assets/telegram_mini_apps_dev_awesome_telegram_mini_apps_20251122_074714_
 # [telegram-mini-apps-dev/awesome-telegram-mini-apps](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/)
 
 Resources for building Telegram Mini Apps
+
+构建 Telegram Mini Apps 的资源

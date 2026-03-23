@@ -7,3 +7,5 @@ image: assets/withneural_neuralagent_cropped.png
 # [withneural/neuralagent](https://github.com/withneural/neuralagent)
 
 AI agent automates tasks and boosts productivity on your desktop
+
+AI 代理自动化任务并提升桌面生产力

@@ -7,3 +7,5 @@ image: assets/mage_ai_mage_ai_20260203_000625_816_20260203_000656_364c43.png
 # [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
 
 Builds data pipelines with a notebook interface
+
+使用笔记本界面构建数据管道

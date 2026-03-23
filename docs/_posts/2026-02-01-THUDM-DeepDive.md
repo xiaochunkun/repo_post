@@ -7,3 +7,5 @@ image: assets/THUDM_DeepDive_20260112_164911_688_20260112_164926_53aae4.png
 # [THUDM/DeepDive](https://github.com/THUDM/DeepDive)
 
 Trains search agents using knowledge graphs and reinforcement learning
+
+使用知识图谱和强化学习训练搜索代理

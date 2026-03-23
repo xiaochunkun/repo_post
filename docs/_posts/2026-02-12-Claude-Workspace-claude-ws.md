@@ -7,3 +7,5 @@ image: assets/Claude_Workspace_claude_ws_20260209_234308_206_20260209_234323_f47
 # [Claude-Workspace/claude-ws](https://github.com/Claude-Workspace/claude-ws)
 
 Kanban board for Claude Code with code editor and Git integration
+
+Claude Code的看板，集成代码编辑器和Git

@@ -7,3 +7,5 @@ image: assets/microsoft_debugpy_cropped.png
 # [microsoft/debugpy](https://github.com/microsoft/debugpy)
 
 Python debugging for VS Code and beyond
+
+VS Code 及更广范围的 Python 调试工具

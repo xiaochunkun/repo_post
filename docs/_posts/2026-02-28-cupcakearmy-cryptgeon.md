@@ -7,3 +7,5 @@ image: assets/cupcakearmy_cryptgeon_20260227_203500_088_20260227_203656_d681a9.p
 # [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon)
 
 Shares notes and files with end-to-end encryption
+
+端到端加密共享笔记和文件

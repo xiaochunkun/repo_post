@@ -7,3 +7,5 @@ image: assets/public_transport_transitous_20251114_051119_022_20251114_162403_c0
 # [public-transport/transitous](https://github.com/public-transport/transitous/)
 
 Community-run public transport routing service
+
+社区运营的公共交通路线服务

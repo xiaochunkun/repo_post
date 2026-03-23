@@ -7,3 +7,5 @@ image: assets/d3vr_yt_siphon_20260104_002219_772_20260104_002236_8b1ea5.png
 # [d3vr/yt-siphon](https://github.com/d3vr/yt-siphon/)
 
 Redirects YouTube links to alternative frontends
+
+将YouTube链接重定向到替代前端

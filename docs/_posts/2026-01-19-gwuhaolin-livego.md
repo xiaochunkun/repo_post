@@ -7,3 +7,5 @@ image: assets/gwuhaolin_livego_20260118_162502_787_20260118_162539_6e5855.png
 # [gwuhaolin/livego](https://github.com/gwuhaolin/livego)
 
 Live video streaming server in Go
+
+Go 语言开发的实时视频流服务器

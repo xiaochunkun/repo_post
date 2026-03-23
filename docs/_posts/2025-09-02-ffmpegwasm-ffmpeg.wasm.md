@@ -7,3 +7,5 @@ image: assets/20250901T033804006--ffmpegwasm--ffmpeg.wasm--20250901T034423844--c
 # [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 
 FFmpeg in your browser with WebAssembly
+
+基于 WebAssembly 在浏览器中运行 FFmpeg

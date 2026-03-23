@@ -7,3 +7,5 @@ image: assets/royalfig_color_palette_generator_20260207_125913_872_20260207_1259
 # [royalfig/color-palette-generator](https://github.com/royalfig/color-palette-generator)
 
 Synthesizer for color palettes in advanced color spaces
+
+高级色彩空间的调色板合成器

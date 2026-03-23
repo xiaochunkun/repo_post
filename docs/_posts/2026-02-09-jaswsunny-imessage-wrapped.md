@@ -7,3 +7,5 @@ image: assets/jaswsunny_imessage_wrapped_20260205_175544_353_20260205_175605_395
 # [jaswsunny/imessage-wrapped](https://github.com/jaswsunny/imessage-wrapped)
 
 Analyzes iMessage history locally on a Mac
+
+在Mac上本地分析iMessage历史记录

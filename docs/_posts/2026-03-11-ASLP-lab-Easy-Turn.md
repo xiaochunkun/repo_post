@@ -7,3 +7,5 @@ image: assets/ASLP_lab_Easy_Turn_20260308_194207_108_20260308_194410_19cf48.png
 # [ASLP-lab/Easy-Turn](https://github.com/ASLP-lab/Easy-Turn)
 
 Turn-taking detection for spoken dialogue systems
+
+口语对话系统的轮转检测

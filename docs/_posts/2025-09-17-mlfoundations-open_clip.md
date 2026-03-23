@@ -7,3 +7,5 @@ image: assets/20250917T011524661--mlfoundations--open_clip--20250917T012234280--
 # [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip)
 
 open source CLIP models for image-text tasks
+
+用于图像-文本任务的开源 CLIP 模型

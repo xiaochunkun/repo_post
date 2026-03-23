@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen2.5-Coder_cropped.png
 # [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder)
 
 Code-specific language model for coding tasks
+
+针对编码任务的代码专用语言模型

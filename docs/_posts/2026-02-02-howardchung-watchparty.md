@@ -7,3 +7,5 @@ image: assets/howardchung_watchparty_20260116_105505_828_20260116_105519_d3d923.
 # [howardchung/watchparty](https://github.com/howardchung/watchparty)
 
 Synchronizes video playback and chat across browsers
+
+跨浏览器同步视频播放和聊天

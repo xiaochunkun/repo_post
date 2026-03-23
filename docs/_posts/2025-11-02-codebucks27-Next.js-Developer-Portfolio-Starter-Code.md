@@ -7,3 +7,5 @@ image: assets/codebucks27_Next_js_Developer_Portfolio_Starter_Code_20251031_0619
 # [codebucks27/Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/)
 
 Starter code for a portfolio website using Next.js, Tailwind CSS, and Framer Motion
+
+使用 Next.js、Tailwind CSS 和 Framer Motion 的作品集网站入门代码

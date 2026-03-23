@@ -7,3 +7,5 @@ image: assets/hack_different_apple_knowledge_20251225_175726_714_20251225_175744
 # [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge/)
 
 Database of reverse engineered Apple hardware and protocols
+
+逆向工程 Apple 硬件和协议的数据库

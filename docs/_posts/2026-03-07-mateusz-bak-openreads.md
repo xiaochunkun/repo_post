@@ -7,3 +7,5 @@ image: assets/mateusz_bak_openreads_20260306_185332_469_20260306_185443_41fde2.p
 # [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads)
 
 Track books across platforms
+
+跨平台追踪书籍

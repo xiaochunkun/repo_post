@@ -7,3 +7,5 @@ image: assets/20250822T015937580--apache--answer--20250822T021200328--cropped.pn
 # [apache/answer](https://github.com/apache/answer)
 
 open source Q&A platform for teams and communities
+
+面向团队和社区的开源问答平台

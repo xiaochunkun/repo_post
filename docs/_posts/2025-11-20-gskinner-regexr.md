@@ -7,3 +7,5 @@ image: assets/gskinner_regexr_20251118_182939_942_20251120_000114_c4c7df--202511
 # [gskinner/regexr](https://github.com/gskinner/regexr/)
 
 Tool for testing regular expressions with real-time results
+
+实时测试正则表达式的工具

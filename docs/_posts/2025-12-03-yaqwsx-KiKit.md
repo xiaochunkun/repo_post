@@ -7,3 +7,5 @@ image: assets/yaqwsx_KiKit_20251201_055630_829_20251201_055655_60ab4c.png
 # [yaqwsx/KiKit](https://github.com/yaqwsx/KiKit/)
 
 Automates panelization and manufacturing data export for KiCAD
+
+自动化KiCAD的面板化和制造数据导出

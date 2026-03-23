@@ -7,3 +7,5 @@ image: assets/cyberboy666_tv_wall_mapper_20260309_145639_697_20260309_145902_f5f
 # [cyberboy666/tv_wall_mapper](https://github.com/cyberboy666/tv_wall_mapper)
 
 Maps video across monitors for synchronized installations
+
+跨显示器映射视频以实现同步安装

@@ -7,3 +7,5 @@ image: assets/Anduin2017_AnduinOS_20260209_133118_202_20260209_133135_ce8963.png
 # [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS)
 
 Ubuntu-based distribution for users moving to Linux
+
+面向转向Linux用户的Ubuntu衍生发行版

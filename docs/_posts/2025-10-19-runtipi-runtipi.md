@@ -7,3 +7,5 @@ image: assets/runtipi_runtipi_20251019_000306_742_20251019_003703--20251019T0237
 # [runtipi/runtipi](https://github.com/runtipi/runtipi/)
 
 Personal homeserver with an app store for self-hosted services
+
+个人家庭服务器，带自托管服务应用商店

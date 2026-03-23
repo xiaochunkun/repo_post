@@ -7,3 +7,5 @@ image: assets/20250830T050852248--codingmoh--open-codex--20250830T051324986--cro
 # [codingmoh/open-codex](https://github.com/codingmoh/open-codex)
 
 open-source CLI AI assistant for shell commands, runs locally
+
+开源终端 AI 助手，辅助 Shell 命令，支持本地运行

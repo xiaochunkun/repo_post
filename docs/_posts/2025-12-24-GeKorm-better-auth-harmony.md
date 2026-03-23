@@ -7,3 +7,5 @@ image: assets/GeKorm_better_auth_harmony_20251222_202530_605_20251222_202546_af9
 # [GeKorm/better-auth-harmony](https://github.com/GeKorm/better-auth-harmony/)
 
 Normalizes contact data and blocks temporary email domains
+
+规范化联系数据并阻止临时邮箱域名

@@ -7,3 +7,5 @@ image: assets/jefvangool_mcp_google_ads_20260120_135846_948_20260120_135912_9598
 # [jefvangool/mcp-google-ads](https://github.com/jefvangool/mcp-google-ads)
 
 Connects Google Ads to Claude via MCP
+
+通过 MCP 连接 Google Ads 到 Claude

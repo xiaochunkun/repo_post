@@ -7,3 +7,5 @@ image: assets/20250818T110455573_katanemo_archgw--20250820T132157733--cropped.pn
 # [katanemo/archgw](https://github.com/katanemo/archgw)
 
 AI gateway for agentic apps, handles routing, guardrails, and LLM integration
+
+AI 智能体网关，处理路由、安全防护和大模型集成

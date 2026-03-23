@@ -7,3 +7,5 @@ image: assets/20250818T105358244_dkorecko_Ticky--20250820T132835868--cropped.png
 # [dkorecko/Ticky](https://github.com/dkorecko/Ticky)
 
 Kanban-style task boards with tons of features
+
+功能丰富的看板式任务管理工具

@@ -7,3 +7,5 @@ image: assets/bluewave_labs_Checkmate_20260108_015159_702_20260108_015213_c6eb80
 # [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 
 Monitors server hardware and uptime with visualizations
+
+监控服务器硬件和运行时间的可视化工具

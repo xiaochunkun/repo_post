@@ -7,3 +7,5 @@ image: assets/volta-cli_volta_cropped.png
 # [volta-cli/volta](https://github.com/volta-cli/volta)
 
 manage Node.js and npm versions with Volta
+
+使用 Volta 管理 Node.js 和 npm 版本

@@ -7,3 +7,5 @@ image: assets/ZitaoTech_Hackberry_Pi_Zero_20260101_061820_592_20260101_061840_fa
 # [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero/)
 
 Handheld Linux terminal with Raspberry Pi and BlackBerry keyboard
+
+使用 Raspberry Pi 和 BlackBerry 键盘的手持 Linux 终端

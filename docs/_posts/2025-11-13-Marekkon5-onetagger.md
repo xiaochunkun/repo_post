@@ -7,3 +7,5 @@ image: assets/Marekkon5_onetagger_20251111_205434_860_20251112_032204_1429cb--20
 # [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger/)
 
 Cross-platform music tagger for DJs
+
+面向 DJ 的跨平台音乐标签器

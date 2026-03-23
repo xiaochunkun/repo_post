@@ -7,3 +7,5 @@ image: assets/20250901T034429427--backstage--backstage--20250901T034859099--crop
 # [backstage/backstage](https://github.com/backstage/backstage)
 
 open source framework for building developer portals
+
+构建开发者门户的开源框架

@@ -7,3 +7,5 @@ image: assets/syntasso_kratix_20251210_051536_485_20251210_051557_cbcd18.png
 # [syntasso/kratix](https://github.com/syntasso/kratix/)
 
 Framework for building platforms on Kubernetes
+
+在 Kubernetes 上构建平台的框架

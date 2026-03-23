@@ -7,3 +7,5 @@ image: assets/helio_fm_helio_sequencer_20260108_150008_295_20260108_150023_e36c4
 # [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer)
 
 Music sequencer with version control and microtonal support
+
+音乐序列器，支持版本控制和微音调

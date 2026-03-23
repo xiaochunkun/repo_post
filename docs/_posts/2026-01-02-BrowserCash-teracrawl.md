@@ -7,3 +7,5 @@ image: assets/BrowserCash_teracrawl_20260101_100809_613_20260101_100827_7caed1.p
 # [BrowserCash/teracrawl](https://github.com/BrowserCash/teracrawl/)
 
 Scrapes websites into markdown using remote browsers
+
+使用远程浏览器将网站抓取为Markdown

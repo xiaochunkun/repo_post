@@ -7,3 +7,5 @@ image: assets/openguardrails_openguardrails_20260304_165934_483_20260304_170116_
 # [openguardrails/openguardrails](https://github.com/openguardrails/openguardrails)
 
 Protection for AI agents against prompt injection and data leaks
+
+保护AI代理免受提示注入和数据泄露

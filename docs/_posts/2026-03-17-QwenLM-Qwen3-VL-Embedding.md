@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen3_VL_Embedding_20260317_051118_735_20260317_051227_d46d
 # [QwenLM/Qwen3-VL-Embedding](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
 Embeds and reranks text and images
+
+嵌入和重排文本与图像

@@ -7,3 +7,5 @@ image: assets/Scalerize_Scalerize_InfiniteGpu_20251231_002343_032_20251231_00240
 # [Scalerize/Scalerize.InfiniteGpu](https://github.com/Scalerize/Scalerize.InfiniteGpu/)
 
 Marketplace for exchange of compute resources
+
+计算资源交换市场

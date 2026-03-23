@@ -7,3 +7,5 @@ image: assets/IndieSmiths_nodezator_20260211_002513_180_20260211_002613_02e555.p
 # [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator)
 
 Connects Python functions visually to produce parametric behavior
+
+可视化连接Python函数以产生参数化行为

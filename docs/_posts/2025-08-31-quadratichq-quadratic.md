@@ -7,3 +7,5 @@ image: assets/20250830T092026872--quadratichq--quadratic--20250830T115518251--cr
 # [quadratichq/quadratic](https://github.com/quadratichq/quadratic)
 
 AI-powered spreadsheet with code and data connections
+
+AI 增强的电子表格，支持代码和数据连接

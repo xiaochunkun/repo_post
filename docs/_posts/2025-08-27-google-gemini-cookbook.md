@@ -7,3 +7,5 @@ image: assets/20250826T024048975--google-gemini--cookbook--20250826T024439600--c
 # [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
 
 Gemini API guides and code examples for hands-on learning
+
+Gemini API 实战指南和代码示例

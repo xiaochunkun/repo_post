@@ -7,3 +7,5 @@ image: assets/dmpop_pellicola_20260118_031153_566_20260118_031214_da96f3.png
 # [dmpop/pellicola](https://github.com/dmpop/pellicola)
 
 PHP web app for photo publishing
+
+用于照片发布的 PHP 网络应用

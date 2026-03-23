@@ -7,3 +7,5 @@ image: assets/20250822T024530532--Jackywine--Bella--20250822T025246747--cropped.
 # [Jackywine/Bella](https://github.com/Jackywine/Bella)
 
 AI companion Bella with voice, visuals, and evolving personality
+
+AI 伙伴 Bella，拥有语音、视觉和进化型人格

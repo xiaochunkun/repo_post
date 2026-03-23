@@ -7,3 +7,5 @@ image: assets/anthropics_claude_plugins_official_20260301_034550_011_20260301_03
 # [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 Directory for plugins and MCP servers
+
+插件和 MCP 服务器的目录

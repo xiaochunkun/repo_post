@@ -7,3 +7,5 @@ image: assets/stepfun_ai_Step_3_5_Flash_20260304_185140_859_20260304_185329_8458
 # [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)
 
 Foundation model for reasoning and coding tasks
+
+用于推理和编码任务的基础模型

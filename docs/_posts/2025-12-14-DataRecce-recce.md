@@ -7,3 +7,5 @@ image: assets/DataRecce_recce_20251210_053454_451_20251210_053527_4f9bbc.png
 # [DataRecce/recce](https://github.com/DataRecce/recce/)
 
 Toolkit for validating dbt data changes
+
+验证 dbt 数据更改的工具包

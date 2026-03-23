@@ -7,3 +7,5 @@ image: assets/4ndr0666_userscripts_20260101_221555_940_20260101_221612_162868.pn
 # [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts/)
 
 Userscripts to bypass anti-user patterns and restore browser control
+
+绕过反用户模式并恢复浏览器控制的用户脚本

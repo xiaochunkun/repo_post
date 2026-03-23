@@ -7,3 +7,5 @@ image: assets/marcoroth_reactionview_20251201_032913_403_20251201_032938_e0b78e.
 # [marcoroth/reactionview](https://github.com/marcoroth/reactionview/)
 
 ActionView-compatible ERB engine with modern DX
+
+兼容 ActionView 的 ERB 引擎，具备现代开发体验

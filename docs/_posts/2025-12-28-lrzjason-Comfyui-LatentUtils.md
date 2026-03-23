@@ -7,3 +7,5 @@ image: assets/lrzjason_Comfyui_LatentUtils_20251226_212023_263_20251226_212047_b
 # [lrzjason/Comfyui-LatentUtils](https://github.com/lrzjason/Comfyui-LatentUtils/)
 
 Enhances image details using Fourier Transform techniques
+
+使用傅里叶变换技术增强图像细节

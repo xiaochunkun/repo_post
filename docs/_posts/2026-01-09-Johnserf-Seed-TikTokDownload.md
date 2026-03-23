@@ -7,3 +7,5 @@ image: assets/Johnserf_Seed_TikTokDownload_20260108_191050_566_20260108_191111_1
 # [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 
 Downloads videos and images from TikTok without watermarks
+
+无水印下载TikTok视频和图片

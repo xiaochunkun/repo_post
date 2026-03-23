@@ -7,3 +7,5 @@ image: assets/poppy_project_poppy_humanoid_20260111_155707_997_20260111_155754_4
 # [poppy-project/poppy-humanoid](https://github.com/poppy-project/poppy-humanoid)
 
 3D printed robot for research and education
+
+用于研究和教育的3D打印机器人

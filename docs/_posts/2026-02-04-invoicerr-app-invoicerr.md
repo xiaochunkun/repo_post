@@ -7,3 +7,5 @@ image: assets/invoicerr_app_invoicerr_20260202_224137_932_20260202_224214_88291a
 # [invoicerr-app/invoicerr](https://github.com/invoicerr-app/invoicerr)
 
 Self-hosted invoicing platform with quote signing and PDF generation
+
+自托管发票平台，支持报价签署和 PDF 生成

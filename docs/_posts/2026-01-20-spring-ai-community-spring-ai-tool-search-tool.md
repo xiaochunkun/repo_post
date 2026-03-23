@@ -7,3 +7,5 @@ image: assets/spring_ai_community_spring_ai_tool_search_tool_20260114_133339_977
 # [spring-ai-community/spring-ai-tool-search-tool](https://github.com/spring-ai-community/spring-ai-tool-search-tool)
 
 Discovers tools on demand to reduce token consumption
+
+按需发现工具以减少token消耗

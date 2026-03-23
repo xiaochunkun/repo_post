@@ -7,3 +7,5 @@ image: assets/jarrodwatts_claude_stt_20260205_212812_054_20260205_212828_a75294.
 # [jarrodwatts/claude-stt](https://github.com/jarrodwatts/claude-stt)
 
 Transcribes speech to text for Claude Code locally
+
+本地为Claude Code转录语音到文本

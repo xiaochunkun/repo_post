@@ -7,3 +7,5 @@ image: assets/swirlai_swirl-search_cropped.png
 # [swirlai/swirl-search](https://github.com/swirlai/swirl-search)
 
 open source tool for unified search across all your data and apps
+
+跨所有数据和应用的统一搜索开源工具

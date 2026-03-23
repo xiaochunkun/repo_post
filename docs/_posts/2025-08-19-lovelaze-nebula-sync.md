@@ -7,3 +7,5 @@ image: assets/20250818T111928278_lovelaze_nebula-sync--20250818T112039926--cropp
 # [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync)
 
 sync Pi-hole v6 configs across servers
+
+跨服务器同步Pi-hole v6配置

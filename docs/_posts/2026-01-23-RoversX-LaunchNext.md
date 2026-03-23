@@ -7,3 +7,5 @@ image: assets/RoversX_LaunchNext_20260118_090534_802_20260118_090554_c76acf.png
 # [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext)
 
 Customizable launchpad for macOS
+
+macOS可自定义启动台

@@ -7,3 +7,5 @@ image: assets/creativetimofficial_notus_nextjs_20251225_174245_132_20251225_1743
 # [creativetimofficial/notus-nextjs](https://github.com/creativetimofficial/notus-nextjs/)
 
 UI kit and admin dashboard for Tailwind CSS and Next.js
+
+Tailwind CSS 和 Next.js 的 UI 套件和管理仪表板

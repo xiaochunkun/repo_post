@@ -7,3 +7,5 @@ image: assets/BlueMap_Minecraft_BlueMap_20251225_184145_366_20251225_184201_17e6
 # [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap/)
 
 Generates 3D maps of Minecraft worlds in a browser
+
+在浏览器中生成 Minecraft 世界的 3D 地图

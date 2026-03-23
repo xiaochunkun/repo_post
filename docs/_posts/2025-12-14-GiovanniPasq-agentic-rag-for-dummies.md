@@ -7,3 +7,5 @@ image: assets/GiovanniPasq_agentic_rag_for_dummies_20251213_054630_801_20251213_
 # [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies/)
 
 Builds agentic RAG systems with LangGraph
+
+使用 LangGraph 构建智能 RAG 系统

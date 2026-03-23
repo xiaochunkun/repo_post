@@ -7,3 +7,5 @@ image: assets/dagimg_dot_gitsnip_20251120_002343_516_20251120_003831_2dec13--202
 # [dagimg-dot/gitsnip](https://github.com/dagimg-dot/gitsnip/)
 
 CLI tool to download specific folders from a git repository
+
+从 git 仓库下载特定文件夹的 CLI 工具

@@ -7,3 +7,5 @@ image: assets/TalEliyahu_Awesome-AI-Security_cropped.png
 # [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security)
 
 Curated list of AI security tools and resources
+
+精选的AI安全工具和资源列表

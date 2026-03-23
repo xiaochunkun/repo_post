@@ -7,3 +7,5 @@ image: assets/ossu_data_science_20251125_024324_803_20251127_162802_ead3fa--2025
 # [ossu/data-science](https://github.com/ossu/data-science/)
 
 Curriculum for data science education
+
+数据科学教育课程

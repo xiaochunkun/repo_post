@@ -7,3 +7,5 @@ image: assets/piqoni_go_digest_20251227_220024_182_20251227_220113_c716cf.png
 # [piqoni/go-digest](https://github.com/piqoni/go-digest/)
 
 News aggregator via GitHub Actions
+
+通过 GitHub Actions 实现的新闻聚合器

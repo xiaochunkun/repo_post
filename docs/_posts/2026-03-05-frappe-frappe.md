@@ -7,3 +7,5 @@ image: assets/frappe_frappe_20260209_042412_937_20260209_042436_494003.png
 # [frappe/frappe](https://github.com/frappe/frappe)
 
 Framework for web applications in Python and Javascript
+
+Python 和 Javascript 的 Web 应用框架

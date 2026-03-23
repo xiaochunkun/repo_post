@@ -7,3 +7,5 @@ image: assets/grp06_openclaw_studio_20260224_083323_838_20260224_083342_9c221a.p
 # [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio)
 
 Dashboard to manage agents and chat with models
+
+管理代理并与模型聊天的仪表板

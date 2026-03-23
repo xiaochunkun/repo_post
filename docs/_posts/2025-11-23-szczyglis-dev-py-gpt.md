@@ -7,3 +7,5 @@ image: assets/szczyglis_dev_py_gpt_20251122_130204_380_20251122_222015_ab1e00--2
 # [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt/)
 
 Desktop AI assistant with RAG, vision, and voice
+
+带RAG、视觉和语音的桌面AI助手

@@ -7,3 +7,5 @@ image: assets/simonw_llm_20260315_013827_790_20260315_013937_a942c6.png
 # [simonw/llm](https://github.com/simonw/llm)
 
 CLI tool for running local and remote LLMs
+
+运行本地和远程LLM的CLI工具

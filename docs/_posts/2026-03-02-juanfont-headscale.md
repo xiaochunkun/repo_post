@@ -7,3 +7,5 @@ image: assets/juanfont_headscale_20260222_095944_356_20260222_100045_b15f10.png
 # [juanfont/headscale](https://github.com/juanfont/headscale)
 
 Self-hosted implementation of the Tailscale control server
+
+Tailscale 控制服务器的自托管实现

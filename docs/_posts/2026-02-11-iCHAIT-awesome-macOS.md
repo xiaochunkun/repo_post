@@ -7,3 +7,5 @@ image: assets/iCHAIT_awesome_macOS_20260202_233708_447_20260202_233736_4612e3.pn
 # [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 
 List of software and tools for macOS
+
+macOS软件和工具列表

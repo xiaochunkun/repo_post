@@ -7,3 +7,5 @@ image: assets/RPCSX_rpcsx_20251025_183839_875_20251025_225748_260c22--20251026T0
 # [RPCSX/rpcsx](https://github.com/RPCSX/rpcsx/)
 
 PlayStation 4 and 5 emulator for Linux
+
+适用于 Linux 的 PlayStation 4 和 5 模拟器

@@ -7,3 +7,5 @@ image: assets/20250820T131427627_netease-youdao_QAnything--20250820T131822857--c
 # [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)
 
 local knowledge base Q&A system for any file format
+
+支持任意文件格式的本地知识库问答系统

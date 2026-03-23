@@ -7,3 +7,5 @@ image: assets/trycua_cua_cropped.png
 # [trycua/cua](https://github.com/trycua/cua)
 
 Build, run, manage VMs with AI agent support formacOS, Linux on Apple Silicon
+
+构建、运行、管理支持AI代理的VM，适用于macOS和Apple Silicon上的Linux

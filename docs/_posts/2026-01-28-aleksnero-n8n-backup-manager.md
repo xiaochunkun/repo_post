@@ -7,3 +7,5 @@ image: assets/aleksnero_n8n_backup_manager_20260122_041217_274_20260122_041234_7
 # [aleksnero/n8n-backup-manager](https://github.com/aleksnero/n8n-backup-manager)
 
 Backs up n8n workflows to cloud storage
+
+将n8n工作流备份到云存储

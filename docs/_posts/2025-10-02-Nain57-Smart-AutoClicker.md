@@ -7,3 +7,5 @@ image: assets/20251001T203919244--Nain57--Smart-AutoClicker--20251001T204639729-
 # [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 
 Android auto clicker with image detection for automating repetitive tasks
+
+Android自动点击器，带图像检测，用于自动化重复任务

@@ -7,3 +7,5 @@ image: assets/vercel_next_devtools_mcp_20260321_065315_097_20260321_065522_684a1
 # [vercel/next-devtools-mcp](https://github.com/vercel/next-devtools-mcp)
 
 Next.js development tools for coding agents
+
+编码代理的 Next.js 开发工具

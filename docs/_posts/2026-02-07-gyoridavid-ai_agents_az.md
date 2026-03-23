@@ -7,3 +7,5 @@ image: assets/gyoridavid_ai_agents_az_20260202_231524_054_20260202_231556_07494a
 # [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
 
 n8n templates for AI agents
+
+AI 代理的 n8n 模板

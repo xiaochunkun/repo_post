@@ -7,3 +7,5 @@ image: assets/fliptheweb_bash_shortcuts_cheat_sheet_20251201_034820_106_20251201
 # [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/)
 
 Cheat sheet for bash and zsh shortcuts
+
+bash和zsh快捷键速查表

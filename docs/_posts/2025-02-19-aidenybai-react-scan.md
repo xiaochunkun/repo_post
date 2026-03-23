@@ -7,3 +7,5 @@ image: assets/aidenybai_react-scan_cropped.png
 # [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
 
 React performance scanner
+
+React 性能扫描器

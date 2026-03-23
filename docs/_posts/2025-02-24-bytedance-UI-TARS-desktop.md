@@ -7,3 +7,5 @@ image: assets/bytedance_UI-TARS-desktop_cropped.png
 # [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 
 GUI agent for controlling computers with natural language
+
+使用自然语言控制计算机的 GUI 代理

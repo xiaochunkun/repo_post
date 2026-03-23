@@ -7,3 +7,5 @@ image: assets/daeisbae_open_repo_wiki_20251121_102405_149_20251121_211429_82ec00
 # [daeisbae/open-repo-wiki](https://github.com/daeisbae/open-repo-wiki/)
 
 Generates wikis for GitHub repositories
+
+为 GitHub 仓库生成 wiki

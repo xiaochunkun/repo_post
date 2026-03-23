@@ -7,3 +7,5 @@ image: assets/20251003T231910845--komari-monitor--komari--20251003T232203691--cr
 # [komari-monitor/komari](https://github.com/komari-monitor/komari)
 
 self-hosted server monitoring with web dashboard
+
+带 Web 仪表板的自托管服务器监控

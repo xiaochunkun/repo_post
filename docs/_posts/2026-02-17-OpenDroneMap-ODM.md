@@ -7,3 +7,5 @@ image: assets/OpenDroneMap_ODM_20260212_061847_020_20260212_061902_ccc8dc.png
 # [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM)
 
 Generates maps and models from drone imagery
+
+从无人机图像生成地图和模型

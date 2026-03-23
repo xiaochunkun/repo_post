@@ -7,3 +7,5 @@ image: assets/bmadcode_BMAD-METHOD_cropped.png
 # [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)
 
 AI agents for agile software development, from planning to production
+
+AI代理，用于从规划到生产的敏捷软件开发

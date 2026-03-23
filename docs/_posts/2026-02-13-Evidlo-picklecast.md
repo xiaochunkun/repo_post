@@ -7,3 +7,5 @@ image: assets/Evidlo_picklecast_20260117_030109_032_20260117_030135_00162b.png
 # [Evidlo/picklecast](https://github.com/Evidlo/picklecast)
 
 Screen share to a Raspberry Pi via a browser
+
+通过浏览器将屏幕共享到 Raspberry Pi

@@ -7,3 +7,5 @@ image: assets/nginx_proxy_acme_companion_20251023_003722_729_20251025_000126_1b6
 # [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion/)
 
 Automates SSL certificate management for proxied Docker containers
+
+自动化代理Docker容器的SSL证书管理

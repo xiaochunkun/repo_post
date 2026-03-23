@@ -7,3 +7,5 @@ image: assets/20250906T023639313--modelcontextprotocol--registry--20250907T20010
 # [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
 
 central hub for discovering and sharing MCP servers
+
+发现和分享 MCP 服务器的集中枢纽

@@ -7,3 +7,5 @@ image: assets/AvitalTamir_termsheet_20260113_214912_387_20260113_214925_57e272.p
 # [AvitalTamir/termsheet](https://github.com/AvitalTamir/termsheet)
 
 Terminal interface for Google Sheets with Emacs keybindings
+
+带Emacs键绑定的Google Sheets终端界面

@@ -7,3 +7,5 @@ image: assets/HoshinoSuzumi_chronoframe_20260129_012510_024_20260129_012547_a2fc
 # [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe)
 
 Self-hosted gallery with map and EXIF parsing
+
+自托管图库，带地图和EXIF解析

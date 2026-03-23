@@ -7,3 +7,5 @@ image: assets/johunsang_octo_terminal_releases_20260309_115019_099_20260309_1152
 # [johunsang/octo-terminal-releases](https://github.com/johunsang/octo-terminal-releases)
 
 Terminal with built-in editor, browser, and AI agents
+
+内置编辑器、浏览器和AI代理的终端

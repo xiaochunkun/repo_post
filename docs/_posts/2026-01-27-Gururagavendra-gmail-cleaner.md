@@ -7,3 +7,5 @@ image: assets/Gururagavendra_gmail_cleaner_20260121_231633_060_20260121_231649_8
 # [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner)
 
 Bulk unsubscribes and deletes emails locally via Gmail API
+
+通过Gmail API批量取消订阅和本地删除邮件

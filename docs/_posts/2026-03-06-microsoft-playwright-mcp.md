@@ -7,3 +7,5 @@ image: assets/microsoft_playwright_mcp_20260306_022943_349_20260306_023112_137c4
 # [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
 
 Connect AI assistants to web pages via accessibility trees
+
+通过无障碍树将 AI 助手连接到网页

@@ -7,3 +7,5 @@ image: assets/exislow_tidal_dl_ng_20251219_042512_140_20251219_042530_f16a98.png
 # [exislow/tidal-dl-ng](https://github.com/exislow/tidal-dl-ng/)
 
 Downloads songs and videos from TIDAL via command line or GUI
+
+通过命令行或 GUI 从 TIDAL 下载歌曲和视频

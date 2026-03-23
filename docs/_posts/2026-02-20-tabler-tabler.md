@@ -7,3 +7,5 @@ image: assets/tabler_tabler_20260208_231648_833_20260208_231711_f90eb9.png
 # [tabler/tabler](https://github.com/tabler/tabler)
 
 Dashboard template built on Bootstrap
+
+基于 Bootstrap 构建的仪表板模板

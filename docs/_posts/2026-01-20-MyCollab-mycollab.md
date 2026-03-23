@@ -7,3 +7,5 @@ image: assets/MyCollab_mycollab_20260119_211301_557_20260119_211315_13baca.png
 # [MyCollab/mycollab](https://github.com/MyCollab/mycollab)
 
 Project management software with Kanban boards and issue tracking
+
+带有看板和问题跟踪的项目管理软件

@@ -7,3 +7,5 @@ image: assets/20250911T164527197--LaurieWired--GhidraMCP--20250911T165844878--cr
 # [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
 
 lets LLMs automate reverse engineering in Ghidra
+
+让 LLM 在 Ghidra 中自动化逆向工程

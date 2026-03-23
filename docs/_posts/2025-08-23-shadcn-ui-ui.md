@@ -7,3 +7,5 @@ image: assets/20250822T022107988--shadcn-ui--ui--20250822T022808195--cropped.png
 # [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 
 copy-paste React components for your own UI library
+
+可复制粘贴的 React 组件，构建自己的 UI 库

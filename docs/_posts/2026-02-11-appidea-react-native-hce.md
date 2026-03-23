@@ -7,3 +7,5 @@ image: assets/appidea_react_native_hce_20260207_060030_147_20260207_060120_044e2
 # [appidea/react-native-hce](https://github.com/appidea/react-native-hce)
 
 Emulates smart cards on Android devices
+
+在Android设备上模拟智能卡

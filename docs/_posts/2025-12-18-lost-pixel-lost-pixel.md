@@ -7,3 +7,5 @@ image: assets/lost_pixel_lost_pixel_20251216_171302_108_20251216_171432_fadc69.p
 # [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel/)
 
 Open source visual regression testing tool
+
+开源视觉回归测试工具

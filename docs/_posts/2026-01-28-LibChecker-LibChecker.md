@@ -7,3 +7,5 @@ image: assets/LibChecker_LibChecker_20260111_050609_858_20260111_050623_7358ff.p
 # [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker)
 
 Identifies libraries and ABI architecture in apps
+
+识别应用中的库和ABI架构

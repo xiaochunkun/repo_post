@@ -7,3 +7,5 @@ image: assets/droidrun_ios_portal_20260104_185708_172_20260104_185723_6823c9.png
 # [droidrun/ios-portal](https://github.com/droidrun/ios-portal/)
 
 HTTP API for iOS automation
+
+iOS 自动化的 HTTP API

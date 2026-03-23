@@ -7,3 +7,5 @@ image: assets/20251003T231246332--devias-io--material-kit-react--20251003T231614
 # [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
 
 React admin dashboard template with Material UI, Next.js, auth pages, and dashboard components
+
+基于 Material UI、Next.js、身份验证页面和仪表板组件的 React 管理仪表板模板

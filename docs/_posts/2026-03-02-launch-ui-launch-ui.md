@@ -7,3 +7,5 @@ image: assets/launch_ui_launch_ui_20260301_194013_052_20260301_194202_15d935.png
 # [launch-ui/launch-ui](https://github.com/launch-ui/launch-ui)
 
 Landing page kit with Shadcn/ui and Tailwind
+
+使用 Shadcn/ui 和 Tailwind 的着陆页套件

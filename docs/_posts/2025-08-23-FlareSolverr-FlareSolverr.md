@@ -7,3 +7,5 @@ image: assets/20250822T024053123--FlareSolverr--FlareSolverr--20250822T024659375
 # [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 
 FlareSolverr helps you get past Cloudflare and DDoS-GUARD blocks so you can scrape websites without getting stopped
+
+帮助绕过 Cloudflare 和 DDoS-GUARD 防护，顺利爬取网页

@@ -7,3 +7,5 @@ image: assets/20251010T065053006--piskvorky--gensim--20251010T070143042--cropped
 # [piskvorky/gensim](https://github.com/piskvorky/gensim)
 
 topic modeling and document similarity for large text datasets in Python
+
+Python 中用于大型文本数据集的主题建模和文档相似性分析

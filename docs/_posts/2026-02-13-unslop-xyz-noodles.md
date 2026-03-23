@@ -7,3 +7,5 @@ image: assets/unslop_xyz_noodles_20260208_192815_949_20260208_192847_a0d920.png
 # [unslop-xyz/noodles](https://github.com/unslop-xyz/noodles)
 
 Visualizes codebases with diagrams
+
+使用图表可视化代码库

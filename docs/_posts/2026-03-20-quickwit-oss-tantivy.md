@@ -7,3 +7,5 @@ image: assets/quickwit_oss_tantivy_20260318_153211_328_20260318_153304_df714c.pn
 # [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy)
 
 Rust library for full-text search
+
+Rust全文搜索库

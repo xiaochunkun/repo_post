@@ -7,3 +7,5 @@ image: assets/NirDiamant_Prompt_Engineering_cropped.png
 # [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)
 
 prompt engineering tutorials and guides for LLMs
+
+LLM的提示工程教程和指南

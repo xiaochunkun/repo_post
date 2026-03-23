@@ -7,3 +7,5 @@ image: assets/mudler_LocalAI_cropped.png
 # [mudler/LocalAI](https://github.com/mudler/LocalAI)
 
 Local AI alternative for local inferencing
+
+本地AI替代方案，用于本地推理

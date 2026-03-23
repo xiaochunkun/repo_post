@@ -7,3 +7,5 @@ image: assets/softaworks_agent_toolkit_20260305_040235_307_20260305_040354_1c04a
 # [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit)
 
 Collection of skills for AI coding agents
+
+AI 编码智能体的技能集合

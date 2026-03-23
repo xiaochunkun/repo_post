@@ -7,3 +7,5 @@ image: assets/NVIDIA_nv_ingest_20251209_003159_755_20251209_003233_c2f046.png
 # [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest/)
 
 Extracts document content for generative applications
+
+为生成式应用提取文档内容

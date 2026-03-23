@@ -7,3 +7,5 @@ image: assets/netalertx_NetAlertX_20260205_161305_650_20260205_161324_5c729e.png
 # [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX)
 
 Monitors devices and detects changes across networks
+
+监控设备并检测网络变化

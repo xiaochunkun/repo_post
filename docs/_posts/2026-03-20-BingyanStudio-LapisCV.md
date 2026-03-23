@@ -7,3 +7,5 @@ image: assets/BingyanStudio_LapisCV_20260318_042011_911_20260318_042202_da8954.p
 # [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)
 
 Create resumes with Markdown on VSCode, Typora, Obsidian
+
+在 VSCode、Typora、Obsidian 中使用 Markdown 创建简历

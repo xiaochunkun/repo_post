@@ -7,3 +7,5 @@ image: assets/20250904T000418215--eosphoros-ai--DB-GPT--20250904T000829467--crop
 # [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 
 build AI data apps with LLMs, agents, and workflow tools
+
+用 LLM、智能体和工作流工具构建 AI 数据应用

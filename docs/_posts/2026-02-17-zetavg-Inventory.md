@@ -7,3 +7,5 @@ image: assets/zetavg_Inventory_20260216_135747_816_20260216_135855_99da7a.png
 # [zetavg/Inventory](https://github.com/zetavg/Inventory)
 
 Asset management with RFID technology
+
+使用 RFID 技术的资产管理

@@ -7,3 +7,5 @@ image: assets/papra-hq_papra_cropped.png
 # [papra-hq/papra](https://github.com/papra-hq/papra)
 
 minimal document archiving and management with search, tags, and automation
+
+极简文档归档和管理，支持搜索、标签和自动化

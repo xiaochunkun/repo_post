@@ -7,3 +7,5 @@ image: assets/AnalogJ_hatchet_20260116_130232_961_20260116_130257_99046c.png
 # [AnalogJ/hatchet](https://github.com/AnalogJ/hatchet)
 
 Generates spreadsheets to unsubscribe from email senders
+
+生成电子表格以退订邮件发送者

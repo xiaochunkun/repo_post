@@ -7,3 +7,5 @@ image: assets/MHaggis_Security_Detections_MCP_20260221_124334_890_20260221_12435
 # [MHaggis/Security-Detections-MCP](https://github.com/MHaggis/Security-Detections-MCP)
 
 MCP server for querying security detection rules
+
+查询安全检测规则的 MCP 服务器

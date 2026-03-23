@@ -7,3 +7,5 @@ image: assets/emcie_co_parlant_20251020_194103_982_20251020_235822--20251021T015
 # [emcie-co/parlant](https://github.com/emcie-co/parlant/)
 
 Ensures LLMs follow instructions
+
+确保 LLMs 遵循指令

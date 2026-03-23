@@ -7,3 +7,5 @@ image: assets/saucer_saucer_20251223_122724_058_20251223_122742_fa63dd.png
 # [saucer/saucer](https://github.com/saucer/saucer/)
 
 Builds desktop applications with C++ and web technologies
+
+使用 C++ 和 Web 技术构建桌面应用

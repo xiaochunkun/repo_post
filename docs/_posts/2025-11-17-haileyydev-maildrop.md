@@ -7,3 +7,5 @@ image: assets/haileyydev_maildrop_20251115_214825_727_20251117_040559_a13afb--20
 # [haileyydev/maildrop](https://github.com/haileyydev/maildrop/)
 
 Self-hostable disposable email inbox
+
+自托管的一次性电子邮件收件箱

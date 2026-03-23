@@ -7,3 +7,5 @@ image: assets/Infisical_infisical_20260108_022959_870_20260108_023015_f611c4.png
 # [Infisical/infisical](https://github.com/Infisical/infisical)
 
 Syncs secrets across infrastructure to prevent leaks
+
+跨基础设施同步密钥以防止泄露

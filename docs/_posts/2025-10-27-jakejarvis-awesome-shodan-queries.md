@@ -7,3 +7,5 @@ image: assets/jakejarvis_awesome_shodan_queries_20251025_120934_449_20251025_224
 # [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries/)
 
 Collection of Shodan queries for finding devices
+
+用于查找设备的Shodan查询集合

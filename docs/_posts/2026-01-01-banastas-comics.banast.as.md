@@ -7,3 +7,5 @@ image: assets/banastas_comics_banast_as_20251231_172758_783_20251231_172816_d9b7
 # [banastas/comics.banast.as](https://github.com/banastas/comics.banast.as/)
 
 Tracks comic collections with financial analytics and mobile browsing
+
+跟踪漫画收藏，包含财务分析和移动浏览

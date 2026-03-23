@@ -7,3 +7,5 @@ image: assets/vemetric_favicon_api_20251201_082807_109_20251201_082830_0b9dcd.pn
 # [vemetric/favicon-api](https://github.com/vemetric/favicon-api/)
 
 Self-hostable API to fetch website favicons
+
+可自托管的网站favicon获取API

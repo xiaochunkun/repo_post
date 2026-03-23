@@ -7,3 +7,5 @@ image: assets/kirodotdev_Kiro_cropped.png
 # [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro)
 
 Kiro: agent IDE for building software using specs, code automation, and chat
+
+Kiro：基于规范、代码自动化和聊天的软件构建代理IDE

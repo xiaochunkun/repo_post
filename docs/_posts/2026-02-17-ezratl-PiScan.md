@@ -7,3 +7,5 @@ image: assets/ezratl_PiScan_20260118_092818_814_20260118_092843_684049.png
 # [ezratl/PiScan](https://github.com/ezratl/PiScan)
 
 Turns a Raspberry Pi into a radio scanner
+
+将树莓派变成无线电扫描仪

@@ -7,3 +7,5 @@ image: assets/ModelEngine_Group_nexent_20251119_215904_755_20251120_003506_5c384
 # [ModelEngine-Group/nexent](https://github.com/ModelEngine-Group/nexent/)
 
 Auto-generates agents from natural language
+
+自然语言自动生成智能体

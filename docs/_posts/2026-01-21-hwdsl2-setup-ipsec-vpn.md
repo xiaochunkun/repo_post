@@ -7,3 +7,5 @@ image: assets/hwdsl2_setup_ipsec_vpn_20260120_093640_174_20260120_093701_eb8e7e.
 # [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 Scripts to automate IPsec VPN server setup
+
+自动化 IPsec VPN 服务器设置的脚本

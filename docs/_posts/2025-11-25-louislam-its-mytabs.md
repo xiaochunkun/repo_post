@@ -7,3 +7,5 @@ image: assets/louislam_its_mytabs_20251123_190102_509_20251124_184730_1661f2--20
 # [louislam/its-mytabs](https://github.com/louislam/its-mytabs/)
 
 Self-hostable web-based guitar tab player
+
+可自托管的基于网页的吉他谱播放器

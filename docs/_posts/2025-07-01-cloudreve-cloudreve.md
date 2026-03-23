@@ -7,3 +7,5 @@ image: assets/cloudreve_cloudreve_cropped.png
 # [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)
 
 Cloudreve file management system
+
+Cloudreve文件管理系统

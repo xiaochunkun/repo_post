@@ -7,3 +7,5 @@ image: assets/dragonflydb_dragonfly_cropped.png
 # [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
 
 dragonfly: Redis and Memcached-compatible data store,supports HTTP and Redis protocols
+
+dragonfly：兼容Redis和Memcached的数据存储，支持HTTP和Redis协议

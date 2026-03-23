@@ -7,3 +7,5 @@ image: assets/rectorphp_rector_cropped.png
 # [rectorphp/rector](https://github.com/rectorphp/rector)
 
 Automates PHP code refactoring and upgrades
+
+自动化 PHP 代码重构和升级

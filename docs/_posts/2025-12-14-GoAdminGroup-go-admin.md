@@ -7,3 +7,5 @@ image: assets/GoAdminGroup_go_admin_20251213_050308_015_20251213_050347_f96fbc.p
 # [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin/)
 
 Data visualization admin panel builder for Golang
+
+Golang 数据可视化管理面板构建器

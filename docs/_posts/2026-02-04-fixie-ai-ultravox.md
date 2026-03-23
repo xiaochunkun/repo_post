@@ -7,3 +7,5 @@ image: assets/fixie_ai_ultravox_20260203_213523_208_20260203_213549_e89053.png
 # [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox)
 
 LLM for voice interactions without ASR stage
+
+无需 ASR 阶段的语音交互 LLM

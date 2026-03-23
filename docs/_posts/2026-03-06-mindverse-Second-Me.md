@@ -7,3 +7,5 @@ image: assets/mindverse_Second_Me_20260306_023343_089_20260306_023508_19d45e.png
 # [mindverse/Second-Me](https://github.com/mindverse/Second-Me)
 
 Train AI identity with memory modeling
+
+通过记忆建模训练 AI 身份

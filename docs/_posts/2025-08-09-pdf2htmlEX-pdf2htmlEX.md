@@ -7,3 +7,5 @@ image: assets/pdf2htmlEX_pdf2htmlEX_cropped.png
 # [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX)
 
 convert pdf to html keeping text and layout
+
+将 PDF 转换为 HTML，保留文本和布局

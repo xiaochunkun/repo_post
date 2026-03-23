@@ -7,3 +7,5 @@ image: assets/eralchemy_eralchemy_20251127_205708_405_20251130_083331_cbf9f8--20
 # [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy/)
 
 Generates entity relation diagrams from databases
+
+从数据库生成实体关系图

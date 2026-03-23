@@ -7,3 +7,5 @@ image: assets/expo_skills_20260304_092942_650_20260304_093115_779119.png
 # [expo/skills](https://github.com/expo/skills)
 
 AI agent skills for building Expo apps
+
+构建 Expo 应用的 AI 代理技能

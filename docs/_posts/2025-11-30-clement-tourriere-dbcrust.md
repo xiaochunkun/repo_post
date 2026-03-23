@@ -7,3 +7,5 @@ image: assets/clement_tourriere_dbcrust_20251127_182417_009_20251130_052021_d1cc
 # [clement-tourriere/dbcrust](https://github.com/clement-tourriere/dbcrust/)
 
 Rust database CLI with context-aware autocompletion
+
+具有上下文感知自动补全的 Rust 数据库 CLI

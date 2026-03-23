@@ -7,3 +7,5 @@ image: assets/jsx_tool_jsx_tool_20251126_151639_212_20251129_022949_0f00a3--2025
 # [jsx-tool/jsx-tool](https://github.com/jsx-tool/jsx-tool/)
 
 Bridges browser and filesystem for React editing
+
+桥接浏览器和文件系统以进行 React 编辑

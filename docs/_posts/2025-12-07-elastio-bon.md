@@ -7,3 +7,5 @@ image: assets/elastio_bon_20251205_021844_863_20251205_021921_e716e8.png
 # [elastio/bon](https://github.com/elastio/bon/)
 
 Generates compile-time-checked builders for Rust functions and structs
+
+为Rust函数和结构体生成编译时检查构建器

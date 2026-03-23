@@ -7,3 +7,5 @@ image: assets/andrewwoan_mr_pandas_psychologically_safe_portfolio_20260227_01463
 # [andrewwoan/mr-pandas-psychologically-safe-portfolio](https://github.com/andrewwoan/mr-pandas-psychologically-safe-portfolio)
 
 Portfolio created with Blender and Three.js
+
+使用Blender和Three.js创建的作品集

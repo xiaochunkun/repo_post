@@ -7,3 +7,5 @@ image: assets/damianeickhoff_HaCasa_20251123_173002_653_20251124_095115_1e0542--
 # [damianeickhoff/HaCasa](https://github.com/damianeickhoff/HaCasa/)
 
 Dashboard for Home Assistant
+
+Home Assistant 的仪表板

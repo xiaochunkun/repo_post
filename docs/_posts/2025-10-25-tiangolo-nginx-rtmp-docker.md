@@ -7,3 +7,5 @@ image: assets/tiangolo_nginx_rtmp_docker_20251024_232319_409_20251025_030127_419
 # [tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker/)
 
 Docker image for an RTMP server to stream from OBS to multiple clients
+
+RTMP服务器的Docker镜像，用于从OBS流式传输到多个客户端

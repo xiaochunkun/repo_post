@@ -7,3 +7,5 @@ image: assets/20250903T235917242--dolthub--dolt--20250904T000527389--cropped.png
 # [dolthub/dolt](https://github.com/dolthub/dolt)
 
 SQL database with Git-style version control
+
+支持 Git 式版本控制的 SQL 数据库

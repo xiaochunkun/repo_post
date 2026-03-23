@@ -7,3 +7,5 @@ image: assets/20250908T224241873--vllm-project--semantic-router--20250908T224641
 # [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)
 
 routes API requests to the best language model using semantic understanding
+
+通过语义理解将 API 请求路由到最佳语言模型

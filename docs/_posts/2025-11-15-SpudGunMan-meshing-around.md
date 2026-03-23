@@ -7,3 +7,5 @@ image: assets/SpudGunMan_meshing_around_20251114_192019_263_20251115_035306_40f7
 # [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around/)
 
 Bot for Meshtastic network testing and BBS activities
+
+用于Meshtastic网络测试和BBS活动的机器人

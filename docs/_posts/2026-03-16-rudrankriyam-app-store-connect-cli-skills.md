@@ -7,3 +7,5 @@ image: assets/rudrankriyam_app_store_connect_cli_skills_20260316_033321_823_2026
 # [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)
 
 Agent skills for App Store Connect automation
+
+App Store Connect 自动化的代理技能

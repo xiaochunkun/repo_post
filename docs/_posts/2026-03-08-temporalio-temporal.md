@@ -7,3 +7,5 @@ image: assets/temporalio_temporal_20260303_173532_329_20260303_173713_20401f.png
 # [temporalio/temporal](https://github.com/temporalio/temporal)
 
 Platform for execution of workflows
+
+工作流执行平台

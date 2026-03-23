@@ -7,3 +7,5 @@ image: assets/e2b-dev_code-interpreter_cropped.png
 # [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter)
 
 run AI code in secure sandboxes from Python or JavaScript
+
+从Python或JavaScript在安全沙箱中运行AI代码

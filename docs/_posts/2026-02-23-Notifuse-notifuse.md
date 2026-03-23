@@ -7,3 +7,5 @@ image: assets/Notifuse_notifuse_20260203_174627_830_20260203_174735_00bf6e.png
 # [Notifuse/notifuse](https://github.com/Notifuse/notifuse)
 
 Self-hosted alternative to Mailchimp and Klaviyo
+
+Mailchimp 和 Klaviyo 的自主托管替代方案

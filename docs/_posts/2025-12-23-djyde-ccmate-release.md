@@ -7,3 +7,5 @@ image: assets/djyde_ccmate_release_20251222_160151_437_20251222_160212_75e4f9.pn
 # [djyde/ccmate-release](https://github.com/djyde/ccmate-release/)
 
 GUI for Claude Code
+
+Claude Code的图形用户界面

@@ -7,3 +7,5 @@ image: assets/20250822T020121773--remoteintech--remote-jobs--20250822T021226822-
 # [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 
 list of remote-friendly tech companies
+
+支持远程办公的科技公司列表

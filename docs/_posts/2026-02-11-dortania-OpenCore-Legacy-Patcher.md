@@ -7,3 +7,5 @@ image: assets/dortania_OpenCore_Legacy_Patcher_20260202_223343_766_20260202_2234
 # [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
 Installs macOS on unsupported Macs
+
+在不支持的Mac上安装macOS

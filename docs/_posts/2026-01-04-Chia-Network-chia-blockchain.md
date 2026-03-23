@@ -7,3 +7,5 @@ image: assets/Chia_Network_chia_blockchain_20260103_091326_086_20260103_091413_3
 # [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain/)
 
 Blockchain with proof of space and time consensus
+
+采用时空证明共识的区块链

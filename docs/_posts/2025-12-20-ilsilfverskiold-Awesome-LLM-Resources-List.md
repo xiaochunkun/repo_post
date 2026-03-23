@@ -7,3 +7,5 @@ image: assets/ilsilfverskiold_Awesome_LLM_Resources_List_20251218_094016_116_202
 # [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/)
 
 Curated list of LLM resources
+
+精选的 LLM 资源列表

@@ -7,3 +7,5 @@ image: assets/lima-vm_lima_cropped.png
 # [lima-vm/lima](https://github.com/lima-vm/lima)
 
 run Linux virtual machines on desktop systems with file sharing and port forwarding
+
+在桌面系统上运行Linux虚拟机，支持文件共享和端口转发

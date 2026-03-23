@@ -7,3 +7,5 @@ image: assets/vercel_labs_opensrc_20260226_101127_887_20260226_101307_a63b13.png
 # [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc)
 
 Fetches package source code for AI agents
+
+为AI代理获取软件包源代码

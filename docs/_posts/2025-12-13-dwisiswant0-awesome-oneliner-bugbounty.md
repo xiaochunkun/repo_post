@@ -7,3 +7,5 @@ image: assets/dwisiswant0_awesome_oneliner_bugbounty_20251210_021335_024_2025121
 # [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty/)
 
 Collection of one-liner scripts for bug bounty
+
+漏洞赏金单行脚本集合

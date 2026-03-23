@@ -7,3 +7,5 @@ image: assets/wwwzhouhui_in_animation_20251120_050524_500_20251120_195105_bd7c2a
 # [wwwzhouhui/in_animation](https://github.com/wwwzhouhui/in_animation/)
 
 Generates educational HTML5 animations using AI
+
+使用 AI 生成教育性 HTML5 动画

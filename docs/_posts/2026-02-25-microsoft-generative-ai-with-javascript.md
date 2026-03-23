@@ -7,3 +7,5 @@ image: assets/microsoft_generative_ai_with_javascript_20260130_043501_607_202601
 # [microsoft/generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript)
 
 Teaches generative AI through a time-traveling adventure
+
+通过时间旅行冒险教授生成式 AI

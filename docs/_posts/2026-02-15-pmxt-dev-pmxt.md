@@ -7,3 +7,5 @@ image: assets/pmxt_dev_pmxt_20260211_092327_958_20260211_092354_29667e.png
 # [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt)
 
 Unified API for prediction markets
+
+预测市场的统一API

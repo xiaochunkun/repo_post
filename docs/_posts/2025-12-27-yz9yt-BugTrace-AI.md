@@ -7,3 +7,5 @@ image: assets/yz9yt_BugTrace_AI_20251226_023005_161_20251226_023027_9ed3db.png
 # [yz9yt/BugTrace-AI](https://github.com/yz9yt/BugTrace-AI/)
 
 AI suite for web vulnerability analysis
+
+用于 Web 漏洞分析的 AI 套件

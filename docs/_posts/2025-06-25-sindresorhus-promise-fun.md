@@ -7,3 +7,5 @@ image: assets/sindresorhus_promise-fun_cropped.png
 # [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun)
 
 Collection of promise modules and examples for handling async tasks
+
+处理异步任务的promise模块和示例集合

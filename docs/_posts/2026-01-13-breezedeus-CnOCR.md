@@ -7,3 +7,5 @@ image: assets/breezedeus_CnOCR_20260111_131907_290_20260111_131921_d95d32.png
 # [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR)
 
 OCR toolkit with 20+ models for Chinese and English
+
+包含20多个模型的中英文OCR工具包

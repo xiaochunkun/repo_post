@@ -7,3 +7,5 @@ image: assets/smtg_ai_claude_squad_20260227_181124_034_20260227_181306_d1d4a5.pn
 # [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)
 
 Manages terminal agents in workspaces
+
+管理工作空间中的终端代理

@@ -7,3 +7,5 @@ image: assets/8_bit_sheep_googleAnalyticsR_20260313_114312_976_20260313_114515_8
 # [8-bit-sheep/googleAnalyticsR](https://github.com/8-bit-sheep/googleAnalyticsR)
 
 Access web analytics data in R
+
+在R中访问网络分析数据

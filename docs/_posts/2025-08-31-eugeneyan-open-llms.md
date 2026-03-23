@@ -7,3 +7,5 @@ image: assets/20250830T150011855--eugeneyan--open-llms--20250830T150810390--crop
 # [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms)
 
 List of open-source LLMs with commercial-friendly licenses
+
+商业友好许可的开源大模型列表

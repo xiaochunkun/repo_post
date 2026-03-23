@@ -7,3 +7,5 @@ image: assets/deeztek_Hermes_Secure_Email_Gateway_20260118_074748_356_20260118_0
 # [deeztek/Hermes-Secure-Email-Gateway](https://github.com/deeztek/Hermes-Secure-Email-Gateway)
 
 Email gateway with spam protection and encryption
+
+带有垃圾邮件保护和加密的电子邮件网关

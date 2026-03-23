@@ -7,3 +7,5 @@ image: assets/20250904T000059078--zed-industries--zed--20250910T031502894--cropp
 # [zed-industries/zed](https://github.com/zed-industries/zed)
 
 multiplayer code editor from Atom and Tree-sitter creators
+
+Atom 和 Tree-sitter 创始人打造的多人协作代码编辑器

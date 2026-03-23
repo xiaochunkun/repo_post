@@ -7,3 +7,5 @@ image: assets/peters_horizon_20260322_125457_774_20260322_125522_71bb72.png
 # [peters/horizon](https://github.com/peters/horizon)
 
 GPU-accelerated terminal board on infinite canvas
+
+无限画布上的GPU加速终端板

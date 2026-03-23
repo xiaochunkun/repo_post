@@ -7,3 +7,5 @@ image: assets/ggml_org_llama_cpp_20260303_103358_029_20260303_103544_f87499.png
 # [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 Runs quantized LLMs on consumer hardware
+
+在消费级硬件上运行量化 LLM

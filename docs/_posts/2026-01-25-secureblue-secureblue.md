@@ -7,3 +7,5 @@ image: assets/secureblue_secureblue_20260124_085506_805_20260124_085537_f6459e.p
 # [secureblue/secureblue](https://github.com/secureblue/secureblue)
 
 Hardened Linux images based on Fedora Atomic Desktop
+
+基于Fedora Atomic Desktop的强化Linux镜像

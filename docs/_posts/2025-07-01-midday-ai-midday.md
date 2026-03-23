@@ -7,3 +7,5 @@ image: assets/midday-ai_midday_cropped.png
 # [midday-ai/midday](https://github.com/midday-ai/midday)
 
 Invoicing and time tracking tools for freelancers
+
+自由职业者的发票和时间跟踪工具

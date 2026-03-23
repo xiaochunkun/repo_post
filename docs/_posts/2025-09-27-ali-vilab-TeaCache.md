@@ -7,3 +7,5 @@ image: assets/20250927T040111040--ali-vilab--TeaCache--20250927T040629129--cropp
 # [ali-vilab/TeaCache](https://github.com/ali-vilab/TeaCache)
 
 Speeds up video and image diffusion models by caching computations, no retraining needed
+
+通过缓存计算加速视频和图像扩散模型，无需重新训练

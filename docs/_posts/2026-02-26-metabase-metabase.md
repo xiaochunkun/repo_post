@@ -7,3 +7,5 @@ image: assets/metabase_metabase_20260221_134608_551_20260221_134623_da6dd1.png
 # [metabase/metabase](https://github.com/metabase/metabase)
 
 Business intelligence tool for data visualization
+
+用于数据可视化的商业智能工具

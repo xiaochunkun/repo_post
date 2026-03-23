@@ -7,3 +7,5 @@ image: assets/sipeed_NanoKVM_USB_20260204_041604_756_20260204_041656_d78738.png
 # [sipeed/NanoKVM-USB](https://github.com/sipeed/NanoKVM-USB)
 
 KVM over USB with 4K video capture and HDMI loop-out
+
+支持4K视频采集和HDMI环出的USB KVM

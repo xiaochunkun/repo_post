@@ -7,3 +7,5 @@ image: assets/imacrayon_alpine_ajax_20251207_184732_978_20251207_184807_22f330.p
 # [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax/)
 
 AlpineJS directives for asynchronous HTTP requests
+
+用于异步 HTTP 请求的 AlpineJS 指令

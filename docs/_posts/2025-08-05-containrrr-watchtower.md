@@ -7,3 +7,5 @@ image: assets/containrrr_watchtower_cropped.png
 # [containrrr/watchtower](https://github.com/containrrr/watchtower)
 
 auto updates your Docker containers
+
+自动更新 Docker 容器

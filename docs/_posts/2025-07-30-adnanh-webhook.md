@@ -7,3 +7,5 @@ image: assets/adnanh_webhook_cropped.png
 # [adnanh/webhook](https://github.com/adnanh/webhook)
 
 run shell commands from webhooks
+
+从webhook运行shell命令

@@ -7,3 +7,5 @@ image: assets/Tencent_Hunyuan_HunyuanVideo_Avatar_20260108_054033_783_20260108_0
 # [Tencent-Hunyuan/HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar)
 
 Generates human animation from audio and images
+
+从音频和图像生成人类动画

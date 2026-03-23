@@ -7,3 +7,5 @@ image: assets/DiscovAI_DiscovAI_search_20251218_002930_840_20251218_002948_8eed0
 # [DiscovAI/DiscovAI-search](https://github.com/DiscovAI/DiscovAI-search/)
 
 Search engine for AI tools using vector-based matching and Redis caching
+
+使用向量匹配和 Redis 缓存的 AI 工具搜索引擎

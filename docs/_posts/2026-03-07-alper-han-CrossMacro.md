@@ -7,3 +7,5 @@ image: assets/alper_han_CrossMacro_20260224_134327_442_20260224_134353_9b6916.pn
 # [alper-han/CrossMacro](https://github.com/alper-han/CrossMacro)
 
 Records and plays macros across Linux, Windows, and macOS
+
+跨 Linux、Windows 和 macOS 录制和播放宏

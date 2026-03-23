@@ -7,3 +7,5 @@ image: assets/luigi311_JellyPlex_Watched_20251123_121917_649_20251124_003231_98b
 # [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched/)
 
 Syncs watch history across Jellyfin, Plex, and Emby
+
+同步 Jellyfin、Plex 和 Emby 的观看历史

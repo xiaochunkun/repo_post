@@ -7,3 +7,5 @@ image: assets/20250820T130610111_mcnuttandrew_cssql--20250820T131136719--cropped
 # [mcnuttandrew/cssql](https://github.com/mcnuttandrew/cssql)
 
 write CSS with SQL-like syntax for stylesheets
+
+用类 SQL 语法编写 CSS 样式表

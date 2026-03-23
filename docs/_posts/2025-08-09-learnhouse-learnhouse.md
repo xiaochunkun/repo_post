@@ -7,3 +7,5 @@ image: assets/learnhouse_learnhouse_cropped.png
 # [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse)
 
 open source platform for building and running online courses
+
+开源平台，用于构建和运行在线课程

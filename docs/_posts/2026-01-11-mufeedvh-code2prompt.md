@@ -7,3 +7,5 @@ image: assets/mufeedvh_code2prompt_20260111_070839_458_20260111_070852_e477c8.pn
 # [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)
 
 Converts codebases into prompts with token counting
+
+将代码库转换为带令牌计数的提示

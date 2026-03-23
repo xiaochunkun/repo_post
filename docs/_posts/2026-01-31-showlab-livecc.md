@@ -7,3 +7,5 @@ image: assets/showlab_livecc_20260128_171856_773_20260128_171934_841e3c.png
 # [showlab/livecc](https://github.com/showlab/livecc)
 
 Video LLM for real-time commentary with streaming speech transcription
+
+带流式语音转录的实时评论视频LLM

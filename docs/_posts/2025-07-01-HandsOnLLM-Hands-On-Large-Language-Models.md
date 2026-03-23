@@ -7,3 +7,5 @@ image: assets/HandsOnLLM_Hands-On-Large-Language-Models_cropped.png
 # [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
 Code repository for Hands-On Large Language Models book
+
+《Hands-On Large Language Models》书籍的代码仓库

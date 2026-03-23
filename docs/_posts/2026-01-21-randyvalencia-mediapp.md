@@ -7,3 +7,5 @@ image: assets/randyvalencia_mediapp_20260120_221601_579_20260120_221631_18d7c8.p
 # [randyvalencia/mediapp](https://github.com/randyvalencia/mediapp)
 
 Flutter medical application design with health tracking dashboards
+
+Flutter 医疗应用设计，包含健康追踪仪表板

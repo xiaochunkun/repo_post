@@ -7,3 +7,5 @@ image: assets/aaPanel_BillionMail_20260108_030201_062_20260108_030214_3fb5c3.png
 # [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)
 
 Mail server for email marketing
+
+用于电子邮件营销的邮件服务器

@@ -7,3 +7,5 @@ image: assets/TencentCloudADP_youtu_tip_20260203_094430_276_20260203_094450_0308
 # [TencentCloudADP/youtu-tip](https://github.com/TencentCloudADP/youtu-tip)
 
 On-device AI assistant for contextual intent detection
+
+设备端 AI 助手，用于上下文意图检测

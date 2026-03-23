@@ -7,3 +7,5 @@ image: assets/Vineflower_vineflower_20251027_183644_940_20251028_090643_20a621--
 # [Vineflower/vineflower](https://github.com/Vineflower/vineflower/)
 
 JVM language decompiler with Java 21+ support
+
+支持 Java 21+ 的 JVM 语言反编译器

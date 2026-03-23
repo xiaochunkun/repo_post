@@ -7,3 +7,5 @@ image: assets/fransallen_dns_profile_generator_20260205_011914_060_20260205_0119
 # [fransallen/dns-profile-generator](https://github.com/fransallen/dns-profile-generator)
 
 Generates encrypted DNS profiles for Apple devices
+
+为Apple设备生成加密DNS配置文件

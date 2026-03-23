@@ -7,3 +7,5 @@ image: assets/axel358_smartdock_20260122_112429_458_20260122_112444_eed4e1.png
 # [axel358/smartdock](https://github.com/axel358/smartdock)
 
 Desktop mode launcher for Android
+
+Android桌面模式启动器

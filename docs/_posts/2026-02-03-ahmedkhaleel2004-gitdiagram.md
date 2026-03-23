@@ -7,3 +7,5 @@ image: assets/ahmedkhaleel2004_gitdiagram_20260202_233531_668_20260202_233557_4d
 # [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
 
 Converts GitHub repositories into interactive diagrams
+
+将GitHub仓库转换为交互式图表

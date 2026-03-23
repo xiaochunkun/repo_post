@@ -7,3 +7,5 @@ image: assets/jumpserver_jumpserver_cropped.png
 # [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
 
 open-source tool for secure remote access and IT asset management
+
+用于安全远程访问和 IT 资产管理开源工具

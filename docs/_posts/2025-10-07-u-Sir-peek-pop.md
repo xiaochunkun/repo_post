@@ -7,3 +7,5 @@ image: assets/20251007T024304779--u-Sir--peek-pop--20251007T025150702--cropped.p
 # [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop)
 
 browser extension for previewing and saving pages to read later
+
+浏览器扩展，用于预览和保存页面稍后阅读

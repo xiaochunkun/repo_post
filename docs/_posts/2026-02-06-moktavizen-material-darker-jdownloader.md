@@ -7,3 +7,5 @@ image: assets/moktavizen_material_darker_jdownloader_20260204_193030_595_2026020
 # [moktavizen/material-darker-jdownloader](https://github.com/moktavizen/material-darker-jdownloader)
 
 Dark theme with 250 icons for JDownloader
+
+为JDownloader提供250个图标的深色主题

@@ -7,3 +7,5 @@ image: assets/0x23_MicroManipulatorStepper_20251125_023446_332_20251127_162410_7
 # [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper/)
 
 Submicron precision motion control platform
+
+亚微米精度运动控制平台

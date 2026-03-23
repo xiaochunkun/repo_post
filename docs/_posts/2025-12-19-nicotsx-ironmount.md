@@ -7,3 +7,5 @@ image: assets/nicotsx_ironmount_20251217_214803_549_20251217_214821_a06537.png
 # [nicotsx/ironmount](https://github.com/nicotsx/ironmount/)
 
 Automates backups for remote storage with encryption and scheduling
+
+自动化远程存储备份，支持加密和调度

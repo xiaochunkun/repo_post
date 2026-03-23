@@ -7,3 +7,5 @@ image: assets/iptv-org_awesome-iptv--20250816T050756400--cropped.png
 # [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
 
 Curated IPTV apps, tools, and resources list
+
+精选IPTV应用、工具和资源列表

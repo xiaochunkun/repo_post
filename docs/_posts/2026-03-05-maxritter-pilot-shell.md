@@ -7,3 +7,5 @@ image: assets/maxritter_pilot_shell_20260304_205004_344_20260304_205145_ac6009.p
 # [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell)
 
 Development environment for Claude Code
+
+Claude Code的开发环境

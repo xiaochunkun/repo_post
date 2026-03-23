@@ -7,3 +7,5 @@ image: assets/louisbrulenaudet_genai_api_20251203_014019_900_20251203_014129_1eb
 # [louisbrulenaudet/genai-api](https://github.com/louisbrulenaudet/genai-api/)
 
 Integrates Gemini into Apple Shortcuts via Cloudflare Workers
+
+通过Cloudflare Workers将Gemini集成到Apple Shortcuts

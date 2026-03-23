@@ -7,3 +7,5 @@ image: assets/OS_Copilot_ScienceBoard_20260227_105125_758_20260227_105309_fda63c
 # [OS-Copilot/ScienceBoard](https://github.com/OS-Copilot/ScienceBoard)
 
 Benchmark for agents in scientific workflows
+
+科学工作流中代理的基准测试

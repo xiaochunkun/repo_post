@@ -7,3 +7,5 @@ image: assets/abatsakidis_FaceRecognition_20260101_221132_726_20260101_221151_03
 # [abatsakidis/FaceRecognition](https://github.com/abatsakidis/FaceRecognition/)
 
 Detects and recognizes faces in real time
+
+实时检测和识别人脸

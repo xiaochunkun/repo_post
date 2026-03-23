@@ -7,3 +7,5 @@ image: assets/cpeditor_cpeditor_20251209_031212_787_20251209_031248_30840c.png
 # [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)
 
 IDE for competitive programming
+
+竞技编程IDE

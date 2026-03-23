@@ -7,3 +7,5 @@ image: assets/universal-mcp_universal-mcp--20250817T075126477--cropped.png
 # [universal-mcp/universal-mcp](https://github.com/universal-mcp/universal-mcp)
 
 middleware for connecting APIs and managing credentials
+
+连接API和管理凭证的中间件

@@ -7,3 +7,5 @@ image: assets/20250924T060149099--surrealdb--surrealist--20250924T060744297--cro
 # [surrealdb/surrealist](https://github.com/surrealdb/surrealist)
 
 Visual interface for managing SurrealDB, run queries, explore data, design schemas
+
+SurrealDB 的可视化管理界面，运行查询、探索数据、设计模式

@@ -7,3 +7,5 @@ image: assets/be5invis_Iosevka--20250919T014744035--cropped.png
 # [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
 
 monospaced font for coding and terminals
+
+用于编码和终端的等宽字体

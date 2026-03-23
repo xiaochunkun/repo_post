@@ -7,3 +7,5 @@ image: assets/perstarkse_minne_20251219_030538_425_20251219_030556_a6c693.png
 # [perstarkse/minne](https://github.com/perstarkse/minne/)
 
 Graph database for the Zettelkasten method
+
+Zettelkasten方法的图数据库

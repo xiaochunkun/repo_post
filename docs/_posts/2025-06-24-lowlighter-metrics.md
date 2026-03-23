@@ -7,3 +7,5 @@ image: assets/lowlighter_metrics_cropped.png
 # [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 GitHub account stats generator with plugins and export as images or data
+
+GitHub账户统计生成器，带插件并支持导出为图像或数据

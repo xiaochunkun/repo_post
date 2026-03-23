@@ -7,3 +7,5 @@ image: assets/alexbatalov_fallout1_ce_20251123_193238_307_20251125_012142_05331f
 # [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce/)
 
 Re-implementation of Fallout for modern platforms
+
+为现代平台重新实现的 Fallout

@@ -7,3 +7,5 @@ image: assets/KoljaB_RealtimeSTT_20260321_001544_509_20260321_001627_5d1c81.png
 # [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
 
 Realtime speech-to-text library
+
+实时语音转文本库

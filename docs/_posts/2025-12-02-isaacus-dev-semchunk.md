@@ -7,3 +7,5 @@ image: assets/isaacus_dev_semchunk_20251201_010710_397_20251201_012309_46b066.pn
 # [isaacus-dev/semchunk](https://github.com/isaacus-dev/semchunk/)
 
 Splits text into semantically meaningful chunks
+
+将文本分割成语义上有意义的块

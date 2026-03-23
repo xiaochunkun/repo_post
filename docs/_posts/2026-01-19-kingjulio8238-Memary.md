@@ -7,3 +7,5 @@ image: assets/kingjulio8238_Memary_20260116_102737_252_20260116_102834_ecb1c7.pn
 # [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary)
 
 Memory layer for autonomous agents
+
+自主代理的记忆层

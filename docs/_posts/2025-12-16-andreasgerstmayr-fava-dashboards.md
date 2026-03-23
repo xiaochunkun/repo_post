@@ -7,3 +7,5 @@ image: assets/andreasgerstmayr_fava_dashboards_20251213_122942_124_20251213_1230
 # [andreasgerstmayr/fava-dashboards](https://github.com/andreasgerstmayr/fava-dashboards/)
 
 Creates custom dashboards in Fava
+
+在Fava中创建自定义仪表板

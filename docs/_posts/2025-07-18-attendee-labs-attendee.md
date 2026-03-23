@@ -7,3 +7,5 @@ image: assets/attendee-labs_attendee_cropped.png
 # [attendee-labs/attendee](https://github.com/attendee-labs/attendee)
 
 API for building meeting bots
+
+构建会议机器人的 API

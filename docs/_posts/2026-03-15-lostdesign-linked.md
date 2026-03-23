@@ -7,3 +7,5 @@ image: assets/lostdesign_linked_20260314_121143_518_20260314_121443_7a7180.png
 # [lostdesign/linked](https://github.com/lostdesign/linked)
 
 Record thoughts without distraction
+
+无干扰记录想法

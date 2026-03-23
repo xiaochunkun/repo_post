@@ -7,3 +7,5 @@ image: assets/louisho5_picobot_20260213_203547_916_20260213_203647_3f0a04.png
 # [louisho5/picobot](https://github.com/louisho5/picobot)
 
 Self-hosted agent in a 12MB binary
+
+12MB二进制文件中的自托管代理

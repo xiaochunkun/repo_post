@@ -7,3 +7,5 @@ image: assets/CopilotKit_generative_ui_20260223_133844_394_20260223_133913_d3228
 # [CopilotKit/generative-ui](https://github.com/CopilotKit/generative-ui)
 
 Generative UI for agentic applications
+
+代理应用的生成式UI

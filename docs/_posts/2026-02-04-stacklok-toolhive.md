@@ -7,3 +7,5 @@ image: assets/stacklok_toolhive_20260203_014528_102_20260203_014547_e311e0.png
 # [stacklok/toolhive](https://github.com/stacklok/toolhive)
 
 Deploys MCP servers in containers
+
+在容器中部署MCP服务器

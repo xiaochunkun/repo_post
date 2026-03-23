@@ -7,3 +7,5 @@ image: assets/fabriziosalmi_caddy-waf_cropped.png
 # [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf)
 
 Caddy WAF middleware for threat protection
+
+Caddy WAF 中间件，用于威胁防护

@@ -7,3 +7,5 @@ image: assets/20250912T002130043--mozilla--pdf.js--20250912T002349601--cropped.p
 # [mozilla/pdf.js](https://github.com/mozilla/pdf.js)
 
 JavaScript library for viewing PDFs in the browser
+
+在浏览器中查看 PDF 的 JavaScript 库

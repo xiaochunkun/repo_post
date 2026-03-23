@@ -7,3 +7,5 @@ image: assets/D4Vinci_Scrapling_20251020_075736_877_20251020_141503--20251020T16
 # [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling/)
 
 Adaptive web scraping for evolving websites
+
+针对动态网站的自适应网络爬虫

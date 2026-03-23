@@ -7,3 +7,5 @@ image: assets/amruthpillai_reactive_resume_20260210_183126_282_20260210_183151_9
 # [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume)
 
 Resume builder with real-time preview and PDF export
+
+带实时预览和PDF导出的简历构建器

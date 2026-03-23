@@ -7,3 +7,5 @@ image: assets/aceberg_WatchYourLAN_cropped.png
 # [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 
 Network IP scanner with web interface
+
+带有 Web 界面的网络 IP 扫描器

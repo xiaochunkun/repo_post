@@ -7,3 +7,5 @@ image: assets/xataio_pgstream_cropped.png
 # [xataio/pgstream](https://github.com/xataio/pgstream)
 
 Postgres replication tool handling schema and data changes, streams to various outputs
+
+Postgres复制工具，处理模式和数据变更，流式传输到各种输出

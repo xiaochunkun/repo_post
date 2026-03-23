@@ -7,3 +7,5 @@ image: assets/CyberTimon_RapidRAW_20260108_044341_561_20260108_044415_0d283a.png
 # [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)
 
 GPU-accelerated RAW image editor built with Rust and React
+
+使用 Rust 和 React 构建的 GPU 加速 RAW 图像编辑器

@@ -7,3 +7,5 @@ image: assets/alb_uss_SECMON_20260117_075135_639_20260117_075150_78956e.png
 # [alb-uss/SECMON](https://github.com/alb-uss/SECMON)
 
 Automates vulnerability management and infosec monitoring
+
+自动化漏洞管理和信息安全监控

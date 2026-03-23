@@ -7,3 +7,5 @@ image: assets/20250822T020618418--GokuMohandas--Made-With-ML--20250822T020934514
 # [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
 
 ML lessons for building and deploying real-world machine learning apps
+
+机器学习实战教程，涵盖构建和部署真实 ML 应用

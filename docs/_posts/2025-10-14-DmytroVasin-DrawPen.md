@@ -7,3 +7,5 @@ image: assets/20251014T005450399--DmytroVasin--DrawPen--20251014T011320094--crop
 # [DmytroVasin/DrawPen](https://github.com/DmytroVasin/DrawPen)
 
 screen annotation tool for Windows, macOS, and Linux
+
+适用于 Windows、macOS 和 Linux 的屏幕标注工具

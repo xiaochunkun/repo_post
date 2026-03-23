@@ -7,3 +7,5 @@ image: assets/mustafakendiguzel_claude_code_ui_agents_20260208_184606_984_202602
 # [mustafakendiguzel/claude-code-ui-agents](https://github.com/mustafakendiguzel/claude-code-ui-agents)
 
 Claude prompts for frontend development
+
+用于前端开发的Claude提示

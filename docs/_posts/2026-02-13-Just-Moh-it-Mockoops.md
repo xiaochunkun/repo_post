@@ -7,3 +7,5 @@ image: assets/Just_Moh_it_Mockoops_20260212_114137_380_20260212_114225_71891b.pn
 # [Just-Moh-it/Mockoops](https://github.com/Just-Moh-it/Mockoops)
 
 Converts screen recordings into animated mockups
+
+将屏幕录制转换为动画模拟

@@ -7,3 +7,5 @@ image: assets/SakanaAI_AI_Scientist_20260204_035300_671_20260204_035318_f93838.p
 # [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 
 Automates scientific research and discovery with foundation models
+
+使用基础模型自动化科学研究和发现

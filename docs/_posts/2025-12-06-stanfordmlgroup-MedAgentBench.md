@@ -7,3 +7,5 @@ image: assets/stanfordmlgroup_MedAgentBench_20251203_003737_297_20251203_003759_
 # [stanfordmlgroup/MedAgentBench](https://github.com/stanfordmlgroup/MedAgentBench/)
 
 Virtual EHR environment for benchmarking medical LLM agents
+
+用于基准测试医疗LLM代理的虚拟EHR环境

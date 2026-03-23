@@ -7,3 +7,5 @@ image: assets/Doriandarko_make_it_heavy_20251207_201429_293_20251207_201504_a9b8
 # [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy/)
 
 Emulates Grok heavy mode via multi-agent orchestration
+
+通过多智能体编排模拟Grok的重度模式

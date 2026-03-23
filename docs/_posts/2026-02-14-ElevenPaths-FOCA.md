@@ -7,3 +7,5 @@ image: assets/ElevenPaths_FOCA_20260212_153228_037_20260212_153328_de436d.png
 # [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA)
 
 Extracts metadata and hidden information from documents
+
+从文档中提取元数据和隐藏信息

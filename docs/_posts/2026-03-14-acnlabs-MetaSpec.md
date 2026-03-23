@@ -7,3 +7,5 @@ image: assets/acnlabs_MetaSpec_20260308_211720_007_20260308_211849_517b53.png
 # [acnlabs/MetaSpec](https://github.com/acnlabs/MetaSpec)
 
 Generates toolkits for AI agents from specifications
+
+从规范生成AI代理工具包

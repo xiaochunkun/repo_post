@@ -7,3 +7,5 @@ image: assets/20250912T001059710--guoyww--AnimateDiff--20250912T001611497--cropp
 # [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)
 
 turns text-to-image models into animation generators
+
+将文生图模型转化为动画生成器

@@ -7,3 +7,5 @@ image: assets/heilcheng_awesome_agent_skills_20260308_141801_472_20260308_142809
 # [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)
 
 Teaches AI assistants new abilities via text files
+
+通过文本文件教授AI助手新能力

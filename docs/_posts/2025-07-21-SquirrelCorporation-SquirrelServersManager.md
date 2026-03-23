@@ -7,3 +7,5 @@ image: assets/SquirrelCorporation_SquirrelServersManager_cropped.png
 # [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager)
 
 manage servers and containers with a simple interface
+
+通过简洁界面管理服务器与容器

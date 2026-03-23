@@ -7,3 +7,5 @@ image: assets/Gonzalo_D_Sales_obsidian_velocity_20251023_002544_310_20251023_221
 # [Gonzalo-D-Sales/obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity/)
 
 Obsidian theme inspired by 2000s racing game UIs
+
+受2000年代赛车游戏UI启发的Obsidian主题

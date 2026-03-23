@@ -7,3 +7,5 @@ image: assets/atakanaltok_awesome-useful-websites_cropped.png
 # [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites)
 
 list of handy websites for all kinds of needs
+
+各类实用网站列表

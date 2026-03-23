@@ -7,3 +7,5 @@ image: assets/cairn_dev_cairn_20251106_195219_694_20251106_223147_763404--202511
 # [cairn-dev/cairn](https://github.com/cairn-dev/cairn/)
 
 Github-integrated background agents for software engineering tasks
+
+集成GitHub的软件工程任务后台代理

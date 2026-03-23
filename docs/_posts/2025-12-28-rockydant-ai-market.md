@@ -7,3 +7,5 @@ image: assets/rockydant_ai_market_20251227_001505_038_20251227_001522_893f92.png
 # [rockydant/ai-market](https://github.com/rockydant/ai-market/)
 
 Multi-agent system for financial market analysis
+
+用于金融市场分析的多智能体系统

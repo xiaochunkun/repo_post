@@ -7,3 +7,5 @@ image: assets/NorskRegnesentral_streamchange_cropped.png
 # [NorskRegnesentral/streamchange](https://github.com/NorskRegnesentral/streamchange)
 
 segment streaming time series with change-point detection
+
+使用变化点检测分割流式时间序列

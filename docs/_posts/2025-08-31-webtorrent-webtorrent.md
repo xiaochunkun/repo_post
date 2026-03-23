@@ -7,3 +7,5 @@ image: assets/20250830T174231998--webtorrent--webtorrent--20250830T174615531--cr
 # [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)
 
 streaming torrent client for web and node
+
+Web 和 Node.js 的流式种子下载客户端

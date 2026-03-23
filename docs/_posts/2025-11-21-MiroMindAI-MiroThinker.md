@@ -7,3 +7,5 @@ image: assets/MiroMindAI_MiroThinker_20251120_051934_131_20251120_195136_df226c-
 # [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker/)
 
 Research agent for tool-augmented reasoning
+
+用于工具增强推理的研究代理

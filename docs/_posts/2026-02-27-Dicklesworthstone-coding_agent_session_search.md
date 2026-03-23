@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_coding_agent_session_search_20260227_052741_749_
 # [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search)
 
 Indexes coding agent history into a timeline
+
+将编码智能体历史索引为时间线

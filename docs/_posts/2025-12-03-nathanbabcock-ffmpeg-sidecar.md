@@ -7,3 +7,5 @@ image: assets/nathanbabcock_ffmpeg_sidecar_20251201_074526_537_20251201_074604_5
 # [nathanbabcock/ffmpeg-sidecar](https://github.com/nathanbabcock/ffmpeg-sidecar/)
 
 Wraps FFmpeg binary in an iterator interface
+
+将FFmpeg二进制文件包装在迭代器接口中

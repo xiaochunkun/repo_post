@@ -7,3 +7,5 @@ image: assets/maxkrieger_voiceliner_20260206_195325_840_20260206_195354_e1cf75.p
 # [maxkrieger/voiceliner](https://github.com/maxkrieger/voiceliner)
 
 Transcribes voice memos into outlines for Android and iOS
+
+将语音备忘录转录为大纲，适用于Android和iOS

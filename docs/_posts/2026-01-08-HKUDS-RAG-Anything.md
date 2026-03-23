@@ -7,3 +7,5 @@ image: assets/HKUDS_RAG_Anything_20260108_023346_604_20260108_023406_cedb8a.png
 # [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)
 
 Retrieval system for documents with images and tables
+
+支持图像和表格的文档检索系统

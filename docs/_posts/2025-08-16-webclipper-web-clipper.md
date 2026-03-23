@@ -7,3 +7,5 @@ image: assets/webclipper_web-clipper--20250815T025612249--cropped.png
 # [webclipper/web-clipper](https://github.com/webclipper/web-clipper)
 
 save web content anywhere with this open source browser extension
+
+开源浏览器扩展，可保存任意网页内容

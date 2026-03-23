@@ -7,3 +7,5 @@ image: assets/orinimron123_DriverExplorer_20260318_015757_600_20260318_015917_77
 # [orinimron123/DriverExplorer](https://github.com/orinimron123/DriverExplorer)
 
 Rust kernel driver viewer with dark GUI
+
+Rust内核驱动查看器，带深色GUI

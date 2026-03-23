@@ -7,3 +7,5 @@ image: assets/joeycastillo_The_Open_Book_20251120_001953_514_20251120_003752_870
 # [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book/)
 
 Open source e-reader based on Raspberry Pi Pico
+
+基于Raspberry Pi Pico的开源电子书阅读器

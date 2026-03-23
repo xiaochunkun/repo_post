@@ -7,3 +7,5 @@ image: assets/ChatGPTNextWeb_NextChat_cropped.png
 # [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 AI chat app for web and desktop, open source
+
+开源AI聊天应用，适用于Web和桌面

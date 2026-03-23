@@ -7,3 +7,5 @@ image: assets/sindresorhus_image_dimensions_20251118_110415_469_20251119_212521_
 # [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions/)
 
 Get image dimensions in any JavaScript environment
+
+JavaScript环境获取图片尺寸

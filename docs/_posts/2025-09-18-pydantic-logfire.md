@@ -7,3 +7,5 @@ image: assets/20250915T225133776--pydantic--logfire--20250918T050530325--cropped
 # [pydantic/logfire](https://github.com/pydantic/logfire)
 
 observability for Python apps with tracing, logs, metrics, and SQL queries
+
+Python应用的可观测性，包含追踪、日志、指标和SQL查询

@@ -7,3 +7,5 @@ image: assets/kubeshop_tracetest_20251215_001951_115_20251215_002017_bc17ea.png
 # [kubeshop/tracetest](https://github.com/kubeshop/tracetest/)
 
 Integration and end-to-end tests using OpenTelemetry
+
+使用OpenTelemetry的集成和端到端测试

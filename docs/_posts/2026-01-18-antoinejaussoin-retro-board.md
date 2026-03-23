@@ -7,3 +7,5 @@ image: assets/antoinejaussoin_retro_board_20260118_033542_892_20260118_033557_d9
 # [antoinejaussoin/retro-board](https://github.com/antoinejaussoin/retro-board)
 
 Agile board with AI coach
+
+带AI教练的敏捷看板

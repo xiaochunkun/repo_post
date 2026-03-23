@@ -7,3 +7,5 @@ image: assets/20250918T044015479--postgresml--korvus--20250918T044151409--croppe
 # [postgresml/korvus](https://github.com/postgresml/korvus)
 
 RAG pipeline and LLM search in one SQL query using Postgres
+
+在单个SQL查询中实现RAG管道和LLM搜索，使用Postgres

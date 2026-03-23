@@ -7,3 +7,5 @@ image: assets/o7_machinehum_flipper_blackhat_20251225_195627_776_20251225_195646
 # [o7-machinehum/flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat/)
 
 Linux addon for WiFi attacks
+
+用于 WiFi 攻击的 Linux 插件

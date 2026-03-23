@@ -7,3 +7,5 @@ image: assets/20251012T023930466--damongolding--immich-kiosk--20251012T024442747
 # [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk)
 
 display Immich photo albums as slideshows on kiosk screens
+
+将 Immich 相册作为幻灯片在信息亭屏幕上显示

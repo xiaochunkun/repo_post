@@ -7,3 +7,5 @@ image: assets/dessant_search_by_image_20260122_001030_293_20260122_001047_8e61cc
 # [dessant/search-by-image](https://github.com/dessant/search-by-image)
 
 Reverse image search extension for browsers
+
+浏览器的反向图像搜索扩展

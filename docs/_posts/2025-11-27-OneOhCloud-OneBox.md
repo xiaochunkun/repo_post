@@ -7,3 +7,5 @@ image: assets/OneOhCloud_OneBox_20251125_022423_233_20251127_161545_4c41b0--2025
 # [OneOhCloud/OneBox](https://github.com/OneOhCloud/OneBox/)
 
 Cross-platform GUI client for sing-box kernel
+
+sing-box 内核的跨平台 GUI 客户端

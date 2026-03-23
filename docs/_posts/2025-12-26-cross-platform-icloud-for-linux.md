@@ -7,3 +7,5 @@ image: assets/cross_platform_icloud_for_linux_20251225_050123_377_20251225_05014
 # [cross-platform/icloud-for-linux](https://github.com/cross-platform/icloud-for-linux/)
 
 Accesses iCloud apps from Linux
+
+从 Linux 访问 iCloud 应用

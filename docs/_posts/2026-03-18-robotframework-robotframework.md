@@ -7,3 +7,5 @@ image: assets/robotframework_robotframework_20260317_232608_653_20260317_232725_
 # [robotframework/robotframework](https://github.com/robotframework/robotframework)
 
 Generic open source automation framework with plain text syntax
+
+具有纯文本语法的通用开源自动化框架

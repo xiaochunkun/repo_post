@@ -7,3 +7,5 @@ image: assets/gilzoide_lua_gdextension_20251125_234401_380_20251128_213042_dac31
 # [gilzoide/lua-gdextension](https://github.com/gilzoide/lua-gdextension/)
 
 Script Godot objects directly in Lua
+
+直接在Lua中编写Godot对象脚本

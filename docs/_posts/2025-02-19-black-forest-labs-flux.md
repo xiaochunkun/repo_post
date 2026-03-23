@@ -7,3 +7,5 @@ image: assets/black-forest-labs_flux_cropped.png
 # [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
 
 FLUX model inference code
+
+FLUX 模型推理代码

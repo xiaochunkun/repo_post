@@ -7,3 +7,5 @@ image: assets/Retropaint_SkelForm_20260212_183322_813_20260212_183423_9c96fa.png
 # [Retropaint/SkelForm](https://github.com/Retropaint/SkelForm)
 
 2D skeletal animator for games
+
+游戏用2D骨骼动画工具

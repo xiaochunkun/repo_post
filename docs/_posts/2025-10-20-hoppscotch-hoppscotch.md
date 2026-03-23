@@ -7,3 +7,5 @@ image: assets/hoppscotch_hoppscotch_20251020_033408_525_20251020_043727--2025102
 # [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch/)
 
 Open source API development ecosystem
+
+开源 API 开发生态系统

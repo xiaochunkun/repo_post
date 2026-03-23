@@ -7,3 +7,5 @@ image: assets/SwiftcordApp_Swiftcord_20260120_001403_318_20260120_001428_013f9b.
 # [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
 
 Discord client for macOS in Swift
+
+用Swift编写的macOS Discord客户端

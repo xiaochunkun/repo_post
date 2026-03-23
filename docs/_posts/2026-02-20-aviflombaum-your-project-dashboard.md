@@ -7,3 +7,5 @@ image: assets/aviflombaum_your_project_dashboard_20260213_221107_274_20260213_22
 # [aviflombaum/your-project-dashboard](https://github.com/aviflombaum/your-project-dashboard)
 
 Dashboard for local git repositories
+
+本地 git 仓库的仪表板

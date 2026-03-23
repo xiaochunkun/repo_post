@@ -7,3 +7,5 @@ image: assets/osaurus_ai_osaurus_20260318_190530_695_20260318_190647_63f36b.png
 # [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
 
 Native macOS AI harness for local models
+
+本地模型的macOS原生AI工具集

@@ -7,3 +7,5 @@ image: assets/hotheadhacker_youtube_player_20251222_012835_406_20251226_180353_c
 # [hotheadhacker/youtube-player](https://github.com/hotheadhacker/youtube-player/)
 
 Streams videos without ads or recommendations
+
+无广告或推荐的视频流

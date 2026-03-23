@@ -7,3 +7,5 @@ image: assets/kunkunsh_kunkun_cropped.png
 # [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
 
 Cross-platform app launcher
+
+跨平台应用启动器

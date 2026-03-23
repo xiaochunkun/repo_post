@@ -7,3 +7,5 @@ image: assets/Leantime_leantime_20251020_074253_526_20251020_141253--20251020T16
 # [Leantime/leantime](https://github.com/Leantime/leantime/)
 
 Open source project management for non-project managers
+
+面向非项目经理的开源项目管理工具

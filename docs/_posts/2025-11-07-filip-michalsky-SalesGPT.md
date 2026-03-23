@@ -7,3 +7,5 @@ image: assets/filip_michalsky_SalesGPT_20251106_162031_970_20251106_174518_dbb0f
 # [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT/)
 
 Context-aware AI agent for sales conversations
+
+销售对话的上下文感知AI代理

@@ -7,3 +7,5 @@ image: assets/guilhermelimait_deepkrak3n_20260217_013736_609_20260217_013823_438
 # [guilhermelimait/deepkrak3n](https://github.com/guilhermelimait/deepkrak3n)
 
 OSINT platform for profile analysis across platforms
+
+跨平台个人资料分析的 OSINT 平台

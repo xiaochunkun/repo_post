@@ -7,3 +7,5 @@ image: assets/eoin-obrien_prisma-extension-kysely_cropped.png
 # [eoin-obrien/prisma-extension-kysely](https://github.com/eoin-obrien/prisma-extension-kysely)
 
 Prisma extension for type-safe SQL queries with Kysely
+
+Prisma扩展，用于通过Kysely进行类型安全的SQL查询

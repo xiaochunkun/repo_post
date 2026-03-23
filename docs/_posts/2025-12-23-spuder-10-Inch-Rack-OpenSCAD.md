@@ -7,3 +7,5 @@ image: assets/spuder_10_Inch_Rack_OpenSCAD_20251222_114749_059_20251222_114815_3
 # [spuder/10-Inch-Rack-OpenSCAD](https://github.com/spuder/10-Inch-Rack-OpenSCAD/)
 
 Generates 10 inch racks for 3D printing via OpenSCAD
+
+通过 OpenSCAD 生成用于 3D 打印的 10 英寸机架

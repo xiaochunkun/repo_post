@@ -7,3 +7,5 @@ image: assets/20250917T003925115--THUDM--LongWriter--20250917T004731222--cropped
 # [THUDM/LongWriter](https://github.com/THUDM/LongWriter)
 
 ultra-long text generation with 10,000+ words using LLMs
+
+使用 LLM 进行超长文本生成，可达 10,000 字以上

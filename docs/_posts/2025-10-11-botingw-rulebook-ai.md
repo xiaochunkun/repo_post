@@ -7,3 +7,5 @@ image: assets/20251010T210341392--botingw--rulebook-ai--20251010T211804135--crop
 # [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai)
 
 command-line tool for packaging and syncing AI coding assistant environments with rules, context, and tools
+
+命令行工具，用于打包和同步 AI 编码助手环境，包含规则、上下文和工具

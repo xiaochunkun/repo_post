@@ -7,3 +7,5 @@ image: assets/ar27111994_webhook_debugger_logger_20260131_233033_621_20260131_23
 # [ar27111994/webhook-debugger-logger](https://github.com/ar27111994/webhook-debugger-logger)
 
 Inspects and replays webhooks in real-time without tunnels
+
+实时检查和重放 webhook，无需隧道

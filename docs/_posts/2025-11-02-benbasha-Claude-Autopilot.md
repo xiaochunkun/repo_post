@@ -7,3 +7,5 @@ image: assets/benbasha_Claude_Autopilot_20251031_065510_075_20251101_205305_23e2
 # [benbasha/Claude-Autopilot](https://github.com/benbasha/Claude-Autopilot/)
 
 VS Code extension for automated Claude task queuing and auto-resume
+
+用于自动化 Claude 任务队列和自动恢复的 VS Code 扩展

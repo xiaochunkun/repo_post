@@ -7,3 +7,5 @@ image: assets/ai_christianson_RA_Aid_20251115_063838_307_20251117_034200_325ccc-
 # [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid/)
 
 Coding agent for autonomous software development
+
+用于自主软件开发的编码代理

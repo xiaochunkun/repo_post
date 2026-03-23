@@ -7,3 +7,5 @@ image: assets/kalimahapps_taqsim_20251226_032037_321_20251226_032054_ddc720.png
 # [kalimahapps/taqsim](https://github.com/kalimahapps/taqsim/)
 
 Slices video files into segments
+
+将视频文件分割成片段

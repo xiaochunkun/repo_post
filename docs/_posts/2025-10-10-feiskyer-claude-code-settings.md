@@ -7,3 +7,5 @@ image: assets/20251010T064630555--feiskyer--claude-code-settings--20251010T06583
 # [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings)
 
 Claude Code settings and commands for streamlined coding workflows
+
+Claude Code 设置与命令，优化编码工作流

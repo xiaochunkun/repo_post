@@ -7,3 +7,5 @@ image: assets/bluewave_labs_verifywise_20251226_230706_008_20251226_230725_635f7
 # [bluewave-labs/verifywise](https://github.com/bluewave-labs/verifywise/)
 
 Platform for AI governance and compliance
+
+用于 AI 治理和合规的平台

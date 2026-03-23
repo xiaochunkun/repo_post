@@ -7,3 +7,5 @@ image: assets/stepfun_ai_gelab_zero_20260129_010422_649_20260129_010512_44222c.p
 # [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)
 
 GUI agent for Android apps
+
+Android 应用的 GUI 代理

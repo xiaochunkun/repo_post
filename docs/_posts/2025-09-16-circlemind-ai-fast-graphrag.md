@@ -7,3 +7,5 @@ image: assets/20250915T223439053--circlemind-ai--fast-graphrag--20250915T2256418
 # [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag)
 
 graph-based retrieval for interpretable and efficient RAG workflows
+
+基于图的检索，用于可解释和高效的 RAG 工作流

@@ -7,3 +7,5 @@ image: assets/uasoft_indonesia_badaso_20260123_011022_559_20260123_011039_bb1e6f
 # [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso)
 
 Headless CMS and API generator for Laravel
+
+Laravel 的无头 CMS 和 API 生成器

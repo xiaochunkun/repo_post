@@ -7,3 +7,5 @@ image: assets/punkpeye_awesome_mcp_servers_20260215_054130_134_20260215_054200_4
 # [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
 Directory of servers for the Model Context Protocol
+
+Model Context Protocol 服务器目录

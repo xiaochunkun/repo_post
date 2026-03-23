@@ -7,3 +7,5 @@ image: assets/executablebooks_markdown_it_py_20251031_165244_993_20251102_220651
 # [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py/)
 
 Python Markdown parser with plugins and configurable syntax
+
+带插件和可配置语法的Python Markdown解析器

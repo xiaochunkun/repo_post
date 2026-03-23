@@ -7,3 +7,5 @@ image: assets/ephraimduncan_weekday_20260224_112311_801_20260224_112345_b172e3.p
 # [ephraimduncan/weekday](https://github.com/ephraimduncan/weekday)
 
 Open-source calendar alternative powered by AI
+
+AI驱动的开源日历替代品

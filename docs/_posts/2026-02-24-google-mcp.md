@@ -7,3 +7,5 @@ image: assets/google_mcp_20260224_075608_590_20260224_075625_9614b9.png
 # [google/mcp](https://github.com/google/mcp)
 
 Google Cloud servers for Model Context Protocol
+
+用于 Model Context Protocol 的 Google Cloud 服务器

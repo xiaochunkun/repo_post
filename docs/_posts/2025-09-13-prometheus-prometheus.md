@@ -7,3 +7,5 @@ image: assets/20250912T000550857--prometheus--prometheus--20250912T000800907--cr
 # [prometheus/prometheus](https://github.com/prometheus/prometheus)
 
 open source monitoring for metrics and alerts
+
+指标和告警的开源监控平台

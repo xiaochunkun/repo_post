@@ -7,3 +7,5 @@ image: assets/Kymo_MCP_mcpcan_20251226_031608_608_20251226_031626_571a4b.png
 # [Kymo-MCP/mcpcan](https://github.com/Kymo-MCP/mcpcan/)
 
 Management platform for Model Context Protocol services
+
+Model Context Protocol 服务的管理平台

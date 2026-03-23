@@ -7,3 +7,5 @@ image: assets/richrd_heart-rate-monitor_cropped.png
 # [richrd/heart-rate-monitor](https://github.com/richrd/heart-rate-monitor)
 
 heart rate from fingertip using phone camera
+
+使用手机摄像头从指尖测量心率

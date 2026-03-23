@@ -7,3 +7,5 @@ image: assets/Seeed_Studio_OSHW_reCamera_Series_20251226_175339_738_20251226_175
 # [Seeed-Studio/OSHW-reCamera-Series](https://github.com/Seeed-Studio/OSHW-reCamera-Series/)
 
 Open-source camera platform with RISC-V SoC for AI tasks
+
+用于 AI 任务的开源相机平台，基于 RISC-V SoC

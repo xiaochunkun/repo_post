@@ -7,3 +7,5 @@ image: assets/20250906T025602957--arktypeio--arktype--20250906T031132939--croppe
 # [arktypeio/arktype](https://github.com/arktypeio/arktype)
 
 TypeScript runtime type validator for JSON and forms
+
+TypeScript 运行时类型校验器，适用于 JSON 和表单

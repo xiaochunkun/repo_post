@@ -7,3 +7,5 @@ image: assets/piitaya_lovelace_mushroom_20251219_121027_388_20251219_121045_b663
 # [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom/)
 
 Cards for Home Assistant dashboards with a visual editor
+
+Home Assistant仪表板卡片，带可视化编辑器

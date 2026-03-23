@@ -7,3 +7,5 @@ image: assets/google_research_mood_board_search_20260120_090346_866_20260120_090
 # [google-research/mood-board-search](https://github.com/google-research/mood-board-search)
 
 Trains computers to recognize visual concepts using mood boards
+
+使用情绪板训练计算机识别视觉概念

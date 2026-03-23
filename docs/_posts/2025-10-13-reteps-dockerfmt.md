@@ -7,3 +7,5 @@ image: assets/20251013T001124745--reteps--dockerfmt--20251013T001805480--cropped
 # [reteps/dockerfmt](https://github.com/reteps/dockerfmt)
 
 formats Dockerfiles and supports pre-commit hooks
+
+格式化 Dockerfile，支持预提交钩子

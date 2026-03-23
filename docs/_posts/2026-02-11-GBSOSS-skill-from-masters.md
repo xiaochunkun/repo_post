@@ -7,3 +7,5 @@ image: assets/GBSOSS_skill_from_masters_20260203_121234_596_20260203_121248_6b5d
 # [GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters)
 
 Builds AI skills from domain expert methodologies
+
+基于领域专家方法论构建AI技能

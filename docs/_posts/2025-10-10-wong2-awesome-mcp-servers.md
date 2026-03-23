@@ -7,3 +7,5 @@ image: assets/20251010T130007012--wong2--awesome-mcp-servers--20251010T130815573
 # [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)
 
 Curated list of MCP servers for AI integrations and tools
+
+精选的 MCP 服务器列表，用于 AI 集成和工具

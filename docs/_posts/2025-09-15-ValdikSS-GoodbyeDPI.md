@@ -7,3 +7,5 @@ image: assets/20250915T043630574--ValdikSS--GoodbyeDPI--20250915T043819313--crop
 # [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 
 bypasses DPI-based internet censorship on Windows
+
+绕过 Windows 上基于 DPI 的互联网审查

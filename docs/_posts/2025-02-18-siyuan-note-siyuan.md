@@ -7,3 +7,5 @@ image: assets/siyuan-note_siyuan_cropped.png
 # [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
 
 Open-source knowledge management software
+
+开源知识管理软件

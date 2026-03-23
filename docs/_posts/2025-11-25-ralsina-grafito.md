@@ -7,3 +7,5 @@ image: assets/ralsina_grafito_20251123_191857_046_20251125_011517_524513--202511
 # [ralsina/grafito](https://github.com/ralsina/grafito/)
 
 Journald web viewer with AI explanations
+
+带 AI 解释的 journald 网页查看器

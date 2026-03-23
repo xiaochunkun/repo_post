@@ -7,3 +7,5 @@ image: assets/20250919T020039462--sensepost--gowitness--20250919T020219128--crop
 # [sensepost/gowitness](https://github.com/sensepost/gowitness)
 
 command-line tool for taking website screenshots with Chrome Headless
+
+使用Chrome Headless拍摄网站截图的命令行工具

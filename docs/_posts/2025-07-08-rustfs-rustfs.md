@@ -7,3 +7,5 @@ image: assets/rustfs_rustfs_cropped.png
 # [rustfs/rustfs](https://github.com/rustfs/rustfs)
 
 distributed object storage system in Rust, alternative to MinIO
+
+Rust 中的分布式对象存储系统，替代 MinIO

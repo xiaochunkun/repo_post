@@ -7,3 +7,5 @@ image: assets/20250822T021552291--freeCodeCamp--freeCodeCamp--20250822T022103266
 # [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 Open-source platform with interactive coding projects and certifications on freeCodeCamp
+
+freeCodeCamp 开源交互式编程学习平台，提供项目实践和认证

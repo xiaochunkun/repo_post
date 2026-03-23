@@ -7,3 +7,5 @@ image: assets/Apparence_io_CamerAwesome_20251110_031104_506_20251110_120216_5860
 # [Apparence-io/CamerAwesome](https://github.com/Apparence-io/CamerAwesome/)
 
 Customizable camera interface for Flutter
+
+Flutter的可定制相机界面

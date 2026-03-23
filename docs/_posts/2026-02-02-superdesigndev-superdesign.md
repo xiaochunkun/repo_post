@@ -7,3 +7,5 @@ image: assets/superdesigndev_superdesign_20260202_153232_451_20260202_153336_58a
 # [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)
 
 AI design agent for IDEs
+
+用于IDE的AI设计代理

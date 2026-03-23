@@ -7,3 +7,5 @@ image: assets/BeardedBear_bearded_theme_20251113_063408_004_20251114_014141_51bb
 # [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme/)
 
 VS Code theme with 32 variations
+
+具有32种变体的VS Code主题

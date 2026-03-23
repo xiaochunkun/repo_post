@@ -7,3 +7,5 @@ image: assets/manticoresoftware_manticoresearch_cropped.png
 # [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch)
 
 Open-source database for search and indexing, built as an alternative to Elasticsearch
+
+开源搜索和索引数据库，作为 Elasticsearch 的替代品

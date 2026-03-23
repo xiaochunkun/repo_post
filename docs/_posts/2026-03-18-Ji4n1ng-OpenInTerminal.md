@@ -7,3 +7,5 @@ image: assets/Ji4n1ng_OpenInTerminal_20260318_042328_666_20260318_042411_8fe932.
 # [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
 
 Opens Finder items in terminals or editors
+
+在终端或编辑器中打开Finder项目

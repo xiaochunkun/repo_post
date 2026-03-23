@@ -7,3 +7,5 @@ image: assets/20250827T100411510--mzau--mlx-knife--20250829T034154075--cropped.p
 # [mzau/mlx-knife](https://github.com/mzau/mlx-knife)
 
 ollama-style CLI for running MLX models on Apple Silicon
+
+在 Apple Silicon 上运行 MLX 模型的 Ollama 风格 CLI

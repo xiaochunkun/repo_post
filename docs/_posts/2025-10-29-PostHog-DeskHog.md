@@ -7,3 +7,5 @@ image: assets/PostHog_DeskHog_20251027_193030_099_20251028_091706_0610b1--202510
 # [PostHog/DeskHog](https://github.com/PostHog/DeskHog/)
 
 Developer toy with a customizable TFT display
+
+具有可定制 TFT 显示屏的开发者玩具

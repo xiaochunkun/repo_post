@@ -7,3 +7,5 @@ image: assets/hcengineering_platform_20260108_014648_946_20260108_014702_d1a505.
 # [hcengineering/platform](https://github.com/hcengineering/platform)
 
 Framework for business applications with project management and chat
+
+具有项目管理和聊天功能的业务应用框架

@@ -7,3 +7,5 @@ image: assets/lyogavin_airllm_20260216_111959_453_20260216_112046_650b60.png
 # [lyogavin/airllm](https://github.com/lyogavin/airllm)
 
 Runs 405B Llama3.1 on 8GB VRAM
+
+在 8GB VRAM 上运行 405B Llama3.1

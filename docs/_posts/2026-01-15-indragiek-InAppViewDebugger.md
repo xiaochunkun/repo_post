@@ -7,3 +7,5 @@ image: assets/indragiek_InAppViewDebugger_20260115_085538_988_20260115_085553_24
 # [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger)
 
 3D view debugger for iOS apps
+
+iOS 应用的 3D 视图调试器

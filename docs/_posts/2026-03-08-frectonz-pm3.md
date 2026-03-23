@@ -7,3 +7,5 @@ image: assets/frectonz_pm3_20260226_202655_458_20260226_202848_e9987d.png
 # [frectonz/pm3](https://github.com/frectonz/pm3)
 
 Process manager with TOML configuration
+
+带 TOML 配置的进程管理器

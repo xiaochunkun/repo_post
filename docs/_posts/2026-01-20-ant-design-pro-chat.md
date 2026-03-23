@@ -7,3 +7,5 @@ image: assets/ant_design_pro_chat_20260120_011026_508_20260120_011050_d59cfb.png
 # [ant-design/pro-chat](https://github.com/ant-design/pro-chat)
 
 Components for building LLM chat interfaces
+
+构建LLM聊天界面的组件

@@ -7,3 +7,5 @@ image: assets/gnmyt_MySpeed_20260122_042937_827_20260122_042959_6e290c.png
 # [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed)
 
 Automates speed tests and stores results for thirty days
+
+自动化速度测试并存储结果三十天

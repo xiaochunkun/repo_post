@@ -7,3 +7,5 @@ image: assets/wladradchenko_wunjo_wladradchenko_ru_20251030_234650_084_20251031_
 # [wladradchenko/wunjo.wladradchenko.ru](https://github.com/wladradchenko/wunjo.wladradchenko.ru/)
 
 Animate portraits with head movements from video
+
+从视频中提取头部运动来动画化肖像

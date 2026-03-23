@@ -7,3 +7,5 @@ image: assets/Donkie_Spoolman_20251111_145254_410_20251111_145720_ccdeed--202511
 # [Donkie/Spoolman](https://github.com/Donkie/Spoolman/)
 
 Self-hosted service to track 3D printer filament inventory
+
+跟踪3D打印机耗材库存的自托管服务

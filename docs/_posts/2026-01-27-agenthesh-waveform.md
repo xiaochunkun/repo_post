@@ -7,3 +7,5 @@ image: assets/agenthesh_waveform_20260111_105406_571_20260111_105419_a703dc.png
 # [agenthesh/waveform](https://github.com/agenthesh/waveform)
 
 Generates animated waveforms from amplitude data
+
+从振幅数据生成动画波形

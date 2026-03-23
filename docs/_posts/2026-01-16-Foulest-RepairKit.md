@@ -7,3 +7,5 @@ image: assets/Foulest_RepairKit_20260115_141306_984_20260115_141338_97219a.png
 # [Foulest/RepairKit](https://github.com/Foulest/RepairKit)
 
 Toolkit for Windows maintenance and repairs
+
+Windows 维护和修复工具包

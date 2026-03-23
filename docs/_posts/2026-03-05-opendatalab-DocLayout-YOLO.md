@@ -7,3 +7,5 @@ image: assets/opendatalab_DocLayout_YOLO_20260208_065402_939_20260208_065437_527
 # [opendatalab/DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO)
 
 Detects document layout elements at scale
+
+大规模检测文档布局元素

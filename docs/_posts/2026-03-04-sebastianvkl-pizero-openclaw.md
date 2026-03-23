@@ -7,3 +7,5 @@ image: assets/sebastianvkl_pizero_openclaw_20260303_014812_286_20260303_014943_b
 # [sebastianvkl/pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw)
 
 Voice assistant on a Raspberry Pi Zero
+
+在Raspberry Pi Zero上的语音助手

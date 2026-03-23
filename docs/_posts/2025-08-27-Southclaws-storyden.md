@@ -7,3 +7,5 @@ image: assets/20250826T025927058--Southclaws--storyden--20250826T030242743--crop
 # [Southclaws/storyden](https://github.com/Southclaws/storyden)
 
 modern forum and wiki platform for building communities
+
+现代论坛和 Wiki 平台，用于社区建设

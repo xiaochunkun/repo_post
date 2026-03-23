@@ -7,3 +7,5 @@ image: assets/voltropy_mog_20260309_133742_580_20260309_133940_74705b.png
 # [voltropy/mog](https://github.com/voltropy/mog)
 
 Programming language for AI agents
+
+AI代理的编程语言

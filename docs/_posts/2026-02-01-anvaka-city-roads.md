@@ -7,3 +7,5 @@ image: assets/anvaka_city_roads_20260129_032954_356_20260129_033029_14df44.png
 # [anvaka/city-roads](https://github.com/anvaka/city-roads)
 
 Renders every road within cities from OpenStreetMap
+
+从 OpenStreetMap 渲染城市内的每条道路

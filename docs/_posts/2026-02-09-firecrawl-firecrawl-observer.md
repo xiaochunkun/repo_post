@@ -7,3 +7,5 @@ image: assets/firecrawl_firecrawl_observer_20260206_061444_290_20260206_061503_2
 # [firecrawl/firecrawl-observer](https://github.com/firecrawl/firecrawl-observer)
 
 Monitors websites for changes with AI analysis
+
+监控网站变化，结合AI分析

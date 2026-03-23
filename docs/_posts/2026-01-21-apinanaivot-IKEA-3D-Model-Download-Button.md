@@ -7,3 +7,5 @@ image: assets/apinanaivot_IKEA_3D_Model_Download_Button_20260113_113143_007_2026
 # [apinanaivot/IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button)
 
 Downloads IKEA furniture as 3D models
+
+将宜家家具下载为3D模型

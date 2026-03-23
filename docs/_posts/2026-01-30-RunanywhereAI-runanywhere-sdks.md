@@ -7,3 +7,5 @@ image: assets/RunanywhereAI_runanywhere_sdks_20260129_082050_893_20260129_082126
 # [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks)
 
 Runs LLMs and speech models locally on mobile devices
+
+在移动设备上本地运行LLMs和语音模型

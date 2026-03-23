@@ -7,3 +7,5 @@ image: assets/Sanjeet990_Astroluma_cropped.png
 # [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma)
 
 customizable dashboard for managing apps and devices
+
+用于管理应用和设备的可定制仪表板

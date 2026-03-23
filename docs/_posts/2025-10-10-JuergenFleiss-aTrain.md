@@ -7,3 +7,5 @@ image: assets/20251003T231523616--JuergenFleiss--aTrain--20251010T064617933--cro
 # [JuergenFleiss/aTrain](https://github.com/JuergenFleiss/aTrain)
 
 Transcribe interviews with speaker detection and privacy protection
+
+转录采访，支持说话人检测和隐私保护

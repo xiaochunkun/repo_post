@@ -7,3 +7,5 @@ image: assets/jellyfin_jellyfin_cropped.png
 # [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
 Media server for managing and streaming your own collection to devices
+
+用于管理和流式传输自有收藏到设备的媒体服务器

@@ -7,3 +7,5 @@ image: assets/webmonch_hide-my-mail-cloudflare_cropped.png
 # [webmonch/hide-my-mail-cloudflare](https://github.com/webmonch/hide-my-mail-cloudflare)
 
 create random email aliases with cloudflare
+
+使用 Cloudflare 创建随机电子邮件别名

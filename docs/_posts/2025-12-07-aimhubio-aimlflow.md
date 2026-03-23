@@ -7,3 +7,5 @@ image: assets/aimhubio_aimlflow_20251205_021023_659_20251205_021100_9ca780.png
 # [aimhubio/aimlflow](https://github.com/aimhubio/aimlflow/)
 
 Run comparison UI for MLflow logs
+
+用于MLflow日志的运行比较UI

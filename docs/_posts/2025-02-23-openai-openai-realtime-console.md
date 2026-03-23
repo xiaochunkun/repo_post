@@ -7,3 +7,5 @@ image: assets/openai_openai-realtime-console_cropped.png
 # [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console)
 
 React app for inspecting and debugging OpenAI's Realtime API
+
+用于检查和调试 OpenAI Realtime API 的 React 应用

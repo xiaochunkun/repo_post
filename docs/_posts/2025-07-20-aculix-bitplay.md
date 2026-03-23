@@ -7,3 +7,5 @@ image: assets/aculix_bitplay_cropped.png
 # [aculix/bitplay](https://github.com/aculix/bitplay)
 
 stream video torrents right in your browser
+
+直接在浏览器中流式传输视频种子

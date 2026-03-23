@@ -7,3 +7,5 @@ image: assets/pickles4evaaaa_mybibliotheca--20250813T000612--cropped.png
 # [pickles4evaaaa/mybibliotheca](https://github.com/pickles4evaaaa/mybibliotheca)
 
 self-hosted reading tracker for your library
+
+自托管的个人图书馆阅读追踪器

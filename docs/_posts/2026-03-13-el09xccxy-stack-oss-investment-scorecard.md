@@ -7,3 +7,5 @@ image: assets/el09xccxy_stack_oss_investment_scorecard_20260312_003603_776_20260
 # [el09xccxy-stack/oss-investment-scorecard](https://github.com/el09xccxy-stack/oss-investment-scorecard)
 
 5-dimension weighted scoring framework for VC investment
+
+VC 投资的五维加权评分框架

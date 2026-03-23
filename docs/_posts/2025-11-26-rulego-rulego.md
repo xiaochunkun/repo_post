@@ -7,3 +7,5 @@ image: assets/rulego_rulego_20251123_205052_184_20251125_220504_29d258--20251125
 # [rulego/rulego](https://github.com/rulego/rulego/)
 
 Embedded component orchestration rule engine for Go
+
+用于 Go 的嵌入式组件编排规则引擎

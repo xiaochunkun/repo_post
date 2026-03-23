@@ -7,3 +7,5 @@ image: assets/20250820T142614258--umanamente--n8n-nodes-globals--20250820T143515
 # [umanamente/n8n-nodes-globals](https://github.com/umanamente/n8n-nodes-globals)
 
 create global constants for any n8n workflow
+
+为任意 n8n 工作流创建全局常量

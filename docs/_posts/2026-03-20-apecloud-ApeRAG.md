@@ -7,3 +7,5 @@ image: assets/apecloud_ApeRAG_20260318_223731_994_20260318_223959_942e01.png
 # [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
 
 Graph RAG with vector search and AI agents
+
+具备向量搜索和AI代理的图RAG

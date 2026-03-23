@@ -7,3 +7,5 @@ image: assets/gabe565_ascii_movie_20260128_175352_194_20260128_175442_a47253.png
 # [gabe565/ascii-movie](https://github.com/gabe565/ascii-movie)
 
 SSH and Telnet server for terminal movie playback
+
+SSH和Telnet服务器用于终端电影播放

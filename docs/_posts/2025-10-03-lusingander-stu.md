@@ -7,3 +7,5 @@ image: assets/20251003T161853702--lusingander--stu--20251003T201003889--cropped.
 # [lusingander/stu](https://github.com/lusingander/stu)
 
 terminal UI for browsing and managing S3 buckets
+
+终端UI，用于浏览和管理S3存储桶

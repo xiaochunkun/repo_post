@@ -7,3 +7,5 @@ image: assets/shshemi_tabiew_cropped.png
 # [shshemi/tabiew](https://github.com/shshemi/tabiew)
 
 terminal tool for viewing and querying csv, tsv, parquet files
+
+用于查看和查询 CSV、TSV、Parquet 文件的终端工具

@@ -7,3 +7,5 @@ image: assets/20250826T031205350--fathyb--carbonyl--20250826T031603270--cropped.
 # [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
 
 Chromium browser in your terminal, runs fast, supports video and SSH
+
+在终端中运行的 Chromium 浏览器，支持视频和 SSH

@@ -7,3 +7,5 @@ image: assets/20251007T025934847--gregtwallace--certwarden--20251007T030802319--
 # [gregtwallace/certwarden](https://github.com/gregtwallace/certwarden)
 
 centralized certificate management with Let’s Encrypt integration
+
+集中式证书管理，集成 Let’s Encrypt

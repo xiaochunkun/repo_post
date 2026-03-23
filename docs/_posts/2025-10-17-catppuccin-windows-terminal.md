@@ -7,3 +7,5 @@ image: assets/catppuccin_windows-terminal--20251016T081341407--cropped.png
 # [catppuccin/windows-terminal](https://github.com/catppuccin/windows-terminal)
 
 pastel color scheme for Windows Terminal
+
+Windows Terminal的柔和配色方案

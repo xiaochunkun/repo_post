@@ -7,3 +7,5 @@ image: assets/crbnos_carbon_20260122_002837_653_20260122_002901_33a515.png
 # [crbnos/carbon](https://github.com/crbnos/carbon)
 
 ERP for manufacturing built with Supabase and React
+
+基于Supabase和React构建的制造业ERP

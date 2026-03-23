@@ -7,3 +7,5 @@ image: assets/microsoft_vscode-copilot-chat--20250815T012452261--cropped.png
 # [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
 
 AI chat assistant for coding in VS Code
+
+VS Code 中的 AI 编码聊天助手

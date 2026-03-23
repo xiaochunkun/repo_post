@@ -7,3 +7,5 @@ image: assets/subframe7536_maple_font_20260205_141211_639_20260205_141230_e48b3a
 # [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
 
 Monospace font with round corners and ligatures
+
+带圆角和连字的等宽字体

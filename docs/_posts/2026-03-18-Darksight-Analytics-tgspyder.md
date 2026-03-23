@@ -7,3 +7,5 @@ image: assets/Darksight_Analytics_tgspyder_20260318_050744_596_20260318_051020_1
 # [Darksight-Analytics/tgspyder](https://github.com/Darksight-Analytics/tgspyder)
 
 Scrapes private Telegram groups to CSV
+
+将私有Telegram群组数据抓取到CSV

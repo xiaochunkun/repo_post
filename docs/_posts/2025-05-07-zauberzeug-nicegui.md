@@ -7,3 +7,5 @@ image: assets/zauberzeug_nicegui_cropped.png
 # [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
 Python framework for creating web UIs
+
+Python 框架，用于创建 Web UI

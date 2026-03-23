@@ -7,3 +7,5 @@ image: assets/20250908T225726580--firecrawl--open-lovable--20250908T231301452--c
 # [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)
 
 AI-powered tool for generating React apps from chat
+
+通过对话用 AI 生成 React 应用

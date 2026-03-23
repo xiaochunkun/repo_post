@@ -7,3 +7,5 @@ image: assets/minio_object_browser_20251025_040124_377_20251025_040929_b8b688--2
 # [minio/object-browser](https://github.com/minio/object-browser/)
 
 Graphical user interface for S3-compatible object storage
+
+S3兼容对象存储的图形界面

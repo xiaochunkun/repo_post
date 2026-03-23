@@ -7,3 +7,5 @@ image: assets/evinjohnn_natively_cluely_ai_assistant_20260222_133017_691_2026022
 # [evinjohnn/natively-cluely-ai-assistant](https://github.com/evinjohnn/natively-cluely-ai-assistant)
 
 AI meeting assistant with local RAG
+
+带有本地RAG的AI会议助手

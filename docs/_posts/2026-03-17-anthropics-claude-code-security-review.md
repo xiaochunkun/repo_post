@@ -7,3 +7,5 @@ image: assets/anthropics_claude_code_security_review_20260316_191436_651_2026031
 # [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)
 
 Claude analyzes pull requests for security
+
+Claude分析拉取请求的安全性

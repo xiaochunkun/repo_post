@@ -7,3 +7,5 @@ image: assets/Kaliiiiiiiiii_Vinyzu_patchright_python_20251209_061613_260_2025120
 # [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python/)
 
 Undetected drop-in replacement for Playwright
+
+Playwright 的未检测直接替换

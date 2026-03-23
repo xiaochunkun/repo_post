@@ -7,3 +7,5 @@ image: assets/hiddify_Hiddify_Manager_20251218_000134_488_20251218_000157_509441
 # [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager/)
 
 Panel supporting protocols to circumvent censorship
+
+支持绕过审查协议的仪表板

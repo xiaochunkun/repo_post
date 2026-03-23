@@ -7,3 +7,5 @@ image: assets/rocksdanister_lively_cropped.png
 # [rocksdanister/lively](https://github.com/rocksdanister/lively)
 
 Lets you use animated wallpapers and screensavers on your desktop
+
+让你在桌面上使用动态壁纸和屏幕保护程序

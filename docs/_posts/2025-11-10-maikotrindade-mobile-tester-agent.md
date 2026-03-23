@@ -7,3 +7,5 @@ image: assets/maikotrindade_mobile_tester_agent_20251110_020628_830_20251110_121
 # [maikotrindade/mobile-tester-agent](https://github.com/maikotrindade/mobile-tester-agent/)
 
 Test automation for Android apps using LLMs
+
+使用LLM的Android应用测试自动化

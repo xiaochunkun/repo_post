@@ -7,3 +7,5 @@ image: assets/ONLYOFFICE_DesktopEditors_20260129_080420_337_20260129_080454_62dc
 # [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors)
 
 Office suite for documents and forms without internet connection
+
+办公套件用于文档和表单，无需互联网连接

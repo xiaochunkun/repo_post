@@ -7,3 +7,5 @@ image: assets/xlang_ai_Spider2_V_20260227_113759_475_20260227_114002_182340.png
 # [xlang-ai/Spider2-V](https://github.com/xlang-ai/Spider2-V)
 
 Benchmark for multimodal agents in data engineering workflows
+
+数据工程工作流中多模态代理的基准测试

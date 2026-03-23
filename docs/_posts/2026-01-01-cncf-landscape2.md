@@ -7,3 +7,5 @@ image: assets/cncf_landscape2_20251231_064458_316_20251231_064517_5ff43c.png
 # [cncf/landscape2](https://github.com/cncf/landscape2/)
 
 Generates websites from data sources
+
+从数据源生成网站

@@ -7,3 +7,5 @@ image: assets/presentator_presentator_20251201_083228_252_20251202_195313_228052
 # [presentator/presentator](https://github.com/presentator/presentator/)
 
 Self-hostable design feedback and presentation platform
+
+可自托管的设计反馈和演示平台

@@ -7,3 +7,5 @@ image: assets/scabench_org_hound_20251103_213947_928_20251103_214028_883df4--202
 # [scabench-org/hound](https://github.com/scabench-org/hound/)
 
 Language-agnostic AI auditor for code security
+
+语言无关的代码安全AI审计工具

@@ -7,3 +7,5 @@ image: assets/20250926T173532284--gregorojstersek--resources-to-become-a-great-e
 # [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
 
 Curated list of books, blogs, and newsletters for engineering leadership growth
+
+工程领导力成长的精选书籍、博客和新闻列表

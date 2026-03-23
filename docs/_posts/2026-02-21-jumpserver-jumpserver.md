@@ -7,3 +7,5 @@ image: assets/jumpserver_jumpserver_20260209_163637_820_20260209_163753_9195c1.p
 # [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
 
 Access management platform for infrastructure endpoints through a browser
+
+通过浏览器访问基础设施端点的管理平台

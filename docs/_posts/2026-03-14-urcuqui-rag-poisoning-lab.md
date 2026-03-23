@@ -7,3 +7,5 @@ image: assets/urcuqui_rag_poisoning_lab_20260314_045709_256_20260314_045923_cf61
 # [urcuqui/rag-poisoning-lab](https://github.com/urcuqui/rag-poisoning-lab)
 
 Demonstrates RAG system poisoning attacks
+
+演示RAG系统中毒攻击

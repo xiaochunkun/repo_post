@@ -7,3 +7,5 @@ image: assets/Godiesc_firefox_gx_20251217_122505_942_20251217_122556_bbb5a3.png
 # [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx/)
 
 Opera GX skin for Firefox
+
+Firefox 的 Opera GX 皮肤

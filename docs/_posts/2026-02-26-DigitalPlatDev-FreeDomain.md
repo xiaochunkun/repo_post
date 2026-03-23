@@ -7,3 +7,5 @@ image: assets/DigitalPlatDev_FreeDomain_20260223_093844_665_20260223_093942_8875
 # [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 
 Registration of domain names for use with DNS providers
+
+注册域名以与DNS提供商配合使用

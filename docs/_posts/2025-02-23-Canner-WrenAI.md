@@ -7,3 +7,5 @@ image: assets/Canner_WrenAI_cropped.png
 # [Canner/WrenAI](https://github.com/Canner/WrenAI)
 
 Open-source AI agent for text-to-SQL and data insights
+
+用于文本到SQL和数据洞察的开源AI代理

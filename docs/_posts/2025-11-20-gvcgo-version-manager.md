@@ -7,3 +7,5 @@ image: assets/gvcgo_version_manager_20251118_190648_991_20251120_000330_d649ca--
 # [gvcgo/version-manager](https://github.com/gvcgo/version-manager/)
 
 Version manager for SDKs with a TUI
+
+带有 TUI 的 SDK 版本管理器

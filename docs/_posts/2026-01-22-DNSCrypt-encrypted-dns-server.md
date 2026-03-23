@@ -7,3 +7,5 @@ image: assets/DNSCrypt_encrypted_dns_server_20260122_001131_212_20260122_001146_
 # [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server)
 
 Proxy for encrypted DNS protocols
+
+加密DNS协议的代理

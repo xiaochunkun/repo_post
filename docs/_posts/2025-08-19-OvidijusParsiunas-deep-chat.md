@@ -7,3 +7,5 @@ image: assets/20250818T111837911_OvidijusParsiunas_deep-chat--20250818T111951189
 # [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat)
 
 customizable AI chat component for any website
+
+适用于任何网站的可定制AI聊天组件

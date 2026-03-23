@@ -7,3 +7,5 @@ image: assets/20250912T004822208--cvs-health--uqlm--20250915T041442480--cropped.
 # [cvs-health/uqlm](https://github.com/cvs-health/uqlm)
 
 detects LLM hallucinations with uncertainty quantification scores
+
+通过不确定性量化分数检测 LLM 幻觉

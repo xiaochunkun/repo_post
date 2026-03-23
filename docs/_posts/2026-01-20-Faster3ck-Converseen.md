@@ -7,3 +7,5 @@ image: assets/Faster3ck_Converseen_20260119_222935_507_20260119_222949_6168c6.pn
 # [Faster3ck/Converseen](https://github.com/Faster3ck/Converseen)
 
 Batch converts and resizes images across formats
+
+批量转换和调整图像格式

@@ -7,3 +7,5 @@ image: assets/aalex954_HTTP_Fingerprinting_Server_20260102_082742_170_20260102_0
 # [aalex954/HTTP-Fingerprinting-Server](https://github.com/aalex954/HTTP-Fingerprinting-Server/)
 
 Fingerprints browser requests with IP whitelisting
+
+带IP白名单的浏览器请求指纹识别服务器

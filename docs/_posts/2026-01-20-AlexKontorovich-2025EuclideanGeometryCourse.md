@@ -7,3 +7,5 @@ image: assets/AlexKontorovich_2025EuclideanGeometryCourse_20260114_030338_694_20
 # [AlexKontorovich/2025EuclideanGeometryCourse](https://github.com/AlexKontorovich/2025EuclideanGeometryCourse)
 
 Euclidean geometry course with Lean proofs
+
+欧几里得几何课程，包含Lean证明

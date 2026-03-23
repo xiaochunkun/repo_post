@@ -7,3 +7,5 @@ image: assets/Adawg4_openapi_autospec_20260103_225216_539_20260103_225233_d444a2
 # [Adawg4/openapi-autospec](https://github.com/Adawg4/openapi-autospec/)
 
 Generates OpenAPI specs from network traffic
+
+从网络流量生成 OpenAPI 规范

@@ -7,3 +7,5 @@ image: assets/SalesforceAIResearch_enterprise_deep_research_20260202_225422_748_
 # [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research)
 
 Multi-agent system for research automation
+
+用于研究自动化的多智能体系统

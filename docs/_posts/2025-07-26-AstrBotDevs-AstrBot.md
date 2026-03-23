@@ -7,3 +7,5 @@ image: assets/AstrBotDevs_AstrBot_cropped.png
 # [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
 
 automation bot for streamlining repetitive tasks
+
+自动化机器人，用于简化重复性任务

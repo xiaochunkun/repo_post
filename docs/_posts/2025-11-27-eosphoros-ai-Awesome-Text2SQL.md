@@ -7,3 +7,5 @@ image: assets/eosphoros_ai_Awesome_Text2SQL_20251125_004032_037_20251126_100553_
 # [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL/)
 
 Curated resources and leaderboards for Text-to-SQL models
+
+Text-to-SQL 模型的精选资源和排行榜

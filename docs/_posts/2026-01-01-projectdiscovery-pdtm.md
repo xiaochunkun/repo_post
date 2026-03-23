@@ -7,3 +7,5 @@ image: assets/projectdiscovery_pdtm_20260101_043706_657_20260101_043722_3bba65.p
 # [projectdiscovery/pdtm](https://github.com/projectdiscovery/pdtm/)
 
 Manages open source tool installations
+
+管理开源工具安装

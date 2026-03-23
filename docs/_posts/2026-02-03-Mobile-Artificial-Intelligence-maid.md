@@ -7,3 +7,5 @@ image: assets/Mobile_Artificial_Intelligence_maid_20260202_234821_476_20260202_2
 # [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid)
 
 Interfaces with LLMs on mobile devices
+
+在移动设备上与 LLM 交互

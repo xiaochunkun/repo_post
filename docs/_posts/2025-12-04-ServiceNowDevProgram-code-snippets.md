@@ -7,3 +7,5 @@ image: assets/ServiceNowDevProgram_code_snippets_20251201_085052_194_20251201_08
 # [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets/)
 
 Community-submitted code snippets for ServiceNow developers
+
+ServiceNow开发者社区提交的代码片段

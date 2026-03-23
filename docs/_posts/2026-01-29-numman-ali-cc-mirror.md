@@ -7,3 +7,5 @@ image: assets/numman_ali_cc_mirror_20260122_002539_251_20260122_002556_cf8b68.pn
 # [numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)
 
 Claude Code variants with custom providers
+
+Claude Code变体，带自定义提供者

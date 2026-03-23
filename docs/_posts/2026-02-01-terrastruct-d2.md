@@ -7,3 +7,5 @@ image: assets/terrastruct_d2_20260128_232728_774_20260128_232803_b356e5.png
 # [terrastruct/d2](https://github.com/terrastruct/d2)
 
 Scripting language for diagrams
+
+用于图表的脚本语言

@@ -7,3 +7,5 @@ image: assets/dockur_casa_20251207_233549_375_20251207_233610_593092.png
 # [dockur/casa](https://github.com/dockur/casa/)
 
 Runs CasaOS inside a Docker container
+
+在 Docker 容器中运行 CasaOS

@@ -7,3 +7,5 @@ image: assets/ZeroLu_awesome_seedance_20260316_044841_375_20260316_044934_6c98c3
 # [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance)
 
 Prompts for AI video generation
+
+AI视频生成的提示词

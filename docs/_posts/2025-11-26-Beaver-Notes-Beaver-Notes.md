@@ -7,3 +7,5 @@ image: assets/Beaver_Notes_Beaver_Notes_20251123_203012_442_20251125_214350_1bb4
 # [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes/)
 
 Privacy-first note-taking app for desktop
+
+面向桌面的隐私优先笔记应用

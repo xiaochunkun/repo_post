@@ -7,3 +7,5 @@ image: assets/Feriman22_LocalNVR_20251222_204641_376_20251222_204659_779452.png
 # [Feriman22/LocalNVR](https://github.com/Feriman22/LocalNVR/)
 
 Web interface for browsing camera recordings on a timeline
+
+在时间线上浏览摄像头录像的Web界面

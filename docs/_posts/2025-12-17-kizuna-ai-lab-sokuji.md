@@ -7,3 +7,5 @@ image: assets/kizuna_ai_lab_sokuji_20251216_120049_540_20251216_120113_ed5125.pn
 # [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji/)
 
 Live speech translation using OpenAI Realtime API
+
+使用OpenAI Realtime API的实时语音翻译

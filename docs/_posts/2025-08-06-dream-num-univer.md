@@ -7,3 +7,5 @@ image: assets/dream-num_univer_cropped.png
 # [dream-num/univer](https://github.com/dream-num/univer)
 
 open-source framework for docs, sheets, and slides
+
+用于文档、表格和幻灯片的开源框架

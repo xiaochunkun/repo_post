@@ -7,3 +7,5 @@ image: assets/flxzt_rnote_cropped.png
 # [flxzt/rnote](https://github.com/flxzt/rnote)
 
 handwritten notes with drawing on Linux
+
+在 Linux 上绘制手写笔记

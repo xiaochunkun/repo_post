@@ -7,3 +7,5 @@ image: assets/seleniumbase_SeleniumBase_20251018_205138_280_20251018_230212--202
 # [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase/)
 
 Browser automation, testing, bot evasion
+
+浏览器自动化、测试和反机器人规避

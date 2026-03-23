@@ -7,3 +7,5 @@ image: assets/avivl_claude_007_agents_20251123_192546_189_20251125_011710_cd4c87
 # [avivl/claude-007-agents](https://github.com/avivl/claude-007-agents/)
 
 Orchestrates specialized AI agents for software development
+
+编排专用 AI 代理进行软件开发

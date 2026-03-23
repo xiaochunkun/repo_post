@@ -7,3 +7,5 @@ image: assets/joreilly_BikeShare_20251029_210852_189_20251029_213346_51cf48--202
 # [joreilly/BikeShare](https://github.com/joreilly/BikeShare/)
 
 Kotlin Multiplatform sample using Circuit and kotlin-inject
+
+使用 Circuit 和 kotlin-inject 的 Kotlin 多平台示例

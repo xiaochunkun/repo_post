@@ -7,3 +7,5 @@ image: assets/20251016T074002695--LuqP2--Image-MetaHub--20251016T074133316--crop
 # [LuqP2/Image-MetaHub](https://github.com/LuqP2/Image-MetaHub)
 
 browse and search AI-generated images locally by their metadata
+
+通过元数据在本地浏览和搜索 AI 生成的图像

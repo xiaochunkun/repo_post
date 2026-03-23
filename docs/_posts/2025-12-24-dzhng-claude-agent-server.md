@@ -7,3 +7,5 @@ image: assets/dzhng_claude_agent_server_20251222_234505_589_20251222_234555_5856
 # [dzhng/claude-agent-server](https://github.com/dzhng/claude-agent-server/)
 
 WebSocket server for Claude Agent SDK in E2B sandboxes
+
+E2B沙箱中Claude Agent SDK的WebSocket服务器

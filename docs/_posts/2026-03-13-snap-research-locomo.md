@@ -7,3 +7,5 @@ image: assets/snap_research_locomo_20260310_115502_656_20260310_120128_135578.pn
 # [snap-research/locomo](https://github.com/snap-research/locomo)
 
 Benchmark for long-term conversational memory of agents
+
+代理长期对话记忆的基准测试

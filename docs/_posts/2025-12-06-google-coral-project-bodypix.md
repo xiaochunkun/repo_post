@@ -7,3 +7,5 @@ image: assets/google_coral_project_bodypix_20251203_012120_983_20251203_012218_9
 # [google-coral/project-bodypix](https://github.com/google-coral/project-bodypix/)
 
 Person and body-part segmentation model
+
+人物和身体部位分割模型

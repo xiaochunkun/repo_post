@@ -7,3 +7,5 @@ image: assets/Jonathan_Racaud_awesome_beef_20260112_044029_783_20260112_044047_c
 # [Jonathan-Racaud/awesome-beef](https://github.com/Jonathan-Racaud/awesome-beef)
 
 Curated list of resources for the Beef programming language
+
+Beef编程语言的精选资源列表

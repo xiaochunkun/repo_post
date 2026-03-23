@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_automatic_log_collector_and_analyzer_20260116_21
 # [Dicklesworthstone/automatic_log_collector_and_analyzer](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
 
 Collects and analyzes logs from remote machines
+
+收集并分析远程机器的日志

@@ -7,3 +7,5 @@ image: assets/antonbabenko_terraform_skill_20260224_185918_044_20260224_185944_4
 # [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)
 
 Claude Code skill for Terraform and OpenTofu best practices
+
+Terraform和OpenTofu最佳实践的Claude Code技能

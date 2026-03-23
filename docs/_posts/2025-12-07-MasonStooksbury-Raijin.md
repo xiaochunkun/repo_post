@@ -7,3 +7,5 @@ image: assets/MasonStooksbury_Raijin_20251205_002803_690_20251205_002826_8f5ff7.
 # [MasonStooksbury/Raijin](https://github.com/MasonStooksbury/Raijin/)
 
 Weather TUI without API keys
+
+无需API密钥的天气TUI

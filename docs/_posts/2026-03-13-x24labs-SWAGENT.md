@@ -7,3 +7,5 @@ image: assets/x24labs_SWAGENT_20260313_130422_765_20260313_130711_284357.png
 # [x24labs/SWAGENT](https://github.com/x24labs/SWAGENT)
 
 Serve token-optimized docs to AI agents
+
+为AI代理提供令牌优化的文档服务

@@ -7,3 +7,5 @@ image: assets/20250903T023737444--danielmiessler--SecLists--20250903T024212282--
 # [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 
 wordlists for security testing and pentesting
+
+安全测试和渗透测试用字典

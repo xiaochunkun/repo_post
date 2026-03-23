@@ -7,3 +7,5 @@ image: assets/rednote_hilab_dots_vlm1_20251207_223508_596_20251207_223529_f29fe1
 # [rednote-hilab/dots.vlm1](https://github.com/rednote-hilab/dots.vlm1/)
 
 Vision-language model built on DeepSeek V3
+
+基于DeepSeek V3构建的视觉语言模型

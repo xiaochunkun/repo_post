@@ -7,3 +7,5 @@ image: assets/swarmpit_swarmpit_20260121_023327_318_20260121_023353_70bdfd.png
 # [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit)
 
 Docker Swarm management UI for mobile devices
+
+适用于移动设备的Docker Swarm管理界面

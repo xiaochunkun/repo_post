@@ -7,3 +7,5 @@ image: assets/stabldev_torrra_20251104_234457_095_20251105_013648_9e610d--202511
 # [stabldev/torrra](https://github.com/stabldev/torrra/)
 
 TUI for torrent search and download
+
+用于种子搜索和下载的 TUI

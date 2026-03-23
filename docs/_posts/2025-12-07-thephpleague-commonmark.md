@@ -7,3 +7,5 @@ image: assets/thephpleague_commonmark_20251204_232716_518_20251204_232737_908ba2
 # [thephpleague/commonmark](https://github.com/thephpleague/commonmark/)
 
 Extensible PHP Markdown parser supporting CommonMark
+
+支持CommonMark的可扩展PHP Markdown解析器

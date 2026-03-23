@@ -7,3 +7,5 @@ image: assets/screego_server--20250817T074933710--cropped.png
 # [screego/server](https://github.com/screego/server)
 
 multi-user screen sharing for devs
+
+面向开发者的多用户屏幕共享工具

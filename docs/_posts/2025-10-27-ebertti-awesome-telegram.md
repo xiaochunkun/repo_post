@@ -7,3 +7,5 @@ image: assets/ebertti_awesome_telegram_20251026_224838_137_20251027_001839_c2579
 # [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram/)
 
 Curated list of Telegram bots and resources
+
+Telegram机器人和资源精选列表

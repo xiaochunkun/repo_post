@@ -7,3 +7,5 @@ image: assets/LlmKira_fast_langdetect_20251123_190140_962_20251124_184738_9a4eb0
 # [LlmKira/fast-langdetect](https://github.com/LlmKira/fast-langdetect/)
 
 FastText language detection without NumPy
+
+无需 NumPy 的 FastText 语言检测

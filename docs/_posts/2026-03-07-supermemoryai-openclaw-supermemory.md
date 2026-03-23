@@ -7,3 +7,5 @@ image: assets/supermemoryai_openclaw_supermemory_20260221_003143_175_20260221_00
 # [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory)
 
 Adds long-term memory to agents
+
+为智能体添加长期记忆

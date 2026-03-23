@@ -7,3 +7,5 @@ image: assets/JaKooLit_Debian_Hyprland_20251209_042942_356_20251209_043016_d1ac8
 # [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland/)
 
 Automated Hyprland installation script for Debian 13
+
+Debian 13 的自动化 Hyprland 安装脚本

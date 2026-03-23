@@ -7,3 +7,5 @@ image: assets/JasonRobertDestiny_MD_Audit_20260111_173451_968_20260111_173505_6a
 # [JasonRobertDestiny/MD_Audit](https://github.com/JasonRobertDestiny/MD_Audit)
 
 Audits Markdown SEO with rules and AI
+
+使用规则和AI审核Markdown SEO

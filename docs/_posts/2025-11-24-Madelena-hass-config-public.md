@@ -7,3 +7,5 @@ image: assets/Madelena_hass_config_public_20251123_100307_845_20251124_002551_86
 # [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public/)
 
 Metro design dashboard for Home Assistant
+
+Home Assistant 的 Metro 设计仪表板

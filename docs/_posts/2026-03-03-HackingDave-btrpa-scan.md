@@ -7,3 +7,5 @@ image: assets/HackingDave_btrpa_scan_20260302_070310_298_20260302_070441_ba3a02.
 # [HackingDave/btrpa-scan](https://github.com/HackingDave/btrpa-scan)
 
 Resolves Bluetooth private addresses using identity keys
+
+使用身份密钥解析蓝牙私有地址

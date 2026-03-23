@@ -7,3 +7,5 @@ image: assets/lraton_FlopperZiro_cropped.png
 # [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro)
 
 DIY Flipper Zero style hacking tool made with Arduino
+
+基于Arduino的DIY Flipper Zero风格黑客工具

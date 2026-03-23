@@ -7,3 +7,5 @@ image: assets/git_quick_stats_git_quick_stats_20251031_015831_642_20251031_14034
 # [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats/)
 
 Access statistics in a git repository
+
+访问 git 仓库中的统计信息

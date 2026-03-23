@@ -7,3 +7,5 @@ image: assets/hyperion_project_hyperion_ng_20251214_213027_473_20251214_213053_8
 # [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng/)
 
 Bias lighting implementation for displays
+
+显示器的偏光照明实现

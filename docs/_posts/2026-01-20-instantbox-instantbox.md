@@ -7,3 +7,5 @@ image: assets/instantbox_instantbox_20260119_213811_018_20260119_213825_7e9dec.p
 # [instantbox/instantbox](https://github.com/instantbox/instantbox)
 
 Temporary Linux systems with webshell access in browsers
+
+临时Linux系统，支持浏览器中的webshell访问

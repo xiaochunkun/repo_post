@@ -7,3 +7,5 @@ image: assets/Avaiga_taipy_cropped.png
 # [Avaiga/taipy](https://github.com/Avaiga/taipy)
 
 python framework for building data and AI web apps
+
+构建数据和AI Web应用的Python框架

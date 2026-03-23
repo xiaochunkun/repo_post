@@ -7,3 +7,5 @@ image: assets/linkwarden_linkwarden_20260108_033531_889_20260108_033544_c33f6b.p
 # [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
 
 Self-hosted bookmark manager with webpage preservation
+
+自托管书签管理器，支持网页保存

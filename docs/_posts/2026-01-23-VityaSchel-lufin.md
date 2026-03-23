@@ -7,3 +7,5 @@ image: assets/VityaSchel_lufin_20260122_173920_903_20260122_173936_801032.png
 # [VityaSchel/lufin](https://github.com/VityaSchel/lufin)
 
 Self-hosted file-sharing service with end-to-end encryption
+
+端到端加密自托管文件共享服务

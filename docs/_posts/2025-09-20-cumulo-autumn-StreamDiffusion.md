@@ -7,3 +7,5 @@ image: assets/20250920T034856920--cumulo-autumn--StreamDiffusion--20250920T03541
 # [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
 
 real-time AI image generation pipeline with high throughput and energy efficiency
+
+实时AI图像生成管道，具有高吞吐量和能效

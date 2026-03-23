@@ -7,3 +7,5 @@ image: assets/PanSalut_Koffan_20260129_083404_178_20260129_083445_3f5420.png
 # [PanSalut/Koffan](https://github.com/PanSalut/Koffan)
 
 Selfhosted grocery list using 2.5 MB RAM
+
+自托管购物清单，使用2.5 MB RAM

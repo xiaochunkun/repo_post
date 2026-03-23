@@ -7,3 +7,5 @@ image: assets/alam025_ai_voice_assistant_appointment_booking_20260115_110105_449
 # [alam025/ai-voice-assistant-appointment-booking](https://github.com/alam025/ai-voice-assistant-appointment-booking)
 
 Voice assistant for appointment scheduling via Twilio and AWS Polly
+
+通过 Twilio 和 AWS Polly 实现预约调度的语音助手

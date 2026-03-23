@@ -7,3 +7,5 @@ image: assets/inferablehq_inferable_20251219_161358_863_20251219_161417_bd5edb.p
 # [inferablehq/inferable](https://github.com/inferablehq/inferable/)
 
 Durable execution runtime for AI workflows with humans in the loop
+
+支持人机交互的AI工作流持久执行运行时

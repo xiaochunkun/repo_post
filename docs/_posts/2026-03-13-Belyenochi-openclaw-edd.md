@@ -7,3 +7,5 @@ image: assets/Belyenochi_openclaw_edd_20260313_105915_249_20260313_110039_22bc14
 # [Belyenochi/openclaw-edd](https://github.com/Belyenochi/openclaw-edd)
 
 Evaluation-driven development for OpenClaw agents
+
+OpenClaw 代理的评估驱动开发

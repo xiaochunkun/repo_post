@@ -7,3 +7,5 @@ image: assets/Martian_Engineering_lossless_claw_20260316_050745_101_20260316_050
 # [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw)
 
 OpenClaw plugin preserving context via DAG summarization
+
+OpenClaw 插件，通过 DAG 摘要保留上下文

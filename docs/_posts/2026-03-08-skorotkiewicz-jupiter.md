@@ -7,3 +7,5 @@ image: assets/skorotkiewicz_jupiter_20260212_154750_244_20260212_154818_04cfee.p
 # [skorotkiewicz/jupiter](https://github.com/skorotkiewicz/jupiter)
 
 Agents negotiate matches for humans
+
+代理为人类协商匹配

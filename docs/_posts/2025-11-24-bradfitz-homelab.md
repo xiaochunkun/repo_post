@@ -7,3 +7,5 @@ image: assets/bradfitz_homelab_20251123_122953_125_20251124_003242_d8f778--20251
 # [bradfitz/homelab](https://github.com/bradfitz/homelab/)
 
 High availability home networking setup
+
+高可用家庭网络设置

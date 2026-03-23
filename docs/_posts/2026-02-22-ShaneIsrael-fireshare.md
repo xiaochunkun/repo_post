@@ -7,3 +7,5 @@ image: assets/ShaneIsrael_fireshare_20260210_141819_237_20260210_141836_65b63b.p
 # [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare)
 
 Self-host game clips via links
+
+通过链接自托管游戏剪辑

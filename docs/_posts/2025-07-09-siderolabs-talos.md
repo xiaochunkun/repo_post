@@ -7,3 +7,5 @@ image: assets/siderolabs_talos_cropped.png
 # [siderolabs/talos](https://github.com/siderolabs/talos)
 
 Kubernetes-focused Linux OS with API-only management, no SSH
+
+专注于 Kubernetes 的 Linux 操作系统，仅通过 API 管理，无 SSH

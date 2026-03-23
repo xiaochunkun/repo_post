@@ -7,3 +7,5 @@ image: assets/screenshot_20251017_065337--20251017T085337458--cropped.png
 # [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser/)
 
 Web-based interface for uploading, editing, previewing, and managing files with user access control
+
+基于Web的界面，用于上传、编辑、预览和管理文件，具有用户访问控制

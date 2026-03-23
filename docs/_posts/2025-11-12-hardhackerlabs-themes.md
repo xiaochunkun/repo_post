@@ -7,3 +7,5 @@ image: assets/hardhackerlabs_themes_20251111_195207_697_20251112_025800_e6c24a--
 # [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes/)
 
 Cyberpunk theme with reduced saturation for prolonged use
+
+降低饱和度以延长使用的赛博朋克主题

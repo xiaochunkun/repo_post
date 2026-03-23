@@ -7,3 +7,5 @@ image: assets/jaywcjlove_vidwall_20260121_011858_446_20260121_011919_82ca47.png
 # [jaywcjlove/vidwall](https://github.com/jaywcjlove/vidwall)
 
 Sets videos as desktop wallpapers
+
+将视频设置为桌面壁纸

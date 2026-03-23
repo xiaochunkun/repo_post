@@ -7,3 +7,5 @@ image: assets/graphiti_api_graphiti_20251127_171847_740_20251129_023028_bc369f--
 # [graphiti-api/graphiti](https://github.com/graphiti-api/graphiti/)
 
 Resource-oriented framework for JSON:API-compliant interfaces
+
+面向资源的框架，用于 JSON:API 兼容接口

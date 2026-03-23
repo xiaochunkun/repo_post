@@ -7,3 +7,5 @@ image: assets/Tohrusky_Final2x_20260119_203659_498_20260119_203723_4b7713.png
 # [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x)
 
 Upscales images across platforms
+
+跨平台图像放大工具

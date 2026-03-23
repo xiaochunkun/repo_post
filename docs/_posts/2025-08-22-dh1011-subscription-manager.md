@@ -7,3 +7,5 @@ image: assets/20250818T122338809_dh1011_subscription-manager--20250820T141446452
 # [dh1011/subscription-manager](https://github.com/dh1011/subscription-manager)
 
 web app for tracking and summarizing all your subscriptions and expenses
+
+订阅和开支跟踪 Web 应用，自动汇总消费

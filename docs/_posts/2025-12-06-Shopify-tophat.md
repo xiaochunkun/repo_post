@@ -7,3 +7,5 @@ image: assets/Shopify_tophat_20251204_214220_118_20251204_214300_f4a846.png
 # [Shopify/tophat](https://github.com/Shopify/tophat/)
 
 Installs and tests mobile apps from CI artifacts
+
+从CI工件安装和测试移动应用

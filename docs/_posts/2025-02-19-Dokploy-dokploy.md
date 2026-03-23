@@ -7,3 +7,5 @@ image: assets/Dokploy_dokploy_cropped.png
 # [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 
 Dokploy: App deployment tool using Docker and Traefik
+
+Dokploy：使用 Docker 和 Traefik 的应用部署工具

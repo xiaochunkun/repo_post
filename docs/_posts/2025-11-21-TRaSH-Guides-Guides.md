@@ -7,3 +7,5 @@ image: assets/TRaSH_Guides_Guides_20251120_070717_079_20251121_055046_7a22b6--20
 # [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides/)
 
 Guides for media server hardlinks
+
+媒体服务器硬链接指南

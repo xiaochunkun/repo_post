@@ -7,3 +7,5 @@ image: assets/EncyclopediaWorld_howaiworks_20260303_053420_877_20260303_053601_5
 # [EncyclopediaWorld/howaiworks](https://github.com/EncyclopediaWorld/howaiworks)
 
 Visual history of machine learning with interactive model demos
+
+机器学习可视化历史，带交互式模型演示

@@ -7,3 +7,5 @@ image: assets/rcourtman_Pulse_20260212_120946_859_20260212_121015_b71d34.png
 # [rcourtman/Pulse](https://github.com/rcourtman/Pulse)
 
 Monitors Proxmox, Docker, and Kubernetes infrastructure
+
+监控 Proxmox、Docker 和 Kubernetes 基础设施

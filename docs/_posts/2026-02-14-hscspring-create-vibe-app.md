@@ -7,3 +7,5 @@ image: assets/hscspring_create_vibe_app_20260212_181802_496_20260212_181834_258f
 # [hscspring/create-vibe-app](https://github.com/hscspring/create-vibe-app)
 
 Scaffolds project structures for AI agents
+
+为 AI 代理搭建项目结构

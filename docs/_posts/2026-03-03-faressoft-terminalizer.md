@@ -7,3 +7,5 @@ image: assets/faressoft_terminalizer_20260302_180935_145_20260302_181129_58b315.
 # [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
 
 Records terminal sessions into gifs
+
+将终端会话录制为gif

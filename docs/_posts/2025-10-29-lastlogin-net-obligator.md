@@ -7,3 +7,5 @@ image: assets/lastlogin_net_obligator_20251028_100711_600_20251029_004905_544a1b
 # [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator/)
 
 OpenID Connect server with passwordless email login
+
+支持无密码邮箱登录的 OpenID Connect 服务器

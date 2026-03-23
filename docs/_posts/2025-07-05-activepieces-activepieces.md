@@ -7,3 +7,5 @@ image: assets/activepieces_activepieces_cropped.png
 # [activepieces/activepieces](https://github.com/activepieces/activepieces)
 
 Automation platform for building and running workflows with code or no-code
+
+用于通过代码或无代码构建和运行工作流的自动化平台

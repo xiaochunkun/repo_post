@@ -7,3 +7,5 @@ image: assets/drackyjr_WEBCAPTURE_20251209_011707_103_20251209_011729_806fbc.png
 # [drackyjr/WEBCAPTURE](https://github.com/drackyjr/WEBCAPTURE/)
 
 Automates OSINT reconnaissance and scanning tasks
+
+自动化OSINT侦察与扫描任务

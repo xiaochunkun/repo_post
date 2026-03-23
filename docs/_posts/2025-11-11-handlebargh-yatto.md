@@ -7,3 +7,5 @@ image: assets/handlebargh_yatto_20251110_172230_630_20251111_015404_16dd2d--2025
 # [handlebargh/yatto](https://github.com/handlebargh/yatto/)
 
 Terminal to-do app that uses a Git repository for storage
+
+使用Git仓库存储的终端待办应用

@@ -7,3 +7,5 @@ image: assets/20250908T092456228--elysiajs--elysia--20250908T092942480--cropped.
 # [elysiajs/elysia](https://github.com/elysiajs/elysia)
 
 TypeScript backend framework for Bun with type safety and fast APIs
+
+基于 Bun 的 TypeScript 后端框架，类型安全且 API 高效

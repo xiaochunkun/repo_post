@@ -7,3 +7,5 @@ image: assets/crccheck_docker_hello_world_20251209_004233_141_20251209_004257_b5
 # [crccheck/docker-hello-world](https://github.com/crccheck/docker-hello-world/)
 
 Web server Docker image under 2MB
+
+小于2MB的Web服务器Docker镜像

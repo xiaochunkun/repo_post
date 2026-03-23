@@ -7,3 +7,5 @@ image: assets/rohunvora_x_research_skill_20260225_082959_885_20260225_083154_53e
 # [rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill)
 
 X research agent for Claude Code and OpenClaw
+
+Claude Code和OpenClaw的X研究代理

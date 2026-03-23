@@ -7,3 +7,5 @@ image: assets/nikopueringer_CorridorKey_20260317_032610_637_20260317_032724_895c
 # [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
 
 Separates foreground from green screen
+
+从绿幕中分离前景

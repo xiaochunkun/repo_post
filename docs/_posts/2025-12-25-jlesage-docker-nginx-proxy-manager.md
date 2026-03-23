@@ -7,3 +7,5 @@ image: assets/jlesage_docker_nginx_proxy_manager_20251223_114522_205_20251223_11
 # [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager/)
 
 Forwards websites with SSL via Docker container
+
+通过 Docker 容器转发带 SSL 的网站

@@ -7,3 +7,5 @@ image: assets/krillinai_KlicStudio_20260108_020605_774_20260108_020626_c39b5a.pn
 # [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio)
 
 Translates and dubs videos with voice cloning
+
+支持语音克隆的视频翻译和配音工具

@@ -7,3 +7,5 @@ image: assets/brandonleegit_homelabexplorers_20260130_151747_301_20260130_151823
 # [brandonleegit/homelabexplorers](https://github.com/brandonleegit/homelabexplorers)
 
 Challenges and configurations for self-hosting
+
+自托管的挑战与配置

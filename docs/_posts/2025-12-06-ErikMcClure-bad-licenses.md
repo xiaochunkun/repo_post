@@ -7,3 +7,5 @@ image: assets/ErikMcClure_bad_licenses_20251204_214105_494_20251204_214130_75104
 # [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses/)
 
 Compendium of satire software licenses
+
+讽刺软件许可证汇编

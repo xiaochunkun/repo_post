@@ -7,3 +7,5 @@ image: assets/Wh0am123_MCP_Kali_Server_20251217_080437_140_20251217_080600_6bd2d
 # [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server/)
 
 Connects AI agents to Linux terminals for penetration testing
+
+将 AI 代理连接到 Linux 终端进行渗透测试

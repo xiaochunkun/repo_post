@@ -7,3 +7,5 @@ image: assets/20250925T043247048--headwaymaps--headway--20250925T044646627--crop
 # [headwaymaps/headway](https://github.com/headwaymaps/headway)
 
 Self-host your own map server with OpenStreetMap data
+
+使用OpenStreetMap数据自托管自己的地图服务器

@@ -7,3 +7,5 @@ image: assets/sidequestjs_sidequest_20260318_002728_052_20260318_002809_8cbf9c.p
 # [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest)
 
 Background job processor for Node.js
+
+Node.js的后台作业处理器

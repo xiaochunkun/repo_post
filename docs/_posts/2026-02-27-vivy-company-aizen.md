@@ -7,3 +7,5 @@ image: assets/vivy_company_aizen_20260227_020311_215_20260227_020510_c46ba3.png
 # [vivy-company/aizen](https://github.com/vivy-company/aizen)
 
 Workspace for managing Git worktrees with integrated agents
+
+管理Git工作树并集成代理的工作空间

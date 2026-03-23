@@ -7,3 +7,5 @@ image: assets/ecruhue_DialogLab_20260222_120445_299_20260222_120515_37a7bb.png
 # [ecruhue/DialogLab](https://github.com/ecruhue/DialogLab)
 
 Orchestrates multi-agent conversations with 3D avatars
+
+协调多代理对话与3D头像

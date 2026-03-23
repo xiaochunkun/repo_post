@@ -7,3 +7,5 @@ image: assets/webpro-nl_knip_cropped.png
 # [webpro-nl/knip](https://github.com/webpro-nl/knip)
 
 Finds and fixes unused files, dependencies, and exports in JavaScript andTypeScript projects
+
+查找并修复JavaScript和TypeScript项目中未使用的文件、依赖和导出

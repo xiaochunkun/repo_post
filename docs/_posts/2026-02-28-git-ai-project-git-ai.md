@@ -7,3 +7,5 @@ image: assets/git_ai_project_git_ai_20260227_184725_381_20260227_184904_0aed7f.p
 # [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai)
 
 Links code to AI agents and transcripts
+
+将代码链接到AI代理和转录

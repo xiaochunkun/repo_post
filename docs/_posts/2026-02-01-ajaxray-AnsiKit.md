@@ -7,3 +7,5 @@ image: assets/ajaxray_AnsiKit_20260111_142746_887_20260111_142800_817633.png
 # [ajaxray/AnsiKit](https://github.com/ajaxray/AnsiKit)
 
 Builds terminal interfaces in PHP
+
+在 PHP 中构建终端界面

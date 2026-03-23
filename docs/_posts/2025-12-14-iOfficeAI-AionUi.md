@@ -7,3 +7,5 @@ image: assets/iOfficeAI_AionUi_20251210_052925_776_20251210_053005_b3aca3.png
 # [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi/)
 
 GUI for Gemini CLI and other LLMs
+
+Gemini CLI 及其他 LLM 的 GUI 界面

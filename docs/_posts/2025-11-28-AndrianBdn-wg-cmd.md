@@ -7,3 +7,5 @@ image: assets/AndrianBdn_wg_cmd_20251125_060324_294_20251127_171050_73f72d--2025
 # [AndrianBdn/wg-cmd](https://github.com/AndrianBdn/wg-cmd/)
 
 Manage WireGuard configurations from the terminal
+
+从终端管理 WireGuard 配置

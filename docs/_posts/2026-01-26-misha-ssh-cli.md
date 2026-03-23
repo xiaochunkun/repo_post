@@ -7,3 +7,5 @@ image: assets/misha_ssh_cli_20260114_121024_724_20260114_121038_1ab45a.png
 # [misha-ssh/cli](https://github.com/misha-ssh/cli)
 
 SSH client with terminal user interface
+
+带有终端用户界面的 SSH 客户端

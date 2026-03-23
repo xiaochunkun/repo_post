@@ -7,3 +7,5 @@ image: assets/20250915T040322537--KellerJordan--modded-nanogpt--20250915T0409084
 # [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
 
 competes to train GPT-2 models super fast on 8xH100 GPUs using speedrun benchmarks
+
+使用速度跑基准在 8xH100 GPU 上快速训练 GPT-2 模型的竞赛

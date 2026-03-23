@@ -7,3 +7,5 @@ image: assets/giancarloerra_SocratiCode_20260321_145552_118_20260321_145629_680e
 # [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode)
 
 Zero setup AI codebase intelligence
+
+零设置AI代码库智能工具

@@ -7,3 +7,5 @@ image: assets/20251007T031227237--mac-cleanup--mac-cleanup-py--20251007T03225601
 # [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 
 python script to clean up macOS trash, logs, and cache
+
+Python 脚本，用于清理 macOS 垃圾箱、日志和缓存

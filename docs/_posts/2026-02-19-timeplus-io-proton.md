@@ -7,3 +7,5 @@ image: assets/timeplus_io_proton_20260122_041020_568_20260122_041126_1f2d45.png
 # [timeplus-io/proton](https://github.com/timeplus-io/proton)
 
 SQL engine for stream processing without JVM dependencies
+
+无JVM依赖的流处理SQL引擎

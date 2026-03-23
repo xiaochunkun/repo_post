@@ -7,3 +7,5 @@ image: assets/CursorTouch_Windows_MCP_20260209_062301_623_20260209_062333_ee58d5
 # [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
 
 Bridges LLMs and Windows for UI automation
+
+连接LLM和Windows以实现UI自动化

@@ -7,3 +7,5 @@ image: assets/jkwill87_mnamer_20251213_114715_482_20251213_114739_82e2ac.png
 # [jkwill87/mnamer](https://github.com/jkwill87/mnamer/)
 
 Renames and organizes media files
+
+重命名和组织媒体文件

@@ -7,3 +7,5 @@ image: assets/labring_tentix_20251224_150526_463_20251224_150552_1a09b7.png
 # [labring/tentix](https://github.com/labring/tentix/)
 
 Customer service platform with AI agents
+
+带 AI 代理的客户服务平台

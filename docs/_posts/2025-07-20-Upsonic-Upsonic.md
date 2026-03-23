@@ -7,3 +7,5 @@ image: assets/Upsonic_Upsonic_cropped.png
 # [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)
 
 AI agent framework for reliable, production-ready workflows
+
+用于可靠、生产就绪工作流的AI代理框架

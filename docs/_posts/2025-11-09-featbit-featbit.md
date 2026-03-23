@@ -7,3 +7,5 @@ image: assets/featbit_featbit_20251108_201818_058_20251108_215923_0c154d--202511
 # [featbit/featbit](https://github.com/featbit/featbit/)
 
 Feature flags management service for developers
+
+面向开发者的功能标志管理服务

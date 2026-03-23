@@ -7,3 +7,5 @@ image: assets/AvdLee_SwiftUI_Agent_Skill_20260227_005413_311_20260227_005535_1d0
 # [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)
 
 SwiftUI guidance for AI agents
+
+AI智能体的SwiftUI指南

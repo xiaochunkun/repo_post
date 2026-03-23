@@ -7,3 +7,5 @@ image: assets/20251012T022819886--RARgames--4gaBoards--20251012T023435348--cropp
 # [RARgames/4gaBoards](https://github.com/RARgames/4gaBoards)
 
 self-hosted kanban board with dark mode and realtime updates
+
+自托管的看板，支持暗色模式和实时更新

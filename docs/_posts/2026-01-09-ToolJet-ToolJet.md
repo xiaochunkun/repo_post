@@ -7,3 +7,5 @@ image: assets/ToolJet_ToolJet_20260108_023638_204_20260108_023651_9968ce.png
 # [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
 Builds internal tools and AI agents with a visual editor
+
+使用可视化编辑器构建内部工具和AI代理

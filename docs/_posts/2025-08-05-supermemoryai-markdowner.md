@@ -7,3 +7,5 @@ image: assets/supermemoryai_markdowner_cropped.png
 # [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner)
 
 turn websites into markdown for LLMs
+
+将网站转换为适用于 LLM 的 Markdown

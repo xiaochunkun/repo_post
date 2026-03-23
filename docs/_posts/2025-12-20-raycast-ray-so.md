@@ -7,3 +7,5 @@ image: assets/raycast_ray_so_20251218_032935_629_20251218_032952_e41bd0.png
 # [raycast/ray-so](https://github.com/raycast/ray-so/)
 
 Generates code snippets and AI prompts
+
+生成代码片段和 AI 提示

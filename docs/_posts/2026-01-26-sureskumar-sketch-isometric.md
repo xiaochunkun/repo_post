@@ -7,3 +7,5 @@ image: assets/sureskumar_sketch_isometric_20260123_090045_694_20260123_090139_38
 # [sureskumar/sketch-isometric](https://github.com/sureskumar/sketch-isometric)
 
 Generates isometric views from Sketch artboards
+
+从 Sketch 画板生成等轴测视图

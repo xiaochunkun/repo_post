@@ -7,3 +7,5 @@ image: assets/joewinke_jat_20260322_034437_589_20260322_034515_477344.png
 # [joewinke/jat](https://github.com/joewinke/jat)
 
 IDE for autonomous agents
+
+自主智能体的集成开发环境

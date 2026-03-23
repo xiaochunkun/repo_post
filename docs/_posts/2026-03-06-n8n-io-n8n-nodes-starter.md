@@ -7,3 +7,5 @@ image: assets/n8n_io_n8n_nodes_starter_20260305_094316_424_20260305_094428_11da5
 # [n8n-io/n8n-nodes-starter](https://github.com/n8n-io/n8n-nodes-starter)
 
 Starter for building integrations for n8n
+
+构建 n8n 集成的入门工具

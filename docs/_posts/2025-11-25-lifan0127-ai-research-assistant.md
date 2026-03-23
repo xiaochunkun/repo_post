@@ -7,3 +7,5 @@ image: assets/lifan0127_ai_research_assistant_20251123_193651_896_20251125_01231
 # [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant/)
 
 Zotero plugin powered by LLMs
+
+基于 LLMs 的 Zotero 插件

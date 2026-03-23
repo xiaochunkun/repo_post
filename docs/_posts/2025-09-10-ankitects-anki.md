@@ -7,3 +7,5 @@ image: assets/20250908T230535535--ankitects--anki--20250908T231337890--cropped.p
 # [ankitects/anki](https://github.com/ankitects/anki)
 
 spaced repetition flashcard app for memorization
+
+基于间隔重复的记忆闪卡应用

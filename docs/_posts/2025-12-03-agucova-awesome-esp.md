@@ -7,3 +7,5 @@ image: assets/agucova_awesome_esp_20251201_071516_837_20251201_071552_f1e5a4.png
 # [agucova/awesome-esp](https://github.com/agucova/awesome-esp/)
 
 Curated list of ESP8266/32 projects and code
+
+ESP8266/32 项目与代码精选列表

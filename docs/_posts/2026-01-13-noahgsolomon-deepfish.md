@@ -7,3 +7,5 @@ image: assets/noahgsolomon_deepfish_20260112_132419_562_20260112_132434_82a5ce.p
 # [noahgsolomon/deepfish](https://github.com/noahgsolomon/deepfish)
 
 Node editor for AI workflows
+
+AI工作流的节点编辑器

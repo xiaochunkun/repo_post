@@ -7,3 +7,5 @@ image: assets/gobackup_gobackup_20251123_205919_239_20251125_220819_5a5993--2025
 # [gobackup/gobackup](https://github.com/gobackup/gobackup/)
 
 CLI tool to backup databases to cloud storage
+
+将数据库备份到云存储的 CLI 工具

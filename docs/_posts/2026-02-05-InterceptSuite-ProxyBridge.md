@@ -7,3 +7,5 @@ image: assets/InterceptSuite_ProxyBridge_20260204_031547_036_20260204_031605_939
 # [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge)
 
 Redirects traffic from processes through proxies
+
+将进程流量通过代理重定向

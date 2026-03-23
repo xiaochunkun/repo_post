@@ -7,3 +7,5 @@ image: assets/agentuniverse_ai_agentUniverse_20251123_195825_285_20251125_012703
 # [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse/)
 
 Multi-agent framework for building collaborative LLM applications
+
+用于构建协作 LLM 应用的多智能体框架

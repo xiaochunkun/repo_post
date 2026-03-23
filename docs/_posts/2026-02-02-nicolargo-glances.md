@@ -7,3 +7,5 @@ image: assets/nicolargo_glances_20260202_104537_345_20260202_104626_876182.png
 # [nicolargo/glances](https://github.com/nicolargo/glances)
 
 Monitors system resources across platforms
+
+跨平台系统资源监控工具

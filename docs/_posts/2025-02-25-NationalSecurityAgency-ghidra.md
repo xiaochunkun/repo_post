@@ -7,3 +7,5 @@ image: assets/NationalSecurityAgency_ghidra_cropped.png
 # [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 NSA's open-source reverse engineering tool on GitHub
+
+NSA 在 GitHub 上的开源逆向工程工具

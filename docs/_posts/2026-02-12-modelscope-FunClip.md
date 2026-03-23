@@ -7,3 +7,5 @@ image: assets/modelscope_FunClip_20260209_111024_214_20260209_111132_f99c54.png
 # [modelscope/FunClip](https://github.com/modelscope/FunClip)
 
 Clips video using speech recognition and large language models
+
+使用语音识别和大语言模型剪辑视频

@@ -7,3 +7,5 @@ image: assets/20250830T041106641--astubenbord--paperless-mobile--20250830T041829
 # [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile)
 
 mobile app for managing paperless-ngx documents
+
+Paperless-ngx 文档管理移动端应用

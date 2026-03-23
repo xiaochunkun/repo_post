@@ -7,3 +7,5 @@ image: assets/Lennolium_swiftGuard_20260120_095741_489_20260120_095755_ece456.pn
 # [Lennolium/swiftGuard](https://github.com/Lennolium/swiftGuard)
 
 Shuts down macOS upon unauthorized USB connection
+
+在未经授权的 USB 连接时关闭 macOS

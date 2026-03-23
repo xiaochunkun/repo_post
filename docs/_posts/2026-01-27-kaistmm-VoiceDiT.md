@@ -7,3 +7,5 @@ image: assets/kaistmm_VoiceDiT_20260116_022110_016_20260116_022122_56892f.png
 # [kaistmm/VoiceDiT](https://github.com/kaistmm/VoiceDiT)
 
 Generates speech from text and visual prompts
+
+从文本和视觉提示生成语音

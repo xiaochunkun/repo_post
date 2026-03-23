@@ -7,3 +7,5 @@ image: assets/vtvz_medpack_20260111_045333_633_20260111_045347_b80b6d.png
 # [vtvz/medpack](https://github.com/vtvz/medpack)
 
 Organizes medical records from Telegram into PDFs with OCR
+
+使用 OCR 将 Telegram 医疗记录整理为 PDF

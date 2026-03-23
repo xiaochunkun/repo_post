@@ -7,3 +7,5 @@ image: assets/dfki_ric_ground_segmentation_20260311_110908_385_20260311_111105_5
 # [dfki-ric/ground_segmentation](https://github.com/dfki-ric/ground_segmentation)
 
 Two-phase grid-based ground segmentation for autonomous driving
+
+自动驾驶的两阶段基于网格的地面分割

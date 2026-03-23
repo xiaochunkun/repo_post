@@ -7,3 +7,5 @@ image: assets/kaneo-app_app_cropped.png
 # [kaneo-app/app](https://github.com/kaneo-app/app)
 
 Open-source project management app
+
+开源项目管理应用

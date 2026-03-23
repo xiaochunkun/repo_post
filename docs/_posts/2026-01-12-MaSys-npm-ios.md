@@ -7,3 +7,5 @@ image: assets/MaSys_npm_ios_20260112_085023_615_20260112_085050_630aa4.png
 # [MaSys/npm-ios](https://github.com/MaSys/npm-ios)
 
 Manage Nginx Proxy Manager from an iPhone
+
+从iPhone管理Nginx Proxy Manager

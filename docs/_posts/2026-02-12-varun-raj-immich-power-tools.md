@@ -7,3 +7,5 @@ image: assets/varun_raj_immich_power_tools_20260209_035829_631_20260209_035854_f
 # [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools)
 
 Organizes people and albums for Immich accounts
+
+为 Immich 账户组织人员和相册

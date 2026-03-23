@@ -7,3 +7,5 @@ image: assets/480_Design_Solar_Icon_Set_20260122_110703_779_20260122_110727_8d3a
 # [480-Design/Solar-Icon-Set](https://github.com/480-Design/Solar-Icon-Set)
 
 Library of 7,000 icons with corner smoothing
+
+7000个圆角平滑图标库

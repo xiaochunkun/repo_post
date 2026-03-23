@@ -7,3 +7,5 @@ image: assets/mallahyari_system_design_visualizer_20251223_084825_848_20251223_0
 # [mallahyari/system-design-visualizer](https://github.com/mallahyari/system-design-visualizer/)
 
 Converts system design images into interactive diagrams via AI
+
+通过AI将系统设计图像转换为交互式图表

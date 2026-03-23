@@ -7,3 +7,5 @@ image: assets/prest_prest_20251201_030741_142_20251201_030805_c23ff9.png
 # [prest/prest](https://github.com/prest/prest/)
 
 Instant REST API for PostgreSQL databases
+
+为 PostgreSQL 数据库提供即时 REST API

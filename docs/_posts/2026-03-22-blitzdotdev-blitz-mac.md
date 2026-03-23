@@ -7,3 +7,5 @@ image: assets/blitzdotdev_blitz_mac_20260321_194144_349_20260321_194339_786f22.p
 # [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac)
 
 Native macOS app for iOS AI agents
+
+iOS AI 代理的原生 macOS 应用

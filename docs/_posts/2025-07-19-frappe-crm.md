@@ -7,3 +7,5 @@ image: assets/frappe_crm_cropped.png
 # [frappe/crm](https://github.com/frappe/crm)
 
 open source CRM for sales and customer management
+
+销售和客户管理的开源CRM

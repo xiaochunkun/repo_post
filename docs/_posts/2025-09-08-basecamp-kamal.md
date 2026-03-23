@@ -7,3 +7,5 @@ image: assets/20250907T201009664--basecamp--kamal--20250907T201134656--cropped.p
 # [basecamp/kamal](https://github.com/basecamp/kamal)
 
 deploy web apps anywhere with zero downtime using Docker
+
+用 Docker 零宕机部署 Web 应用到任何环境

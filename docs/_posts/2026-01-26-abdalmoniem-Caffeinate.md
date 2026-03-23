@@ -7,3 +7,5 @@ image: assets/abdalmoniem_Caffeinate_20260112_045121_831_20260112_045209_a077c1.
 # [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate)
 
 Keeps phone screens awake via quick settings tiles
+
+快速设置磁贴保持手机屏幕常亮

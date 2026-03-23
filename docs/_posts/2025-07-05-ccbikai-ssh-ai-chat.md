@@ -7,3 +7,5 @@ image: assets/ccbikai_ssh-ai-chat_cropped.png
 # [ccbikai/ssh-ai-chat](https://github.com/ccbikai/ssh-ai-chat)
 
 chat with an AI assistant over SSH from your terminal
+
+通过SSH从终端与AI助手聊天

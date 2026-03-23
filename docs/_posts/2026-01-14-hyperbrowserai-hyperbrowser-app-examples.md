@@ -7,3 +7,5 @@ image: assets/hyperbrowserai_hyperbrowser_app_examples_20260112_150811_867_20260
 # [hyperbrowserai/hyperbrowser-app-examples](https://github.com/hyperbrowserai/hyperbrowser-app-examples)
 
 Examples of browser automation and web scraping apps
+
+浏览器自动化和网页抓取应用示例

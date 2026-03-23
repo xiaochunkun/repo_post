@@ -7,3 +7,5 @@ image: assets/reworkd_bananalyzer_20251118_190905_307_20251120_003146_b3bbf8--20
 # [reworkd/bananalyzer](https://github.com/reworkd/bananalyzer/)
 
 Evaluation framework for AI web agents
+
+AI网页代理评估框架

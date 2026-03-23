@@ -7,3 +7,5 @@ image: assets/excid3_ferrum_pdf_20260101_013306_355_20260101_013323_b4e83a.png
 # [excid3/ferrum_pdf](https://github.com/excid3/ferrum_pdf/)
 
 Generates PDFs and screenshots using Chrome without Node.js dependencies
+
+使用Chrome生成PDF和截图，无需Node.js依赖

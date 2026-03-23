@@ -7,3 +7,5 @@ image: assets/documize_community_20251029_015128_165_20251029_025751_4c4e71--202
 # [documize/community](https://github.com/documize/community/)
 
 Self-hosted knowledge management in a single binary
+
+单二进制文件的自托管知识管理

@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen3_20260203_074506_735_20260203_074530_f837e2.png
 # [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
 
 Language models with reasoning and million-token context
+
+支持推理和百万令牌上下文的大语言模型

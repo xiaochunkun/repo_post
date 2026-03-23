@@ -7,3 +7,5 @@ image: assets/20251015T010745905--NopeCHALLC--nopecha-extension--20251015T011140
 # [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
 
 automates CAPTCHA solving in Chrome and Firefox, supports reCAPTCHA, FunCAPTCHA, and more
+
+在 Chrome 和 Firefox 中自动化解决 CAPTCHA，支持 reCAPTCHA、FunCAPTCHA 等

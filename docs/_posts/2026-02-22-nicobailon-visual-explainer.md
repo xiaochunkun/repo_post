@@ -7,3 +7,5 @@ image: assets/nicobailon_visual_explainer_20260221_111245_939_20260221_111306_ae
 # [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)
 
 Converts terminal output into HTML pages
+
+将终端输出转换为 HTML 页面

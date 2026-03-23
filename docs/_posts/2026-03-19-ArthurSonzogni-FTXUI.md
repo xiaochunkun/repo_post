@@ -7,3 +7,5 @@ image: assets/ArthurSonzogni_FTXUI_20260318_061414_990_20260318_061528_a4f49f.pn
 # [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
 
 Functional C++ library for terminal interfaces
+
+用于终端界面的函数式 C++ 库

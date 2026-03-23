@@ -7,3 +7,5 @@ image: assets/ancoleman_ai_design_components_20260114_103708_371_20260114_103722
 # [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components)
 
 Skills for development with Claude
+
+用于 Claude 开发的技能

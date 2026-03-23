@@ -7,3 +7,5 @@ image: assets/eugeneyan_news-agents_cropped.png
 # [eugeneyan/news-agents](https://github.com/eugeneyan/news-agents)
 
 terminal news digests with multi-agent summaries
+
+具有多代理摘要的终端新闻摘要

@@ -7,3 +7,5 @@ image: assets/20251013T000331212--catas-w--WK-Proxy--20251013T001234324--cropped
 # [catas-w/WK-Proxy](https://github.com/catas-w/WK-Proxy)
 
 desktop HTTP/HTTPS proxy and packet capture tool for network debugging
+
+用于网络调试的桌面 HTTP/HTTPS 代理和数据包捕获工具

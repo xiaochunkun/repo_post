@@ -7,3 +7,5 @@ image: assets/GothenburgBitFactory_timewarrior_20251231_041808_413_20251231_0418
 # [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior/)
 
 Tracks time with stopwatch features and calendar backfill
+
+具备秒表功能和日历回填的时间跟踪工具

@@ -7,3 +7,5 @@ image: assets/kdeldycke_awesome_iam_20260103_033357_306_20260103_033419_d9ed02.p
 # [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam/)
 
 Curated list of identity and access management resources
+
+身份和访问管理资源精选列表

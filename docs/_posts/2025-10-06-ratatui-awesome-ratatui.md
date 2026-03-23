@@ -7,3 +7,5 @@ image: assets/20251005T225531347--ratatui--awesome-ratatui--20251005T230212127--
 # [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui)
 
 Curated list of Rust TUI libraries, widgets, and apps built with ratatui
+
+精选的 Rust TUI 库、组件和基于 ratatui 构建的应用列表

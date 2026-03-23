@@ -7,3 +7,5 @@ image: assets/donlon_cloudflare_error_page_20251219_213239_934_20251219_213309_d
 # [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page/)
 
 Generates error pages mimicking the Cloudflare style
+
+生成模仿 Cloudflare 风格的错误页面

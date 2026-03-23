@@ -7,3 +7,5 @@ image: assets/mjyc_awesome_robotics_projects_20251228_191533_779_20251228_191551
 # [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects/)
 
 Curated list of robotics projects and tooling companies
+
+机器人项目和工具公司的精选列表

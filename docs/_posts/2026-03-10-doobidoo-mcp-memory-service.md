@@ -7,3 +7,5 @@ image: assets/doobidoo_mcp_memory_service_20260309_105135_894_20260309_105420_a6
 # [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)
 
 Shared memory backend for AI agent pipelines
+
+AI 代理管道的共享内存后端

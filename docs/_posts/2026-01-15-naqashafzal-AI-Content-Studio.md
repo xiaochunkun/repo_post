@@ -7,3 +7,5 @@ image: assets/naqashafzal_AI_Content_Studio_20260114_163621_946_20260114_163634_
 # [naqashafzal/AI-Content-Studio](https://github.com/naqashafzal/AI-Content-Studio)
 
 Automates YouTube video creation from research to publishing
+
+从研究到发布的 YouTube 视频自动化创建

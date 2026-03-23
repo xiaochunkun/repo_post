@@ -7,3 +7,5 @@ image: assets/devhyper_open_video_editor_20251221_180011_895_20251221_180034_69e
 # [devhyper/open-video-editor](https://github.com/devhyper/open-video-editor/)
 
 Android video editor built with Media3 and Jetpack Compose
+
+基于 Media3 和 Jetpack Compose 的 Android 视频编辑器

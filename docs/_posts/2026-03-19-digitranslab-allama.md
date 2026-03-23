@@ -7,3 +7,5 @@ image: assets/digitranslab_allama_20260316_234727_283_20260316_234749_59ed66.png
 # [digitranslab/allama](https://github.com/digitranslab/allama)
 
 Visual workflow builder for security automation
+
+用于安全自动化的可视化工作流构建器

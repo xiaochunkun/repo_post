@@ -7,3 +7,5 @@ image: assets/cashmeredev_kitty_graphics_el_20260309_115458_616_20260309_115730_
 # [cashmeredev/kitty-graphics.el](https://github.com/cashmeredev/kitty-graphics.el)
 
 Renders images in terminal Emacs using Kitty graphics protocol
+
+使用 Kitty 图形协议在终端 Emacs 中渲染图像

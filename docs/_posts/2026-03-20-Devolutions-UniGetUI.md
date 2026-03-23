@@ -7,3 +7,5 @@ image: assets/Devolutions_UniGetUI_20260318_075721_097_20260318_075825_0fb9d9.pn
 # [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
 
 GUI for Windows package managers
+
+Windows 包管理器的 GUI

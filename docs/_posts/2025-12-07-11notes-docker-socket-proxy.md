@@ -7,3 +7,5 @@ image: assets/11notes_docker_socket_proxy_20251205_012714_725_20251205_012735_74
 # [11notes/docker-socket-proxy](https://github.com/11notes/docker-socket-proxy/)
 
 Proxy for read-only, rootless Docker socket access
+
+用于只读、无根Docker套接字访问的代理

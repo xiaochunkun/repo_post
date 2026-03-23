@@ -7,3 +7,5 @@ image: assets/microsoft_TinyTroupe_cropped.png
 # [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)
 
 Simulate people with personalities and goals using Python and LLMs
+
+使用 Python 和 LLM 模拟具有个性和目标的人物

@@ -7,3 +7,5 @@ image: assets/davidchatting_ThreeWiFiMeters_20260118_110836_344_20260118_110857_
 # [davidchatting/ThreeWiFiMeters](https://github.com/davidchatting/ThreeWiFiMeters)
 
 Visualizes WiFi signals using ESP8266 or ESP32
+
+使用ESP8266或ESP32可视化WiFi信号

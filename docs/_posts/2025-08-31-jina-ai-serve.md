@@ -7,3 +7,5 @@ image: assets/20250830T173443493--jina-ai--serve--20250830T174157921--cropped.pn
 # [jina-ai/serve](https://github.com/jina-ai/serve)
 
 framework for serving and scaling AI models over gRPC, HTTP, WebSockets
+
+通过 gRPC、HTTP、WebSocket 部署和扩展 AI 模型的框架

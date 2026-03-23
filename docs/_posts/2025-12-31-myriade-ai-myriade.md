@@ -7,3 +7,5 @@ image: assets/myriade_ai_myriade_20251230_055733_957_20251230_055750_37dac5.png
 # [myriade-ai/myriade](https://github.com/myriade-ai/myriade/)
 
 AI agents for data warehouse management
+
+用于数据仓库管理的AI代理

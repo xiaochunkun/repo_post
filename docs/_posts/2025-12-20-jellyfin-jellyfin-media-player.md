@@ -7,3 +7,5 @@ image: assets/jellyfin_jellyfin_media_player_20251218_045523_119_20251218_045541
 # [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player/)
 
 Desktop client with embedded MPV player
+
+集成 MPV 播放器的桌面客户端

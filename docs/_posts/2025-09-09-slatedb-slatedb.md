@@ -7,3 +7,5 @@ image: assets/20250906T223647188--slatedb--slatedb--20250908T100207414--cropped.
 # [slatedb/slatedb](https://github.com/slatedb/slatedb)
 
 cloud-native embedded key-value store using object storage
+
+使用对象存储的云原生嵌入式键值存储

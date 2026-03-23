@@ -7,3 +7,5 @@ image: assets/Moustachauve_cookie_editor_20251025_023707_992_20251025_031144_2cd
 # [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor/)
 
 Browser extension to create, edit, and delete cookies
+
+创建、编辑和删除Cookie的浏览器扩展

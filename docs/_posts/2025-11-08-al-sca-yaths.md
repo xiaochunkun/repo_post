@@ -7,3 +7,5 @@ image: assets/al_sca_yaths_20251108_000549_380_20251108_000710_13f1b4--20251108T
 # [al-sca/yaths](https://github.com/al-sca/yaths/)
 
 37kb HTTP file server for directory browsing
+
+用于目录浏览的37kb HTTP文件服务器

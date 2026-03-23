@@ -7,3 +7,5 @@ image: assets/astracompiler_cli_cropped.png
 # [astracompiler/cli](https://github.com/astracompiler/cli)
 
 js-to-exe compiler for JavaScript and TypeScript projects
+
+用于JavaScript和TypeScript项目的js-to-exe编译器

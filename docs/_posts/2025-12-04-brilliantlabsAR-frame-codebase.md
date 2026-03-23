@@ -7,3 +7,5 @@ image: assets/brilliantlabsAR_frame_codebase_20251201_091954_821_20251201_092022
 # [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase/)
 
 Firmware and RTL codebase for Frame hardware
+
+Frame硬件的固件和RTL代码库

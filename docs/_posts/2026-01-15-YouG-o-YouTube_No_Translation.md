@@ -7,3 +7,5 @@ image: assets/YouG_o_YouTube_No_Translation_20260115_084655_337_20260115_084710_
 # [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation)
 
 Stops automatic translations of titles and audio on YouTube
+
+停止 YouTube 上标题和音频的自动翻译

@@ -7,3 +7,5 @@ image: assets/trailofbits_buttercup_cropped.png
 # [trailofbits/buttercup](https://github.com/trailofbits/buttercup)
 
 AI tool for finding and patching software vulnerabilities
+
+用于查找和修补软件漏洞的AI工具

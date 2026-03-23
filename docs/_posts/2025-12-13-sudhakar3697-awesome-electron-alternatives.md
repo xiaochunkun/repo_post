@@ -7,3 +7,5 @@ image: assets/sudhakar3697_awesome_electron_alternatives_20251210_023540_917_202
 # [sudhakar3697/awesome-electron-alternatives](https://github.com/sudhakar3697/awesome-electron-alternatives/)
 
 Curated list of Electron alternatives
+
+精选的 Electron 替代方案列表

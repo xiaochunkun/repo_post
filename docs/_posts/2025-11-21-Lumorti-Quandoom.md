@@ -7,3 +7,5 @@ image: assets/Lumorti_Quandoom_20251121_112126_342_20251121_211517_017b03--20251
 # [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom/)
 
 Port of Doom for quantum computers
+
+量子计算机的 Doom 移植版

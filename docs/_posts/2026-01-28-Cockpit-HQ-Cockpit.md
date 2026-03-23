@@ -7,3 +7,5 @@ image: assets/Cockpit_HQ_Cockpit_20260122_025310_254_20260122_025326_ff5f30.png
 # [Cockpit-HQ/Cockpit](https://github.com/Cockpit-HQ/Cockpit)
 
 Headless CMS for content infrastructure
+
+用于内容基础设施的无头CMS

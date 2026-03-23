@@ -7,3 +7,5 @@ image: assets/Akianonymus_gdrive_downloader_20260104_083438_243_20260104_083453_
 # [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader/)
 
 Downloads folders from Google Drive using shell scripts
+
+使用 shell 脚本从 Google Drive 下载文件夹

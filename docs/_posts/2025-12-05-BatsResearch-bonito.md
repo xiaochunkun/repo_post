@@ -7,3 +7,5 @@ image: assets/BatsResearch_bonito_20251202_223701_158_20251202_223845_7f938d.png
 # [BatsResearch/bonito](https://github.com/BatsResearch/bonito/)
 
 Converts unannotated text into instruction tuning datasets
+
+将未标注文本转换为指令调优数据集

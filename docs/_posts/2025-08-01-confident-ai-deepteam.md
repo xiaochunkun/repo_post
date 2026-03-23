@@ -7,3 +7,5 @@ image: assets/confident-ai_deepteam_cropped.png
 # [confident-ai/deepteam](https://github.com/confident-ai/deepteam)
 
 framework for red teaming and testing LLM security
+
+红队测试和LLM安全评估框架

@@ -7,3 +7,5 @@ image: assets/flashlight_flashlight_cropped.png
 # [flashlight/flashlight](https://github.com/flashlight/flashlight)
 
 C++ library for machine learning tasks and research
+
+用于机器学习任务和研究的C++库

@@ -7,3 +7,5 @@ image: assets/alexeygrigorev_ai_engineering_field_guide_20260309_121500_281_2026
 # [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide)
 
 Guide for AI engineering roles and interviews based on job data
+
+基于职位数据的AI工程角色和面试指南

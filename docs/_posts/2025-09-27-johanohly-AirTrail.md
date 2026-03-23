@@ -7,3 +7,5 @@ image: assets/20250927T043135435--johanohly--AirTrail--20250927T044649591--cropp
 # [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 
 track and visualize your flights on a world map, view stats, import past trips
+
+在地图上追踪和可视化航班，查看统计数据，导入过往行程

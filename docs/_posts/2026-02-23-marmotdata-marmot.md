@@ -7,3 +7,5 @@ image: assets/marmotdata_marmot_20260222_081423_393_20260222_081445_dc0cd6.png
 # [marmotdata/marmot](https://github.com/marmotdata/marmot)
 
 Data catalog for discovery and lineage across the stack
+
+用于跨堆栈发现和沿袭的数据目录

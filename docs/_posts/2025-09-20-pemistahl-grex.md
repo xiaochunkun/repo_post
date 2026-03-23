@@ -7,3 +7,5 @@ image: assets/20250920T041823567--pemistahl--grex--20250920T042644863--cropped.p
 # [pemistahl/grex](https://github.com/pemistahl/grex)
 
 generate regex from examples in the command line
+
+在命令行中从示例生成正则表达式

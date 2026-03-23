@@ -7,3 +7,5 @@ image: assets/20250908T121023376--OpenGVLab--InternVL--20250908T193215327--cropp
 # [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL)
 
 Open-source models getting closer to GPT-5 for handling images and text together
+
+逼近 GPT-5 水平的开源多模态模型，支持图文联合处理

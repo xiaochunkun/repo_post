@@ -7,3 +7,5 @@ image: assets/KenWeTech_Restoqit_20251203_012256_319_20251203_012321_a2d57b.png
 # [KenWeTech/Restoqit](https://github.com/KenWeTech/Restoqit/)
 
 Self-hosted restocking dashboard for Grocy
+
+Grocy的自托管补货仪表板

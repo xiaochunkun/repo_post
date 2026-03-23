@@ -7,3 +7,5 @@ image: assets/0xSojalSec_anylabeling_20251227_165538_914_20251227_165602_71ff96.
 # [0xSojalSec/anylabeling](https://github.com/0xSojalSec/anylabeling/)
 
 Labels data using YOLO and Segment Anything
+
+使用 YOLO 和 Segment Anything 进行数据标注

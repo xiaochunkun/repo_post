@@ -7,3 +7,5 @@ image: assets/Gozargah_Marzban_20251228_130703_632_20251228_130720_07ef9e.png
 # [Gozargah/Marzban](https://github.com/Gozargah/Marzban/)
 
 GUI for censorship resistant proxy management
+
+抗审查代理管理的图形界面

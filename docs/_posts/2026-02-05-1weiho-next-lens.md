@@ -7,3 +7,5 @@ image: assets/1weiho_next_lens_20260204_135944_734_20260204_140004_6c785b.png
 # [1weiho/next-lens](https://github.com/1weiho/next-lens)
 
 CLI for Next.js route insights and MCP integration
+
+Next.js路由洞察和MCP集成的CLI

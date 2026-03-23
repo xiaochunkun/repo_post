@@ -7,3 +7,5 @@ image: assets/soulteary_owlmail_20260111_092632_544_20260111_092719_e4709b.png
 # [soulteary/owlmail](https://github.com/soulteary/owlmail)
 
 SMTP server and web interface for mail testing
+
+邮件测试的SMTP服务器和Web界面

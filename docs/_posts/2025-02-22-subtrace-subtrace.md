@@ -7,3 +7,5 @@ image: assets/subtrace_subtrace_cropped.png
 # [subtrace/subtrace](https://github.com/subtrace/subtrace)
 
 Wireshark for Docker containers
+
+用于Docker容器的Wireshark

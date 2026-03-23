@@ -7,3 +7,5 @@ image: assets/red_data_tools_YouPlot_20251228_093025_419_20251228_093115_41ede3.
 # [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot/)
 
 Plots data in the terminal
+
+在终端中绘制数据

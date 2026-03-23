@@ -7,3 +7,5 @@ image: assets/amatya_aditya_obsidian_rss_dashboard_20260210_203126_402_20260210_
 # [amatya-aditya/obsidian-rss-dashboard](https://github.com/amatya-aditya/obsidian-rss-dashboard)
 
 Aggregates RSS feeds and YouTube channels into Obsidian
+
+将RSS源和YouTube频道聚合到Obsidian

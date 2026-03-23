@@ -7,3 +7,5 @@ image: assets/blackcandy_org_blackcandy_20260121_232557_752_20260121_232613_f974
 # [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
 
 Self-hosted music streaming server
+
+自托管音乐流媒体服务器

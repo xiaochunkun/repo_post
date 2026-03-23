@@ -7,3 +7,5 @@ image: assets/puemos_hls_downloader_20260210_164813_410_20260210_164857_9de5d0.p
 # [puemos/hls-downloader](https://github.com/puemos/hls-downloader)
 
 Downloads HLS streams via browser extension using ffmpeg.wasm
+
+通过浏览器扩展使用ffmpeg.wasm下载HLS流

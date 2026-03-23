@@ -7,3 +7,5 @@ image: assets/benjitaylor_agentation_20260206_190111_786_20260206_190129_21ed71.
 # [benjitaylor/agentation](https://github.com/benjitaylor/agentation)
 
 Visual feedback tool for AI coding agents
+
+AI 编码代理的可视化反馈工具

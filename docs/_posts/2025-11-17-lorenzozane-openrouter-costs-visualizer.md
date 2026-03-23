@@ -7,3 +7,5 @@ image: assets/lorenzozane_openrouter_costs_visualizer_20251115_064206_813_202511
 # [lorenzozane/openrouter-costs-visualizer](https://github.com/lorenzozane/openrouter-costs-visualizer/)
 
 Visualize OpenRouter CSV usage costs
+
+可视化 OpenRouter CSV 使用成本

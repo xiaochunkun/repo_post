@@ -7,3 +7,5 @@ image: assets/ajinabraham_CMSScan_20251031_072127_331_20251101_205636_7df291--20
 # [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan/)
 
 Centralized security dashboard for WordPress, Drupal, Joomla, and vBulletin sites
+
+WordPress、Drupal、Joomla 和 vBulletin 站点的集中安全仪表板

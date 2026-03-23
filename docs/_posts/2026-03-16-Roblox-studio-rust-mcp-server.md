@@ -7,3 +7,5 @@ image: assets/Roblox_studio_rust_mcp_server_20260305_134331_370_20260305_134438_
 # [Roblox/studio-rust-mcp-server](https://github.com/Roblox/studio-rust-mcp-server)
 
 Server for communication between Roblox Studio and LLMs
+
+Roblox Studio 与 LLM 通信的服务器

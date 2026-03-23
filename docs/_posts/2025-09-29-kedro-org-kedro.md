@@ -7,3 +7,5 @@ image: assets/20250929T012302971--kedro-org--kedro--20250929T013442977--cropped.
 # [kedro-org/kedro](https://github.com/kedro-org/kedro)
 
 Python framework for reproducible data science pipelines
+
+用于可重复数据科学管道的Python框架

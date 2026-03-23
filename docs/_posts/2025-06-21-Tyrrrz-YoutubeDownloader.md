@@ -7,3 +7,5 @@ image: assets/Tyrrrz_YoutubeDownloader_cropped.png
 # [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
 
 Downloads videos and playlists from YouTube
+
+从YouTube下载视频和播放列表

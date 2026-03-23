@@ -7,3 +7,5 @@ image: assets/boltgolt_howdy_20251122_211152_486_20251123_001619_0e5dce--2025112
 # [boltgolt/howdy](https://github.com/boltgolt/howdy/)
 
 Face recognition authentication for Linux
+
+Linux 的人脸识别认证

@@ -7,3 +7,5 @@ image: assets/Kanaries_graphic_walker_20260314_094815_501_20260314_095028_834298
 # [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker)
 
 Embeddable visual analytics for data exploration
+
+用于数据探索的可嵌入可视化分析工具

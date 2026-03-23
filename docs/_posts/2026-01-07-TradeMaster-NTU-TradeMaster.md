@@ -7,3 +7,5 @@ image: assets/TradeMaster_NTU_TradeMaster_20260106_155956_986_20260106_160046_56
 # [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster/)
 
 Reinforcement learning platform for quantitative trading pipelines
+
+用于量化交易管道的强化学习平台

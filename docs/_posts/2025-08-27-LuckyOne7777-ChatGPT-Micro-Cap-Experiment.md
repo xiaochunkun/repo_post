@@ -7,3 +7,5 @@ image: assets/20250826T024513173--LuckyOne7777--ChatGPT-Micro-Cap-Experiment--20
 # [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)
 
 ChatGPT runs a real-money micro-cap trading experiment
+
+ChatGPT 进行真金白银的微盘股交易实验

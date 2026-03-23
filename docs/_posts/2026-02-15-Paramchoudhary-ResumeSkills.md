@@ -7,3 +7,5 @@ image: assets/Paramchoudhary_ResumeSkills_20260214_161104_639_20260214_161159_17
 # [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)
 
 AI agent skills for resume optimization and job search workflows
+
+用于简历优化和工作搜索流程的AI代理技能

@@ -7,3 +7,5 @@ image: assets/zernonia_madewithsupabase_20260120_084236_429_20260120_084251_5f06
 # [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase)
 
 Directory of projects built using Supabase
+
+使用 Supabase 构建的项目目录

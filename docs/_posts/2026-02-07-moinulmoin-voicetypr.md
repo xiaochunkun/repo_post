@@ -7,3 +7,5 @@ image: assets/moinulmoin_voicetypr_20260204_163925_269_20260204_163941_149954.pn
 # [moinulmoin/voicetypr](https://github.com/moinulmoin/voicetypr)
 
 Offline voice to text dictation for macOS and Windows
+
+macOS和Windows的离线语音转文本听写

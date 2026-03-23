@@ -7,3 +7,5 @@ image: assets/jankovicsandras_imagetracerjs_20251216_094343_671_20251216_094423_
 # [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs/)
 
 Raster image tracer and vectorizer in JavaScript
+
+JavaScript光栅图像追踪与矢量化工具

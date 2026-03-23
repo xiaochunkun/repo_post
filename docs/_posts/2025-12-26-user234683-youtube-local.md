@@ -7,3 +7,5 @@ image: assets/user234683_youtube_local_20251225_053911_115_20251225_053929_c6611
 # [user234683/youtube-local](https://github.com/user234683/youtube-local/)
 
 Browser client for watching YouTube anonymously without tracking
+
+匿名观看 YouTube 且无跟踪的浏览器客户端

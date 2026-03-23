@@ -7,3 +7,5 @@ image: assets/Rabithua_Rote_20260204_040241_308_20260204_040306_910049.png
 # [Rabithua/Rote](https://github.com/Rabithua/Rote)
 
 Self-hosted note repository with an open API
+
+具有开放 API 的自托管笔记仓库

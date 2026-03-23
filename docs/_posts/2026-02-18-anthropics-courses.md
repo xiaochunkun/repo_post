@@ -7,3 +7,5 @@ image: assets/anthropics_courses_20260206_033001_768_20260206_033024_6dc9d0.png
 # [anthropics/courses](https://github.com/anthropics/courses)
 
 Curriculum for prompt engineering and tool use
+
+提示工程和工具使用的课程

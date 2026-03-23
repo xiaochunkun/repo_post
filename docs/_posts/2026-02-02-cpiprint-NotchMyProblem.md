@@ -7,3 +7,5 @@ image: assets/cpiprint_NotchMyProblem_20260201_063529_780_20260201_063619_08e6f4
 # [cpiprint/NotchMyProblem](https://github.com/cpiprint/NotchMyProblem)
 
 Positions UI elements around the iPhone notch or Dynamic Island
+
+围绕iPhone刘海屏或Dynamic Island定位UI元素

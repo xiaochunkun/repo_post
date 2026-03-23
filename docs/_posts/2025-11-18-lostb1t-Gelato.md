@@ -7,3 +7,5 @@ image: assets/lostb1t_Gelato_20251118_043820_975_20251118_045927_c4732f--2025111
 # [lostb1t/Gelato](https://github.com/lostb1t/Gelato/)
 
 Integrates Stremio addons into Jellyfin
+
+将Stremio插件集成到Jellyfin中

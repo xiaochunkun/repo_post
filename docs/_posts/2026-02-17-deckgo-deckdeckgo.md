@@ -7,3 +7,5 @@ image: assets/deckgo_deckdeckgo_20260119_211204_891_20260119_211220_4d9077.png
 # [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo)
 
 Web editor for presentations
+
+演示文稿的Web编辑器

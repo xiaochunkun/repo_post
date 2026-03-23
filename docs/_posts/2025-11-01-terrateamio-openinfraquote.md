@@ -7,3 +7,5 @@ image: assets/terrateamio_openinfraquote_20251031_052919_333_20251031_210330_00a
 # [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote/)
 
 CLI tool for estimating infrastructure costs from Terraform plans
+
+从 Terraform 计划估算基础设施成本的 CLI 工具

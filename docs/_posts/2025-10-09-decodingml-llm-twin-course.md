@@ -7,3 +7,5 @@ image: assets/20251009T050517779--decodingml--llm-twin-course--20251009T05104579
 # [decodingml/llm-twin-course](https://github.com/decodingml/llm-twin-course)
 
 Hands-on course for building your own LLM Twin—an AI that writes in your style—covering data pipelines, fine-tuning, deployment, and MLOps best practices
+
+构建个人 LLM Twin 的实践课程，涵盖数据管道、微调、部署和 MLOps 最佳实践

@@ -7,3 +7,5 @@ image: assets/satnaing_shadcn_admin_20260227_100638_714_20260227_100809_0624f9.p
 # [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
 
 Admin dashboard with Vite and Shadcn
+
+使用 Vite 和 Shadcn 的管理仪表板

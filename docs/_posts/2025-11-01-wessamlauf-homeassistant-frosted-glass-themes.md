@@ -7,3 +7,5 @@ image: assets/wessamlauf_homeassistant_frosted_glass_themes_20251031_034901_654_
 # [wessamlauf/homeassistant-frosted-glass-themes](https://github.com/wessamlauf/homeassistant-frosted-glass-themes/)
 
 Theme for Home Assistant with a glass aesthetic
+
+带玻璃美学风格的 Home Assistant 主题

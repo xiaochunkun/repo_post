@@ -7,3 +7,5 @@ image: assets/betalgo_openai_20251125_050750_835_20251127_170532_44d9d1--2025112
 # [betalgo/openai](https://github.com/betalgo/openai/)
 
 Community .NET library for OpenAI API
+
+用于 OpenAI API 的社区 .NET 库

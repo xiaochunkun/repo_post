@@ -7,3 +7,5 @@ image: assets/hotovo_aider_desk_20260227_101430_881_20260227_101609_052001.png
 # [hotovo/aider-desk](https://github.com/hotovo/aider-desk)
 
 Desktop application for autonomous code generation
+
+用于自主代码生成的桌面应用

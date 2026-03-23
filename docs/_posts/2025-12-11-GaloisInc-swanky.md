@@ -7,3 +7,5 @@ image: assets/GaloisInc_swanky_20251208_231316_371_20251208_231339_5ff532.png
 # [GaloisInc/swanky](https://github.com/GaloisInc/swanky/)
 
 Rust libraries for secure multi-party computation
+
+用于安全多方计算的Rust库

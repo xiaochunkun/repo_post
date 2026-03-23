@@ -7,3 +7,5 @@ image: assets/logicaldoc_community_20260111_160855_619_20260111_160908_258a4f.pn
 # [logicaldoc/community](https://github.com/logicaldoc/community)
 
 Document management system for businesses
+
+企业文档管理系统

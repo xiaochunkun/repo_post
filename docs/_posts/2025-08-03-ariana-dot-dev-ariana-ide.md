@@ -7,3 +7,5 @@ image: assets/ariana-dot-dev_ariana-ide_cropped.png
 # [ariana-dot-dev/ariana-ide](https://github.com/ariana-dot-dev/ariana-ide)
 
 next-gen IDE with AI and scripting
+
+集成AI和脚本的下一代IDE

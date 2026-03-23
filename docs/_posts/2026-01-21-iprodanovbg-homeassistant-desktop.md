@@ -7,3 +7,5 @@ image: assets/iprodanovbg_homeassistant_desktop_20260120_115307_475_20260120_115
 # [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop)
 
 Electron wrapper for Home Assistant on desktops
+
+桌面版 Home Assistant 的 Electron 封装

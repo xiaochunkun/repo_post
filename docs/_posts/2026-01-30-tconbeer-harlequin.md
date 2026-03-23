@@ -7,3 +7,5 @@ image: assets/tconbeer_harlequin_20260129_044655_990_20260129_044731_c0bd8a.png
 # [tconbeer/harlequin](https://github.com/tconbeer/harlequin)
 
 SQL IDE for the terminal
+
+终端 SQL IDE

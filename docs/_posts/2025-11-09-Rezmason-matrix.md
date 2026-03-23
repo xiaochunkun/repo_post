@@ -7,3 +7,5 @@ image: assets/Rezmason_matrix_20251109_013021_628_20251109_144120_4b9c3a--202511
 # [Rezmason/matrix](https://github.com/Rezmason/matrix/)
 
 Web-based code rain effect
+
+基于Web的代码雨效果

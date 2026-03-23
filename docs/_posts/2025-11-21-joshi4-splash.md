@@ -7,3 +7,5 @@ image: assets/joshi4_splash_20251120_062748_860_20251121_011729_d77bd0--20251121
 # [joshi4/splash](https://github.com/joshi4/splash/)
 
 Colorizes logs using format detection
+
+使用格式检测为日志着色

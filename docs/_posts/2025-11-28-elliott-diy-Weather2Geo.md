@@ -7,3 +7,5 @@ image: assets/elliott_diy_Weather2Geo_20251125_231227_065_20251128_212243_0b9af9
 # [elliott-diy/Weather2Geo](https://github.com/elliott-diy/Weather2Geo/)
 
 Geolocates screenshots using weather widget data
+
+利用天气小部件数据对截图进行地理定位

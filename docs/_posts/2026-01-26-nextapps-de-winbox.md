@@ -7,3 +7,5 @@ image: assets/nextapps_de_winbox_20260117_052208_598_20260117_052255_d7bc61.png
 # [nextapps-de/winbox](https://github.com/nextapps-de/winbox)
 
 Window manager for the web
+
+Web 窗口管理器

@@ -7,3 +7,5 @@ image: assets/matchai_awesome_pinned_gists_20251125_040124_353_20251127_165017_f
 # [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists/)
 
 Tools for adding dynamic data to GitHub pinned gists
+
+向 GitHub 固定 gist 添加动态数据的工具

@@ -7,3 +7,5 @@ image: assets/waltstephen_ArgusBot_20260318_203744_592_20260318_204009_cabf05.pn
 # [waltstephen/ArgusBot](https://github.com/waltstephen/ArgusBot)
 
 Python supervisor plugin for Codex and Claude CLI
+
+Codex 和 Claude CLI 的 Python 监督插件

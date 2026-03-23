@@ -7,3 +7,5 @@ image: assets/NomenAK_SuperClaude_cropped.png
 # [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude)
 
 Claude AI workflow config framework
+
+Claude AI工作流配置框架

@@ -7,3 +7,5 @@ image: assets/spacehuhn_esp8266_beaconSpam_20260111_143017_305_20260111_143031_a
 # [spacehuhn/esp8266_beaconSpam](https://github.com/spacehuhn/esp8266_beaconSpam)
 
 Broadcasts hundreds of WiFi access points with custom SSIDs
+
+广播数百个自定义SSID的WiFi接入点

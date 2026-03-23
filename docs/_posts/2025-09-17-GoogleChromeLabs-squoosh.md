@@ -7,3 +7,5 @@ image: assets/20250917T011414435--GoogleChromeLabs--squoosh--20250917T012019164-
 # [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)
 
 Web app that compresses images locally in your browser
+
+Web 应用，在浏览器中本地压缩图像

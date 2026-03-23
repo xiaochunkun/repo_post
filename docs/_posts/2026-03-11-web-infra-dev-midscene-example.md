@@ -7,3 +7,5 @@ image: assets/web_infra_dev_midscene_example_20260308_211325_073_20260308_211523
 # [web-infra-dev/midscene-example](https://github.com/web-infra-dev/midscene-example)
 
 Examples for automating web and Android apps with AI
+
+使用 AI 自动化 Web 和 Android 应用的示例

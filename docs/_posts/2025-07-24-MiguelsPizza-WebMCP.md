@@ -7,3 +7,5 @@ image: assets/MiguelsPizza_WebMCP_cropped.png
 # [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP)
 
 browser-based MCP for AI assistants in web apps
+
+基于浏览器的MCP，用于Web应用中的AI助手

@@ -7,3 +7,5 @@ image: assets/EPMatt_awesome_ha_blueprints_20260304_212927_274_20260304_213057_4
 # [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
 
 Collection of automation blueprints for Home Assistant
+
+Home Assistant 自动化蓝图集合

@@ -7,3 +7,5 @@ image: assets/pimcore_pimcore_20251031_091835_358_20251102_205041_c32766--202511
 # [pimcore/pimcore](https://github.com/pimcore/pimcore/)
 
 Consolidates PIM, DAM, CDP, and DXP into one platform
+
+整合PIM、DAM、CDP和DXP的一体化平台

@@ -7,3 +7,5 @@ image: assets/usememos_memos_20260122_090547_223_20260122_090605_62acf5.png
 # [usememos/memos](https://github.com/usememos/memos)
 
 Self-hosted note-taking service with zero telemetry
+
+零遥测的自托管笔记服务

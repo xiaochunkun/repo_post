@@ -7,3 +7,5 @@ image: assets/0xSojalSec_pipet_20251224_165439_306_20251224_165457_c5fabb.png
 # [0xSojalSec/pipet](https://github.com/0xSojalSec/pipet/)
 
 Scrapes data using curl and unix pipes
+
+使用curl和Unix管道抓取数据

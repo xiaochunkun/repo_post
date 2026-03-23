@@ -7,3 +7,5 @@ image: assets/adrianhajdin_ai_saas_app_20251225_160154_194_20251225_160212_2d90d
 # [adrianhajdin/ai_saas_app](https://github.com/adrianhajdin/ai_saas_app/)
 
 Image processing platform with payments
+
+带有支付功能的图像处理平台

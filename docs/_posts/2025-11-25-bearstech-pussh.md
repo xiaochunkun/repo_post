@@ -7,3 +7,5 @@ image: assets/bearstech_pussh_20251123_184721_719_20251124_184420_5c0428--202511
 # [bearstech/pussh](https://github.com/bearstech/pussh/)
 
 Executes SSH commands in parallel
+
+并行执行 SSH 命令

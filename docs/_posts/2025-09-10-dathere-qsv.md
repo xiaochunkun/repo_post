@@ -7,3 +7,5 @@ image: assets/20250910T024149502--dathere--qsv--20250910T024348793--cropped.png
 # [dathere/qsv](https://github.com/dathere/qsv)
 
 command-line tool for fast CSV and spreadsheet data wrangling
+
+快速处理 CSV 和电子表格数据的命令行工具

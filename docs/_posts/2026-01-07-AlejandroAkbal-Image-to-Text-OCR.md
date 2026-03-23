@@ -7,3 +7,5 @@ image: assets/AlejandroAkbal_Image_to_Text_OCR_20260106_225445_738_20260106_2255
 # [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR/)
 
 Extracts text from images locally in the browser
+
+在浏览器中本地从图像提取文本

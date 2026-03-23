@@ -7,3 +7,5 @@ image: assets/atomic14_web_serial_plotter_20251209_062611_048_20251209_062646_23
 # [atomic14/web-serial-plotter](https://github.com/atomic14/web-serial-plotter/)
 
 Plots serial device data in a browser
+
+在浏览器中绘制串行设备数据

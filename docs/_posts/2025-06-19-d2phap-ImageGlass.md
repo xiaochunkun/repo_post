@@ -7,3 +7,5 @@ image: assets/d2phap_ImageGlass_cropped.png
 # [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
 
 Image viewer for opening and browsing many image file types
+
+支持多种图像文件格式的图片查看器

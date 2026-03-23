@@ -7,3 +7,5 @@ image: assets/dtonon_fevela_20251126_011808_883_20251129_021944_53ed39--20251129
 # [dtonon/fevela](https://github.com/dtonon/fevela/)
 
 Nostr social client with newsreader interface
+
+具有新闻阅读器界面的Nostr社交客户端

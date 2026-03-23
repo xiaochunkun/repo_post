@@ -7,3 +7,5 @@ image: assets/lowlighter_mizu_20251130_080033_160_20251201_004405_c7d093--202512
 # [lowlighter/mizu](https://github.com/lowlighter/mizu/)
 
 Lightweight customizable reactive JavaScript library
+
+轻量级可定制的响应式JavaScript库

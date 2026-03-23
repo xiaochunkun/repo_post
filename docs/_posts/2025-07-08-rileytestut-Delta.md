@@ -7,3 +7,5 @@ image: assets/rileytestut_Delta_cropped.png
 # [rileytestut/Delta](https://github.com/rileytestut/Delta)
 
 play classic Nintendo games on iPhone and iPad
+
+在 iPhone 和 iPad 上玩经典任天堂游戏

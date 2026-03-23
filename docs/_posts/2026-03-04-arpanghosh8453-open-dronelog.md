@@ -7,3 +7,5 @@ image: assets/arpanghosh8453_open_dronelog_20260304_115159_263_20260304_115349_a
 # [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog)
 
 Dashboard for analyzing drone flight logs
+
+分析无人机飞行日志的仪表板

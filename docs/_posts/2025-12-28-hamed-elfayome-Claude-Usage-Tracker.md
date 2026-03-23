@@ -7,3 +7,5 @@ image: assets/hamed_elfayome_Claude_Usage_Tracker_20251226_220926_904_20251226_2
 # [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker/)
 
 Monitors Claude AI usage limits from the macOS menu bar
+
+从 macOS 菜单栏监控 Claude AI 使用限制

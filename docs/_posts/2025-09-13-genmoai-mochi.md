@@ -7,3 +7,5 @@ image: assets/20250912T003213833--genmoai--mochi--20250912T003507171--cropped.pn
 # [genmoai/mochi](https://github.com/genmoai/mochi)
 
 open source AI model for generating videos from text prompts
+
+从文本提示生成视频的开源 AI 模型

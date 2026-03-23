@@ -7,3 +7,5 @@ image: assets/DamascenoRafael_reminders_menubar_20251031_083952_651_20251101_211
 # [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar/)
 
 macOS menu bar app for Apple Reminders
+
+用于 Apple Reminders 的 macOS 菜单栏应用

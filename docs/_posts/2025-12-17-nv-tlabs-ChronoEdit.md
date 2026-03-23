@@ -7,3 +7,5 @@ image: assets/nv_tlabs_ChronoEdit_20251215_014218_936_20251215_014242_d23af6.png
 # [nv-tlabs/ChronoEdit](https://github.com/nv-tlabs/ChronoEdit/)
 
 Reframes image editing as video generation
+
+将图像编辑重构为视频生成

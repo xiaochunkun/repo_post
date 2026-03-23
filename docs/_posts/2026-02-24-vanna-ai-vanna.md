@@ -7,3 +7,5 @@ image: assets/vanna_ai_vanna_20260221_185757_543_20260221_185824_57592f.png
 # [vanna-ai/vanna](https://github.com/vanna-ai/vanna)
 
 Generates SQL from natural language via agentic retrieval
+
+通过智能检索从自然语言生成SQL

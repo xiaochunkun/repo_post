@@ -7,3 +7,5 @@ image: assets/skillcreatorai_Awesome_Agent_Skills_20260116_071432_880_20260116_0
 # [skillcreatorai/Awesome-Agent-Skills](https://github.com/skillcreatorai/Awesome-Agent-Skills)
 
 Installs skills to AI agents
+
+为 AI 代理安装技能

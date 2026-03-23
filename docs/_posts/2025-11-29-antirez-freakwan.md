@@ -7,3 +7,5 @@ image: assets/antirez_freakwan_20251126_112402_453_20251129_022709_91c224--20251
 # [antirez/freakwan](https://github.com/antirez/freakwan/)
 
 LoRa WAN network without internet
+
+无需互联网的LoRa WAN网络

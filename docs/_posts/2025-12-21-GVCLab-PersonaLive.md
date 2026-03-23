@@ -7,3 +7,5 @@ image: assets/GVCLab_PersonaLive_20251219_213702_116_20251219_213728_3aabb6.png
 # [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive/)
 
 Portrait image animation for live streaming
+
+用于直播的肖像图像动画

@@ -7,3 +7,5 @@ image: assets/izabera_bitwise_challenge_2048_20251202_235718_084_20251202_235741
 # [izabera/bitwise-challenge-2048](https://github.com/izabera/bitwise-challenge-2048/)
 
 2048 game with 64 bits of state
+
+具有 64 位状态的 2048 游戏

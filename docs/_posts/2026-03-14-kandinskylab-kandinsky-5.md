@@ -7,3 +7,5 @@ image: assets/kandinskylab_kandinsky_5_20260305_034639_830_20260305_034807_fb0a7
 # [kandinskylab/kandinsky-5](https://github.com/kandinskylab/kandinsky-5)
 
 Diffusion models for generation of video and image from text
+
+从文本生成视频和图像的扩散模型

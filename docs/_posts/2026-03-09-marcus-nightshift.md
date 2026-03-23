@@ -7,3 +7,5 @@ image: assets/marcus_nightshift_20260309_080918_866_20260309_081144_c3b4c2.png
 # [marcus/nightshift](https://github.com/marcus/nightshift)
 
 Uses LLM tokens to find dead code and security issues
+
+使用LLM令牌查找死代码和安全问题

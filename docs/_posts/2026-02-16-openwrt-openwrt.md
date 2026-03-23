@@ -7,3 +7,5 @@ image: assets/openwrt_openwrt_20260212_162806_201_20260212_162848_55d584.png
 # [openwrt/openwrt](https://github.com/openwrt/openwrt)
 
 Linux operating system for embedded devices
+
+嵌入式设备的 Linux 操作系统

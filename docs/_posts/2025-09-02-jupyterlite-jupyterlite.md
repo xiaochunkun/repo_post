@@ -7,3 +7,5 @@ image: assets/20250831T020054994--jupyterlite--jupyterlite--20250831T022238784--
 # [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
 
 Jupyter notebooks running fully in your browser
+
+完全在浏览器中运行的 Jupyter Notebook

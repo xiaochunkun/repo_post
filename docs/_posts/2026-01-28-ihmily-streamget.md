@@ -7,3 +7,5 @@ image: assets/ihmily_streamget_20260112_054725_141_20260112_054742_7e6cca.png
 # [ihmily/streamget](https://github.com/ihmily/streamget)
 
 Parses live streams from 40 platforms
+
+解析40个平台的直播流

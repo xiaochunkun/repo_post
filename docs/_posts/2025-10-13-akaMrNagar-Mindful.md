@@ -7,3 +7,5 @@ image: assets/20251013T001622943--akaMrNagar--Mindful--20251013T002233681--cropp
 # [akaMrNagar/Mindful](https://github.com/akaMrNagar/Mindful)
 
 open-source app to manage screen time and improve focus
+
+开源应用，用于管理屏幕时间和提高专注力

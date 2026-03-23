@@ -7,3 +7,5 @@ image: assets/wtfutil_wtf_20251218_004527_759_20251218_004551_47c3d1.png
 # [wtfutil/wtf](https://github.com/wtfutil/wtf/)
 
 Dashboard for terminal data and stats
+
+终端数据和统计信息仪表板

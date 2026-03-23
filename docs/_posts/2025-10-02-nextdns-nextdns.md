@@ -7,3 +7,5 @@ image: assets/20251001T205039142--nextdns--nextdns--20251001T205515300--cropped.
 # [nextdns/nextdns](https://github.com/nextdns/nextdns)
 
 Command-line tool for DNS-over-HTTPS, works on routers and UNIX systems
+
+DNS-over-HTTPS命令行工具，适用于路由器和UNIX系统

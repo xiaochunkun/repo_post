@@ -7,3 +7,5 @@ image: assets/openremote_openremote_20260322_071735_673_20260322_071821_f1083a.p
 # [openremote/openremote](https://github.com/openremote/openremote)
 
 100% open source IoT platform
+
+100%开源IoT平台

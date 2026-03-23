@@ -7,3 +7,5 @@ image: assets/meta_pytorch_OpenEnv_20260305_023339_822_20260305_023509_1ae9b5.pn
 # [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv)
 
 Framework for execution environments for reinforcement learning training
+
+强化学习训练的执行环境框架

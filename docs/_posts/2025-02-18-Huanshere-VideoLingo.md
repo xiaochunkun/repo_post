@@ -7,3 +7,5 @@ image: assets/Huanshere_VideoLingo_cropped.png
 # [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 
 Video translation and dubbing tool
+
+视频翻译和配音工具

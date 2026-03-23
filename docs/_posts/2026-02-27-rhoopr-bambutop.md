@@ -7,3 +7,5 @@ image: assets/rhoopr_bambutop_20260212_173505_153_20260212_173736_431bb3.png
 # [rhoopr/bambutop](https://github.com/rhoopr/bambutop)
 
 Terminal status monitor for Bambu Lab printers
+
+Bambu Lab打印机的终端状态监控器

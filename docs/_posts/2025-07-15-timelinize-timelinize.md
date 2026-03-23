@@ -7,3 +7,5 @@ image: assets/timelinize_timelinize_cropped.png
 # [timelinize/timelinize](https://github.com/timelinize/timelinize)
 
 organize all your digital life in one timeline
+
+在一个时间线中组织你的所有数字生活

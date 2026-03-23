@@ -7,3 +7,5 @@ image: assets/20250825T015512995--freescout-help-desk--freescout--20250825T02034
 # [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)
 
 open source help desk and shared inbox for teams
+
+开源工单系统和团队共享邮箱

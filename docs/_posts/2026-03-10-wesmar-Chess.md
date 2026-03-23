@@ -7,3 +7,5 @@ image: assets/wesmar_Chess_20260309_151002_863_20260309_151200_53cd4e.png
 # [wesmar/Chess](https://github.com/wesmar/Chess)
 
 Chess engine in C++20 with WinAPI interface and no dependencies
+
+使用C++20和WinAPI接口的无依赖国际象棋引擎

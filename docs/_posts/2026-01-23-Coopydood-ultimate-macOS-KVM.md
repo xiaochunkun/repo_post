@@ -7,3 +7,5 @@ image: assets/Coopydood_ultimate_macOS_KVM_20260121_235103_610_20260121_235124_a
 # [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM)
 
 Automates macOS virtual machines on KVM
+
+在 KVM 上自动化 macOS 虚拟机

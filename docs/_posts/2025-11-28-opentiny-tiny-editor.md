@@ -7,3 +7,5 @@ image: assets/opentiny_tiny_editor_20251125_052858_165_20251127_170818_a52764--2
 # [opentiny/tiny-editor](https://github.com/opentiny/tiny-editor/)
 
 Rich text editor extending Quill 2.0
+
+基于Quill 2.0扩展的富文本编辑器

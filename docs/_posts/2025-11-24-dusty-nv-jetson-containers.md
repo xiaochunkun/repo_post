@@ -7,3 +7,5 @@ image: assets/dusty_nv_jetson_containers_20251123_174925_139_20251124_095419_2ab
 # [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers/)
 
 Machine learning containers for NVIDIA Jetson
+
+NVIDIA Jetson 的机器学习容器

@@ -7,3 +7,5 @@ image: assets/virattt_ai_hedge_fund_20260224_172230_552_20260224_172305_ef38fb.p
 # [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 
 Multi-agent system simulating investment strategies from famous traders
+
+模拟著名交易员投资策略的多代理系统

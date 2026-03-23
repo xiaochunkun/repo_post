@@ -7,3 +7,5 @@ image: assets/arkology_ShaderV_20251114_073636_530_20251114_163428_1c8f4d--20251
 # [arkology/ShaderV](https://github.com/arkology/ShaderV/)
 
 Adds premade 2D effects to Godot's VisualShader editor
+
+为Godot的VisualShader编辑器添加预制2D效果

@@ -7,3 +7,5 @@ image: assets/elk_zone_elk_20251224_213422_881_20251224_213446_990727.png
 # [elk-zone/elk](https://github.com/elk-zone/elk/)
 
 Mastodon web client built with Nuxt
+
+使用 Nuxt 构建的 Mastodon Web 客户端

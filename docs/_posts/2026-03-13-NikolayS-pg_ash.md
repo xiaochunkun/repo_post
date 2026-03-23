@@ -7,3 +7,5 @@ image: assets/NikolayS_pg_ash_20260309_081319_979_20260309_081726_b9d2a1.png
 # [NikolayS/pg_ash](https://github.com/NikolayS/pg_ash)
 
 Session history for Postgres using SQL without extensions
+
+使用 SQL 无扩展的 Postgres 会话历史

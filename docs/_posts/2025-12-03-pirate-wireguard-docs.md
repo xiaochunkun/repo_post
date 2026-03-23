@@ -7,3 +7,5 @@ image: assets/pirate_wireguard_docs_20251201_070903_346_20251201_070927_f4e719.p
 # [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs/)
 
 Unofficial API reference guide for WireGuard
+
+WireGuard的非官方API参考指南

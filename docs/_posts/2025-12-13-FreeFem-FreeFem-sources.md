@@ -7,3 +7,5 @@ image: assets/FreeFem_FreeFem_sources_20251209_070644_035_20251209_070720_bf8eed
 # [FreeFem/FreeFem-sources](https://github.com/FreeFem/FreeFem-sources/)
 
 Solver for partial differential equations
+
+偏微分方程求解器

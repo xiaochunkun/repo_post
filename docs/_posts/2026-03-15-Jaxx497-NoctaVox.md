@@ -7,3 +7,5 @@ image: assets/Jaxx497_NoctaVox_20260303_031105_820_20260303_031237_4675d0.png
 # [Jaxx497/NoctaVox](https://github.com/Jaxx497/NoctaVox)
 
 TUI music player with oscilloscope visualization
+
+带示波器可视化的 TUI 音乐播放器

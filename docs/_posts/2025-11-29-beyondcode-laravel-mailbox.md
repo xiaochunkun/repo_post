@@ -7,3 +7,5 @@ image: assets/beyondcode_laravel_mailbox_20251125_235025_810_20251128_213120_77d
 # [beyondcode/laravel-mailbox](https://github.com/beyondcode/laravel-mailbox/)
 
 Handles incoming emails in Laravel applications
+
+处理Laravel应用中的传入邮件

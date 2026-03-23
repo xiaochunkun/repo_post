@@ -7,3 +7,5 @@ image: assets/facebookresearch_fairseq2_20251111_045639_445_20251111_151039_dd5b
 # [facebookresearch/fairseq2](https://github.com/facebookresearch/fairseq2/)
 
 Sequence modeling toolkit with a cleaner, more modular API
+
+具有更简洁、模块化API的序列建模工具包

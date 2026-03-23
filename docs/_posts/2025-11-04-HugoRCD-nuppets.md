@@ -7,3 +7,5 @@ image: assets/HugoRCD_nuppets_20251103_235803_996_20251104_182900_897ddd--202511
 # [HugoRCD/nuppets](https://github.com/HugoRCD/nuppets/)
 
 Nuxt and Vue development resources for Raycast
+
+Raycast的Nuxt和Vue开发资源

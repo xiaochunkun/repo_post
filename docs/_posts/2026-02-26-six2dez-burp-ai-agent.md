@@ -7,3 +7,5 @@ image: assets/six2dez_burp_ai_agent_20260224_232607_583_20260224_232718_82919d.p
 # [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent)
 
 Integrates AI scanners and MCP tools into Burp Suite
+
+将AI扫描器和MCP工具集成到Burp Suite

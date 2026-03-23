@@ -7,3 +7,5 @@ image: assets/imthatdev_swush_20260313_115455_898_20260313_115637_3ac431.png
 # [imthatdev/swush](https://github.com/imthatdev/swush)
 
 Self-hosted file manager and watchlist dashboard
+
+自托管文件管理器和监视列表仪表板

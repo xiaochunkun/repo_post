@@ -7,3 +7,5 @@ image: assets/AngelLM_Thor_20260121_235314_103_20260121_235333_86f99a.png
 # [AngelLM/Thor](https://github.com/AngelLM/Thor)
 
 3D printed robotic arm with six degrees of freedom
+
+六自由度3D打印机械臂

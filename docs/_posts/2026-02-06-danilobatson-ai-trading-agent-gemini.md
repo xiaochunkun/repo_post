@@ -7,3 +7,5 @@ image: assets/danilobatson_ai_trading_agent_gemini_20260206_115532_150_20260206_
 # [danilobatson/ai-trading-agent-gemini](https://github.com/danilobatson/ai-trading-agent-gemini)
 
 Converts social media sentiment into trading signals
+
+将社交媒体情绪转换为交易信号

@@ -7,3 +7,5 @@ image: assets/CH563_shot-easy-website_cropped.png
 # [CH563/shot-easy-website](https://github.com/CH563/shot-easy-website)
 
 take screenshots and edit images right in your browser
+
+在浏览器中直接截图和编辑图像

@@ -7,3 +7,5 @@ image: assets/thiswillbeyourgithub_wdoc_cropped.png
 # [thiswillbeyourgithub/wdoc](https://github.com/thiswillbeyourgithub/wdoc)
 
 RAG system for document summarization and querying
+
+用于文档摘要和查询的RAG系统

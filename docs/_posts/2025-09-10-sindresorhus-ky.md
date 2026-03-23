@@ -7,3 +7,5 @@ image: assets/20250910T025051133--sindresorhus--ky--20250910T025241407--cropped.
 # [sindresorhus/ky](https://github.com/sindresorhus/ky)
 
 tiny HTTP client for fetch with retries, timeouts, and simple API
+
+极简 HTTP 客户端，支持重试、超时和简洁 API

@@ -7,3 +7,5 @@ image: assets/don_tnowe_godot_resources_as_sheets_plugin_20251127_202931_730_202
 # [don-tnowe/godot-resources-as-sheets-plugin](https://github.com/don-tnowe/godot-resources-as-sheets-plugin/)
 
 Edit Godot resources as data tables
+
+将 Godot 资源作为数据表编辑

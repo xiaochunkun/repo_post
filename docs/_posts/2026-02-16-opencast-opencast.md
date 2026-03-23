@@ -7,3 +7,5 @@ image: assets/opencast_opencast_20260214_222109_942_20260214_222159_dea278.png
 # [opencast/opencast](https://github.com/opencast/opencast)
 
 Lecture capture and video management for education
+
+教育领域的讲座录制和视频管理

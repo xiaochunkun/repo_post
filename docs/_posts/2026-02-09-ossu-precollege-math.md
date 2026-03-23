@@ -7,3 +7,5 @@ image: assets/ossu_precollege_math_20260208_082341_737_20260208_082403_c83f60.pn
 # [ossu/precollege-math](https://github.com/ossu/precollege-math)
 
 Curriculum for math education through online materials
+
+通过在线材料进行数学教育的课程

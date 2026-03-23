@@ -7,3 +7,5 @@ image: assets/AgentOps-AI_AgentStack_cropped.png
 # [AgentOps-AI/AgentStack](https://github.com/AgentOps-AI/AgentStack)
 
 agent project starter kit for building and managing AI agents from the command line
+
+用于从命令行构建和管理AI代理的代理项目启动套件

@@ -7,3 +7,5 @@ image: assets/20250911T023048370--babalae--better-genshin-impact--20250911T02375
 # [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
 automates pickups, fishing, daily tasks, and more for Genshin Impact
+
+自动化原神拾取、钓鱼、日常任务等操作

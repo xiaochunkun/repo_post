@@ -7,3 +7,5 @@ image: assets/mitsuhiko_pexpect_mcp_20251115_221637_754_20251117_214259_0509be--
 # [mitsuhiko/pexpect-mcp](https://github.com/mitsuhiko/pexpect-mcp/)
 
 Server for AI assistants to control debugging sessions
+
+为AI助手控制调试会话的服务器

@@ -7,3 +7,5 @@ image: assets/ogbinar_py_dataengineering_workshop_20260116_003634_816_20260116_0
 # [ogbinar/py-dataengineering-workshop](https://github.com/ogbinar/py-dataengineering-workshop)
 
 Builds data pipeline from CSV to dashboard
+
+从CSV到仪表板的数据管道构建工具

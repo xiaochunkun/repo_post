@@ -7,3 +7,5 @@ image: assets/GalaxyGeneralRobotics_OpenTrack_20251127_182921_205_20251130_05210
 # [GalaxyGeneralRobotics/OpenTrack](https://github.com/GalaxyGeneralRobotics/OpenTrack/)
 
 Humanoid motion tracking codebase using MuJoCo simulation
+
+使用 MuJoCo 仿真的人形运动跟踪代码库

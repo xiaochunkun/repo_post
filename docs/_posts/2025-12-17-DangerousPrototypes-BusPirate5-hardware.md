@@ -7,3 +7,5 @@ image: assets/DangerousPrototypes_BusPirate5_hardware_20251216_090807_887_202512
 # [DangerousPrototypes/BusPirate5-hardware](https://github.com/DangerousPrototypes/BusPirate5-hardware/)
 
 Universal serial interface for hardware hacking
+
+用于硬件黑客的通用串行接口

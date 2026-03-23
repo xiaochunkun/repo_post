@@ -7,3 +7,5 @@ image: assets/20250922T032219058--krille-chan--fluffychat--20250922T032955268--c
 # [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat)
 
 open source messenger for matrix protocol, simple interface, group chats, stickers, encryption
+
+Matrix 协议的开源消息应用，界面简单，支持群聊、贴纸和加密

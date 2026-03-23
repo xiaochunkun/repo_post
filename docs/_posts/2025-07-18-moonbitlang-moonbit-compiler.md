@@ -7,3 +7,5 @@ image: assets/moonbitlang_moonbit-compiler_cropped.png
 # [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler)
 
 MoonBit compiler for building fast, user-friendly WebAssembly apps
+
+MoonBit 编译器，用于构建快速、用户友好的 WebAssembly 应用

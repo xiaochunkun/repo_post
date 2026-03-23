@@ -7,3 +7,5 @@ image: assets/seifrajhi_awesome_platform_engineering_tools_20260122_135607_322_2
 # [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)
 
 Tools and learning paths for platform engineering
+
+平台工程工具与学习路径集合

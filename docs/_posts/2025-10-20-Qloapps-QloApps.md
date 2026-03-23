@@ -7,3 +7,5 @@ image: assets/Qloapps_QloApps_20251018_065721_994_20251020_022750--20251020T0427
 # [Qloapps/QloApps](https://github.com/Qloapps/QloApps/)
 
 Open-source hotel management and reservation system
+
+开源酒店管理和预订系统

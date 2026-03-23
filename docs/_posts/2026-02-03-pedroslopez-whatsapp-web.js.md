@@ -7,3 +7,5 @@ image: assets/pedroslopez_whatsapp_web_js_20260202_234815_648_20260202_234843_52
 # [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 
 WhatsApp client for Node.js via Puppeteer
+
+通过 Puppeteer 实现的 Node.js WhatsApp 客户端

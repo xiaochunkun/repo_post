@@ -7,3 +7,5 @@ image: assets/20250908T093928770--ansible--ansible--20250908T094211803--cropped.
 # [ansible/ansible](https://github.com/ansible/ansible)
 
 automation for IT tasks, config management, app deployment
+
+IT 任务自动化、配置管理和应用部署

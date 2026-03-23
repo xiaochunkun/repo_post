@@ -7,3 +7,5 @@ image: assets/AndyTargino_wwebjs_electron_20260117_210041_602_20260117_210056_f8
 # [AndyTargino/wwebjs-electron](https://github.com/AndyTargino/wwebjs-electron)
 
 WhatsApp API client for Electron applications
+
+Electron应用WhatsApp API客户端

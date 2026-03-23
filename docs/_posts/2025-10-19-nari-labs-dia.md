@@ -7,3 +7,5 @@ image: assets/nari_labs_dia_20251018_210339_950_20251018_230717--20251019T010717
 # [nari-labs/dia](https://github.com/nari-labs/dia/)
 
 Text-to-dialogue model, clones voices
+
+文本转对话模型，克隆声音

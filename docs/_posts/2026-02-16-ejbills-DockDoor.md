@@ -7,3 +7,5 @@ image: assets/ejbills_DockDoor_20260131_181300_817_20260131_181346_f07053.png
 # [ejbills/DockDoor](https://github.com/ejbills/DockDoor)
 
 Window previews and Alt-Tab switching for macOS
+
+macOS 的窗口预览和 Alt-Tab 切换功能

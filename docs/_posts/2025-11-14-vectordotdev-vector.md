@@ -7,3 +7,5 @@ image: assets/vectordotdev_vector_20251113_055749_142_20251114_013333_49ca81--20
 # [vectordotdev/vector](https://github.com/vectordotdev/vector/)
 
 Observability data pipeline to collect, transform, and route logs and metrics
+
+收集、转换和路由日志与指标的可观测性数据管道

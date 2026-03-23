@@ -7,3 +7,5 @@ image: assets/ByteByteGoHq_system_design_101_20251020_044808_424_20251020_045016
 # [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101/)
 
 Byte-sized visual system design concepts
+
+简洁可视化的系统设计概念

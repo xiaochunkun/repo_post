@@ -7,3 +7,5 @@ image: assets/burakorkmez_dentwise_20260117_233333_591_20260117_233348_fdc412.pn
 # [burakorkmez/dentwise](https://github.com/burakorkmez/dentwise)
 
 Dental platform with AI voice agent and booking system
+
+带AI语音代理和预约系统的牙科平台

@@ -7,3 +7,5 @@ image: assets/Alexanderdunlop_ai_architecture_prompts_20251110_152618_932_202511
 # [Alexanderdunlop/ai-architecture-prompts](https://github.com/Alexanderdunlop/ai-architecture-prompts/)
 
 AI prompts for modular software architecture
+
+模块化软件架构的AI提示

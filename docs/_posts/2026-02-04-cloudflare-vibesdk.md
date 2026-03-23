@@ -7,3 +7,5 @@ image: assets/cloudflare_vibesdk_20260203_230722_891_20260203_230758_5e61a2.png
 # [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)
 
 Generates full-stack web applications from natural language prompts
+
+从自然语言提示生成全栈 Web 应用

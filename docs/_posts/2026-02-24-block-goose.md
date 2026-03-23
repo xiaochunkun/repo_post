@@ -7,3 +7,5 @@ image: assets/block_goose_20260223_165409_638_20260223_165443_14bf55.png
 # [block/goose](https://github.com/block/goose)
 
 AI agent for engineering tasks
+
+工程任务AI代理

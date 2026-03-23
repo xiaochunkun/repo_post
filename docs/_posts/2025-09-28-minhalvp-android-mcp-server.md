@@ -7,3 +7,5 @@ image: assets/20250927T044404468--minhalvp--android-mcp-server--20250927T0451447
 # [minhalvp/android-mcp-server](https://github.com/minhalvp/android-mcp-server)
 
 Control Android devices via ADB for screenshots, UI analysis, and package management
+
+通过ADB控制Android设备，支持截图、UI分析和包管理

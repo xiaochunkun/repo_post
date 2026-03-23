@@ -7,3 +7,5 @@ image: assets/OpenListTeam_OpenList_cropped.png
 # [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList)
 
 fork of AList for sharing files on network disks with open source focus
+
+AList的分支，专注于开源网络磁盘文件共享

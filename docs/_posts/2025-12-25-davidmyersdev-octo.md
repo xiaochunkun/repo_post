@@ -7,3 +7,5 @@ image: assets/davidmyersdev_octo_20251223_163804_455_20251223_163823_e44b8a.png
 # [davidmyersdev/octo](https://github.com/davidmyersdev/octo/)
 
 Knowledge management app with end-to-end encryption
+
+具有端到端加密的知识管理应用

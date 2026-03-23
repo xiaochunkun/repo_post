@@ -7,3 +7,5 @@ image: assets/ASLP_lab_DiffRhythm_20251123_202208_588_20251125_164522_0022c2--20
 # [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm/)
 
 End-to-end full-length song generation with latent diffusion
+
+使用潜在扩散的端到端全长歌曲生成

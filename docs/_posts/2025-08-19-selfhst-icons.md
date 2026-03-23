@@ -7,3 +7,5 @@ image: assets/20250818T115808797_selfhst_icons--20250818T120236212--cropped.png
 # [selfhst/icons](https://github.com/selfhst/icons)
 
 icons and logos for self-hosted apps
+
+自托管应用的图标和徽标

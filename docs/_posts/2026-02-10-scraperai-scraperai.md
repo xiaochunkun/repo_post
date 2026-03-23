@@ -7,3 +7,5 @@ image: assets/scraperai_scraperai_20260208_095309_861_20260208_095326_b37b92.png
 # [scraperai/scraperai](https://github.com/scraperai/scraperai)
 
 Extracts data from web pages using language models
+
+使用语言模型从网页提取数据

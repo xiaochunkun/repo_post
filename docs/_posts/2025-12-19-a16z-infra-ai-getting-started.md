@@ -7,3 +7,5 @@ image: assets/a16z_infra_ai_getting_started_20251217_213805_951_20251217_213906_
 # [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started/)
 
 Javascript AI stack for weekend projects
+
+用于周末项目的 JavaScript AI 栈

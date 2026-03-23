@@ -7,3 +7,5 @@ image: assets/Duelion_whatsapp_wrapped_20260128_152909_497_20260128_152958_90f1f
 # [Duelion/whatsapp-wrapped](https://github.com/Duelion/whatsapp-wrapped)
 
 Visual reports for WhatsApp chats
+
+WhatsApp聊天可视化报告

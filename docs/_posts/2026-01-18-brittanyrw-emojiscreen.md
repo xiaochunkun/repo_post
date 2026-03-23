@@ -7,3 +7,5 @@ image: assets/brittanyrw_emojiscreen_20260118_063529_470_20260118_063544_e3c03d.
 # [brittanyrw/emojiscreen](https://github.com/brittanyrw/emojiscreen)
 
 Depicts movies and shows through emojis
+
+用表情符号描绘电影和节目

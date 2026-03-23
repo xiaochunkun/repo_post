@@ -7,3 +7,5 @@ image: assets/Davidobot_love_js_20251207_195942_109_20251207_200003_6e1bb9.png
 # [Davidobot/love.js](https://github.com/Davidobot/love.js/)
 
 Port of LÖVE game engine to web via Emscripten
+
+通过Emscripten将LÖVE游戏引擎移植到Web

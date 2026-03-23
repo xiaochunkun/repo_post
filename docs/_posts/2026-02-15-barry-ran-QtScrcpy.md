@@ -7,3 +7,5 @@ image: assets/barry_ran_QtScrcpy_20260210_053018_992_20260210_053036_5a6491.png
 # [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 
 Controls Android devices via USB or network
+
+通过 USB 或网络控制 Android 设备

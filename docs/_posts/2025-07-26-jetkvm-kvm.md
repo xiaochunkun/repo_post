@@ -7,3 +7,5 @@ image: assets/jetkvm_kvm_cropped.png
 # [jetkvm/kvm](https://github.com/jetkvm/kvm)
 
 KVM over IP tool for remote control of computers and servers
+
+KVM over IP工具，用于远程控制计算机和服务器

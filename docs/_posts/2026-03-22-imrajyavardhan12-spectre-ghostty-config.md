@@ -7,3 +7,5 @@ image: assets/imrajyavardhan12_spectre_ghostty_config_20260316_070434_360_202603
 # [imrajyavardhan12/spectre-ghostty-config](https://github.com/imrajyavardhan12/spectre-ghostty-config)
 
 Terminal configuration generator with live preview
+
+带实时预览的终端配置生成器

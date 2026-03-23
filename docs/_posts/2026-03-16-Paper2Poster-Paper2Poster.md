@@ -7,3 +7,5 @@ image: assets/Paper2Poster_Paper2Poster_20260316_030101_949_20260316_030140_6dbf
 # [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster)
 
 Automates poster generation from papers
+
+从论文自动生成海报的工具

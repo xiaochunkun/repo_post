@@ -7,3 +7,5 @@ image: assets/akshayaggarwal99_jarvis_ai_assistant_20260209_212838_319_20260209_
 # [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant)
 
 Voice dictation for Mac with local processing
+
+Mac 语音听写工具，支持本地处理

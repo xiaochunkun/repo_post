@@ -7,3 +7,5 @@ image: assets/AiuniAI_Unique3D_20251228_032407_425_20251228_032426_8a0ef0.png
 # [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D/)
 
 Generates 3D meshes from a single image
+
+从单张图像生成 3D 网格

@@ -7,3 +7,5 @@ image: assets/20251009T195620204--ZoeyVid--NPMplus--20251009T201105805--cropped.
 # [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus)
 
 reverse proxy manager with HTTP/3, CrowdSec, geo-blocking, dark mode, and no MySQL container
+
+反向代理管理器，支持 HTTP/3、CrowdSec、地理封锁、暗模式，无需 MySQL 容器

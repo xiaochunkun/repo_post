@@ -7,3 +7,5 @@ image: assets/spacedeck_spacedeck_open_20251216_124516_666_20251216_124600_aaa15
 # [spacedeck/spacedeck-open](https://github.com/spacedeck/spacedeck-open/)
 
 Web-based real-time collaborative whiteboard
+
+基于Web的实时协作白板

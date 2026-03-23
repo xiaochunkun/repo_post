@@ -7,3 +7,5 @@ image: assets/google_deepmind_lab_20260212_024845_587_20260212_024902_a19020.png
 # [google-deepmind/lab](https://github.com/google-deepmind/lab)
 
 3D platform for agent-based AI research
+
+基于代理的AI研究3D平台

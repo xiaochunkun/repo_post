@@ -7,3 +7,5 @@ image: assets/X-PLUG_MobileAgent--20250816T012532294--cropped.png
 # [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)
 
 multi-agent assistant for your phone that learns and evolves to automate tricky tasks
+
+手机多智能体助手，可学习和进化以自动化复杂任务

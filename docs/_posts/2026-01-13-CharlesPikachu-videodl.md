@@ -7,3 +7,5 @@ image: assets/CharlesPikachu_videodl_20260112_080636_973_20260112_080723_61674b.
 # [CharlesPikachu/videodl](https://github.com/CharlesPikachu/videodl)
 
 Downloads videos from platforms using Python
+
+使用Python从平台下载视频

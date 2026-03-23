@@ -7,3 +7,5 @@ image: assets/EliverLara_Nordic_20260116_160525_457_20260116_160547_9f2eba.png
 # [EliverLara/Nordic](https://github.com/EliverLara/Nordic)
 
 Gtk3.20+ theme using Nord color palette
+
+Nord配色Gtk3.20+主题

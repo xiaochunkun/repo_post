@@ -7,3 +7,5 @@ image: assets/playbooks_ai_playbooks_20251231_234117_992_20251231_234132_159d18.
 # [playbooks-ai/playbooks](https://github.com/playbooks-ai/playbooks/)
 
 Semantic programming system for AI agents
+
+用于AI代理的语义编程系统

@@ -7,3 +7,5 @@ image: assets/AIDC-AI_ComfyUI-Copilot_cropped.png
 # [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot)
 
 AI assistant for ComfyUI that automates workflow steps, suggests nodes, and answers questions using natural language
+
+ComfyUI的AI助手，可自动化工作流步骤、建议节点并使用自然语言回答问题

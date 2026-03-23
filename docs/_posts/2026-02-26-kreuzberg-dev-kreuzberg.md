@@ -7,3 +7,5 @@ image: assets/kreuzberg_dev_kreuzberg_20260213_235652_095_20260213_235750_c144a9
 # [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
 
 Extracts text from 75 file formats without a GPU
+
+无需GPU从75种文件格式提取文本

@@ -7,3 +7,5 @@ image: assets/yurkagon_gravity_defied_web_20260313_120906_947_20260313_121047_1a
 # [yurkagon/gravity-defied-web](https://github.com/yurkagon/gravity-defied-web)
 
 Play classic mototrial racing game in browser
+
+在浏览器中玩经典摩托车越野赛游戏

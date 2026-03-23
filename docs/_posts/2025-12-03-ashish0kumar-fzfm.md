@@ -7,3 +7,5 @@ image: assets/ashish0kumar_fzfm_20251201_043708_723_20251201_043734_6506da.png
 # [ashish0kumar/fzfm](https://github.com/ashish0kumar/fzfm/)
 
 Fuzzy finder file manager powered by fzf
+
+基于 fzf 的模糊查找文件管理器

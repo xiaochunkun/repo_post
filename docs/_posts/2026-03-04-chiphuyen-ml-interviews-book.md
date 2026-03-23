@@ -7,3 +7,5 @@ image: assets/chiphuyen_ml_interviews_book_20260304_115158_286_20260304_115330_f
 # [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book)
 
 Guide for machine learning interviews with 200 knowledge questions
+
+机器学习面试指南，包含 200 个知识问题

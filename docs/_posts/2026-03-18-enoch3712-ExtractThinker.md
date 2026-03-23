@@ -7,3 +7,5 @@ image: assets/enoch3712_ExtractThinker_20260318_151712_249_20260318_151804_66d09
 # [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker)
 
 ORM for document intelligence
+
+文档智能的ORM

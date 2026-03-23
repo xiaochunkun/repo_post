@@ -7,3 +7,5 @@ image: assets/n8n-io_self-hosted-ai-starter-kit_cropped.png
 # [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 
 Open-source template for local AI setup
+
+用于本地AI设置的开源模板

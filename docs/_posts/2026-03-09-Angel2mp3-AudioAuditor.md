@@ -7,3 +7,5 @@ image: assets/Angel2mp3_AudioAuditor_20260308_195737_701_20260308_195924_55f09e.
 # [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor)
 
 Detects fake lossless and AI-generated audio files
+
+检测假无损和AI生成音频文件

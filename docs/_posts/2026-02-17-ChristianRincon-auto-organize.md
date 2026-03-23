@@ -7,3 +7,5 @@ image: assets/ChristianRincon_auto_organize_20260216_230409_560_20260216_230459_
 # [ChristianRincon/auto-organize](https://github.com/ChristianRincon/auto-organize)
 
 Sorts files into folders by extension
+
+按扩展名将文件分类到文件夹

@@ -7,3 +7,5 @@ image: assets/osTicket_osTicket_cropped.png
 # [osTicket/osTicket](https://github.com/osTicket/osTicket)
 
 Open source help desk for managing and automating support tickets
+
+开源帮助台，管理和自动化支持工单

@@ -7,3 +7,5 @@ image: assets/chaitin_SafeLine_20260122_001647_841_20260122_001704_73057d.png
 # [chaitin/SafeLine](https://github.com/chaitin/SafeLine)
 
 Self-hosted firewall for web applications
+
+用于Web应用的自托管防火墙

@@ -7,3 +7,5 @@ image: assets/Alovoa_alovoa_cropped.png
 # [Alovoa/alovoa](https://github.com/Alovoa/alovoa)
 
 Open-source dating platform with no ads, paid features, or data selling
+
+开源约会平台，无广告、付费功能或数据销售

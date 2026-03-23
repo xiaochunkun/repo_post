@@ -7,3 +7,5 @@ image: assets/oslabs_beta_SQLens_20260216_001540_128_20260216_001636_cfbd87.png
 # [oslabs-beta/SQLens](https://github.com/oslabs-beta/SQLens)
 
 Visualizes database schemas and foreign key relationships
+
+可视化数据库模式和外键关系

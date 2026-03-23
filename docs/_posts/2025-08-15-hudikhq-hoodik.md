@@ -7,3 +7,5 @@ image: assets/hudikhq_hoodik--20250815T012712418--cropped.png
 # [hudikhq/hoodik](https://github.com/hudikhq/hoodik)
 
 self-hosted cloud storage with end-to-end encryption
+
+自托管云存储，具有端到端加密

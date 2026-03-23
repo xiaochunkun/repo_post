@@ -7,3 +7,5 @@ image: assets/katanaml_sparrow_20260205_123711_678_20260205_123732_437abb.png
 # [katanaml/sparrow](https://github.com/katanaml/sparrow)
 
 Extracts data from documents with vision models
+
+使用视觉模型从文档中提取数据

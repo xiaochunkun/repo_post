@@ -7,3 +7,5 @@ image: assets/alexanderwanyoike_the0_20260101_052903_910_20260101_052919_95c3a2.
 # [alexanderwanyoike/the0](https://github.com/alexanderwanyoike/the0/)
 
 Execution engine for trading bots across languages
+
+跨语言交易机器人的执行引擎

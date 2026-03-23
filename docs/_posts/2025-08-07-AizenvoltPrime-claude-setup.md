@@ -7,3 +7,5 @@ image: assets/AizenvoltPrime_claude-setup_cropped.png
 # [AizenvoltPrime/claude-setup](https://github.com/AizenvoltPrime/claude-setup)
 
 setting up Claude locally
+
+本地设置 Claude

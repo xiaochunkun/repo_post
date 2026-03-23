@@ -7,3 +7,5 @@ image: assets/20250908T091557825--firecracker-microvm--firecracker--20250908T091
 # [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 
 runs lightweight microVMs for secure container and function workloads
+
+运行轻量级 microVM，安全承载容器和函数工作负载

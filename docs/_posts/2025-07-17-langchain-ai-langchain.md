@@ -7,3 +7,5 @@ image: assets/langchain-ai_langchain_cropped.png
 # [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 
 builds LLM apps with modular components
+
+使用模块化组件构建 LLM 应用

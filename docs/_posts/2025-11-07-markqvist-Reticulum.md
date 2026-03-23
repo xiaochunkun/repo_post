@@ -7,3 +7,5 @@ image: assets/markqvist_Reticulum_20251106_192231_199_20251106_223017_fc8579--20
 # [markqvist/Reticulum](https://github.com/markqvist/Reticulum/)
 
 Builds networks over high-latency and low-bandwidth connections
+
+在高延迟低带宽连接上构建网络

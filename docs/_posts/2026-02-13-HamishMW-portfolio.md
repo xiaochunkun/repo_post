@@ -7,3 +7,5 @@ image: assets/HamishMW_portfolio_20260120_101514_822_20260120_101540_905538.png
 # [HamishMW/portfolio](https://github.com/HamishMW/portfolio)
 
 Portfolio built with Remix and Three.js
+
+使用 Remix 和 Three.js 构建的作品集

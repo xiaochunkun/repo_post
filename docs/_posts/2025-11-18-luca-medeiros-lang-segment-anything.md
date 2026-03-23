@@ -7,3 +7,5 @@ image: assets/luca_medeiros_lang_segment_anything_20251116_091531_064_20251117_2
 # [luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything/)
 
 Generates image masks from text prompts
+
+从文本提示生成图像掩码

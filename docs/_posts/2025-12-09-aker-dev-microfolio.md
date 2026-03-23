@@ -7,3 +7,5 @@ image: assets/aker_dev_microfolio_20251207_215422_544_20251207_215445_402890.png
 # [aker-dev/microfolio](https://github.com/aker-dev/microfolio/)
 
 Static portfolio generator built with SvelteKit 2 and Tailwind CSS 4
+
+使用SvelteKit 2和Tailwind CSS 4构建的静态作品集生成器

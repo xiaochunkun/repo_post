@@ -7,3 +7,5 @@ image: assets/getsentry_XcodeBuildMCP_20260311_202328_643_20260311_202505_dc22ce
 # [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)
 
 MCP server for AI agents on Apple platforms
+
+Apple 平台上的 AI 代理 MCP 服务器

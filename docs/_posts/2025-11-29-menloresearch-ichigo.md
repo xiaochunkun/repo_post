@@ -7,3 +7,5 @@ image: assets/menloresearch_ichigo_20251126_011521_997_20251129_021928_3325a7--2
 # [menloresearch/ichigo](https://github.com/menloresearch/ichigo/)
 
 Speech processing package for developers
+
+面向开发者的语音处理包

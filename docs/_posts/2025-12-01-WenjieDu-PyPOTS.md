@@ -7,3 +7,5 @@ image: assets/WenjieDu_PyPOTS_20251130_055350_950_20251130_084226_9742c5--202511
 # [WenjieDu/PyPOTS](https://github.com/WenjieDu/PyPOTS/)
 
 Python toolbox for partially-observed time series
+
+Python工具箱，用于部分观测时间序列

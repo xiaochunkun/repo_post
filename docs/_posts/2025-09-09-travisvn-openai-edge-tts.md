@@ -7,3 +7,5 @@ image: assets/20250908T193714644--travisvn--openai-edge-tts--20250908T194010716-
 # [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts)
 
 local OpenAI-style text-to-speech API using Edge voices
+
+使用 Edge 语音的本地 OpenAI 风格文字转语音 API

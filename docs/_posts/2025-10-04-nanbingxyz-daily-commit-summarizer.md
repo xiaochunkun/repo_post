@@ -7,3 +7,5 @@ image: assets/20251003T232140677--nanbingxyz--daily-commit-summarizer--20251003T
 # [nanbingxyz/daily-commit-summarizer](https://github.com/nanbingxyz/daily-commit-summarizer)
 
 GitHub Action that summarizes daily commits with AI and sends reports via configurable webhooks
+
+GitHub Action，使用AI总结每日提交并通过可配置的webhook发送报告

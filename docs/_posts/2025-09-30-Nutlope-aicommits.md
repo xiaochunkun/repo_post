@@ -7,3 +7,5 @@ image: assets/20250929T215450419--Nutlope--aicommits--20250929T220327423--croppe
 # [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
 
 generate git commit messages with AI from your code changes
+
+根据您的代码变更，使用 AI 生成 git 提交消息

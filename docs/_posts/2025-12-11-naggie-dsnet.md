@@ -7,3 +7,5 @@ image: assets/naggie_dsnet_20251208_232841_675_20251208_232903_ae1c4c.png
 # [naggie/dsnet](https://github.com/naggie/dsnet/)
 
 Command to manage a centralised WireGuard VPN
+
+管理集中式WireGuard VPN的命令

@@ -7,3 +7,5 @@ image: assets/Julien-cpsn_ATAC_cropped.png
 # [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)
 
 Terminal-based API client for sending and managing HTTP requests
+
+基于终端的API客户端，用于发送和管理HTTP请求

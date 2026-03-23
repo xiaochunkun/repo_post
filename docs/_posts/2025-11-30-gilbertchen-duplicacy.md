@@ -7,3 +7,5 @@ image: assets/gilbertchen_duplicacy_20251127_192733_320_20251130_082545_cd4c5c--
 # [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy/)
 
 Lock-free deduplication cloud backup tool
+
+无锁去重云备份工具

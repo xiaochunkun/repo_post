@@ -7,3 +7,5 @@ image: assets/galacean_engine_20251031_055244_994_20251031_210508_cfc6c5--202510
 # [galacean/engine](https://github.com/galacean/engine/)
 
 3D engine for web with an online editor
+
+带在线编辑器的 Web 3D 引擎

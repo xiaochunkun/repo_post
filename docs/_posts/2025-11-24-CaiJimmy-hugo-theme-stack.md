@@ -7,3 +7,5 @@ image: assets/CaiJimmy_hugo_theme_stack_20251123_141256_293_20251124_003436_f716
 # [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/)
 
 Card-style Hugo theme for bloggers
+
+博客作者的卡片风格 Hugo 主题

@@ -7,3 +7,5 @@ image: assets/Owexiii13_YouTube_Shorts_Algorithm_scroller_20260311_005107_779_20
 # [Owexiii13/YouTube-Shorts-Algorithm-scroller](https://github.com/Owexiii13/YouTube-Shorts-Algorithm-scroller)
 
 Algorithm learns from YouTube Shorts to auto scroll and like videos
+
+算法从 YouTube Shorts 学习，自动滚动和点赞视频

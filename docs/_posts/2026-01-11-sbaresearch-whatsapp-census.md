@@ -7,3 +7,5 @@ image: assets/sbaresearch_whatsapp_census_20260111_093709_247_20260111_093722_76
 # [sbaresearch/whatsapp-census](https://github.com/sbaresearch/whatsapp-census)
 
 Probes millions of phone numbers per hour on WhatsApp
+
+每小时探测数百万个WhatsApp电话号码

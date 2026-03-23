@@ -7,3 +7,5 @@ image: assets/tareqimbasher_cargo_seek_20251104_232812_886_20251104_233940_83cff
 # [tareqimbasher/cargo-seek](https://github.com/tareqimbasher/cargo-seek/)
 
 Terminal user interface for searching and managing cargo crates
+
+用于搜索和管理 cargo crates 的终端用户界面

@@ -7,3 +7,5 @@ image: assets/microsoft_fara_20260223_114236_112_20260223_114305_748162.png
 # [microsoft/fara](https://github.com/microsoft/fara)
 
 Agentic model for computer use
+
+计算机使用的代理模型

@@ -7,3 +7,5 @@ image: assets/google_deepmind_limit_20251111_052442_972_20251112_020507_104e90--
 # [google-deepmind/limit](https://github.com/google-deepmind/limit/)
 
 Dataset to stress-test embedding models
+
+用于压力测试嵌入模型的数据集

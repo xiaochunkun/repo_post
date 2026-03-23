@@ -7,3 +7,5 @@ image: assets/royshil_obs_localvocal_20251130_062342_854_20251130_084445_e0c216-
 # [royshil/obs-localvocal](https://github.com/royshil/obs-localvocal/)
 
 Local speech transcription and translation OBS plugin
+
+本地语音转录和翻译的OBS插件

@@ -7,3 +7,5 @@ image: assets/caddyserver_cache_handler_20251130_071229_888_20251130_085105_cead
 # [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler/)
 
 Distributed HTTP cache module for Caddy
+
+Caddy 的分布式 HTTP 缓存模块

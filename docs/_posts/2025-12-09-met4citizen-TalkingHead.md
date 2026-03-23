@@ -7,3 +7,5 @@ image: assets/met4citizen_TalkingHead_20251207_211453_694_20251207_211516_27a425
 # [met4citizen/TalkingHead](https://github.com/met4citizen/TalkingHead/)
 
 JavaScript class for real-time 3D avatar lip-sync
+
+用于实时3D虚拟形象口型同步的JavaScript类

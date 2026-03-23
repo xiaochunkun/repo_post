@@ -7,3 +7,5 @@ image: assets/Nutlope_logocreator_cropped.png
 # [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
 
 AI tool for making logos with custom options
+
+具有自定义选项的 AI 徽标制作工具

@@ -7,3 +7,5 @@ image: assets/gokapso_whatsapp_cloud_inbox_20251223_080926_485_20251223_080942_1
 # [gokapso/whatsapp-cloud-inbox](https://github.com/gokapso/whatsapp-cloud-inbox/)
 
 WhatsApp inbox for the Cloud API built with Next.js
+
+基于Next.js构建的Cloud API WhatsApp收件箱

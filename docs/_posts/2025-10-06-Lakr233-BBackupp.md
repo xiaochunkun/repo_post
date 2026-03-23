@@ -7,3 +7,5 @@ image: assets/20251005T102821751--Lakr233--BBackupp--20251005T103922531--cropped
 # [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp)
 
 Back up iOS devices locally or to SFTP, S3, with wireless support
+
+本地或通过 SFTP、S3 备份 iOS 设备，支持无线

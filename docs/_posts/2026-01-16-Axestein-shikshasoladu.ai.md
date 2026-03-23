@@ -7,3 +7,5 @@ image: assets/Axestein_shikshasoladu_ai_20260115_182127_711_20260115_182142_671c
 # [Axestein/shikshasoladu.ai](https://github.com/Axestein/shikshasoladu.ai)
 
 AI education tools for students with disabilities
+
+为残障学生提供的 AI 教育工具

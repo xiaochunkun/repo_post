@@ -7,3 +7,5 @@ image: assets/tobymao_sqlglot_cropped.png
 # [tobymao/sqlglot](https://github.com/tobymao/sqlglot)
 
 parse and convert SQL between dialects in Python
+
+在Python中解析和转换SQL方言

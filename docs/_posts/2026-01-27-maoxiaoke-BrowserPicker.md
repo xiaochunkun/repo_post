@@ -7,3 +7,5 @@ image: assets/maoxiaoke_BrowserPicker_20260126_071336_565_20260126_071410_453219
 # [maoxiaoke/BrowserPicker](https://github.com/maoxiaoke/BrowserPicker)
 
 Routes URLs to browsers based on rules
+
+根据规则将URL路由到浏览器

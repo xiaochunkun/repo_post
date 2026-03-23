@@ -7,3 +7,5 @@ image: assets/lukeswitz_PathShield_20260111_132704_038_20260111_132717_7a9f49.pn
 # [lukeswitz/PathShield](https://github.com/lukeswitz/PathShield)
 
 Detects trackers via BLE and WiFi scanning
+
+通过BLE和WiFi扫描检测追踪器

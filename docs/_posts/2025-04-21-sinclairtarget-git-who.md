@@ -7,3 +7,5 @@ image: assets/sinclairtarget_git-who_cropped.png
 # [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who)
 
 Shows who is responsible for code across file trees in a repo, not just single lines
+
+显示仓库中文件树而非单行代码的责任人

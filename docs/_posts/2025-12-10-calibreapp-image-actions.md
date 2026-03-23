@@ -7,3 +7,5 @@ image: assets/calibreapp_image_actions_20251208_000305_565_20251208_000337_76abd
 # [calibreapp/image-actions](https://github.com/calibreapp/image-actions/)
 
 Compresses images in Pull Requests
+
+在 Pull Requests 中压缩图片

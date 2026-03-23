@@ -7,3 +7,5 @@ image: assets/nerdyslacker_desktop_web_browsers_20260122_104136_270_20260122_104
 # [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers)
 
 List of 258 desktop web browsers
+
+258 个桌面网络浏览器列表

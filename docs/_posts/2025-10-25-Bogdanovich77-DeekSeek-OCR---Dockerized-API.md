@@ -7,3 +7,5 @@ image: assets/Bogdanovich77_DeekSeek_OCR_Dockerized_API_20251024_232159_212_2025
 # [Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API/)
 
 Converts PDFs to Markdown via batch processing or a REST API
+
+通过批处理或REST API将PDF转换为Markdown

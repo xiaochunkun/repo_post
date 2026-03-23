@@ -7,3 +7,5 @@ image: assets/Future_House_paper_qa_20260318_190100_896_20260318_190222_f184e8.p
 # [Future-House/paper-qa](https://github.com/Future-House/paper-qa)
 
 High-accuracy RAG for papers
+
+高精度论文 RAG

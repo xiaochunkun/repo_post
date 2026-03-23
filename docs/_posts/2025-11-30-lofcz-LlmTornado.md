@@ -7,3 +7,5 @@ image: assets/lofcz_LlmTornado_20251127_172920_146_20251129_023147_fe9e4a--20251
 # [lofcz/LlmTornado](https://github.com/lofcz/LlmTornado/)
 
 Builds AI agents and workflows in .NET
+
+在 .NET 中构建 AI 代理和工作流

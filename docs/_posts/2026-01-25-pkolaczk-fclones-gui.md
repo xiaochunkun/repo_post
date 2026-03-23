@@ -7,3 +7,5 @@ image: assets/pkolaczk_fclones_gui_20260117_025618_766_20260117_025638_a4ddba.pn
 # [pkolaczk/fclones-gui](https://github.com/pkolaczk/fclones-gui)
 
 Finds and removes duplicate files
+
+查找并删除重复文件

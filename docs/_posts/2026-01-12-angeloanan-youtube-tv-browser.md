@@ -7,3 +7,5 @@ image: assets/angeloanan_youtube_tv_browser_20260112_082624_386_20260112_082643_
 # [angeloanan/youtube-tv-browser](https://github.com/angeloanan/youtube-tv-browser)
 
 Enables YouTube for TV in a browser
+
+在浏览器中启用 YouTube for TV

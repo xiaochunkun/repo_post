@@ -7,3 +7,5 @@ image: assets/20250927T040110175--harlanhong--awesome-talking-head-generation--2
 # [harlanhong/awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation)
 
 Curated list of papers, datasets, and code for talking head generation
+
+说话头生成的精选论文、数据集和代码列表

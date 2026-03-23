@@ -7,3 +7,5 @@ image: assets/unsecretised_rustcast_20260202_224618_182_20260202_224645_ac07c1.p
 # [unsecretised/rustcast](https://github.com/unsecretised/rustcast)
 
 Popup launcher for apps and workflows
+
+应用和工作流程的弹出启动器

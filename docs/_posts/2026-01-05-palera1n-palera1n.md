@@ -7,3 +7,5 @@ image: assets/palera1n_palera1n_20260104_065224_160_20260104_065239_986868.png
 # [palera1n/palera1n](https://github.com/palera1n/palera1n/)
 
 Jailbreak for devices on iOS 15.0 and higher
+
+iOS 15.0及以上设备的越狱工具

@@ -7,3 +7,5 @@ image: assets/hurlenko_filebrowser_docker_20251210_035507_753_20251210_035529_47
 # [hurlenko/filebrowser-docker](https://github.com/hurlenko/filebrowser-docker/)
 
 File manager inside a Docker container
+
+Docker 容器内的文件管理器

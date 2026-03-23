@@ -7,3 +7,5 @@ image: assets/Robbyant_lingbot_vla_20260309_080821_953_20260309_081121_818018.pn
 # [Robbyant/lingbot-vla](https://github.com/Robbyant/lingbot-vla)
 
 Vision-Language-Action foundation model for robot control
+
+用于机器人控制的视觉-语言-动作基础模型

@@ -7,3 +7,5 @@ image: assets/emerysilb_immibridge_20260204_033301_832_20260204_033335_4be974.pn
 # [emerysilb/immibridge](https://github.com/emerysilb/immibridge)
 
 Syncs Apple Photos to Immich
+
+将Apple Photos同步到Immich

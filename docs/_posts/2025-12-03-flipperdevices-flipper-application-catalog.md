@@ -7,3 +7,5 @@ image: assets/flipperdevices_flipper_application_catalog_20251201_081803_255_202
 # [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog/)
 
 Community developed apps for Flipper Zero
+
+Flipper Zero 的社区开发应用

@@ -7,3 +7,5 @@ image: assets/facebookresearch_sam3_20260227_150534_389_20260227_150735_2c5107.p
 # [facebookresearch/sam3](https://github.com/facebookresearch/sam3)
 
 Segments objects using text or exemplars
+
+使用文本或示例分割对象

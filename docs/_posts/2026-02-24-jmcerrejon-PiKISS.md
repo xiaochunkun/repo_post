@@ -7,3 +7,5 @@ image: assets/jmcerrejon_PiKISS_20260209_062818_425_20260209_062846_f6cc7f.png
 # [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS)
 
 Scripts with menu for Raspberry Pi
+
+适用于 Raspberry Pi 的带菜单脚本

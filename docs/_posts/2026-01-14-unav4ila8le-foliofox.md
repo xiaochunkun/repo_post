@@ -7,3 +7,5 @@ image: assets/unav4ila8le_foliofox_20260113_165144_568_20260113_165159_aae6c5.pn
 # [unav4ila8le/foliofox](https://github.com/unav4ila8le/foliofox)
 
 Net worth tracker with AI advisor
+
+带 AI 顾问的净资产追踪器

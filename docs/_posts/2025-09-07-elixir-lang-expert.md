@@ -7,3 +7,5 @@ image: assets/20250906T222142642--elixir-lang--expert--20250906T222254022--cropp
 # [elixir-lang/expert](https://github.com/elixir-lang/expert)
 
 official Elixir language server implementation
+
+Elixir 官方语言服务器实现

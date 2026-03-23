@@ -7,3 +7,5 @@ image: assets/vite_pwa_vite_plugin_pwa_20251201_075651_633_20251201_075836_5940b
 # [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa/)
 
 Adds PWA capabilities to Vite apps
+
+为Vite应用添加PWA功能

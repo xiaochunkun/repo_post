@@ -7,3 +7,5 @@ image: assets/ranahaani_GNews_20260213_195925_993_20260213_200016_58dc0b.png
 # [ranahaani/GNews](https://github.com/ranahaani/GNews)
 
 Python API for Google News
+
+Google News的Python API

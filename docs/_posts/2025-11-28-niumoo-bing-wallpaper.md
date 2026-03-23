@@ -7,3 +7,5 @@ image: assets/niumoo_bing_wallpaper_20251125_171129_064_20251127_171208_312a9a--
 # [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper/)
 
 Archive of daily 4K Bing wallpapers
+
+每日4K必应壁纸存档

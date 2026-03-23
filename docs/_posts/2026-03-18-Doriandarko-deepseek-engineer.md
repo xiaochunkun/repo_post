@@ -7,3 +7,5 @@ image: assets/Doriandarko_deepseek_engineer_20260318_100531_074_20260318_100636_
 # [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer)
 
 AI coding assistant with function calling
+
+AI编码助手，支持函数调用

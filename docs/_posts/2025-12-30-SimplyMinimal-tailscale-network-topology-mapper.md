@@ -7,3 +7,5 @@ image: assets/SimplyMinimal_tailscale_network_topology_mapper_20251229_060247_05
 # [SimplyMinimal/tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper/)
 
 Visualizes Tailscale network access rules as interactive maps
+
+将Tailscale网络访问规则可视化为交互式地图

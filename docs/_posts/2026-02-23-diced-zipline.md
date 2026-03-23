@@ -7,3 +7,5 @@ image: assets/diced_zipline_20260210_013231_990_20260210_013248_e28190.png
 # [diced/zipline](https://github.com/diced/zipline)
 
 File upload server with ShareX support and Docker setup
+
+支持 ShareX 和 Docker 设置的文件上传服务器

@@ -7,3 +7,5 @@ image: assets/carlvellotti_claude_code_pm_course_20260204_041724_294_20260204_04
 # [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
 
 Course for product managers using Claude Code
+
+使用 Claude Code 的产品经理课程

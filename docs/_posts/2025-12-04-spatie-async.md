@@ -7,3 +7,5 @@ image: assets/spatie_async_20251201_092252_378_20251201_092442_2bafa2.png
 # [spatie/async](https://github.com/spatie/async/)
 
 Wrapper around PHP's PCNTL extension for parallel processing
+
+围绕PHP PCNTL扩展的并行处理封装器

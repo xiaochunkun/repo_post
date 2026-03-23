@@ -7,3 +7,5 @@ image: assets/this_rs_project_orchestrator_20260217_175043_480_20260217_175125_7
 # [this-rs/project-orchestrator](https://github.com/this-rs/project-orchestrator)
 
 Orchestrates AI agents with a knowledge graph
+
+使用知识图谱编排AI代理

@@ -7,3 +7,5 @@ image: assets/beclab_Olares_20260121_231515_075_20260121_231531_6ae238.png
 # [beclab/Olares](https://github.com/beclab/Olares)
 
 Self-hosted cloud operating system for data sovereignty
+
+用于数据主权的自托管云操作系统

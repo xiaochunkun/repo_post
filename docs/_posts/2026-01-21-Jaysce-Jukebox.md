@@ -7,3 +7,5 @@ image: assets/Jaysce_Jukebox_20260120_031312_373_20260120_031336_3020ee.png
 # [Jaysce/Jukebox](https://github.com/Jaysce/Jukebox)
 
 Displays music from Spotify or Apple Music in the menu bar
+
+在菜单栏显示 Spotify 或 Apple Music 的音乐

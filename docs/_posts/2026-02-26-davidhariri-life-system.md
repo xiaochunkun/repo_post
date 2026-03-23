@@ -7,3 +7,5 @@ image: assets/davidhariri_life_system_20260225_145754_828_20260225_145926_1dd3a5
 # [davidhariri/life-system](https://github.com/davidhariri/life-system)
 
 Life operating system via Claude Code
+
+通过Claude Code实现的生活操作系统

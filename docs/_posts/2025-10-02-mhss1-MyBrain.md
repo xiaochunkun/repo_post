@@ -7,3 +7,5 @@ image: assets/20251001T203200040--mhss1--MyBrain--20251001T203540284--cropped.pn
 # [mhss1/MyBrain](https://github.com/mhss1/MyBrain)
 
 Productivity app with AI assistant for tasks, notes, calendar, and bookmarks
+
+生产力应用，集成AI助手，支持任务、笔记、日历和书签

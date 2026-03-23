@@ -7,3 +7,5 @@ image: assets/20251009T061356569--grafviktor--goto--20251009T061756186--cropped.
 # [grafviktor/goto](https://github.com/grafviktor/goto)
 
 maintains your ssh server list, no built-in connection logic
+
+维护 SSH 服务器列表，无内置连接逻辑

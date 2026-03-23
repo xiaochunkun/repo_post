@@ -7,3 +7,5 @@ image: assets/vernu_textbee_cropped.png
 # [vernu/textbee](https://github.com/vernu/textbee)
 
 open source SMS gateway with API and web dashboard
+
+开源 SMS 网关，带 API 和 Web 仪表板

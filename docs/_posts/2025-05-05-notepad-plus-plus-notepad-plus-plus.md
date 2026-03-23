@@ -7,3 +7,5 @@ image: assets/notepad-plus-plus_notepad-plus-plus_cropped.png
 # [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
 Open-source text and code editor for Windows
+
+Windows 的开源文本和代码编辑器

@@ -7,3 +7,5 @@ image: assets/20250903T020903073--rqlite--rqlite--20250903T022045532--cropped.pn
 # [rqlite/rqlite](https://github.com/rqlite/rqlite)
 
 distributed relational database built on SQLite
+
+基于 SQLite 构建的分布式关系数据库

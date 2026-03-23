@@ -7,3 +7,5 @@ image: assets/tnodir_fort_20260212_114112_869_20260212_114153_4d36c4.png
 # [tnodir/fort](https://github.com/tnodir/fort)
 
 Firewall for Windows with speed limits and traffic statistics
+
+Windows 防火墙，具有速度限制和流量统计功能

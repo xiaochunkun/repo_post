@@ -7,3 +7,5 @@ image: assets/chaibuilder_sdk_20260111_225752_536_20260111_225805_ad1c04.png
 # [chaibuilder/sdk](https://github.com/chaibuilder/sdk)
 
 Visual website builder for React and Tailwind CSS
+
+React 和 Tailwind CSS 的可视化网站构建器

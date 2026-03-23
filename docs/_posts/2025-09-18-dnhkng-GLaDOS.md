@@ -7,3 +7,5 @@ image: assets/20250915T231400994--dnhkng--GLaDOS--20250918T051451786--cropped.pn
 # [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS)
 
 Real-life GLaDOS personality core with voice generation and interactive responses
+
+具有语音生成和交互响应的真实 GLaDOS 个性核心

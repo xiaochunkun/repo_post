@@ -7,3 +7,5 @@ image: assets/blacklanternsecurity_bbot_cropped.png
 # [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)
 
 automates OSINT and recon for hackers
+
+为黑客自动化OSINT和侦察

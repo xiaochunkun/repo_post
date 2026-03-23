@@ -7,3 +7,5 @@ image: assets/20251003T231410266--nomi-san--parsec-vdd--20251010T125959681--crop
 # [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd)
 
 virtual display driver for adding extra screens to Windows for streaming or remote work
+
+虚拟显示驱动程序，为 Windows 添加额外屏幕，用于流媒体或远程工作

@@ -7,3 +7,5 @@ image: assets/singularityhacker_bank_skills_20260212_155458_212_20260212_155532_
 # [singularityhacker/bank-skills](https://github.com/singularityhacker/bank-skills)
 
 Connects AI agents to Wise banking services
+
+将 AI 代理连接到 Wise 银行服务

@@ -7,3 +7,5 @@ image: assets/cyberblu3s_CyberBlue_20251217_065850_555_20251217_065913_d2f493.pn
 # [cyberblu3s/CyberBlue](https://github.com/cyberblu3s/CyberBlue/)
 
 Containerized cybersecurity training platform with 15+ integrated tools
+
+容器化网络安全培训平台，集成 15 多种工具

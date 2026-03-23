@@ -7,3 +7,5 @@ image: assets/thedaviddias_Front_End_Performance_Checklist_20251127_191553_062_2
 # [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist/)
 
 Exhaustive list of front-end performance elements
+
+前端性能要素详尽列表

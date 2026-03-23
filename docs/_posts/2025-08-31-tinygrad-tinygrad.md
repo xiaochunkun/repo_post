@@ -7,3 +7,5 @@ image: assets/20250830T093551576--tinygrad--tinygrad--20250830T173548359--croppe
 # [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)
 
 minimal deep learning library that runs LLaMA and Stable Diffusion
+
+极简深度学习库，可运行 LLaMA 和 Stable Diffusion

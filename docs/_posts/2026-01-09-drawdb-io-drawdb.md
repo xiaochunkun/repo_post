@@ -7,3 +7,5 @@ image: assets/drawdb_io_drawdb_20260108_015324_530_20260108_015337_c142a1.png
 # [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 
 Database schema editor and SQL generator in a browser
+
+浏览器内的数据库模式编辑器和SQL生成器

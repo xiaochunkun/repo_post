@@ -7,3 +7,5 @@ image: assets/HaschekSolutions_opentrashmail_20251210_014010_266_20251210_014032
 # [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail/)
 
 Self-hosted trashmail solution with RSS and JSON API
+
+带有 RSS 和 JSON API 的自托管垃圾邮件解决方案

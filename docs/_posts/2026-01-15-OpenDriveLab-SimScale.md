@@ -7,3 +7,5 @@ image: assets/OpenDriveLab_SimScale_20260114_162038_741_20260114_162052_b606ee.p
 # [OpenDriveLab/SimScale](https://github.com/OpenDriveLab/SimScale)
 
 Simulation pipeline for training end-to-end planners via real-world data
+
+通过真实世界数据训练端到端规划器的仿真流水线

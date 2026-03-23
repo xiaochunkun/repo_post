@@ -7,3 +7,5 @@ image: assets/20250820T133257914_misbahsy_meetingmind--20250820T133743464--cropp
 # [misbahsy/meetingmind](https://github.com/misbahsy/meetingmind)
 
 AI meeting assistant for instant summaries and insights
+
+AI 会议助手，即时生成摘要和洞察

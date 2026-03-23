@@ -7,3 +7,5 @@ image: assets/sopaco_deepwiki_rs_20251107_171423_368_20251107_215702_64c328--202
 # [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs/)
 
 AI-driven documentation generator built with Rust
+
+使用Rust构建的AI驱动文档生成器

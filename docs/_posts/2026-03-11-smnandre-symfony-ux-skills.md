@@ -7,3 +7,5 @@ image: assets/smnandre_symfony_ux_skills_20260309_110541_927_20260309_110752_4df
 # [smnandre/symfony-ux-skills](https://github.com/smnandre/symfony-ux-skills)
 
 Agent instructions for Symfony UX frontend stack
+
+Symfony UX 前端堆栈的代理指令

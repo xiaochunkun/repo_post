@@ -7,3 +7,5 @@ image: assets/maizzle_framework_20260223_073151_792_20260223_073212_09ac39.png
 # [maizzle/framework](https://github.com/maizzle/framework)
 
 Builds HTML emails with Tailwind CSS
+
+使用 Tailwind CSS 构建 HTML 电子邮件

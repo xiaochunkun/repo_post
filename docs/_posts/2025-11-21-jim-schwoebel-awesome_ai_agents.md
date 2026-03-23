@@ -7,3 +7,5 @@ image: assets/jim_schwoebel_awesome_ai_agents_20251120_050136_368_20251120_19503
 # [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents/)
 
 Resources for AI agent development
+
+AI 代理开发资源

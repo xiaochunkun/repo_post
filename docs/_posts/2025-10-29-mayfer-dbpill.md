@@ -7,3 +7,5 @@ image: assets/mayfer_dbpill_20251029_073530_049_20251029_083659_827266--20251029
 # [mayfer/dbpill](https://github.com/mayfer/dbpill/)
 
 PostgreSQL proxy that suggests and applies performance improvements
+
+建议并应用性能改进的 PostgreSQL 代理

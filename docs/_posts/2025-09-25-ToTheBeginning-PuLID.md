@@ -7,3 +7,5 @@ image: assets/20250925T042017783--ToTheBeginning--PuLID--20250925T042509866--cro
 # [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID)
 
 AI tool for fast, high-fidelity face customization in text-to-image models
+
+用于在文本到图像模型中快速、高保真面部定制的AI工具

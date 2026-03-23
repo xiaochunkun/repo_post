@@ -7,3 +7,5 @@ image: assets/IST_DASLab_gptq_gguf_toolkit_20251202_233332_619_20251202_233408_8
 # [IST-DASLab/gptq-gguf-toolkit](https://github.com/IST-DASLab/gptq-gguf-toolkit/)
 
 Applies GPTQ quantization to GGUF models
+
+将 GPTQ 量化应用于 GGUF 模型

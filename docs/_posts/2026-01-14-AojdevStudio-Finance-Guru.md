@@ -7,3 +7,5 @@ image: assets/AojdevStudio_Finance_Guru_20260113_144952_142_20260113_145015_1aa1
 # [AojdevStudio/Finance-Guru](https://github.com/AojdevStudio/Finance-Guru)
 
 AI agents for financial analysis
+
+金融分析 AI agent

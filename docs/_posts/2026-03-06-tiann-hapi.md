@@ -7,3 +7,5 @@ image: assets/tiann_hapi_20260225_215913_853_20260225_220113_c52d30.png
 # [tiann/hapi](https://github.com/tiann/hapi)
 
 Remote control for AI agents from a phone
+
+从手机远程控制 AI 智能体

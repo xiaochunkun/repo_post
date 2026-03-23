@@ -7,3 +7,5 @@ image: assets/carlcastanas_Cybersecurity_Roadmap_20260106_185101_373_20260106_18
 # [carlcastanas/Cybersecurity-Roadmap](https://github.com/carlcastanas/Cybersecurity-Roadmap/)
 
 Roadmap for cybersecurity career paths and certifications
+
+网络安全职业路径和认证的路线图

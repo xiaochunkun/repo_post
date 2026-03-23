@@ -7,3 +7,5 @@ image: assets/bilibili_ailab_20251213_111158_198_20251213_111221_f8375c.png
 # [bilibili/ailab](https://github.com/bilibili/ailab/)
 
 Cascade U-Nets for anime image super resolution
+
+用于动漫图像超分辨率的 Cascade U-Nets

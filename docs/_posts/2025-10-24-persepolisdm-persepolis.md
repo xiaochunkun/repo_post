@@ -7,3 +7,5 @@ image: assets/persepolisdm_persepolis_20251023_002452_699_20251023_221348_004018
 # [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis/)
 
 A multi-segment download manager
+
+多段下载管理器

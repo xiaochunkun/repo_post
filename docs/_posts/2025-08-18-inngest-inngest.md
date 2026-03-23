@@ -7,3 +7,5 @@ image: assets/inngest_inngest--20250817T095935248--cropped.png
 # [inngest/inngest](https://github.com/inngest/inngest)
 
 open source durable workflow engine for background jobs and automation
+
+用于后台作业和自动化的开源持久工作流引擎

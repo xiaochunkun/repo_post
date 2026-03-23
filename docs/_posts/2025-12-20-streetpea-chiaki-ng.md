@@ -7,3 +7,5 @@ image: assets/streetpea_chiaki_ng_20251218_095753_508_20251218_095809_007594.png
 # [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng/)
 
 Streams PlayStation to computers and consoles
+
+将 PlayStation 流式传输到计算机和游戏机

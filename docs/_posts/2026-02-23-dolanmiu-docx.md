@@ -7,3 +7,5 @@ image: assets/dolanmiu_docx_20260222_090832_712_20260222_090853_b6d9f8.png
 # [dolanmiu/docx](https://github.com/dolanmiu/docx)
 
 Generates .docx files with JS/TS for Node and browser
+
+使用 JS/TS 为 Node 和浏览器生成 .docx 文件

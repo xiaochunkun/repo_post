@@ -7,3 +7,5 @@ image: assets/python-poetry_poetry_cropped.png
 # [python-poetry/poetry](https://github.com/python-poetry/poetry)
 
 python project dependency and packaging tool
+
+Python项目依赖和打包工具

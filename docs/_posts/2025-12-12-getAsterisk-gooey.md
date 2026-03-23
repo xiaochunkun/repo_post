@@ -7,3 +7,5 @@ image: assets/getAsterisk_gooey_20251209_025251_151_20251209_025405_9e10a8.png
 # [getAsterisk/gooey](https://github.com/getAsterisk/gooey/)
 
 GUI and toolkit for Claude Code
+
+Claude Code 的 GUI 和工具包

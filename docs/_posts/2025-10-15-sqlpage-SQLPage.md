@@ -7,3 +7,5 @@ image: assets/20251015T010745929--sqlpage--SQLPage--20251015T011043975--cropped.
 # [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage)
 
 build web apps using just SQL queries
+
+仅使用 SQL 查询构建 Web 应用

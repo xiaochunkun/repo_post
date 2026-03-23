@@ -7,3 +7,5 @@ image: assets/Nozbe_WatermelonDB_20251208_003027_319_20251208_003100_a513ce.png
 # [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB/)
 
 Reactive database framework for React apps
+
+React应用的响应式数据库框架

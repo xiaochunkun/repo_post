@@ -7,3 +7,5 @@ image: assets/WASasquatch_ComfyUI_Viewer_OpenReel_Extension_20260306_030726_410_
 # [WASasquatch/ComfyUI_Viewer_OpenReel_Extension](https://github.com/WASasquatch/ComfyUI_Viewer_OpenReel_Extension)
 
 Edit video within ComfyUI workflows
+
+在ComfyUI工作流中编辑视频

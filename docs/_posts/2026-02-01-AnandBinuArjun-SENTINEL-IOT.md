@@ -7,3 +7,5 @@ image: assets/AnandBinuArjun_SENTINEL_IOT_20260131_194644_207_20260131_194725_13
 # [AnandBinuArjun/SENTINEL-IOT](https://github.com/AnandBinuArjun/SENTINEL-IOT)
 
 Emulates IoT devices to capture botnet traffic
+
+模拟 IoT 设备以捕获僵尸网络流量

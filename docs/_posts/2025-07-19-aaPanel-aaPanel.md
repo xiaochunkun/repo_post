@@ -7,3 +7,5 @@ image: assets/aaPanel_aaPanel_cropped.png
 # [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel)
 
 web hosting control panel for managing servers
+
+管理服务器的Web托管控制面板

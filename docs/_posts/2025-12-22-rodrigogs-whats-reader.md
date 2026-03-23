@@ -7,3 +7,5 @@ image: assets/rodrigogs_whats_reader_20251221_051757_607_20251221_051814_b4f3db.
 # [rodrigogs/whats-reader](https://github.com/rodrigogs/whats-reader/)
 
 Transcribes and browses WhatsApp exports offline via WebGPU
+
+通过 WebGPU 离线转录和浏览 WhatsApp 导出

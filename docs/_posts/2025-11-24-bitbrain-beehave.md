@@ -7,3 +7,5 @@ image: assets/bitbrain_beehave_20251123_130553_017_20251124_003345_317fa7--20251
 # [bitbrain/beehave](https://github.com/bitbrain/beehave/)
 
 Behavior tree AI for Godot
+
+Godot 的行为树 AI

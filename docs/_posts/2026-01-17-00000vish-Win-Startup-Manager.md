@@ -7,3 +7,5 @@ image: assets/00000vish_Win_Startup_Manager_20260117_074616_633_20260117_074639_
 # [00000vish/Win-Startup-Manager](https://github.com/00000vish/Win-Startup-Manager)
 
 Controls startup processes with timers and arguments
+
+通过定时器和参数控制启动进程

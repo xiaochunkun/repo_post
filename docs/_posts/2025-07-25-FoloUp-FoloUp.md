@@ -7,3 +7,5 @@ image: assets/FoloUp_FoloUp_cropped.png
 # [FoloUp/FoloUp](https://github.com/FoloUp/FoloUp)
 
 AI voice interviewer for hiring interviews with candidates
+
+AI语音面试官，用于招聘面试

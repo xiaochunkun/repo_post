@@ -7,3 +7,5 @@ image: assets/rajsinghtech_tsflow_20251115_051545_504_20251116_150319_6d3717--20
 # [rajsinghtech/tsflow](https://github.com/rajsinghtech/tsflow/)
 
 Web application for visualizing Tailscale network traffic flows
+
+可视化 Tailscale 网络流量的 Web 应用

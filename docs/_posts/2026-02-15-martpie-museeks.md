@@ -7,3 +7,5 @@ image: assets/martpie_museeks_20260126_175705_127_20260126_175747_2ba11f.png
 # [martpie/museeks](https://github.com/martpie/museeks)
 
 Music player for Linux, macOS, and Windows
+
+适用于Linux、macOS和Windows的音乐播放器

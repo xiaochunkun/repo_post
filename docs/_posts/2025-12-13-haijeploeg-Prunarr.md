@@ -7,3 +7,5 @@ image: assets/haijeploeg_Prunarr_20251209_053051_578_20251209_053114_d97980.png
 # [haijeploeg/Prunarr](https://github.com/haijeploeg/Prunarr/)
 
 Cleans Radarr and Sonarr libraries based on Plex watch history
+
+基于 Plex 观看历史清理 Radarr 和 Sonarr 库

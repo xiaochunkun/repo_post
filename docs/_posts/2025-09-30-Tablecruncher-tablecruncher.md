@@ -7,3 +7,5 @@ image: assets/20250930T033503446--Tablecruncher--tablecruncher--20250930T0347313
 # [Tablecruncher/tablecruncher](https://github.com/Tablecruncher/tablecruncher)
 
 CSV editor for huge files, open source, works on Mac, Windows, Linux
+
+适用于大型文件的开源 CSV 编辑器，支持 Mac、Windows、Linux

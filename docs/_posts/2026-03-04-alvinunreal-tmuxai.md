@@ -7,3 +7,5 @@ image: assets/alvinunreal_tmuxai_20260228_113705_048_20260228_113857_f57f08.png
 # [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai)
 
 Terminal assistant observes tmux panes to execute commands
+
+终端助手，观察 tmux 窗格以执行命令

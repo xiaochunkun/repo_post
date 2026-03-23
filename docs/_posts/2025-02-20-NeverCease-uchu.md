@@ -7,3 +7,5 @@ image: assets/NeverCease_uchu_cropped.png
 # [NeverCease/uchu](https://github.com/NeverCease/uchu)
 
 Color palette using OKLCH
+
+使用OKLCH的调色板

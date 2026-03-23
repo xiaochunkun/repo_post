@@ -7,3 +7,5 @@ image: assets/reriiasu_speech_to_text_20251215_003051_172_20251215_003148_f901ac
 # [reriiasu/speech-to-text](https://github.com/reriiasu/speech-to-text/)
 
 Real-time transcription using Faster-Whisper
+
+使用Faster-Whisper进行实时转录

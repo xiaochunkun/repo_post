@@ -7,3 +7,5 @@ image: assets/SanjulaGanepola_github_local_actions_20251213_034057_555_20251213_
 # [SanjulaGanepola/github-local-actions](https://github.com/SanjulaGanepola/github-local-actions/)
 
 Runs GitHub Actions locally in VS Code
+
+VS Code 中本地运行 GitHub Actions

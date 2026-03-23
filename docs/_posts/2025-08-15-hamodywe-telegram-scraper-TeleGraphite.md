@@ -7,3 +7,5 @@ image: assets/hamodywe_telegram-scraper-TeleGraphite--20250815T015807754--croppe
 # [hamodywe/telegram-scraper-TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite)
 
 fetch and export Telegram channel posts as JSON
+
+获取并导出Telegram频道帖子为JSON

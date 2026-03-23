@@ -7,3 +7,5 @@ image: assets/jshchnz_claude_code_scheduler_20260205_061021_481_20260205_061037_
 # [jshchnz/claude-code-scheduler](https://github.com/jshchnz/claude-code-scheduler)
 
 Schedules tasks for Claude Code
+
+为Claude Code调度任务

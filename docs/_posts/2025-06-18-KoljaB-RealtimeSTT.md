@@ -7,3 +7,5 @@ image: assets/KoljaB_RealtimeSTT_cropped.png
 # [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
 
 Listens to a microphone and sends speech-to-text transcripts in real time
+
+监听麦克风并实时发送语音转文字转录

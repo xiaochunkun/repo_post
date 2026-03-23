@@ -7,3 +7,5 @@ image: assets/steipete_gogcli_20260101_023910_050_20260101_023924_5123e8.png
 # [steipete/gogcli](https://github.com/steipete/gogcli/)
 
 Google Suite interface for the terminal
+
+终端的Google Suite界面

@@ -7,3 +7,5 @@ image: assets/once_ui_system_core_20260309_103541_088_20260309_103715_d48f37.png
 # [once-ui-system/core](https://github.com/once-ui-system/core)
 
 Design system for Next.js apps
+
+用于Next.js应用的设计系统

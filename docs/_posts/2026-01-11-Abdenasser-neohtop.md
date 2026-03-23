@@ -7,3 +7,5 @@ image: assets/Abdenasser_neohtop_20260108_015255_111_20260108_015315_37f7f6.png
 # [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)
 
 System monitor built with Svelte, Rust, and Tauri
+
+使用Svelte、Rust和Tauri构建的系统监控器

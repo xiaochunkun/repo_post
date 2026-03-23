@@ -7,3 +7,5 @@ image: assets/ezshine_AwesomeSites_20251125_040814_345_20251127_165201_e4fa27--2
 # [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites/)
 
 Archive of websites runnable locally
+
+可在本地运行的网站存档

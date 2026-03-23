@@ -7,3 +7,5 @@ image: assets/dabit3_skill_audit_20260213_213819_904_20260213_213843_a5eb9f.png
 # [dabit3/skill-audit](https://github.com/dabit3/skill-audit)
 
 Scans AI agent skills for security risks
+
+扫描AI代理技能以检测安全风险

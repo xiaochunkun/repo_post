@@ -7,3 +7,5 @@ image: assets/peltho_tufw_20251103_231633_708_20251103_231703_17b0f1--20251104T0
 # [peltho/tufw](https://github.com/peltho/tufw/)
 
 A terminal user interface for managing ufw firewall rules
+
+管理ufw防火墙规则的终端用户界面

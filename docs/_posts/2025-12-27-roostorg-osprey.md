@@ -7,3 +7,5 @@ image: assets/roostorg_osprey_20251226_003907_758_20251226_003924_4f904a.png
 # [roostorg/osprey](https://github.com/roostorg/osprey/)
 
 Rules engine for real-time event processing
+
+用于实时事件处理的规则引擎

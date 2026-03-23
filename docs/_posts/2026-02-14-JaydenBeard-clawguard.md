@@ -7,3 +7,5 @@ image: assets/JaydenBeard_clawguard_20260205_162703_580_20260205_162746_76c9dd.p
 # [JaydenBeard/clawguard](https://github.com/JaydenBeard/clawguard)
 
 Security dashboard with kill switch for AI agents
+
+带有 AI 代理紧急关闭功能的安全仪表板

@@ -7,3 +7,5 @@ image: assets/htmlhint_HTMLHint_cropped.png
 # [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint)
 
 Static HTML linter for code analysis
+
+用于代码分析的静态HTML linter

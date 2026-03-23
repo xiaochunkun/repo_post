@@ -7,3 +7,5 @@ image: assets/baserow_baserow_20260207_091103_981_20260207_091119_aeec1f.png
 # [baserow/baserow](https://github.com/baserow/baserow)
 
 Database and automation platform with AI assistant
+
+集成 AI 助手的数据库和自动化平台

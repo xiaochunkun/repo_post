@@ -7,3 +7,5 @@ image: assets/flowglad_flowglad_20260221_104605_550_20260221_104628_9ee605.png
 # [flowglad/flowglad](https://github.com/flowglad/flowglad)
 
 Payment provider with zero webhooks
+
+无 webhook 的支付提供商

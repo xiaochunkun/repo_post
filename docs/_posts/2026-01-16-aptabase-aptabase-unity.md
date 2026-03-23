@@ -7,3 +7,5 @@ image: assets/aptabase_aptabase_unity_20260114_011405_264_20260114_011418_964863
 # [aptabase/aptabase-unity](https://github.com/aptabase/aptabase-unity)
 
 Analytics for Unity apps with privacy focus
+
+专注于隐私的 Unity 应用分析工具

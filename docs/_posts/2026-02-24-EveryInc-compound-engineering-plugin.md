@@ -7,3 +7,5 @@ image: assets/EveryInc_compound_engineering_plugin_20260222_201331_796_20260222_
 # [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
 
 Converts Claude Code plugins for other AI agents
+
+将Claude Code插件转换为其他AI代理格式

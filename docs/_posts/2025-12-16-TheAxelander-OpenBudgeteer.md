@@ -7,3 +7,5 @@ image: assets/TheAxelander_OpenBudgeteer_20251214_221052_815_20251214_221151_26e
 # [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer/)
 
 Budgeting app based on the Bucket Budgeting Principle
+
+基于Bucket Budgeting Principle的预算应用

@@ -7,3 +7,5 @@ image: assets/negokaz_excel_mcp_server_20251209_022932_846_20251209_023001_e0147
 # [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server/)
 
 Model Context Protocol server for reading and writing Excel data
+
+用于读写 Excel 数据的 Model Context Protocol 服务器

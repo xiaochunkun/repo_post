@@ -7,3 +7,5 @@ image: assets/Nano_Collective_nanocoder_20260223_072415_873_20260223_072443_a20c
 # [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder)
 
 CLI agent for file operations and command execution
+
+用于文件操作和命令执行的 CLI 智能体

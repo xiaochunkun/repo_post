@@ -7,3 +7,5 @@ image: assets/medplum_medplum_20260211_074601_452_20260211_074656_5c6e2d.png
 # [medplum/medplum](https://github.com/medplum/medplum)
 
 Platform for development of healthcare applications
+
+用于开发医疗保健应用的平台

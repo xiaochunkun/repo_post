@@ -7,3 +7,5 @@ image: assets/AnasMalas_pcb_edge_usb_c_20260111_205358_390_20260111_205412_8e6e7
 # [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c)
 
 PCB edge as USB C connector
+
+PCB边缘作为USB C连接器

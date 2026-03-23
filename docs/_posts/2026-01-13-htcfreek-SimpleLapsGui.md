@@ -7,3 +7,5 @@ image: assets/htcfreek_SimpleLapsGui_20260112_043259_027_20260112_043345_7c1d7f.
 # [htcfreek/SimpleLapsGui](https://github.com/htcfreek/SimpleLapsGui)
 
 GUI for Microsoft LAPS and Windows LAPS
+
+Microsoft LAPS和Windows LAPS的图形界面

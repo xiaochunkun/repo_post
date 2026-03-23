@@ -7,3 +7,5 @@ image: assets/huginn_huginn_20260203_003104_734_20260203_003124_211544.png
 # [huginn/huginn](https://github.com/huginn/huginn)
 
 Automates tasks across the web on your server
+
+在服务器上自动化网络任务

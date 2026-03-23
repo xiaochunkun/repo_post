@@ -7,3 +7,5 @@ image: assets/deepseek-ai_FlashMLA_cropped.png
 # [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
 
 MLA decoding kernel for Hopper GPUs
+
+Hopper GPU的MLA解码内核

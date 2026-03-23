@@ -7,3 +7,5 @@ image: assets/qwersyk_Newelle_20260202_222120_346_20260202_222157_a9bea8.png
 # [qwersyk/Newelle](https://github.com/qwersyk/Newelle)
 
 Virtual assistant for Linux with support for local models
+
+支持本地模型的Linux虚拟助手

@@ -7,3 +7,5 @@ image: assets/steven2358_awesome-generative-ai_cropped.png
 # [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
 
 curated list of generative AI projects and resources
+
+精选的生成式 AI 项目和资源列表

@@ -7,3 +7,5 @@ image: assets/hybridgroup_yzma_20251216_192033_076_20251216_192112_5ec584.png
 # [hybridgroup/yzma](https://github.com/hybridgroup/yzma/)
 
 Integrate llama.cpp into Go applications
+
+将 llama.cpp 集成到 Go 应用中

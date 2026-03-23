@@ -7,3 +7,5 @@ image: assets/czlonkowski_n8n_mcp_20260304_195208_011_20260304_195351_d2dd8b.png
 # [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
 Server for access to n8n nodes via Model Context Protocol
+
+通过 Model Context Protocol 访问 n8n 节点的服务器

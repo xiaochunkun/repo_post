@@ -7,3 +7,5 @@ image: assets/20250907T200641517--basecamp--once-campfire--20250907T201008048--c
 # [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
 
 web-based chat app with rooms, DMs, file sharing, notifications
+
+基于 Web 的聊天应用，支持房间、私信、文件共享和通知

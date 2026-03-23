@@ -7,3 +7,5 @@ image: assets/yandex_cloud_geesefs_20251104_004226_733_20251104_183037_fa10b4--2
 # [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs/)
 
 High-performance POSIX-ish S3 file system
+
+高性能类POSIX的S3文件系统

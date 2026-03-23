@@ -7,3 +7,5 @@ image: assets/saifyxpro_actionxs_recorder_20260120_054158_716_20260120_054221_d6
 # [saifyxpro/actionxs-recorder](https://github.com/saifyxpro/actionxs-recorder)
 
 Converts web interactions into RPA automation workflows
+
+将 Web 交互转换为 RPA 自动化工作流

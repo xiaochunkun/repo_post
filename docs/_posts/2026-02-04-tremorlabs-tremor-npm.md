@@ -7,3 +7,5 @@ image: assets/tremorlabs_tremor_npm_20260203_005724_587_20260203_005744_95f89f.p
 # [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm)
 
 React components for charts and dashboards with Tailwind CSS
+
+使用Tailwind CSS的React图表和仪表板组件

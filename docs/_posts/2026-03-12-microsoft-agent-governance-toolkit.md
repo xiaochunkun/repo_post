@@ -7,3 +7,5 @@ image: assets/microsoft_agent_governance_toolkit_20260311_101906_843_20260311_10
 # [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)
 
 Security middleware for autonomous AI agents
+
+自主AI代理的安全中间件

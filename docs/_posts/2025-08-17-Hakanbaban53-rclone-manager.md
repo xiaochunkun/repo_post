@@ -7,3 +7,5 @@ image: assets/Hakanbaban53_rclone-manager--20250816T044836873--cropped.png
 # [Hakanbaban53/rclone-manager](https://github.com/Hakanbaban53/rclone-manager)
 
 cross-platform rclone GUI for managing cloud remotes
+
+跨平台rclone GUI，用于管理云远程存储

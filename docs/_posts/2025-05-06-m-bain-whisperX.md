@@ -7,3 +7,5 @@ image: assets/m-bain_whisperX_cropped.png
 # [m-bain/whisperX](https://github.com/m-bain/whisperX)
 
 WhisperX: speech recognition with word timestamps and speaker diarization
+
+WhisperX：具有单词时间戳和说话人识别的语音识别

@@ -7,3 +7,5 @@ image: assets/20250915T044731265--gauge-sh--tach--20250915T045015173--cropped.pn
 # [gauge-sh/tach](https://github.com/gauge-sh/tach)
 
 tool for enforcing Python dependencies and interfaces, inspired by modular monoliths
+
+用于强制 Python 依赖和接口的工具，灵感来自模块化单体架构

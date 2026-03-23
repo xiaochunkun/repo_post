@@ -7,3 +7,5 @@ image: assets/hoxxep_isitworththetime_20260115_225846_935_20260115_225900_46ae31
 # [hoxxep/isitworththetime](https://github.com/hoxxep/isitworththetime)
 
 Calculates automation value based on time savings
+
+基于时间节省计算自动化价值

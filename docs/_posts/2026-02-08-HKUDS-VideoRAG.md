@@ -7,3 +7,5 @@ image: assets/HKUDS_VideoRAG_20260207_000805_214_20260207_000837_3f59cb.png
 # [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG)
 
 Retrieves information from videos through natural language conversations
+
+通过自然语言对话从视频中检索信息

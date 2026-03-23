@@ -7,3 +7,5 @@ image: assets/Engineer1999_A-Curated-List-of-ML-System-Design-Case-Studies_cropp
 # [Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
 
 curated list of 300 real-world ML system design case studies
+
+精选的 300 个真实世界 ML 系统设计案例研究列表

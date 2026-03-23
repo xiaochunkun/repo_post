@@ -7,3 +7,5 @@ image: assets/mnh_jansson_open_battery_information_20260316_023942_805_20260316_
 # [mnh-jansson/open-battery-information](https://github.com/mnh-jansson/open-battery-information)
 
 Tools to reset battery management system faults
+
+重置电池管理系统故障的工具

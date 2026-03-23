@@ -7,3 +7,5 @@ image: assets/winapps-org_winapps_cropped.png
 # [winapps-org/winapps](https://github.com/winapps-org/winapps)
 
 Run Windows apps from a virtual machine directly on Linux desktops
+
+在Linux桌面上直接从虚拟机运行Windows应用

@@ -7,3 +7,5 @@ image: assets/AndyMik90_Auto_Claude_20260104_004634_354_20260104_004722_d0e2c0.p
 # [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude/)
 
 Multi-agent framework for software development
+
+软件开发的多智能体框架

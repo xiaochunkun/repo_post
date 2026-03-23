@@ -7,3 +7,5 @@ image: assets/chulwoo_park_timelines_20251222_142549_190_20251222_142605_2a9d2b.
 # [chulwoo-park/timelines](https://github.com/chulwoo-park/timelines/)
 
 Flutter package for building timelines
+
+构建时间线的Flutter包

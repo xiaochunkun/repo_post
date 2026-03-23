@@ -7,3 +7,5 @@ image: assets/greatscottgadgets_hackrf_20251110_132131_407_20251110_141059_56b4a
 # [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf/)
 
 Open source software defined radio platform
+
+开源软件定义无线电平台

@@ -7,3 +7,5 @@ image: assets/the_momentum_open_wearables_20260308_171050_103_20260308_171239_e4
 # [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables)
 
 Unifies wearable device data through one API
+
+通过单一API统一可穿戴设备数据

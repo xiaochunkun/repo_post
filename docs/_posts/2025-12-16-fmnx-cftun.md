@@ -7,3 +7,5 @@ image: assets/fmnx_cftun_20251213_133518_109_20251213_133542_197fa8.png
 # [fmnx/cftun](https://github.com/fmnx/cftun/)
 
 Connects private networks via Cloudflare Argo Tunnel
+
+通过Cloudflare Argo Tunnel连接私有网络

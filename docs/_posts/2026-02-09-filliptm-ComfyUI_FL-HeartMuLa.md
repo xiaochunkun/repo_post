@@ -7,3 +7,5 @@ image: assets/filliptm_ComfyUI_FL_HeartMuLa_20260204_041157_395_20260204_041213_
 # [filliptm/ComfyUI_FL-HeartMuLa](https://github.com/filliptm/ComfyUI_FL-HeartMuLa)
 
 Generates songs with lyrics in ComfyUI
+
+在ComfyUI中生成带歌词的歌曲

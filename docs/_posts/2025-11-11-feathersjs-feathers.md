@@ -7,3 +7,5 @@ image: assets/feathersjs_feathers_20251110_141529_575_20251110_144242_9d4a1b--20
 # [feathersjs/feathers](https://github.com/feathersjs/feathers/)
 
 Framework for real-time applications and web APIs
+
+实时应用和Web API的框架

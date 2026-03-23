@@ -7,3 +7,5 @@ image: assets/teamclouday_AndroidMic_20260222_060450_770_20260222_060526_01fc47.
 # [teamclouday/AndroidMic](https://github.com/teamclouday/AndroidMic)
 
 Turns an Android phone into a PC microphone
+
+将Android手机变为PC麦克风

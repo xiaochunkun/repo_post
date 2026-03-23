@@ -7,3 +7,5 @@ image: assets/jonigl_mcp_client_for_ollama_20260319_020040_193_20260319_020423_c
 # [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)
 
 Python client for local LLM tool use
+
+用于本地 LLM 工具使用的 Python 客户端

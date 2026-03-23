@@ -7,3 +7,5 @@ image: assets/PacktPublishing_LLM-Engineers-Handbook--20250905T033333082--croppe
 # [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 
 LLM engineering handbook with code, pipelines, and AWS deployment tips
+
+LLM 工程手册，包含代码、流水线和 AWS 部署技巧

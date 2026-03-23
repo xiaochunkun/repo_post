@@ -7,3 +7,5 @@ image: assets/executeautomation_mcp_playwright_20260318_044248_437_20260318_0444
 # [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 
 Browser automation for LLMs
+
+LLM的浏览器自动化

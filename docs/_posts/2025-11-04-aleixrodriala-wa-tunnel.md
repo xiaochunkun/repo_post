@@ -7,3 +7,5 @@ image: assets/aleixrodriala_wa_tunnel_20251102_223835_049_20251103_211716_c03be5
 # [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel/)
 
 Tunnel internet traffic through WhatsApp
+
+通过WhatsApp隧道传输网络流量

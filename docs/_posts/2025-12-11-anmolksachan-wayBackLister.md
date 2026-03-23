@@ -7,3 +7,5 @@ image: assets/anmolksachan_wayBackLister_20251209_012348_091_20251209_012422_5e5
 # [anmolksachan/wayBackLister](https://github.com/anmolksachan/wayBackLister/)
 
 Detects directory listings using Wayback Machine
+
+使用Wayback Machine检测目录列表

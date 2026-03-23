@@ -7,3 +7,5 @@ image: assets/adrianhajdin_signalist_stock_tracker_app_20260112_053740_747_20260
 # [adrianhajdin/signalist_stock-tracker-app](https://github.com/adrianhajdin/signalist_stock-tracker-app)
 
 Stock tracker with automated alerts and AI insights
+
+带自动警报和 AI 洞察的股票追踪器

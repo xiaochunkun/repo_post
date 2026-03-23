@@ -7,3 +7,5 @@ image: assets/shashikg_WhisperS2T_20260321_223556_103_20260321_223701_29e355.png
 # [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T)
 
 Whisper speech-to-text pipeline with 2.3X speed boost
+
+Whisper语音转文本流水线，速度提升2.3倍

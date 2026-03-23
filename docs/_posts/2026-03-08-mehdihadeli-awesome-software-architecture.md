@@ -7,3 +7,5 @@ image: assets/mehdihadeli_awesome_software_architecture_20260301_215917_696_2026
 # [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 
 Resources for software architecture and patterns
+
+软件架构和模式的资源

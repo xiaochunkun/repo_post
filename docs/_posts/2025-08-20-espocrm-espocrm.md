@@ -7,3 +7,5 @@ image: assets/20250818T123743420_espocrm_espocrm--20250818T124321473--cropped.pn
 # [espocrm/espocrm](https://github.com/espocrm/espocrm)
 
 open source CRM for managing contacts, sales, and business info
+
+管理联系人、销售和业务信息的开源 CRM

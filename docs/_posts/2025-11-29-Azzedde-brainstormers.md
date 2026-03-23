@@ -7,3 +7,5 @@ image: assets/Azzedde_brainstormers_20251126_003537_344_20251128_214126_da2502--
 # [Azzedde/brainstormers](https://github.com/Azzedde/brainstormers/)
 
 AI agents for structured brainstorming methods
+
+用于结构化头脑风暴方法的AI代理

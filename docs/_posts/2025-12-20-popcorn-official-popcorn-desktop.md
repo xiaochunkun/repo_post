@@ -7,3 +7,5 @@ image: assets/popcorn_official_popcorn_desktop_20251218_054809_292_20251218_0548
 # [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop/)
 
 Streams movies and shows via torrents
+
+通过种子流式传输电影和节目

@@ -7,3 +7,5 @@ image: assets/variadico_noti_20251029_213759_046_20251029_213836_10c962--2025102
 # [variadico/noti](https://github.com/variadico/noti/)
 
 Sends a notification when a process finishes
+
+进程完成时发送通知

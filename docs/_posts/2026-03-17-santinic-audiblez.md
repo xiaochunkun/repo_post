@@ -7,3 +7,5 @@ image: assets/santinic_audiblez_20260317_162524_729_20260317_162631_3a1bcc.png
 # [santinic/audiblez](https://github.com/santinic/audiblez)
 
 Generates audiobooks with GUI and CUDA support
+
+生成有声读物，支持 GUI 和 CUDA

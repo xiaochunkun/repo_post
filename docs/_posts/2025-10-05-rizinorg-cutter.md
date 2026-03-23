@@ -7,3 +7,5 @@ image: assets/20251005T003408008--rizinorg--cutter--20251005T004054621--cropped.
 # [rizinorg/cutter](https://github.com/rizinorg/cutter)
 
 reverse engineering platform with GUI, powered by rizin
+
+基于 rizin 的逆向工程平台，带 GUI

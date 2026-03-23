@@ -7,3 +7,5 @@ image: assets/joewalnes_websocketd_20251125_231814_580_20251128_212513_7223b2--2
 # [joewalnes/websocketd](https://github.com/joewalnes/websocketd/)
 
 Turns STDIN/STDOUT programs into WebSocket servers
+
+将 STDIN/STDOUT 程序转换为 WebSocket 服务器

@@ -7,3 +7,5 @@ image: assets/DangJin_pdf2video_20260131_154111_107_20260131_154206_0d4886.png
 # [DangJin/pdf2video](https://github.com/DangJin/pdf2video)
 
 Converts PDF documents into video presentations
+
+将 PDF 文档转换为视频演示

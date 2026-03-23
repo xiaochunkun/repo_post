@@ -7,3 +7,5 @@ image: assets/0xdesign_design_plugin_20260318_160558_864_20260318_160716_f395fe.
 # [0xdesign/design-plugin](https://github.com/0xdesign/design-plugin)
 
 Generates real UI code variations
+
+生成真实的UI代码变体

@@ -7,3 +7,5 @@ image: assets/grafana_pyroscope_cropped.png
 # [grafana/pyroscope](https://github.com/grafana/pyroscope)
 
 continuous profiling for apps, integrates with Grafana
+
+应用的持续性能分析，与 Grafana 集成

@@ -7,3 +7,5 @@ image: assets/spatie_laravel_backup_20251230_233459_635_20251230_233520_4b7cfc.p
 # [spatie/laravel-backup](https://github.com/spatie/laravel-backup/)
 
 Backs up files and databases to multiple filesystems
+
+将文件和数据库备份到多个文件系统

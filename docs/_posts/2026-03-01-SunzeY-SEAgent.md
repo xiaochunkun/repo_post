@@ -7,3 +7,5 @@ image: assets/SunzeY_SEAgent_20260228_131815_398_20260228_131956_ccbc9f.png
 # [SunzeY/SEAgent](https://github.com/SunzeY/SEAgent)
 
 Agent learns computer use through experience
+
+代理通过经验学习计算机使用

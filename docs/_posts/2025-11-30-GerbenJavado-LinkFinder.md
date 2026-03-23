@@ -7,3 +7,5 @@ image: assets/GerbenJavado_LinkFinder_20251127_172622_783_20251129_023123_23220c
 # [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder/)
 
 Discovers endpoints and parameters in JavaScript files
+
+在 JavaScript 文件中发现端点和参数

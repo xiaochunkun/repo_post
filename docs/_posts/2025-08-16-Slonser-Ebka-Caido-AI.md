@@ -7,3 +7,5 @@ image: assets/20250816T004657813_Slonser_Ebka-Caido-AI--20250816T004842409--crop
 # [Slonser/Ebka-Caido-AI](https://github.com/Slonser/Ebka-Caido-AI)
 
 AI assistant for Caido web security testing
+
+用于Caido网络安全测试的AI助手

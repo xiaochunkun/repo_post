@@ -7,3 +7,5 @@ image: assets/michaelelizarov_linkedin_osint_toolkit_20260217_042909_823_2026021
 # [michaelelizarov/linkedin-osint-toolkit](https://github.com/michaelelizarov/linkedin-osint-toolkit)
 
 Maps company hierarchies from LinkedIn data
+
+从LinkedIn数据映射公司层级结构

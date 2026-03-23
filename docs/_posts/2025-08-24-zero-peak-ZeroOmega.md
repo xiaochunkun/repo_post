@@ -7,3 +7,5 @@ image: assets/20250822T025934429--zero-peak--ZeroOmega--20250822T030507711--crop
 # [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)
 
 proxy manager extension for Chrome and Firefox
+
+Chrome 和 Firefox 的代理管理扩展

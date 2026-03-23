@@ -7,3 +7,5 @@ image: assets/20250915T234355198--SeleniumHQ--selenium--20250915T235612685--crop
 # [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
 
 automates browsers for testing and web tasks
+
+自动化浏览器进行测试和网页任务

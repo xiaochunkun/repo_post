@@ -7,3 +7,5 @@ image: assets/20251014T005707550--splx-ai--agentic-radar--20251014T011637223--cr
 # [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar)
 
 scans agentic AI workflows for vulnerabilities and visualizes system interactions
+
+扫描 agentic AI 工作流中的漏洞并可视化系统交互

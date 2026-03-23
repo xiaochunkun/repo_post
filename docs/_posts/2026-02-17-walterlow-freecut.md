@@ -7,3 +7,5 @@ image: assets/walterlow_freecut_20260216_185016_308_20260216_185105_0c6e35.png
 # [walterlow/freecut](https://github.com/walterlow/freecut)
 
 Video editor in a browser
+
+浏览器中的视频编辑器

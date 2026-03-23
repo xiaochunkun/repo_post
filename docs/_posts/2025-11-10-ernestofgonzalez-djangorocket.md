@@ -7,3 +7,5 @@ image: assets/ernestofgonzalez_djangorocket_20251109_181353_516_20251109_184736_
 # [ernestofgonzalez/djangorocket](https://github.com/ernestofgonzalez/djangorocket/)
 
 Django SaaS boilerplate with Stripe and Tailwind CSS
+
+集成Stripe和Tailwind CSS的Django SaaS模板

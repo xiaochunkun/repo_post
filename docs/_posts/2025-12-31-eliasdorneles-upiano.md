@@ -7,3 +7,5 @@ image: assets/eliasdorneles_upiano_20251230_064530_942_20251230_064548_92776c.pn
 # [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano/)
 
 Piano in the terminal
+
+终端中的钢琴

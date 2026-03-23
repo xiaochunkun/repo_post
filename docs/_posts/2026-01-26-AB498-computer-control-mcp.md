@@ -7,3 +7,5 @@ image: assets/AB498_computer_control_mcp_20260114_053442_680_20260114_053456_039
 # [AB498/computer-control-mcp](https://github.com/AB498/computer-control-mcp)
 
 MCP server for computer control via Python libraries
+
+Python库计算机控制MCP服务器

@@ -7,3 +7,5 @@ image: assets/adrianhajdin_healthcare_20260116_152425_831_20260116_152443_11bebc
 # [adrianhajdin/healthcare](https://github.com/adrianhajdin/healthcare)
 
 Healthcare platform with appointment scheduling and SMS notifications
+
+支持预约安排和短信通知的医疗平台

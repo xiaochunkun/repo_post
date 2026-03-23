@@ -7,3 +7,5 @@ image: assets/BrandeisPatrick_blank_space_20251130_062458_093_20251130_084456_4c
 # [BrandeisPatrick/blank-space](https://github.com/BrandeisPatrick/blank-space/)
 
 Open source AI app builder
+
+开源 AI 应用构建器

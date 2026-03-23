@@ -7,3 +7,5 @@ image: assets/jonesphillip_weft_20260112_150935_552_20260112_150949_4a4a57.png
 # [jonesphillip/weft](https://github.com/jonesphillip/weft)
 
 Task board with agents for automation
+
+带代理自动化的任务看板

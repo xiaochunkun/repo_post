@@ -7,3 +7,5 @@ image: assets/20251010T205650909--launch-ui--launch-ui--20251010T210957887--crop
 # [launch-ui/launch-ui](https://github.com/launch-ui/launch-ui)
 
 Next.js template with Shadcn UI and Tailwind for fast, responsive sites
+
+使用 Shadcn UI 和 Tailwind 的 Next.js 模板，用于快速构建响应式网站

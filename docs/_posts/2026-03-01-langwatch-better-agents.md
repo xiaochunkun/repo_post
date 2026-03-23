@@ -7,3 +7,5 @@ image: assets/langwatch_better_agents_20260227_124007_888_20260227_124145_b46b6d
 # [langwatch/better-agents](https://github.com/langwatch/better-agents)
 
 CLI tool for agent project structure and standards
+
+用于代理项目结构和标准的 CLI 工具

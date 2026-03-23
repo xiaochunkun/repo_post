@@ -7,3 +7,5 @@ image: assets/bowang_lab_MedRAX_20251031_080034_663_20251101_210838_7f5085--2025
 # [bowang-lab/MedRAX](https://github.com/bowang-lab/MedRAX/)
 
 Multi-agent framework for chest X-ray interpretation
+
+用于胸部 X 光解读的多智能体框架

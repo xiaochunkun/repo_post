@@ -7,3 +7,5 @@ image: assets/sezanzeb_input_remapper_20260209_024637_990_20260209_024736_d1870d
 # [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper)
 
 Maps input devices to macros and actions on Linux systems
+
+在 Linux 系统上将输入设备映射到宏和操作

@@ -7,3 +7,5 @@ image: assets/20251010T211719579--context-labs--mactop--20251010T212524589--crop
 # [context-labs/mactop](https://github.com/context-labs/mactop)
 
 terminal monitor for Apple Silicon CPU/GPU metrics and power consumption
+
+终端监控器，用于 Apple Silicon CPU/GPU 指标和功耗

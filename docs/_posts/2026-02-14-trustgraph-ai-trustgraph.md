@@ -7,3 +7,5 @@ image: assets/trustgraph_ai_trustgraph_20260210_030753_894_20260210_030811_ad7fd
 # [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph)
 
 Context harness for AI agents
+
+AI 代理的上下文管理工具

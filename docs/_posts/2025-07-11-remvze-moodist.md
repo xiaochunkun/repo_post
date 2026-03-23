@@ -7,3 +7,5 @@ image: assets/remvze_moodist_cropped.png
 # [remvze/moodist](https://github.com/remvze/moodist)
 
 ambient sounds for focus and calm
+
+用于专注和放松的环境音效

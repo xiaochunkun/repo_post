@@ -7,3 +7,5 @@ image: assets/cruip_laravel_tailwindcss_admin_dashboard_template_20260120_070215
 # [cruip/laravel-tailwindcss-admin-dashboard-template](https://github.com/cruip/laravel-tailwindcss-admin-dashboard-template)
 
 Admin dashboard template with Tailwind CSS and Laravel Jetstream
+
+带有 Tailwind CSS 和 Laravel Jetstream 的管理仪表板模板

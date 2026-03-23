@@ -7,3 +7,5 @@ image: assets/mustbeperfect_definitive_opensource_20260208_045759_355_20260208_0
 # [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource)
 
 Curated list of consumer software
+
+消费级软件的精选列表

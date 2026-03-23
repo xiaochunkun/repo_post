@@ -7,3 +7,5 @@ image: assets/Nixtla_nixtla_20260203_003051_530_20260203_003113_ed37f1.png
 # [Nixtla/nixtla](https://github.com/Nixtla/nixtla)
 
 Foundation model for forecasting and anomaly detection
+
+用于预测和异常检测的基础模型

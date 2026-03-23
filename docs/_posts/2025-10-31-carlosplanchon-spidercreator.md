@@ -7,3 +7,5 @@ image: assets/carlosplanchon_spidercreator_20251030_214242_836_20251030_222053_5
 # [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator/)
 
 Automate web scraping spider creation with LLMs
+
+使用 LLMs 自动化创建网络爬虫

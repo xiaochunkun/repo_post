@@ -7,3 +7,5 @@ image: assets/20250906T222928196--nizos--tdd-guard--20250906T223224983--cropped.
 # [nizos/tdd-guard](https://github.com/nizos/tdd-guard)
 
 enforces TDD for Claude Code and blocks skipping tests
+
+为 Claude Code 强制执行 TDD，禁止跳过测试

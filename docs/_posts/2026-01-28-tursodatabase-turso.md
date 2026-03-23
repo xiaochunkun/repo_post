@@ -7,3 +7,5 @@ image: assets/tursodatabase_turso_20260122_001220_992_20260122_001236_8e04f8.png
 # [tursodatabase/turso](https://github.com/tursodatabase/turso)
 
 In-process SQL database compatible with SQLite
+
+兼容SQLite的进程内SQL数据库

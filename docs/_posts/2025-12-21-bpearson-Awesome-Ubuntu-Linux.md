@@ -7,3 +7,5 @@ image: assets/bpearson_Awesome_Ubuntu_Linux_20251219_153536_409_20251219_153554_
 # [bpearson/Awesome-Ubuntu-Linux](https://github.com/bpearson/Awesome-Ubuntu-Linux/)
 
 Lists applications and tools for Linux users
+
+Linux 用户的应用与工具列表

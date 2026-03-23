@@ -7,3 +7,5 @@ image: assets/newcat_baklavajs_20260223_090553_671_20260223_090607_458247.png
 # [newcat/baklavajs](https://github.com/newcat/baklavajs)
 
 Graph and node editor for the browser using VueJS
+
+使用VueJS的浏览器图形和节点编辑器

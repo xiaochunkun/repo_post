@@ -7,3 +7,5 @@ image: assets/sst_openauth_20251119_222644_689_20251120_003632_0ce670--20251120T
 # [sst/openauth](https://github.com/sst/openauth/)
 
 Self-hosted auth provider for web apps
+
+Web应用自托管认证提供商

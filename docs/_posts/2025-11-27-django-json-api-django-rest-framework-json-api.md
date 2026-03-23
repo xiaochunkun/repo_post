@@ -7,3 +7,5 @@ image: assets/django_json_api_django_rest_framework_json_api_20251125_005747_605
 # [django-json-api/django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api/)
 
 Implements JSON:API specification for Django REST framework
+
+为 Django REST framework 实现 JSON:API 规范

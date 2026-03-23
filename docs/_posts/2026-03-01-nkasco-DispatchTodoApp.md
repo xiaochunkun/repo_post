@@ -7,3 +7,5 @@ image: assets/nkasco_DispatchTodoApp_20260225_022951_349_20260225_023122_a4298a.
 # [nkasco/DispatchTodoApp](https://github.com/nkasco/DispatchTodoApp)
 
 Self-hosted task app with SQLite persistence and keyboard-centric workflow
+
+自托管任务应用，支持 SQLite 持久化和键盘中心工作流

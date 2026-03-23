@@ -7,3 +7,5 @@ image: assets/chrisvel_tududi_20260129_011340_141_20260129_011418_46f9da.png
 # [chrisvel/tududi](https://github.com/chrisvel/tududi)
 
 Self-hosted task management with Telegram integration
+
+集成Telegram的自托管任务管理

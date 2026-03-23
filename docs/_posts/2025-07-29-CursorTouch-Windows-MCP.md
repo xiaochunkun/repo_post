@@ -7,3 +7,5 @@ image: assets/CursorTouch_Windows-MCP_cropped.png
 # [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
 
 lets AI automate Windows apps and UI
+
+让 AI 自动化 Windows 应用和 UI

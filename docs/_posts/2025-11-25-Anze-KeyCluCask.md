@@ -7,3 +7,5 @@ image: assets/Anze_KeyCluCask_20251123_192409_277_20251125_011637_f14c0f--202511
 # [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask/)
 
 Overview of application shortcuts for macOS
+
+macOS 应用快捷键概览

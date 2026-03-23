@@ -7,3 +7,5 @@ image: assets/20250818T121013817_tremorlabs_tremor-npm--20250818T121434661--crop
 # [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm)
 
 React components for building dashboards and charts
+
+用于构建仪表盘和图表的 React 组件库

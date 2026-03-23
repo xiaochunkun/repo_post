@@ -7,3 +7,5 @@ image: assets/ORB_HD_deface_20251120_005440_234_20251120_010945_780731--20251120
 # [ORB-HD/deface](https://github.com/ORB-HD/deface/)
 
 Anonymizes videos by detecting faces
+
+人脸检测视频匿名化

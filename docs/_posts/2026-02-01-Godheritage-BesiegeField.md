@@ -7,3 +7,5 @@ image: assets/Godheritage_BesiegeField_20260112_001958_248_20260112_002013_17f10
 # [Godheritage/BesiegeField](https://github.com/Godheritage/BesiegeField)
 
 LLMs design machines in Besiege physics environment
+
+LLMs 在 Besiege 物理环境中设计机器

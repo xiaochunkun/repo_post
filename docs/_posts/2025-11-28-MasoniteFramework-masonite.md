@@ -7,3 +7,5 @@ image: assets/MasoniteFramework_masonite_20251125_051620_119_20251127_170615_d76
 # [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite/)
 
 Developer-centric Python web framework
+
+以开发者为中心的 Python Web 框架

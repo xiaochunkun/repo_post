@@ -7,3 +7,5 @@ image: assets/knuckleswtf_scribe_20251207_223128_143_20251207_223149_6d2233.png
 # [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe/)
 
 Generates API documentation from Laravel codebases
+
+从 Laravel 代码库生成 API 文档

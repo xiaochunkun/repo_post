@@ -7,3 +7,5 @@ image: assets/langchain_ai_openwork_20260227_205215_602_20260227_205353_342cb2.p
 # [langchain-ai/openwork](https://github.com/langchain-ai/openwork)
 
 Desktop interface for agents with filesystem access
+
+具有文件系统访问权限的代理桌面界面

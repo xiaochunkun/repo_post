@@ -7,3 +7,5 @@ image: assets/20250912T195814817--nicbarker--clay--20250912T200009091--cropped.p
 # [nicbarker/clay](https://github.com/nicbarker/clay)
 
 2D UI layout library in C with flexbox-like model and microsecond performance
+
+C 语言 2D UI 布局库，类 flexbox 模型，微秒级性能

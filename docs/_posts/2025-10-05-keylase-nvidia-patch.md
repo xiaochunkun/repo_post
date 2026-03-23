@@ -7,3 +7,5 @@ image: assets/20251005T101350336--keylase--nvidia-patch--20251005T102220230--cro
 # [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch)
 
 lets you unlock NVENC session limits and NvFBC on Nvidia consumer GPUs
+
+解锁NVIDIA消费级GPU上的NVENC会话限制和NvFBC

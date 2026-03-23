@@ -7,3 +7,5 @@ image: assets/devnullvoid_pvetui_20251202_200058_199_20251202_200251_d79f5a.png
 # [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui/)
 
 Terminal user interface for Proxmox Virtual Environment
+
+Proxmox Virtual Environment的终端用户界面

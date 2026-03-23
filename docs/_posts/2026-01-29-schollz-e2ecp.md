@@ -7,3 +7,5 @@ image: assets/schollz_e2ecp_20260122_022442_515_20260122_022505_97fda2.png
 # [schollz/e2ecp](https://github.com/schollz/e2ecp)
 
 Transfers files between machines with end-to-end encryption
+
+使用端到端加密在机器间传输文件

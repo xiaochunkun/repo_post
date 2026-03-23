@@ -7,3 +7,5 @@ image: assets/kmaasrud_awesome_obsidian_20260306_000838_715_20260306_001008_a943
 # [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
 
 Curates themes and plugins for Obsidian
+
+整理Obsidian的主题和插件

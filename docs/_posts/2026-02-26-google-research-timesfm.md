@@ -7,3 +7,5 @@ image: assets/google_research_timesfm_20260224_122225_689_20260224_122307_8d443e
 # [google-research/timesfm](https://github.com/google-research/timesfm)
 
 Foundation model for time-series forecasting
+
+时间序列预测的基础模型

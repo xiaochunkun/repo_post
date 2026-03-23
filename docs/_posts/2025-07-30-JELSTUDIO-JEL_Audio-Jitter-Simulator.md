@@ -7,3 +7,5 @@ image: assets/JELSTUDIO_JEL_Audio-Jitter-Simulator_cropped.png
 # [JELSTUDIO/JEL_Audio-Jitter-Simulator](https://github.com/JELSTUDIO/JEL_Audio-Jitter-Simulator)
 
 simulate audio jitter on files for testing or creative use
+
+在文件上模拟音频抖动，用于测试或创意用途

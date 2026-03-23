@@ -7,3 +7,5 @@ image: assets/psviderski_uncloud_cropped.png
 # [psviderski/uncloud](https://github.com/psviderski/uncloud)
 
 deploy and run containers on multiple servers with a single tool
+
+使用单一工具在多个服务器上部署和运行容器

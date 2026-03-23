@@ -7,3 +7,5 @@ image: assets/Dorniwang_UniVerse_1_code_20251217_082028_985_20251217_082051_9fd1
 # [Dorniwang/UniVerse-1-code](https://github.com/Dorniwang/UniVerse-1-code/)
 
 Generates synchronized audio and video from image and text
+
+从图像和文本生成同步音频和视频

@@ -7,3 +7,5 @@ image: assets/20250818T095807103_souzatharsis_podcastfy--20250820T130029188--cro
 # [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy)
 
 turns text, images, and videos into AI-generated podcasts
+
+将文本、图像和视频转换为 AI 生成的播客

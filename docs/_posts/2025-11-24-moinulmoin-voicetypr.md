@@ -7,3 +7,5 @@ image: assets/moinulmoin_voicetypr_20251123_174706_173_20251124_095400_97acce--2
 # [moinulmoin/voicetypr](https://github.com/moinulmoin/voicetypr/)
 
 Open source offline AI voice dictation
+
+开源离线 AI 语音听写

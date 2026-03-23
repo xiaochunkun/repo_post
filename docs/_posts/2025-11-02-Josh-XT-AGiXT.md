@@ -7,3 +7,5 @@ image: assets/Josh_XT_AGiXT_20251031_133232_556_20251101_204837_7c7c31--20251101
 # [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT/)
 
 AI automation platform with 40+ extensions and multi-provider support
+
+具有 40 多个扩展和多提供商支持的 AI 自动化平台

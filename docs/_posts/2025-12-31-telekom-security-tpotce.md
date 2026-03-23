@@ -7,3 +7,5 @@ image: assets/telekom_security_tpotce_20251230_050858_961_20251230_050932_837fe8
 # [telekom-security/tpotce](https://github.com/telekom-security/tpotce/)
 
 Honeypot platform with attack maps and visualization tools
+
+带攻击地图和可视化工具的蜜罐平台

@@ -7,3 +7,5 @@ image: assets/nicolargo_glances_cropped.png
 # [nicolargo/glances](https://github.com/nicolargo/glances)
 
 real-time system monitoring with web and CLI
+
+实时系统监控，支持Web和CLI

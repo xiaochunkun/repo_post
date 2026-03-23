@@ -7,3 +7,5 @@ image: assets/aldinokemal_go_whatsapp_web_multidevice_20260209_043530_373_202602
 # [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)
 
 WhatsApp REST API with multi-account support and MCP
+
+支持多账户和MCP的WhatsApp REST API

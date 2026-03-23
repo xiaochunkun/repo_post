@@ -7,3 +7,5 @@ image: assets/Tencent_tgfx_20251201_033126_912_20251201_033150_fe1b41.png
 # [Tencent/tgfx](https://github.com/Tencent/tgfx/)
 
 Lightweight 2D graphics library for modern GPUs
+
+面向现代 GPU 的轻量级 2D 图形库

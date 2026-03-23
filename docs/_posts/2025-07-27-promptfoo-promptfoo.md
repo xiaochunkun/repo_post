@@ -7,3 +7,5 @@ image: assets/promptfoo_promptfoo_cropped.png
 # [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 
 test and compare LLM prompts and models locally
+
+本地测试和比较 LLM 提示和模型

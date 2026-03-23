@@ -7,3 +7,5 @@ image: assets/dfaker_WebmGenerator_20260104_012200_684_20260104_012216_924736.pn
 # [dfaker/WebmGenerator](https://github.com/dfaker/WebmGenerator/)
 
 Cuts and filters video clips with realtime effects
+
+实时效果剪辑和过滤视频片段

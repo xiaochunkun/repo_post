@@ -7,3 +7,5 @@ image: assets/PlakarKorp_plakar_20260204_082312_800_20260204_082330_a5a499.png
 # [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)
 
 Backup solution with deduplication and encryption
+
+具有去重和加密功能的备份解决方案

@@ -7,3 +7,5 @@ image: assets/shibaFoss_AIO_Video_Downloader_20251231_163523_474_20251231_163540
 # [shibaFoss/AIO-Video-Downloader](https://github.com/shibaFoss/AIO-Video-Downloader/)
 
 Downloads video and audio from websites via yt-dlp
+
+通过yt-dlp从网站下载视频和音频

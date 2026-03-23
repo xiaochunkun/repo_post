@@ -7,3 +7,5 @@ image: assets/20250911T164837113--liujuntao123--smart-mermaid--20250911T17064892
 # [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid)
 
 AI turns your text into real-time Mermaid charts and diagrams
+
+AI 将文本实时转换为 Mermaid 图表和流程图

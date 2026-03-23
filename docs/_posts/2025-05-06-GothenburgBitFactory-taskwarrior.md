@@ -7,3 +7,5 @@ image: assets/GothenburgBitFactory_taskwarrior_cropped.png
 # [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 
 Command-line tool for managing task lists
+
+用于管理任务列表的命令行工具

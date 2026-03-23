@@ -7,3 +7,5 @@ image: assets/taniarascia_takenote_20260103_233759_563_20260103_233815_767910.pn
 # [taniarascia/takenote](https://github.com/taniarascia/takenote/)
 
 Notes app for developers with markdown preview and syntax highlighting
+
+开发者笔记应用，支持Markdown预览和语法高亮

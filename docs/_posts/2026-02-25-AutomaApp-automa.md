@@ -7,3 +7,5 @@ image: assets/AutomaApp_automa_20260223_134810_542_20260223_134831_0d2afb.png
 # [AutomaApp/automa](https://github.com/AutomaApp/automa)
 
 Automates browser tasks by connecting blocks
+
+通过连接块自动化浏览器任务

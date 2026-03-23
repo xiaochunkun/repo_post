@@ -7,3 +7,5 @@ image: assets/stackblitz_labs_bolt_diy_20260209_175630_521_20260209_175702_55487
 # [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
 
 Full-stack application editor with support for multiple models
+
+支持多种模型的全栈应用编辑器

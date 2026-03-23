@@ -7,3 +7,5 @@ image: assets/yashab_cyber_HackGpt_20251107_175439_834_20251107_215925_af4140--2
 # [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt/)
 
 Penetration testing platform using multiple AI models
+
+使用多种AI模型的渗透测试平台

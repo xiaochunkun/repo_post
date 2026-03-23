@@ -7,3 +7,5 @@ image: assets/aaron777collins_ZeroTier_GUI_Arch_20251223_125017_761_20251223_125
 # [aaron777collins/ZeroTier-GUI-Arch](https://github.com/aaron777collins/ZeroTier-GUI-Arch/)
 
 Linux frontend for ZeroTier network management
+
+ZeroTier网络管理的Linux前端

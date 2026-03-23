@@ -7,3 +7,5 @@ image: assets/RVC-Boss_GPT-SoVITS_cropped.png
 # [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
 AI voice cloning and text-to-speech with quick voice samples
+
+AI语音克隆和文本转语音，支持快速语音样本

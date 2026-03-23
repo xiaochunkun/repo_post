@@ -7,3 +7,5 @@ image: assets/20250831T003430345--florinpop17--app-ideas--20250831T005559604--cr
 # [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 
 list of coding project ideas for all levels
+
+各级别编程项目创意列表

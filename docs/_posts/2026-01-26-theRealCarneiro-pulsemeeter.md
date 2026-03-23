@@ -7,3 +7,5 @@ image: assets/theRealCarneiro_pulsemeeter_20260111_062402_432_20260111_062415_b7
 # [theRealCarneiro/pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter)
 
 Audio mixer for pulseaudio and pipewire
+
+用于 pulseaudio 和 pipewire 的音频混音器

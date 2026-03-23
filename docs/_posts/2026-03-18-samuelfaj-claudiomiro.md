@@ -7,3 +7,5 @@ image: assets/samuelfaj_claudiomiro_20260318_124747_540_20260318_124834_1fd06e.p
 # [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro)
 
 Autonomous AI agent decomposes and executes tasks in parallel
+
+自主AI Agent并行分解和执行任务

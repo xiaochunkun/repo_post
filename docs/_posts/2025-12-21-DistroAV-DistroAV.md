@@ -7,3 +7,5 @@ image: assets/DistroAV_DistroAV_20251219_023957_732_20251219_024016_2fed62.png
 # [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV/)
 
 Transmits audio and video over networks in OBS Studio via NDI technology
+
+通过 NDI 技术在 OBS Studio 中传输网络音视频

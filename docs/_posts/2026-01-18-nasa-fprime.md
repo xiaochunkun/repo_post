@@ -7,3 +7,5 @@ image: assets/nasa_fprime_20260116_105227_926_20260116_105243_b8b9e3.png
 # [nasa/fprime](https://github.com/nasa/fprime)
 
 Framework for flight software development
+
+飞行软件开发框架

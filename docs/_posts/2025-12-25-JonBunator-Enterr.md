@@ -7,3 +7,5 @@ image: assets/JonBunator_Enterr_20251224_120610_176_20251224_120628_27b802.png
 # [JonBunator/Enterr](https://github.com/JonBunator/Enterr/)
 
 Automates website logins to prevent account deletion from inactivity
+
+自动化网站登录以防止因不活动而删除账户

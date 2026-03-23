@@ -7,3 +7,5 @@ image: assets/dessant_buster_20260204_042934_992_20260204_042955_074984.png
 # [dessant/buster](https://github.com/dessant/buster)
 
 Solves captchas using speech recognition
+
+使用语音识别解决验证码

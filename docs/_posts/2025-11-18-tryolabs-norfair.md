@@ -7,3 +7,5 @@ image: assets/tryolabs_norfair_20251118_032320_013_20251118_035203_ffe416--20251
 # [tryolabs/norfair](https://github.com/tryolabs/norfair/)
 
 Adds tracking capabilities to any object detector
+
+为任何对象检测器添加跟踪功能

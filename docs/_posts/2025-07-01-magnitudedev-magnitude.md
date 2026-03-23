@@ -7,3 +7,5 @@ image: assets/magnitudedev_magnitude_cropped.png
 # [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 
 AI testing framework for web apps
+
+用于Web应用的AI测试框架

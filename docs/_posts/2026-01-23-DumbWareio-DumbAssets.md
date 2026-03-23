@@ -7,3 +7,5 @@ image: assets/DumbWareio_DumbAssets_20260122_012534_601_20260122_012556_f887ab.p
 # [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets)
 
 Tracks physical assets and maintenance schedules
+
+跟踪物理资产和维护计划

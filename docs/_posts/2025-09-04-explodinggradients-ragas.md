@@ -7,3 +7,5 @@ image: assets/20250903T031448627--explodinggradients--ragas--20250903T035322502-
 # [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
 
 toolkit for evaluating and optimizing LLM and RAG apps
+
+评估和优化 LLM 及 RAG 应用的工具包

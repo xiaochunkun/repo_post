@@ -7,3 +7,5 @@ image: assets/SawyerHood_dev_browser_20260210_003554_160_20260210_003610_b99a46.
 # [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser)
 
 Claude Code plugin for browser automation and testing
+
+用于浏览器自动化和测试的Claude Code插件

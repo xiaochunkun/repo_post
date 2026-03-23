@@ -7,3 +7,5 @@ image: assets/jaw9c_awesome-remote-mcp-servers_cropped.png
 # [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers)
 
 list of remote MCP servers
+
+远程MCP服务器列表

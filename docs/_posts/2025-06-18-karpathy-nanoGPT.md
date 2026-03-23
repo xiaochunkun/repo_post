@@ -7,3 +7,5 @@ image: assets/karpathy_nanoGPT_cropped.png
 # [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 
 Code for training and fine-tuning GPT language models
+
+用于训练和微调GPT语言模型的代码

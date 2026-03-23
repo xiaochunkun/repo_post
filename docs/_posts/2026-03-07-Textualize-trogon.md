@@ -7,3 +7,5 @@ image: assets/Textualize_trogon_20260225_024136_013_20260225_024312_098bdf.png
 # [Textualize/trogon](https://github.com/Textualize/trogon)
 
 Generates terminal interfaces for command line apps
+
+为命令行应用生成终端界面

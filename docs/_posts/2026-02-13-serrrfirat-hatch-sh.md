@@ -7,3 +7,5 @@ image: assets/serrrfirat_hatch_sh_20260211_024053_652_20260211_024109_2ce08e.png
 # [serrrfirat/hatch-sh](https://github.com/serrrfirat/hatch-sh)
 
 Builds products from ideas with AI agents
+
+使用 AI 智能体从想法构建产品

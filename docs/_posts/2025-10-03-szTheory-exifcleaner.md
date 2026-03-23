@@ -7,3 +7,5 @@ image: assets/20251001T205754880--szTheory--exifcleaner--20251001T210810012--cro
 # [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner)
 
 removes metadata from images, videos, and PDFs with drag and drop
+
+通过拖放移除图像、视频和 PDF 的元数据

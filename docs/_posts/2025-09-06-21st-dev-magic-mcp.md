@@ -7,3 +7,5 @@ image: assets/20250906T025229658--21st-dev--magic-mcp--20250906T025603576--cropp
 # [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp)
 
 AI agent for building UI components in your IDE
+
+在 IDE 中构建 UI 组件的 AI 智能体

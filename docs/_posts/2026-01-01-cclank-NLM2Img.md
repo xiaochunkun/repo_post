@@ -7,3 +7,5 @@ image: assets/cclank_NLM2Img_20251231_174150_614_20251231_174209_24e16c.png
 # [cclank/NLM2Img](https://github.com/cclank/NLM2Img/)
 
 Stitches PDF pages into images with custom stamps
+
+将PDF页面拼接成图像，支持自定义印章

@@ -7,3 +7,5 @@ image: assets/karakeep_app_karakeep_20260202_105858_495_20260202_105937_6ceaa9.p
 # [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
 
 Bookmarks links and images with AI tagging
+
+使用 AI 标记书签链接和图像

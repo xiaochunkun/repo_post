@@ -7,3 +7,5 @@ image: assets/browserwing_browserwing_20260129_003859_464_20260129_003934_9e2691
 # [browserwing/browserwing](https://github.com/browserwing/browserwing)
 
 Converts browser actions into MCP commands
+
+将浏览器操作转换为MCP命令

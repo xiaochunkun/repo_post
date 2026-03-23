@@ -7,3 +7,5 @@ image: assets/linuxserver_docker_webtop_20260309_103410_822_20260309_103610_d363
 # [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop)
 
 Linux desktop environments in a web browser
+
+在Web浏览器中运行Linux桌面环境

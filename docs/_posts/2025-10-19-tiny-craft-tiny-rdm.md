@@ -7,3 +7,5 @@ image: assets/tiny_craft_tiny_rdm_20251019_001350_711_20251019_003927--20251019T
 # [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm/)
 
 Cross-platform Redis desktop manager
+
+跨平台 Redis 桌面管理器

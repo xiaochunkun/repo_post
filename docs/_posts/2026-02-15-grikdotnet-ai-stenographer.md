@@ -7,3 +7,5 @@ image: assets/grikdotnet_ai_stenographer_20260209_155843_505_20260209_155903_b4d
 # [grikdotnet/ai-stenographer](https://github.com/grikdotnet/ai-stenographer)
 
 Converts speech to text offline
+
+离线将语音转换为文本

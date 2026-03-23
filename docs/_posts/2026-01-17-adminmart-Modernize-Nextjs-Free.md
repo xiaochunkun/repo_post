@@ -7,3 +7,5 @@ image: assets/adminmart_Modernize_Nextjs_Free_20260116_232104_433_20260116_23212
 # [adminmart/Modernize-Nextjs-Free](https://github.com/adminmart/Modernize-Nextjs-Free)
 
 Admin dashboard template with Next.js and MUI
+
+基于 Next.js 和 MUI 的管理仪表板模板

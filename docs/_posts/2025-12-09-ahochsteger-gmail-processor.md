@@ -7,3 +7,5 @@ image: assets/ahochsteger_gmail_processor_20251207_212440_876_20251207_212504_af
 # [ahochsteger/gmail-processor](https://github.com/ahochsteger/gmail-processor/)
 
 Automates Gmail message and attachment processing via Google Apps Script
+
+通过Google Apps Script自动化Gmail消息和附件处理

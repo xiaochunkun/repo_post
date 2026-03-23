@@ -7,3 +7,5 @@ image: assets/boringdata_boring_semantic_layer_20251107_002854_960_20251107_2153
 # [boringdata/boring-semantic-layer](https://github.com/boringdata/boring-semantic-layer/)
 
 Semantic layer for connecting LLMs to structured data
+
+连接LLM与结构化数据的语义层

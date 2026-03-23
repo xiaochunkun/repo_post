@@ -7,3 +7,5 @@ image: assets/cpp_for_yourself_lectures_and_homeworks_20251227_104953_535_202512
 # [cpp-for-yourself/lectures-and-homeworks](https://github.com/cpp-for-yourself/lectures-and-homeworks/)
 
 Lectures and projects for learning C++
+
+学习 C++ 的讲座和项目

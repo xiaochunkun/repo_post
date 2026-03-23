@@ -7,3 +7,5 @@ image: assets/lfnovo_open_notebook_20251021_001713_392_20251021_064410--20251021
 # [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook/)
 
 Alternative to Google's Notebook LM
+
+Google Notebook LM 的替代品

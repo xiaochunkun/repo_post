@@ -7,3 +7,5 @@ image: assets/KohakuBlueleaf_KohakuHub_20251106_172301_348_20251106_175109_c3c7e
 # [KohakuBlueleaf/KohakuHub](https://github.com/KohakuBlueleaf/KohakuHub/)
 
 A self-hosted alternative to HuggingFace
+
+HuggingFace的自托管替代方案

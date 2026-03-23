@@ -7,3 +7,5 @@ image: assets/20250830T152956400--google--comprehensive-rust--20250830T153255749
 # [google/comprehensive-rust](https://github.com/google/comprehensive-rust)
 
 multi-day Rust course with deep dives for experienced devs
+
+面向有经验开发者的多日 Rust 深度课程

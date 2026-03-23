@@ -7,3 +7,5 @@ image: assets/Nicolepcx_ai_agents_the_definitive_guide_20260311_102941_117_20260
 # [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide)
 
 Jupyter notebooks for AI agent architectures
+
+AI智能体架构的Jupyter笔记本

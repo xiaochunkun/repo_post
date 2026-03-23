@@ -7,3 +7,5 @@ image: assets/OwnGoalStudio_TrollNFC_20260220_225204_873_20260220_225221_a8582f.
 # [OwnGoalStudio/TrollNFC](https://github.com/OwnGoalStudio/TrollNFC)
 
 Emulates NFC cards on iPhones via TrollStore
+
+通过 TrollStore 在 iPhone 上模拟 NFC 卡

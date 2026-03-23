@@ -7,3 +7,5 @@ image: assets/koaning_bespoken--20250815T020919874--cropped.png
 # [koaning/bespoken](https://github.com/koaning/bespoken)
 
 terminal chat for building LLM agents
+
+用于构建LLM代理的终端聊天工具

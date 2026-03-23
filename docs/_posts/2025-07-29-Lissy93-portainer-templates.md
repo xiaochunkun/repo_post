@@ -7,3 +7,5 @@ image: assets/Lissy93_portainer-templates_cropped.png
 # [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 
 500+ one-click app templates for Portainer
+
+500+ 个 Portainer 一键应用模板

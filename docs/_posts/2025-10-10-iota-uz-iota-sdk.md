@@ -7,3 +7,5 @@ image: assets/20251010T125954912--iota-uz--iota-sdk--20251010T130722730--cropped
 # [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk)
 
 modular open-source ERP system with finance, manufacturing, and warehouse tools
+
+模块化开源 ERP 系统，包含财务、制造和仓库工具

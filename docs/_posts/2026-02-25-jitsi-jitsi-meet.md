@@ -7,3 +7,5 @@ image: assets/jitsi_jitsi_meet_20260215_191956_327_20260215_192053_2bf3cd.png
 # [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
 
 Video conferencing for browsers and mobile devices
+
+浏览器和移动设备的视频会议

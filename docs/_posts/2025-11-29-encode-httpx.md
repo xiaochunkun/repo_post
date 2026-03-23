@@ -7,3 +7,5 @@ image: assets/encode_httpx_20251125_234909_550_20251128_213109_71c075--20251128T
 # [encode/httpx](https://github.com/encode/httpx/)
 
 Sync and async HTTP client for Python
+
+Python的同步和异步HTTP客户端

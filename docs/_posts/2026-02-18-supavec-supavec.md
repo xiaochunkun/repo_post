@@ -7,3 +7,5 @@ image: assets/supavec_supavec_20260122_130759_658_20260122_130817_347707.png
 # [supavec/supavec](https://github.com/supavec/supavec)
 
 RAG as a service for any data source
+
+适用于任何数据源的 RAG 即服务

@@ -7,3 +7,5 @@ image: assets/20250914T182311532--reshaped-ui--reshaped--20250914T190626714--cro
 # [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped)
 
 React and Figma components for building design systems
+
+用于构建设计系统的 React 和 Figma 组件

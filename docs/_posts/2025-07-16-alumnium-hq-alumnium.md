@@ -7,3 +7,5 @@ image: assets/alumnium-hq_alumnium_cropped.png
 # [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium)
 
 browser-based automation tool for web testing
+
+基于浏览器的自动化工具，用于Web测试

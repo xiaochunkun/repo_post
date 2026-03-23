@@ -7,3 +7,5 @@ image: assets/joaomoreno_gifcap_20260205_051642_328_20260205_051656_448d8a.png
 # [joaomoreno/gifcap](https://github.com/joaomoreno/gifcap)
 
 Records screen to GIF in a browser
+
+在浏览器中将屏幕录制为GIF

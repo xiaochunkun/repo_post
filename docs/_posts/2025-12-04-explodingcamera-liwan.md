@@ -7,3 +7,5 @@ image: assets/explodingcamera_liwan_20251201_101755_838_20251201_101838_ef65ea.p
 # [explodingcamera/liwan](https://github.com/explodingcamera/liwan/)
 
 Self-hosted privacy-first web analytics
+
+自托管、隐私优先的网站分析工具

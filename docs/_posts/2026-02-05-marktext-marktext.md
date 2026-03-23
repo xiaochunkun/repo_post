@@ -7,3 +7,5 @@ image: assets/marktext_marktext_20260202_221255_323_20260202_221344_5c3cca.png
 # [marktext/marktext](https://github.com/marktext/marktext)
 
 Markdown editor for Linux, macOS, and Windows
+
+适用于Linux、macOS和Windows的Markdown编辑器

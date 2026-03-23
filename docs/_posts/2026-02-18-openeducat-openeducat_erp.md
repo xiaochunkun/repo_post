@@ -7,3 +7,5 @@ image: assets/openeducat_openeducat_erp_20260209_215440_805_20260209_215456_1885
 # [openeducat/openeducat_erp](https://github.com/openeducat/openeducat_erp)
 
 ERP for educational institutions
+
+教育机构的 ERP

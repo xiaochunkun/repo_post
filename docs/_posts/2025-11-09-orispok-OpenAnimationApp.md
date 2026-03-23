@@ -7,3 +7,5 @@ image: assets/orispok_OpenAnimationApp_20251108_224728_271_20251109_000633_eb5f3
 # [orispok/OpenAnimationApp](https://github.com/orispok/OpenAnimationApp/)
 
 Collection of Lottie animations powered by Kotlin Multiplatform
+
+由Kotlin Multiplatform驱动的Lottie动画集合

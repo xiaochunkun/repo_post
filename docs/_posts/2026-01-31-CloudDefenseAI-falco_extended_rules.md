@@ -7,3 +7,5 @@ image: assets/CloudDefenseAI_falco_extended_rules_20260130_103415_909_20260130_1
 # [CloudDefenseAI/falco_extended_rules](https://github.com/CloudDefenseAI/falco_extended_rules)
 
 Falco rules mapped to MITRE ATT&CK matrix
+
+映射到 MITRE ATT&CK 矩阵的 Falco 规则

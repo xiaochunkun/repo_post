@@ -7,3 +7,5 @@ image: assets/tuyafeng_Via_20251218_053743_386_20251218_053813_5fef28.png
 # [tuyafeng/Via](https://github.com/tuyafeng/Via/)
 
 Android browser with customization and ad blocking
+
+支持自定义和广告拦截的 Android 浏览器

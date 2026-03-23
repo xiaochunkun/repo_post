@@ -7,3 +7,5 @@ image: assets/solarkennedy_wine_x11_novnc_docker_20251201_042230_248_20251201_04
 # [solarkennedy/wine-x11-novnc-docker](https://github.com/solarkennedy/wine-x11-novnc-docker/)
 
 Runs Wine applications in a web browser via Docker
+
+通过Docker在Web浏览器中运行Wine应用

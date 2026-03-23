@@ -7,3 +7,5 @@ image: assets/StructuredLabs_preswald_20260217_233118_766_20260217_233221_77853b
 # [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald)
 
 Python data apps in the browser via WASM
+
+通过WASM在浏览器中运行的Python数据应用

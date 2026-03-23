@@ -7,3 +7,5 @@ image: assets/Terry_Xu_666_NodeRAG_20251121_133219_982_20251122_033836_99b29c--2
 # [Terry-Xu-666/NodeRAG](https://github.com/Terry-Xu-666/NodeRAG/)
 
 Graph RAG with node heterogeneity
+
+具有节点异质性的图 RAG

@@ -7,3 +7,5 @@ image: assets/Kiranism_next-shadcn-dashboard-starter_cropped.png
 # [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter)
 
 Next.js 15 dashboard starter with Shadcn UI
+
+带有Shadcn UI的Next.js 15仪表板入门套件

@@ -7,3 +7,5 @@ image: assets/ihatecsv_deepseek_ocr_client_20251118_034456_210_20251118_035334_d
 # [ihatecsv/deepseek-ocr-client](https://github.com/ihatecsv/deepseek-ocr-client/)
 
 Desktop GUI for real-time OCR with GPU acceleration
+
+具有GPU加速的实时OCR桌面GUI

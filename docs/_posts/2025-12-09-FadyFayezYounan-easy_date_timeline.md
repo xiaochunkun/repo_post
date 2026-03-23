@@ -7,3 +7,5 @@ image: assets/FadyFayezYounan_easy_date_timeline_20251207_215614_855_20251207_21
 # [FadyFayezYounan/easy_date_timeline](https://github.com/FadyFayezYounan/easy_date_timeline/)
 
 Horizontal date timeline picker for Flutter
+
+Flutter的水平日期时间线选择器

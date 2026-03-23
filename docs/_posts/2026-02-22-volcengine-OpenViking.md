@@ -7,3 +7,5 @@ image: assets/volcengine_OpenViking_20260220_092323_067_20260220_092346_c6ba69.p
 # [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
 Context database for AI agents using a file system paradigm
+
+使用文件系统范式的AI代理上下文数据库

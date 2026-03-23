@@ -7,3 +7,5 @@ image: assets/firecrawl_ai_ready_website_20251213_082353_247_20251213_082418_64d
 # [firecrawl/ai-ready-website](https://github.com/firecrawl/ai-ready-website/)
 
 Analyzes websites for AI readiness and optimization
+
+分析网站的 AI 就绪度和优化情况

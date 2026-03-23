@@ -7,3 +7,5 @@ image: assets/ghostfolio_ghostfolio_20260128_232925_294_20260128_233009_9f1880.p
 # [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
 Wealth management software for stocks, ETFs and cryptocurrencies
+
+股票、ETF和加密货币的财富管理软件

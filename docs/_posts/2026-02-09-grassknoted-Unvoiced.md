@@ -7,3 +7,5 @@ image: assets/grassknoted_Unvoiced_20260208_062327_441_20260208_062353_1abe7e.pn
 # [grassknoted/Unvoiced](https://github.com/grassknoted/Unvoiced)
 
 Translates sign language into speech
+
+将手语翻译为语音

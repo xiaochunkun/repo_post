@@ -7,3 +7,5 @@ image: assets/zhangchenchen_tier_list_maker_20260115_201719_235_20260115_201732_
 # [zhangchenchen/tier_list_maker](https://github.com/zhangchenchen/tier_list_maker)
 
 Creates and shares ranking lists in a browser
+
+在浏览器中创建和分享排名列表

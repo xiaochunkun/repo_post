@@ -7,3 +7,5 @@ image: assets/bitbonsai_notion2obsidian_20251125_002439_899_20251126_100346_0900
 # [bitbonsai/notion2obsidian](https://github.com/bitbonsai/notion2obsidian/)
 
 Migrates Notion exports to Obsidian markdown
+
+将 Notion 导出迁移到 Obsidian markdown

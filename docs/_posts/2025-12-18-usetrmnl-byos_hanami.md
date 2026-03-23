@@ -7,3 +7,5 @@ image: assets/usetrmnl_byos_hanami_20251217_083925_852_20251217_083947_5474a1.pn
 # [usetrmnl/byos_hanami](https://github.com/usetrmnl/byos_hanami/)
 
 Ruby web server for managing TRMNL e-ink devices
+
+用于管理 TRMNL 电子墨水设备的 Ruby Web 服务器

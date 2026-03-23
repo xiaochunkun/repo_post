@@ -7,3 +7,5 @@ image: assets/CypherpunkArmory_UserLAnd_20251106_215726_186_20251106_223620_8bea
 # [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd/)
 
 Run a Linux distribution on Android
+
+在Android上运行Linux发行版

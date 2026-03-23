@@ -7,3 +7,5 @@ image: assets/20251005T225426976--pezzolabs--pezzo--20251005T225840932--cropped.
 # [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo)
 
 cloud-native open-source platform for managing and monitoring LLM operations
+
+云原生开源平台，用于管理和监控 LLM 操作

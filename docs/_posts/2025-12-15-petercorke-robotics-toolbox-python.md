@@ -7,3 +7,5 @@ image: assets/petercorke_robotics_toolbox_python_20251213_113611_171_20251213_11
 # [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python/)
 
 Python implementation of MATLAB Robotics Toolbox
+
+MATLAB Robotics Toolbox的Python实现

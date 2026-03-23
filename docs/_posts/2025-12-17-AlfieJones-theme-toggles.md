@@ -7,3 +7,5 @@ image: assets/AlfieJones_theme_toggles_20251215_025400_270_20251215_025518_14115
 # [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles/)
 
 Collection of animated SVG toggles for light and dark modes
+
+用于明暗模式的动画 SVG 切换开关集合

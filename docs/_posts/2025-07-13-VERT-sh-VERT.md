@@ -7,3 +7,5 @@ image: assets/VERT-sh_VERT_cropped.png
 # [VERT-sh/VERT](https://github.com/VERT-sh/VERT)
 
 convert files on your device with VERT
+
+用VERT在设备上转换文件

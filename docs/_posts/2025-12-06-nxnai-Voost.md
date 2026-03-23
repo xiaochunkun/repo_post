@@ -7,3 +7,5 @@ image: assets/nxnai_Voost_20251204_230805_420_20251204_230827_9a7a71.png
 # [nxnai/Voost](https://github.com/nxnai/Voost/)
 
 Unified diffusion transformer for bidirectional virtual try-on and try-off
+
+用于双向虚拟试穿和试脱的统一扩散变换器

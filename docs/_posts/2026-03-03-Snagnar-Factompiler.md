@@ -7,3 +7,5 @@ image: assets/Snagnar_Factompiler_20260201_064406_493_20260201_064451_9bd61a.png
 # [Snagnar/Factompiler](https://github.com/Snagnar/Factompiler)
 
 Compiles code into Factorio circuit blueprints
+
+将代码编译为 Factorio 电路蓝图

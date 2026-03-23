@@ -7,3 +7,5 @@ image: assets/20251001T205423274--riffusion--riffusion-hobby--20251001T210007487
 # [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby)
 
 AI-powered library for real-time music and audio generation using stable diffusion
+
+使用 Stable Diffusion 进行实时音乐和音频生成的 AI 库

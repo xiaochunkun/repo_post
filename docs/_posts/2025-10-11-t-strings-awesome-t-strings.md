@@ -7,3 +7,5 @@ image: assets/20251010T211254568--t-strings--awesome-t-strings--20251010T2124143
 # [t-strings/awesome-t-strings](https://github.com/t-strings/awesome-t-strings)
 
 curated list of resources, tools, and examples for Python's template strings (t-strings) in 3.14
+
+精选 Python 3.14 中模板字符串（t-strings）的资源、工具和示例列表

@@ -7,3 +7,5 @@ image: assets/okx_go_wallet_sdk_20251229_232446_533_20251229_232501_3112d6.png
 # [okx/go-wallet-sdk](https://github.com/okx/go-wallet-sdk/)
 
 Signs transactions across blockchains offline
+
+离线跨区块链签名交易

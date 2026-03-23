@@ -7,3 +7,5 @@ image: assets/20251003T231031965--georgmangold--console--20251003T231345891--cro
 # [georgmangold/console](https://github.com/georgmangold/console)
 
 browser UI for managing MinIO servers
+
+用于管理 MinIO 服务器的浏览器 UI

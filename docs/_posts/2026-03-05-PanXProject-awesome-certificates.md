@@ -7,3 +7,5 @@ image: assets/PanXProject_awesome_certificates_20260304_220103_579_20260304_2203
 # [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates)
 
 Repository of resources for certificates
+
+证书资源仓库

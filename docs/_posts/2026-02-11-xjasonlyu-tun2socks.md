@@ -7,3 +7,5 @@ image: assets/xjasonlyu_tun2socks_20260205_231116_606_20260205_231132_fd4903.png
 # [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks)
 
 Tunnels network traffic through proxies using gVisor stack
+
+使用gVisor堆栈通过代理隧道传输网络流量

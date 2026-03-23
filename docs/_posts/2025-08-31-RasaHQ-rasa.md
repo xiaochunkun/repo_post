@@ -7,3 +7,5 @@ image: assets/RasaHQ_rasa--20250830T153426476--cropped.png
 # [RasaHQ/rasa](https://github.com/RasaHQ/rasa)
 
 open source framework for building chatbots and voice assistants
+
+构建聊天机器人和语音助手的开源框架

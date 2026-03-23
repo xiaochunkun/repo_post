@@ -7,3 +7,5 @@ image: assets/cmintey_wishlist_20251207_202709_974_20251207_202742_e26d5c.png
 # [cmintey/wishlist](https://github.com/cmintey/wishlist/)
 
 Self-hosted wishlist for friends and family
+
+自托管的亲友愿望清单

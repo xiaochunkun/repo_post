@@ -7,3 +7,5 @@ image: assets/simonbs_Runestone_20251213_123647_792_20251213_123724_5d1621.png
 # [simonbs/Runestone](https://github.com/simonbs/Runestone/)
 
 iOS text editor with syntax highlighting
+
+具有语法高亮的iOS文本编辑器

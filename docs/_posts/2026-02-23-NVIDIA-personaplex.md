@@ -7,3 +7,5 @@ image: assets/NVIDIA_personaplex_20260220_151108_361_20260220_151145_51db85.png
 # [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)
 
 Full-duplex speech model with voice and role control
+
+具有语音和角色控制的全双工语音模型

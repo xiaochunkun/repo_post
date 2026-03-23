@@ -7,3 +7,5 @@ image: assets/3MFConsortium_gladius_20260114_061152_094_20260114_061206_187bf9.p
 # [3MFConsortium/gladius](https://github.com/3MFConsortium/gladius)
 
 Editor for 3mf files with volumetric extension
+
+带体积扩展的 3mf 文件编辑器

@@ -7,3 +7,5 @@ image: assets/scrtwpns_mixbox_cropped.png
 # [scrtwpns/mixbox](https://github.com/scrtwpns/mixbox)
 
 Color mixing library based on pigments
+
+基于颜料的颜色混合库

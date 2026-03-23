@@ -7,3 +7,5 @@ image: assets/jokob-sk_NetAlertX_cropped.png
 # [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
 
 self-hosted tool for network device discovery and alerts
+
+自托管网络设备发现与告警工具

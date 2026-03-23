@@ -7,3 +7,5 @@ image: assets/microsoft_MarS_20251103_223759_236_20251103_225018_83d957--2025110
 # [microsoft/MarS](https://github.com/microsoft/MarS/)
 
 Financial market simulator from a foundation model
+
+基于基础模型的金融市场模拟器

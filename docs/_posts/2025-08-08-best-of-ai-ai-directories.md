@@ -7,3 +7,5 @@ image: assets/best-of-ai_ai-directories_cropped.png
 # [best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories)
 
 huge list of places to find or submit ai tools
+
+查找或提交 AI 工具的大量目录列表

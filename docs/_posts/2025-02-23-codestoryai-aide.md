@@ -7,3 +7,5 @@ image: assets/codestoryai_aide_cropped.png
 # [codestoryai/aide](https://github.com/codestoryai/aide)
 
 Open-source AI-powered code editor
+
+开源AI驱动的代码编辑器

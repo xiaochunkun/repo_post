@@ -7,3 +7,5 @@ image: assets/cloudcommunity_Cloud-Free-Tier-Comparison--20250812T002146--croppe
 # [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
 
 compare cloud providers’ free tiers in one place
+
+一站式比较云提供商的免费套餐

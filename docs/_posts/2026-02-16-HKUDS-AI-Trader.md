@@ -7,3 +7,5 @@ image: assets/HKUDS_AI_Trader_20260213_112652_951_20260213_112744_b38282.png
 # [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
 
 AI agents trading in markets without human input
+
+无需人工输入的 AI 代理市场交易

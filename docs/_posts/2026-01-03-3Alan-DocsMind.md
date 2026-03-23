@@ -7,3 +7,5 @@ image: assets/3Alan_DocsMind_20260102_151913_190_20260102_151929_665de3.png
 # [3Alan/DocsMind](https://github.com/3Alan/DocsMind/)
 
 Chat with documents and summarize files
+
+与文档聊天并总结文件

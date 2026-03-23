@@ -7,3 +7,5 @@ image: assets/PriorLabs_TabPFN_cropped.png
 # [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)
 
 foundation model for tabular data, fast predictions, easy ML
+
+表格数据基础模型，快速预测，简化机器学习

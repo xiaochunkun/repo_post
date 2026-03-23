@@ -7,3 +7,5 @@ image: assets/LogicLabs_OU_OpenArchiver_20260122_022128_853_20260122_022143_1a61
 # [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver)
 
 Self-hosted platform for email archiving and indexing
+
+电子邮件归档和索引的自托管平台

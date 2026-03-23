@@ -7,3 +7,5 @@ image: assets/20250830T174201792--a16z-infra--ai-town--20250830T174509198--cropp
 # [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town)
 
 virtual town where AI characters chat and interact
+
+AI 角色在虚拟小镇中聊天和互动

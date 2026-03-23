@@ -7,3 +7,5 @@ image: assets/irthomasthomas_llm-consortium_cropped.png
 # [irthomasthomas/llm-consortium](https://github.com/irthomasthomas/llm-consortium)
 
 Orchestrates multiple language models for collaborative problem solving and consensus
+
+协调多个语言模型进行协作问题解决和共识达成

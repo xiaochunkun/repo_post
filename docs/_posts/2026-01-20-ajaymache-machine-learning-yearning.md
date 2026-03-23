@@ -7,3 +7,5 @@ image: assets/ajaymache_machine_learning_yearning_20260119_173111_192_20260119_1
 # [ajaymache/machine-learning-yearning](https://github.com/ajaymache/machine-learning-yearning)
 
 Technical strategy for AI engineers
+
+AI工程师技术策略指南

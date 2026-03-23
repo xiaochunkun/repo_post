@@ -7,3 +7,5 @@ image: assets/rickstaa_awesome_adsb_20260113_144654_303_20260113_144709_f08917.p
 # [rickstaa/awesome-adsb](https://github.com/rickstaa/awesome-adsb)
 
 Resources for tracking aircraft via radio signals
+
+通过无线电信号追踪飞机的资源

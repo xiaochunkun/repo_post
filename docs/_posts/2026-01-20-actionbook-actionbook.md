@@ -7,3 +7,5 @@ image: assets/actionbook_actionbook_20260115_145938_826_20260115_145954_448eb7.p
 # [actionbook/actionbook](https://github.com/actionbook/actionbook)
 
 Speeds up browser agents with action manuals
+
+通过操作手册加速浏览器代理

@@ -7,3 +7,5 @@ image: assets/PlasmoHQ_plasmo_20260317_235749_323_20260317_235845_a407ca.png
 # [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)
 
 Browser extension SDK with React support
+
+支持React的浏览器扩展SDK

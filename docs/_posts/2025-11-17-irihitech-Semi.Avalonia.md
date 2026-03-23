@@ -7,3 +7,5 @@ image: assets/irihitech_Semi_Avalonia_20251115_070013_659_20251117_035620_bdca8b
 # [irihitech/Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia/)
 
 Avalonia theme inspired by Semi Design
+
+受 Semi Design 启发的 Avalonia 主题

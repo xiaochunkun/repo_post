@@ -7,3 +7,5 @@ image: assets/solidtime_io_solidtime_desktop_20251217_202059_890_20251217_202205
 # [solidtime-io/solidtime-desktop](https://github.com/solidtime-io/solidtime-desktop/)
 
 Open-source time tracker for desktop
+
+开源桌面时间追踪器

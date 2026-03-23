@@ -7,3 +7,5 @@ image: assets/MaliosDark_wifi_3d_fusion_20260129_150935_077_20260129_151015_5bad
 # [MaliosDark/wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
 
 Estimates 3D human pose from WiFi signals
+
+从WiFi信号估计3D人体姿态

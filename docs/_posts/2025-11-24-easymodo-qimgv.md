@@ -7,3 +7,5 @@ image: assets/easymodo_qimgv_20251123_123709_787_20251124_003303_1d2baf--2025112
 # [easymodo/qimgv](https://github.com/easymodo/qimgv/)
 
 Image viewer with video playback
+
+带视频播放的图像查看器

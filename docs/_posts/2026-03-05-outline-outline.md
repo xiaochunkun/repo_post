@@ -7,3 +7,5 @@ image: assets/outline_outline_20260304_232413_422_20260304_232612_7a38f5.png
 # [outline/outline](https://github.com/outline/outline)
 
 Knowledge base for team collaboration
+
+团队协作知识库

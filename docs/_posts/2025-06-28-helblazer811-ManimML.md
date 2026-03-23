@@ -7,3 +7,5 @@ image: assets/helblazer811_ManimML_cropped.png
 # [helblazer811/ManimML](https://github.com/helblazer811/ManimML)
 
 Animations and visualizations of machinelearning concepts using Manim
+
+使用 Manim 制作的机器学习概念动画和可视化

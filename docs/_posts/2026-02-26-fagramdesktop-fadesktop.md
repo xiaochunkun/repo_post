@@ -7,3 +7,5 @@ image: assets/fagramdesktop_fadesktop_20260212_185045_939_20260212_185149_344998
 # [fagramdesktop/fadesktop](https://github.com/fagramdesktop/fadesktop)
 
 Fork of Telegram Desktop with upstream updates
+
+Telegram Desktop的分支，包含上游更新

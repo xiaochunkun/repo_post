@@ -7,3 +7,5 @@ image: assets/theOehrly_Fast_F1_20251030_001624_582_20251030_010645_bcd9c2--2025
 # [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1/)
 
 Python package for accessing Formula 1 data
+
+访问 F1 数据的 Python 包

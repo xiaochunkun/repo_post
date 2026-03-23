@@ -7,3 +7,5 @@ image: assets/lingarr_translate_lingarr_20251107_190546_643_20251107_235548_9b96
 # [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr/)
 
 Automatically translates subtitle files
+
+自动翻译字幕文件

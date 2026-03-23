@@ -9,3 +9,5 @@ image: assets/mylinuxforwork_dotfiles_cropped.png
 # [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 
 Hyprland config for Arch and Fedora
+
+Arch 和 Fedora 的 Hyprland 配置

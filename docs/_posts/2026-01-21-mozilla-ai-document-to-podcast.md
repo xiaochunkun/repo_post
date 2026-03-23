@@ -7,3 +7,5 @@ image: assets/mozilla_ai_document_to_podcast_20260120_064023_372_20260120_064038
 # [mozilla-ai/document-to-podcast](https://github.com/mozilla-ai/document-to-podcast)
 
 Generates podcasts from documents using local AI
+
+使用本地 AI 从文档生成播客

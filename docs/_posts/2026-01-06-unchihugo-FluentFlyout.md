@@ -7,3 +7,5 @@ image: assets/unchihugo_FluentFlyout_20260105_021116_543_20260105_021139_473d33.
 # [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout/)
 
 Flyout app for Windows media and lock keys
+
+Windows 媒体和锁定键的弹出应用

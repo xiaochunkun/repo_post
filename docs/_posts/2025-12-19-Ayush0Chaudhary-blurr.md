@@ -7,3 +7,5 @@ image: assets/Ayush0Chaudhary_blurr_20251217_225602_725_20251217_225625_ee60c1.p
 # [Ayush0Chaudhary/blurr](https://github.com/Ayush0Chaudhary/blurr/)
 
 On-device agent for Android automation via natural language commands
+
+通过自然语言命令实现 Android 自动化的设备端代理

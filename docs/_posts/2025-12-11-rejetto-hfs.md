@@ -7,3 +7,5 @@ image: assets/rejetto_hfs_20251209_002407_799_20251209_002441_12f20e.png
 # [rejetto/hfs](https://github.com/rejetto/hfs/)
 
 Web file server for sharing folders
+
+用于共享文件夹的Web文件服务器

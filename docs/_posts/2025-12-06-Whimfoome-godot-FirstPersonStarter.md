@@ -7,3 +7,5 @@ image: assets/Whimfoome_godot_FirstPersonStarter_20251204_215118_383_20251204_21
 # [Whimfoome/godot-FirstPersonStarter](https://github.com/Whimfoome/godot-FirstPersonStarter/)
 
 FPS template for Godot 4
+
+Godot 4的FPS模板

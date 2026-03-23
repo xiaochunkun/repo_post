@@ -7,3 +7,5 @@ image: assets/geomys_ct_archive_20260116_032422_137_20260116_032436_61d632.png
 # [geomys/ct-archive](https://github.com/geomys/ct-archive)
 
 Archives Certificate Transparency logs to the Internet Archive
+
+将Certificate Transparency日志归档至Internet Archive

@@ -7,3 +7,5 @@ image: assets/firerpa_lamda_20260210_225827_845_20260210_225850_325371.png
 # [firerpa/lamda](https://github.com/firerpa/lamda)
 
 Android automation framework with integrated AI
+
+集成AI的Android自动化框架

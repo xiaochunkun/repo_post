@@ -7,3 +7,5 @@ image: assets/20250908T095729662--stepfun-ai--Step-Audio2--20250908T100022850--c
 # [stepfun-ai/Step-Audio2](https://github.com/stepfun-ai/Step-Audio2)
 
 open-source model for speech-to-speech and audio understanding
+
+用于语音对语音和音频理解的开源模型

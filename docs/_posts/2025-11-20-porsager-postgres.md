@@ -7,3 +7,5 @@ image: assets/porsager_postgres_20251119_110751_124_20251120_003347_ff2e22--2025
 # [porsager/postgres](https://github.com/porsager/postgres/)
 
 PostgreSQL client for Node.js and Deno
+
+Node.js和Deno的PostgreSQL客户端

@@ -7,3 +7,5 @@ image: assets/mahdi_y_Spotify2YoutubeMusic_20260106_100144_737_20260106_100201_1
 # [mahdi-y/Spotify2YoutubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic/)
 
 Transfers Spotify playlists to YouTube Music via a GUI
+
+通过 GUI 将 Spotify 播放列表转移到 YouTube Music

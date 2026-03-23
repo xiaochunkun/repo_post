@@ -7,3 +7,5 @@ image: assets/dtolnay_rust_quiz_20251031_154043_150_20251102_214553_27aa53--2025
 # [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz/)
 
 Quiz on tricky Rust language behavior
+
+关于 Rust 语言棘手行为的测验

@@ -7,3 +7,5 @@ image: assets/FlareSolverr_FlareSolverr_20260311_135721_532_20260311_135957_14c8
 # [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 
 Proxy server bypassing web protections
+
+绕过网络保护的代理服务器

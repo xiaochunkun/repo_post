@@ -7,3 +7,5 @@ image: assets/j_a_n_lovelace_wallpanel_20251228_175346_570_20251228_175411_0e308
 # [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel/)
 
 Home Assistant dashboard screensaver with motion detection
+
+带运动检测的Home Assistant仪表板屏保

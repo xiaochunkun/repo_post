@@ -7,3 +7,5 @@ image: assets/spacebarchat_spacebarchat_20260203_011620_197_20260203_011636_af7f
 # [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat)
 
 Selfhostable communication platform compatible with Discord
+
+兼容Discord的自托管通信平台

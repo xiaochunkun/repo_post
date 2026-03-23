@@ -7,3 +7,5 @@ image: assets/subnub_myDrive_20251018_162529_409_20251018_164542--20251018T18454
 # [subnub/myDrive](https://github.com/subnub/myDrive/)
 
 Cloud storage server with MongoDB
+
+基于 MongoDB 的云存储服务器

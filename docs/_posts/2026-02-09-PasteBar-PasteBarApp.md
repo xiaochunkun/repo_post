@@ -7,3 +7,5 @@ image: assets/PasteBar_PasteBarApp_20260207_085930_855_20260207_085959_405507.pn
 # [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp)
 
 Clipboard manager with history and collections for macOS and Windows
+
+剪贴板管理器，支持历史和收藏，适用于macOS和Windows

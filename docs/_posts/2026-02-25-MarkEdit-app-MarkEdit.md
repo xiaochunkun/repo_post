@@ -7,3 +7,5 @@ image: assets/MarkEdit_app_MarkEdit_20260210_004116_847_20260210_004139_a4d483.p
 # [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
 Markdown editor for macOS with the feel of TextEdit
+
+macOS 的 Markdown 编辑器，具有 TextEdit 的感觉

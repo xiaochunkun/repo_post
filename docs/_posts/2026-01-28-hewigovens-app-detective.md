@@ -7,3 +7,5 @@ image: assets/hewigovens_app_detective_20260120_003404_158_20260120_003418_c2269
 # [hewigovens/app-detective](https://github.com/hewigovens/app-detective)
 
 Identifies UI frameworks in macOS applications
+
+识别macOS应用中的UI框架

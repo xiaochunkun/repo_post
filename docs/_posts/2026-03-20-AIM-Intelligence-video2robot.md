@@ -7,3 +7,5 @@ image: assets/AIM_Intelligence_video2robot_20260225_205202_038_20260225_205414_f
 # [AIM-Intelligence/video2robot](https://github.com/AIM-Intelligence/video2robot)
 
 Converts generative videos into humanoid robot motions
+
+将生成式视频转换为类人机器人动作

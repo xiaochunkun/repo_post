@@ -7,3 +7,5 @@ image: assets/adrianhajdin_ai_saas_app_20260128_084318_566_20260128_084354_dcf07
 # [adrianhajdin/ai_saas_app](https://github.com/adrianhajdin/ai_saas_app)
 
 AI image processing platform with Stripe payments
+
+带有 Stripe 支付的 AI 图像处理平台

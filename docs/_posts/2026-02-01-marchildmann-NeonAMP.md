@@ -7,3 +7,5 @@ image: assets/marchildmann_NeonAMP_20260201_022313_726_20260201_022354_a60677.pn
 # [marchildmann/NeonAMP](https://github.com/marchildmann/NeonAMP)
 
 Self-hosted MP3 player in a single PHP file
+
+单个 PHP 文件中的自托管 MP3 播放器

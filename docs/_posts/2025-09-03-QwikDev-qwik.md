@@ -7,3 +7,5 @@ image: assets/QwikDev_qwik--20250903T022230429--cropped.png
 # [QwikDev/qwik](https://github.com/QwikDev/qwik)
 
 instant-loading web apps with Qwik
+
+用 Qwik 构建即时加载的 Web 应用

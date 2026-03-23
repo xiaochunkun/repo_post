@@ -7,3 +7,5 @@ image: assets/jhuangtw_xg2xg_20251026_224724_234_20251027_001817_2b3c4a--2025102
 # [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg/)
 
 A lookup table of Google technologies and their open-source equivalents
+
+Google技术及其开源替代品的对照表

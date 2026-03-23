@@ -7,3 +7,5 @@ image: assets/0xJacky_nginx-ui_cropped.png
 # [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
 
 web UI for managing nginx servers
+
+管理nginx服务器的Web UI

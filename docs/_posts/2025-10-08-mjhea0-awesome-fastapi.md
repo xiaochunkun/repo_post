@@ -7,3 +7,5 @@ image: assets/20251007T031600577--mjhea0--awesome-fastapi--20251007T032928471--c
 # [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)
 
 Curated list of FastAPI tools, extensions, and learning resources
+
+精选的 FastAPI 工具、扩展和学习资源列表

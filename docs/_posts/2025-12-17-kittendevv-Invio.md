@@ -7,3 +7,5 @@ image: assets/kittendevv_Invio_20251216_041653_954_20251216_041752_4f6b83.png
 # [kittendevv/Invio](https://github.com/kittendevv/Invio/)
 
 Self-hosted invoicing without bloat
+
+无冗余的自托管发票系统

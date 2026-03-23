@@ -7,3 +7,5 @@ image: assets/zjunlp_SkillNet_20260309_121249_876_20260309_121506_14e072.png
 # [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet)
 
 Infrastructure for sharing and evaluating AI agent skills
+
+共享和评估 AI 代理技能的基础设施

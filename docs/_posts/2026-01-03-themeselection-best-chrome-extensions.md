@@ -7,3 +7,5 @@ image: assets/themeselection_best_chrome_extensions_20260102_020417_346_20260102
 # [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions/)
 
 Curated list of Chrome extensions for developers and designers
+
+为开发者和设计师精选的 Chrome 扩展列表

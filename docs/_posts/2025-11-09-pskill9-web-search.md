@@ -7,3 +7,5 @@ image: assets/pskill9_web_search_20251108_205532_560_20251108_220222_f45c3d--202
 # [pskill9/web-search](https://github.com/pskill9/web-search/)
 
 Model Context Protocol server for web search without API keys
+
+无需API密钥的Web搜索Model Context Protocol服务器

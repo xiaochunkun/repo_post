@@ -7,3 +7,5 @@ image: assets/20250826T024601578--tinacms--tinacms--20250826T024914792--cropped.
 # [tinacms/tinacms](https://github.com/tinacms/tinacms)
 
 headless CMS for editing Markdown with live preview
+
+Headless CMS，支持 Markdown 实时预览编辑

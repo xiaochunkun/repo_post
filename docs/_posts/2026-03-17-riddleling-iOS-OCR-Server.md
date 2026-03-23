@@ -7,3 +7,5 @@ image: assets/riddleling_iOS_OCR_Server_20260316_115428_025_20260316_115446_752c
 # [riddleling/iOS-OCR-Server](https://github.com/riddleling/iOS-OCR-Server)
 
 OCR server on iPhone using Vision Framework
+
+iPhone 上的 OCR 服务器，使用 Vision Framework

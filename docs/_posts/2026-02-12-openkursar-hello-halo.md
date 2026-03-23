@@ -7,3 +7,5 @@ image: assets/openkursar_hello_halo_20260209_174404_357_20260209_174428_cb616e.p
 # [openkursar/hello-halo](https://github.com/openkursar/hello-halo)
 
 Visual interface for Claude Code
+
+Claude Code 的可视化界面

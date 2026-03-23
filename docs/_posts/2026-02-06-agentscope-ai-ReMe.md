@@ -7,3 +7,5 @@ image: assets/agentscope_ai_ReMe_20260204_154056_175_20260204_154112_de6abd.png
 # [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
 Memory management kit for AI agents
+
+AI代理的内存管理工具包

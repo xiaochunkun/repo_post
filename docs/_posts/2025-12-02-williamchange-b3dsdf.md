@@ -7,3 +7,5 @@ image: assets/williamchange_b3dsdf_20251201_022308_197_20251201_022332_38c594.pn
 # [williamchange/b3dsdf](https://github.com/williamchange/b3dsdf/)
 
 Toolkit of SDFs and vector utility nodes for Blender
+
+Blender 的 SDF 和矢量工具节点套件

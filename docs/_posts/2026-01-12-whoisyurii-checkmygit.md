@@ -7,3 +7,5 @@ image: assets/whoisyurii_checkmygit_20260112_062500_584_20260112_062519_d1ad16.p
 # [whoisyurii/checkmygit](https://github.com/whoisyurii/checkmygit)
 
 Converts GitHub profiles into portfolios
+
+将GitHub个人资料转换为作品集

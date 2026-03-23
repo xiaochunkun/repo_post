@@ -7,3 +7,5 @@ image: assets/sqlalchemy_alembic_cropped.png
 # [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
 
 Database migration tool for managing schema changes with SQLAlchemy
+
+用于管理SQLAlchemy模式变更的数据库迁移工具

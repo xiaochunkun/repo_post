@@ -7,3 +7,5 @@ image: assets/20250915T233038920--dahlia--logtape--20250920T042658927--cropped.p
 # [dahlia/logtape](https://github.com/dahlia/logtape)
 
 logging library for JavaScript and TypeScript with zero dependencies, works in any runtime
+
+用于JavaScript和TypeScript的日志库，零依赖，可在任何运行时工作

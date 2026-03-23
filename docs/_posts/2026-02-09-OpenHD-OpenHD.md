@@ -7,3 +7,5 @@ image: assets/OpenHD_OpenHD_20260207_011950_230_20260207_012009_bc594c.png
 # [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD)
 
 Transmits video and telemetry via Wi-Fi cards
+
+通过Wi-Fi卡传输视频和遥测数据

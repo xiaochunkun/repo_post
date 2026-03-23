@@ -7,3 +7,5 @@ image: assets/MrSibe_KnowNote_20251226_163137_395_20251226_163153_95b348.png
 # [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote/)
 
 Local alternative to Google NotebookLM without Docker
+
+无需 Docker 的 Google NotebookLM 本地替代品

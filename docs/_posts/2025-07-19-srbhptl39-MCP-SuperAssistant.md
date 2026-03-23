@@ -7,3 +7,5 @@ image: assets/srbhptl39_MCP-SuperAssistant_cropped.png
 # [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant)
 
 Chrome extension for running MCP tools in AI chats
+
+Chrome扩展，用于在AI聊天中运行MCP工具

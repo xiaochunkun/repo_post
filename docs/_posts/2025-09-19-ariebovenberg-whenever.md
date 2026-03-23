@@ -7,3 +7,5 @@ image: assets/20250919T012858227--ariebovenberg--whenever--20250919T013033776--c
 # [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever)
 
 typed and DST-safe datetimes for Python, fast and reliable
+
+Python的类型安全和DST安全的日期时间库，快速可靠

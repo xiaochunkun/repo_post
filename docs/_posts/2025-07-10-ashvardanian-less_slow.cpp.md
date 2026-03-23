@@ -7,3 +7,5 @@ image: assets/ashvardanian_less_slow.cpp_cropped.png
 # [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)
 
 micro-benchmarks for C++ performance tradeoffs
+
+C++ 性能权衡的微基准测试

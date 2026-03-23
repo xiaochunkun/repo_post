@@ -7,3 +7,5 @@ image: assets/5T33Z0_Fujitsu_Esprimo_Q958_Hackintosh_OpenCore_20260114_060455_72
 # [5T33Z0/Fujitsu-Esprimo-Q958-Hackintosh-OpenCore](https://github.com/5T33Z0/Fujitsu-Esprimo-Q958-Hackintosh-OpenCore)
 
 Runs macOS on mini PC
+
+在迷你 PC 上运行 macOS

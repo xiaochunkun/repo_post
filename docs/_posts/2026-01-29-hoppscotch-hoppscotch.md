@@ -7,3 +7,5 @@ image: assets/hoppscotch_hoppscotch_20260129_002057_193_20260129_002209_bdcb73.p
 # [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
 API development ecosystem for requests and testing
+
+API开发生态系统用于请求和测试

@@ -7,3 +7,5 @@ image: assets/0ssamaak0_MackingJAI_20251213_102533_739_20251213_102558_ddac4f.pn
 # [0ssamaak0/MackingJAI](https://github.com/0ssamaak0/MackingJAI/)
 
 Access Apple Intelligence via OpenAI API
+
+通过 OpenAI API 访问 Apple Intelligence

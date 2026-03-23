@@ -7,3 +7,5 @@ image: assets/lncrawl_lightnovel_crawler_20260323_015804_244_20260323_020000_041
 # [lncrawl/lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler)
 
 Generates ebooks from online sources
+
+从在线资源生成电子书

@@ -7,3 +7,5 @@ image: assets/invertase_react_native_apple_authentication_20251225_072409_370_20
 # [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication/)
 
 Apple Authentication for React Native on iOS and Android
+
+适用于 iOS 和 Android 的 React Native Apple 认证

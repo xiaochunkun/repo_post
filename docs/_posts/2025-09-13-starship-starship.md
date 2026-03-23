@@ -7,3 +7,5 @@ image: assets/20250911T234059752--starship--starship--20250911T235053123--croppe
 # [starship/starship](https://github.com/starship/starship)
 
 customizable shell prompt for any terminal
+
+适用于任何终端的可定制 Shell 提示符

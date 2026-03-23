@@ -7,3 +7,5 @@ image: assets/Jstudner_jcorp_nomad_20251228_001114_096_20251228_001131_ccffbf.pn
 # [Jstudner/jcorp-nomad](https://github.com/Jstudner/jcorp-nomad/)
 
 Offline media server on an ESP32-S3
+
+在 ESP32-S3 上运行的离线媒体服务器

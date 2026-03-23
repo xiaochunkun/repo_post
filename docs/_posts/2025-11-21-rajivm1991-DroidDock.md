@@ -7,3 +7,5 @@ image: assets/rajivm1991_DroidDock_20251120_060056_743_20251121_011512_bf28c1--2
 # [rajivm1991/DroidDock](https://github.com/rajivm1991/DroidDock/)
 
 Manages Android files on macOS via ADB
+
+通过 ADB 在 macOS 上管理 Android 文件

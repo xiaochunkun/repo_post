@@ -7,3 +7,5 @@ image: assets/chrisvel_tududi_20251020_203950_620_20251021_000019--20251021T0200
 # [chrisvel/tududi](https://github.com/chrisvel/tududi/)
 
 Task management with subtasks, recurring tasks, and tags
+
+任务管理，支持子任务、重复任务和标签

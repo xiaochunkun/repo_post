@@ -7,3 +7,5 @@ image: assets/alvinunreal_awesome_claude_20251209_041225_742_20251209_041307_c84
 # [alvinunreal/awesome-claude](https://github.com/alvinunreal/awesome-claude/)
 
 Curated list of resources for Anthropic Claude
+
+Anthropic Claude资源精选列表

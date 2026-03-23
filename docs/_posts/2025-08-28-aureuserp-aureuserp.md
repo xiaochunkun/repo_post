@@ -7,3 +7,5 @@ image: assets/20250827T101106537--aureuserp--aureuserp--20250827T221036944--crop
 # [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp)
 
 open source ERP platform built with Laravel and FilamentPHP
+
+基于 Laravel 和 FilamentPHP 的开源 ERP 平台

@@ -7,3 +7,5 @@ image: assets/veops_oneterm_cropped.png
 # [veops/oneterm](https://github.com/veops/oneterm)
 
 secure access and control for infrastructure
+
+基础设施的安全访问与控制

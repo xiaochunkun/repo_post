@@ -7,3 +7,5 @@ image: assets/anufrievroman_calcure_20251111_212245_646_20251112_032345_cd5cd8--
 # [anufrievroman/calcure](https://github.com/anufrievroman/calcure/)
 
 TUI calendar and task manager with interface customization
+
+具有界面自定义功能的 TUI 日历和任务管理器

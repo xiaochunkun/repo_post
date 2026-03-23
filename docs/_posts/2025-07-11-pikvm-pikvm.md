@@ -7,3 +7,5 @@ image: assets/pikvm_pikvm_cropped.png
 # [pikvm/pikvm](https://github.com/pikvm/pikvm)
 
 turn a raspberry pi into a remote KVM over IP
+
+将树莓派转换为远程 IP KVM

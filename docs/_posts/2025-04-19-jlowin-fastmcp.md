@@ -7,3 +7,5 @@ image: assets/jlowin_fastmcp_cropped.png
 # [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
 
 FastMCP framework for MCP servers in Python
+
+Python 中 MCP 服务器的 FastMCP 框架

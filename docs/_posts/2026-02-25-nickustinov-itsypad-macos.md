@@ -7,3 +7,5 @@ image: assets/nickustinov_itsypad_macos_20260222_084059_407_20260222_084144_fb97
 # [nickustinov/itsypad-macos](https://github.com/nickustinov/itsypad-macos)
 
 Scratchpad and clipboard manager for Mac
+
+Mac 的便签和剪贴板管理器

@@ -7,3 +7,5 @@ image: assets/mmiscool_screencap_me_20260111_180825_683_20260111_180840_5cad63.p
 # [mmiscool/screencap.me](https://github.com/mmiscool/screencap.me)
 
 Records and edits video in a browser
+
+在浏览器中录制和编辑视频

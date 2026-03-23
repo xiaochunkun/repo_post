@@ -7,3 +7,5 @@ image: assets/wolfsoftwaresystemsltd_WolfStack_20260309_153542_764_20260309_1537
 # [wolfsoftwaresystemsltd/WolfStack](https://github.com/wolfsoftwaresystemsltd/WolfStack)
 
 Dashboard for server, VM, and container management
+
+服务器、虚拟机和容器管理仪表板

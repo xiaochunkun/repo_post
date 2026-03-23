@@ -7,3 +7,5 @@ image: assets/pixlcore_xyops_20260111_095515_390_20260111_095529_3a548c.png
 # [pixlcore/xyops](https://github.com/pixlcore/xyops)
 
 Workflow automation with server monitoring
+
+带服务器监控的工作流自动化

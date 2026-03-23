@@ -7,3 +7,5 @@ image: assets/ben_vargas_ai_sdk_provider_gemini_cli_20251125_033515_015_20251127
 # [ben-vargas/ai-sdk-provider-gemini-cli](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli/)
 
 Vercel AI SDK provider for Google Gemini models via CLI
+
+通过 CLI 使用 Google Gemini 模型的 Vercel AI SDK 提供程序

@@ -7,3 +7,5 @@ image: assets/cytopia_pwncat_20251231_035347_264_20251231_035403_a618f0.png
 # [cytopia/pwncat](https://github.com/cytopia/pwncat/)
 
 Netcat with firewall and IDS evasion
+
+具备防火墙和 IDS 规避功能的 Netcat

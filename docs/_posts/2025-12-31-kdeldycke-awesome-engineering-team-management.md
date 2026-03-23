@@ -7,3 +7,5 @@ image: assets/kdeldycke_awesome_engineering_team_management_20251230_073003_444_
 # [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management/)
 
 Resources for developers transitioning to management
+
+开发者转向管理的资源

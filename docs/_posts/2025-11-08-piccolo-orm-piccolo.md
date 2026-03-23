@@ -7,3 +7,5 @@ image: assets/piccolo_orm_piccolo_20251107_002559_913_20251107_215304_e3b5a9--20
 # [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo/)
 
 An ORM and query builder with asyncio support
+
+支持asyncio的ORM和查询构建器

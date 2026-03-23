@@ -7,3 +7,5 @@ image: assets/DirectoryTree_Metrics_20251130_071527_266_20251130_085119_ba00a5--
 # [DirectoryTree/Metrics](https://github.com/DirectoryTree/Metrics/)
 
 Records and queries metrics in Laravel applications
+
+在 Laravel 应用中记录和查询指标

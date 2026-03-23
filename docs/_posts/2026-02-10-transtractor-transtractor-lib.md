@@ -7,3 +7,5 @@ image: assets/transtractor_transtractor_lib_20260208_041356_044_20260208_041413_
 # [transtractor/transtractor-lib](https://github.com/transtractor/transtractor-lib)
 
 Extracts transaction data from bank statements without AI
+
+无需AI从银行对账单提取交易数据

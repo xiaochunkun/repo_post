@@ -7,3 +7,5 @@ image: assets/aishwaryanr_awesome_generative_ai_guide_20260220_133620_239_202602
 # [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
 Hub for generative AI research and interview materials
+
+生成式AI研究和面试材料的中心

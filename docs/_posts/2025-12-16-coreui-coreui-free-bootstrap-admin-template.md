@@ -7,3 +7,5 @@ image: assets/coreui_coreui_free_bootstrap_admin_template_20251214_235949_423_20
 # [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template/)
 
 Open source Bootstrap admin dashboard template
+
+开源的Bootstrap管理仪表板模板

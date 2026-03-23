@@ -7,3 +7,5 @@ image: assets/mochi_mqtt_server_20251125_234706_748_20251128_213055_ec3def--2025
 # [mochi-mqtt/server](https://github.com/mochi-mqtt/server/)
 
 Embeddable Go MQTT v5 broker
+
+可嵌入的Go MQTT v5代理

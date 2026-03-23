@@ -7,3 +7,5 @@ image: assets/cachix_devenv_20260317_131108_114_20260317_131142_43bef8.png
 # [cachix/devenv](https://github.com/cachix/devenv)
 
 Declarative developer environments with Nix
+
+使用Nix的声明式开发环境

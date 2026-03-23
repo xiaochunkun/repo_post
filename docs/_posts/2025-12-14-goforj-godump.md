@@ -7,3 +7,5 @@ image: assets/goforj_godump_20251210_064057_096_20251210_064236_fb615d.png
 # [goforj/godump](https://github.com/goforj/godump/)
 
 Pretty-print and debug Go structs
+
+Go 结构体美化打印与调试工具

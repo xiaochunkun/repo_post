@@ -7,3 +7,5 @@ image: assets/BritishAmateurTelevisionClub_portsdown4_20260118_130418_681_202601
 # [BritishAmateurTelevisionClub/portsdown4](https://github.com/BritishAmateurTelevisionClub/portsdown4)
 
 Transmits digital television from Raspberry Pi
+
+从Raspberry Pi传输数字电视

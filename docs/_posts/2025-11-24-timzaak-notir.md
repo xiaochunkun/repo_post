@@ -7,3 +7,5 @@ image: assets/timzaak_notir_20251123_125513_365_20251124_003318_8b24a5--20251124
 # [timzaak/notir](https://github.com/timzaak/notir/)
 
 Rust WebSocket server for publish/subscribe
+
+用于发布/订阅的 Rust WebSocket 服务器

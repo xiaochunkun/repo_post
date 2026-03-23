@@ -7,3 +7,5 @@ image: assets/20250920T034721328--VectorSpaceLab--OmniGen--20250920T035221074--c
 # [VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen)
 
 unified image generation from text or images, no extra plugins needed
+
+从文本或图像统一生成图像，无需额外插件

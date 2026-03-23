@@ -7,3 +7,5 @@ image: assets/VirusTotal_vt_cli_20260304_220753_297_20260304_220934_d0b92d.png
 # [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli)
 
 Interface for terminal to manage YARA rules and file searches
+
+终端管理YARA规则和文件搜索的接口

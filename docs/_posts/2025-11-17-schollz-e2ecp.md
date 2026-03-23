@@ -7,3 +7,5 @@ image: assets/schollz_e2ecp_20251115_065217_890_20251117_034911_c610a3--20251117
 # [schollz/e2ecp](https://github.com/schollz/e2ecp/)
 
 Transfer files between machines through the web or a CLI
+
+通过Web或CLI在机器间传输文件

@@ -7,3 +7,5 @@ image: assets/bagofwords1_bagofwords_20260305_041912_839_20260305_042111_75a090.
 # [bagofwords1/bagofwords](https://github.com/bagofwords1/bagofwords)
 
 Platform for data analytics using agents
+
+使用代理的数据分析平台

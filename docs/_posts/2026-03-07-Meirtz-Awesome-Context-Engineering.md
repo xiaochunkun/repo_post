@@ -7,3 +7,5 @@ image: assets/Meirtz_Awesome_Context_Engineering_20260305_121638_719_20260305_12
 # [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering)
 
 Repository of research and techniques for context engineering in AI systems
+
+AI系统中上下文工程的研究与技术仓库

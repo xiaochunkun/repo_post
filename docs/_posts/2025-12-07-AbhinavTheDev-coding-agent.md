@@ -7,3 +7,5 @@ image: assets/AbhinavTheDev_coding_agent_20251205_003537_741_20251205_003612_dab
 # [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent/)
 
 Open-source coding assistant web app built with Next.js and CopilotKit
+
+使用Next.js和CopilotKit构建的开源代码助手Web应用

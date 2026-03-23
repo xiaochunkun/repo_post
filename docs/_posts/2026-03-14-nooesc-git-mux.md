@@ -7,3 +7,5 @@ image: assets/nooesc_git_mux_20260314_012733_646_20260314_013018_a3634b.png
 # [nooesc/git-mux](https://github.com/nooesc/git-mux)
 
 Browse GitHub repos in terminal
+
+在终端中浏览GitHub仓库

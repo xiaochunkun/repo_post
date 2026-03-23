@@ -7,3 +7,5 @@ image: assets/kennedn_tapo_onboarding_20251210_053914_103_20251210_053949_93952a
 # [kennedn/tapo-onboarding](https://github.com/kennedn/tapo-onboarding/)
 
 Onboards TP-Link Tapo cameras without cloud dependency
+
+无云依赖的 TP-Link Tapo 摄像头配置工具

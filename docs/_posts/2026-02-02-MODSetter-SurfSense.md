@@ -7,3 +7,5 @@ image: assets/MODSetter_SurfSense_20260129_002151_472_20260129_002227_e6e158.png
 # [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
 
 Connects LLMs to internal knowledge sources for real-time team chat
+
+将LLM连接到内部知识源，实现实时团队聊天

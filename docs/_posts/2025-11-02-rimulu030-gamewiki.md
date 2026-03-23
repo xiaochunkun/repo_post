@@ -7,3 +7,5 @@ image: assets/rimulu030_gamewiki_20251031_071907_253_20251101_205553_70d2f4--202
 # [rimulu030/gamewiki](https://github.com/rimulu030/gamewiki/)
 
 In-game AI assistant with a wiki overlay
+
+带有维基覆盖层的游戏内 AI 助手

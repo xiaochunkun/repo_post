@@ -7,3 +7,5 @@ image: assets/Harries_skills_desktop_20260309_111957_954_20260309_112144_bd27c2.
 # [Harries/skills-desktop](https://github.com/Harries/skills-desktop)
 
 Desktop client for managing Claude Code Skills
+
+管理 Claude Code Skills 的桌面客户端

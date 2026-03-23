@@ -7,3 +7,5 @@ image: assets/jacob_bd_notebooklm_mcp_20260113_133141_777_20260113_133157_5b11d6
 # [jacob-bd/notebooklm-mcp](https://github.com/jacob-bd/notebooklm-mcp)
 
 Connects LLMs to NotebookLM via MCP
+
+通过 MCP 将 LLM 连接到 NotebookLM

@@ -7,3 +7,5 @@ image: assets/cartesiancs_map3d_20260104_022400_853_20260104_022418_d93865.png
 # [cartesiancs/map3d](https://github.com/cartesiancs/map3d/)
 
 Generates 3D city maps from OpenStreetMap data for GLB export
+
+从 OpenStreetMap 数据生成用于 GLB 导出的 3D 城市地图

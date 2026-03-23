@@ -7,3 +7,5 @@ image: assets/THUDM_WebRL_20260117_022134_523_20260117_022157_8ad69e.png
 # [THUDM/WebRL](https://github.com/THUDM/WebRL)
 
 Trains web agents via reinforcement learning
+
+通过强化学习训练网络代理

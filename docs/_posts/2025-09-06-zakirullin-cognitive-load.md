@@ -7,3 +7,5 @@ image: assets/20250903T035206263--zakirullin--cognitive-load--20250906T020553722
 # [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load)
 
 tips for reducing cognitive load in code
+
+降低代码认知负荷的实用技巧

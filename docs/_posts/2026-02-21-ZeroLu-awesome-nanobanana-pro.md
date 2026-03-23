@@ -7,3 +7,5 @@ image: assets/ZeroLu_awesome_nanobanana_pro_20260220_151000_764_20260220_151044_
 # [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)
 
 Prompts for image generation models
+
+图像生成模型的提示集合

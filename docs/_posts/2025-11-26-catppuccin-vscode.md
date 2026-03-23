@@ -7,3 +7,5 @@ image: assets/catppuccin_vscode_20251123_210354_723_20251125_221239_b89266--2025
 # [catppuccin/vscode](https://github.com/catppuccin/vscode/)
 
 Theme configuration for VS Code
+
+VS Code 的主题配置

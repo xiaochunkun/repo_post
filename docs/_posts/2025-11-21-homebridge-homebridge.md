@@ -7,3 +7,5 @@ image: assets/homebridge_homebridge_20251120_070149_918_20251121_055037_a4bd25--
 # [homebridge/homebridge](https://github.com/homebridge/homebridge/)
 
 Node.js server emulating HomeKit API
+
+模拟 HomeKit API 的 Node.js 服务器

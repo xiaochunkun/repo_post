@@ -7,3 +7,5 @@ image: assets/thiswillbeyourgithub_wdoc_20251225_232406_511_20251225_232500_b95f
 # [thiswillbeyourgithub/wdoc](https://github.com/thiswillbeyourgithub/wdoc/)
 
 RAG system for summaries and queries across document types
+
+跨文档类型进行摘要和查询的 RAG 系统

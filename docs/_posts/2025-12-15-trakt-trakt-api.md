@@ -7,3 +7,5 @@ image: assets/trakt_trakt_api_20251213_100721_477_20251213_100855_e0c77f.png
 # [trakt/trakt-api](https://github.com/trakt/trakt-api/)
 
 API for TV show and movie tracking data
+
+用于追踪电视剧和电影数据的API

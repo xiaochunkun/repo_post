@@ -7,3 +7,5 @@ image: assets/20250825T025204547--gabber-dev--gabber--20250825T030239281--croppe
 # [gabber-dev/gabber](https://github.com/gabber-dev/gabber)
 
 builds real-time AI apps with voice, text, and video
+
+构建语音、文本和视频实时 AI 应用

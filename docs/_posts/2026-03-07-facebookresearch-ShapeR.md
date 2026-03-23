@@ -7,3 +7,5 @@ image: assets/facebookresearch_ShapeR_20260224_034817_208_20260224_034833_0f3f02
 # [facebookresearch/ShapeR](https://github.com/facebookresearch/ShapeR)
 
 Generates 3D meshes from image sequences and SLAM points
+
+从图像序列和SLAM点生成3D网格

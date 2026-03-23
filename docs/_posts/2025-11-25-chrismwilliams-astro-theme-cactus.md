@@ -7,3 +7,5 @@ image: assets/chrismwilliams_astro_theme_cactus_20251123_182558_065_20251124_184
 # [chrismwilliams/astro-theme-cactus](https://github.com/chrismwilliams/astro-theme-cactus/)
 
 Astro blog starter with Tailwind
+
+基于 Tailwind 的 Astro 博客启动器

@@ -7,3 +7,5 @@ image: assets/langflow-ai_langflow_cropped.png
 # [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
 
 Low-code app builder for AI workflows
+
+用于 AI 工作流的低代码应用构建器

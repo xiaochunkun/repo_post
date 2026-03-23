@@ -7,3 +7,5 @@ image: assets/Sanster_IOPaint_cropped.png
 # [Sanster/IOPaint](https://github.com/Sanster/IOPaint)
 
 Remove or replace stuff in photos using AI-powered inpainting
+
+使用 AI 驱动的修复技术移除或替换照片中的内容

@@ -7,3 +7,5 @@ image: assets/dvgodoy_FineTuningLLMs_20251213_074926_691_20251213_074951_80000b.
 # [dvgodoy/FineTuningLLMs](https://github.com/dvgodoy/FineTuningLLMs/)
 
 Guide to fine-tuning LLMs with PyTorch and Hugging Face
+
+使用 PyTorch 和 Hugging Face 微调 LLM 的指南

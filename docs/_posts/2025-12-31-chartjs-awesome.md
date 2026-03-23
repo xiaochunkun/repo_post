@@ -7,3 +7,5 @@ image: assets/chartjs_awesome_20251230_035656_937_20251230_035718_17b92f.png
 # [chartjs/awesome](https://github.com/chartjs/awesome/)
 
 Curated list of resources for Chart.js
+
+Chart.js 资源的精选列表

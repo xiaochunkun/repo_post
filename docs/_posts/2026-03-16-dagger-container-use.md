@@ -7,3 +7,5 @@ image: assets/dagger_container_use_20260309_140610_242_20260309_140802_d43097.pn
 # [dagger/container-use](https://github.com/dagger/container-use)
 
 Containerized environments for coding agents
+
+编码代理的容器化环境

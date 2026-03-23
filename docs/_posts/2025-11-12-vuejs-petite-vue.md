@@ -7,3 +7,5 @@ image: assets/vuejs_petite_vue_20251111_052814_531_20251112_020532_f6a535--20251
 # [vuejs/petite-vue](https://github.com/vuejs/petite-vue/)
 
 Alternative distribution of Vue for progressive enhancement
+
+用于渐进增强的 Vue 替代分发版本

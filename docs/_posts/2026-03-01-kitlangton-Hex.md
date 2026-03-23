@@ -7,3 +7,5 @@ image: assets/kitlangton_Hex_20260226_214938_529_20260226_215136_8b21ef.png
 # [kitlangton/Hex](https://github.com/kitlangton/Hex)
 
 Transcribes voice to text via hotkey
+
+通过热键将语音转录为文本

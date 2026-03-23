@@ -7,3 +7,5 @@ image: assets/20250823T012247585--photoprism--photoprism--20250823T013706133--cr
 # [photoprism/photoprism](https://github.com/photoprism/photoprism)
 
 AI-powered photo organizer for private self-hosting
+
+AI 驱动的私人自托管照片管理工具

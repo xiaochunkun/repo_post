@@ -7,3 +7,5 @@ image: assets/MartinMisiak_Stereoscopic_Impostors_Unity_20260313_185959_945_2026
 # [MartinMisiak/Stereoscopic-Impostors-Unity](https://github.com/MartinMisiak/Stereoscopic-Impostors-Unity)
 
 Runtime stereoscopic impostors for Unity VR
+
+Unity VR的运行时立体替身

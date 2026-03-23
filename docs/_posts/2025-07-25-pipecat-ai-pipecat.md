@@ -7,3 +7,5 @@ image: assets/pipecat-ai_pipecat_cropped.png
 # [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
 
 Framework for building voice and chat bots with real-time AI
+
+框架，用于构建语音和聊天机器人，支持实时AI

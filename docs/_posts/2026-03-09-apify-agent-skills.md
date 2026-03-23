@@ -7,3 +7,5 @@ image: assets/apify_agent_skills_20260309_161209_256_20260309_161356_cc4023.png
 # [apify/agent-skills](https://github.com/apify/agent-skills)
 
 Skills for web scraping and automation with AI assistants
+
+AI助手网络爬取和自动化的技能

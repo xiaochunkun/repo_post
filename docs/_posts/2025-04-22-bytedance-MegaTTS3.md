@@ -7,3 +7,5 @@ image: assets/bytedance_MegaTTS3_cropped.png
 # [bytedance/MegaTTS3](https://github.com/bytedance/MegaTTS3)
 
 MegaTTS3: speech-to-text aligner and TTS model with voice cloning, supports Chinese and English, runs locally
+
+MegaTTS3：语音转文本对齐器和 TTS 模型，支持语音克隆，中英文，本地运行

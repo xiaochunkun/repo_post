@@ -7,3 +7,5 @@ image: assets/SeaDve_Mousai_20251125_004324_894_20251126_100608_39453e--20251126
 # [SeaDve/Mousai](https://github.com/SeaDve/Mousai/)
 
 Identifies songs from desktop audio or microphone
+
+从桌面音频或麦克风识别歌曲

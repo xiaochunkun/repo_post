@@ -7,3 +7,5 @@ image: assets/20250830T174948430--mxrch--GHunt--20250830T183848475--cropped.png
 # [mxrch/GHunt](https://github.com/mxrch/GHunt)
 
 OSINT tool for digging up info from Google accounts
+
+从 Google 账户挖掘信息的 OSINT 工具

@@ -7,3 +7,5 @@ image: assets/greensock_gsap_skills_20260321_225141_340_20260321_225240_01a078.p
 # [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
 
 GSAP AI skills for agents
+
+代理的GSAP AI技能

@@ -7,3 +7,5 @@ image: assets/W00t3k_Awesome_Cellular_Hacking_20251112_042431_685_20251113_03553
 # [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking/)
 
 Curated list of resources for cellular security research
+
+蜂窝安全研究的精选资源列表

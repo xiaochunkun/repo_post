@@ -7,3 +7,5 @@ image: assets/finalpi_wechat2tg_20251123_140809_232_20251124_003430_c566a3--2025
 # [finalpi/wechat2tg](https://github.com/finalpi/wechat2tg/)
 
 Transmits WeChat messages on Telegram
+
+在 Telegram 上传输微信消息

@@ -7,3 +7,5 @@ image: assets/browser-use_browser-use_cropped.png
 # [browser-use/browser-use](https://github.com/browser-use/browser-use)
 
 connects AI agents with browsers for automating website tasks
+
+连接AI代理与浏览器，自动化网站任务

@@ -7,3 +7,5 @@ image: assets/Receipt_Wrangler_receipt_wrangler_api_20251125_233232_009_20251128
 # [Receipt-Wrangler/receipt-wrangler-api](https://github.com/Receipt-Wrangler/receipt-wrangler-api/)
 
 Backend for receipt management and splitting
+
+收据管理和分摊的后端

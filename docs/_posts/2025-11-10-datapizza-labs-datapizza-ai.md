@@ -7,3 +7,5 @@ image: assets/datapizza_labs_datapizza_ai_20251110_025830_943_20251110_115953_82
 # [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai/)
 
 GenAI framework prioritizing control over abstraction
+
+优先控制而非抽象的GenAI框架

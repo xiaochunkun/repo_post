@@ -7,3 +7,5 @@ image: assets/jezweb_claude_skills_20260227_142810_144_20260227_142919_d576db.pn
 # [jezweb/claude-skills](https://github.com/jezweb/claude-skills)
 
 Workflows for Claude Code to scaffold and deploy projects
+
+Claude Code脚手架和部署项目的工作流程

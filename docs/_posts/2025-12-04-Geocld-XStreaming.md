@@ -7,3 +7,5 @@ image: assets/Geocld_XStreaming_20251201_082300_548_20251201_082331_b61bc1.png
 # [Geocld/XStreaming](https://github.com/Geocld/XStreaming/)
 
 Open source Xbox and xCloud streaming client for Android and iOS
+
+适用于Android和iOS的开源Xbox及xCloud流媒体客户端

@@ -7,3 +7,5 @@ image: assets/jkfran_killport_20251113_043656_745_20251113_222516_331809--202511
 # [jkfran/killport](https://github.com/jkfran/killport/)
 
 Command-line utility to terminate processes or containers on specified ports
+
+终止指定端口进程或容器的命令行工具

@@ -7,3 +7,5 @@ image: assets/mad_bax_dev_Monitor_board_20251231_162830_214_20251231_162920_990b
 # [mad-bax-dev/Monitor-board](https://github.com/mad-bax-dev/Monitor-board/)
 
 Dashboard for monitoring services on multiple displays
+
+在多显示器上监控服务的仪表板

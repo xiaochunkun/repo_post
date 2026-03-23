@@ -7,3 +7,5 @@ image: assets/zubair_trabzada_geo_seo_claude_20260308_201631_813_20260308_201811
 # [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)
 
 Optimizes websites for AI search engines
+
+为 AI 搜索引擎优化网站

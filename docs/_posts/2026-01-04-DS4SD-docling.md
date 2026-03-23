@@ -7,3 +7,5 @@ image: assets/DS4SD_docling_20260103_004843_082_20260103_004859_ba2793.png
 # [DS4SD/docling](https://github.com/DS4SD/docling/)
 
 PDF layout and table extraction for gen AI
+
+用于生成式AI的PDF布局和表格提取

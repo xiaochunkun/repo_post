@@ -7,3 +7,5 @@ image: assets/mongo_express_mongo_express_20251123_203724_217_20251125_215310_3a
 # [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express/)
 
 Web-based admin interface for MongoDB
+
+基于 Web 的 MongoDB 管理界面

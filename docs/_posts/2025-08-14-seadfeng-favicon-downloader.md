@@ -7,3 +7,5 @@ image: assets/seadfeng_favicon-downloader--20250814T043236192--cropped.png
 # [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
 download favicons from any website in multiple sizes
+
+从任何网站下载多种尺寸的favicon

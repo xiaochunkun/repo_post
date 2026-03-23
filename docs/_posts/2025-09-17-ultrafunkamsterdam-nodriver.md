@@ -7,3 +7,5 @@ image: assets/20250917T003039327--ultrafunkamsterdam--nodriver--20250917T0032400
 # [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
 
 async web scraping and browser automation in Python, no webdriver or selenium needed
+
+Python 中的异步网页抓取和浏览器自动化，无需 webdriver 或 selenium

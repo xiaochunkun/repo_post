@@ -7,3 +7,5 @@ image: assets/Sjj1024_PakePlus_Android_20251219_120312_751_20251219_120335_fc03e
 # [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android/)
 
 Converts websites into desktop and mobile applications
+
+将网站转换为桌面和移动应用

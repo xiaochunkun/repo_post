@@ -7,3 +7,5 @@ image: assets/FiloSottile_age_20260223_085551_915_20260223_085619_70eec3.png
 # [FiloSottile/age](https://github.com/FiloSottile/age)
 
 Encryption tool with small keys and UNIX composability
+
+小密钥和UNIX可组合性的加密工具

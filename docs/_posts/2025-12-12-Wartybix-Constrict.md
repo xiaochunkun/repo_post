@@ -7,3 +7,5 @@ image: assets/Wartybix_Constrict_20251209_044903_318_20251209_045023_6bc58c.png
 # [Wartybix/Constrict](https://github.com/Wartybix/Constrict/)
 
 Compresses videos to specific target file sizes
+
+将视频压缩至特定目标文件大小

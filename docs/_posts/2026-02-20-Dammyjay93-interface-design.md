@@ -7,3 +7,5 @@ image: assets/Dammyjay93_interface_design_20260208_092049_444_20260208_092148_53
 # [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design)
 
 Enforces design consistency for Claude Code
+
+为 Claude Code 强制执行设计一致性

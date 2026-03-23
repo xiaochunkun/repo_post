@@ -7,3 +7,5 @@ image: assets/PAndreew_docustore_20251122_191032_641_20251123_001418_89150f--202
 # [PAndreew/docustore](https://github.com/PAndreew/docustore/)
 
 Scrapes documentation into a vector API
+
+将文档抓取到向量API中

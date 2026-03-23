@@ -7,3 +7,5 @@ image: assets/hak5_bashbunny_payloads_20251215_011208_350_20251215_011312_bc7348
 # [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads/)
 
 Payloads and extensions for Hak5 Bash Bunny
+
+Hak5 Bash Bunny的payload和扩展

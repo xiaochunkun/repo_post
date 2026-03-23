@@ -7,3 +7,5 @@ image: assets/Y_Research_SBU_QuantAgent_20260128_235229_515_20260128_235318_f949
 # [Y-Research-SBU/QuantAgent](https://github.com/Y-Research-SBU/QuantAgent)
 
 Multi-agent system for high-frequency trading
+
+用于高频交易的多代理系统

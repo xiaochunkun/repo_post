@@ -7,3 +7,5 @@ image: assets/SpatiumPortae_portal_20260117_095417_553_20260117_095433_c1bf93.pn
 # [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal)
 
 Transfers files between computers via the command line
+
+通过命令行在计算机间传输文件

@@ -7,3 +7,5 @@ image: assets/Miladxsar23_smartstepper_20251201_030632_649_20251201_030709_734cb
 # [Miladxsar23/smartstepper](https://github.com/Miladxsar23/smartstepper/)
 
 React stepper component with config-driven API
+
+具有配置驱动 API 的 React 步进器组件

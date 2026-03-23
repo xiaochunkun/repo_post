@@ -7,3 +7,5 @@ image: assets/cmushroom_redis_pro_20251209_052504_782_20251209_052542_b51d7c.png
 # [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro/)
 
 Redis management tool written in SwiftUI
+
+用SwiftUI编写的Redis管理工具

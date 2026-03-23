@@ -7,3 +7,5 @@ image: assets/20251005T100626407--eradman--entr--20251005T101501265--cropped.png
 # [eradman/entr](https://github.com/eradman/entr)
 
 run commands automatically when files change
+
+文件更改时自动运行命令

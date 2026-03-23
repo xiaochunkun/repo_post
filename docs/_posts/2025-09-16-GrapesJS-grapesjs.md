@@ -7,3 +7,5 @@ image: assets/20250822T015159657--GrapesJS--grapesjs--20250915T232810951--croppe
 # [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)
 
 drag and drop web builder for templates and emails
+
+拖放式网页构建器，用于模板和邮件

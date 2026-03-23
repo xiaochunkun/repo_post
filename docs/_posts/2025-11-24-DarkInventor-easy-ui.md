@@ -7,3 +7,5 @@ image: assets/DarkInventor_easy_ui_20251123_074948_329_20251124_001940_6191f8--2
 # [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui/)
 
 50+ animated React and Tailwind templates
+
+50+ 个动画 React 和 Tailwind 模板

@@ -7,3 +7,5 @@ image: assets/ogkalu2_comic_translate_20251110_170427_961_20251111_015250_deb261
 # [ogkalu2/comic-translate](https://github.com/ogkalu2/comic-translate/)
 
 Desktop app for translating comics using LLMs
+
+使用LLM翻译漫画的桌面应用

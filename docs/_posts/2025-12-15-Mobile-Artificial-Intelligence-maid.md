@@ -7,3 +7,5 @@ image: assets/Mobile_Artificial_Intelligence_maid_20251213_090205_061_20251213_0
 # [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid/)
 
 Cross-platform Flutter app for interfacing with LLM models locally and remotely
+
+跨平台Flutter应用，用于本地和远程与LLM模型交互

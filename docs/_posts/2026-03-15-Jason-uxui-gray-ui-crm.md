@@ -7,3 +7,5 @@ image: assets/Jason_uxui_gray_ui_crm_20260314_234608_890_20260314_234657_2d99cb.
 # [Jason-uxui/gray-ui-crm](https://github.com/Jason-uxui/gray-ui-crm)
 
 CRM UI showcase with Next.js and shadcn/ui
+
+使用 Next.js 和 shadcn/ui 的 CRM UI 展示

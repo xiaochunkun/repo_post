@@ -7,3 +7,5 @@ image: assets/johnalanwoods_maintained_modern_unix_20251224_234027_008_20251224_
 # [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix/)
 
 List of terminal tools for Linux and macOS
+
+Linux 和 macOS 的终端工具列表

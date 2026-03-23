@@ -7,3 +7,5 @@ image: assets/DualCoder_vgpu_unlock_20251205_034503_359_20251205_034623_cd8a83.p
 # [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock/)
 
 Unlocks vGPU functionality for consumer Nvidia GPUs
+
+解锁消费级 Nvidia GPU 的 vGPU 功能

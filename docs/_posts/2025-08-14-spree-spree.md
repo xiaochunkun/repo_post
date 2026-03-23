@@ -7,3 +7,5 @@ image: assets/spree_spree--20250814T041817195--cropped.png
 # [spree/spree](https://github.com/spree/spree)
 
 Open source eCommerce framework Spree lets you build and customize your own online store
+
+开源电商框架Spree，让你构建和定制自己的在线商店

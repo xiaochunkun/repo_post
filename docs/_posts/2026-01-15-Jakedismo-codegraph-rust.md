@@ -7,3 +7,5 @@ image: assets/Jakedismo_codegraph_rust_20260113_141013_080_20260113_141026_4afd5
 # [Jakedismo/codegraph-rust](https://github.com/Jakedismo/codegraph-rust)
 
 Knowledge graph for AI agents to reason about codebases
+
+AI 代理推理代码库的知识图谱

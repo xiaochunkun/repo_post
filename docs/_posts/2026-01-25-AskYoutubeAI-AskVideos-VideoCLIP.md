@@ -7,3 +7,5 @@ image: assets/AskYoutubeAI_AskVideos_VideoCLIP_20260116_161032_120_20260116_1610
 # [AskYoutubeAI/AskVideos-VideoCLIP](https://github.com/AskYoutubeAI/AskVideos-VideoCLIP)
 
 Video embeddings for search and classification
+
+用于搜索和分类的视频嵌入

@@ -7,3 +7,5 @@ image: assets/gravesoft_msdl_20251228_081532_493_20251228_081548_903139.png
 # [gravesoft/msdl](https://github.com/gravesoft/msdl/)
 
 Browse and download products from Microsoft software download pages
+
+浏览和下载 Microsoft 软件下载页面的产品

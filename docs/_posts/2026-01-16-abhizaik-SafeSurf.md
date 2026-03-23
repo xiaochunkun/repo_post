@@ -7,3 +7,5 @@ image: assets/abhizaik_SafeSurf_20260115_152641_801_20260115_152657_427e2d.png
 # [abhizaik/SafeSurf](https://github.com/abhizaik/SafeSurf)
 
 Engine for phishing detection with a web UI and browser extension
+
+具有 Web UI 和浏览器扩展的网络钓鱼检测引擎

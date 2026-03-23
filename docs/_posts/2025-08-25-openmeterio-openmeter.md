@@ -7,3 +7,5 @@ image: assets/20250823T014726741--openmeterio--openmeter--20250825T015959284--cr
 # [openmeterio/openmeter](https://github.com/openmeterio/openmeter)
 
 open source billing and metering for AI and dev tools
+
+AI 和开发者工具的开源计费和计量系统

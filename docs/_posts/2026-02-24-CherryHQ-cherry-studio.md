@@ -7,3 +7,5 @@ image: assets/CherryHQ_cherry_studio_20260216_072729_189_20260216_072825_65b0dd.
 # [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 
 Desktop client for multiple LLM providers
+
+多LLM提供商桌面客户端

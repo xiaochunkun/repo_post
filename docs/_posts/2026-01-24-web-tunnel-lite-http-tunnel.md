@@ -7,3 +7,5 @@ image: assets/web_tunnel_lite_http_tunnel_20260122_221533_477_20260122_221550_3a
 # [web-tunnel/lite-http-tunnel](https://github.com/web-tunnel/lite-http-tunnel)
 
 Exposes local HTTP and WebSocket services to the internet
+
+将本地HTTP和WebSocket服务暴露至互联网

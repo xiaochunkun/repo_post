@@ -7,3 +7,5 @@ image: assets/AgenticInternet_agentic_internet_20260114_150416_523_20260114_1504
 # [AgenticInternet/agentic-internet](https://github.com/AgenticInternet/agentic-internet)
 
 AI agents for internet research and task execution
+
+用于互联网研究和任务执行的 AI 代理

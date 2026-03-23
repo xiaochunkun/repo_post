@@ -7,3 +7,5 @@ image: assets/datawhalechina_happy-llm_cropped.png
 # [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
 
 large language model tutorials and training basics from scratch
+
+从零开始的大语言模型教程和训练基础

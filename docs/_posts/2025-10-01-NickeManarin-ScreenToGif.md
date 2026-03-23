@@ -7,3 +7,5 @@ image: assets/20251001T105713690--NickeManarin--ScreenToGif--20251001T110730950-
 # [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 
 record screen, webcam, or sketchboard and save as gif or video
+
+录制屏幕、网络摄像头或画板，并保存为GIF或视频

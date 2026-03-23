@@ -7,3 +7,5 @@ image: assets/Szybet_Yatchy_20251209_062430_673_20251209_062536_b80dff.png
 # [Szybet/Yatchy](https://github.com/Szybet/Yatchy/)
 
 Modular redesign of the Watchy smartwatch
+
+Watchy 智能手表的模块化重新设计

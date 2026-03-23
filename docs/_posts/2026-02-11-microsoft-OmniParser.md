@@ -7,3 +7,5 @@ image: assets/microsoft_OmniParser_20260203_012545_307_20260203_012604_21ecaf.pn
 # [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
 
 Parses screenshots into elements for agents
+
+将截图解析为代理可用的元素

@@ -7,3 +7,5 @@ image: assets/20250927T041757122--LeonMusCoden--LetterFeed--20250927T042807902--
 # [LeonMusCoden/LetterFeed](https://github.com/LeonMusCoden/LetterFeed)
 
 turns email newsletters into rss feeds you control
+
+将电子邮件通讯转换为可控制的RSS订阅源

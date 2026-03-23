@@ -7,3 +7,5 @@ image: assets/venil7_assets_20260116_190243_629_20260116_190259_5589c0.png
 # [venil7/assets](https://github.com/venil7/assets)
 
 Self-hosted net worth and portfolio manager
+
+自托管净资产和投资组合管理器

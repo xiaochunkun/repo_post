@@ -7,3 +7,5 @@ image: assets/technomancy-dev_00_cropped.png
 # [technomancy-dev/00](https://github.com/technomancy-dev/00)
 
 markdown email microservice for sending and tracking with AWS SES
+
+使用 AWS SES 发送和跟踪的 Markdown 电子邮件微服务

@@ -7,3 +7,5 @@ image: assets/JampaUchoa_the_art_of_engineering_management_20260131_233940_565_2
 # [JampaUchoa/the-art-of-engineering-management](https://github.com/JampaUchoa/the-art-of-engineering-management)
 
 Guide for engineers transitioning into management
+
+工程师转型管理的指南

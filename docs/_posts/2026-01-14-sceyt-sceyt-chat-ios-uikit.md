@@ -7,3 +7,5 @@ image: assets/sceyt_sceyt_chat_ios_uikit_20260113_153757_893_20260113_153810_b09
 # [sceyt/sceyt-chat-ios-uikit](https://github.com/sceyt/sceyt-chat-ios-uikit)
 
 Chat integration toolkit for iOS with offline support
+
+带离线支持的 iOS 聊天集成工具包

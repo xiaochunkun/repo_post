@@ -7,3 +7,5 @@ image: assets/20250923T023640053--facebookresearch--Kats--20250923T024411648--cr
 # [facebookresearch/Kats](https://github.com/facebookresearch/Kats)
 
 toolkit for time series analysis, forecasting, and anomaly detection
+
+用于时间序列分析、预测和异常检测的工具包

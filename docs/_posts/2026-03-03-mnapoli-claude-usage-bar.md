@@ -7,3 +7,5 @@ image: assets/mnapoli_claude_usage_bar_20260201_003022_139_20260201_003102_22c73
 # [mnapoli/claude-usage-bar](https://github.com/mnapoli/claude-usage-bar)
 
 Menu bar app tracks Claude Pro usage limits
+
+菜单栏应用跟踪 Claude Pro 使用限制

@@ -7,3 +7,5 @@ image: assets/dragonflylee_switchfin_20260112_091243_243_20260112_091302_8fa0ad.
 # [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin)
 
 Jellyfin client for consoles and PC
+
+游戏机和PC的Jellyfin客户端

@@ -7,3 +7,5 @@ image: assets/zemendaniel_intercom_20260122_021347_728_20260122_021403_81d464.pn
 # [zemendaniel/intercom](https://github.com/zemendaniel/intercom)
 
 WebRTC intercom for audio and video communication
+
+支持音视频通信的WebRTC对讲系统

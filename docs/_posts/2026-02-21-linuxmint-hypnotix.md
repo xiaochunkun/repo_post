@@ -7,3 +7,5 @@ image: assets/linuxmint_hypnotix_20260220_151229_170_20260220_151301_379578.png
 # [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)
 
 IPTV player for live TV, movies, and series
+
+用于直播电视、电影和系列的 IPTV 播放器

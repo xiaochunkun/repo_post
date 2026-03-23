@@ -7,3 +7,5 @@ image: assets/ImpulseAdventure_GUIslice_Builder_20260217_031610_971_20260217_031
 # [ImpulseAdventure/GUIslice-Builder](https://github.com/ImpulseAdventure/GUIslice-Builder)
 
 Drag and drop GUI generator for embedded displays
+
+嵌入式显示器的拖放式 GUI 生成器

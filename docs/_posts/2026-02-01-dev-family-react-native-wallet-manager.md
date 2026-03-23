@@ -7,3 +7,5 @@ image: assets/dev_family_react_native_wallet_manager_20260201_000828_690_2026020
 # [dev-family/react-native-wallet-manager](https://github.com/dev-family/react-native-wallet-manager)
 
 Integrates Apple Wallet and Google Wallet into React Native apps
+
+将 Apple Wallet 和 Google Wallet 集成到 React Native 应用中

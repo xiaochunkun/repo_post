@@ -7,3 +7,5 @@ image: assets/20251005T225427061--jbarrow--commonforms--20251005T225635804--crop
 # [jbarrow/commonforms](https://github.com/jbarrow/commonforms)
 
 Convert PDFs into fillable forms automatically with a simple CLI tool
+
+使用简单 CLI 工具自动将 PDF 转换为可填写表单

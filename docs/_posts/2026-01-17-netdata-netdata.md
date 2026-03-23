@@ -7,3 +7,5 @@ image: assets/netdata_netdata_20260116_115906_538_20260116_115922_cff155.png
 # [netdata/netdata](https://github.com/netdata/netdata)
 
 Infrastructure monitoring with per-second metrics
+
+基础设施监控，提供每秒指标

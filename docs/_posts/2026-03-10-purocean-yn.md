@@ -7,3 +7,5 @@ image: assets/purocean_yn_20260309_081834_864_20260309_082123_d13af7.png
 # [purocean/yn](https://github.com/purocean/yn)
 
 Markdown editor with AI copilot and runnable code blocks
+
+具备AI副驾驶和可运行代码块的Markdown编辑器

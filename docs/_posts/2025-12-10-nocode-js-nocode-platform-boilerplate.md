@@ -7,3 +7,5 @@ image: assets/nocode_js_nocode_platform_boilerplate_20251208_003404_889_20251208
 # [nocode-js/nocode-platform-boilerplate](https://github.com/nocode-js/nocode-platform-boilerplate/)
 
 Next.js boilerplate for building no-code platforms
+
+构建无代码平台的Next.js样板

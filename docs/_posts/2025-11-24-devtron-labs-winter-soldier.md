@@ -7,3 +7,5 @@ image: assets/devtron_labs_winter_soldier_20251123_074054_699_20251124_001922_05
 # [devtron-labs/winter-soldier](https://github.com/devtron-labs/winter-soldier/)
 
 Hibernates or deletes Kubernetes workloads
+
+休眠或删除 Kubernetes 工作负载

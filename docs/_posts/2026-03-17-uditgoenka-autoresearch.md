@@ -7,3 +7,5 @@ image: assets/uditgoenka_autoresearch_20260317_021328_454_20260317_021436_6d741b
 # [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch)
 
 Autonomous loop compounding improvements
+
+自主循环复合改进

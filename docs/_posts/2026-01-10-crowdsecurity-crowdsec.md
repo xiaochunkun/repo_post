@@ -7,3 +7,5 @@ image: assets/crowdsecurity_crowdsec_20260108_071755_569_20260108_071809_7a0345.
 # [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
 
 Security engine for crowdsourced threat intelligence
+
+众包威胁情报安全引擎

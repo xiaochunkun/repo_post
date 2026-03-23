@@ -7,3 +7,5 @@ image: assets/Nerwyn_material_you_theme_20251217_170709_047_20251217_170730_206d
 # [Nerwyn/material-you-theme](https://github.com/Nerwyn/material-you-theme/)
 
 Material Design 3 implementation for Home Assistant
+
+Home Assistant 的 Material Design 3 实现

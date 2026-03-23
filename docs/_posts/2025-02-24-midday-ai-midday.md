@@ -7,3 +7,5 @@ image: assets/midday-ai_midday_cropped.png
 # [midday-ai/midday](https://github.com/midday-ai/midday)
 
 Open-source financial management app for freelancers
+
+面向自由职业者的开源财务管理应用

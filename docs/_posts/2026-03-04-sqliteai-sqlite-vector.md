@@ -7,3 +7,5 @@ image: assets/sqliteai_sqlite_vector_20260225_143426_648_20260225_143634_5de6fe.
 # [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector)
 
 Vector search extension for SQLite tables
+
+SQLite表的向量搜索扩展

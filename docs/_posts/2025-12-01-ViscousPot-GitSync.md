@@ -7,3 +7,5 @@ image: assets/ViscousPot_GitSync_20251130_055740_151_20251130_084257_9286c3--202
 # [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync/)
 
 Mobile git client for syncing repositories
+
+移动端git客户端，用于同步仓库

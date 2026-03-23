@@ -7,3 +7,5 @@ image: assets/20250830T153545485--Nukesor--pueue--20250830T173507825--cropped.pn
 # [Nukesor/pueue](https://github.com/Nukesor/pueue)
 
 queue shell commands and manage tasks from the terminal
+
+终端命令队列和任务管理工具

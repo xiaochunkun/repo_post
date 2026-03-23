@@ -7,3 +7,5 @@ image: assets/20251003T231229836--lanxiuyun--lazyeat--20251009T194954251--croppe
 # [lanxiuyun/lazyeat](https://github.com/lanxiuyun/lazyeat)
 
 contactless gesture and voice control tool for hands-free device use
+
+用于免提设备使用的非接触式手势和语音控制工具

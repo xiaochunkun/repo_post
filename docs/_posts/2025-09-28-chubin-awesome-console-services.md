@@ -7,3 +7,5 @@ image: assets/20250928T052830052--chubin--awesome-console-services--20250928T053
 # [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services)
 
 curated list of command-line tools and APIs for the terminal
+
+精选的命令行工具和API列表，适用于终端

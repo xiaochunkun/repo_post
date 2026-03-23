@@ -7,3 +7,5 @@ image: assets/tensorchord_pg_bestmatch.rs_cropped.png
 # [tensorchord/pg_bestmatch.rs](https://github.com/tensorchord/pg_bestmatch.rs)
 
 PostgreSQL extension for BM25-based text search and sparse vector queries
+
+用于基于BM25的文本搜索和稀疏向量查询的PostgreSQL扩展

@@ -7,3 +7,5 @@ image: assets/livekit_livekit_20251018_163454_668_20251018_181046--20251018T2010
 # [livekit/livekit](https://github.com/livekit/livekit/)
 
 Open-source WebRTC for real-time video, audio, data
+
+开源的 WebRTC 实时视频、音频、数据传输

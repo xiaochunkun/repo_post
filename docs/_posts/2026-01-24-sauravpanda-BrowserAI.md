@@ -7,3 +7,5 @@ image: assets/sauravpanda_BrowserAI_20260122_113955_433_20260122_114017_d38d97.p
 # [sauravpanda/BrowserAI](https://github.com/sauravpanda/BrowserAI)
 
 Runs local LLMs in a browser
+
+在浏览器中运行本地 LLMs

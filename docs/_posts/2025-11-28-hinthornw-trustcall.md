@@ -7,3 +7,5 @@ image: assets/hinthornw_trustcall_20251125_032822_518_20251127_164431_3f9b14--20
 # [hinthornw/trustcall](https://github.com/hinthornw/trustcall/)
 
 Generates structured data using JSON patches
+
+使用 JSON 补丁生成结构化数据

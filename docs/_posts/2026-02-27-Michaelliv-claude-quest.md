@@ -7,3 +7,5 @@ image: assets/Michaelliv_claude_quest_20260201_000054_763_20260201_000135_6fa8d9
 # [Michaelliv/claude-quest](https://github.com/Michaelliv/claude-quest)
 
 Visualizes Claude Code sessions through pixel-art animations
+
+通过像素艺术动画可视化Claude Code会话

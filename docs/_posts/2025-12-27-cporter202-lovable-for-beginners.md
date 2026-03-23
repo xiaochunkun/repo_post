@@ -7,3 +7,5 @@ image: assets/cporter202_lovable_for_beginners_20251226_053927_887_20251226_0539
 # [cporter202/lovable-for-beginners](https://github.com/cporter202/lovable-for-beginners/)
 
 Course for building websites with AI
+
+使用 AI 构建网站的课程

@@ -7,3 +7,5 @@ image: assets/AIPexStudio_AIPex_20251217_225316_391_20251217_225406_653d21.png
 # [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex/)
 
 Browser automation agent in the browser
+
+浏览器内的浏览器自动化代理

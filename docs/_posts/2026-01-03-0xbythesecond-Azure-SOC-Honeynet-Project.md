@@ -7,3 +7,5 @@ image: assets/0xbythesecond_Azure_SOC_Honeynet_Project_20260102_141917_038_20260
 # [0xbythesecond/Azure-SOC-Honeynet-Project](https://github.com/0xbythesecond/Azure-SOC-Honeynet-Project/)
 
 Ingests log sources into a workspace for attack maps and incidents
+
+将日志源导入工作空间以生成攻击地图和事件

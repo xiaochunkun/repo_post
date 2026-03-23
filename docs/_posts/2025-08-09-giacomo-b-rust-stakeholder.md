@@ -7,3 +7,5 @@ image: assets/giacomo-b_rust-stakeholder_cropped.png
 # [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
 
 fake terminal output to look busy at work
+
+生成假终端输出来假装工作忙碌

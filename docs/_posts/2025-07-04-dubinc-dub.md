@@ -7,3 +7,5 @@ image: assets/dubinc_dub_cropped.png
 # [dubinc/dub](https://github.com/dubinc/dub)
 
 link management tool with analytics, custom domains, open-source platform
+
+链接管理工具，具有分析、自定义域名和开源平台

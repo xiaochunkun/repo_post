@@ -7,3 +7,5 @@ image: assets/Kamalnrf_claude_plugins_20260203_003307_554_20260203_003407_635124
 # [Kamalnrf/claude-plugins](https://github.com/Kamalnrf/claude-plugins)
 
 Registry and installer for AI agent skills
+
+AI 代理技能的注册表和安装器

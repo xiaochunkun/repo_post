@@ -7,3 +7,5 @@ image: assets/leits_MeetingBar_20251209_021625_237_20251209_021730_487a5d.png
 # [leits/MeetingBar](https://github.com/leits/MeetingBar/)
 
 Menu bar app for calendar meetings
+
+日历会议的菜单栏应用

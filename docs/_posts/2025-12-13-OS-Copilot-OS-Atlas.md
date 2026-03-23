@@ -7,3 +7,5 @@ image: assets/OS_Copilot_OS_Atlas_20251210_032003_521_20251210_032024_063c97.png
 # [OS-Copilot/OS-Atlas](https://github.com/OS-Copilot/OS-Atlas/)
 
 Foundation action model for generalist GUI agents
+
+通用 GUI 代理的基础动作模型

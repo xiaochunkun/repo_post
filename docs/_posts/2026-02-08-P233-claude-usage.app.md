@@ -7,3 +7,5 @@ image: assets/P233_claude_usage_app_20260208_140023_937_20260208_140112_24b833.p
 # [P233/claude-usage.app](https://github.com/P233/claude-usage.app)
 
 Displays Claude.ai usage statistics in the macOS menubar
+
+在macOS菜单栏显示Claude.ai使用统计

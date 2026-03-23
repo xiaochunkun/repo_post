@@ -7,3 +7,5 @@ image: assets/20250908T095215169--traceloop--openllmetry--20250908T095656758--cr
 # [traceloop/openllmetry](https://github.com/traceloop/openllmetry)
 
 OpenLLMetry lets you add observability to your LLM apps using OpenTelemetry, so you can track and monitor model performance across popular platforms
+
+OpenLLMetry 通过 OpenTelemetry 为 LLM 应用添加可观测性，跟踪和监控模型性能

@@ -7,3 +7,5 @@ image: assets/livekit_agents_playground_20251127_211252_245_20251130_083520_4abe
 # [livekit/agents-playground](https://github.com/livekit/agents-playground/)
 
 Prototypes server-side agents with WebRTC
+
+使用WebRTC的原型服务器端代理

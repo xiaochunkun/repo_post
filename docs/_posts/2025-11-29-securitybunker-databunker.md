@@ -7,3 +7,5 @@ image: assets/securitybunker_databunker_20251126_002058_508_20251128_213649_1ed0
 # [securitybunker/databunker](https://github.com/securitybunker/databunker/)
 
 Self-hosted vault for secure personal data tokenization and storage
+
+用于安全个人数据令牌化和存储的自托管保险库

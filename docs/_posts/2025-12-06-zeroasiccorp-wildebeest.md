@@ -7,3 +7,5 @@ image: assets/zeroasiccorp_wildebeest_20251203_013627_947_20251203_013651_0335f3
 # [zeroasiccorp/wildebeest](https://github.com/zeroasiccorp/wildebeest/)
 
 Open-source RTL synthesis tool building on Yosys
+
+基于Yosys构建的开源RTL综合工具

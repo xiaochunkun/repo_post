@@ -7,3 +7,5 @@ image: assets/MiniCodeMonkey_chief_20260218_011210_060_20260218_011235_0cfadf.pn
 # [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)
 
 Runs Claude Code in loops to complete tasks
+
+循环运行Claude Code以完成任务

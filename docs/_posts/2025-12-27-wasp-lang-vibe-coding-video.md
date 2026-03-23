@@ -7,3 +7,5 @@ image: assets/wasp_lang_vibe_coding_video_20251225_205242_606_20251225_205259_2f
 # [wasp-lang/vibe-coding-video](https://github.com/wasp-lang/vibe-coding-video/)
 
 Workflow for building apps with AI assistance
+
+使用 AI 辅助构建应用的工作流

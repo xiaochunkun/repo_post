@@ -7,3 +7,5 @@ image: assets/Thank_you_Linus_Linus_Dashboard_20260111_160051_572_20260111_16010
 # [Thank-you-Linus/Linus-Dashboard](https://github.com/Thank-you-Linus/Linus-Dashboard)
 
 Auto-organizes Home Assistant devices into sections
+
+自动将 Home Assistant 设备组织到分区

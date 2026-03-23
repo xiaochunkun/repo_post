@@ -7,3 +7,5 @@ image: assets/opensemanticsearch_open_semantic_search_20260316_185607_074_202603
 # [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search)
 
 Semantic search server with OCR and knowledge graph
+
+语义搜索服务器，支持 OCR 和知识图谱

@@ -7,3 +7,5 @@ image: assets/mrjackwills_havn_20251118_073740_040_20251118_160416_570313--20251
 # [mrjackwills/havn](https://github.com/mrjackwills/havn/)
 
 Configurable port scanner built with Rust
+
+使用 Rust 构建的可配置端口扫描器

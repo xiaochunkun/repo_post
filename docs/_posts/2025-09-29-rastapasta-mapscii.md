@@ -7,3 +7,5 @@ image: assets/20250929T015408944--rastapasta--mapscii--20250929T020256393--cropp
 # [rastapasta/mapscii](https://github.com/rastapasta/mapscii)
 
 ASCII and Braille world map right in your terminal
+
+直接在终端中显示的 ASCII 和盲文世界地图

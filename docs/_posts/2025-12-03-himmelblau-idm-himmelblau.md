@@ -7,3 +7,5 @@ image: assets/himmelblau_idm_himmelblau_20251201_064809_046_20251201_064847_8f24
 # [himmelblau-idm/himmelblau](https://github.com/himmelblau-idm/himmelblau/)
 
 Interoperability suite for Azure Entra ID and Intune on Linux
+
+Linux 上 Azure Entra ID 和 Intune 的互操作性套件

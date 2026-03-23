@@ -7,3 +7,5 @@ image: assets/iAmSaugata_file_portal_20251029_233101_139_20251030_003924_89992a-
 # [iAmSaugata/file-portal](https://github.com/iAmSaugata/file-portal/)
 
 Self-hosted file portal with tokenized links and parallel uploads
+
+自托管文件门户，支持令牌化链接和并行上传

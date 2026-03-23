@@ -7,3 +7,5 @@ image: assets/djyde_PandocX_20251114_192833_862_20251115_035419_aaa582--20251115
 # [djyde/PandocX](https://github.com/djyde/PandocX/)
 
 GUI for Pandoc that works without installation
+
+无需安装即可使用的Pandoc GUI

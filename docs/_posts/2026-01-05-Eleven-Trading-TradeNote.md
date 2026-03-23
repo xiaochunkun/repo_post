@@ -7,3 +7,5 @@ image: assets/Eleven_Trading_TradeNote_20260104_112840_883_20260104_112856_8f6a4
 # [Eleven-Trading/TradeNote](https://github.com/Eleven-Trading/TradeNote/)
 
 Open source trading journal for data privacy
+
+注重数据隐私的开源交易日志

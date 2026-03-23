@@ -7,3 +7,5 @@ image: assets/20250830T063438261--ericciarla--trendFinder--20250830T091930238--c
 # [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)
 
 tool for tracking social media trends and sending alerts
+
+社交媒体趋势追踪和告警工具

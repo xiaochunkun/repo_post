@@ -7,3 +7,5 @@ image: assets/shiahonb777_web_to_app_20260227_191454_350_20260227_191657_6b4a34.
 # [shiahonb777/web-to-app](https://github.com/shiahonb777/web-to-app)
 
 Converts websites into Android applications without Android Studio
+
+无需Android Studio将网站转换为Android应用

@@ -7,3 +7,5 @@ image: assets/LerianStudio_tracer_20260208_081255_726_20260208_081310_92e982.png
 # [LerianStudio/tracer](https://github.com/LerianStudio/tracer)
 
 Validates financial transactions with sub-100ms decisions
+
+以低于 100 毫秒的决策验证金融交易

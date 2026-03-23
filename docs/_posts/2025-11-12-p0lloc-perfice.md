@@ -7,3 +7,5 @@ image: assets/p0lloc_perfice_20251111_200439_099_20251112_030039_6c3a04--2025111
 # [p0lloc/perfice](https://github.com/p0lloc/perfice/)
 
 Local-first self-tracking platform
+
+本地优先的自我追踪平台

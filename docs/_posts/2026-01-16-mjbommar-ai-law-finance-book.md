@@ -7,3 +7,5 @@ image: assets/mjbommar_ai_law_finance_book_20260116_011813_037_20260116_011826_3
 # [mjbommar/ai-law-finance-book](https://github.com/mjbommar/ai-law-finance-book)
 
 Textbook on AI for law and finance
+
+关于 AI 在法律和金融领域的教科书

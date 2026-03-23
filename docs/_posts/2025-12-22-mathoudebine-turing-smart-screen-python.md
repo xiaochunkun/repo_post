@@ -7,3 +7,5 @@ image: assets/mathoudebine_turing_smart_screen_python_20251221_175701_288_202512
 # [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python/)
 
 System monitor for USB-C displays
+
+USB-C 显示器的系统监视器

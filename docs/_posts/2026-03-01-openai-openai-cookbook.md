@@ -7,3 +7,5 @@ image: assets/openai_openai_cookbook_20260222_051151_644_20260222_051213_39ebd8.
 # [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 
 Guides and code for the OpenAI API
+
+OpenAI API 的指南和代码

@@ -7,3 +7,5 @@ image: assets/xororz_local_dream_20251106_010421_566_20251106_133035_8bb93a--202
 # [xororz/local-dream](https://github.com/xororz/local-dream/)
 
 Stable Diffusion on Android with NPU acceleration
+
+支持NPU加速的Android版Stable Diffusion

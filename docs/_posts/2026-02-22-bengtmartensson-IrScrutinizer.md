@@ -7,3 +7,5 @@ image: assets/bengtmartensson_IrScrutinizer_20260215_065707_967_20260215_065757_
 # [bengtmartensson/IrScrutinizer](https://github.com/bengtmartensson/IrScrutinizer)
 
 Captures and decodes infrared signals
+
+捕获和解码红外信号

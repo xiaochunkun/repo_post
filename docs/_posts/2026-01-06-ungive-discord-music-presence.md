@@ -7,3 +7,5 @@ image: assets/ungive_discord_music_presence_20260105_040615_116_20260105_040634_
 # [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence/)
 
 Displays media playback on Discord
+
+在 Discord 上显示媒体播放状态

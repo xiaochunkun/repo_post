@@ -7,3 +7,5 @@ image: assets/CodeLabClub_awesome_scratch_projects_20251227_111000_447_20251227_
 # [CodeLabClub/awesome-scratch-projects](https://github.com/CodeLabClub/awesome-scratch-projects/)
 
 Curated list of Scratch projects
+
+精选的 Scratch 项目列表

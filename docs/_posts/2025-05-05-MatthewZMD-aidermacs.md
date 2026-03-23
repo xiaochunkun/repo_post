@@ -7,3 +7,5 @@ image: assets/MatthewZMD_aidermacs_cropped.png
 # [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs)
 
 AI pair programming tool for Emacs using Aider integration
+
+使用Aider集成的Emacs AI配对编程工具

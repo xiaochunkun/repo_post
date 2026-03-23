@@ -7,3 +7,5 @@ image: assets/vercel_labs_coding_agent_template_20251123_183521_287_20251124_184
 # [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template/)
 
 Template for building AI coding agents
+
+构建 AI 编码代理的模板

@@ -7,3 +7,5 @@ image: assets/depalmar_ai_for_the_win_20260210_015501_276_20260210_015516_3f9e1e
 # [depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win)
 
 Training program for building security tools with AI assistants
+
+使用 AI 助手构建安全工具的培训项目

@@ -7,3 +7,5 @@ image: assets/HemantKArya_BloomeeTunes_20260317_000738_716_20260317_000815_3cddc
 # [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 
 Music player without ads
+
+无广告音乐播放器

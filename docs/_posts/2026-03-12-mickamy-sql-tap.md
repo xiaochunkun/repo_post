@@ -7,3 +7,5 @@ image: assets/mickamy_sql_tap_20260302_074845_667_20260302_075021_c2273d.png
 # [mickamy/sql-tap](https://github.com/mickamy/sql-tap)
 
 Captures SQL traffic for terminal inspection
+
+捕获SQL流量供终端检查

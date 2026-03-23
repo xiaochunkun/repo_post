@@ -7,3 +7,5 @@ image: assets/quelmap_inc_quelmap_20251213_104655_451_20251213_104718_149343.png
 # [quelmap-inc/quelmap](https://github.com/quelmap-inc/quelmap/)
 
 Analyzes data using local LLMs
+
+使用本地LLM分析数据

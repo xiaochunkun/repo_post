@@ -7,3 +7,5 @@ image: assets/berops_claudie_20260105_030133_198_20260105_030150_057c69.png
 # [berops/claudie](https://github.com/berops/claudie/)
 
 Manages Kubernetes clusters across cloud providers and on-premise datacenters
+
+跨云提供商和本地数据中心管理 Kubernetes 集群

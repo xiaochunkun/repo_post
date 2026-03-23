@@ -7,3 +7,5 @@ image: assets/pengzhangzhi_Open_dLLM_20251201_052014_308_20251201_052037_2bb250.
 # [pengzhangzhi/Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM/)
 
 Diffusion-based code generation language model
+
+基于扩散的代码生成语言模型

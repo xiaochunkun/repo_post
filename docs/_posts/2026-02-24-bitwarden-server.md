@@ -7,3 +7,5 @@ image: assets/bitwarden_server_20260223_053943_092_20260223_054002_546053.png
 # [bitwarden/server](https://github.com/bitwarden/server)
 
 Backend for password management infrastructure
+
+密码管理基础设施后端

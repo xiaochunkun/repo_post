@@ -7,3 +7,5 @@ image: assets/tyrchen_excaliapp_20251122_115106_866_20251122_221813_5008c7--2025
 # [tyrchen/excaliapp](https://github.com/tyrchen/excaliapp/)
 
 Excalidraw editor for desktop
+
+桌面版 Excalidraw 编辑器

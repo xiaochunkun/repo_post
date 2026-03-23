@@ -7,3 +7,5 @@ image: assets/tinyfish_io_agentql_20260204_040304_123_20260204_040321_57892b.png
 # [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql)
 
 Extracts data from websites using natural language queries
+
+使用自然语言查询从网站提取数据

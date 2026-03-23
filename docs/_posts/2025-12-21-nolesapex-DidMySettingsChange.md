@@ -7,3 +7,5 @@ image: assets/nolesapex_DidMySettingsChange_20251219_072244_137_20251219_072314_
 # [nolesapex/DidMySettingsChange](https://github.com/nolesapex/DidMySettingsChange/)
 
 Monitors Windows privacy and telemetry settings for changes
+
+监控Windows隐私和遥测设置变化

@@ -7,3 +7,5 @@ image: assets/utkarshdalal_GameNative_20251217_215313_469_20251217_215335_4a63cf
 # [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative/)
 
 Steam client for Android devices
+
+适用于 Android 设备的 Steam 客户端

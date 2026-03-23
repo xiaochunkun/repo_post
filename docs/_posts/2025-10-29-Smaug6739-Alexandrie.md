@@ -7,3 +7,5 @@ image: assets/Smaug6739_Alexandrie_20251029_065523_041_20251029_083306_cba674--2
 # [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie/)
 
 A note-taking application with extended Markdown support
+
+支持扩展 Markdown 的笔记应用

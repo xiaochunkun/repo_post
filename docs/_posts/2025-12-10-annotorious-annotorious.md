@@ -7,3 +7,5 @@ image: assets/annotorious_annotorious_20251207_231105_219_20251207_231138_9b2c4f
 # [annotorious/annotorious](https://github.com/annotorious/annotorious/)
 
 JavaScript library for image annotation
+
+图像标注的JavaScript库

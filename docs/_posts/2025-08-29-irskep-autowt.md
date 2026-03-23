@@ -7,3 +7,5 @@ image: assets/20250829T042841749--irskep--autowt--20250829T043339276--cropped.pn
 # [irskep/autowt](https://github.com/irskep/autowt)
 
 manage git worktrees and terminals for each branch
+
+管理 Git Worktree 和每个分支的终端

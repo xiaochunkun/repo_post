@@ -7,3 +7,5 @@ image: assets/ErugoOSS_Erugo_cropped.png
 # [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)
 
 self-hosted file sharing with easy setup and secure links
+
+自托管文件共享，设置简单且链接安全

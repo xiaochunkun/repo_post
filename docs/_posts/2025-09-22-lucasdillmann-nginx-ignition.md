@@ -7,3 +7,5 @@ image: assets/20250922T031948095--lucasdillmann--nginx-ignition--20250922T032328
 # [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition)
 
 UI for managing nginx configs, virtual hosts, SSL, and logs
+
+用于管理 nginx 配置、虚拟主机、SSL 和日志的 UI

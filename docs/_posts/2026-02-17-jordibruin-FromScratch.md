@@ -7,3 +7,5 @@ image: assets/jordibruin_FromScratch_20260124_001003_659_20260124_001030_0577a8.
 # [jordibruin/FromScratch](https://github.com/jordibruin/FromScratch)
 
 GUI to reset macOS app permissions
+
+重置macOS应用权限的图形界面工具

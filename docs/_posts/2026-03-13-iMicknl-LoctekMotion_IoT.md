@@ -7,3 +7,5 @@ image: assets/iMicknl_LoctekMotion_IoT_20260304_110722_475_20260304_110855_2e266
 # [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT)
 
 Connects standing desks to Home Assistant via ESP32
+
+通过 ESP32 将站立式办公桌连接到 Home Assistant

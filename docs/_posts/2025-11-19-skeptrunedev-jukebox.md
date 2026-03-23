@@ -7,3 +7,5 @@ image: assets/skeptrunedev_jukebox_20251118_075447_409_20251118_160443_63907c--2
 # [skeptrunedev/jukebox](https://github.com/skeptrunedev/jukebox/)
 
 Create shared music playlists with friends
+
+与朋友创建共享音乐播放列表

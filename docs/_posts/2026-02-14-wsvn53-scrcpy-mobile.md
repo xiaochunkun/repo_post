@@ -7,3 +7,5 @@ image: assets/wsvn53_scrcpy_mobile_20260209_144258_246_20260209_144325_e7e0a1.pn
 # [wsvn53/scrcpy-mobile](https://github.com/wsvn53/scrcpy-mobile)
 
 Controls Android devices from an iPhone
+
+从 iPhone 控制 Android 设备

@@ -7,3 +7,5 @@ image: assets/gtsteffaniak_filebrowser_cropped.png
 # [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
 Web interface to access and manage files with user permissions and shared links
+
+Web界面，用于访问和管理文件，具有用户权限和共享链接

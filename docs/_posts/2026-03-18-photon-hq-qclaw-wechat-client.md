@@ -7,3 +7,5 @@ image: assets/photon_hq_qclaw_wechat_client_20260311_063039_390_20260311_063322_
 # [photon-hq/qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client)
 
 WeChat API client for QClaw
+
+QClaw的WeChat API客户端

@@ -7,3 +7,5 @@ image: assets/allinurl_goaccess_cropped.png
 # [allinurl/goaccess](https://github.com/allinurl/goaccess)
 
 real-time web log stats in your terminal
+
+在终端中实时查看 Web 日志统计

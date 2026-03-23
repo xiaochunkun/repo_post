@@ -7,3 +7,5 @@ image: assets/htmlstreamofficial_preline--20250814T044754152--cropped.png
 # [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline)
 
 Prebuilt Tailwind CSS UI components for fast web projects
+
+用于快速 Web 项目的预构建 Tailwind CSS UI 组件

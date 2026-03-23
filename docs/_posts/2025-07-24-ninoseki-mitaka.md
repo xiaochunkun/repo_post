@@ -7,3 +7,5 @@ image: assets/ninoseki_mitaka_cropped.png
 # [ninoseki/mitaka](https://github.com/ninoseki/mitaka)
 
 browser extension for OSINT searches
+
+用于OSINT搜索的浏览器扩展

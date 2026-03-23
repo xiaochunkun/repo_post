@@ -7,3 +7,5 @@ image: assets/Akylas_mbview_rs_20251225_064740_626_20251225_064759_053688.png
 # [Akylas/mbview-rs](https://github.com/Akylas/mbview-rs/)
 
 Inspects MBTiles files without a web server
+
+无需 Web 服务器即可检查 MBTiles 文件

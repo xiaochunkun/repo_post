@@ -7,3 +7,5 @@ image: assets/Maticcm_Open_WebUI_Client_for_Android_20251204_224356_180_20251204
 # [Maticcm/Open-WebUI-Client-for-Android](https://github.com/Maticcm/Open-WebUI-Client-for-Android/)
 
 Android wrapper for self-hosted Open WebUI instances
+
+自托管Open WebUI实例的Android封装器

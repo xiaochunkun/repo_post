@@ -7,3 +7,5 @@ image: assets/emiliioaguirre_youtube_live_tts_20260126_113501_012_20260126_11355
 # [emiliioaguirre/youtube-live-tts](https://github.com/emiliioaguirre/youtube-live-tts)
 
 Converts YouTube chat to speech with ElevenLabs voices
+
+使用 ElevenLabs 语音将 YouTube 聊天转换为语音

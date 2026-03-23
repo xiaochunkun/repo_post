@@ -7,3 +7,5 @@ image: assets/huggingface_distil_whisper_20251029_222007_908_20251030_000818_a5c
 # [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper/)
 
 6x faster, 49% smaller version of Whisper
+
+比 Whisper 快 6 倍、小 49% 的版本

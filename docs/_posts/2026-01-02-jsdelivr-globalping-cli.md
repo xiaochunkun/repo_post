@@ -7,3 +7,5 @@ image: assets/jsdelivr_globalping_cli_20260101_233838_336_20260101_233855_29a4ee
 # [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli/)
 
 Runs network commands from probes worldwide
+
+从全球探针运行网络命令

@@ -7,3 +7,5 @@ image: assets/cutefishaep_AeNux_20260205_122605_551_20260205_122634_d4b3dd.png
 # [cutefishaep/AeNux](https://github.com/cutefishaep/AeNux)
 
 Installs Adobe After Effects on Linux through Wine
+
+通过Wine在Linux上安装Adobe After Effects

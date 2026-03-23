@@ -7,3 +7,5 @@ image: assets/Tsuzat_Edra_20251125_171709_790_20251127_171250_9826e1--20251127T1
 # [Tsuzat/Edra](https://github.com/Tsuzat/Edra/)
 
 Rich text editor for Svelte developers built with Tiptap
+
+基于Tiptap为Svelte开发者构建的富文本编辑器

@@ -7,3 +7,5 @@ image: assets/alacritty_alacritty_20260302_005134_072_20260302_005257_452f00.png
 # [alacritty/alacritty](https://github.com/alacritty/alacritty)
 
 Terminal emulator using the GPU
+
+使用GPU的终端模拟器

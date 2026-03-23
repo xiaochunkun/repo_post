@@ -7,3 +7,5 @@ image: assets/20250924T060420614--miso-belica--sumy--20250924T060850912--cropped
 # [miso-belica/sumy](https://github.com/miso-belica/sumy)
 
 Command line tool for extracting summaries from HTML or plain text
+
+命令行工具，用于从 HTML 或纯文本中提取摘要

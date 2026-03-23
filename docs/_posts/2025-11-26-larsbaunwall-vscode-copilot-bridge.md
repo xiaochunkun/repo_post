@@ -7,3 +7,5 @@ image: assets/larsbaunwall_vscode_copilot_bridge_20251123_201715_818_20251125_01
 # [larsbaunwall/vscode-copilot-bridge](https://github.com/larsbaunwall/vscode-copilot-bridge/)
 
 Local OpenAI-compatible interface for GitHub Copilot
+
+GitHub Copilot 的本地 OpenAI 兼容接口

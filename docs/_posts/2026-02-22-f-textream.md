@@ -7,3 +7,5 @@ image: assets/f_textream_20260222_075728_323_20260222_075759_42fc2b.png
 # [f/textream](https://github.com/f/textream)
 
 Teleprompter with voice-activated scrolling for macOS
+
+macOS 语音激活滚动提词器

@@ -7,3 +7,5 @@ image: assets/roboflow_trackers_20260308_211938_756_20260308_212135_afed26.png
 # [roboflow/trackers](https://github.com/roboflow/trackers)
 
 Multi-object tracking for detection models
+
+检测模型的多目标跟踪

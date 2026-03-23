@@ -7,3 +7,5 @@ image: assets/P3GLEG_Whaler_20251125_021023_797_20251126_150150_189d0d--20251126
 # [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler/)
 
 Reverse engineers Docker images into Dockerfiles
+
+将 Docker 镜像逆向工程为 Dockerfile

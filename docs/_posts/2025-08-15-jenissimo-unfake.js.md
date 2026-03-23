@@ -7,3 +7,5 @@ image: assets/jenissimo_unfake.js--20250815T011416181--cropped.png
 # [jenissimo/unfake.js](https://github.com/jenissimo/unfake.js)
 
 cleans up AI pixel art and turns images into vectors
+
+清理AI像素艺术并将图像转换为矢量

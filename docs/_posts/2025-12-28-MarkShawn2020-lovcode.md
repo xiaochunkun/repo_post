@@ -7,3 +7,5 @@ image: assets/MarkShawn2020_lovcode_20251227_091634_898_20251227_091652_b95071.p
 # [MarkShawn2020/lovcode](https://github.com/MarkShawn2020/lovcode/)
 
 Desktop companion for Claude Code chat history and MCP servers
+
+Claude Code 聊天历史和 MCP 服务器的桌面伴侣

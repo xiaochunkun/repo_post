@@ -7,3 +7,5 @@ image: assets/404labfr_laravel_impersonate_20251101_212710_898_20251102_214422_3
 # [404labfr/laravel-impersonate](https://github.com/404labfr/laravel-impersonate/)
 
 Log in as any user in a Laravel app
+
+在 Laravel 应用中以任何用户身份登录

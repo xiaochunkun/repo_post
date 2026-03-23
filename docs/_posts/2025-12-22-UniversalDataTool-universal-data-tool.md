@@ -7,3 +7,5 @@ image: assets/UniversalDataTool_universal_data_tool_20251221_201750_360_20251221
 # [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool/)
 
 Annotates data for machine learning in a browser or desktop app
+
+在浏览器或桌面应用中为机器学习标注数据

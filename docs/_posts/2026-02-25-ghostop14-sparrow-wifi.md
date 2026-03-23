@@ -7,3 +7,5 @@ image: assets/ghostop14_sparrow_wifi_20260212_144357_404_20260212_144422_407e74.
 # [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi)
 
 WiFi and Bluetooth analyzer for Linux with SDR and GPS integration
+
+Linux WiFi和蓝牙分析器，集成SDR和GPS

@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_claude_code_agent_farm_20260321_161626_168_20260
 # [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm)
 
 Orchestrates parallel Claude Code agents
+
+编排并行 Claude Code 代理

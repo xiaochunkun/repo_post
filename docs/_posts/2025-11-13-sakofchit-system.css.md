@@ -7,3 +7,5 @@ image: assets/sakofchit_system_css_20251111_201356_891_20251112_030836_970f02--2
 # [sakofchit/system.css](https://github.com/sakofchit/system.css/)
 
 CSS library for building interfaces that resemble Apple's System OS
+
+用于构建类似 Apple System OS 界面的 CSS 库

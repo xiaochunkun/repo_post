@@ -7,3 +7,5 @@ image: assets/20250825T034136091--Alt-er--timebox--20250825T035451912--cropped.p
 # [Alt-er/timebox](https://github.com/Alt-er/timebox)
 
 screen recording tool with searchable screenshots
+
+屏幕录制工具，截图可搜索

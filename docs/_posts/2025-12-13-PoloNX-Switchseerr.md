@@ -7,3 +7,5 @@ image: assets/PoloNX_Switchseerr_20251209_053601_368_20251209_053623_daae3a.png
 # [PoloNX/Switchseerr](https://github.com/PoloNX/Switchseerr/)
 
 Third-party Jellyseerr client for multiple platforms
+
+适用于多平台的第三方 Jellyseerr 客户端

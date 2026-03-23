@@ -7,3 +7,5 @@ image: assets/xixu_me_xget_20260306_015417_559_20260306_015609_a4fbaa.png
 # [xixu-me/xget](https://github.com/xixu-me/xget)
 
 Accelerate downloads from developer platforms via edge nodes
+
+通过边缘节点加速开发者平台下载

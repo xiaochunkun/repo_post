@@ -7,3 +7,5 @@ image: assets/orangekame3_mirrormate_20260126_050216_010_20260126_050300_b87543.
 # [orangekame3/mirrormate](https://github.com/orangekame3/mirrormate)
 
 Voice-first AI for a mirror
+
+面向镜子的语音优先AI

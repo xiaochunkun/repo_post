@@ -7,3 +7,5 @@ image: assets/SHINING_TECH_EasyDisplayClient_20260122_211732_157_20260122_211748
 # [SHINING-TECH/EasyDisplayClient](https://github.com/SHINING-TECH/EasyDisplayClient)
 
 Offline digital signage for screens
+
+离线数字标牌屏幕客户端

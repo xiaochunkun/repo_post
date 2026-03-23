@@ -7,3 +7,5 @@ image: assets/rotick_searchemoji_20260121_174506_531_20260121_174522_22e703.png
 # [rotick/searchemoji](https://github.com/rotick/searchemoji)
 
 Emoji search engine supporting 30 languages
+
+支持30种语言的Emoji搜索引擎

@@ -7,3 +7,5 @@ image: assets/nicholas_fedor_watchtower_20260210_032433_019_20260210_032450_b3a1
 # [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
 
 Updates running Docker containers when images change
+
+当镜像变更时更新运行中的Docker容器

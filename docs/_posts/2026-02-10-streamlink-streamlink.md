@@ -7,3 +7,5 @@ image: assets/streamlink_streamlink_20260209_001841_362_20260209_001910_636425.p
 # [streamlink/streamlink](https://github.com/streamlink/streamlink)
 
 Pipes video streams into players
+
+将视频流传输到播放器

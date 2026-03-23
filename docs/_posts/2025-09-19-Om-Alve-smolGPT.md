@@ -7,3 +7,5 @@ image: assets/20250918T004734310--Om-Alve--smolGPT--20250919T021723685--cropped.
 # [Om-Alve/smolGPT](https://github.com/Om-Alve/smolGPT)
 
 minimal PyTorch code for training your own small language model from scratch
+
+用于从零开始训练小型语言模型的最小化PyTorch代码

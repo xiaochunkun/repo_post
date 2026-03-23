@@ -7,3 +7,5 @@ image: assets/chartdb_chartdb_20260210_011407_732_20260210_011428_5f6153.png
 # [chartdb/chartdb](https://github.com/chartdb/chartdb)
 
 Visualizes database schemas with a single query
+
+通过单一查询可视化数据库模式

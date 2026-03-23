@@ -7,3 +7,5 @@ image: assets/vincentkoc_airgapped_offfline_rag_20260121_211041_465_20260121_211
 # [vincentkoc/airgapped-offfline-rag](https://github.com/vincentkoc/airgapped-offfline-rag)
 
 RAG system for documents on local hardware
+
+本地硬件文档RAG系统

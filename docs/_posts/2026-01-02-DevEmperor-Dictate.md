@@ -7,3 +7,5 @@ image: assets/DevEmperor_Dictate_20260101_091405_884_20260101_091422_926d39.png
 # [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate/)
 
 Keyboard for speech transcription using Whisper and GPT-4 Omni
+
+使用Whisper和GPT-4 Omni进行语音转录的键盘

@@ -7,3 +7,5 @@ image: assets/alexfazio_viral_clips_crew_20251216_043928_654_20251216_044049_e98
 # [alexfazio/viral-clips-crew](https://github.com/alexfazio/viral-clips-crew/)
 
 Extracts viral clips from long-form videos
+
+从长视频中提取病毒式传播片段

@@ -7,3 +7,5 @@ image: assets/greyovo_PicQuery_20251201_065954_945_20251201_070034_a2aa46.png
 # [greyovo/PicQuery](https://github.com/greyovo/PicQuery/)
 
 Offline natural language image search on Android
+
+Android 上的离线自然语言图像搜索

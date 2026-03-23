@@ -7,3 +7,5 @@ image: assets/clockworkpi_PicoCalc_20251217_105255_491_20251217_105327_d87648.pn
 # [clockworkpi/PicoCalc](https://github.com/clockworkpi/PicoCalc/)
 
 Raspberry Pi Pico MCU terminal hardware
+
+Raspberry Pi Pico MCU 终端硬件

@@ -7,3 +7,5 @@ image: assets/vladmandic_human_20260206_015211_672_20260206_015227_e9b718.png
 # [vladmandic/human](https://github.com/vladmandic/human)
 
 Tracks faces and bodies in 3D using computer vision
+
+使用计算机视觉在3D中跟踪人脸和身体

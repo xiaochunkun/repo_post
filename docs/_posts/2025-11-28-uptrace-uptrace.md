@@ -7,3 +7,5 @@ image: assets/uptrace_uptrace_20251125_043212_893_20251127_165547_122ef0--202511
 # [uptrace/uptrace](https://github.com/uptrace/uptrace/)
 
 Open source APM for OpenTelemetry traces, metrics, and logs
+
+用于OpenTelemetry追踪、指标和日志的开源APM

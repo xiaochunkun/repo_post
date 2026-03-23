@@ -7,3 +7,5 @@ image: assets/Architeuthis_Flux_JumperlessV5_20251201_065758_596_20251201_065857
 # [Architeuthis-Flux/JumperlessV5](https://github.com/Architeuthis-Flux/JumperlessV5/)
 
 Jumperless breadboard with software-defined connections
+
+软件定义连接的免跳线面包板

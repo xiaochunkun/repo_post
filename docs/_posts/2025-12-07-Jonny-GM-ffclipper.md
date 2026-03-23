@@ -7,3 +7,5 @@ image: assets/Jonny_GM_ffclipper_20251205_002413_894_20251205_002438_367a6f.png
 # [Jonny-GM/ffclipper](https://github.com/Jonny-GM/ffclipper/)
 
 Frontend for ffmpeg video clipping
+
+ffmpeg视频剪辑前端

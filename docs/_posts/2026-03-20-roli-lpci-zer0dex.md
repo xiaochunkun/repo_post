@@ -7,3 +7,5 @@ image: assets/roli_lpci_zer0dex_20260316_045128_557_20260316_045205_7712ad.png
 # [roli-lpci/zer0dex](https://github.com/roli-lpci/zer0dex)
 
 Dual-layer memory for persistent AI agents
+
+持久AI代理的双层内存

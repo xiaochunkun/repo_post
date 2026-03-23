@@ -7,3 +7,5 @@ image: assets/instavm_clickclickclick_20260302_051335_038_20260302_051455_3b9275
 # [instavm/clickclickclick](https://github.com/instavm/clickclickclick)
 
 Framework for autonomous computer control using LLMs
+
+使用 LLM 实现自主计算机控制的框架

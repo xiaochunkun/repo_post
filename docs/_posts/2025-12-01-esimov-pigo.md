@@ -7,3 +7,5 @@ image: assets/esimov_pigo_20251127_203920_066_20251130_083207_737ce9--20251130T0
 # [esimov/pigo](https://github.com/esimov/pigo/)
 
 Pure Go face detection library
+
+纯 Go 人脸检测库

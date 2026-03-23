@@ -7,3 +7,5 @@ image: assets/operacle_checkcle_20260108_023711_970_20260108_023726_66c61a.png
 # [operacle/checkcle](https://github.com/operacle/checkcle)
 
 Self-hosted monitoring platform for servers and infrastructure
+
+服务器和基础设施的自托管监控平台

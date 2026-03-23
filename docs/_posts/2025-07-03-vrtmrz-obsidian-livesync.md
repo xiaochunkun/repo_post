@@ -7,3 +7,5 @@ image: assets/vrtmrz_obsidian-livesync_cropped.png
 # [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 
 Obsidian plugin for syncing notes between devices using your own CouchDB server
+
+Obsidian插件，使用自己的CouchDB服务器在设备间同步笔记

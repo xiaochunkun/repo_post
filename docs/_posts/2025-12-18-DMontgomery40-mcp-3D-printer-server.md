@@ -7,3 +7,5 @@ image: assets/DMontgomery40_mcp_3D_printer_server_20251217_182244_673_20251217_1
 # [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server/)
 
 Connects Claude to 3D printers
+
+将 Claude 连接到 3D 打印机

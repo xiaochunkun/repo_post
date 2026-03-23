@@ -7,3 +7,5 @@ image: assets/princeton_nlp_WebShop_20260228_193349_358_20260228_193553_5491ae.p
 # [princeton-nlp/WebShop](https://github.com/princeton-nlp/WebShop)
 
 Environment for training agents to navigate websites and purchase products
+
+训练代理导航网站和购买产品的环境

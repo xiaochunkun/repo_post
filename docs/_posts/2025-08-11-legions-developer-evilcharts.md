@@ -7,3 +7,5 @@ image: assets/legions-developer_evilcharts_cropped.png
 # [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts)
 
 animated React chart components for modern dashboards
+
+现代仪表板的动画 React 图表组件

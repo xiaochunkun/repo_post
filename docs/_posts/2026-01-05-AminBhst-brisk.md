@@ -7,3 +7,5 @@ image: assets/AminBhst_brisk_20260103_202132_698_20260103_202157_59a6cf.png
 # [AminBhst/brisk](https://github.com/AminBhst/brisk/)
 
 Download manager with browser integration
+
+集成浏览器的下载管理器

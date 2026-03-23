@@ -7,3 +7,5 @@ image: assets/20251007T051250533--vmorganp--Lazytainer--20251007T051654879--crop
 # [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer)
 
 Automatically pauses and resumes Docker containers based on network activity
+
+根据网络活动自动暂停和恢复 Docker 容器

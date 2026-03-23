@@ -7,3 +7,5 @@ image: assets/Julow_Unexpected_Keyboard_20251219_053032_872_20251219_053053_72ab
 # [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard/)
 
 Keyboard for Android with swipe gestures for symbols
+
+Android键盘，支持滑动手势输入符号

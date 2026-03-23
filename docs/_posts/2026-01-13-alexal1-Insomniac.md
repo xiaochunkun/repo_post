@@ -7,3 +7,5 @@ image: assets/alexal1_Insomniac_20260112_052128_904_20260112_052146_8b9c1f.png
 # [alexal1/Insomniac](https://github.com/alexal1/Insomniac)
 
 Automates Instagram activity via ADB without root
+
+通过ADB自动化Instagram活动，无需root权限

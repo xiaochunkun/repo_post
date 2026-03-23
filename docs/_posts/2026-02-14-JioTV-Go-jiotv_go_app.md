@@ -7,3 +7,5 @@ image: assets/JioTV_Go_jiotv_go_app_20260213_202511_561_20260213_202632_a7ca01.p
 # [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)
 
 Server streams television to devices via IPTV
+
+通过 IPTV 将电视流传输到设备

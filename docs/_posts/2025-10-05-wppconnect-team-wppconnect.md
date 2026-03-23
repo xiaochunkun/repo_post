@@ -7,3 +7,5 @@ image: assets/20251005T003026582--wppconnect-team--wppconnect--20251005T00350278
 # [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect)
 
 Unofficial WhatsApp API for bots, automation, and integrations
+
+用于机器人、自动化和集成的非官方 WhatsApp API

@@ -7,3 +7,5 @@ image: assets/GeneBO98_tradetally_20251209_065920_706_20251209_065945_04b9b2.png
 # [GeneBO98/tradetally](https://github.com/GeneBO98/tradetally/)
 
 Trading journal and analytics platform
+
+交易日志和分析平台

@@ -7,3 +7,5 @@ image: assets/jammastergirish_BuildAnLLM_20260202_232940_084_20260202_233006_ee5
 # [jammastergirish/BuildAnLLM](https://github.com/jammastergirish/BuildAnLLM)
 
 Educational workflow for training transformer models from scratch
+
+从零开始训练Transformer模型的教育工作流

@@ -7,3 +7,5 @@ image: assets/LizardByte_Sunshine_20260122_022546_297_20260122_022602_782a01.png
 # [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
 
 Streams games to Moonlight clients from local hardware
+
+从本地硬件向 Moonlight 客户端流式传输游戏

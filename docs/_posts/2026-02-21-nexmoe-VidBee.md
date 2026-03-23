@@ -7,3 +7,5 @@ image: assets/nexmoe_VidBee_20260220_134204_311_20260220_134222_0e1991.png
 # [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
 
 Downloads videos from websites using yt-dlp
+
+使用 yt-dlp 从网站下载视频

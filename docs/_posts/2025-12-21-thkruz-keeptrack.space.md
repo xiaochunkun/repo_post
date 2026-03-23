@@ -7,3 +7,5 @@ image: assets/thkruz_keeptrack_space_20251219_054711_315_20251219_054728_fe0dfc.
 # [thkruz/keeptrack.space](https://github.com/thkruz/keeptrack.space/)
 
 Visualizes 50,000 satellites and orbital mechanics in real-time
+
+实时可视化 5 万颗卫星及轨道力学

@@ -7,3 +7,5 @@ image: assets/gigagrug_schema_20251123_184356_011_20251124_184345_b4d68b--202511
 # [gigagrug/schema](https://github.com/gigagrug/schema/)
 
 CLI for database schemas and migrations
+
+数据库模式和迁移的 CLI

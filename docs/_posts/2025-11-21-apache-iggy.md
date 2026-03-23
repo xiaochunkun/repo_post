@@ -7,3 +7,5 @@ image: assets/apache_iggy_20251120_065235_961_20251121_054956_368e37--20251121T0
 # [apache/iggy](https://github.com/apache/iggy/)
 
 Persistent message streaming platform in Rust
+
+Rust持久化消息流平台

@@ -7,3 +7,5 @@ image: assets/20250914T191421829--Caldis--Mos--20250914T191658223--cropped.png
 # [Caldis/Mos](https://github.com/Caldis/Mos)
 
 lets your mouse wheel scroll smoothly on macOS
+
+让 macOS 鼠标滚轮滚动更丝滑

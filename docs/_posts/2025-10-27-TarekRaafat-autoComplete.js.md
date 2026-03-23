@@ -7,3 +7,5 @@ image: assets/TarekRaafat_autoComplete_js_20251025_121201_068_20251025_224739_33
 # [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js/)
 
 Vanilla JavaScript autocomplete library
+
+Vanilla JavaScript 自动补全库

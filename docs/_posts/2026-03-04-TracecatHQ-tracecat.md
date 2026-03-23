@@ -7,3 +7,5 @@ image: assets/TracecatHQ_tracecat_20260302_181804_781_20260302_181956_a16b15.png
 # [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
 
 Platform for AI agents and workflows
+
+AI代理和工作流的平台

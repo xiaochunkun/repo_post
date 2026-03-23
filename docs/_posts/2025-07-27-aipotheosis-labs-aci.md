@@ -7,3 +7,5 @@ image: assets/aipotheosis-labs_aci_cropped.png
 # [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci)
 
 connect AI agents to 600+ tools with open source platform
+
+开源平台，连接 AI 代理到 600 多种工具

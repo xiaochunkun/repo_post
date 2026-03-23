@@ -7,3 +7,5 @@ image: assets/katspaugh_wavesurfer_js_20251031_031925_650_20251031_144339_485096
 # [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js/)
 
 Interactive waveform rendering and audio playback library
+
+交互式波形渲染和音频播放库

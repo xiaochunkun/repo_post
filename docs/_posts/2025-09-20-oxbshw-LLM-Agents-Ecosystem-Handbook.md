@@ -7,3 +7,5 @@ image: assets/20250920T064400069--oxbshw--LLM-Agents-Ecosystem-Handbook--2025092
 # [oxbshw/LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook)
 
 Handbook for building and comparing LLM agent frameworks, toolkits, and example projects
+
+构建和比较LLM代理框架、工具包和示例项目的手册

@@ -7,3 +7,5 @@ image: assets/pqoqubbw_icons_20260203_112810_672_20260203_112830_78918b.png
 # [pqoqubbw/icons](https://github.com/pqoqubbw/icons)
 
 Animated icons for the web
+
+网页动画图标

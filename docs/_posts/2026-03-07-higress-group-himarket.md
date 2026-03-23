@@ -7,3 +7,5 @@ image: assets/higress_group_himarket_20260209_080738_542_20260209_080823_939ff8.
 # [higress-group/himarket](https://github.com/higress-group/himarket)
 
 Marketplace for AI assets and model servers
+
+AI资产和模型服务器的市场

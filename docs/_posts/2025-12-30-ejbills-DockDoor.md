@@ -7,3 +7,5 @@ image: assets/ejbills_DockDoor_20251228_035029_496_20251228_035048_ea8b73.png
 # [ejbills/DockDoor](https://github.com/ejbills/DockDoor/)
 
 Window peeking and Alt+Tab switching for macOS
+
+macOS 的窗口窥视和 Alt+Tab 切换工具

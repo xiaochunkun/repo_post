@@ -7,3 +7,5 @@ image: assets/baidu_dperf_20251202_232414_935_20251202_232452_8b7cf5.png
 # [baidu/dperf](https://github.com/baidu/dperf/)
 
 DPDK-based network traffic generator and load tester
+
+基于 DPDK 的网络流量生成器和负载测试器

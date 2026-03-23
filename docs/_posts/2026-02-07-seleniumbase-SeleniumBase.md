@@ -7,3 +7,5 @@ image: assets/seleniumbase_SeleniumBase_20260206_094125_577_20260206_094143_38be
 # [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 
 Bypasses bot detection for web automation
+
+绕过Web自动化的机器人检测

@@ -7,3 +7,5 @@ image: assets/0xMR007_Lab4PurpleSec_20260210_143605_045_20260210_143640_e20dc4.p
 # [0xMR007/Lab4PurpleSec](https://github.com/0xMR007/Lab4PurpleSec)
 
 Homelab with Active Directory and SIEM for security training
+
+用于安全培训的Active Directory和SIEM家庭实验室

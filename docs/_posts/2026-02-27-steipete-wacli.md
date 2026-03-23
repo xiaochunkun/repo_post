@@ -7,3 +7,5 @@ image: assets/steipete_wacli_20260212_144829_407_20260212_144929_f864c1.png
 # [steipete/wacli](https://github.com/steipete/wacli)
 
 WhatsApp CLI for message sync and offline search
+
+WhatsApp CLI，用于消息同步和离线搜索

@@ -7,3 +7,5 @@ image: assets/sjinnovation_CollabAI_20251216_054732_044_20251216_054812_f212cb.p
 # [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI/)
 
 Self-hosted AI operation platform for teams
+
+团队自托管AI操作平台

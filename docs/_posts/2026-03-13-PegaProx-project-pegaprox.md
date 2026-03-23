@@ -7,3 +7,5 @@ image: assets/PegaProx_project_pegaprox_20260308_163936_988_20260308_164135_2257
 # [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox)
 
 Dashboard for management of Proxmox and XCP-ng clusters
+
+管理Proxmox和XCP-ng集群的仪表板

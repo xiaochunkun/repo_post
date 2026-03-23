@@ -7,3 +7,5 @@ image: assets/markqvist_Sideband_20260311_200625_476_20260311_200843_d82158.png
 # [markqvist/Sideband](https://github.com/markqvist/Sideband)
 
 Messaging client for Reticulum networks
+
+Reticulum 网络的消息客户端

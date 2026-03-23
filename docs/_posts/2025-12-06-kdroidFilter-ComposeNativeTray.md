@@ -7,3 +7,5 @@ image: assets/kdroidFilter_ComposeNativeTray_20251204_224302_754_20251204_224326
 # [kdroidFilter/ComposeNativeTray](https://github.com/kdroidFilter/ComposeNativeTray/)
 
 Kotlin library for native system tray applications
+
+原生系统托盘应用的Kotlin库

@@ -7,3 +7,5 @@ image: assets/shahedbd_awesome_project_management_20260120_042954_347_20260120_0
 # [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management)
 
 Curated list of project management tools and resources
+
+精选项目管理工具和资源列表

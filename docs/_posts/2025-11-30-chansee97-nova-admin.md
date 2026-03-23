@@ -7,3 +7,5 @@ image: assets/chansee97_nova_admin_20251127_195636_976_20251130_082829_6e95e5--2
 # [chansee97/nova-admin](https://github.com/chansee97/nova-admin/)
 
 Vue3 admin template using Naive UI
+
+使用 Naive UI 的 Vue3 管理模板

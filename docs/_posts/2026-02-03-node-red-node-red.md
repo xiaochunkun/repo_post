@@ -7,3 +7,5 @@ image: assets/node_red_node_red_20260202_221453_413_20260202_221530_7c977c.png
 # [node-red/node-red](https://github.com/node-red/node-red)
 
 Flow-based programming for event-driven applications
+
+基于流的编程，用于事件驱动应用

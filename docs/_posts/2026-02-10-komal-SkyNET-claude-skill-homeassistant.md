@@ -7,3 +7,5 @@ image: assets/komal_SkyNET_claude_skill_homeassistant_20260208_192311_242_202602
 # [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)
 
 Claude Code skill for Home Assistant configuration and dashboard management
+
+用于Home Assistant配置和仪表板管理的Claude Code技能

@@ -7,3 +7,5 @@ image: assets/bentoml_BentoVoiceAgent_20260115_190133_800_20260115_190147_2574d7
 # [bentoml/BentoVoiceAgent](https://github.com/bentoml/BentoVoiceAgent)
 
 Voice agent using open source models via Twilio
+
+通过 Twilio 使用开源模型的语音代理

@@ -7,3 +7,5 @@ image: assets/WaveSpeedAI_wavespeed_desktop_20251226_042244_543_20251226_042304_
 # [WaveSpeedAI/wavespeed-desktop](https://github.com/WaveSpeedAI/wavespeed-desktop/)
 
 Runs AI models on desktops
+
+在桌面上运行 AI 模型

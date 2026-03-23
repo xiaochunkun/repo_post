@@ -7,3 +7,5 @@ image: assets/Acash_bits_Law_Firm_Publications_Scraper_Suite_20260115_152428_361
 # [Acash-bits/Law-Firm-Publications-Scraper-Suite](https://github.com/Acash-bits/Law-Firm-Publications-Scraper-Suite)
 
 Scrapes publications from Indian law firms into MySQL
+
+将印度律师事务所的出版物抓取到 MySQL

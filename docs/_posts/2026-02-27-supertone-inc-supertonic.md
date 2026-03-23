@@ -7,3 +7,5 @@ image: assets/supertone_inc_supertonic_20260221_191523_823_20260221_191553_8a9b0
 # [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)
 
 Multilingual text-to-speech via ONNX for on-device inference
+
+通过ONNX实现多语言文本转语音，支持设备端推理

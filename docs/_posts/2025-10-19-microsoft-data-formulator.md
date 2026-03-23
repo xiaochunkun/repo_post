@@ -7,3 +7,5 @@ image: assets/microsoft_data_formulator_20251019_004111_599_20251019_015810--202
 # [microsoft/data-formulator](https://github.com/microsoft/data-formulator/)
 
 Transform data, create visualizations with AI
+
+使用 AI 转换数据、创建可视化

@@ -7,3 +7,5 @@ image: assets/P0cL4bs_wifipumpkin3_20260212_055109_511_20260212_055159_215fa6.pn
 # [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3)
 
 Framework for rogue access point attacks
+
+用于恶意接入点攻击的框架

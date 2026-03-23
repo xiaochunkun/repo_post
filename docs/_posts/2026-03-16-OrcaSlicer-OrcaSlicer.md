@@ -7,3 +7,5 @@ image: assets/OrcaSlicer_OrcaSlicer_20260305_111652_661_20260305_111831_fbeb44.p
 # [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 
 G-code generator for 3D printers
+
+3D 打印机的 G-code 生成器

@@ -7,3 +7,5 @@ image: assets/justlovemaki_AIClient_2_API_20251123_192349_483_20251125_011629_79
 # [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API/)
 
 Converts client-only LLM requests to OpenAI-compatible API
+
+将仅客户端 LLM 请求转换为 OpenAI 兼容 API

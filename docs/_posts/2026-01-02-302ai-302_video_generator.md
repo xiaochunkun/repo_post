@@ -7,3 +7,5 @@ image: assets/302ai_302_video_generator_20260101_200844_778_20260101_200901_9f38
 # [302ai/302_video_generator](https://github.com/302ai/302_video_generator/)
 
 Interface for video generation models
+
+视频生成模型的界面

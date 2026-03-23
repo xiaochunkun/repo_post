@@ -7,3 +7,5 @@ image: assets/thingsboard_thingsboard_20260122_025011_525_20260122_025046_619962
 # [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
 
 IoT platform for device management and data visualization
+
+设备管理和数据可视化IoT平台

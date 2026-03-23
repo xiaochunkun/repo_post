@@ -7,3 +7,5 @@ image: assets/speedarr_Speedarr_20260217_213315_536_20260217_213335_992a39.png
 # [speedarr/Speedarr](https://github.com/speedarr/Speedarr)
 
 Throttles download clients based on Plex streams
+
+根据 Plex 流媒体限制下载客户端速度

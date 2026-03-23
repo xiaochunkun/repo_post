@@ -7,3 +7,5 @@ image: assets/DefGuard_client_20251125_003851_823_20251126_100529_b74d46--202511
 # [DefGuard/client](https://github.com/DefGuard/client/)
 
 WireGuard VPN client with Multi-Factor Authentication
+
+支持多因素认证的 WireGuard VPN 客户端

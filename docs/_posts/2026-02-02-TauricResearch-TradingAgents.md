@@ -7,3 +7,5 @@ image: assets/TauricResearch_TradingAgents_20260202_093931_984_20260202_094033_9
 # [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 
 Multi-agent framework for financial trading
+
+金融交易的多智能体框架

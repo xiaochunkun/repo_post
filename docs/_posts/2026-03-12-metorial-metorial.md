@@ -7,3 +7,5 @@ image: assets/metorial_metorial_20260309_121142_536_20260309_121346_6f2d09.png
 # [metorial/metorial](https://github.com/metorial/metorial)
 
 Connects AI models to APIs and tools via MCP
+
+通过MCP连接AI模型到API和工具

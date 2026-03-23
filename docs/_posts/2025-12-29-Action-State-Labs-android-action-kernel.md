@@ -7,3 +7,5 @@ image: assets/Action_State_Labs_android_action_kernel_20251227_165031_989_202512
 # [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel/)
 
 Library for agents to control native Android apps
+
+用于智能体控制原生 Android 应用的库

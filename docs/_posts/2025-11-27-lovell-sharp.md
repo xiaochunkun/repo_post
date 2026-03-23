@@ -7,3 +7,5 @@ image: assets/lovell_sharp_20251125_022522_483_20251127_161629_051256--20251127T
 # [lovell/sharp](https://github.com/lovell/sharp/)
 
 High performance Node.js image processing
+
+高性能 Node.js 图像处理库

@@ -7,3 +7,5 @@ image: assets/20250825T024513734--Nutlope--llamatutor--20250825T025432320--cropp
 # [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor)
 
 open source AI tutor for personalized learning
+
+开源 AI 个性化学习辅导工具

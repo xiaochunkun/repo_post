@@ -7,3 +7,5 @@ image: assets/kvfrans_lmpo_cropped.png
 # [kvfrans/lmpo](https://github.com/kvfrans/lmpo)
 
 minimal repo for language model policy optimization with RL
+
+用强化学习优化语言模型策略的极简仓库

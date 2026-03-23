@@ -7,3 +7,5 @@ image: assets/biomejs_biome_cropped.png
 # [biomejs/biome](https://github.com/biomejs/biome)
 
 Web toolchain with formatter and linter for JavaScript, TypeScript, and more
+
+Web 工具链，包含 JavaScript、TypeScript 等的格式化器和代码检查器

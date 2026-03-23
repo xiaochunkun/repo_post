@@ -7,3 +7,5 @@ image: assets/nagix_mini_tokyo_3d_20251115_050824_755_20251116_141422_eb397d--20
 # [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d/)
 
 Real-time 3D map of Tokyo's public transport
+
+东京公共交通的实时 3D 地图

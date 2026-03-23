@@ -7,3 +7,5 @@ image: assets/nuttyartist_notes_20251031_035642_149_20251031_205252_2be10b--2025
 # [nuttyartist/notes](https://github.com/nuttyartist/notes/)
 
 Note-taking app with a Kanban board
+
+带看板板的笔记应用

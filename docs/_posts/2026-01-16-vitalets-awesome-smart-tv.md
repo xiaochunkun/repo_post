@@ -7,3 +7,5 @@ image: assets/vitalets_awesome_smart_tv_20260116_111117_914_20260116_111132_74af
 # [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv)
 
 Resources for building Smart TV apps
+
+构建 Smart TV 应用的资源

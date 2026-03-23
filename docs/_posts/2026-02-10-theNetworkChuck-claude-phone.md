@@ -7,3 +7,5 @@ image: assets/theNetworkChuck_claude_phone_20260204_033253_581_20260204_033307_7
 # [theNetworkChuck/claude-phone](https://github.com/theNetworkChuck/claude-phone)
 
 Voice interface for Claude Code via SIP and 3CX
+
+通过SIP和3CX的Claude Code语音界面

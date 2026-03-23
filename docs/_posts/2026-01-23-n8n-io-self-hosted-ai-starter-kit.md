@@ -7,3 +7,5 @@ image: assets/n8n_io_self_hosted_ai_starter_kit_20260122_014707_021_20260122_014
 # [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 
 Docker template for local AI workflows
+
+本地 AI 工作流的 Docker 模板

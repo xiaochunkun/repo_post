@@ -7,3 +7,5 @@ image: assets/git_truck_git_truck_20260302_054811_660_20260302_054932_b2cae3.png
 # [git-truck/git-truck](https://github.com/git-truck/git-truck)
 
 Visualizes git repository history and structure
+
+可视化 git 仓库历史和结构

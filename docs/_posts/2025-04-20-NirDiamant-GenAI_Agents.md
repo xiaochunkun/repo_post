@@ -7,3 +7,5 @@ image: assets/NirDiamant_GenAI_Agents_cropped.png
 # [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
 
 GenAI agent tutorials and code for building and experimenting with different AI agent techniques
+
+GenAI代理教程和代码，用于构建和实验不同AI代理技术

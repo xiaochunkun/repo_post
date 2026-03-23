@@ -7,3 +7,5 @@ image: assets/jason8745_llm_agent_trader_20251110_020520_054_20251110_115609_699
 # [jason8745/llm-agent-trader](https://github.com/jason8745/llm-agent-trader/)
 
 Stock trading backtesting system using large language models
+
+使用大语言模型的股票交易回测系统

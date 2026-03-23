@@ -7,3 +7,5 @@ image: assets/skillcreatorai_Ai_Agent_Skills_20260202_235016_019_20260202_235048
 # [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills)
 
 Installs skills across AI agents
+
+为AI代理安装技能

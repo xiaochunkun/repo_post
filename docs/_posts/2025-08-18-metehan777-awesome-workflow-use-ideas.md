@@ -7,3 +7,5 @@ image: assets/metehan777_awesome-workflow-use-ideas--20250817T080051114--cropped
 # [metehan777/awesome-workflow-use-ideas](https://github.com/metehan777/awesome-workflow-use-ideas)
 
 community workflow ideas for browser automation
+
+浏览器自动化的社区工作流创意

@@ -7,3 +7,5 @@ image: assets/Dogacel_deepseek_ocr_client_macos_20260116_023928_712_20260116_023
 # [Dogacel/deepseek-ocr-client-macos](https://github.com/Dogacel/deepseek-ocr-client-macos)
 
 Desktop GUI for real-time OCR processing
+
+用于实时OCR处理的桌面GUI

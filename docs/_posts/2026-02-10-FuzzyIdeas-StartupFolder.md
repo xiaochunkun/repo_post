@@ -7,3 +7,5 @@ image: assets/FuzzyIdeas_StartupFolder_20260209_214527_708_20260209_214601_2e298
 # [FuzzyIdeas/StartupFolder](https://github.com/FuzzyIdeas/StartupFolder)
 
 Runs apps and scripts from a folder at startup
+
+从文件夹在启动时运行应用和脚本

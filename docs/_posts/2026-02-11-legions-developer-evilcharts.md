@@ -7,3 +7,5 @@ image: assets/legions_developer_evilcharts_20260203_002212_910_20260203_002230_7
 # [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts)
 
 Animated chart library for React and Next.js
+
+用于 React 和 Next.js 的动画图表库

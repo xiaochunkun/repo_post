@@ -7,3 +7,5 @@ image: assets/sam1am_anyapk_20260306_012138_140_20260306_012312_bc7b30.png
 # [sam1am/anyapk](https://github.com/sam1am/anyapk)
 
 Install applications via wireless ADB connections
+
+通过无线ADB连接安装应用程序

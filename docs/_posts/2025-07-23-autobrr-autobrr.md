@@ -7,3 +7,5 @@ image: assets/autobrr_autobrr_cropped.png
 # [autobrr/autobrr](https://github.com/autobrr/autobrr)
 
 automates torrent and usenet downloads
+
+自动化种子和Usenet下载

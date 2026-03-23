@@ -7,3 +7,5 @@ image: assets/twwch_JadeAI_20260308_204851_931_20260308_205043_5727f5.png
 # [twwch/JadeAI](https://github.com/twwch/JadeAI)
 
 Generates and optimizes resumes with AI
+
+使用 AI 生成和优化简历

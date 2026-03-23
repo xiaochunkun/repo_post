@@ -7,3 +7,5 @@ image: assets/DenverCoder1_github_readme_streak_stats_20251031_012215_328_202510
 # [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats/)
 
 Display GitHub contribution streaks on a profile README
+
+在个人资料 README 中显示 GitHub 贡献连续记录

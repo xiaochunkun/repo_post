@@ -7,3 +7,5 @@ image: assets/frectonz_penny_20260222_120537_677_20260222_120559_85e7a1.png
 # [frectonz/penny](https://github.com/frectonz/penny)
 
 Starts servers on demand and kills idle processes
+
+按需启动服务器并终止空闲进程

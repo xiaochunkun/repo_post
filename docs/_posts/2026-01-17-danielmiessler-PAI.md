@@ -7,3 +7,5 @@ image: assets/danielmiessler_PAI_20260116_220550_482_20260116_220617_bee752.png
 # [danielmiessler/PAI](https://github.com/danielmiessler/PAI)
 
 Self-learning infrastructure for personal AI
+
+个人 AI 的自学习基础设施

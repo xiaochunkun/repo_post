@@ -7,3 +7,5 @@ image: assets/realadeel_CloudVac_20260212_162541_738_20260212_162653_1fbecc.png
 # [realadeel/CloudVac](https://github.com/realadeel/CloudVac)
 
 Scans and deletes unused AWS resources locally
+
+本地扫描并删除未使用的 AWS 资源

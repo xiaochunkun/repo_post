@@ -7,3 +7,5 @@ image: assets/RoseSecurity_Terramaid_20251111_214724_498_20251112_032623_d0b0bb-
 # [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid/)
 
 Creates Mermaid diagrams from Terraform configurations
+
+从 Terraform 配置创建 Mermaid 图表

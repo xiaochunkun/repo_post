@@ -7,3 +7,5 @@ image: assets/Kilo_Org_kilocode_20260303_002541_107_20260303_002707_8ce4e0.png
 # [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
 
 Agentic engineering platform for code generation and task automation
+
+用于代码生成和任务自动化的代理工程平台

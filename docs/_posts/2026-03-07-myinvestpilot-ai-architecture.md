@@ -7,3 +7,5 @@ image: assets/myinvestpilot_ai_architecture_20260225_212442_559_20260225_212629_
 # [myinvestpilot/ai-architecture](https://github.com/myinvestpilot/ai-architecture)
 
 Architecture notes for systems where AI writes implementation code
+
+AI编写实现代码的系统架构笔记

@@ -7,3 +7,5 @@ image: assets/FGRibreau_mailchecker_20251119_214521_201_20251120_003453_5403c3--
 # [FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker/)
 
 Cross-language email validation for throwaway domains
+
+跨语言验证一次性域名的电子邮件

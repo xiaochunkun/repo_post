@@ -7,3 +7,5 @@ image: assets/jackiotyu_git_worktree_manager_20260206_103253_792_20260206_103322
 # [jackiotyu/git-worktree-manager](https://github.com/jackiotyu/git-worktree-manager)
 
 Manages Git worktrees within VS Code
+
+在 VS Code 中管理 Git 工作树

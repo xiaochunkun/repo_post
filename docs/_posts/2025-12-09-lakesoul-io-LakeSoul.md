@@ -7,3 +7,5 @@ image: assets/lakesoul_io_LakeSoul_20251207_195645_274_20251207_195709_479d58.pn
 # [lakesoul-io/LakeSoul](https://github.com/lakesoul-io/LakeSoul/)
 
 Cloud-native lakehouse framework for real-time analytics
+
+用于实时分析的云原生湖仓框架

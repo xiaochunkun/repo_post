@@ -7,3 +7,5 @@ image: assets/dreadpon_godot_spatial_gardener_20251210_030800_926_20251210_03083
 # [dreadpon/godot_spatial_gardener](https://github.com/dreadpon/godot_spatial_gardener/)
 
 Godot plugin for painting foliage on 3D surfaces
+
+在 3D 表面上绘制植被的 Godot 插件

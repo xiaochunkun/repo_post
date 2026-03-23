@@ -7,3 +7,5 @@ image: assets/meditohq_medito_app_20251112_050340_692_20251113_035714_82fd45--20
 # [meditohq/medito-app](https://github.com/meditohq/medito-app/)
 
 Meditation app with no ads or sign up
+
+无广告或注册的冥想应用

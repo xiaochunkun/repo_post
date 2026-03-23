@@ -7,3 +7,5 @@ image: assets/talkcody_talkcody_20260130_032027_371_20260130_032100_bb9513.png
 # [talkcody/talkcody](https://github.com/talkcody/talkcody)
 
 Open source agent for parallel coding tasks
+
+用于并行编码任务的开源代理

@@ -7,3 +7,5 @@ image: assets/20250927T042140902--schibsted--WAAS--20250927T043534931--cropped.p
 # [schibsted/WAAS](https://github.com/schibsted/WAAS)
 
 Upload audio or video, get transcripts and edit them in your browser
+
+上传音频或视频，在浏览器中获取和编辑转录文本

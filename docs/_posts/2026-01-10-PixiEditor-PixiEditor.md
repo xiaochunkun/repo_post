@@ -7,3 +7,5 @@ image: assets/PixiEditor_PixiEditor_20260108_043901_872_20260108_043915_d168ce.p
 # [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor)
 
 Combines pixel, vector, and painting tools on one canvas
+
+在一个画布上结合像素、矢量和绘画工具

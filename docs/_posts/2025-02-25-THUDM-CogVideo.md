@@ -7,3 +7,5 @@ image: assets/THUDM_CogVideo_cropped.png
 # [THUDM/CogVideo](https://github.com/THUDM/CogVideo)
 
 Open-source text-to-video generation model and tools
+
+开源文本到视频生成模型和工具

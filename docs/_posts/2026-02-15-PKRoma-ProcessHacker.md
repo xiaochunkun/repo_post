@@ -7,3 +7,5 @@ image: assets/PKRoma_ProcessHacker_20260211_032650_250_20260211_032706_9b2640.pn
 # [PKRoma/ProcessHacker](https://github.com/PKRoma/ProcessHacker)
 
 Monitors system resources and detects malware
+
+监控系统资源并检测恶意软件

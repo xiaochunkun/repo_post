@@ -7,3 +7,5 @@ image: assets/anirudhsengar_MathVizAI_20260114_014240_474_20260114_014255_c5700b
 # [anirudhsengar/MathVizAI](https://github.com/anirudhsengar/MathVizAI)
 
 Generates math videos from problems
+
+从数学问题生成视频

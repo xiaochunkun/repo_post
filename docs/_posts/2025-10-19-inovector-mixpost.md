@@ -7,3 +7,5 @@ image: assets/inovector_mixpost_20251018_170926_356_20251018_182946--20251018T20
 # [inovector/mixpost](https://github.com/inovector/mixpost/)
 
 Self-hosted social media management platform
+
+自托管的社交媒体管理平台

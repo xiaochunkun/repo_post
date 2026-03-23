@@ -7,3 +7,5 @@ image: assets/firefly_iii_firefly_iii_20260202_225420_265_20260202_225448_2d5240
 # [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 
 Personal finance manager for tracking budgets and expenses
+
+用于跟踪预算和支出的个人财务管理器

@@ -7,3 +7,5 @@ image: assets/modelcontextprotocol_typescript-sdk_cropped.png
 # [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 
 TypeScript SDK for building Model Context Protocol clients and servers
+
+用于构建 Model Context Protocol 客户端和服务器的 TypeScript SDK

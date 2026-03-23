@@ -7,3 +7,5 @@ image: assets/buildermethods_agent-os_cropped.png
 # [buildermethods/agent-os](https://github.com/buildermethods/agent-os)
 
 lets ai coding agents follow your standards for shipping code
+
+让 AI 编码代理遵循您的代码交付标准

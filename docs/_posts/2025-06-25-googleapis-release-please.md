@@ -7,3 +7,5 @@ image: assets/googleapis_release-please_cropped.png
 # [googleapis/release-please](https://github.com/googleapis/release-please)
 
 automates changelog updates, version bumps, and GitHub releases for projects
+
+自动化项目的变更日志更新、版本提升和GitHub发布

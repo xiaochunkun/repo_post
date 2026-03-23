@@ -7,3 +7,5 @@ image: assets/Mintplex-Labs_anything-llm_cropped.png
 # [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 
 Turn documents, resources, or content into context for chats with LLMs
+
+将文档、资源或内容转换为LLM聊天的上下文

@@ -7,3 +7,5 @@ image: assets/cjinhuo_text_search_engine_20251124_232016_150_20251125_221255_d36
 # [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine/)
 
 Mixed Chinese and English fuzzy search engine
+
+混合中英文模糊搜索引擎

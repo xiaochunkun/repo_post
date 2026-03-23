@@ -7,3 +7,5 @@ image: assets/timothepoznanski_poznote_20251209_054505_657_20251209_054534_29a24
 # [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote/)
 
 Lightweight note-taking web app
+
+轻量级笔记 Web 应用

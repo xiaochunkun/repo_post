@@ -7,3 +7,5 @@ image: assets/MayGo_tockler_20251201_044019_960_20251201_044054_1410a3.png
 # [MayGo/tockler](https://github.com/MayGo/tockler/)
 
 Tracks computer usage and window titles
+
+追踪计算机使用情况和窗口标题

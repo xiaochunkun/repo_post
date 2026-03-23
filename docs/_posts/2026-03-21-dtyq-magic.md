@@ -7,3 +7,5 @@ image: assets/dtyq_magic_20260321_005213_467_20260321_005307_c3e405.png
 # [dtyq/magic](https://github.com/dtyq/magic)
 
 Enterprise AI agent platform with sandbox and approval gates
+
+企业级AI代理平台，带沙箱和审批门

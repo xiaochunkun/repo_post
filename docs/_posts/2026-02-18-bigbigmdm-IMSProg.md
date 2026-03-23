@@ -7,3 +7,5 @@ image: assets/bigbigmdm_IMSProg_20260118_235744_355_20260118_235831_a2d54f.png
 # [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg)
 
 Reads and writes EEPROM chips using CH341A devices
+
+使用 CH341A 设备读写 EEPROM 芯片

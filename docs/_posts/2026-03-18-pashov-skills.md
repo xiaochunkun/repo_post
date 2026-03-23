@@ -7,3 +7,5 @@ image: assets/pashov_skills_20260316_033910_201_20260316_033946_11b65e.png
 # [pashov/skills](https://github.com/pashov/skills)
 
 Solidity security auditing for AI agents
+
+AI Agent的Solidity安全审计

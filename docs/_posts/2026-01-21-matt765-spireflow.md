@@ -7,3 +7,5 @@ image: assets/matt765_spireflow_20260120_091217_792_20260120_091243_5624fe.png
 # [matt765/spireflow](https://github.com/matt765/spireflow)
 
 Dashboard template with 14 charts and 8 pages
+
+包含 14 个图表和 8 个页面的仪表板模板

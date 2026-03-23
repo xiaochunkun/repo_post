@@ -7,3 +7,5 @@ image: assets/bndw_wifi_card_20260206_215125_056_20260206_215220_482277.png
 # [bndw/wifi-card](https://github.com/bndw/wifi-card)
 
 Generates QR codes for WiFi login
+
+生成WiFi登录二维码

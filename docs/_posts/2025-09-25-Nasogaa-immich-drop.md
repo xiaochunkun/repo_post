@@ -7,3 +7,5 @@ image: assets/20250925T045611325--Nasogaa--immich-drop--20250925T051633692--crop
 # [Nasogaa/immich-drop](https://github.com/Nasogaa/immich-drop)
 
 web app for sharing upload links to collect photos and videos
+
+用于分享上传链接以收集照片和视频的Web应用

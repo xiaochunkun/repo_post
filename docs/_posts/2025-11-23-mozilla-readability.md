@@ -7,3 +7,5 @@ image: assets/mozilla_readability_20251123_013848_852_20251123_022823_14097f--20
 # [mozilla/readability](https://github.com/mozilla/readability/)
 
 Standalone library for Firefox Reader View
+
+Firefox阅读视图的独立库

@@ -7,3 +7,5 @@ image: assets/DataSQRL_sqrl_20251106_230118_179_20251107_165441_fd8aa1--20251107
 # [DataSQRL/sqrl](https://github.com/DataSQRL/sqrl/)
 
 Builds data pipelines from a single SQL script
+
+从单个SQL脚本构建数据管道

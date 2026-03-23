@@ -7,3 +7,5 @@ image: assets/TalEliyahu_awesome_security_newsletters_20260211_035515_266_202602
 # [TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
 
 Curated list of cyber security newsletters
+
+精选的网络安全新闻稿列表

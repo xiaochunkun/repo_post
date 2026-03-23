@@ -7,3 +7,5 @@ image: assets/crewAIInc_crewAI_cropped.png
 # [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
 
 Framework for orchestrating AI agents to collaborate on tasks
+
+用于编排 AI 代理协作完成任务的框架

@@ -7,3 +7,5 @@ image: assets/codewithsadee_vcard_personal_portfolio_20251218_054026_104_2025121
 # [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio/)
 
 Portfolio website using HTML, CSS, and JavaScript
+
+使用 HTML、CSS 和 JavaScript 的作品集网站

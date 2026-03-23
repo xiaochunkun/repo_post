@@ -7,3 +7,5 @@ image: assets/nhevers_MoltBrain_20260321_125857_437_20260321_125940_0d2ed0.png
 # [nhevers/MoltBrain](https://github.com/nhevers/MoltBrain)
 
 Long-term memory layer for OpenClaw and Claude Code
+
+OpenClaw和Claude Code的长期记忆层

@@ -7,3 +7,5 @@ image: assets/gtsteffaniak_filebrowser_20260121_234213_394_20260121_234237_4d334
 # [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
 Self-hosted file manager with OIDC support and real-time indexing
+
+支持OIDC和实时索引的自托管文件管理器

@@ -7,3 +7,5 @@ image: assets/kelindar_event_cropped.png
 # [kelindar/event](https://github.com/kelindar/event)
 
 in-process event bus for Go apps
+
+Go应用的进程内事件总线

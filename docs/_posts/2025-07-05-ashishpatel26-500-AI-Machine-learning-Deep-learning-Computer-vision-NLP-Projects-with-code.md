@@ -7,3 +7,5 @@ image: assets/ashishpatel26_500-AI-Machine-learning-Deep-learning-Computer-visio
 # [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 collection of AI, machine learning, deep learning, computer vision, NLP projects with code
+
+包含代码的AI、机器学习、深度学习、计算机视觉、NLP项目集合

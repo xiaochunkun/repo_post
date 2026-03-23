@@ -7,3 +7,5 @@ image: assets/andreknieriem_headunit_revived_20260311_113353_741_20260311_113639
 # [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived)
 
 Android Auto receiver for tablets and phones
+
+平板和手机的Android Auto接收器

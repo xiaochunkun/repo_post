@@ -7,3 +7,5 @@ image: assets/ONLYOFFICE_DocSpace_20260128_175455_161_20260128_175553_332756.png
 # [ONLYOFFICE/DocSpace](https://github.com/ONLYOFFICE/DocSpace)
 
 Room-based collaboration platform with AI agents and document editors
+
+基于房间的协作平台，带AI代理和文档编辑器

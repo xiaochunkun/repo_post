@@ -7,3 +7,5 @@ image: assets/kormax_apple_home_key_reader_20251226_002829_783_20251226_002846_1
 # [kormax/apple-home-key-reader](https://github.com/kormax/apple-home-key-reader/)
 
 Python implementation of the Apple Home Key reader
+
+Apple Home Key 阅读器的 Python 实现

@@ -7,3 +7,5 @@ image: assets/nathangtg_legal_guard_regtech_20260121_000445_632_20260121_000459_
 # [nathangtg/legal-guard-regtech](https://github.com/nathangtg/legal-guard-regtech)
 
 Analyzes legal documents for compliance with regulations
+
+分析法律文档以符合法规

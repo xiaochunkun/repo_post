@@ -7,3 +7,5 @@ image: assets/hypervel_hypervel_20251209_022256_717_20251209_022320_3e7916.png
 # [hypervel/hypervel](https://github.com/hypervel/hypervel/)
 
 Laravel-style PHP framework with coroutines
+
+支持协程的 Laravel 风格 PHP 框架

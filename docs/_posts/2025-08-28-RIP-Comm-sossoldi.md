@@ -7,3 +7,5 @@ image: assets/20250827T100813063--RIP-Comm--sossoldi--20250827T101231485--croppe
 # [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi)
 
 open source app for tracking net worth and expenses
+
+开源净资产和开支追踪应用

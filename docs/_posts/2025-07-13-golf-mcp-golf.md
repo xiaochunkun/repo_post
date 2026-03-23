@@ -7,3 +7,5 @@ image: assets/golf-mcp_golf_cropped.png
 # [golf-mcp/golf](https://github.com/golf-mcp/golf)
 
 framework for building MCP servers with Python
+
+用Python构建MCP服务器的框架

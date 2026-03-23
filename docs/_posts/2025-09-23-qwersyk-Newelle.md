@@ -7,3 +7,5 @@ image: assets/20250923T015021896--qwersyk--Newelle--20250923T020156951--cropped.
 # [qwersyk/Newelle](https://github.com/qwersyk/Newelle)
 
 AI assistant for Linux with voice, file management, terminal commands, and extension support
+
+Linux 的 AI 助手，支持语音、文件管理、终端命令和扩展

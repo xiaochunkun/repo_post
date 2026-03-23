@@ -7,3 +7,5 @@ image: assets/igorsheg_astro_20260120_143409_839_20260120_143456_202ab6.png
 # [igorsheg/astro](https://github.com/igorsheg/astro)
 
 Dashboard for homelab services
+
+家庭实验室服务的仪表板

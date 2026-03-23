@@ -7,3 +7,5 @@ image: assets/different_ai_owpenbot_20260206_055442_762_20260206_055509_0d0ab9.p
 # [different-ai/owpenbot](https://github.com/different-ai/owpenbot)
 
 Bridge for WhatsApp and Telegram on opencode
+
+在opencode上连接WhatsApp和Telegram的桥梁

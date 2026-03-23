@@ -7,3 +7,5 @@ image: assets/fossasia_led_name_badge_ls32_20260207_023152_778_20260207_023212_b
 # [fossasia/led-name-badge-ls32](https://github.com/fossasia/led-name-badge-ls32)
 
 Programs LED badges via USB-HID interface
+
+通过USB-HID接口编程LED徽章

@@ -7,3 +7,5 @@ image: assets/firecrawl_fireplexity_20260202_221254_986_20260202_221334_266742.p
 # [firecrawl/fireplexity](https://github.com/firecrawl/fireplexity)
 
 AI search engine with citations and live data
+
+带引用和实时数据的 AI 搜索引擎

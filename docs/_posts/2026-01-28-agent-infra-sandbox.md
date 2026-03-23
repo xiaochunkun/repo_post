@@ -7,3 +7,5 @@ image: assets/agent_infra_sandbox_20260122_003020_654_20260122_003045_af7611.png
 # [agent-infra/sandbox](https://github.com/agent-infra/sandbox)
 
 Docker container with browser, shell, and VSCode for agents
+
+包含浏览器、shell和VSCode的Docker容器，用于代理

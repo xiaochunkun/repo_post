@@ -7,3 +7,5 @@ image: assets/dlt-hub_dlt_cropped.png
 # [dlt-hub/dlt](https://github.com/dlt-hub/dlt)
 
 Python library for data loading
+
+用于数据加载的 Python 库

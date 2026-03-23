@@ -7,3 +7,5 @@ image: assets/brdweb_billmanager_20260113_112024_762_20260113_112039_df8db9.png
 # [brdweb/billmanager](https://github.com/brdweb/billmanager)
 
 Tracks bills and splits expenses
+
+账单追踪和费用分摊工具

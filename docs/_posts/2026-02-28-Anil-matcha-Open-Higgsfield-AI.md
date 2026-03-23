@@ -7,3 +7,5 @@ image: assets/Anil_matcha_Open_Higgsfield_AI_20260225_133859_181_20260225_134058
 # [Anil-matcha/Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI)
 
 Generates images and videos with 200 models
+
+使用200个模型生成图像和视频

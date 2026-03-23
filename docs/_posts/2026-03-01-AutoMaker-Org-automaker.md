@@ -7,3 +7,5 @@ image: assets/AutoMaker_Org_automaker_20260228_142819_085_20260228_143018_e66be2
 # [AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)
 
 Directs agents to build features
+
+指导代理构建功能

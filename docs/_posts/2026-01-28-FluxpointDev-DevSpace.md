@@ -7,3 +7,5 @@ image: assets/FluxpointDev_DevSpace_20260126_143237_447_20260126_143323_2d637f.p
 # [FluxpointDev/DevSpace](https://github.com/FluxpointDev/DevSpace)
 
 Dashboard for server management and project logging
+
+服务器管理和项目日志的仪表板

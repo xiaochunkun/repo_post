@@ -7,3 +7,5 @@ image: assets/langchain-ai_multi-modal-researcher--20250816T204744723--cropped.p
 # [langchain-ai/multi-modal-researcher](https://github.com/langchain-ai/multi-modal-researcher)
 
 research and podcast workflow with Gemini 2.5, YouTube, and web search
+
+使用Gemini 2.5、YouTube和网络搜索的研究和播客工作流

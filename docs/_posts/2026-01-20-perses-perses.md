@@ -7,3 +7,5 @@ image: assets/perses_perses_20260119_213305_363_20260119_213329_f33bef.png
 # [perses/perses](https://github.com/perses/perses)
 
 Dashboard tool for observability data
+
+用于可观测性数据的仪表板工具

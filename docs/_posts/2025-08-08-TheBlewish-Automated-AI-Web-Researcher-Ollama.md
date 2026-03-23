@@ -7,3 +7,5 @@ image: assets/TheBlewish_Automated-AI-Web-Researcher-Ollama_cropped.png
 # [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)
 
 turns ollama into an automated web researcher assistant
+
+将ollama转换为自动化网络研究助手

@@ -7,3 +7,5 @@ image: assets/xdagiz_xytz_20260208_232438_205_20260208_232457_0f0e30.png
 # [xdagiz/xytz](https://github.com/xdagiz/xytz)
 
 Terminal interface for searching and downloading YouTube videos
+
+用于搜索和下载 YouTube 视频的终端界面

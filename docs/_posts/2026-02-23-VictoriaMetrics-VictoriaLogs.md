@@ -7,3 +7,5 @@ image: assets/VictoriaMetrics_VictoriaLogs_20260223_084920_565_20260223_084937_3
 # [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs)
 
 Database for terabytes of logs
+
+处理TB级日志的数据库

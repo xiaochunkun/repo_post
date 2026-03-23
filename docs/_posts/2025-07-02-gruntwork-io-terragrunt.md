@@ -7,3 +7,5 @@ image: assets/gruntwork-io_terragrunt_cropped.png
 # [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt)
 
 Terragrunt for Terraform management
+
+用于Terraform管理的Terragrunt

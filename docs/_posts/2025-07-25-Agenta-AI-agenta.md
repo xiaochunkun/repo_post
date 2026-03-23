@@ -7,3 +7,5 @@ image: assets/Agenta-AI_agenta_cropped.png
 # [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
 
 Manage, evaluate, and deploy AI models and agents for apps
+
+管理、评估和部署AI模型与代理，用于应用

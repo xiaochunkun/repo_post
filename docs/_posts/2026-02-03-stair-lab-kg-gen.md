@@ -7,3 +7,5 @@ image: assets/stair_lab_kg_gen_20260203_002149_504_20260203_002207_c98036.png
 # [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen)
 
 Extracts knowledge graphs from text
+
+从文本中提取知识图谱

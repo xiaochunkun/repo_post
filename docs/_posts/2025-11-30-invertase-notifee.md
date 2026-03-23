@@ -7,3 +7,5 @@ image: assets/invertase_notifee_20251127_200146_508_20251130_082859_81e6d8--2025
 # [invertase/notifee](https://github.com/invertase/notifee/)
 
 Android and iOS notifications library for React Native
+
+React Native 的 Android 和 iOS 通知库

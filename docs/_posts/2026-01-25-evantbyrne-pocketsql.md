@@ -7,3 +7,5 @@ image: assets/evantbyrne_pocketsql_20260118_043520_257_20260118_043536_54bb81.pn
 # [evantbyrne/pocketsql](https://github.com/evantbyrne/pocketsql)
 
 Dashboard for SQLite databases
+
+SQLite数据库的仪表板

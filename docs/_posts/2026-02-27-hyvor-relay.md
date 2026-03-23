@@ -7,3 +7,5 @@ image: assets/hyvor_relay_20260226_060123_044_20260226_060309_c4aa90.png
 # [hyvor/relay](https://github.com/hyvor/relay)
 
 Self-hosted email API for developers
+
+开发者的自托管电子邮件API

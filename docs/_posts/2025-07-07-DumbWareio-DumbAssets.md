@@ -7,3 +7,5 @@ image: assets/DumbWareio_DumbAssets_cropped.png
 # [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets)
 
 tracks physical assets, components, warranties, and maintenance routines
+
+跟踪物理资产、组件、保修和维护例行程序

@@ -7,3 +7,5 @@ image: assets/hcengineering_platform_cropped.png
 # [hcengineering/platform](https://github.com/hcengineering/platform)
 
 project management, chat, crm, hrm, ats platform with api and self-hosting options
+
+项目管理、聊天、CRM、HRM、ATS平台，提供API和自托管选项

@@ -7,3 +7,5 @@ image: assets/facebookresearch_seamless_communication_cropped.png
 # [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication)
 
 AI models for translating and transcribing speech and text between many languages
+
+用于在多种语言之间翻译和转录语音和文本的 AI 模型

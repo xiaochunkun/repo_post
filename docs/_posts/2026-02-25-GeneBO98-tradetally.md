@@ -7,3 +7,5 @@ image: assets/GeneBO98_tradetally_20260222_235312_148_20260222_235401_11489d.png
 # [GeneBO98/tradetally](https://github.com/GeneBO98/tradetally)
 
 Trading journal with multi-broker imports and AI analytics
+
+支持多券商导入和AI分析的交易日志

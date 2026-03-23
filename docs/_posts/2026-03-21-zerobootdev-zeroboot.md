@@ -7,3 +7,5 @@ image: assets/zerobootdev_zeroboot_20260320_223101_884_20260320_223145_217eef.pn
 # [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)
 
 Sub-millisecond VM sandboxes via copy-on-write
+
+通过写时复制实现亚毫秒级 VM 沙箱

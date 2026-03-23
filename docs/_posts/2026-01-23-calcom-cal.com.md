@@ -7,3 +7,5 @@ image: assets/calcom_cal_com_20260122_005220_421_20260122_005239_b3bd62.png
 # [calcom/cal.com](https://github.com/calcom/cal.com)
 
 Scheduling infrastructure for individuals and teams
+
+面向个人和团队的调度基础设施

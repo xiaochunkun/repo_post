@@ -7,3 +7,5 @@ image: assets/mattrobenolt_appify_20260131_215400_186_20260131_215437_832e88.png
 # [mattrobenolt/appify](https://github.com/mattrobenolt/appify)
 
 Wraps TUI programs into macOS applications
+
+将 TUI 程序包装成 macOS 应用程序

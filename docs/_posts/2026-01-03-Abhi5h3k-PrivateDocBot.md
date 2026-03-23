@@ -7,3 +7,5 @@ image: assets/Abhi5h3k_PrivateDocBot_20260102_012927_200_20260102_012944_90bd2f.
 # [Abhi5h3k/PrivateDocBot](https://github.com/Abhi5h3k/PrivateDocBot/)
 
 Chatbot for document interactions with local language models
+
+基于本地语言模型的文档交互聊天机器人

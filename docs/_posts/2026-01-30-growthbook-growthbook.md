@@ -7,3 +7,5 @@ image: assets/growthbook_growthbook_20260129_154722_960_20260129_154809_254e37.p
 # [growthbook/growthbook](https://github.com/growthbook/growthbook)
 
 Feature flagging and A/B testing platform
+
+功能标记和A/B测试平台

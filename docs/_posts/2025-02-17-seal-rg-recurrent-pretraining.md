@@ -7,3 +7,5 @@ image: assets/seal-rg_recurrent-pretraining_cropped.png
 # [seal-rg/recurrent-pretraining](https://github.com/seal-rg/recurrent-pretraining)
 
 Code for large-scale depth-recurrent language model training
+
+大规模深度循环语言模型训练代码

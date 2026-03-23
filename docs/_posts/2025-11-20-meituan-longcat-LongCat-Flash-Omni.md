@@ -7,3 +7,5 @@ image: assets/meituan_longcat_LongCat_Flash_Omni_20251120_025747_707_20251120_04
 # [meituan-longcat/LongCat-Flash-Omni](https://github.com/meituan-longcat/LongCat-Flash-Omni/)
 
 Omni-modal model with 560 billion parameters
+
+5600亿参数全模态模型

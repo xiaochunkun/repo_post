@@ -7,3 +7,5 @@ image: assets/netease_youdao_QAnything_20260318_150814_236_20260318_150903_0667b
 # [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)
 
 Question and answer based on anything
+
+基于任意内容的问答系统

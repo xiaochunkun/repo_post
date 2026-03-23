@@ -7,3 +7,5 @@ image: assets/openscad_openscad_20260302_004802_635_20260302_004920_2a1bfd.png
 # [openscad/openscad](https://github.com/openscad/openscad)
 
 Compiles scripts into 3D models
+
+将脚本编译为3D模型

@@ -7,3 +7,5 @@ image: assets/SesameAILabs_csm_cropped.png
 # [SesameAILabs/csm](https://github.com/SesameAILabs/csm)
 
 text-to-speech and audio generation model for turning text and audio into speech codes
+
+将文本和音频转换为语音代码的文本转语音和音频生成模型

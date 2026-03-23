@@ -7,3 +7,5 @@ image: assets/hwchase17_deepagents_cropped.png
 # [hwchase17/deepagents](https://github.com/hwchase17/deepagents)
 
 AI agent framework for complex task automation
+
+用于复杂任务自动化的 AI 智能体框架

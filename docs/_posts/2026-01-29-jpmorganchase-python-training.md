@@ -7,3 +7,5 @@ image: assets/jpmorganchase_python_training_20260129_010216_528_20260129_010254_
 # [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training)
 
 Python course for analysts and traders
+
+分析师和交易员的Python课程

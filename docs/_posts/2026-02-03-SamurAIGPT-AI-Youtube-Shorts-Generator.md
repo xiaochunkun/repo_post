@@ -7,3 +7,5 @@ image: assets/SamurAIGPT_AI_Youtube_Shorts_Generator_20260202_231230_722_2026020
 # [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator)
 
 Converts videos into shorts using GPT-4o and Whisper
+
+使用 GPT-4o 和 Whisper 将视频转换为短片

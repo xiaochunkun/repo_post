@@ -7,3 +7,5 @@ image: assets/Tencent_HunyuanVideo_cropped.png
 # [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
 
 Open-source video generation model
+
+开源视频生成模型

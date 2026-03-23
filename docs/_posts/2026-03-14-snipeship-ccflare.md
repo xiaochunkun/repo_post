@@ -7,3 +7,5 @@ image: assets/snipeship_ccflare_20260313_165301_948_20260313_165504_490bb8.png
 # [snipeship/ccflare](https://github.com/snipeship/ccflare)
 
 Balance Claude API requests across accounts
+
+在账户间平衡Claude API请求

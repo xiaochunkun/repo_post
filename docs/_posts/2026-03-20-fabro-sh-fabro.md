@@ -7,3 +7,5 @@ image: assets/fabro_sh_fabro_20260320_033757_489_20260320_034324_2a90b7.png
 # [fabro-sh/fabro](https://github.com/fabro-sh/fabro)
 
 Graph based AI agent workflow
+
+基于图的 AI 代理工作流

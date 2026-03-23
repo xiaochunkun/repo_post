@@ -7,3 +7,5 @@ image: assets/github_markup_cropped.png
 # [github/markup](https://github.com/github/markup)
 
 github/markup: picks which markup library handles files for rendering on GitHub
+
+github/markup：选择用于在 GitHub 上渲染文件的标记库

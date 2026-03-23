@@ -7,3 +7,5 @@ image: assets/nanobrowser_nanobrowser_cropped.png
 # [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)
 
 Browser automation tool
+
+浏览器自动化工具

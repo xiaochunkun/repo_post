@@ -7,3 +7,5 @@ image: assets/evertramos_nginx_proxy_automation_20260117_210225_925_20260117_210
 # [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation)
 
 Automates NGINX proxy with Let's Encrypt certificates for Docker containers
+
+为Docker容器自动化NGINX代理和Let's Encrypt证书

@@ -7,3 +7,5 @@ image: assets/ttktjmt_mjswan_20260309_131121_289_20260309_131310_729038.png
 # [ttktjmt/mjswan](https://github.com/ttktjmt/mjswan)
 
 Robot simulations with policy control in a browser
+
+在浏览器中进行策略控制的机器人模拟

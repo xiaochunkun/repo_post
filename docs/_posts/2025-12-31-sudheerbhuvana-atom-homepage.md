@@ -7,3 +7,5 @@ image: assets/sudheerbhuvana_atom_homepage_20251229_144227_214_20251229_144244_e
 # [sudheerbhuvana/atom-homepage](https://github.com/sudheerbhuvana/atom-homepage/)
 
 Dashboard for monitoring services and Docker containers
+
+监控服务和Docker容器的仪表板

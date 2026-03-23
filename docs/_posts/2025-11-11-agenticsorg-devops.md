@@ -7,3 +7,5 @@ image: assets/agenticsorg_devops_20251110_163518_890_20251111_015142_4fa55d--202
 # [agenticsorg/devops](https://github.com/agenticsorg/devops/)
 
 DevOps platform that plans, executes, and optimizes cloud infrastructure
+
+规划、执行和优化云基础设施的DevOps平台

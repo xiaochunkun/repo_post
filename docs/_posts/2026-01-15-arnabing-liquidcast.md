@@ -7,3 +7,5 @@ image: assets/arnabing_liquidcast_20260114_003509_583_20260114_003524_eed219.png
 # [arnabing/liquidcast](https://github.com/arnabing/liquidcast)
 
 Casts video to Apple TV via AirPlay with surround sound
+
+通过 AirPlay 将视频投射到 Apple TV 并支持环绕声

@@ -7,3 +7,5 @@ image: assets/a_bonus_google_docs_mcp_20260113_181618_935_20260113_181634_83ebb1
 # [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp)
 
 Connects Claude to Google Docs and Drive
+
+连接 Claude 到 Google Docs 和 Drive

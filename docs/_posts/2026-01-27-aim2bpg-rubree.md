@@ -7,3 +7,5 @@ image: assets/aim2bpg_rubree_20260113_114602_279_20260113_114623_c1b83c.png
 # [aim2bpg/rubree](https://github.com/aim2bpg/rubree)
 
 Ruby regular expression editor with railroad diagrams
+
+带有铁路图的 Ruby 正则表达式编辑器

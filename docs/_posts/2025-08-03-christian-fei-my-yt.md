@@ -7,3 +7,5 @@ image: assets/christian-fei_my-yt_cropped.png
 # [christian-fei/my-yt](https://github.com/christian-fei/my-yt)
 
 minimal YouTube frontend, ad-free, local downloads
+
+简约YouTube前端，无广告，支持本地下载

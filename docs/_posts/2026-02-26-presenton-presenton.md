@@ -7,3 +7,5 @@ image: assets/presenton_presenton_20260129_013657_336_20260129_013738_007161.png
 # [presenton/presenton](https://github.com/presenton/presenton)
 
 Generates presentations from prompts or files locally
+
+本地从提示或文件生成演示文稿

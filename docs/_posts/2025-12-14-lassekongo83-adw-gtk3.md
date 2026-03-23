@@ -7,3 +7,5 @@ image: assets/lassekongo83_adw_gtk3_20251213_035537_145_20251213_035603_1180a1.p
 # [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3/)
 
 Port of libadwaita theme to GTK3
+
+libadwaita 主题移植到 GTK3

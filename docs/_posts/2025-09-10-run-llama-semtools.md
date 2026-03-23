@@ -7,3 +7,5 @@ image: assets/20250908T232031055--run-llama--semtools--20250908T232525174--cropp
 # [run-llama/semtools](https://github.com/run-llama/semtools)
 
 CLI tools for parsing documents and running local semantic search
+
+解析文档和运行本地语义搜索的 CLI 工具

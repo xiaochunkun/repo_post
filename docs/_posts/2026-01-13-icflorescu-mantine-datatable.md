@@ -7,3 +7,5 @@ image: assets/icflorescu_mantine_datatable_20260112_130525_208_20260112_130539_b
 # [icflorescu/mantine-datatable](https://github.com/icflorescu/mantine-datatable)
 
 Table with asynchronous data loading and batch row selection
+
+支持异步数据加载和批量行选择的表格

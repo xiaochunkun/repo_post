@@ -7,3 +7,5 @@ image: assets/MCP_Defender_MCP_Defender_20251223_153813_841_20251223_153836_862b
 # [MCP-Defender/MCP-Defender](https://github.com/MCP-Defender/MCP-Defender/)
 
 Blocks traffic from AI agents
+
+阻止 AI 代理流量

@@ -7,3 +7,5 @@ image: assets/go_olive_olive_20251219_052603_122_20251219_052619_7b3e64.png
 # [go-olive/olive](https://github.com/go-olive/olive/)
 
 Records live streams automatically from URLs
+
+从URL自动录制直播流

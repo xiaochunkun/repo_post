@@ -7,3 +7,5 @@ image: assets/amalshaji_dbcooper_20260113_195202_333_20260113_195216_61acf4.png
 # [amalshaji/dbcooper](https://github.com/amalshaji/dbcooper)
 
 Desktop database client using Tauri and React
+
+使用Tauri和React的桌面数据库客户端

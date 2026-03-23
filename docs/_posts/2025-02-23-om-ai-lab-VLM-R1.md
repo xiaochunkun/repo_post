@@ -7,3 +7,5 @@ image: assets/om-ai-lab_VLM-R1_cropped.png
 # [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1)
 
 Visual language model trained with reinforcement learning
+
+通过强化学习训练的视觉语言模型

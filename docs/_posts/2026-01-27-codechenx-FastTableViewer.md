@@ -7,3 +7,5 @@ image: assets/codechenx_FastTableViewer_20260126_105617_192_20260126_105653_af7f
 # [codechenx/FastTableViewer](https://github.com/codechenx/FastTableViewer)
 
 Terminal viewer for CSV and TSV files with vim-inspired controls
+
+支持vim风格控制的CSV和TSV文件终端查看器

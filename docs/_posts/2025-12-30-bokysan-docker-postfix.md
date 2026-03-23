@@ -7,3 +7,5 @@ image: assets/bokysan_docker_postfix_20251228_215748_194_20251228_215807_cb880b.
 # [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix/)
 
 SMTP relay host for Docker containers
+
+Docker 容器的 SMTP 中继主机

@@ -7,3 +7,5 @@ image: assets/samuelmaddock_electron_browser_shell_20260103_150248_805_20260103_
 # [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell/)
 
 Web browser on Electron running Chrome extensions
+
+基于 Electron 运行 Chrome 扩展的网页浏览器

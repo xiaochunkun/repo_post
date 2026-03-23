@@ -7,3 +7,5 @@ image: assets/rust-lang_rust-clippy--20250919T015412284--cropped.png
 # [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 
 Lint checks for Rust code, catches mistakes and suggests improvements
+
+Rust代码的lint检查，捕获错误并建议改进

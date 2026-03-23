@@ -7,3 +7,5 @@ image: assets/astral-sh_uv_cropped.png
 # [astral-sh/uv](https://github.com/astral-sh/uv)
 
 Fast Python package manager written in Rust
+
+用Rust编写的快速Python包管理器

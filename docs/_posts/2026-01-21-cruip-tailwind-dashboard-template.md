@@ -7,3 +7,5 @@ image: assets/cruip_tailwind_dashboard_template_20260120_145443_496_20260120_145
 # [cruip/tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template)
 
 React dashboard template with Tailwind CSS and Chart.js
+
+使用 Tailwind CSS 和 Chart.js 的 React 仪表板模板

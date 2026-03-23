@@ -7,3 +7,5 @@ image: assets/chshersh_zbg_20251111_214531_494_20251112_032543_9fa750--20251112T
 # [chshersh/zbg](https://github.com/chshersh/zbg/)
 
 CLI tool with prettier git status and log
+
+具有更美观 git 状态和日志的 CLI 工具

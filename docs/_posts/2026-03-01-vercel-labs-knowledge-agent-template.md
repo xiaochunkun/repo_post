@@ -7,3 +7,5 @@ image: assets/vercel_labs_knowledge_agent_template_20260225_221729_623_20260225_
 # [vercel-labs/knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template)
 
 AI agents using file-system search without vector databases
+
+使用文件系统搜索的 AI 代理，无需向量数据库

@@ -7,3 +7,5 @@ image: assets/smokkerelf_2000a3h_Video_AutoClip_Automatic_Stream_Highlights_Smar
 # [smokkerelf-2000a3h/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter](https://github.com/smokkerelf-2000a3h/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter)
 
 Detects highlights and generates clips from videos
+
+检测视频亮点并生成剪辑

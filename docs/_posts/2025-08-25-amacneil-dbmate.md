@@ -7,3 +7,5 @@ image: assets/20250825T015757295--amacneil--dbmate--20250825T020440009--cropped.
 # [amacneil/dbmate](https://github.com/amacneil/dbmate)
 
 simple database schema migrations tool for any language
+
+简单易用的数据库 Schema 迁移工具，不限语言

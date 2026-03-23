@@ -7,3 +7,5 @@ image: assets/zz85_space_radar_20260120_042809_396_20260120_042848_882fba.png
 # [zz85/space-radar](https://github.com/zz85/space-radar)
 
 Visualizes disk and memory space with sunburst and treemap charts
+
+使用旭日图和树状图可视化磁盘和内存空间

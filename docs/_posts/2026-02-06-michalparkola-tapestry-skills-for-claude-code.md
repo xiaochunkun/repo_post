@@ -7,3 +7,5 @@ image: assets/michalparkola_tapestry_skills_for_claude_code_20260204_065933_998_
 # [michalparkola/tapestry-skills-for-claude-code](https://github.com/michalparkola/tapestry-skills-for-claude-code)
 
 Extracts content from links into implementation plans for Claude Code
+
+从链接提取内容生成Claude Code的实现计划

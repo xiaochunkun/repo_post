@@ -7,3 +7,5 @@ image: assets/inline-chat_inline--20250812T010259--cropped.png
 # [inline-chat/inline](https://github.com/inline-chat/inline)
 
 native team chat app focused on speed and simplicity
+
+专注于速度和简洁性的原生团队聊天应用

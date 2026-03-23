@@ -7,3 +7,5 @@ image: assets/raulcd_datanomy_20251221_154118_407_20251221_154154_9b6ee0.png
 # [raulcd/datanomy](https://github.com/raulcd/datanomy/)
 
 Terminal tool for inspecting columnar data files
+
+检查列式数据文件的终端工具

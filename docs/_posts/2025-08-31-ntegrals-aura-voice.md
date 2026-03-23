@@ -7,3 +7,5 @@ image: assets/20250830T043547496--ntegrals--aura-voice--20250830T043716191--crop
 # [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice)
 
 browser-based voice assistant using GPT-4o, Whisper, and Eleven Labs
+
+浏览器语音助手，基于 GPT-4o、Whisper 和 Eleven Labs

@@ -7,3 +7,5 @@ image: assets/Skyvern_AI_skyvern_20251019_010249_382_20251019_172803--20251019T1
 # [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern/)
 
 Automates browser workflows with LLMs and computer vision
+
+利用 LLMs 和计算机视觉自动化浏览器工作流

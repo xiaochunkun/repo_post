@@ -7,3 +7,5 @@ image: assets/OpenPipe_ART_20260222_120227_323_20260222_120247_bf782a.png
 # [OpenPipe/ART](https://github.com/OpenPipe/ART)
 
 Trains agents using GRPO
+
+使用GRPO训练代理

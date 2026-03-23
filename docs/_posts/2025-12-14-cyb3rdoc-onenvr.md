@@ -7,3 +7,5 @@ image: assets/cyb3rdoc_onenvr_20251213_044524_133_20251213_044549_3a44e9.png
 # [cyb3rdoc/onenvr](https://github.com/cyb3rdoc/onenvr/)
 
 Network video recorder for Raspberry Pi
+
+Raspberry Pi 的网络视频录像机

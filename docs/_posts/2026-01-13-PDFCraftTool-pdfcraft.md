@@ -7,3 +7,5 @@ image: assets/PDFCraftTool_pdfcraft_20260111_102445_200_20260111_102458_649517.p
 # [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
 
 Processes PDF files in the browser via WebAssembly
+
+通过WebAssembly在浏览器中处理PDF文件

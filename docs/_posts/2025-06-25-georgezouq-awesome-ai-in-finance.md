@@ -7,3 +7,5 @@ image: assets/georgezouq_awesome-ai-in-finance_cropped.png
 # [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
 
 Collection of AI tools, research, and data sources for finance and trading
+
+金融和交易AI工具、研究和数据源的集合

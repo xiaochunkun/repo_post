@@ -7,3 +7,5 @@ image: assets/metabase_metabase_cropped.png
 # [metabase/metabase](https://github.com/metabase/metabase)
 
 open-source tool for dashboards and data visualization
+
+用于仪表板和数据可视化的开源工具

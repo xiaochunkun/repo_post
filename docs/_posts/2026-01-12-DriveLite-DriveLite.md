@@ -7,3 +7,5 @@ image: assets/DriveLite_DriveLite_20260112_014522_746_20260112_014537_366d32.png
 # [DriveLite/DriveLite](https://github.com/DriveLite/DriveLite)
 
 Self-hosted file storage with end-to-end encryption
+
+自托管端到端加密文件存储

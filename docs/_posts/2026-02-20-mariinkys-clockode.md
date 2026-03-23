@@ -7,3 +7,5 @@ image: assets/mariinkys_clockode_20260206_200633_224_20260206_200656_884c33.png
 # [mariinkys/clockode](https://github.com/mariinkys/clockode)
 
 TOTP client built with Rust and Iced
+
+使用 Rust 和 Iced 构建的 TOTP 客户端

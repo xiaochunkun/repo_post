@@ -7,3 +7,5 @@ image: assets/yale_nlp_MCTS_RAG_20260312_225004_329_20260312_225150_44c59b.png
 # [yale-nlp/MCTS-RAG](https://github.com/yale-nlp/MCTS-RAG)
 
 Integrates Monte Carlo Tree Search with RAG
+
+将蒙特卡洛树搜索与RAG集成

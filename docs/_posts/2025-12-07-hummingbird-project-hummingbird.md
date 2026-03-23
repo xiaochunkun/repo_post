@@ -7,3 +7,5 @@ image: assets/hummingbird_project_hummingbird_20251205_005521_066_20251205_00562
 # [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird/)
 
 Swift web framework on SwiftNIO
+
+基于SwiftNIO的Swift Web框架

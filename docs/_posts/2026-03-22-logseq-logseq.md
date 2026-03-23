@@ -7,3 +7,5 @@ image: assets/logseq_logseq_20260302_161331_311_20260302_161456_b6c1ec.png
 # [logseq/logseq](https://github.com/logseq/logseq)
 
 Platform for knowledge management and collaboration
+
+知识管理和协作平台

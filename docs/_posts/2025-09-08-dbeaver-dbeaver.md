@@ -7,3 +7,5 @@ image: assets/20250908T092055835--dbeaver--dbeaver--20250908T092746641--cropped.
 # [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
 
 multi-platform database tool for devs and admins
+
+面向开发者和管理员的多平台数据库工具

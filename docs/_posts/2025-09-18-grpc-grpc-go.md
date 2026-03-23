@@ -7,3 +7,5 @@ image: assets/20250918T040813079--grpc--grpc-go--20250918T040949162--cropped.png
 # [grpc/grpc-go](https://github.com/grpc/grpc-go)
 
 Go implementation of gRPC for building high performance RPC services over HTTP/2
+
+gRPC 的 Go 实现，用于在 HTTP/2 上构建高性能 RPC 服务

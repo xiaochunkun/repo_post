@@ -7,3 +7,5 @@ image: assets/screenshot_20251017_174835--20251017T194835240--cropped.png
 # [winapps-org/winapps](https://github.com/winapps-org/winapps/)
 
 Runs Windows apps as Linux desktop programs with system integration
+
+将Windows应用作为Linux桌面程序运行，具有系统集成

@@ -7,3 +7,5 @@ image: assets/tensortrade-org_tensortrade_cropped.png
 # [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade)
 
 TensorTrade: Python framework for building trading algorithms with reinforcement learning
+
+TensorTrade：使用强化学习构建交易算法的Python框架

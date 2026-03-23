@@ -7,3 +7,5 @@ image: assets/20250826T031756744--bit-team--backintime--20250826T032405181--crop
 # [bit-team/backintime](https://github.com/bit-team/backintime)
 
 simple Linux backup tool with snapshots
+
+简单的 Linux 快照备份工具

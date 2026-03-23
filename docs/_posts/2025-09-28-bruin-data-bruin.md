@@ -7,3 +7,5 @@ image: assets/20250928T060642058--bruin-data--bruin--20250928T064425024--cropped
 # [bruin-data/bruin](https://github.com/bruin-data/bruin)
 
 data pipeline tool for ingestion, transformation, and quality checks with SQL and Python
+
+数据管道工具，用于通过SQL和Python进行数据摄取、转换和质量检查

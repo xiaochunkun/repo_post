@@ -7,3 +7,5 @@ image: assets/pavlotsyhanok_medusa_pos_react_20251229_001303_203_20251229_001320
 # [pavlotsyhanok/medusa-pos-react](https://github.com/pavlotsyhanok/medusa-pos-react/)
 
 Point of sale application for B2B flows
+
+B2B流程的销售点应用

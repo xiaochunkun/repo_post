@@ -7,3 +7,5 @@ image: assets/ferdium_ferdium_server_20251107_000228_789_20251107_214553_9a7c98-
 # [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server/)
 
 Self-hosted server for a messaging browser
+
+消息浏览器的自托管服务器

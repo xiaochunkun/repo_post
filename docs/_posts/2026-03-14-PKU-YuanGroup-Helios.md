@@ -7,3 +7,5 @@ image: assets/PKU_YuanGroup_Helios_20260308_191752_605_20260308_191916_d12ca8.pn
 # [PKU-YuanGroup/Helios](https://github.com/PKU-YuanGroup/Helios)
 
 Video generation model with 19.5 FPS synthesis on H100 GPU
+
+在H100 GPU上以19.5 FPS合成视频的生成模型

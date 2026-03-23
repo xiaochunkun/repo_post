@@ -7,3 +7,5 @@ image: assets/hyperflask_hyperflask_20251209_005041_719_20251209_005159_d4be06.p
 # [hyperflask/hyperflask](https://github.com/hyperflask/hyperflask/)
 
 Opinionated full-stack Flask framework with HTMX integration
+
+集成HTMX的全栈Flask框架

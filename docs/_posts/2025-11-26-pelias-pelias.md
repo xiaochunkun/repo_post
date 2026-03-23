@@ -7,3 +7,5 @@ image: assets/pelias_pelias_20251123_210607_216_20251125_221250_25e744--20251125
 # [pelias/pelias](https://github.com/pelias/pelias/)
 
 Geocoder built on Elasticsearch using open data
+
+基于 Elasticsearch 使用开放数据构建的地理编码器

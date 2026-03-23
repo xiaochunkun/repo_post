@@ -7,3 +7,5 @@ image: assets/20250831T003440668--KoljaB--RealtimeTTS--20250831T005622445--cropp
 # [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS)
 
 Realtime text-to-speech library for instant audio from text
+
+实时文本转语音库，即时生成音频

@@ -7,3 +7,5 @@ image: assets/chonkie-inc_chonkie--20250906T023805050--cropped.png
 # [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie)
 
 ultra-light Python library for fast text chunking
+
+超轻量级 Python 库，实现快速文本分块

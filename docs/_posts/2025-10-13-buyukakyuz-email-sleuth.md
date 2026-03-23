@@ -7,3 +7,5 @@ image: assets/20251013T000119591--buyukakyuz--email-sleuth--20251013T000510888--
 # [buyukakyuz/email-sleuth](https://github.com/buyukakyuz/email-sleuth)
 
 find and verify business emails from names and company sites
+
+从姓名和公司网站查找和验证商务邮箱

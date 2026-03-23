@@ -7,3 +7,5 @@ image: assets/farzaa_freewrite_20260206_202245_557_20260206_202320_0e7501.png
 # [farzaa/freewrite](https://github.com/farzaa/freewrite)
 
 Open-source Mac app for writing
+
+开源的 Mac 写作应用

@@ -7,3 +7,5 @@ image: assets/sonnylazuardi_cursor-talk-to-figma-mcp_cropped.png
 # [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
 
 connects Cursor AI with Figma for automated design editing
+
+连接Cursor AI与Figma，实现自动化设计编辑

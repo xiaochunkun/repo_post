@@ -7,3 +7,5 @@ image: assets/20250820T124958161_atiilla_sqlmap-ai--20250820T125733082--cropped.
 # [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai)
 
 AI-powered tool for automated SQL injection testing
+
+用于自动化 SQL 注入测试的 AI 驱动工具

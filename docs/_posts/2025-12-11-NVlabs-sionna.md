@@ -7,3 +7,5 @@ image: assets/NVlabs_sionna_20251208_223303_384_20251208_223342_c1e84b.png
 # [NVlabs/sionna](https://github.com/NVlabs/sionna/)
 
 Open-source library for communication systems research
+
+通信系统研究的开源库

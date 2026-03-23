@@ -7,3 +7,5 @@ image: assets/pingcap_autoflow_cropped.png
 # [pingcap/autoflow](https://github.com/pingcap/autoflow)
 
 Graph RAG conversational knowledge base tool using TiDB
+
+使用TiDB的Graph RAG对话知识库工具

@@ -7,3 +7,5 @@ image: assets/CleverCloud_mdr_20260305_041808_030_20260305_041928_809e77.png
 # [CleverCloud/mdr](https://github.com/CleverCloud/mdr)
 
 Markdown viewer with support for diagrams and live reload
+
+支持图表和实时重载的 Markdown 查看器

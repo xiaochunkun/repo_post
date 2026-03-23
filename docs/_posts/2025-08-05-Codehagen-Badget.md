@@ -7,3 +7,5 @@ image: assets/Codehagen_Badget_cropped.png
 # [Codehagen/Badget](https://github.com/Codehagen/Badget)
 
 tracks and manages personal finances with Next.js, Clerk, Prisma
+
+使用 Next.js、Clerk、Prisma 跟踪和管理个人财务

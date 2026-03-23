@@ -7,3 +7,5 @@ image: assets/pressly_goose_cropped.png
 # [pressly/goose](https://github.com/pressly/goose)
 
 manage database migrations with SQL or Go
+
+使用SQL或Go管理数据库迁移

@@ -7,3 +7,5 @@ image: assets/sunface_rust_by_practice_20260106_232435_512_20260106_232452_a74ff
 # [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/)
 
 Exercises and projects for learning Rust
+
+学习 Rust 的练习和项目

@@ -7,3 +7,5 @@ image: assets/huextrat_react_native_screenshot_aware_20251213_033259_955_2025121
 # [huextrat/react-native-screenshot-aware](https://github.com/huextrat/react-native-screenshot-aware/)
 
 Detects screenshots in React Native apps
+
+React Native 应用截图检测

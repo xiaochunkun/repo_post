@@ -7,3 +7,5 @@ image: assets/glenndehaan_unifi_voucher_site_20260210_165614_975_20260210_165657
 # [glenndehaan/unifi-voucher-site](https://github.com/glenndehaan/unifi-voucher-site)
 
 Generates and manages guest vouchers for UniFi networks
+
+为 UniFi 网络生成和管理访客凭证

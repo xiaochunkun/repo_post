@@ -7,3 +7,5 @@ image: assets/deepdoctection_deepdoctection_20251107_203903_921_20251108_000346_
 # [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection/)
 
 Orchestrates document layout analysis for RAG
+
+编排文档布局分析以用于RAG

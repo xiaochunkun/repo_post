@@ -7,3 +7,5 @@ image: assets/fayazara_onelink_cropped.png
 # [fayazara/onelink](https://github.com/fayazara/onelink)
 
 link-in-bio tool where info is stored in the URL
+
+信息存储在 URL 中的链接聚合工具

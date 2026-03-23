@@ -7,3 +7,5 @@ image: assets/RodZill4_material_maker_20260205_172826_545_20260205_172842_8c998b
 # [RodZill4/material-maker](https://github.com/RodZill4/material-maker)
 
 Procedural texture authoring and 3D model painting tool
+
+程序化纹理创作和3D模型绘画工具

@@ -7,3 +7,5 @@ image: assets/airmessage_airmessage_android_20260112_081900_114_20260112_081915_
 # [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android)
 
 iMessage on Android devices
+
+Android 设备上的 iMessage

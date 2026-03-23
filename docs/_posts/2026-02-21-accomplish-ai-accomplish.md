@@ -7,3 +7,5 @@ image: assets/accomplish_ai_accomplish_20260221_031412_229_20260221_031428_7d9d6
 # [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish)
 
 Agent for file management and browser tasks on a desktop
+
+桌面上的文件管理和浏览器任务代理

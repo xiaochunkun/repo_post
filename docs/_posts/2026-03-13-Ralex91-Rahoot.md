@@ -7,3 +7,5 @@ image: assets/Ralex91_Rahoot_20260303_185942_744_20260303_190125_a3b818.png
 # [Ralex91/Rahoot](https://github.com/Ralex91/Rahoot)
 
 Self-hosted clone of the Kahoot platform
+
+Kahoot平台的自托管克隆

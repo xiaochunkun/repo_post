@@ -7,3 +7,5 @@ image: assets/C4illin_ConvertX_cropped.png
 # [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
 
 self-hosted file converter for 1000+ formats
+
+自托管文件转换器，支持1000多种格式

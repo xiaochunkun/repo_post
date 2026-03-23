@@ -7,3 +7,5 @@ image: assets/visenger_awesome_mlops_20260202_082827_027_20260202_082913_cb61ce.
 # [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
 
 References for machine learning operations
+
+机器学习运维参考资料

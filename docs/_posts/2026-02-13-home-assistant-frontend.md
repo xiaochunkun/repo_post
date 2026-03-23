@@ -7,3 +7,5 @@ image: assets/home_assistant_frontend_20260212_180906_171_20260212_180956_c58142
 # [home-assistant/frontend](https://github.com/home-assistant/frontend)
 
 Interface for home automation
+
+家庭自动化的界面

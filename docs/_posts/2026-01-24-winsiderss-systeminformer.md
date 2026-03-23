@@ -7,3 +7,5 @@ image: assets/winsiderss_systeminformer_20260124_080818_539_20260124_080836_cc8d
 # [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)
 
 Monitors system resources and detects malware
+
+监控系统资源并检测恶意软件

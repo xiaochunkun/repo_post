@@ -7,3 +7,5 @@ image: assets/onionshare_onionshare_20260206_174118_675_20260206_174139_293fca.p
 # [onionshare/onionshare](https://github.com/onionshare/onionshare)
 
 Shares files and hosts websites through the Tor network
+
+通过Tor网络共享文件和托管网站

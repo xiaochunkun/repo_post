@@ -7,3 +7,5 @@ image: assets/estruyf_vscode_front_matter_20251125_014701_192_20251126_101328_aa
 # [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter/)
 
 CMS running within Visual Studio Code
+
+在 Visual Studio Code 中运行的 CMS

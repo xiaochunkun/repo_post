@@ -7,3 +7,5 @@ image: assets/ajanraj_OpenChat_20260106_182903_441_20260106_182920_3871f0.png
 # [ajanraj/OpenChat](https://github.com/ajanraj/OpenChat/)
 
 AI assistant with background agents and service integrations
+
+具备后台代理和服务集成的 AI 助手

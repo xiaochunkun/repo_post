@@ -7,3 +7,5 @@ image: assets/20251013T000159539--igatha--flare-gun--20251013T001020044--cropped
 # [igatha/flare-gun](https://github.com/igatha/flare-gun)
 
 offline SOS app for emergencies, uses bluetooth, no internet needed
+
+离线 SOS 应急应用，使用蓝牙，无需互联网

@@ -7,3 +7,5 @@ image: assets/Lakr233_ComputerUse_20251225_020532_519_20251225_020551_2a98d2.png
 # [Lakr233/ComputerUse](https://github.com/Lakr233/ComputerUse/)
 
 Automates macOS through keyboard, mouse, and screen control APIs
+
+通过键盘、鼠标和屏幕控制 API 自动化 macOS

@@ -7,3 +7,5 @@ image: assets/karpathy_nanochat_20260309_182709_901_20260309_182909_65fbfa.png
 # [karpathy/nanochat](https://github.com/karpathy/nanochat)
 
 Harness for training LLMs on a single GPU node
+
+在单个GPU节点上训练LLM的工具

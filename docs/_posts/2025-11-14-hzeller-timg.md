@@ -7,3 +7,5 @@ image: assets/hzeller_timg_20251114_031541_914_20251114_160413_3c63bf--20251114T
 # [hzeller/timg](https://github.com/hzeller/timg/)
 
 View images, GIFs, and videos in the terminal
+
+在终端中查看图像、GIF和视频

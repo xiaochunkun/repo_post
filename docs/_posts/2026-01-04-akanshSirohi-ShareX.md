@@ -7,3 +7,5 @@ image: assets/akanshSirohi_ShareX_20260103_114021_132_20260103_114037_93e7de.png
 # [akanshSirohi/ShareX](https://github.com/akanshSirohi/ShareX/)
 
 Transfers files over wifi without internet
+
+通过 Wi-Fi 无互联网传输文件

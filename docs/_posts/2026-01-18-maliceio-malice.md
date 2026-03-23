@@ -7,3 +7,5 @@ image: assets/maliceio_malice_20260117_063411_440_20260117_063426_c519ae.png
 # [maliceio/malice](https://github.com/maliceio/malice)
 
 Open source version of VirusTotal
+
+VirusTotal的开源版本

@@ -7,3 +7,5 @@ image: assets/DioxusLabs_dioxus_cropped.png
 # [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 
 Dioxus: Cross-platform app framework in Rust
+
+Dioxus：Rust 跨平台应用框架

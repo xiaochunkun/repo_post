@@ -7,3 +7,5 @@ image: assets/codexu_note_gen_20260221_074356_548_20260221_074423_8cdb2d.png
 # [codexu/note-gen](https://github.com/codexu/note-gen)
 
 Markdown note-taking with AI agents and RAG support
+
+支持AI代理和RAG的Markdown笔记工具

@@ -7,3 +7,5 @@ image: assets/CodeUpdaterBot_ClickUi_20260215_030423_121_20260215_030521_7dd19b.
 # [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi)
 
 Python assistant with voice and web search
+
+带语音和网络搜索的Python助手

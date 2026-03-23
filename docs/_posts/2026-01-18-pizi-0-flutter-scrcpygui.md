@@ -7,3 +7,5 @@ image: assets/pizi_0_flutter_scrcpygui_20260113_045433_453_20260113_045449_c0200
 # [pizi-0/flutter-scrcpygui](https://github.com/pizi-0/flutter-scrcpygui)
 
 Interface for controlling Android devices from computers
+
+从计算机控制Android设备的界面

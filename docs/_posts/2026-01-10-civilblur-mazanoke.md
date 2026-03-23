@@ -7,3 +7,5 @@ image: assets/civilblur_mazanoke_20260108_100443_182_20260108_100508_6759fc.png
 # [civilblur/mazanoke](https://github.com/civilblur/mazanoke)
 
 Optimizes images in the browser without data leaving the device
+
+在浏览器中优化图像，无需设备数据外传

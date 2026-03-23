@@ -7,3 +7,5 @@ image: assets/DJDoubleD_QobuzDownloaderX_MOD_20251225_004609_943_20251225_004626
 # [DJDoubleD/QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD/)
 
 Downloads music streams from Qobuz
+
+从 Qobuz 下载音乐流

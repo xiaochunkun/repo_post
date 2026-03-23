@@ -7,3 +7,5 @@ image: assets/franken-ui_ui--20250811T004552--cropped.png
 # [franken-ui/ui](https://github.com/franken-ui/ui)
 
 HTML-first UI components, framework-agnostic, built on UIkit and LitElement
+
+HTML优先的UI组件，框架无关，基于UIkit和LitElement构建

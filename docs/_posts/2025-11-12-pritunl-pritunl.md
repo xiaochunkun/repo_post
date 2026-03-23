@@ -7,3 +7,5 @@ image: assets/pritunl_pritunl_20251111_200242_295_20251112_025825_8c78d1--202511
 # [pritunl/pritunl](https://github.com/pritunl/pritunl/)
 
 Distributed enterprise VPN server
+
+分布式企业 VPN 服务器

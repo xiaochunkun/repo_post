@@ -7,3 +7,5 @@ image: assets/nativescript_vue_nativescript_vue_20251124_233253_616_20251125_224
 # [nativescript-vue/nativescript-vue](https://github.com/nativescript-vue/nativescript-vue/)
 
 Build native mobile apps using Vue 3
+
+使用 Vue 3 构建原生移动应用

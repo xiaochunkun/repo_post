@@ -7,3 +7,5 @@ image: assets/fr0tt_benotes_20251031_083418_413_20251101_211359_d6b941--20251101
 # [fr0tt/benotes](https://github.com/fr0tt/benotes/)
 
 A self-hosted web app for notes and bookmarks
+
+自托管笔记与书签Web应用

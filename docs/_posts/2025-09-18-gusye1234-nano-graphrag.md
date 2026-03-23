@@ -7,3 +7,5 @@ image: assets/20250915T232125361--gusye1234--nano-graphrag--20250918T042949939--
 # [gusye1234/nano-graphrag](https://github.com/gusye1234/nano-graphrag)
 
 lightweight GraphRAG implementation for building knowledge graph-based retrieval with LLMs
+
+轻量级 GraphRAG 实现，用于构建基于知识图谱的 LLM 检索

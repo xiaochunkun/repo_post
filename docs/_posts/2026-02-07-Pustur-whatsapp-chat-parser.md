@@ -7,3 +7,5 @@ image: assets/Pustur_whatsapp_chat_parser_20260204_041943_030_20260204_041959_85
 # [Pustur/whatsapp-chat-parser](https://github.com/Pustur/whatsapp-chat-parser)
 
 Parses WhatsApp logs into JavaScript objects
+
+将WhatsApp日志解析为JavaScript对象

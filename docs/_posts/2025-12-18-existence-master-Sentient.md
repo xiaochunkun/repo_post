@@ -7,3 +7,5 @@ image: assets/existence_master_Sentient_20251217_075517_984_20251217_075552_ba35
 # [existence-master/Sentient](https://github.com/existence-master/Sentient/)
 
 Open-source personal assistant for automating digital tasks
+
+用于自动化数字任务的开源个人助手

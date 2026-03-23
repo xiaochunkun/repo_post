@@ -7,3 +7,5 @@ image: assets/kijai_ComfyUI-FramePackWrapper_cropped.png
 # [kijai/ComfyUI-FramePackWrapper](https://github.com/kijai/ComfyUI-FramePackWrapper)
 
 Wrapper for running FramePack video generation models in ComfyUI
+
+在ComfyUI中运行FramePack视频生成模型的包装器

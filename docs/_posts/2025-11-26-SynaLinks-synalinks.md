@@ -7,3 +7,5 @@ image: assets/SynaLinks_synalinks_20251124_235000_850_20251125_224747_ace7d8--20
 # [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks/)
 
 Neuro-symbolic LM framework leveraging Keras practices
+
+利用 Keras 实践的神经符号 LM 框架

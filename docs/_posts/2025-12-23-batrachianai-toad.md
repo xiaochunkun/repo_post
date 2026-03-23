@@ -7,3 +7,5 @@ image: assets/batrachianai_toad_20251222_144939_748_20251222_144958_44e53f.png
 # [batrachianai/toad](https://github.com/batrachianai/toad/)
 
 Terminal interface for coding agents
+
+编码代理的终端界面

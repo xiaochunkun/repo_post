@@ -7,3 +7,5 @@ image: assets/ThibautMelen_agentic_ai_systems_20260113_042805_102_20260113_04282
 # [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems)
 
 Explains agentic systems with chickens and mermaid diagrams
+
+使用小鸡和美人鱼图解释代理系统

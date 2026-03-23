@@ -7,3 +7,5 @@ image: assets/aviaryan_awesome_no_login_web_apps_20251228_101245_035_20251228_10
 # [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps/)
 
 Web apps without account requirements
+
+无需账户的 Web 应用集合

@@ -7,3 +7,5 @@ image: assets/canonical_microcloud_20251120_055844_102_20251121_011357_b5cc91--2
 # [canonical/microcloud](https://github.com/canonical/microcloud/)
 
 Deploys private clouds with LXD, Ceph and OVN
+
+使用 LXD、Ceph 和 OVN 部署私有云

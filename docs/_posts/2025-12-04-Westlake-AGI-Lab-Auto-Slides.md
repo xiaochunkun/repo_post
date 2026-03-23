@@ -7,3 +7,5 @@ image: assets/Westlake_AGI_Lab_Auto_Slides_20251201_100223_212_20251201_100313_c
 # [Westlake-AGI-Lab/Auto-Slides](https://github.com/Westlake-AGI-Lab/Auto-Slides/)
 
 Converts academic papers into presentation slides
+
+将学术论文转换为演示文稿幻灯片

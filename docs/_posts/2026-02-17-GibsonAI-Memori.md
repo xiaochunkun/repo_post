@@ -7,3 +7,5 @@ image: assets/GibsonAI_Memori_20260129_005613_268_20260129_005651_e664a7.png
 # [GibsonAI/Memori](https://github.com/GibsonAI/Memori)
 
 Memory layer for agents and multi-agent systems
+
+代理和多代理系统的记忆层

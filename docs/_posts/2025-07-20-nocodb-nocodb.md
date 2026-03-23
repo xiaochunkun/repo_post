@@ -7,3 +7,5 @@ image: assets/nocodb_nocodb_cropped.png
 # [nocodb/nocodb](https://github.com/nocodb/nocodb)
 
 turn any database into a smart spreadsheet
+
+将任何数据库转换为智能电子表格

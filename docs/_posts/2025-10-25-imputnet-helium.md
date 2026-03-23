@@ -7,3 +7,5 @@ image: assets/imputnet_helium_20251023_003643_209_20251025_004638_990f71--202510
 # [imputnet/helium](https://github.com/imputnet/helium/)
 
 Chromium browser with privacy and ad-blocking
+
+带隐私和广告拦截的Chromium浏览器

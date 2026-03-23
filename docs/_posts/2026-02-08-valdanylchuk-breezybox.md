@@ -7,3 +7,5 @@ image: assets/valdanylchuk_breezybox_20260207_044034_786_20260207_044057_78d66d.
 # [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox)
 
 Shell and terminal system for ESP32
+
+ESP32的Shell和终端系统

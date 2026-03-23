@@ -7,3 +7,5 @@ image: assets/nestjs_nest_20251123_155928_544_20251124_003531_dce1fc--20251124T0
 # [nestjs/nest](https://github.com/nestjs/nest/)
 
 TypeScript framework for server applications
+
+用于服务器应用的 TypeScript 框架

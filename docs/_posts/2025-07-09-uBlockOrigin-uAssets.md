@@ -7,3 +7,5 @@ image: assets/uBlockOrigin_uAssets_cropped.png
 # [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
 
 filter lists powering uBlock Origin
+
+为 uBlock Origin 提供支持的过滤列表

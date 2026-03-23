@@ -7,3 +7,5 @@ image: assets/20250922T025518554--nalgeon--redka--20250922T030135571--cropped.pn
 # [nalgeon/redka](https://github.com/nalgeon/redka)
 
 Redis-like data store with SQL backend, ACID transactions, and Go support
+
+类似 Redis 的数据存储，支持 SQL 后端、ACID 事务和 Go

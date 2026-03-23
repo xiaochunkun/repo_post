@@ -7,3 +7,5 @@ image: assets/Duelion_homebox_companion_20260221_190335_500_20260221_190419_5ed8
 # [Duelion/homebox-companion](https://github.com/Duelion/homebox-companion)
 
 Catalogs inventory from photos using AI
+
+使用 AI 从照片编目库存

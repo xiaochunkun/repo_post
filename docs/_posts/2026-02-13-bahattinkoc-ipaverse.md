@@ -7,3 +7,5 @@ image: assets/bahattinkoc_ipaverse_20260211_073027_526_20260211_073234_8613a5.pn
 # [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse)
 
 Downloads and manages iOS apps on macOS
+
+在 macOS 上下载和管理 iOS 应用

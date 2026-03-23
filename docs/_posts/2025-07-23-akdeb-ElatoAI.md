@@ -7,3 +7,5 @@ image: assets/akdeb_ElatoAI_cropped.png
 # [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI)
 
 Realtime AI speech for ESP32 devices using OpenAI and secure WebSockets
+
+使用OpenAI和安全WebSocket为ESP32设备提供实时AI语音

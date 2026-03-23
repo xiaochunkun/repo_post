@@ -7,3 +7,5 @@ image: assets/polarsource_polar_20260209_005532_092_20260209_005642_ba8b15.png
 # [polarsource/polar](https://github.com/polarsource/polar)
 
 Payments infrastructure for open source monetization
+
+开源货币化的支付基础设施

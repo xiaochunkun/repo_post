@@ -7,3 +7,5 @@ image: assets/manyfold3d_manyfold_cropped.png
 # [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold)
 
 self-hosted web app for managing 3D print files
+
+用于管理 3D 打印文件的自托管 Web 应用

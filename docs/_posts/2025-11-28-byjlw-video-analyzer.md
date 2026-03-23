@@ -7,3 +7,5 @@ image: assets/byjlw_video_analyzer_20251125_043119_392_20251127_165529_46011e--2
 # [byjlw/video-analyzer](https://github.com/byjlw/video-analyzer/)
 
 Analyzes videos using vision models and Whisper
+
+使用视觉模型和 Whisper 分析视频

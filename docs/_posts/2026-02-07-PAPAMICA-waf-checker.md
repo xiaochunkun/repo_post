@@ -7,3 +7,5 @@ image: assets/PAPAMICA_waf_checker_20260206_115358_910_20260206_115430_f21bae.pn
 # [PAPAMICA/waf-checker](https://github.com/PAPAMICA/waf-checker)
 
 Tests web application firewalls against attack vectors
+
+测试Web应用防火墙对抗攻击向量

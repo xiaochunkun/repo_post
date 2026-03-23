@@ -7,3 +7,5 @@ image: assets/20250910T025222432--wagtail--wagtail--20250910T025606151--cropped.
 # [wagtail/wagtail](https://github.com/wagtail/wagtail)
 
 open source cms for django sites
+
+Django 网站的开源 CMS

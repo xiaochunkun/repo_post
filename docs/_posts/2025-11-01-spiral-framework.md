@@ -7,3 +7,5 @@ image: assets/spiral_framework_20251031_055136_171_20251031_210455_cdfbb4--20251
 # [spiral/framework](https://github.com/spiral/framework/)
 
 PHP framework for long-running applications
+
+适用于长时间运行应用的 PHP 框架

@@ -7,3 +7,5 @@ image: assets/20251005T001936113--wendy7756--AI-Video-Transcriber--20251005T0026
 # [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber)
 
 AI tool for transcribing and summarizing videos from YouTube, TikTok, Bilibili, and more
+
+AI 工具，用于转录和总结 YouTube、TikTok、Bilibili 等平台的视频

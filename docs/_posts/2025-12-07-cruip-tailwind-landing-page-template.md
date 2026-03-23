@@ -7,3 +7,5 @@ image: assets/cruip_tailwind_landing_page_template_20251205_004009_108_20251205_
 # [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template/)
 
 Tailwind landing page template for React and Next.js
+
+适用于React和Next.js的Tailwind着陆页模板

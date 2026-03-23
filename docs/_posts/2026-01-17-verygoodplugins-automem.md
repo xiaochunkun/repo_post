@@ -7,3 +7,5 @@ image: assets/verygoodplugins_automem_20260116_004606_662_20260116_004620_f8f971
 # [verygoodplugins/automem](https://github.com/verygoodplugins/automem)
 
 Memory system for AI assistants
+
+AI助手内存系统

@@ -7,3 +7,5 @@ image: assets/apoindevster_ts_redir_20251222_044539_298_20251222_044557_1fc618.p
 # [apoindevster/ts-redir](https://github.com/apoindevster/ts-redir/)
 
 Manages firewall rules for Tailscale tailnets
+
+管理Tailscale tailnet的防火墙规则

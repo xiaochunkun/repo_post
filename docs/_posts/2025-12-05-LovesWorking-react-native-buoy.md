@@ -7,3 +7,5 @@ image: assets/LovesWorking_react_native_buoy_20251202_210706_227_20251202_210836
 # [LovesWorking/react-native-buoy](https://github.com/LovesWorking/react-native-buoy/)
 
 Zero-config floating menu for mobile debugging
+
+用于移动调试的零配置浮动菜单

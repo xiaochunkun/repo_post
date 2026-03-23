@@ -7,3 +7,5 @@ image: assets/Huluti_Curtail_20251123_182519_779_20251124_184158_bbb18e--2025112
 # [Huluti/Curtail](https://github.com/Huluti/Curtail/)
 
 Compresses images and removes metadata
+
+压缩图像并移除元数据

@@ -7,3 +7,5 @@ image: assets/20250915T230646110--marcboeker--gmail-to-sqlite--20250915T23122468
 # [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite)
 
 Sync Gmail emails to a local SQLite database for analysis
+
+将 Gmail 邮件同步到本地 SQLite 数据库进行分析

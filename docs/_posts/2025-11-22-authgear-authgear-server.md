@@ -7,3 +7,5 @@ image: assets/authgear_authgear_server_20251121_130952_354_20251121_232058_3b0fa
 # [authgear/authgear-server](https://github.com/authgear/authgear-server/)
 
 Open source alternative to Auth0 and Firebase
+
+Auth0 和 Firebase 的开源替代品

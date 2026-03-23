@@ -7,3 +7,5 @@ image: assets/docmost_docmost_cropped.png
 # [docmost/docmost](https://github.com/docmost/docmost)
 
 Open-source collaborative wiki and documentation tool, alternative to Confluence and Notion
+
+开源协作wiki和文档工具，Confluence和Notion的替代品

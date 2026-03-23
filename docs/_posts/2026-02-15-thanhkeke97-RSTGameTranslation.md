@@ -7,3 +7,5 @@ image: assets/thanhkeke97_RSTGameTranslation_20260209_053501_197_20260209_053541
 # [thanhkeke97/RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation)
 
 Translates game screens with AI and OCR
+
+使用 AI 和 OCR 翻译游戏画面

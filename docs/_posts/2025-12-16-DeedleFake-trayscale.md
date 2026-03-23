@@ -7,3 +7,5 @@ image: assets/DeedleFake_trayscale_20251215_011041_955_20251215_011116_512a16.pn
 # [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale/)
 
 Unofficial Linux GUI wrapper for Tailscale
+
+Tailscale的非官方Linux GUI封装器

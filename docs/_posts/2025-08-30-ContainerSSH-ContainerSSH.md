@@ -7,3 +7,5 @@ image: assets/ContainerSSH_ContainerSSH--20250830T042816377--cropped.png
 # [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
 
 SSH server that launches containers on demand
+
+按需启动容器的 SSH 服务器

@@ -7,3 +7,5 @@ image: assets/20250924T062238404--DrizzleTime--Foxel--20250924T062710163--croppe
 # [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel)
 
 private cloud storage with AI search for teams and individuals
+
+私有云存储，具备 AI 搜索功能，适用于团队和个人

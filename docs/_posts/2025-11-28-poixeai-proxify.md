@@ -7,3 +7,5 @@ image: assets/poixeai_proxify_20251125_231456_209_20251128_212344_2b32b8--202511
 # [poixeai/proxify](https://github.com/poixeai/proxify/)
 
 Self-hosted reverse proxy gateway for AI APIs
+
+用于AI API的自托管反向代理网关

@@ -7,3 +7,5 @@ image: assets/naruya_gaussian_vrm_20251209_024904_415_20251209_024940_81bd25.png
 # [naruya/gaussian-vrm](https://github.com/naruya/gaussian-vrm/)
 
 Instant skinned Gaussian avatars for web and VR
+
+适用于 Web 和 VR 的即时蒙皮高斯头像

@@ -7,3 +7,5 @@ image: assets/lefayjey_linWinPwn_20251027_012801_538_20251027_014913_4ea89a--202
 # [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn/)
 
 Bash script that wraps Active Directory pentesting tools
+
+封装 Active Directory 渗透测试工具的 Bash 脚本

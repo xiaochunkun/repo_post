@@ -7,3 +7,5 @@ image: assets/MrLesk_Backlog_md_20260227_200909_369_20260227_201100_1a53db.png
 # [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md)
 
 Kanban board for Git repositories using Markdown files
+
+使用Markdown文件的Git仓库看板

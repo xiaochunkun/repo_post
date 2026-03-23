@@ -7,3 +7,5 @@ image: assets/aspauldingcode_apple_sharpener_20260213_214842_173_20260213_214939
 # [aspauldingcode/apple-sharpener](https://github.com/aspauldingcode/apple-sharpener)
 
 Removes window corner radius on macOS
+
+移除 macOS 窗口圆角

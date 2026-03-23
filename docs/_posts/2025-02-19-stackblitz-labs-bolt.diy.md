@@ -7,3 +7,5 @@ image: assets/stackblitz-labs_bolt.diy_cropped.png
 # [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
 
 AI-powered web development tool
+
+AI驱动的Web开发工具

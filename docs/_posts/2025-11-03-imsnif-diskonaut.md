@@ -7,3 +7,5 @@ image: assets/imsnif_diskonaut_20251031_090218_161_20251102_154929_a4ccdb--20251
 # [imsnif/diskonaut](https://github.com/imsnif/diskonaut/)
 
 Terminal disk space navigator
+
+终端磁盘空间导航器

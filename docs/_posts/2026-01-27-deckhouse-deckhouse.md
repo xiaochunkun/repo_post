@@ -7,3 +7,5 @@ image: assets/deckhouse_deckhouse_20260112_165700_723_20260112_165714_652b09.png
 # [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse)
 
 Manages Kubernetes clusters across clouds and bare-metal servers
+
+跨云和裸机服务器管理Kubernetes集群

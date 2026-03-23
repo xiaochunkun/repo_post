@@ -7,3 +7,5 @@ image: assets/20251013T000119446--Bessouat40--RAGLight--20251013T000610883--crop
 # [Bessouat40/RAGLight](https://github.com/Bessouat40/RAGLight)
 
 lightweight Python library for building RAG pipelines with LLM and document retrieval support
+
+轻量级 Python 库，用于构建支持 LLM 和文档检索的 RAG 流水线

@@ -7,3 +7,5 @@ image: assets/secureblue_secureblue_20251222_211527_532_20251222_211546_772f0e.p
 # [secureblue/secureblue](https://github.com/secureblue/secureblue/)
 
 Hardened Fedora images as bootable containers
+
+作为可启动容器的强化Fedora镜像

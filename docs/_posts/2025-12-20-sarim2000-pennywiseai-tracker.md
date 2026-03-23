@@ -7,3 +7,5 @@ image: assets/sarim2000_pennywiseai_tracker_20251218_080215_836_20251218_080234_
 # [sarim2000/pennywiseai-tracker](https://github.com/sarim2000/pennywiseai-tracker/)
 
 Converts bank SMS into expense data with on-device AI
+
+使用设备端 AI 将银行短信转换为支出数据

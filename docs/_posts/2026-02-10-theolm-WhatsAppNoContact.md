@@ -7,3 +7,5 @@ image: assets/theolm_WhatsAppNoContact_20260209_115256_729_20260209_115328_218dd
 # [theolm/WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact)
 
 Starts WhatsApp chats without adding contacts
+
+无需添加联系人即可开始WhatsApp聊天

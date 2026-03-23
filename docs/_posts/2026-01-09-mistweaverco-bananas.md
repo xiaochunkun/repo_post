@@ -7,3 +7,5 @@ image: assets/mistweaverco_bananas_20260108_020822_835_20260108_020837_c06ccd.pn
 # [mistweaverco/bananas](https://github.com/mistweaverco/bananas)
 
 Peer-to-peer screen sharing without accounts or servers
+
+无需账户或服务器的点对点屏幕共享

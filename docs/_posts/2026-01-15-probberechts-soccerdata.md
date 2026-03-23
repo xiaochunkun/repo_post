@@ -7,3 +7,5 @@ image: assets/probberechts_soccerdata_20260115_115826_550_20260115_115856_7f2c2e
 # [probberechts/soccerdata](https://github.com/probberechts/soccerdata)
 
 Scrapes soccer data into Pandas DataFrames
+
+将足球数据抓取到 Pandas DataFrames

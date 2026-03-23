@@ -7,3 +7,5 @@ image: assets/20250926T001652356--qbittorrent--search-plugins--20250926T00185533
 # [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins)
 
 search plugins for qbittorrent, community maintained
+
+qbittorrent 的搜索插件，社区维护

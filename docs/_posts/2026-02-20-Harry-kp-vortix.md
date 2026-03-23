@@ -7,3 +7,5 @@ image: assets/Harry_kp_vortix_20260211_030358_601_20260211_030422_d8b573.png
 # [Harry-kp/vortix](https://github.com/Harry-kp/vortix)
 
 VPN management interface with telemetry and leak detection
+
+带遥测和泄漏检测的 VPN 管理界面

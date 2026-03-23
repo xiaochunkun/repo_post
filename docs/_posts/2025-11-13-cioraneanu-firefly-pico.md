@@ -7,3 +7,5 @@ image: assets/cioraneanu_firefly_pico_20251111_202959_933_20251112_031246_eccae3
 # [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico/)
 
 Companion web app for transaction tracking
+
+用于交易追踪的配套 Web 应用

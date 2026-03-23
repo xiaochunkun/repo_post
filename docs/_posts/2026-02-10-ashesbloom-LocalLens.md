@@ -7,3 +7,5 @@ image: assets/ashesbloom_LocalLens_20260207_035829_485_20260207_035849_0da223.pn
 # [ashesbloom/LocalLens](https://github.com/ashesbloom/LocalLens)
 
 Organizes photos by face and location offline
+
+离线按人脸和位置整理照片

@@ -7,3 +7,5 @@ image: assets/zhao_kun_VibeVoiceFusion_20251112_060857_272_20251113_035805_5e5dd
 # [zhao-kun/VibeVoiceFusion](https://github.com/zhao-kun/VibeVoiceFusion/)
 
 Web application for multi-speaker voice generation and cloning
+
+用于多说话人语音生成和克隆的Web应用

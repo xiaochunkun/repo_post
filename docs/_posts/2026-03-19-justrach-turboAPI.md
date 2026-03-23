@@ -7,3 +7,5 @@ image: assets/justrach_turboAPI_20260319_020400_783_20260319_020535_c60804.png
 # [justrach/turboAPI](https://github.com/justrach/turboAPI)
 
 FastAPI compatible Python framework with Zig HTTP core
+
+FastAPI 兼容的 Python 框架，使用 Zig HTTP 核心

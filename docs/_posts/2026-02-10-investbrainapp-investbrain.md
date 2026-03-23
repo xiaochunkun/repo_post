@@ -7,3 +7,5 @@ image: assets/investbrainapp_investbrain_20260204_223224_795_20260204_223252_98c
 # [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain)
 
 Investment tracker with LLM chat for market performance analysis
+
+投资追踪器，带LLM聊天用于市场表现分析

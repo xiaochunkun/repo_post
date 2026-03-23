@@ -7,3 +7,5 @@ image: assets/microsoft_aitour26_BRK442_github_copilot_as_an_ai_agent_in_the_dev
 # [microsoft/aitour26-BRK442-github-copilot-as-an-ai-agent-in-the-developer-workflow](https://github.com/microsoft/aitour26-BRK442-github-copilot-as-an-ai-agent-in-the-developer-workflow)
 
 GitHub Copilot AI agent in development workflows
+
+GitHub Copilot AI 代理在开发工作流中

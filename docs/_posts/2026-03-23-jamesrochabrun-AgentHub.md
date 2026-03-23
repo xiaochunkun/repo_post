@@ -7,3 +7,5 @@ image: assets/jamesrochabrun_AgentHub_20260322_015616_798_20260322_015651_da97ab
 # [jamesrochabrun/AgentHub](https://github.com/jamesrochabrun/AgentHub)
 
 macOS app managing Claude Code and Codex sessions
+
+管理Claude Code和Codex会话的macOS应用

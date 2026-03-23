@@ -7,3 +7,5 @@ image: assets/open_gitagent_gitclaw_20260318_132748_391_20260318_132822_88e223.p
 # [open-gitagent/gitclaw](https://github.com/open-gitagent/gitclaw)
 
 Git-native multimodal AI agent
+
+基于Git的多模态AI Agent

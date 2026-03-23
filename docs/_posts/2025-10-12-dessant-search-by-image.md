@@ -7,3 +7,5 @@ image: assets/20251012T025417493--dessant--search-by-image--20251012T030139930--
 # [dessant/search-by-image](https://github.com/dessant/search-by-image)
 
 browser extension for reverse image search across 30+ engines
+
+浏览器扩展，用于在 30 多个引擎中进行反向图像搜索

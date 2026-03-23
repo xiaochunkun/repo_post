@@ -7,3 +7,5 @@ image: assets/20250911T163805569--langgptai--awesome-claude-prompts--20250911T16
 # [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)
 
 Prompt examples and resources for Claude AI
+
+Claude AI 提示词示例和资源

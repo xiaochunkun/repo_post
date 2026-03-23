@@ -7,3 +7,5 @@ image: assets/illegalstudio_lazyagent_20260318_122339_097_20260318_122449_3ff19f
 # [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent)
 
 Monitors coding agents without lock-in
+
+监控编码代理，无锁定

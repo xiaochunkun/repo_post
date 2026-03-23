@@ -7,3 +7,5 @@ image: assets/mistweaverco_bananas_cropped.png
 # [mistweaverco/bananas](https://github.com/mistweaverco/bananas)
 
 peer-to-peer screen sharing for Mac, Windows, Linux
+
+适用于 Mac、Windows、Linux 的点对点屏幕共享

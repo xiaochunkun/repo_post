@@ -7,3 +7,5 @@ image: assets/sindresorhus_Plash_20251207_174817_939_20251207_174843_db08b4.png
 # [sindresorhus/Plash](https://github.com/sindresorhus/Plash/)
 
 Sets any website as Mac desktop wallpaper
+
+将任意网站设为Mac桌面壁纸

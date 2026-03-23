@@ -7,3 +7,5 @@ image: assets/20250818T112248740_pommee_goaway--20250818T112400662--cropped.png
 # [pommee/goaway](https://github.com/pommee/goaway)
 
 DNS sinkhole for blocking ads, trackers, and malicious domains
+
+用于屏蔽广告、追踪器和恶意域名的DNS沉洞

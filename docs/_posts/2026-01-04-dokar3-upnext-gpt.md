@@ -7,3 +7,5 @@ image: assets/dokar3_upnext_gpt_20260103_125256_007_20260103_125311_fb1676.png
 # [dokar3/upnext-gpt](https://github.com/dokar3/upnext-gpt/)
 
 Playlist app uses GPT to recommend the next track
+
+使用GPT推荐下一曲的播放列表应用

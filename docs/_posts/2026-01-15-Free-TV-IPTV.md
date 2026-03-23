@@ -7,3 +7,5 @@ image: assets/Free_TV_IPTV_20260115_083709_444_20260115_083722_f2ca2c.png
 # [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
 
 M3U playlist for television channels around the world
+
+全球电视频道的 M3U 播放列表

@@ -7,3 +7,5 @@ image: assets/MoonshotAI_Kimi_K2_5_20260206_153038_871_20260206_153100_552333.pn
 # [MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5)
 
 Multimodal model with agentic capabilities
+
+具备智能能力的多模态模型

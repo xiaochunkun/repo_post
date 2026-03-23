@@ -7,3 +7,5 @@ image: assets/opcodesio_log_viewer_20251221_161835_954_20251221_161853_6fbd2a.pn
 # [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer/)
 
 Search and filter Laravel logs in a browser
+
+在浏览器中搜索和过滤 Laravel 日志

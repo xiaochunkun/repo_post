@@ -7,3 +7,5 @@ image: assets/majd_ipatool_20260204_034729_480_20260204_034744_f76f09.png
 # [majd/ipatool](https://github.com/majd/ipatool)
 
 Downloads ipa files from the App Store via command line
+
+通过命令行从App Store下载ipa文件

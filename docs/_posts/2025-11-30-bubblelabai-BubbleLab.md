@@ -7,3 +7,5 @@ image: assets/bubblelabai_BubbleLab_20251127_192630_496_20251130_082532_7b28ae--
 # [bubblelabai/BubbleLab](https://github.com/bubblelabai/BubbleLab/)
 
 Agentic workflow automation builder with observability
+
+具有可观测性的智能工作流自动化构建器

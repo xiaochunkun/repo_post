@@ -7,3 +7,5 @@ image: assets/20250908T232337792--charmbracelet--glow--20250908T233311061--cropp
 # [charmbracelet/glow](https://github.com/charmbracelet/glow)
 
 view markdown files in your terminal
+
+在终端中查看 Markdown 文件

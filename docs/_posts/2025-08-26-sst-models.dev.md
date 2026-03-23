@@ -7,3 +7,5 @@ image: assets/20250825T031118779--sst--models.dev--20250825T031832782--cropped.p
 # [sst/models.dev](https://github.com/sst/models.dev)
 
 open database for AI model specs and pricing
+
+AI 模型规格和定价的开放数据库

@@ -7,3 +7,5 @@ image: assets/ChrisTitusTech_winutil_cropped.png
 # [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 
 Windows utility script for tweaks, installs, and customization
+
+用于调整、安装和自定义的 Windows 实用脚本

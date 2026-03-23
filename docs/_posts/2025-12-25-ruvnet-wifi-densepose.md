@@ -7,3 +7,5 @@ image: assets/ruvnet_wifi_densepose_20251224_153708_420_20251224_153726_551fab.p
 # [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose/)
 
 Tracks human poses through walls using WiFi signals
+
+使用 WiFi 信号穿墙追踪人体姿态

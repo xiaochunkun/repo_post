@@ -7,3 +7,5 @@ image: assets/thibmaek_awesome_raspberry_pi_20260205_060702_971_20260205_060727_
 # [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 
 List of tools and resources for the Raspberry Pi
+
+Raspberry Pi的工具和资源列表

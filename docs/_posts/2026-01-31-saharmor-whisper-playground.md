@@ -7,3 +7,5 @@ image: assets/saharmor_whisper_playground_20260130_044143_004_20260130_044216_29
 # [saharmor/whisper-playground](https://github.com/saharmor/whisper-playground)
 
 Speech-to-text apps in 99 languages
+
+支持99种语言的语音转文本应用

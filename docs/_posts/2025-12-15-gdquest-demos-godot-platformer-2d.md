@@ -7,3 +7,5 @@ image: assets/gdquest_demos_godot_platformer_2d_20251213_092355_807_20251213_092
 # [gdquest-demos/godot-platformer-2d](https://github.com/gdquest-demos/godot-platformer-2d/)
 
 Course based on 2D Metroidvania demo
+
+基于 2D 类银河战士恶魔城演示的课程

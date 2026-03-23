@@ -7,3 +7,5 @@ image: assets/Milkshiift_GoofCord_20260122_175247_480_20260122_175309_5568ab.png
 # [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord)
 
 Discord client with tracking blocks and encryption
+
+具备跟踪拦截和加密功能的Discord客户端

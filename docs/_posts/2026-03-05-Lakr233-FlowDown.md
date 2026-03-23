@@ -7,3 +7,5 @@ image: assets/Lakr233_FlowDown_20260224_062635_341_20260224_062714_4b534a.png
 # [Lakr233/FlowDown](https://github.com/Lakr233/FlowDown)
 
 AI chat client for Apple platforms with local model support
+
+支持本地模型的Apple平台AI聊天客户端

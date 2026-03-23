@@ -7,3 +7,5 @@ image: assets/glitternetwork_pinme_20260202_230647_289_20260202_230709_cd794f.pn
 # [glitternetwork/pinme](https://github.com/glitternetwork/pinme)
 
 Deploys frontend sites as verifiable content via a command
+
+通过命令部署前端站点为可验证内容

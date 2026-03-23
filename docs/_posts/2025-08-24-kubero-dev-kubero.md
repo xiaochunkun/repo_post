@@ -7,3 +7,5 @@ image: assets/20250822T015549153--kubero-dev--kubero--20250823T011349274--croppe
 # [kubero-dev/kubero](https://github.com/kubero-dev/kubero)
 
 self-hosted PaaS for easy app deployment on Kubernetes
+
+自托管 PaaS 平台，轻松在 Kubernetes 上部署应用

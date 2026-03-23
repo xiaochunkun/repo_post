@@ -7,3 +7,5 @@ image: assets/geek_fun_dockit_20260122_100832_884_20260122_100919_23feca.png
 # [geek-fun/dockit](https://github.com/geek-fun/dockit)
 
 Desktop client for NoSQL databases
+
+NoSQL 数据库的桌面客户端

@@ -7,3 +7,5 @@ image: assets/OWASP_threat_dragon_20260118_233004_579_20260118_233018_ef7aa2.png
 # [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon)
 
 Threat modeling tool for diagrams and threats
+
+用于图表和威胁的威胁建模工具

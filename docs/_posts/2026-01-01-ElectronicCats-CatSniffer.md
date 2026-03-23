@@ -7,3 +7,5 @@ image: assets/ElectronicCats_CatSniffer_20251231_153050_801_20251231_153123_8d02
 # [ElectronicCats/CatSniffer](https://github.com/ElectronicCats/CatSniffer/)
 
 Multiband board for sniffing IoT devices
+
+用于嗅探IoT设备的多频段开发板

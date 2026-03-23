@@ -7,3 +7,5 @@ image: assets/AI4Finance_Foundation_FinNLP_20260210_040222_912_20260210_040242_6
 # [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)
 
 Pipelines for LLM training on financial data
+
+用于金融数据 LLM 训练的流水线

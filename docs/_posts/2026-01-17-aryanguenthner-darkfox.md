@@ -7,3 +7,5 @@ image: assets/aryanguenthner_darkfox_20260116_083605_266_20260116_083622_ebb66a.
 # [aryanguenthner/darkfox](https://github.com/aryanguenthner/darkfox)
 
 Automates dark web investigations through the Tor network
+
+通过 Tor 网络自动化暗网调查

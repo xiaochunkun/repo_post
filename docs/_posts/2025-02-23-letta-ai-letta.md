@@ -7,3 +7,5 @@ image: assets/letta-ai_letta_cropped.png
 # [letta-ai/letta](https://github.com/letta-ai/letta)
 
 Open-source framework for building stateful LLM applications
+
+用于构建有状态 LLM 应用的开源框架

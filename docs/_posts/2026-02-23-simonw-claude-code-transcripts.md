@@ -7,3 +7,5 @@ image: assets/simonw_claude_code_transcripts_20260208_111218_475_20260208_111235
 # [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)
 
 Converts Claude Code sessions into paginated HTML
+
+将Claude Code会话转换为分页HTML

@@ -7,3 +7,5 @@ image: assets/teableio_teable_cropped.png
 # [teableio/teable](https://github.com/teableio/teable)
 
 Database API that syncs with spreadsheets
+
+与电子表格同步的数据库API

@@ -7,3 +7,5 @@ image: assets/20250825T032311465--perone--vectorvfs--20250825T032638294--cropped
 # [perone/vectorvfs](https://github.com/perone/vectorvfs)
 
 turn your Linux filesystem into a vector database with Python
+
+用 Python 将 Linux 文件系统转化为向量数据库

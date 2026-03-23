@@ -7,3 +7,5 @@ image: assets/winn_thaifloodhelp_20260116_090451_407_20260116_090538_ce91d2.png
 # [winn/thaifloodhelp](https://github.com/winn/thaifloodhelp)
 
 Extracts rescue cases from social posts via Gemini
+
+通过 Gemini 从社交帖子中提取救援案例

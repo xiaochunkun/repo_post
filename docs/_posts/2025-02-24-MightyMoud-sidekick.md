@@ -7,3 +7,5 @@ image: assets/MightyMoud_sidekick_cropped.png
 # [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)
 
 VPS deployment tool for quick app setup
+
+快速应用部署的VPS工具

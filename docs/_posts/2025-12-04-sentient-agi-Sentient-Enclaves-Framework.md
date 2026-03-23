@@ -7,3 +7,5 @@ image: assets/sentient_agi_Sentient_Enclaves_Framework_20251201_091157_412_20251
 # [sentient-agi/Sentient-Enclaves-Framework](https://github.com/sentient-agi/Sentient-Enclaves-Framework/)
 
 Infrastructure for building confidential AI applications using TEEs
+
+使用TEE构建机密AI应用的基础设施

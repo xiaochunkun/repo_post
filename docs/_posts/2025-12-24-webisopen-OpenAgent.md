@@ -7,3 +7,5 @@ image: assets/webisopen_OpenAgent_20251222_235457_550_20251222_235520_a73be2.png
 # [webisopen/OpenAgent](https://github.com/webisopen/OpenAgent/)
 
 Framework for AI agents with verifiable compute
+
+具有可验证计算的AI代理框架

@@ -7,3 +7,5 @@ image: assets/kanriapp_kanri_20260222_121149_715_20260222_121228_b4a430.png
 # [kanriapp/kanri](https://github.com/kanriapp/kanri)
 
 Offline kanban board for desktop
+
+桌面离线看板

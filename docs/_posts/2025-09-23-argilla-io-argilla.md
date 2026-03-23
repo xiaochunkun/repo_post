@@ -7,3 +7,5 @@ image: assets/20250923T023245721--argilla-io--argilla--20250923T024000157--cropp
 # [argilla-io/argilla](https://github.com/argilla-io/argilla)
 
 collaboration tool for building and managing high-quality AI datasets
+
+用于构建和管理高质量 AI 数据集的协作工具

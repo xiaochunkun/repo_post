@@ -7,3 +7,5 @@ image: assets/20251014T012104509--DearVa--Everywhere--20251014T013847269--croppe
 # [DearVa/Everywhere](https://github.com/DearVa/Everywhere)
 
 context-aware AI assistant that helps with troubleshooting, summaries, translation, and email drafts right on your screen
+
+上下文感知 AI 助手，直接在屏幕上帮助故障排除、摘要、翻译和邮件草稿

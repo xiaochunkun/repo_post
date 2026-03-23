@@ -7,3 +7,5 @@ image: assets/langchain_ai_react_agent_20251216_181235_814_20251216_181303_13cc8
 # [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent/)
 
 Template for building ReAct agents with LangGraph
+
+使用 LangGraph 构建 ReAct 代理的模板

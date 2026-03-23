@@ -7,3 +7,5 @@ image: assets/facebookresearch_map_anything_20260306_193421_914_20260306_193603_
 # [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything)
 
 Regress metric 3D geometry from images via transformers
+
+通过transformer从图像回归度量3D几何

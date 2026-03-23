@@ -7,3 +7,5 @@ image: assets/omni_media_omniclip_20260304_133913_325_20260304_134102_de6005.png
 # [omni-media/omniclip](https://github.com/omni-media/omniclip)
 
 Video editor in a browser using WebCodecs
+
+基于WebCodecs的浏览器视频编辑器

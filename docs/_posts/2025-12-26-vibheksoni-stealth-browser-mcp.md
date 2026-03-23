@@ -7,3 +7,5 @@ image: assets/vibheksoni_stealth_browser_mcp_20251225_140636_152_20251225_140652
 # [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp/)
 
 Bypasses bot detection for AI agents
+
+绕过 AI 代理的机器人检测

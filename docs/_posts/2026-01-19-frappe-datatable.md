@@ -7,3 +7,5 @@ image: assets/frappe_datatable_20260116_114040_520_20260116_114104_12cef6.png
 # [frappe/datatable](https://github.com/frappe/datatable)
 
 Javascript library for data grids with inline editing
+
+支持内联编辑的数据表格 JavaScript 库

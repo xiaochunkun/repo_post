@@ -7,3 +7,5 @@ image: assets/betoxf_claude_usage_menubar_20260115_211220_868_20260115_211235_90
 # [betoxf/claude-usage-menubar](https://github.com/betoxf/claude-usage-menubar)
 
 Displays Claude.ai usage limits in the macOS menu bar
+
+在macOS菜单栏显示Claude.ai使用限制

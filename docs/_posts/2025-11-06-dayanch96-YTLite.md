@@ -7,3 +7,5 @@ image: assets/dayanch96_YTLite_20251106_002955_808_20251106_003121_2096c4--20251
 # [dayanch96/YTLite](https://github.com/dayanch96/YTLite/)
 
 Enhancer for YouTube on iOS with 100+ options
+
+iOS 上 YouTube 的增强器，提供 100 多种选项

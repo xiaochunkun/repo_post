@@ -7,3 +7,5 @@ image: assets/microsoft_mssql_python_20251125_235513_726_20251128_213146_0fe55c-
 # [microsoft/mssql-python](https://github.com/microsoft/mssql-python/)
 
 Python driver for SQL Server
+
+SQL Server的Python驱动

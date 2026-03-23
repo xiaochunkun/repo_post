@@ -7,3 +7,5 @@ image: assets/MiddleSchoolStudent_BotBrowser_20260120_115846_550_20260120_115904
 # [MiddleSchoolStudent/BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)
 
 Browser core with fingerprint defense
+
+带指纹防御的浏览器核心

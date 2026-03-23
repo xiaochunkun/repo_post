@@ -7,3 +7,5 @@ image: assets/20250820T131531377_gyaaniguy_personal-drive--20250820T131954149--c
 # [gyaaniguy/personal-drive](https://github.com/gyaaniguy/personal-drive)
 
 self-hosted Google Drive and Dropbox alternative
+
+自托管的 Google Drive 和 Dropbox 替代方案

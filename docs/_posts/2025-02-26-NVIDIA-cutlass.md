@@ -7,3 +7,5 @@ image: assets/NVIDIA_cutlass_cropped.png
 # [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
 
 CUDA C++ templates for matrix multiplication and linear algebra
+
+用于矩阵乘法和线性代数的 CUDA C++ 模板

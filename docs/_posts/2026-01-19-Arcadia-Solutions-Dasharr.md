@@ -7,3 +7,5 @@ image: assets/Arcadia_Solutions_Dasharr_20260115_084438_804_20260115_084452_02dd
 # [Arcadia-Solutions/Dasharr](https://github.com/Arcadia-Solutions/Dasharr)
 
 Visualizes stats from torrent indexers
+
+可视化种子索引器的统计数据

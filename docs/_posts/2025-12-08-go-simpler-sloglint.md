@@ -7,3 +7,5 @@ image: assets/go_simpler_sloglint_20251205_034256_143_20251205_034400_49556a.png
 # [go-simpler/sloglint](https://github.com/go-simpler/sloglint/)
 
 Go linter for consistent log/slog code style
+
+用于一致 log/slog 代码风格的 Go 代码检查器

@@ -7,3 +7,5 @@ image: assets/element_hq_element_docker_demo_20251029_235719_389_20251030_010241
 # [element-hq/element-docker-demo](https://github.com/element-hq/element-docker-demo/)
 
 Minimal example of a Matrix 2.0 stack with Docker
+
+使用 Docker 的 Matrix 2.0 栈最小示例

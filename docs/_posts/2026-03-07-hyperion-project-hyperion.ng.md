@@ -7,3 +7,5 @@ image: assets/hyperion_project_hyperion_ng_20260227_165055_215_20260227_165246_7
 # [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng)
 
 Ambient lighting for LED devices and video grabbers
+
+LED设备和视频采集器的环境照明

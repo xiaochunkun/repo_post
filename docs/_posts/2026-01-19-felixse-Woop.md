@@ -7,3 +7,5 @@ image: assets/felixse_Woop_20260116_164213_673_20260116_164237_264f35.png
 # [felixse/Woop](https://github.com/felixse/Woop)
 
 Windows scratchpad for text transformations with scripts
+
+支持脚本文本转换的 Windows 便笺工具

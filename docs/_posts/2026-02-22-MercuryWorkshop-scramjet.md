@@ -7,3 +7,5 @@ image: assets/MercuryWorkshop_scramjet_20260221_072909_819_20260221_072929_54b75
 # [MercuryWorkshop/scramjet](https://github.com/MercuryWorkshop/scramjet)
 
 Web proxy with CAPTCHA support
+
+支持 CAPTCHA 的 Web 代理

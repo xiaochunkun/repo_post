@@ -7,3 +7,5 @@ image: assets/20251015T031925263--testssl--testssl.sh--20251015T032809538--cropp
 # [testssl/testssl.sh](https://github.com/testssl/testssl.sh)
 
 command line tool for checking TLS/SSL ciphers and protocols on any port
+
+命令行工具，用于检查任何端口上的 TLS/SSL 密码和协议

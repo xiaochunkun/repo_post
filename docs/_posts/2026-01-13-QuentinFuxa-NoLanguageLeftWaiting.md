@@ -7,3 +7,5 @@ image: assets/QuentinFuxa_NoLanguageLeftWaiting_20260112_054835_603_20260112_054
 # [QuentinFuxa/NoLanguageLeftWaiting](https://github.com/QuentinFuxa/NoLanguageLeftWaiting)
 
 Simultaneous machine translation for live streams
+
+直播流媒体的同步机器翻译

@@ -7,3 +7,5 @@ image: assets/VoltAgent_awesome_moltbot_skills_20260202_232345_518_20260202_2324
 # [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)
 
 Collection of 1715 skills for a local AI assistant
+
+本地AI助手的1715个技能集合

@@ -7,3 +7,5 @@ image: assets/vivizzz007_vivi_music_20260104_041650_951_20260104_041707_258ba4.p
 # [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music/)
 
 Music player with YouTube streaming and synced lyrics
+
+支持 YouTube 流媒体和同步歌词的音乐播放器

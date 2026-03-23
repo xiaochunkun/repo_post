@@ -7,3 +7,5 @@ image: assets/miroslavpejic85_call_me_20260108_021536_912_20260108_021551_0dea07
 # [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me)
 
 WebRTC video calls from a browser via REST API
+
+通过REST API在浏览器中进行WebRTC视频通话

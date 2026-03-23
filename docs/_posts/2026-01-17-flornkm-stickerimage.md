@@ -7,3 +7,5 @@ image: assets/flornkm_stickerimage_20260116_230947_586_20260116_231001_b66648.pn
 # [flornkm/stickerimage](https://github.com/flornkm/stickerimage)
 
 Adds stickers to Memoji laptops
+
+为Memoji笔记本电脑添加贴纸

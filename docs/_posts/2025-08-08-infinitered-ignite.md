@@ -7,3 +7,5 @@ image: assets/infinitered_ignite_cropped.png
 # [infinitered/ignite](https://github.com/infinitered/ignite)
 
 React Native starter kit with CLI tools and boilerplate, built by Infinite Red
+
+React Native启动套件，包含CLI工具和样板，由Infinite Red构建

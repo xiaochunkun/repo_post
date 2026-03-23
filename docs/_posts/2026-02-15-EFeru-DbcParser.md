@@ -7,3 +7,5 @@ image: assets/EFeru_DbcParser_20260118_101024_874_20260118_101038_a2985f.png
 # [EFeru/DbcParser](https://github.com/EFeru/DbcParser)
 
 Parses DBC files for CAN signals in .NET
+
+在.NET中解析CAN信号的DBC文件

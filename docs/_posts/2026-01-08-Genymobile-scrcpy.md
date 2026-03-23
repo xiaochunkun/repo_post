@@ -7,3 +7,5 @@ image: assets/Genymobile_scrcpy_20260108_024112_045_20260108_024125_1ae978.png
 # [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
 
 Mirrors and controls Android devices via USB or TCP/IP
+
+通过 USB 或 TCP/IP 镜像和控制 Android 设备

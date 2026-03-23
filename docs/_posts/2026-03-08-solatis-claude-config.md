@@ -7,3 +7,5 @@ image: assets/solatis_claude_config_20260304_123239_037_20260304_123403_ead74c.p
 # [solatis/claude-config](https://github.com/solatis/claude-config)
 
 Workflows and skills for LLM-assisted coding
+
+LLM辅助编码的工作流和技能

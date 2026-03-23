@@ -7,3 +7,5 @@ image: assets/funstory_ai_BabelDOC_20260212_061655_458_20260212_061721_9c63fb.pn
 # [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)
 
 Translates scientific papers into bilingual layouts
+
+将科学论文翻译成双语布局

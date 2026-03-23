@@ -7,3 +7,5 @@ image: assets/hummingbot_hummingbot_cropped.png
 # [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
 
 automated crypto trading bot for market making and arbitrage
+
+自动化加密货币交易机器人，用于做市和套利

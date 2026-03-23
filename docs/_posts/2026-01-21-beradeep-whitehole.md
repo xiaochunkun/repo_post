@@ -7,3 +7,5 @@ image: assets/beradeep_whitehole_20260117_123206_619_20260117_123225_18520b.png
 # [beradeep/whitehole](https://github.com/beradeep/whitehole)
 
 Photo manager on Telegram
+
+Telegram上的照片管理器

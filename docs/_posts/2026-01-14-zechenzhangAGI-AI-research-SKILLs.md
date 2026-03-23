@@ -7,3 +7,5 @@ image: assets/zechenzhangAGI_AI_research_SKILLs_20260113_033314_329_20260113_033
 # [zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)
 
 Library of engineering skills for AI agents
+
+AI 代理的工程技能库

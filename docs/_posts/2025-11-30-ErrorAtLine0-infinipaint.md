@@ -7,3 +7,5 @@ image: assets/ErrorAtLine0_infinipaint_20251127_184628_528_20251130_052256_4ae96
 # [ErrorAtLine0/infinipaint](https://github.com/ErrorAtLine0/infinipaint/)
 
 Collaborative drawing on an infinite canvas with unlimited zoom
+
+在无限画布上进行协作绘图，支持无限缩放

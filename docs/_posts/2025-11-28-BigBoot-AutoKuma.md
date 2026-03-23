@@ -7,3 +7,5 @@ image: assets/BigBoot_AutoKuma_20251125_040622_650_20251127_165105_ae220f--20251
 # [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma/)
 
 Automates Uptime Kuma monitor creation from Docker labels
+
+从 Docker 标签自动创建 Uptime Kuma 监控器

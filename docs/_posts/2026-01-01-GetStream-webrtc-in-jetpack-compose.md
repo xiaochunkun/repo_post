@@ -7,3 +7,5 @@ image: assets/GetStream_webrtc_in_jetpack_compose_20251231_193744_265_20251231_1
 # [GetStream/webrtc-in-jetpack-compose](https://github.com/GetStream/webrtc-in-jetpack-compose/)
 
 WebRTC protocol for video communications in Jetpack Compose
+
+用于Jetpack Compose中视频通信的WebRTC协议

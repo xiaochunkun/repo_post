@@ -7,3 +7,5 @@ image: assets/20250915T045113401--facebookresearch--detectron2--20250915T0456094
 # [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
 
 State-of-the-art object detection and segmentation library from Facebook AI Research
+
+Facebook AI Research 最先进的目标检测和分割库

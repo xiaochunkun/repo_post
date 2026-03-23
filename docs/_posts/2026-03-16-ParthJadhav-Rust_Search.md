@@ -7,3 +7,5 @@ image: assets/ParthJadhav_Rust_Search_20260311_061107_480_20260311_061236_1004c9
 # [ParthJadhav/Rust_Search](https://github.com/ParthJadhav/Rust_Search)
 
 Fast recursive file search in Rust
+
+Rust 快速递归文件搜索工具

@@ -7,3 +7,5 @@ image: assets/20250918T040714789--versotile-org--verso--20250920T033045769--crop
 # [versotile-org/verso](https://github.com/versotile-org/verso)
 
 experimental browser built on Servo engine, supports multi-view and multi-window
+
+基于 Servo 引擎的实验性浏览器，支持多视图和多窗口

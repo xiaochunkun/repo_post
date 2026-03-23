@@ -7,3 +7,5 @@ image: assets/realtime-ai_mac-echo_cropped.png
 # [realtime-ai/mac-echo](https://github.com/realtime-ai/mac-echo)
 
 real-time voice chat for mac powered by AI
+
+基于 AI 的 Mac 实时语音聊天

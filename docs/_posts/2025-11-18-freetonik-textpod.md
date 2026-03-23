@@ -7,3 +7,5 @@ image: assets/freetonik_textpod_20251118_021343_506_20251118_021412_f192cf--2025
 # [freetonik/textpod](https://github.com/freetonik/textpod/)
 
 Local note-taking app that stores all notes in a single text file
+
+将所有笔记存储在单个文本文件中的本地笔记应用

@@ -7,3 +7,5 @@ image: assets/20250926T174750099--Shelf-nu--shelf.nu--20250926T175736869--croppe
 # [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)
 
 open source platform for tracking and managing assets with QR codes, reservations, and team collaboration
+
+开源平台，用于通过二维码、预订和团队协作追踪和管理资产

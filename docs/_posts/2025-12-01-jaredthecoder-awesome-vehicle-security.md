@@ -7,3 +7,5 @@ image: assets/jaredthecoder_awesome_vehicle_security_20251127_211749_237_2025113
 # [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security/)
 
 Curated resources for vehicle security and car hacking
+
+车辆安全和汽车黑客的精选资源

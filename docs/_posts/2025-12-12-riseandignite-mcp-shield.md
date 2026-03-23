@@ -7,3 +7,5 @@ image: assets/riseandignite_mcp_shield_20251209_022122_241_20251209_022155_b4e1f
 # [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield/)
 
 Scans Model Context Protocol servers for vulnerabilities
+
+扫描 Model Context Protocol 服务器漏洞

@@ -7,3 +7,5 @@ image: assets/dmccreary_claude_skills_20260209_023307_372_20260209_023331_d488e9
 # [dmccreary/claude-skills](https://github.com/dmccreary/claude-skills)
 
 Generates textbooks with learning graphs and simulations
+
+生成带学习图和模拟的教科书

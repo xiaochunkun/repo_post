@@ -7,3 +7,5 @@ image: assets/sparkfun_Cherry_MX_Switch_Breakout_20260207_065022_320_20260207_06
 # [sparkfun/Cherry_MX_Switch_Breakout](https://github.com/sparkfun/Cherry_MX_Switch_Breakout)
 
 Adapts mechanical switches to breadboards
+
+将机械开关适配到面包板

@@ -7,3 +7,5 @@ image: assets/tramhao_termusic_20251202_195614_272_20251202_195852_6c683f.png
 # [tramhao/termusic](https://github.com/tramhao/termusic/)
 
 Terminal music and podcast player in Rust
+
+用Rust编写的终端音乐和播客播放器

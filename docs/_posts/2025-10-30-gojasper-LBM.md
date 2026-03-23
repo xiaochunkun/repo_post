@@ -7,3 +7,5 @@ image: assets/gojasper_LBM_20251030_005139_571_20251030_005235_4f4701--20251030T
 # [gojasper/LBM](https://github.com/gojasper/LBM/)
 
 Image-to-image translation with object relighting and shadow generation
+
+图像到图像转换，支持对象重光和阴影生成

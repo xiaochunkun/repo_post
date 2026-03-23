@@ -7,3 +7,5 @@ image: assets/20250830T174558133--microsoft--BitNet--20250830T183639132--cropped
 # [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
 1-bit LLM inference on CPUs and GPUs with BitNet
+
+CPU 和 GPU 上的 1-bit 大模型推理框架 BitNet

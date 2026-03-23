@@ -7,3 +7,5 @@ image: assets/supermemoryai_claude_supermemory_20260221_234838_916_20260221_2349
 # [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory)
 
 Persistent memory for AI agents across sessions
+
+跨会话的AI代理持久内存

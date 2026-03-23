@@ -7,3 +7,5 @@ image: assets/aptabase_aptabase_20260122_093517_373_20260122_093534_9128c5.png
 # [aptabase/aptabase](https://github.com/aptabase/aptabase)
 
 Open source alternative to Google Analytics for apps
+
+面向应用的开源Google Analytics替代方案

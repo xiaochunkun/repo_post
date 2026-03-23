@@ -7,3 +7,5 @@ image: assets/NoDataFound_hackGPT_cropped.png
 # [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT)
 
 ChatGPT-based tools for hacking and security testing
+
+基于 ChatGPT 的黑客和安全测试工具

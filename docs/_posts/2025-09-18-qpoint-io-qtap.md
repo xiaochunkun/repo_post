@@ -7,3 +7,5 @@ image: assets/qpoint-io_qtap--20250918T150732803--cropped.png
 # [qpoint-io/qtap](https://github.com/qpoint-io/qtap)
 
 eBPF agent for seeing pre-encrypted network traffic and context
+
+用于查看加密前网络流量和上下文的eBPF代理

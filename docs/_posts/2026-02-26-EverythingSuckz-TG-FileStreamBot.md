@@ -7,3 +7,5 @@ image: assets/EverythingSuckz_TG_FileStreamBot_20260212_084735_244_20260212_0847
 # [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot)
 
 Generates direct links for Telegram files
+
+为Telegram文件生成直接链接

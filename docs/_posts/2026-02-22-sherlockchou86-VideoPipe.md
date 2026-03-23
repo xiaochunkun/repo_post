@@ -7,3 +7,5 @@ image: assets/sherlockchou86_VideoPipe_20260209_194839_372_20260209_194921_abc29
 # [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe)
 
 C++ framework for video analysis pipelines
+
+用于视频分析管道的C++框架

@@ -7,3 +7,5 @@ image: assets/malik_na_omarchy_mac_20260208_043804_950_20260208_043836_87e6ee.pn
 # [malik-na/omarchy-mac](https://github.com/malik-na/omarchy-mac)
 
 Arch Linux and Hyprland setup for Apple Silicon Macs
+
+适用于Apple Silicon Mac的Arch Linux和Hyprland设置

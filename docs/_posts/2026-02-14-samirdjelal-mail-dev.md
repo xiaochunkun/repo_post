@@ -7,3 +7,5 @@ image: assets/samirdjelal_mail_dev_20260121_195019_525_20260121_195038_7637e8.pn
 # [samirdjelal/mail-dev](https://github.com/samirdjelal/mail-dev)
 
 SMTP server for email testing
+
+用于电子邮件测试的 SMTP 服务器

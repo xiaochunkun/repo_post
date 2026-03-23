@@ -7,3 +7,5 @@ image: assets/wispbit_ai_wispbit_20251130_055538_589_20251130_084238_034e48--202
 # [wispbit-ai/wispbit](https://github.com/wispbit-ai/wispbit/)
 
 Model-agnostic AI code review tool
+
+模型无关的AI代码审查工具

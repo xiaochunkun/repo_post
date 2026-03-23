@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen3_ASR_Toolkit_20251202_215910_383_20251202_215949_346b3
 # [QwenLM/Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit/)
 
 Bypasses API audio length limits via parallel processing
+
+通过并行处理绕过 API 音频长度限制

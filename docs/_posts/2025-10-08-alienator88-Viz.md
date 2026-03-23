@@ -7,3 +7,5 @@ image: assets/20251007T031925154--alienator88--Viz--20251007T033755179--cropped.
 # [alienator88/Viz](https://github.com/alienator88/Viz)
 
 extracts text, QR codes, barcodes, and colors from images or videos with quick snip
+
+从图像或视频中快速提取文本、二维码、条形码和颜色

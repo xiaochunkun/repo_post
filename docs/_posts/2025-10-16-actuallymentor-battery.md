@@ -7,3 +7,5 @@ image: assets/20251016T074652118--actuallymentor--battery--20251016T075359968--c
 # [actuallymentor/battery](https://github.com/actuallymentor/battery)
 
 lets you set a battery charge limit on Apple Silicon Macs
+
+允许在 Apple Silicon Mac 上设置电池充电限制

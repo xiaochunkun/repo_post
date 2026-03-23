@@ -7,3 +7,5 @@ image: assets/takahirom_arbigent_20251114_202421_687_20251115_035736_5e8eee--202
 # [takahirom/arbigent](https://github.com/takahirom/arbigent/)
 
 AI agent testing framework with a UI
+
+带UI的AI代理测试框架

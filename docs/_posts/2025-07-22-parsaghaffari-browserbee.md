@@ -7,3 +7,5 @@ image: assets/parsaghaffari_browserbee_cropped.png
 # [parsaghaffari/browserbee](https://github.com/parsaghaffari/browserbee)
 
 control Chrome with natural language using AI
+
+使用AI自然语言控制Chrome浏览器

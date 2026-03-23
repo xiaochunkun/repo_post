@@ -7,3 +7,5 @@ image: assets/splitbrain_clipscreen_20251123_200552_855_20251125_012843_08ecce--
 # [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen/)
 
 Mirrors screen portion to virtual monitor
+
+将屏幕部分镜像到虚拟显示器

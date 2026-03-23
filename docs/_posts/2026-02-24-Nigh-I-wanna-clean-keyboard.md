@@ -7,3 +7,5 @@ image: assets/Nigh_I_wanna_clean_keyboard_20260224_191950_885_20260224_192006_51
 # [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard)
 
 Blocks keyboard and mouse input
+
+阻止键盘和鼠标输入

@@ -7,3 +7,5 @@ image: assets/avtzis_awesome_linux_ricing_20251213_140642_678_20251213_140812_7a
 # [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing/)
 
 Curated list of Linux customization resources
+
+Linux定制化资源精选列表

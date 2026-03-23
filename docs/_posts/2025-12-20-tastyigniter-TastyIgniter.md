@@ -7,3 +7,5 @@ image: assets/tastyigniter_TastyIgniter_20251218_044557_653_20251218_044616_dafa
 # [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter/)
 
 System for restaurant orders and table reservations
+
+餐厅点餐与订座系统

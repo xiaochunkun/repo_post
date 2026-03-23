@@ -7,3 +7,5 @@ image: assets/ccbikai_DNS_Surf_20260104_125725_146_20260104_125740_d9426c.png
 # [ccbikai/DNS.Surf](https://github.com/ccbikai/DNS.Surf/)
 
 Queries DNS resolution results from regions worldwide
+
+查询全球各区域的 DNS 解析结果

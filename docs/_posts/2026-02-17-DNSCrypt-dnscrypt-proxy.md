@@ -7,3 +7,5 @@ image: assets/DNSCrypt_dnscrypt_proxy_20260206_190411_110_20260206_190502_0c3c68
 # [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
 
 DNS proxy with support for encrypted protocols
+
+支持加密协议的DNS代理

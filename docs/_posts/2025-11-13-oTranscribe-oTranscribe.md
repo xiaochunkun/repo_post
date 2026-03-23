@@ -7,3 +7,5 @@ image: assets/oTranscribe_oTranscribe_20251111_214752_029_20251112_032817_a3b5a8
 # [oTranscribe/oTranscribe](https://github.com/oTranscribe/oTranscribe/)
 
 Web app for transcribing interviews with keyboard controls
+
+具有键盘控制的转录访谈的 Web 应用

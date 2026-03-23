@@ -7,3 +7,5 @@ image: assets/20250830T174751587--pimalaya--himalaya--20250830T183759708--croppe
 # [pimalaya/himalaya](https://github.com/pimalaya/himalaya)
 
 Manage your emails from the terminal with Himalaya, an open source Rust CLI that supports multiple accounts, IMAP, SMTP, and PGP encryption
+
+Rust 编写的终端邮件客户端，支持多账户、IMAP、SMTP 和 PGP 加密

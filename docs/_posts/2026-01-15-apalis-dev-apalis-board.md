@@ -7,3 +7,5 @@ image: assets/apalis_dev_apalis_board_20260113_204037_654_20260113_204051_6e275b
 # [apalis-dev/apalis-board](https://github.com/apalis-dev/apalis-board)
 
 Inspector for background jobs with realtime tracing
+
+具有实时追踪的后台作业检查器

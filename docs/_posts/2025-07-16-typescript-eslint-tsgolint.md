@@ -7,3 +7,5 @@ image: assets/typescript-eslint_tsgolint_cropped.png
 # [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint)
 
 TypeScript linter powered by ESLint rules
+
+基于 ESLint 规则的 TypeScript 代码检查工具

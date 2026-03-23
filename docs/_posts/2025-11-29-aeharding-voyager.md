@@ -7,3 +7,5 @@ image: assets/aeharding_voyager_20251126_110421_718_20251129_022452_26e70a--2025
 # [aeharding/voyager](https://github.com/aeharding/voyager/)
 
 Mobile-first Lemmy web client
+
+移动优先的Lemmy Web客户端

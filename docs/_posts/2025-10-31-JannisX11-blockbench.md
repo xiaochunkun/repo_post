@@ -7,3 +7,5 @@ image: assets/JannisX11_blockbench_20251030_232749_273_20251031_000254_f4bb93--2
 # [JannisX11/blockbench](https://github.com/JannisX11/blockbench/)
 
 Model editor with dedicated formats for Minecraft
+
+Minecraft 专用格式的模型编辑器

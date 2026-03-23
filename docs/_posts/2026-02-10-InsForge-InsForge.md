@@ -7,3 +7,5 @@ image: assets/InsForge_InsForge_20260204_031814_434_20260204_031837_f999e0.png
 # [InsForge/InsForge](https://github.com/InsForge/InsForge)
 
 Semantic layer for AI agents to access backend primitives
+
+AI代理访问后端原语的语义层

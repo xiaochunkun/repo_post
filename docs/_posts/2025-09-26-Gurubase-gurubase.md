@@ -7,3 +7,5 @@ image: assets/20250926T173104473--Gurubase--gurubase--20250926T173218123--croppe
 # [Gurubase/gurubase](https://github.com/Gurubase/gurubase)
 
 AI Q&A assistants for docs, code, and more with easy integrations
+
+AI 问答助手，支持文档、代码等，易于集成

@@ -7,3 +7,5 @@ image: assets/ruzin_stenoai_20251225_021015_476_20251225_021032_1e58ed.png
 # [ruzin/stenoai](https://github.com/ruzin/stenoai/)
 
 Transcribes and summarizes meetings locally using small language models
+
+使用小型语言模型本地转录和总结会议

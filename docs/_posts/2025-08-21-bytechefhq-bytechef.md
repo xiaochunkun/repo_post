@@ -7,3 +7,5 @@ image: assets/20250820T132954704_bytechefhq_bytechef--20250820T133428744--croppe
 # [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef)
 
 open source platform for automating workflows and connecting APIs
+
+开源工作流自动化和 API 集成平台

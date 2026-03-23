@@ -7,3 +7,5 @@ image: assets/Dhahd_ClipPocket_20260203_003316_911_20260203_003345_5f9fbf.png
 # [Dhahd/ClipPocket](https://github.com/Dhahd/ClipPocket)
 
 Clipboard manager for macOS with type detection and local storage
+
+macOS 剪贴板管理器，支持类型检测和本地存储

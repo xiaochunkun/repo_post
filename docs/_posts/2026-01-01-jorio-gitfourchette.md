@@ -7,3 +7,5 @@ image: assets/jorio_gitfourchette_20251231_064851_743_20251231_064908_f335bb.png
 # [jorio/gitfourchette](https://github.com/jorio/gitfourchette/)
 
 Qt Git interface for Linux
+
+适用于Linux的Qt Git界面

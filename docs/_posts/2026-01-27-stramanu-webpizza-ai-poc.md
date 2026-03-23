@@ -7,3 +7,5 @@ image: assets/stramanu_webpizza_ai_poc_20260116_052321_190_20260116_052335_1708e
 # [stramanu/webpizza-ai-poc](https://github.com/stramanu/webpizza-ai-poc)
 
 Chat with PDF documents via WebGPU in a browser
+
+在浏览器中通过WebGPU与PDF文档聊天

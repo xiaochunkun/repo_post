@@ -7,3 +7,5 @@ image: assets/abdarwish23_Advanced_SQL_Agent_20260101_200317_466_20260101_200335
 # [abdarwish23/Advanced_SQL_Agent](https://github.com/abdarwish23/Advanced_SQL_Agent/)
 
 SQL agent with self-correction and visualization
+
+具备自我修正和可视化功能的SQL代理

@@ -7,3 +7,5 @@ image: assets/anomalyco_opentui_20260213_181836_238_20260213_181931_06476d.png
 # [anomalyco/opentui](https://github.com/anomalyco/opentui)
 
 TypeScript library for terminal user interfaces
+
+终端用户界面的TypeScript库

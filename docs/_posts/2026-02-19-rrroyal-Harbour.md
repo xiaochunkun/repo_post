@@ -7,3 +7,5 @@ image: assets/rrroyal_Harbour_20260206_031327_213_20260206_031340_46af55.png
 # [rrroyal/Harbour](https://github.com/rrroyal/Harbour)
 
 Manages Docker and Portainer on Apple devices
+
+在Apple设备上管理Docker和Portainer

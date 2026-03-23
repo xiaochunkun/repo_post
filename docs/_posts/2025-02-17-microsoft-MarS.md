@@ -7,3 +7,5 @@ image: assets/microsoft_MarS_cropped.png
 # [microsoft/MarS](https://github.com/microsoft/MarS)
 
 Financial market simulation engine
+
+金融市场模拟引擎

@@ -7,3 +7,5 @@ image: assets/naver_dust3r_20251127_210903_676_20251130_083511_9a841b--20251130T
 # [naver/dust3r](https://github.com/naver/dust3r/)
 
 Geometric 3D vision from images
+
+从图像进行几何3D视觉处理

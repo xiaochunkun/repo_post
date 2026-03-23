@@ -7,3 +7,5 @@ image: assets/forensicmatt_datatui_20251217_070534_907_20251217_070612_23933e.pn
 # [forensicmatt/datatui](https://github.com/forensicmatt/datatui/)
 
 Terminal viewer for CSV, Excel, and SQLite data
+
+CSV、Excel 和 SQLite 数据的终端查看器

@@ -7,3 +7,5 @@ image: assets/infinitered_ignite_20260202_224347_819_20260202_224414_c80c24.png
 # [infinitered/ignite](https://github.com/infinitered/ignite)
 
 Boilerplate for React Native apps
+
+React Native应用的样板

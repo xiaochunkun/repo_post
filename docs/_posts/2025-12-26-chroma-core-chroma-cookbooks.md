@@ -7,3 +7,5 @@ image: assets/chroma_core_chroma_cookbooks_20251224_214230_257_20251224_214252_a
 # [chroma-core/chroma-cookbooks](https://github.com/chroma-core/chroma-cookbooks/)
 
 Guides and code examples for building AI applications
+
+构建 AI 应用的指南和代码示例

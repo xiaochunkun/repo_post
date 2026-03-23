@@ -7,3 +7,5 @@ image: assets/sergev_blang_20251130_072408_573_20251130_085216_217f15--20251130T
 # [sergev/blang](https://github.com/sergev/blang/)
 
 B language compiler written in Go with LLVM backend
+
+使用Go编写并带有LLVM后端的B语言编译器

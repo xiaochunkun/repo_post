@@ -7,3 +7,5 @@ image: assets/Decimation_SmartImage_20260104_015159_256_20260104_015216_2a7b5e.p
 # [Decimation/SmartImage](https://github.com/Decimation/SmartImage/)
 
 Reverse image search tool for Windows
+
+Windows反向图片搜索工具

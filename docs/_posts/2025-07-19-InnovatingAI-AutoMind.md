@@ -7,3 +7,5 @@ image: assets/InnovatingAI_AutoMind_cropped.png
 # [InnovatingAI/AutoMind](https://github.com/InnovatingAI/AutoMind)
 
 AI platform for building enterprise assistants and automating tasks
+
+构建企业助手和自动化任务的AI平台

@@ -7,3 +7,5 @@ image: assets/pxlflux_koreader_patches_20260207_000041_769_20260207_000126_9fd1b
 # [pxlflux/koreader-patches](https://github.com/pxlflux/koreader-patches)
 
 Displays reading statistics on e-reader sleep screens
+
+在电子阅读器休眠屏幕上显示阅读统计

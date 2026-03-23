@@ -7,3 +7,5 @@ image: assets/20250903T030110858--Doubiiu--ToonCrafter--20250903T030904060--crop
 # [Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter)
 
 AI tool for turning cartoon images or sketches into smooth animations
+
+AI 工具，将卡通图片或草图转换为流畅动画

@@ -7,3 +7,5 @@ image: assets/20250910T025645444--bufbuild--hyperpb-go--20250910T025914101--crop
 # [bufbuild/hyperpb-go](https://github.com/bufbuild/hyperpb-go)
 
 dynamic Protobuf parsing in Go, optimized for speed and read-only workloads
+
+Go 语言动态 Protobuf 解析，针对速度和只读场景优化

@@ -7,3 +7,5 @@ image: assets/codergautam_worldguessr_20251110_123747_973_20251110_131325_b73236
 # [codergautam/worldguessr](https://github.com/codergautam/worldguessr/)
 
 Open-source version of the geography game
+
+地理游戏的开源版本

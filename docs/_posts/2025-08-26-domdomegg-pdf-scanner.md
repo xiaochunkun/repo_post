@@ -7,3 +7,5 @@ image: assets/20250825T034058896--domdomegg--pdf-scanner--20250825T035151449--cr
 # [domdomegg/pdf-scanner](https://github.com/domdomegg/pdf-scanner)
 
 turns PDFs into scanned-looking documents
+
+将 PDF 处理成扫描件效果

@@ -7,3 +7,5 @@ image: assets/postalserver_postal_20260203_084713_984_20260203_084751_b18022.png
 # [postalserver/postal](https://github.com/postalserver/postal)
 
 Mail server for websites and web servers
+
+适用于网站和 Web 服务器的邮件服务器

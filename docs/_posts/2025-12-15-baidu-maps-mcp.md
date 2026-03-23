@@ -7,3 +7,5 @@ image: assets/baidu_maps_mcp_20251213_062517_104_20251213_062541_0b6c41.png
 # [baidu-maps/mcp](https://github.com/baidu-maps/mcp/)
 
 Connects LLMs to Baidu Maps location services
+
+将 LLM 连接到百度地图位置服务

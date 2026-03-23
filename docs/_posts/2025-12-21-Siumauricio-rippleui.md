@@ -7,3 +7,5 @@ image: assets/Siumauricio_rippleui_20251219_103825_014_20251219_103846_324ed2.pn
 # [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui/)
 
 Tailwind CSS components for design systems
+
+Tailwind CSS 设计系统组件库

@@ -7,3 +7,5 @@ image: assets/Addy_shetty_Vibe_Prompting_20251223_085200_983_20251223_085219_606
 # [Addy-shetty/Vibe-Prompting](https://github.com/Addy-shetty/Vibe-Prompting/)
 
 Generates AI prompts with a credit system
+
+带积分系统的AI提示生成器

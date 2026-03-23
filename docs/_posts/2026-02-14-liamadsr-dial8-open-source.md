@@ -7,3 +7,5 @@ image: assets/liamadsr_dial8_open_source_20260214_191529_771_20260214_191619_a18
 # [liamadsr/dial8-open-source](https://github.com/liamadsr/dial8-open-source)
 
 Transcribes speech locally on macOS using Whisper AI
+
+在 macOS 上使用 Whisper AI 本地转录语音

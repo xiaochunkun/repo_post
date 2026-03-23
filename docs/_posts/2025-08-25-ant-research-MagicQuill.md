@@ -7,3 +7,5 @@ image: assets/20250823T013941917--ant-research--MagicQuill--20250823T014303821--
 # [ant-research/MagicQuill](https://github.com/ant-research/MagicQuill)
 
 AI image editing with brush and prompt
+
+AI 图像编辑，画笔加提示词即可操作

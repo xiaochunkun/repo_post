@@ -7,3 +7,5 @@ image: assets/uvarov_frontend_vanilla_calendar_pro_20260223_110039_605_20260223_
 # [uvarov-frontend/vanilla-calendar-pro](https://github.com/uvarov-frontend/vanilla-calendar-pro)
 
 Date and time picker without dependencies
+
+无依赖的日期和时间选择器

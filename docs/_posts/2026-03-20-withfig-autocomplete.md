@@ -7,3 +7,5 @@ image: assets/withfig_autocomplete_20260318_232242_989_20260318_232508_cd5d23.pn
 # [withfig/autocomplete](https://github.com/withfig/autocomplete)
 
 Terminal command completion engine
+
+终端命令补全引擎

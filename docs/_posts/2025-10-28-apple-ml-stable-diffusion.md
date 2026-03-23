@@ -7,3 +7,5 @@ image: assets/apple_ml_stable_diffusion_20251026_231007_963_20251027_002149_694c
 # [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion/)
 
 Run Stable Diffusion on Apple Silicon with Core ML
+
+在 Apple Silicon 上使用 Core ML 运行 Stable Diffusion

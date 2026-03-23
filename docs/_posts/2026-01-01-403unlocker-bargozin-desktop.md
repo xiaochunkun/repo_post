@@ -7,3 +7,5 @@ image: assets/403unlocker_bargozin_desktop_20251231_163418_035_20251231_163452_2
 # [403unlocker/bargozin-desktop](https://github.com/403unlocker/bargozin-desktop/)
 
 Tests DNS servers and Docker registry speeds
+
+测试DNS服务器和Docker注册表速度

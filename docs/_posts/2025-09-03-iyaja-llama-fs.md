@@ -7,3 +7,5 @@ image: assets/20250903T012222562--iyaja--llama-fs--20250903T012812050--cropped.p
 # [iyaja/llama-fs](https://github.com/iyaja/llama-fs)
 
 AI-powered file manager that organizes and renames files for you
+
+AI 驱动的文件管理器，自动整理和重命名文件

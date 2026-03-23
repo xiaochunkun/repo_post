@@ -7,3 +7,5 @@ image: assets/20250822T023628749--jetify-com--devbox--20250822T024200173--croppe
 # [jetify-com/devbox](https://github.com/jetify-com/devbox)
 
 create isolated dev shells for any project with devbox
+
+使用 Devbox 为任意项目创建隔离的开发环境

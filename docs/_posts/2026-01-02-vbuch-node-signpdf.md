@@ -7,3 +7,5 @@ image: assets/vbuch_node_signpdf_20260101_205945_327_20260101_210001_921e65.png
 # [vbuch/node-signpdf](https://github.com/vbuch/node-signpdf/)
 
 Signs PDF documents in Node.js
+
+在 Node.js 中签署 PDF 文档

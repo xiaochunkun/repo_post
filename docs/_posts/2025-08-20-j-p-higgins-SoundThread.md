@@ -7,3 +7,5 @@ image: assets/20250820T125002154_j-p-higgins_SoundThread--20250820T125822608--cr
 # [j-p-higgins/SoundThread](https://github.com/j-p-higgins/SoundThread)
 
 Modular node-based interface for CDP sound design
+
+用于 CDP 声音设计的模块化基于节点的界面

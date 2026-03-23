@@ -7,3 +7,5 @@ image: assets/1Panel-dev_MaxKB_cropped.png
 # [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)
 
 open-source AI assistant for enterprise knowledge and Q&A
+
+企业知识和问答的开源AI助手

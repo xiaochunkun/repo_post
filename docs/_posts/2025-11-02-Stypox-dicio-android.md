@@ -7,3 +7,5 @@ image: assets/Stypox_dicio_android_20251031_073144_463_20251101_205811_539b2c--2
 # [Stypox/dicio-android](https://github.com/Stypox/dicio-android/)
 
 On-device voice assistant for Android
+
+Android 设备上的本地语音助手

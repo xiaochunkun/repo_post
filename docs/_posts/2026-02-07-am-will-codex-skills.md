@@ -7,3 +7,5 @@ image: assets/am_will_codex_skills_20260205_121449_271_20260205_121508_bd1386.pn
 # [am-will/codex-skills](https://github.com/am-will/codex-skills)
 
 Installs agent skills for planning and browser automation
+
+安装用于规划和浏览器自动化的代理技能

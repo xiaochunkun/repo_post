@@ -7,3 +7,5 @@ image: assets/ptnghia_j_ChordMiniApp_20260126_165928_398_20260126_170009_3a5130.
 # [ptnghia-j/ChordMiniApp](https://github.com/ptnghia-j/ChordMiniApp)
 
 Transcribes chords and lyrics from audio or YouTube videos
+
+从音频或YouTube视频转录和弦与歌词

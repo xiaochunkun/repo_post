@@ -7,3 +7,5 @@ image: assets/yt_dlp_yt_dlp_20260108_024853_483_20260108_024907_15c7b6.png
 # [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 Downloads video and audio from thousands of sites
+
+从数千个网站下载视频和音频

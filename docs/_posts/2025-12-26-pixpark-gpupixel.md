@@ -7,3 +7,5 @@ image: assets/pixpark_gpupixel_20251225_141416_089_20251225_141505_a9af52.png
 # [pixpark/gpupixel](https://github.com/pixpark/gpupixel/)
 
 Real-time image filter engine on GPU
+
+GPU 上的实时图像滤镜引擎

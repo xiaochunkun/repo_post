@@ -7,3 +7,5 @@ image: assets/socprime_detectflow_main_20260227_203609_954_20260227_203806_33036
 # [socprime/detectflow-main](https://github.com/socprime/detectflow-main)
 
 Applies Sigma rules to streaming events for detection
+
+将 Sigma 规则应用于流事件进行检测

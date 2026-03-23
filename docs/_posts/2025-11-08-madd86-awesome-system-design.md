@@ -7,3 +7,5 @@ image: assets/madd86_awesome_system_design_20251107_000559_339_20251107_214615_b
 # [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design/)
 
 Curated list of system design resources
+
+精选的系统设计资源列表

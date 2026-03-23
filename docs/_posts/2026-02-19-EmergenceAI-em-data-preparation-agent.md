@@ -7,3 +7,5 @@ image: assets/EmergenceAI_em_data_preparation_agent_20260208_200030_879_20260208
 # [EmergenceAI/em-data-preparation-agent](https://github.com/EmergenceAI/em-data-preparation-agent)
 
 Cleans Excel files with AI via Docker
+
+通过Docker使用AI清理Excel文件

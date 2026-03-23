@@ -7,3 +7,5 @@ image: assets/themeselection_flyonui_cropped.png
 # [themeselection/flyonui](https://github.com/themeselection/flyonui)
 
 tailwind css components library with themes and js plugins
+
+带有主题和JS插件的Tailwind CSS组件库

@@ -7,3 +7,5 @@ image: assets/lord_alfred_ipranges_20251115_065949_153_20251117_035405_a0fd11--2
 # [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges/)
 
 Daily updated list of IP ranges for major tech companies
+
+每日更新的主要科技公司 IP 范围列表

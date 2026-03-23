@@ -7,3 +7,5 @@ image: assets/TIGER_AI_Lab_TheoremExplainAgent_20251205_041627_283_20251205_0418
 # [TIGER-AI-Lab/TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent/)
 
 Generates Manim videos explaining theorems
+
+生成解释定理的Manim视频

@@ -7,3 +7,5 @@ image: assets/simonoppowa_OpenNutriTracker_20251217_092741_345_20251217_092817_b
 # [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker/)
 
 Open source nutritional tracking and management app
+
+开源营养追踪和管理应用

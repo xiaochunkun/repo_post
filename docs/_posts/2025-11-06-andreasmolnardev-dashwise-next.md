@@ -7,3 +7,5 @@ image: assets/andreasmolnardev_dashwise_next_20251106_020608_168_20251106_133218
 # [andreasmolnardev/dashwise-next](https://github.com/andreasmolnardev/dashwise-next/)
 
 Self-hosted dashboard for a homelab
+
+家庭实验室的自托管仪表板

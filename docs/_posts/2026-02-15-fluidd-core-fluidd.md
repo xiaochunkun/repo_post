@@ -7,3 +7,5 @@ image: assets/fluidd_core_fluidd_20260120_130835_468_20260120_130850_4b995f.png
 # [fluidd-core/fluidd](https://github.com/fluidd-core/fluidd)
 
 Web interface for managing 3D printers
+
+管理3D打印机的Web界面

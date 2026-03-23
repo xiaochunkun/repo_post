@@ -7,3 +7,5 @@ image: assets/coollabsio_jean_20260309_173615_552_20260309_173811_543886.png
 # [coollabsio/jean](https://github.com/coollabsio/jean)
 
 Desktop interface for AI agents and git worktrees
+
+AI 代理和 git worktrees 的桌面界面

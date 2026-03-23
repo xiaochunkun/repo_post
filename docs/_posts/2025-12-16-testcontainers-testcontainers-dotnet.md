@@ -7,3 +7,5 @@ image: assets/testcontainers_testcontainers_dotnet_20251213_121339_974_20251213_
 # [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet/)
 
 Library for tests with throwaway Docker containers
+
+用于测试的临时Docker容器库

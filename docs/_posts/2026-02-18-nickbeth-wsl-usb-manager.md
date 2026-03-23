@@ -7,3 +7,5 @@ image: assets/nickbeth_wsl_usb_manager_20260210_195800_476_20260210_195821_07477
 # [nickbeth/wsl-usb-manager](https://github.com/nickbeth/wsl-usb-manager)
 
 GUI for connecting USB devices to WSL
+
+连接 USB 设备到 WSL 的 GUI

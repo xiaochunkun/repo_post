@@ -7,3 +7,5 @@ image: assets/SylvianAI_sv_excel_agent_20260204_173956_672_20260204_174027_a45bc
 # [SylvianAI/sv-excel-agent](https://github.com/SylvianAI/sv-excel-agent)
 
 Excel agent using MCP tools for LLMs to automate spreadsheets
+
+使用MCP工具为LLM自动化电子表格的Excel智能体

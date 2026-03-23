@@ -7,3 +7,5 @@ image: assets/20250906T014954435--OpenPipe--ART--20250906T015725712--cropped.png
 # [OpenPipe/ART](https://github.com/OpenPipe/ART)
 
 open-source RL framework for training LLM agents on real-world tasks
+
+在真实任务上训练 LLM 智能体的开源强化学习框架

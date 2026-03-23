@@ -7,3 +7,5 @@ image: assets/20250826T024128703--goniszewski--grimoire--20250826T024510773--cro
 # [goniszewski/grimoire](https://github.com/goniszewski/grimoire)
 
 bookmark manager for organizing and tagging links
+
+书签管理器，整理和标记链接

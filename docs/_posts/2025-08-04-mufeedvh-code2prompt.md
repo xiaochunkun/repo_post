@@ -7,3 +7,5 @@ image: assets/mufeedvh_code2prompt_cropped.png
 # [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)
 
 turn your codebase into smart LLM prompts
+
+将代码库转换为智能LLM提示词

@@ -7,3 +7,5 @@ image: assets/20250825T024312169--input-leap--input-leap--20250825T025202714--cr
 # [input-leap/input-leap](https://github.com/input-leap/input-leap)
 
 share keyboard and mouse across computers
+
+多台电脑间共享键盘和鼠标

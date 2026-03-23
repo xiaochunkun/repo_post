@@ -7,3 +7,5 @@ image: assets/appwrite_pink_20260116_155243_070_20260116_155259_46d28b.png
 # [appwrite/pink](https://github.com/appwrite/pink)
 
 Design system for user interfaces
+
+用户界面的设计系统

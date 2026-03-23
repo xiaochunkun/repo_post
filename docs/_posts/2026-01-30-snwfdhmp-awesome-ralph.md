@@ -7,3 +7,5 @@ image: assets/snwfdhmp_awesome_ralph_20260130_014328_402_20260130_014418_c981a0.
 # [snwfdhmp/awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)
 
 Automates AI coding agents in loops until specifications are met
+
+在循环中自动化AI编码代理，直到满足规范

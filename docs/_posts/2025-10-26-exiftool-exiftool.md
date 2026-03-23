@@ -7,3 +7,5 @@ image: assets/exiftool_exiftool_20251025_044932_378_20251025_085313_6d1089--2025
 # [exiftool/exiftool](https://github.com/exiftool/exiftool/)
 
 Command-line tool for reading and writing file metadata
+
+读写文件元数据的命令行工具

@@ -7,3 +7,5 @@ image: assets/insidegui_VirtualBuddy_20260204_032942_335_20260204_032958_392642.
 # [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy)
 
 Virtualizes macOS on Apple Silicon
+
+在Apple Silicon上虚拟化macOS

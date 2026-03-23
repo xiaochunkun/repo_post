@@ -7,3 +7,5 @@ image: assets/joshuay03_dial_20251111_040017_031_20251111_145956_eee26b--2025111
 # [joshuay03/dial](https://github.com/joshuay03/dial/)
 
 A Rails profiler with N+1 query detection
+
+具有N+1查询检测功能的Rails性能分析器

@@ -7,3 +7,5 @@ image: assets/mifi_lossless_cut_20251017_224312_235_20251017_224623--20251018T00
 # [mifi/lossless-cut](https://github.com/mifi/lossless-cut/)
 
 lossless video and audio editing tool
+
+无损视频和音频编辑工具

@@ -7,3 +7,5 @@ image: assets/netz_sg_pantry_20260131_165031_679_20260131_165111_07a3f8.png
 # [netz-sg/pantry](https://github.com/netz-sg/pantry)
 
 Self-hosted kitchen manager with Docker deployment
+
+使用 Docker 部署的自托管厨房管理器

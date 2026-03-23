@@ -7,3 +7,5 @@ image: assets/volfpeter_holm_20251023_002406_624_20251023_221246_0fb831--2025102
 # [volfpeter/holm](https://github.com/volfpeter/holm/)
 
 A Next.js-like web framework for Python
+
+类似Next.js的Python Web框架

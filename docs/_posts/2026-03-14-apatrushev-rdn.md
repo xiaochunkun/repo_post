@@ -7,3 +7,5 @@ image: assets/apatrushev_rdn_20260313_124856_855_20260313_125132_acb466.png
 # [apatrushev/rdn](https://github.com/apatrushev/rdn)
 
 Rust terminal file manager with DOS theme
+
+采用DOS主题的Rust终端文件管理器

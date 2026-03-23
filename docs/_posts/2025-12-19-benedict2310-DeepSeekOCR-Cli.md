@@ -7,3 +7,5 @@ image: assets/benedict2310_DeepSeekOCR_Cli_20251217_233223_440_20251217_233239_3
 # [benedict2310/DeepSeekOCR-Cli](https://github.com/benedict2310/DeepSeekOCR-Cli/)
 
 OCR and hybrid search on Apple Silicon
+
+在 Apple Silicon 上进行 OCR 和混合搜索

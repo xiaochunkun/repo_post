@@ -7,3 +7,5 @@ image: assets/20250822T024352797--coleam00--Archon--20250822T024916482--cropped.
 # [coleam00/Archon](https://github.com/coleam00/Archon)
 
 AI coding assistants command center with docs, tasks, and smart search
+
+AI 编码助手命令中心，集成文档、任务和智能搜索

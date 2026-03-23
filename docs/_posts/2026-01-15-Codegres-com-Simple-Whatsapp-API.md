@@ -7,3 +7,5 @@ image: assets/Codegres_com_Simple_Whatsapp_API_20260115_083814_890_20260115_0838
 # [Codegres-com/Simple-Whatsapp-API](https://github.com/Codegres-com/Simple-Whatsapp-API)
 
 API for multi-session WhatsApp messaging via QR login
+
+通过 QR 登录实现多会话 WhatsApp 消息的 API

@@ -7,3 +7,5 @@ image: assets/NginxProxyManager_nginx_proxy_manager_20260203_073042_568_20260203
 # [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
 Reverse proxy with SSL termination
+
+支持SSL终止的反向代理

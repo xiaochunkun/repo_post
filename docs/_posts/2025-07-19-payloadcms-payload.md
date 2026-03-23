@@ -7,3 +7,5 @@ image: assets/payloadcms_payload_cropped.png
 # [payloadcms/payload](https://github.com/payloadcms/payload)
 
 open source Next.js CMS with instant backend and admin panel
+
+开源Next.js CMS，带即时后端和管理面板

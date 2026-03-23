@@ -7,3 +7,5 @@ image: assets/netbox_community_netbox_topology_views_20251123_204954_421_2025112
 # [netbox-community/netbox-topology-views](https://github.com/netbox-community/netbox-topology-views/)
 
 Draws topology maps from NetBox devices
+
+从 NetBox 设备绘制拓扑图

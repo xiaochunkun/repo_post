@@ -7,3 +7,5 @@ image: assets/20250826T024002770--lollipopkit--flutter_server_box--20250826T0244
 # [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box)
 
 charts for server status on mobile
+
+移动端服务器状态图表监控

@@ -7,3 +7,5 @@ image: assets/yaolifeng0629_PickPic_20251217_085251_090_20251217_085430_277e95.p
 # [yaolifeng0629/PickPic](https://github.com/yaolifeng0629/PickPic/)
 
 One-click image and video downloader for any webpage
+
+一键下载任何网页的图像和视频

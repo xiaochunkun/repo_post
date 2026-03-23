@@ -7,3 +7,5 @@ image: assets/catppuccin_cursors_20251110_140623_081_20251110_144227_78a3b2--202
 # [catppuccin/cursors](https://github.com/catppuccin/cursors/)
 
 Cursor theme with Catppuccin color variations
+
+Catppuccin配色方案的鼠标主题

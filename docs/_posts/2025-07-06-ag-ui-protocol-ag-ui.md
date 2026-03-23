@@ -7,3 +7,5 @@ image: assets/ag-ui-protocol_ag-ui_cropped.png
 # [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 
 event protocol for connecting AI agents to front-end apps with real-time event streams and simple integration
+
+用于通过实时事件流和简单集成将 AI 代理连接到前端应用的事件协议

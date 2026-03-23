@@ -7,3 +7,5 @@ image: assets/hauxir_androidtv_live_screensaver_20251228_220046_944_20251228_220
 # [hauxir/androidtv-live-screensaver](https://github.com/hauxir/androidtv-live-screensaver/)
 
 Live video streams as screensavers
+
+将实时视频流作为屏保

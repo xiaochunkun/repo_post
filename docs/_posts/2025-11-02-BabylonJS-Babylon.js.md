@@ -7,3 +7,5 @@ image: assets/BabylonJS_Babylon_js_20251031_082515_577_20251101_211123_811ae2--2
 # [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js/)
 
 3D rendering engine for web browsers
+
+用于网页浏览器的 3D 渲染引擎

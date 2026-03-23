@@ -7,3 +7,5 @@ image: assets/Ironclad_rivet_20260305_025949_208_20260305_030124_ffe6f6.png
 # [Ironclad/rivet](https://github.com/Ironclad/rivet)
 
 IDE for creation of AI agents and prompt chaining
+
+创建 AI 代理和提示链的 IDE

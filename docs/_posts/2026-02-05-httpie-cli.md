@@ -7,3 +7,5 @@ image: assets/httpie_cli_20260203_191114_249_20260203_191213_af5eed.png
 # [httpie/cli](https://github.com/httpie/cli)
 
 Command-line client for interaction with APIs
+
+用于与API交互的命令行客户端

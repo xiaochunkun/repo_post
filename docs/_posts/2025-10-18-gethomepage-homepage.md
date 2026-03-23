@@ -7,3 +7,5 @@ image: assets/gethomepage_homepage_20251018_044156_143_20251018_044326--20251018
 # [gethomepage/homepage](https://github.com/gethomepage/homepage/)
 
 Customizable dashboard with integrations for services and translations
+
+可自定义的仪表板，支持服务和翻译集成

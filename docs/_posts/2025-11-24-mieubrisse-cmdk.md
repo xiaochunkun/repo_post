@@ -7,3 +7,5 @@ image: assets/mieubrisse_cmdk_20251123_094549_935_20251124_002503_8a3a9d--202511
 # [mieubrisse/cmdk](https://github.com/mieubrisse/cmdk/)
 
 Command-K filesystem navigation with previews
+
+带预览的 Command-K 文件系统导航

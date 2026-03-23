@@ -7,3 +7,5 @@ image: assets/eriklindernoren_ML-From-Scratch--20250908T193704457--cropped.png
 # [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 NumPy-based machine learning algorithms built from scratch for learning and transparency
+
+基于 NumPy 从零实现的机器学习算法，适合学习和理解原理

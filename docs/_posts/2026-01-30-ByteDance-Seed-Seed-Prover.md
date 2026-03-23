@@ -7,3 +7,5 @@ image: assets/ByteDance_Seed_Seed_Prover_20260129_224724_355_20260129_224805_a04
 # [ByteDance-Seed/Seed-Prover](https://github.com/ByteDance-Seed/Seed-Prover)
 
 Solves math problems with formal proofs
+
+通过形式证明解决数学问题

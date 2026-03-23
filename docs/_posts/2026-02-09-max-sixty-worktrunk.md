@@ -7,3 +7,5 @@ image: assets/max_sixty_worktrunk_20260202_223805_555_20260202_223842_39abd3.png
 # [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 
 Manages git worktrees for parallel AI agents
+
+管理git worktrees以支持并行AI代理

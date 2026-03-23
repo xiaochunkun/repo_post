@@ -7,3 +7,5 @@ image: assets/percona_pmm_20260101_034902_049_20260101_034917_06c0d2.png
 # [percona/pmm](https://github.com/percona/pmm/)
 
 Monitors performance of database environments
+
+监控数据库环境性能

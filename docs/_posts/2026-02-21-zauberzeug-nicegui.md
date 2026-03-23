@@ -7,3 +7,5 @@ image: assets/zauberzeug_nicegui_20260216_190604_027_20260216_190653_e10736.png
 # [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
 Python framework for web interfaces
+
+用于Web界面的Python框架

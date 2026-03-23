@@ -7,3 +7,5 @@ image: assets/superdoc_dev_superdoc_20260221_131702_395_20260221_131725_bbd10d.p
 # [superdoc-dev/superdoc](https://github.com/superdoc-dev/superdoc)
 
 Edits DOCX files in browsers and agentic workflows
+
+在浏览器和代理工作流中编辑DOCX文件

@@ -7,3 +7,5 @@ image: assets/20250922T173505504--mmulet--term.everything--20250923T012506273--c
 # [mmulet/term.everything](https://github.com/mmulet/term.everything)
 
 run GUI apps inside your terminal, even over ssh
+
+在终端内运行 GUI 应用，甚至通过 SSH

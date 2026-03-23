@@ -7,3 +7,5 @@ image: assets/Agenta_AI_agenta_20260108_043025_486_20260108_043039_8dd009.png
 # [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
 
 Platform for prompt management and evaluation
+
+用于提示管理和评估的平台

@@ -7,3 +7,5 @@ image: assets/MaxMiksa_Auto_Company_20260217_142904_322_20260217_142921_776b6e.p
 # [MaxMiksa/Auto-Company](https://github.com/MaxMiksa/Auto-Company)
 
 Autonomous agents ideate and deploy products 24/7
+
+自主代理全天候构思和部署产品

@@ -7,3 +7,5 @@ image: assets/murtaza-nasir_pdf3md--20250816T043648023--cropped.png
 # [murtaza-nasir/pdf3md](https://github.com/murtaza-nasir/pdf3md)
 
 convert PDFs to markdown or Word with a web app
+
+使用Web应用将PDF转换为Markdown或Word

@@ -7,3 +7,5 @@ image: assets/20250924T061202093--netless-io--flat--20250924T061856724--cropped.
 # [netless-io/flat](https://github.com/netless-io/flat)
 
 Open source interactive classroom with whiteboard, video chat, recording, and screen sharing
+
+开源互动教室，具备白板、视频聊天、录制和屏幕共享功能

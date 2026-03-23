@@ -7,3 +7,5 @@ image: assets/ItsRiprod_DeskThing_20251125_054217_100_20251127_170929_9e260c--20
 # [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing/)
 
 Alternative OS for Spotify Car Thing
+
+Spotify Car Thing 的替代操作系统

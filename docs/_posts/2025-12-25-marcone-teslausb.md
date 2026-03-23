@@ -7,3 +7,5 @@ image: assets/marcone_teslausb_20251224_154004_494_20251224_154029_b3e433.png
 # [marcone/teslausb](https://github.com/marcone/teslausb/)
 
 Backs up dashcam footage to a server via a Raspberry Pi
+
+通过 Raspberry Pi 将行车记录仪录像备份到服务器

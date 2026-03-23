@@ -7,3 +7,5 @@ image: assets/tripleyak_SkillForge_20260112_114710_849_20260112_114726_ab5f97.pn
 # [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge)
 
 Framework for engineering Claude Code skills
+
+工程化Claude Code技能的框架

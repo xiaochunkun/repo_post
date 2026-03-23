@@ -7,3 +7,5 @@ image: assets/quickemu_project_quickemu_20260128_234939_734_20260128_235017_7161
 # [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
 
 Creates virtual machines for desktop operating systems
+
+为桌面操作系统创建虚拟机

@@ -7,3 +7,5 @@ image: assets/FluxpointDev_CloudFrost_Dev_20260131_134939_710_20260131_135015_eb
 # [FluxpointDev/CloudFrost-Dev](https://github.com/FluxpointDev/CloudFrost-Dev)
 
 Dashboard for server management and developer tools
+
+服务器管理和开发者工具的仪表板

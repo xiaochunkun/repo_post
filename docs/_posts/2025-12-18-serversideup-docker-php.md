@@ -7,3 +7,5 @@ image: assets/serversideup_docker_php_20251217_191509_493_20251217_191531_70e93e
 # [serversideup/docker-php](https://github.com/serversideup/docker-php/)
 
 Production-ready PHP Docker images
+
+生产就绪的 PHP Docker 镜像

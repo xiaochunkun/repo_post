@@ -7,3 +7,5 @@ image: assets/GAIR_NLP_LiveTalk_20260113_090412_323_20260113_090434_0389a2.png
 # [GAIR-NLP/LiveTalk](https://github.com/GAIR-NLP/LiveTalk)
 
 Generates interactive avatar videos in real-time
+
+实时生成交互式虚拟形象视频

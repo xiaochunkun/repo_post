@@ -7,3 +7,5 @@ image: assets/rerun_io_sam3d_body_rerun_20251225_034550_076_20251225_034613_e95c
 # [rerun-io/sam3d-body-rerun](https://github.com/rerun-io/sam3d-body-rerun/)
 
 Visualizes body masks in 3D
+
+在 3D 中可视化身体遮罩

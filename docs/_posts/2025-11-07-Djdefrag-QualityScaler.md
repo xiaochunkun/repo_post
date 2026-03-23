@@ -7,3 +7,5 @@ image: assets/Djdefrag_QualityScaler_20251106_222006_462_20251106_223823_1d56db-
 # [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler/)
 
 AI app to enhance, upscale and de-noise images and videos
+
+增强、放大和去噪图像视频的AI应用

@@ -7,3 +7,5 @@ image: assets/gajus_table_20251229_073301_469_20251229_073318_7a032b.png
 # [gajus/table](https://github.com/gajus/table/)
 
 Formats array data into text tables
+
+将数组数据格式化为文本表格

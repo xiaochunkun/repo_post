@@ -7,3 +7,5 @@ image: assets/20251005T002545779--EnableSecurity--wafw00f--20251005T003124712--c
 # [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)
 
 detects web application firewalls and identifies their vendors
+
+检测Web应用防火墙并识别其供应商

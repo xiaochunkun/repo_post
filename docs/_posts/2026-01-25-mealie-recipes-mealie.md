@@ -7,3 +7,5 @@ image: assets/mealie_recipes_mealie_20260122_075921_773_20260122_075936_5202e4.p
 # [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
 
 Self-hosted recipe manager with meal planner and shopping list
+
+自托管食谱管理器，含膳食计划和购物清单

@@ -7,3 +7,5 @@ image: assets/FranklyRocks_OnlyHuman_20251123_130033_413_20251124_003335_7a4b30-
 # [FranklyRocks/OnlyHuman](https://github.com/FranklyRocks/OnlyHuman/)
 
 uBlock Origin filter list for AI content farms
+
+AI 内容农场的 uBlock Origin 过滤器列表

@@ -7,3 +7,5 @@ image: assets/20251009T195115734--formulajs--formulajs--20251009T200313142--crop
 # [formulajs/formulajs](https://github.com/formulajs/formulajs)
 
 Excel-like formulas in JavaScript for browser, Node, or CLI
+
+适用于浏览器、Node 或 CLI 的类 Excel 公式 JavaScript 库

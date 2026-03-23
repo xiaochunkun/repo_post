@@ -7,3 +7,5 @@ image: assets/iorate_ublacklist_20251203_010436_092_20251203_010508_acad5e.png
 # [iorate/ublacklist](https://github.com/iorate/ublacklist/)
 
 Blocks specific sites from Google search results
+
+从Google搜索结果中屏蔽特定网站

@@ -7,3 +7,5 @@ image: assets/bvaisvil_zenith_20251123_175708_907_20251124_095547_54eefc--202511
 # [bvaisvil/zenith](https://github.com/bvaisvil/zenith/)
 
 Terminal system monitor with zoomable charts
+
+带可缩放图表的终端系统监视器

@@ -7,3 +7,5 @@ image: assets/20250905T030337505--jorgef--engineeringladders--20250905T032447236
 # [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders)
 
 engineering career ladders framework for devs, leads, managers
+
+面向开发者、技术负责人和管理者的工程师职级框架

@@ -7,3 +7,5 @@ image: assets/20250908T064940985--karpathy--llm.c--20250908T093629862--cropped.p
 # [karpathy/llm.c](https://github.com/karpathy/llm.c)
 
 LLM training in C and CUDA, minimal dependencies
+
+用 C 和 CUDA 训练 LLM，依赖极少

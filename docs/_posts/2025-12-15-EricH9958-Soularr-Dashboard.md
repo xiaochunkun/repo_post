@@ -7,3 +7,5 @@ image: assets/EricH9958_Soularr_Dashboard_20251213_095357_153_20251213_095423_ef
 # [EricH9958/Soularr-Dashboard](https://github.com/EricH9958/Soularr-Dashboard/)
 
 Connects Lidarr with Soulseek for downloads
+
+将 Lidarr 与 Soulseek 连接以下载

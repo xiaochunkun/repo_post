@@ -7,3 +7,5 @@ image: assets/20250818T115224523_usewaypoint_email-builder-js--20250818T11562455
 # [usewaypoint/email-builder-js](https://github.com/usewaypoint/email-builder-js)
 
 open source tool for building email templates fast, outputs JSON or HTML
+
+快速构建电子邮件模板的开源工具，输出 JSON 或 HTML

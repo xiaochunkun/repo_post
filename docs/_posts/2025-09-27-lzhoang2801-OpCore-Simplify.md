@@ -7,3 +7,5 @@ image: assets/20250927T040738347--lzhoang2801--OpCore-Simplify--20250927T0417410
 # [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
 
 automates OpenCore EFI setup for Hackintosh builds using your hardware details
+
+根据硬件详情自动化OpenCore EFI设置，用于Hackintosh构建

@@ -7,3 +7,5 @@ image: assets/pardeike_Harmony_20251208_235755_759_20251208_235837_2d338c.png
 # [pardeike/Harmony](https://github.com/pardeike/Harmony/)
 
 Patches .NET and Mono methods during runtime
+
+在运行时修补.NET和Mono方法

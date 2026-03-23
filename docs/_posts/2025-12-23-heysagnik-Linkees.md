@@ -7,3 +7,5 @@ image: assets/heysagnik_Linkees_20251222_073833_779_20251222_073850_98a46c.png
 # [heysagnik/Linkees](https://github.com/heysagnik/Linkees/)
 
 React app for social link display
+
+用于展示社交链接的 React 应用

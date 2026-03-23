@@ -7,3 +7,5 @@ image: assets/drawpile_Drawpile_20251214_224330_088_20251214_224401_f93deb.png
 # [drawpile/Drawpile](https://github.com/drawpile/Drawpile/)
 
 Collaborative drawing program for multiple platforms
+
+多平台协作绘图程序

@@ -7,3 +7,5 @@ image: assets/dailenson_One_DM_20260223_182120_106_20260223_182147_e742a5.png
 # [dailenson/One-DM](https://github.com/dailenson/One-DM)
 
 Mimics handwriting from a single sample
+
+从单个样本模仿手写

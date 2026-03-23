@@ -7,3 +7,5 @@ image: assets/tim-smart_effect-mcp_cropped.png
 # [tim-smart/effect-mcp](https://github.com/tim-smart/effect-mcp)
 
 tools for accessing Effect documentation via server or Docker
+
+通过服务器或 Docker 访问 Effect 文档的工具

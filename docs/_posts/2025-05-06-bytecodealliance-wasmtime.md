@@ -7,3 +7,5 @@ image: assets/bytecodealliance_wasmtime_cropped.png
 # [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
 
 Lightweight WebAssembly runtime with JIT compilation capabilities
+
+具有 JIT 编译功能的轻量级 WebAssembly 运行时

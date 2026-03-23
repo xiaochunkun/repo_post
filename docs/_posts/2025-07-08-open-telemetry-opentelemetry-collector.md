@@ -7,3 +7,5 @@ image: assets/open-telemetry_opentelemetry-collector_cropped.png
 # [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
 
 collects, processes, and exports telemetry data for observability
+
+收集、处理和导出遥测数据以实现可观测性

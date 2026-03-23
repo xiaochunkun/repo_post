@@ -7,3 +7,5 @@ image: assets/urbanadventurer_WhatWeb_20251218_070716_046_20251218_070732_93987b
 # [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb/)
 
 Identifies technologies powering websites
+
+识别网站使用的技术栈

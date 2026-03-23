@@ -7,3 +7,5 @@ image: assets/SnapDrop_snapdrop_cropped.png
 # [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop)
 
 airdrop-style file sharing in your browser
+
+浏览器中的AirDrop风格文件共享

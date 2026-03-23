@@ -7,3 +7,5 @@ image: assets/tinygrad_tinygrad_20260321_114622_695_20260321_114652_a86b09.png
 # [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)
 
 Tiny hackable deep learning stack
+
+小巧可定制的深度学习框架

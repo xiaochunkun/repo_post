@@ -7,3 +7,5 @@ image: assets/cpeditor_cpeditor_20260111_085429_536_20260111_085445_8d4ac1.png
 # [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor)
 
 Fetches, compiles, and submits competitive programming solutions
+
+获取、编译和提交竞争性编程解决方案

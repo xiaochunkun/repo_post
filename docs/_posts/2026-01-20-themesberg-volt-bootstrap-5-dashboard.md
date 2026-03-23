@@ -7,3 +7,5 @@ image: assets/themesberg_volt_bootstrap_5_dashboard_20260120_001054_877_20260120
 # [themesberg/volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard)
 
 Bootstrap 5 dashboard without jQuery
+
+无jQuery的Bootstrap 5仪表板

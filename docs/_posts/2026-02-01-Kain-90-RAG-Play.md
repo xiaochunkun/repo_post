@@ -7,3 +7,5 @@ image: assets/Kain_90_RAG_Play_20260130_143240_195_20260130_143315_967c0f.png
 # [Kain-90/RAG-Play](https://github.com/Kain-90/RAG-Play)
 
 Visualizes RAG pipeline steps in real-time
+
+实时可视化 RAG 管道步骤

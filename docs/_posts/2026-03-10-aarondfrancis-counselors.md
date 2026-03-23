@@ -7,3 +7,5 @@ image: assets/aarondfrancis_counselors_20260214_011636_402_20260214_011727_77829
 # [aarondfrancis/counselors](https://github.com/aarondfrancis/counselors)
 
 Dispatches prompts to multiple coding agents in parallel
+
+并行分发提示给多个编码代理

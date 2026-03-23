@@ -7,3 +7,5 @@ image: assets/emylfy_simplify11_20260314_220047_633_20260314_220144_b747ed.png
 # [emylfy/simplify11](https://github.com/emylfy/simplify11)
 
 Windows 11 install automation in one script
+
+一键脚本自动化安装 Windows 11

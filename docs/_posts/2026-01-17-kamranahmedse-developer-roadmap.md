@@ -7,3 +7,5 @@ image: assets/kamranahmedse_developer_roadmap_20260116_104759_199_20260116_10481
 # [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 Interactive roadmaps for developer career paths
+
+开发者职业路径的交互式路线图

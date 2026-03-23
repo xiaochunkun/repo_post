@@ -7,3 +7,5 @@ image: assets/20251009T050518913--freddyaboulton--orpheus-cpp--20251009T05063971
 # [freddyaboulton/orpheus-cpp](https://github.com/freddyaboulton/orpheus-cpp)
 
 fast local text-to-speech using llama.cpp, works on CPU
+
+使用 llama.cpp 在 CPU 上运行的快速本地文本转语音工具

@@ -7,3 +7,5 @@ image: assets/20251010T212212009--huggingface--lerobot--20251010T212909077--crop
 # [huggingface/lerobot](https://github.com/huggingface/lerobot)
 
 open-source robotics platform with pretrained models, datasets, and tools for real-world robot learning
+
+开源机器人平台，提供预训练模型、数据集和工具，用于真实世界机器人学习

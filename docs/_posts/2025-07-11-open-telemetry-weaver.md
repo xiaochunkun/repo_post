@@ -7,3 +7,5 @@ image: assets/open-telemetry_weaver_cropped.png
 # [open-telemetry/weaver](https://github.com/open-telemetry/weaver)
 
 manage and automate telemetry schemas with OpenTelemetry Weaver
+
+使用 OpenTelemetry Weaver 管理和自动化遥测模式

@@ -7,3 +7,5 @@ image: assets/MiniMax_AI_Mini_Agent_20260227_144218_086_20260227_144330_a8a23a.p
 # [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)
 
 Agent with interleaved thinking and MCP integration
+
+具有交错思考和 MCP 集成的代理

@@ -7,3 +7,5 @@ image: assets/0xInfection_Awesome_WAF_20251222_143233_023_20251222_143249_a566bb
 # [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF/)
 
 Resources for web application firewalls from a security perspective
+
+从安全角度整理的Web应用防火墙资源

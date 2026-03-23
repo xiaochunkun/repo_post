@@ -7,3 +7,5 @@ image: assets/fingerthief_minimal_chat_20251223_025555_709_20251223_025614_64af2
 # [fingerthief/minimal-chat](https://github.com/fingerthief/minimal-chat/)
 
 Chat interface for large language models with local hosting support
+
+支持本地托管的大语言模型聊天界面

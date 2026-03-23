@@ -7,3 +7,5 @@ image: assets/hahwul_WebHackersWeapons_20251120_071217_012_20251121_055115_80372
 # [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons/)
 
 Collection of web hacking tools
+
+Web 黑客工具集合

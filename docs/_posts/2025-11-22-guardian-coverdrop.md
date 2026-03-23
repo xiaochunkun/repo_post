@@ -7,3 +7,5 @@ image: assets/guardian_coverdrop_20251122_074253_325_20251122_111318_6300b9--202
 # [guardian/coverdrop](https://github.com/guardian/coverdrop/)
 
 Hides messages in news apps
+
+在新闻应用中隐藏消息

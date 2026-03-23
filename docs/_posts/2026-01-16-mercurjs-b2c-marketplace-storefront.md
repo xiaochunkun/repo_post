@@ -7,3 +7,5 @@ image: assets/mercurjs_b2c_marketplace_storefront_20260115_152922_189_20260115_1
 # [mercurjs/b2c-marketplace-storefront](https://github.com/mercurjs/b2c-marketplace-storefront)
 
 Storefront for multi-vendor marketplaces
+
+多供应商市场的店面

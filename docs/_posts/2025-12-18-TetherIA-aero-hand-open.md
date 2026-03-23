@@ -7,3 +7,5 @@ image: assets/TetherIA_aero_hand_open_20251217_102215_024_20251217_102339_37c2f2
 # [TetherIA/aero-hand-open](https://github.com/TetherIA/aero-hand-open/)
 
 Open-source tendon-driven robotic hand
+
+开源腱驱动机械手

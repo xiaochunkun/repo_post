@@ -7,3 +7,5 @@ image: assets/stefanpejcic_OpenPanel--20250812T235535--cropped.png
 # [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel)
 
 web hosting control panel with per-user isolation and OpenAdmin
+
+支持每用户隔离和 OpenAdmin 的 Web 托管控制面板

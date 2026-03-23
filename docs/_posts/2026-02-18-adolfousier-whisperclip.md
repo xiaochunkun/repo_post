@@ -7,3 +7,5 @@ image: assets/adolfousier_whisperclip_20260218_014345_446_20260218_014432_475583
 # [adolfousier/whisperclip](https://github.com/adolfousier/whisperclip)
 
 Transcribes voice to clipboard on Linux
+
+在 Linux 上将语音转录到剪贴板

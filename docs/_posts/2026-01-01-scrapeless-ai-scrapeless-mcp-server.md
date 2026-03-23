@@ -7,3 +7,5 @@ image: assets/scrapeless_ai_scrapeless_mcp_server_20260101_020347_707_20260101_0
 # [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server/)
 
 Connects LLMs to the web via MCP
+
+通过MCP将LLM连接到网络

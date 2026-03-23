@@ -7,3 +7,5 @@ image: assets/nostr_protocol_nostr_20251203_010329_315_20251203_010359_8ca427.pn
 # [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr/)
 
 Censorship-resistant protocol for global social networks
+
+抗审查的全球社交网络协议

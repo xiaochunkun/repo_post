@@ -7,3 +7,5 @@ image: assets/aws_neuron_aws_neuron_sdk_20251208_230046_273_20251208_230110_0a0d
 # [aws-neuron/aws-neuron-sdk](https://github.com/aws-neuron/aws-neuron-sdk/)
 
 SDK for deep learning on AWS Inferentia and Trainium chips
+
+用于AWS Inferentia和Trainium芯片深度学习的SDK

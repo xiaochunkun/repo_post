@@ -7,3 +7,5 @@ image: assets/pbek_QOwnNotes_20260305_143920_972_20260305_144034_156507.png
 # [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes)
 
 Notepad and manager for lists with integration for Nextcloud and ownCloud
+
+集成Nextcloud和ownCloud的记事本和列表管理器

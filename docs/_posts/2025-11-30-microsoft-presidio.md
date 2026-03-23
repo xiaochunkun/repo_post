@@ -7,3 +7,5 @@ image: assets/microsoft_presidio_20251127_180441_757_20251130_040836_885007--202
 # [microsoft/presidio](https://github.com/microsoft/presidio/)
 
 Context-aware PII de-identification for text and images
+
+针对文本和图像的上下文感知 PII 去标识化

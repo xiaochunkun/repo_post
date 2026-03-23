@@ -7,3 +7,5 @@ image: assets/giovantenne_CG2_T1D_20260113_181712_397_20260113_181726_8ca51c.png
 # [giovantenne/CG2-T1D](https://github.com/giovantenne/CG2-T1D)
 
 WiFi monitor for glucose levels
+
+血糖水平的 WiFi 监测器

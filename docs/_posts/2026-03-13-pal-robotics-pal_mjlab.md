@@ -7,3 +7,5 @@ image: assets/pal_robotics_pal_mjlab_20260308_182711_579_20260308_182843_295a6d.
 # [pal-robotics/pal_mjlab](https://github.com/pal-robotics/pal_mjlab)
 
 Robot implementations in MuJoCo Warp for locomotion and motion imitation
+
+在MuJoCo Warp中实现机器人运动与动作模仿

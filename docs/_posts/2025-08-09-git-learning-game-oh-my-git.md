@@ -7,3 +7,5 @@ image: assets/git-learning-game_oh-my-git_cropped.png
 # [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git)
 
 open source game for learning git basics
+
+开源游戏，用于学习 Git 基础知识

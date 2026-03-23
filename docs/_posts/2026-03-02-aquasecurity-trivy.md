@@ -7,3 +7,5 @@ image: assets/aquasecurity_trivy_20260228_014015_113_20260228_014207_ba235c.png
 # [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
 Scans containers and clouds for vulnerabilities
+
+扫描容器和云环境中的漏洞

@@ -7,3 +7,5 @@ image: assets/cohnen_mcp-google-ads_cropped.png
 # [cohnen/mcp-google-ads](https://github.com/cohnen/mcp-google-ads)
 
 connect Google Ads to Claude AI for chat-based ad analytics
+
+将Google Ads连接到Claude AI进行基于聊天的广告分析

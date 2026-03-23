@@ -7,3 +7,5 @@ image: assets/OpenCoworkAI_open_cowork_20260213_214514_432_20260213_214609_cc3cc
 # [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
 
 AI agent for desktop automation and file management
+
+用于桌面自动化和文件管理的 AI 代理

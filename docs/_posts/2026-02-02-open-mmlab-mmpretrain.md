@@ -7,3 +7,5 @@ image: assets/open_mmlab_mmpretrain_20260201_123816_632_20260201_123856_3682c0.p
 # [open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain)
 
 PyTorch toolbox for pre-training and inference tasks
+
+用于预训练和推理任务的PyTorch工具箱

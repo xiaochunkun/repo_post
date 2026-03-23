@@ -7,3 +7,5 @@ image: assets/xrip_tinycode_20260311_135954_906_20260311_140215_789d5e.png
 # [xrip/tinycode](https://github.com/xrip/tinycode)
 
 Self-writing AI coding assistant
+
+自我编写的AI编码助手

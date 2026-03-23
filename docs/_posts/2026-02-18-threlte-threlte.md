@@ -7,3 +7,5 @@ image: assets/threlte_threlte_20260212_163836_190_20260212_163918_9566f1.png
 # [threlte/threlte](https://github.com/threlte/threlte)
 
 Framework for 3D apps with Svelte
+
+使用 Svelte 的 3D 应用框架

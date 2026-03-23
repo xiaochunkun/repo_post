@@ -7,3 +7,5 @@ image: assets/MightyMoud_sidekick_20260210_023259_717_20260210_023327_0337d9.png
 # [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)
 
 Deploys Docker applications to a VPS
+
+将 Docker 应用部署到 VPS

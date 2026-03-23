@@ -7,3 +7,5 @@ image: assets/20251010T211800832--p1ngul1n0--blackbird--20251010T212600392--crop
 # [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird)
 
 OSINT tool for username and email searches with AI-powered profiling and automated reports
+
+用于用户名和电子邮件搜索的 OSINT 工具，具有 AI 驱动的分析和自动化报告

@@ -7,3 +7,5 @@ image: assets/mmpneo_curses_20260122_054831_331_20260122_054847_fcffa6.png
 # [mmpneo/curses](https://github.com/mmpneo/curses)
 
 Speech to text captions for OBS and VRChat
+
+为 OBS 和 VRChat 提供语音转文本字幕

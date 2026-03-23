@@ -7,3 +7,5 @@ image: assets/ZetloStudio_ZeQLplus_cropped.png
 # [ZetloStudio/ZeQLplus](https://github.com/ZetloStudio/ZeQLplus)
 
 terminal SQLite database browser
+
+终端SQLite数据库浏览器

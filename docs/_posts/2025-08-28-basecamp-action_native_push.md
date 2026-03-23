@@ -7,3 +7,5 @@ image: assets/20250827T221027122--basecamp--action_native_push--20250827T2214359
 # [basecamp/action_native_push](https://github.com/basecamp/action_native_push)
 
 Rails gem for native push notifications to iOS and Android
+
+Rails Gem，向 iOS 和 Android 发送原生推送通知

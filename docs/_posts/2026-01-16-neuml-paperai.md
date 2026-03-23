@@ -7,3 +7,5 @@ image: assets/neuml_paperai_20260116_045319_150_20260116_045332_717ad6.png
 # [neuml/paperai](https://github.com/neuml/paperai)
 
 Automates report generation from medical papers with LLMs
+
+使用 LLM 从医学论文自动生成报告

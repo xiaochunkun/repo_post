@@ -7,3 +7,5 @@ image: assets/opengeos_anymap_20251125_225643_870_20251127_171521_a6e65f--202511
 # [opengeos/anymap](https://github.com/opengeos/anymap/)
 
 Interactive maps with anywidget and JavaScript libraries
+
+使用anywidget和JavaScript库的交互式地图

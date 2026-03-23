@@ -7,3 +7,5 @@ image: assets/20250906T222810329--mack-a--v2ray-agent--20250906T223106575--cropp
 # [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)
 
 one-click script for proxy server setup and management
+
+一键脚本搭建和管理代理服务器

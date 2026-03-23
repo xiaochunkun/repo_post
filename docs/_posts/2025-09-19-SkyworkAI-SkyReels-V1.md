@@ -7,3 +7,5 @@ image: assets/20250915T232308505--SkyworkAI--SkyReels-V1--20250919T022011916--cr
 # [SkyworkAI/SkyReels-V1](https://github.com/SkyworkAI/SkyReels-V1)
 
 Turn images into cinematic videos with 33 facial expressions and 400+ motion combinations
+
+将图像转换为电影视频，支持33种面部表情和400多种动作组合

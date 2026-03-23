@@ -7,3 +7,5 @@ image: assets/papra_hq_owlrelay_20260318_022635_437_20260318_022716_bb2798.png
 # [papra-hq/owlrelay](https://github.com/papra-hq/owlrelay)
 
 Triggers webhooks via email
+
+通过电子邮件触发Webhooks

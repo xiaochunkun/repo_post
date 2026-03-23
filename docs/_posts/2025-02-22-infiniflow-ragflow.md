@@ -7,3 +7,5 @@ image: assets/infiniflow_ragflow_cropped.png
 # [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
 Open-source RAG engine for document understanding and LLM integration
+
+用于文档理解和LLM集成的开源RAG引擎

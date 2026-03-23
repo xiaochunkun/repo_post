@@ -7,3 +7,5 @@ image: assets/Helicone_helicone_cropped.png
 # [Helicone/helicone](https://github.com/Helicone/helicone)
 
 Open-source LLM observability platform
+
+开源 LLM 可观测性平台

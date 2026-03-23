@@ -7,3 +7,5 @@ image: assets/yo-WASSUP_Good-GYM_cropped.png
 # [yo-WASSUP/Good-GYM](https://github.com/yo-WASSUP/Good-GYM)
 
 code for gym management features, including registration, workouts, attendance
+
+健身房管理功能代码，包括注册、锻炼和考勤

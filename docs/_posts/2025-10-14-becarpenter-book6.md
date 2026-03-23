@@ -7,3 +7,5 @@ image: assets/20251014T014614696--becarpenter--book6--20251014T015330026--croppe
 # [becarpenter/book6](https://github.com/becarpenter/book6)
 
 collaborative IPv6 book for technical readers, always up to date
+
+面向技术读者的协作式 IPv6 书籍，持续更新

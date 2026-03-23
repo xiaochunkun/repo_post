@@ -7,3 +7,5 @@ image: assets/ElectronicCats_HunterCatNFC_20260104_163146_069_20260104_163202_27
 # [ElectronicCats/HunterCatNFC](https://github.com/ElectronicCats/HunterCatNFC/)
 
 Audits, reads, and emulates NFC cards
+
+审计、读取和模拟NFC卡

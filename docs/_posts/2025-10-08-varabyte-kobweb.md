@@ -7,3 +7,5 @@ image: assets/20251008T181132411--varabyte--kobweb--20251008T181927326--cropped.
 # [varabyte/kobweb](https://github.com/varabyte/kobweb)
 
 Kotlin framework for building web apps with Compose HTML and live reloading
+
+基于 Compose HTML 构建 Web 应用并支持实时重载的 Kotlin 框架

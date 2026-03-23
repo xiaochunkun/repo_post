@@ -7,3 +7,5 @@ image: assets/drudge_n8n_nodes_puppeteer_20251126_003004_764_20251128_213911_920
 # [drudge/n8n-nodes-puppeteer](https://github.com/drudge/n8n-nodes-puppeteer/)
 
 Browser automation node for n8n
+
+n8n的浏览器自动化节点

@@ -7,3 +7,5 @@ image: assets/ossu_computer_science_20260204_030929_980_20260204_030944_f91846.p
 # [ossu/computer-science](https://github.com/ossu/computer-science)
 
 Curriculum for computer science education
+
+计算机科学教育课程

@@ -7,3 +7,5 @@ image: assets/Effect-TS_effect_cropped.png
 # [Effect-TS/effect](https://github.com/Effect-TS/effect)
 
 TypeScript tools for handling async code, errors, streams, and concurrency
+
+用于处理异步代码、错误、流和并发的TypeScript工具

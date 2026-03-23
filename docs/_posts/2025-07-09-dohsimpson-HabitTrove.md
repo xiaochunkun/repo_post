@@ -7,3 +7,5 @@ image: assets/dohsimpson_HabitTrove_cropped.png
 # [dohsimpson/HabitTrove](https://github.com/dohsimpson/HabitTrove)
 
 gamified habit tracker with coins and rewards
+
+游戏化习惯追踪器，带有硬币和奖励

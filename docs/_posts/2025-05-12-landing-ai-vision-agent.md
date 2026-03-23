@@ -7,3 +7,5 @@ image: assets/landing-ai_vision-agent_cropped.png
 # [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent)
 
 Open-source computer vision tool that generates AI code from prompts
+
+开源计算机视觉工具，根据提示生成AI代码

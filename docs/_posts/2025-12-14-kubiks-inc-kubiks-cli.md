@@ -7,3 +7,5 @@ image: assets/kubiks_inc_kubiks_cli_20251210_055037_121_20251210_055114_78ffd9.p
 # [kubiks-inc/kubiks-cli](https://github.com/kubiks-inc/kubiks-cli/)
 
 Instruments Next.js apps to feed logs to Cursor
+
+Next.js 应用日志采集工具，用于 Cursor 分析

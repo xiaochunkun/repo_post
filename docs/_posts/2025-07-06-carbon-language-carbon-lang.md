@@ -7,3 +7,5 @@ image: assets/carbon-language_carbon-lang_cropped.png
 # [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
 
 experimental C++ successor language by Google for interoperability and migration
+
+Google 的实验性 C++ 后继语言，用于互操作性和迁移

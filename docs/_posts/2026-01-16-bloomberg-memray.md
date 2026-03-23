@@ -7,3 +7,5 @@ image: assets/bloomberg_memray_20260116_113421_231_20260116_113445_148d81.png
 # [bloomberg/memray](https://github.com/bloomberg/memray)
 
 Memory profiler for Python and native C/C++ extensions
+
+Python 和原生 C/C++ 扩展的内存分析器

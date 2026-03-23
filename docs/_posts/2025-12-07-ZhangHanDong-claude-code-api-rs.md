@@ -7,3 +7,5 @@ image: assets/ZhangHanDong_claude_code_api_rs_20251205_015713_562_20251205_01575
 # [ZhangHanDong/claude-code-api-rs](https://github.com/ZhangHanDong/claude-code-api-rs/)
 
 Rust OpenAI-compatible API gateway for Claude Code CLI
+
+用于Claude Code CLI的Rust OpenAI兼容API网关

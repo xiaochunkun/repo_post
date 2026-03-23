@@ -7,3 +7,5 @@ image: assets/EliasGcf_dashgo_20260119_023137_911_20260119_023156_f318fd.png
 # [EliasGcf/dashgo](https://github.com/EliasGcf/dashgo)
 
 Dashboard with Chakra UI and Next.js
+
+使用Chakra UI和Next.js的仪表板

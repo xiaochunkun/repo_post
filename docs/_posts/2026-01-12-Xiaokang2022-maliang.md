@@ -7,3 +7,5 @@ image: assets/Xiaokang2022_maliang_20260112_011525_712_20260112_011540_163f90.pn
 # [Xiaokang2022/maliang](https://github.com/Xiaokang2022/maliang)
 
 UI framework for tkinter with elements drawn on Canvas
+
+基于Canvas绘制的tkinter UI框架

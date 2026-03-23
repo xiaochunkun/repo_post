@@ -7,3 +7,5 @@ image: assets/dokku_dokku_cropped.png
 # [dokku/dokku](https://github.com/dokku/dokku)
 
 self-hosted git-push app deployment using Docker containers
+
+使用 Docker 容器的自托管 git-push 应用部署

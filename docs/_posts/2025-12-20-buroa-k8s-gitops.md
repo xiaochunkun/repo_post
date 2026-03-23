@@ -7,3 +7,5 @@ image: assets/buroa_k8s_gitops_20251218_100317_690_20251218_100334_b95e18.png
 # [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops/)
 
 Homelab managed with Flux and GitOps on Talos Linux
+
+在 Talos Linux 上使用 Flux 和 GitOps 管理的家庭实验室

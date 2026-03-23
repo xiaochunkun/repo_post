@@ -7,3 +7,5 @@ image: assets/sveinbjornt_Sloth_20251130_053859_046_20251130_084059_580811--2025
 # [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth/)
 
 GUI for lsof on macOS
+
+macOS上lsof的GUI界面

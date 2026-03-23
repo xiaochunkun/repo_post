@@ -7,3 +7,5 @@ image: assets/SoftwareBrothers_adminjs_cropped.png
 # [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
 
 admin panel generator for node.js apps
+
+Node.js应用的管理面板生成器

@@ -7,3 +7,5 @@ image: assets/nicbarker_clay_20260306_001006_933_20260306_001145_073694.png
 # [nicbarker/clay](https://github.com/nicbarker/clay)
 
 Build user interfaces in C
+
+用C语言构建用户界面

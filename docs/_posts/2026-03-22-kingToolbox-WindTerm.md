@@ -7,3 +7,5 @@ image: assets/kingToolbox_WindTerm_20260321_145001_503_20260321_145032_ad392e.pn
 # [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm)
 
 Cross-platform SSH and terminal client
+
+跨平台SSH和终端客户端

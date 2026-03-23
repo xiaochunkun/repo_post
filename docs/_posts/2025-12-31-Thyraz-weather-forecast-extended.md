@@ -7,3 +7,5 @@ image: assets/Thyraz_weather_forecast_extended_20251229_145651_966_20251229_1457
 # [Thyraz/weather-forecast-extended](https://github.com/Thyraz/weather-forecast-extended/)
 
 Home Assistant card with daily and hourly forecasts
+
+带每日和每小时预报的Home Assistant卡片

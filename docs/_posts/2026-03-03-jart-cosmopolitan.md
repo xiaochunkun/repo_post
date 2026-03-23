@@ -7,3 +7,5 @@ image: assets/jart_cosmopolitan_20260227_204132_118_20260227_204314_76f09d.png
 # [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
 
 Compiles C into polyglot binaries for multiple operating systems
+
+将 C 编译为多操作系统兼容的二进制文件

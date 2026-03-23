@@ -7,3 +7,5 @@ image: assets/zaproxy_zaproxy_20251114_230837_350_20251115_202136_3138c5--202511
 # [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy/)
 
 Web app scanner for automated and manual testing
+
+用于自动和手动测试的 Web 应用扫描器

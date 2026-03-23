@@ -7,3 +7,5 @@ image: assets/LubomirGeorgiev_cloudflare-workers-nextjs-saas-template_cropped.pn
 # [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template)
 
 Next.js SaaS starter with Cloudflare Workers, auth, DB, and email
+
+Next.js SaaS 启动模板，包含 Cloudflare Workers、认证、数据库和邮件

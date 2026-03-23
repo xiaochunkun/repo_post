@@ -7,3 +7,5 @@ image: assets/HKUDS_LightRAG_cropped.png
 # [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
 
 PyTorch library for building RAG pipelines
+
+构建RAG管道的PyTorch库

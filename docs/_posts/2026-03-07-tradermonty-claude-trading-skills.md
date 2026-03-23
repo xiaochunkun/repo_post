@@ -7,3 +7,5 @@ image: assets/tradermonty_claude_trading_skills_20260302_054602_492_20260302_054
 # [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
 
 Skills for systematic backtesting and market analysis
+
+系统化回测和市场分析技能

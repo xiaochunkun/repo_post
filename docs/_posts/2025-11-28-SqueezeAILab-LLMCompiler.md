@@ -7,3 +7,5 @@ image: assets/SqueezeAILab_LLMCompiler_20251125_060810_087_20251127_171120_99c96
 # [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler/)
 
 Orchestrates parallel function calling for LLMs
+
+编排LLM并行函数调用的工具

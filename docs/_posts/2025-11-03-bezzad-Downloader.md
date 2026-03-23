@@ -7,3 +7,5 @@ image: assets/bezzad_Downloader_20251031_085121_039_20251102_154626_e1a1b4--2025
 # [bezzad/Downloader](https://github.com/bezzad/Downloader/)
 
 Multipart downloader library for .NET with real-time progress events
+
+具有实时进度事件的 .NET 多部分下载器库

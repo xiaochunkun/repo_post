@@ -7,3 +7,5 @@ image: assets/showlab_ShowUI_20260202_213013_846_20260202_213055_7530f2.png
 # [showlab/ShowUI](https://github.com/showlab/ShowUI)
 
 Vision-Language-Action model for GUI agents
+
+用于 GUI 智能体的视觉-语言-动作模型

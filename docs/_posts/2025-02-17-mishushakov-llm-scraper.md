@@ -7,3 +7,5 @@ image: assets/mishushakov_llm-scraper_cropped.png
 # [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper)
 
 Turn webpages into structured data using LLMs
+
+使用 LLM 将网页转换为结构化数据

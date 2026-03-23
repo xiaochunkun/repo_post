@@ -7,3 +7,5 @@ image: assets/20250927T041103263--aingdesk--AingDesk--20250927T041838410--croppe
 # [aingdesk/AingDesk](https://github.com/aingdesk/AingDesk)
 
 AI assistant for local models, APIs, and knowledge base setup
+
+本地模型、API 和知识库设置的 AI 助手

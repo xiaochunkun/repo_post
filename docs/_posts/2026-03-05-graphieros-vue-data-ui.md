@@ -7,3 +7,5 @@ image: assets/graphieros_vue_data_ui_20260304_225315_404_20260304_225516_692b24.
 # [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui)
 
 Library of Vue components for data visualization
+
+数据可视化的 Vue 组件库

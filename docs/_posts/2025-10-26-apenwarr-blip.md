@@ -7,3 +7,5 @@ image: assets/apenwarr_blip_20251025_091340_895_20251025_102629_7d398a--20251025
 # [apenwarr/blip](https://github.com/apenwarr/blip/)
 
 Tool for seeing internet latency in a browser
+
+在浏览器中查看互联网延迟的工具

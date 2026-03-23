@@ -7,3 +7,5 @@ image: assets/trickest_wordlists_20260120_032110_207_20260120_032126_1404d1.png
 # [trickest/wordlists](https://github.com/trickest/wordlists)
 
 Wordlists for security testing updated from source code
+
+从源代码更新的安全测试用词表

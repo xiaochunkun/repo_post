@@ -7,3 +7,5 @@ image: assets/FiloSottile_mkcert_cropped.png
 # [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
 
 mkcert: make local development certificates and a local CA for your computer
+
+mkcert：为本地开发生成证书和本地CA

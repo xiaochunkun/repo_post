@@ -7,3 +7,5 @@ image: assets/apache_iceberg_cropped.png
 # [apache/iceberg](https://github.com/apache/iceberg)
 
 Table format for managing data in data lakes with SQL-like capabilities
+
+用于在数据湖中管理数据的表格式，支持类似SQL的功能

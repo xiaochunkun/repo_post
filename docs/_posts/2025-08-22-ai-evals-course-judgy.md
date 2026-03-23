@@ -7,3 +7,5 @@ image: assets/20250820T142515354--ai-evals-course--judgy--20250820T143459262--cr
 # [ai-evals-course/judgy](https://github.com/ai-evals-course/judgy)
 
 estimate LLM judge success rates in Python
+
+Python 工具，用于评估 LLM 评判器的成功率

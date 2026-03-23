@@ -7,3 +7,5 @@ image: assets/eastlondoner_mineflare_20251222_135429_281_20251222_135445_d06263.
 # [eastlondoner/mineflare](https://github.com/eastlondoner/mineflare/)
 
 Minecraft server on the edge with Cloudflare Workers and Containers
+
+基于Cloudflare Workers和Containers的边缘Minecraft服务器

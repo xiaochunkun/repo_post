@@ -7,3 +7,5 @@ image: assets/leeguooooo_claude_code_usage_bar_20251125_040728_481_20251127_1651
 # [leeguooooo/claude-code-usage-bar](https://github.com/leeguooooo/claude-code-usage-bar/)
 
 Real-time status bar for Claude AI token usage
+
+Claude AI 令牌使用情况的实时状态栏

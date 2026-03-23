@@ -7,3 +7,5 @@ image: assets/yusufkaraaslan_Skill_Seekers_20260122_035528_471_20260122_035545_1
 # [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)
 
 Converts documentation and repositories into Claude AI skills
+
+将文档和仓库转换为Claude AI技能

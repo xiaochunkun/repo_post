@@ -7,3 +7,5 @@ image: assets/mckinsey_vizro_20260108_040626_325_20260108_040641_3e6973.png
 # [mckinsey/vizro](https://github.com/mckinsey/vizro)
 
 Toolkit for data visualization apps
+
+数据可视化应用工具包

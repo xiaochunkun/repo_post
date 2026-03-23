@@ -7,3 +7,5 @@ image: assets/PleasePrompto_notebooklm_skill_20260111_050659_155_20260111_050712
 # [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
 
 Connects Claude Code to NotebookLM for source-grounded answers
+
+连接Claude Code到NotebookLM，用于基于来源的答案

@@ -7,3 +7,5 @@ image: assets/faresbakhit_ayin_20260103_113808_349_20260103_113824_f0c02b.png
 # [faresbakhit/ayin](https://github.com/faresbakhit/ayin/)
 
 Photo editor with 21 filters and undo stack
+
+带21个滤镜和撤销栈的照片编辑器

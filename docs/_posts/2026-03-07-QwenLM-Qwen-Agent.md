@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen_Agent_20260307_094552_252_20260307_094724_fb7f7d.png
 # [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 
 Develop autonomous agents with tool usage
+
+开发具备工具使用能力的自主智能体

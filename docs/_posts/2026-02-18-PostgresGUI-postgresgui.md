@@ -7,3 +7,5 @@ image: assets/PostgresGUI_postgresgui_20260126_052735_548_20260126_052815_5eb571
 # [PostgresGUI/postgresgui](https://github.com/PostgresGUI/postgresgui)
 
 PostgreSQL client for macOS
+
+macOS 的 PostgreSQL 客户端

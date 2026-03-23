@@ -7,3 +7,5 @@ image: assets/teodorgross_awesome-ai--20250817T071456912--cropped.png
 # [teodorgross/awesome-ai](https://github.com/teodorgross/awesome-ai)
 
 automated AI tool discovery platform with real-time GitHub scanning
+
+通过实时GitHub扫描实现自动化AI工具发现平台

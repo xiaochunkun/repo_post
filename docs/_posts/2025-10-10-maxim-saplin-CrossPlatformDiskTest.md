@@ -7,3 +7,5 @@ image: assets/20251009T195731496--maxim-saplin--CrossPlatformDiskTest--20251009T
 # [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest)
 
 benchmark storage and RAM speed across Windows, macOS, and Android
+
+跨 Windows、macOS 和 Android 基准测试存储和 RAM 速度

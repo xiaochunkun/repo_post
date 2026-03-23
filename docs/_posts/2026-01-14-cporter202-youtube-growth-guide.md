@@ -7,3 +7,5 @@ image: assets/cporter202_youtube_growth_guide_20260113_083707_032_20260113_08371
 # [cporter202/youtube-growth-guide](https://github.com/cporter202/youtube-growth-guide)
 
 Framework for YouTube channel audits and niche research
+
+YouTube 频道审计和利基研究框架

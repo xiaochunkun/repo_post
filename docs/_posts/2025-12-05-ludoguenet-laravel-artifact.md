@@ -7,3 +7,5 @@ image: assets/ludoguenet_laravel_artifact_20251203_001644_824_20251203_001723_94
 # [ludoguenet/laravel-artifact](https://github.com/ludoguenet/laravel-artifact/)
 
 Media management package for Laravel applications
+
+用于 Laravel 应用的媒体管理包

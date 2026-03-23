@@ -7,3 +7,5 @@ image: assets/avipatilpro_FileStreamBot_20260103_150905_149_20260103_150922_013a
 # [avipatilpro/FileStreamBot](https://github.com/avipatilpro/FileStreamBot/)
 
 Generates stream links for Telegram files
+
+为 Telegram 文件生成流链接

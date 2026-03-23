@@ -7,3 +7,5 @@ image: assets/20250915T234143947--antfu-collective--icones--20250915T234435823--
 # [antfu-collective/icones](https://github.com/antfu-collective/icones)
 
 Icon explorer with instant search across thousands of open source icons
+
+图标浏览器，可即时搜索数千个开源图标

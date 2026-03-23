@@ -7,3 +7,5 @@ image: assets/Buddie_AI_Buddie_20251208_010847_305_20251208_010908_ab368e.png
 # [Buddie-AI/Buddie](https://github.com/Buddie-AI/Buddie/)
 
 Full-stack open-source AI voice interaction solution
+
+全栈开源AI语音交互解决方案

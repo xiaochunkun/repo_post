@@ -7,3 +7,5 @@ image: assets/adolfousier_invoicepilot_20251227_042917_678_20251227_042935_18c69
 # [adolfousier/invoicepilot](https://github.com/adolfousier/invoicepilot/)
 
 Automates invoice management from Gmail to Google Drive
+
+自动化从 Gmail 到 Google Drive 的发票管理

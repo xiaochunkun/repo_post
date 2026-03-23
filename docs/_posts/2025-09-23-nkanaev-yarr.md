@@ -7,3 +7,5 @@ image: assets/20250923T024736030--nkanaev--yarr--20250923T032223594--cropped.png
 # [nkanaev/yarr](https://github.com/nkanaev/yarr)
 
 web-based RSS reader you can run on your desktop or self-host
+
+可在桌面或自托管的基于 Web 的 RSS 阅读器

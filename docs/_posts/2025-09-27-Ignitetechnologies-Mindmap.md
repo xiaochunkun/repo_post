@@ -7,3 +7,5 @@ image: assets/20250927T042913481--Ignitetechnologies--Mindmap--20250927T04452371
 # [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap)
 
 Cybersecurity mindmaps for tech, courses, and certs
+
+网络安全思维导图，涵盖技术、课程和认证

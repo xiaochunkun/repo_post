@@ -7,3 +7,5 @@ image: assets/LiLittleCat_awesome-free-chatgpt_cropped.png
 # [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
 
 free ChatGPT mirror sites list and resources
+
+免费ChatGPT镜像站点列表和资源

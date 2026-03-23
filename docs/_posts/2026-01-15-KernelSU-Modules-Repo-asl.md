@@ -7,3 +7,5 @@ image: assets/KernelSU_Modules_Repo_asl_20260114_093458_436_20260114_093512_dcfa
 # [KernelSU-Modules-Repo/asl](https://github.com/KernelSU-Modules-Repo/asl)
 
 Runs GNU/Linux distributions on Android via Termux and ruri
+
+通过 Termux 和 ruri 在 Android 上运行 GNU/Linux 发行版

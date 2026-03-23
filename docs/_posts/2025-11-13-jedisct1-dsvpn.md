@@ -7,3 +7,5 @@ image: assets/jedisct1_dsvpn_20251111_211113_128_20251112_032309_b65761--2025111
 # [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn/)
 
 VPN with no configuration file
+
+无需配置文件的 VPN

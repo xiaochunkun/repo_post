@@ -7,3 +7,5 @@ image: assets/Faceplugin_ltd_Open_Source_Face_Recognition_SDK_20251227_193534_62
 # [Faceplugin-ltd/Open-Source-Face-Recognition-SDK](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK/)
 
 Face recognition SDK for Windows and Linux
+
+适用于 Windows 和 Linux 的人脸识别 SDK

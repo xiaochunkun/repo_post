@@ -7,3 +7,5 @@ image: assets/20250825T032329627--mehdihadeli--awesome-software-architecture--20
 # [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 
 curated links for learning software architecture
+
+软件架构学习资源精选合集

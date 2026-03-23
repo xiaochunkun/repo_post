@@ -7,3 +7,5 @@ image: assets/MrWangJustToDo_git_diff_view_20260305_201634_576_20260305_201839_6
 # [MrWangJustToDo/git-diff-view](https://github.com/MrWangJustToDo/git-diff-view)
 
 Render code diffs across frameworks
+
+跨框架渲染代码差异

@@ -7,3 +7,5 @@ image: assets/terkelg_awesome_creative_coding_20260221_073516_393_20260221_07353
 # [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 
 Resources for generative art and interaction design
+
+生成艺术和交互设计的资源

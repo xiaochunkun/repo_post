@@ -7,3 +7,5 @@ image: assets/DatanoiseTV_tinyice_20260226_045917_895_20260226_050053_15d7fc.png
 # [DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice)
 
 Icecast2 streaming server in Go
+
+Go 语言编写的 Icecast2 流媒体服务器

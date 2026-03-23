@@ -7,3 +7,5 @@ image: assets/go_bdd_gobdd_20251130_061618_948_20251130_084423_b02f57--20251130T
 # [go-bdd/gobdd](https://github.com/go-bdd/gobdd/)
 
 BDD testing framework using Gherkin syntax
+
+使用Gherkin语法的BDD测试框架

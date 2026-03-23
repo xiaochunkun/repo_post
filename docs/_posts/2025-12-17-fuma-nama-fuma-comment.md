@@ -7,3 +7,5 @@ image: assets/fuma_nama_fuma_comment_20251216_082527_750_20251216_082609_6cf680.
 # [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment/)
 
 Library for building comment areas
+
+用于构建评论区的库

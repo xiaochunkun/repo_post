@@ -7,3 +7,5 @@ image: assets/huggingface_speech_to_speech_20260317_160723_016_20260317_160803_2
 # [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
 
 Cascaded speech-to-speech pipeline
+
+级联语音到语音管道

@@ -7,3 +7,5 @@ image: assets/CogitatorTech_infera_20251209_045936_316_20251209_045957_b5c4b7.pn
 # [CogitatorTech/infera](https://github.com/CogitatorTech/infera/)
 
 DuckDB extension for in-database machine learning inference
+
+用于数据库内机器学习推理的DuckDB扩展

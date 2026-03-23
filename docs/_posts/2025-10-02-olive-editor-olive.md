@@ -7,3 +7,5 @@ image: assets/20251001T193540357--olive-editor--olive--20251001T195407041--cropp
 # [olive-editor/olive](https://github.com/olive-editor/olive)
 
 non-linear video editor for Windows, macOS, and Linux
+
+非线性视频编辑器，支持Windows、macOS和Linux

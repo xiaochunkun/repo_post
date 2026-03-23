@@ -7,3 +7,5 @@ image: assets/KenneyNL_Adobe-Alternatives_cropped.png
 # [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
 
 list of alternatives to Adobe software
+
+Adobe软件的替代品列表

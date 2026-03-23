@@ -7,3 +7,5 @@ image: assets/sachaa_openbrowserclaw_20260304_221019_634_20260304_221202_a4b1f6.
 # [sachaa/openbrowserclaw](https://github.com/sachaa/openbrowserclaw)
 
 AI assistant in a browser tab
+
+浏览器标签中的AI助手

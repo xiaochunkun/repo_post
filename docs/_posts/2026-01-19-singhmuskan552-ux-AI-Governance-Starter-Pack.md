@@ -7,3 +7,5 @@ image: assets/singhmuskan552_ux_AI_Governance_Starter_Pack_20260115_183457_091_2
 # [singhmuskan552-ux/AI-Governance-Starter-Pack](https://github.com/singhmuskan552-ux/AI-Governance-Starter-Pack)
 
 Toolkit for risk management and audit workflows in AI systems
+
+AI 系统风险管理和审计工作流工具包

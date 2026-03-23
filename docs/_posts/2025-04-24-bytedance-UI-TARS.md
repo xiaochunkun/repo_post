@@ -7,3 +7,5 @@ image: assets/bytedance_UI-TARS_cropped.png
 # [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS)
 
 Open-source agent for automating GUI tasks using screenshots as input, built by ByteDance
+
+使用截图作为输入的自动化GUI任务开源代理，由ByteDance构建

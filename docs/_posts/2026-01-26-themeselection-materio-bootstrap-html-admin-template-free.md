@@ -7,3 +7,5 @@ image: assets/themeselection_materio_bootstrap_html_admin_template_free_20260124
 # [themeselection/materio-bootstrap-html-admin-template-free](https://github.com/themeselection/materio-bootstrap-html-admin-template-free)
 
 Bootstrap 5 dashboard for developers
+
+适用于开发者的 Bootstrap 5 仪表板

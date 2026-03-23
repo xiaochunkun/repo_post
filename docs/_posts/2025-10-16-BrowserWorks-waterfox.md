@@ -7,3 +7,5 @@ image: assets/20251016T074708732--BrowserWorks--waterfox--20251016T075715078--cr
 # [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox)
 
 privacy-focused browser, optimized for performance, supports classic and modern extensions
+
+注重隐私的浏览器，性能优化，支持经典和现代扩展

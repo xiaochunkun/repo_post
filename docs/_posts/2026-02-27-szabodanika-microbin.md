@@ -7,3 +7,5 @@ image: assets/szabodanika_microbin_20260216_081533_748_20260216_081637_34d541.pn
 # [szabodanika/microbin](https://github.com/szabodanika/microbin)
 
 Self-hosted paste bin and URL shortener in Rust
+
+用Rust实现的自托管粘贴板和URL缩短器

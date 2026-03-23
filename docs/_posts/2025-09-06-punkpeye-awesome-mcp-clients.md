@@ -7,3 +7,5 @@ image: assets/punkpeye_awesome-mcp-clients--20250906T021435210--cropped.png
 # [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 list of Model Context Protocol clients for LLMs and AI tools
+
+LLM 和 AI 工具的 Model Context Protocol 客户端列表

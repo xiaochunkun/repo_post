@@ -7,3 +7,5 @@ image: assets/Pixel_Master_File_Find_20260206_200027_879_20260206_200052_6a07dd.
 # [Pixel-Master/File-Find](https://github.com/Pixel-Master/File-Find)
 
 Utility to find files on macOS, Linux, and Windows
+
+在macOS、Linux和Windows上查找文件的实用工具

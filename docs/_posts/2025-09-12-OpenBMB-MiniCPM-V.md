@@ -7,3 +7,5 @@ image: assets/20250911T163410640--OpenBMB--MiniCPM-V--20250911T164455183--croppe
 # [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
 
 multimodal model for images, video, and text on your phone
+
+手机端多模态模型，支持图像、视频和文本

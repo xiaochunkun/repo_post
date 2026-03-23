@@ -7,3 +7,5 @@ image: assets/designcombo_react-video-editor_cropped.png
 # [designcombo/react-video-editor](https://github.com/designcombo/react-video-editor)
 
 React video editing library for adding and editing videos in React apps
+
+用于在 React 应用中添加和编辑视频的 React 视频编辑库

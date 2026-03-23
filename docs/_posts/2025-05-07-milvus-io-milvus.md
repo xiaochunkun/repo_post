@@ -7,3 +7,5 @@ image: assets/milvus-io_milvus_cropped.png
 # [milvus-io/milvus](https://github.com/milvus-io/milvus)
 
 Vector database for working with embeddings and AI data
+
+向量数据库，用于处理嵌入和 AI 数据

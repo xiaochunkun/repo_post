@@ -7,3 +7,5 @@ image: assets/watercrawl_WaterCrawl_cropped.png
 # [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl)
 
 turn web pages into LLM-ready data with WaterCrawl
+
+使用WaterCrawl将网页转换为LLM就绪数据

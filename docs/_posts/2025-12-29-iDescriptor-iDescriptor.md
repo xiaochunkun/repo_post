@@ -7,3 +7,5 @@ image: assets/iDescriptor_iDescriptor_20251227_194814_577_20251227_194837_b5a09c
 # [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor/)
 
 Management tool for idevices in C++
+
+使用 C++ 管理 idevices 的工具

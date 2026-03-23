@@ -7,3 +7,5 @@ image: assets/kamranahmedse_slim_20260310_235708_690_20260311_000133_715ced.png
 # [kamranahmedse/slim](https://github.com/kamranahmedse/slim)
 
 Creates HTTPS local domains for projects
+
+为项目创建HTTPS本地域名

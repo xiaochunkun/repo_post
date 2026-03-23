@@ -7,3 +7,5 @@ image: assets/jianchang512_pyvideotrans_cropped.png
 # [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
 auto video translation and dubbing with python
+
+使用Python自动翻译和配音视频

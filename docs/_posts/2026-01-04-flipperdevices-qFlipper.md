@@ -7,3 +7,5 @@ image: assets/flipperdevices_qFlipper_20260103_073601_374_20260103_073620_1ccda5
 # [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper/)
 
 Updates Flipper Zero firmware via PC
+
+通过PC更新Flipper Zero固件

@@ -7,3 +7,5 @@ image: assets/daisyui_react_daisyui_20260112_173855_805_20260112_173916_f53b11.p
 # [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui)
 
 React components for Tailwind CSS
+
+Tailwind CSS的React组件

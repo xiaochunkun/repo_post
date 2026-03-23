@@ -7,3 +7,5 @@ image: assets/alexanderjamesrohrig_TableTool_20260205_002453_764_20260205_002545
 # [alexanderjamesrohrig/TableTool](https://github.com/alexanderjamesrohrig/TableTool)
 
 CSV editor for macOS
+
+macOS的CSV编辑器

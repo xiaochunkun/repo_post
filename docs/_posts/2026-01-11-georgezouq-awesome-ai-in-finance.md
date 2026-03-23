@@ -7,3 +7,5 @@ image: assets/georgezouq_awesome_ai_in_finance_20260111_182057_351_20260111_1821
 # [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
 
 Resources for AI in finance
+
+金融AI资源集合

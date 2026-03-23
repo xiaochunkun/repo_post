@@ -7,3 +7,5 @@ image: assets/komodorio_helm_dashboard_20260108_161220_079_20260108_161240_1b1ff
 # [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
 UI for Helm to visualize releases and manage rollbacks
+
+Helm UI，可视化发布和管理回滚

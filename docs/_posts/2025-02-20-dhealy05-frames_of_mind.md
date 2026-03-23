@@ -7,3 +7,5 @@ image: assets/dhealy05_frames_of_mind_cropped.png
 # [dhealy05/frames_of_mind](https://github.com/dhealy05/frames_of_mind)
 
 Animating R1's thoughts
+
+动画化R1的思考过程

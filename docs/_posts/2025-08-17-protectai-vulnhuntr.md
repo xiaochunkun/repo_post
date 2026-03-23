@@ -7,3 +7,5 @@ image: assets/protectai_vulnhuntr--20250816T013200176--cropped.png
 # [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr)
 
 AI tool for finding code vulnerabilities in Python projects
+
+用于在Python项目中查找代码漏洞的AI工具

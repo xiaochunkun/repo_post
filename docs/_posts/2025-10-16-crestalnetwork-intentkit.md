@@ -7,3 +7,5 @@ image: assets/crestalnetwork_intentkit--20251016T044522838--cropped.png
 # [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit)
 
 framework for building AI agents with blockchain, social, and custom skill support
+
+用于构建 AI 代理的框架，支持区块链、社交和自定义技能

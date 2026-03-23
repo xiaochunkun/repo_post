@@ -7,3 +7,5 @@ image: assets/astral-sh_uv_cropped.png
 # [astral-sh/uv](https://github.com/astral-sh/uv)
 
 Python package and project manager, written in Rust
+
+用 Rust 编写的 Python 包和项目管理器

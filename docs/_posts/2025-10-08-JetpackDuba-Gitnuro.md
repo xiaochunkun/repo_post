@@ -7,3 +7,5 @@ image: assets/20251008T180842623--JetpackDuba--Gitnuro--20251008T181229627--crop
 # [JetpackDuba/Gitnuro](https://github.com/JetpackDuba/Gitnuro)
 
 multiplatform git client with visual diffs, history, and repo management
+
+跨平台 Git 客户端，具有可视化差异、历史和仓库管理功能

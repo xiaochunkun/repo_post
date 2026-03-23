@@ -7,3 +7,5 @@ image: assets/firezone_firezone_20260128_234149_392_20260128_234231_dd095c.png
 # [firezone/firezone](https://github.com/firezone/firezone)
 
 WireGuard-based remote access with peer-to-peer connections
+
+基于WireGuard的远程访问，支持点对点连接

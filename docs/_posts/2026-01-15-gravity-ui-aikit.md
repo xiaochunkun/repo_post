@@ -7,3 +7,5 @@ image: assets/gravity_ui_aikit_20260113_121310_706_20260113_121324_847f02.png
 # [gravity-ui/aikit](https://github.com/gravity-ui/aikit)
 
 React components for AI chat interfaces based on atomic design
+
+基于原子设计的 AI 聊天界面 React 组件

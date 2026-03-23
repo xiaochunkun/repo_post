@@ -7,3 +7,5 @@ image: assets/haydenbleasel_tersa_cropped.png
 # [haydenbleasel/tersa](https://github.com/haydenbleasel/tersa)
 
 build AI workflows visually with drag and drop
+
+通过拖放可视化构建 AI 工作流

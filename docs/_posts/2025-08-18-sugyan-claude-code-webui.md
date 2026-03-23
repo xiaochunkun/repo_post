@@ -7,3 +7,5 @@ image: assets/sugyan_claude-code-webui--20250818T091647271--cropped.png
 # [sugyan/claude-code-webui](https://github.com/sugyan/claude-code-webui)
 
 web chat UI for Claude Code, works on desktop and mobile
+
+适用于桌面和移动端的Claude Code网页聊天界面

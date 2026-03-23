@@ -7,3 +7,5 @@ image: assets/Sloth_on_meth_DoorOpener_20260126_182140_380_20260126_182235_af257
 # [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener)
 
 Web portal for triggering Home Assistant door openers via PIN
+
+通过 PIN 码触发 Home Assistant 门锁的 Web 门户

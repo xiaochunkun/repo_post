@@ -7,3 +7,5 @@ image: assets/20251015T031725071--ObservedObserver--streamlit-shadcn-ui--2025101
 # [ObservedObserver/streamlit-shadcn-ui](https://github.com/ObservedObserver/streamlit-shadcn-ui)
 
 shadcn-ui components for Streamlit apps
+
+Streamlit 应用的 shadcn-ui 组件

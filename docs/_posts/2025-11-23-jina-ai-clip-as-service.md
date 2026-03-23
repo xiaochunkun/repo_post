@@ -7,3 +7,5 @@ image: assets/jina_ai_clip_as_service_20251123_005652_518_20251123_022753_5b244f
 # [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service/)
 
 Embeds images and text with CLIP
+
+使用CLIP嵌入图像和文本

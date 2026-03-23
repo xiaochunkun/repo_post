@@ -7,3 +7,5 @@ image: assets/20251001T203735230--madroidmaq--mlx-omni-server--20251001T20444794
 # [madroidmaq/mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server)
 
 local AI server for Apple Silicon, OpenAI and Anthropic API compatible
+
+适用于Apple Silicon的本地AI服务器，兼容OpenAI和Anthropic API

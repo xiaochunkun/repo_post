@@ -7,3 +7,5 @@ image: assets/20251015T031725141--Nezreka--SoulSync--20251015T032019571--cropped
 # [Nezreka/SoulSync](https://github.com/Nezreka/SoulSync)
 
 automates music discovery and syncing between streaming services and your local library
+
+自动化音乐发现，并在流媒体服务与本地库之间同步

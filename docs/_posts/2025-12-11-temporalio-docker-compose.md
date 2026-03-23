@@ -7,3 +7,5 @@ image: assets/temporalio_docker_compose_20251208_235906_630_20251208_235939_5b76
 # [temporalio/docker-compose](https://github.com/temporalio/docker-compose/)
 
 Docker Compose files for running Temporal Server locally
+
+用于本地运行Temporal Server的Docker Compose文件

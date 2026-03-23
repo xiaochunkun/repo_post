@@ -7,3 +7,5 @@ image: assets/20250831T001321353--awslabs--llrt--20250831T002244784--cropped.png
 # [awslabs/llrt](https://github.com/awslabs/llrt)
 
 super fast JavaScript runtime for AWS Lambda
+
+AWS Lambda 超快 JavaScript 运行时

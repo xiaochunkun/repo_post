@@ -7,3 +7,5 @@ image: assets/20250906T221736543--agentscope-ai--agentscope--20250908T065034808-
 # [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 
 multi-agent LLM app framework with modular tools and real-time control
+
+多智能体 LLM 应用框架，支持模块化工具和实时控制

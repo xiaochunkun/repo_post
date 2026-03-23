@@ -7,3 +7,5 @@ image: assets/BlueBubblesApp_bluebubbles_server_20251123_192447_834_20251125_011
 # [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server/)
 
 Forwards iMessages to Android devices
+
+将 iMessages 转发到 Android 设备

@@ -7,3 +7,5 @@ image: assets/guysoft_FullPageOS_20251121_122036_951_20251121_211553_fa29e1--202
 # [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS/)
 
 Raspberry Pi distribution for full screen browser
+
+全屏浏览器的 Raspberry Pi 发行版

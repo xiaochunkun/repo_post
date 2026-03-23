@@ -7,3 +7,5 @@ image: assets/karthik_codex_Autogen_GraphRAG_Ollama_20260122_165825_022_20260122
 # [karthik-codex/Autogen_GraphRAG_Ollama](https://github.com/karthik-codex/Autogen_GraphRAG_Ollama)
 
 Local multi-agent RAG with knowledge graphs
+
+本地多代理RAG与知识图谱

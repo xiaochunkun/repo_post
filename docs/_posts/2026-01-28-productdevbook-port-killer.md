@@ -7,3 +7,5 @@ image: assets/productdevbook_port_killer_20260127_202822_019_20260127_202905_193
 # [productdevbook/port-killer](https://github.com/productdevbook/port-killer)
 
 Manages ports and kills processes
+
+管理端口并终止进程

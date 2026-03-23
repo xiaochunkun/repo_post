@@ -7,3 +7,5 @@ image: assets/TheOdinProject_curriculum_20251025_034230_657_20251025_041003_12bb
 # [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum/)
 
 Open-source curriculum for web development
+
+开源Web开发课程

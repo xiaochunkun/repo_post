@@ -7,3 +7,5 @@ image: assets/4regab_TaskSync_cropped.png
 # [4regab/TaskSync](https://github.com/4regab/TaskSync)
 
 let your ai agent run tasks from a file and keep logs
+
+让AI代理从文件运行任务并记录日志

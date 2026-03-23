@@ -7,3 +7,5 @@ image: assets/rubjo_victor_mono_20260214_010639_728_20260214_010738_cf578c.png
 # [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
 
 Programming font with cursive italics and ligatures
+
+带有草书斜体和连字的编程字体

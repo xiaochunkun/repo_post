@@ -7,3 +7,5 @@ image: assets/btcpayserver_btcpayserver_20260112_130132_199_20260112_130148_6f9f
 # [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
 Bitcoin payment processor without fees or intermediaries
+
+无费用或中介的比特币支付处理器

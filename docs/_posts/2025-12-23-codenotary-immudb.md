@@ -7,3 +7,5 @@ image: assets/codenotary_immudb_20251222_170324_294_20251222_170342_b1679b.png
 # [codenotary/immudb](https://github.com/codenotary/immudb/)
 
 Database with built-in cryptographic proof and verification
+
+内置加密证明和验证的数据库

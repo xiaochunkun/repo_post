@@ -7,3 +7,5 @@ image: assets/nineninesix_ai_kani_tts_20260222_134208_004_20260222_134229_8723bb
 # [nineninesix-ai/kani-tts](https://github.com/nineninesix-ai/kani-tts)
 
 Generates speech from text across languages
+
+跨语言从文本生成语音

@@ -7,3 +7,5 @@ image: assets/relagit_relagit_20251218_022504_361_20251218_022522_d4243f.png
 # [relagit/relagit](https://github.com/relagit/relagit/)
 
 Graphical interface for version control
+
+版本控制的图形界面

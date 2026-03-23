@@ -7,3 +7,5 @@ image: assets/kaansenol5_VibeOS_20260208_075856_091_20260208_075913_415dfc.png
 # [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS)
 
 Operating system built with Claude Code for Aarch64
+
+使用Claude Code为Aarch64构建的操作系统

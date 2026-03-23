@@ -7,3 +7,5 @@ image: assets/20251010T065555043--HyDE-Project--HyDE--20251010T071136932--croppe
 # [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE)
 
 Arch Linux setup scripts and configs for Hyprland dev environments
+
+Hyprland 开发环境的 Arch Linux 设置脚本与配置

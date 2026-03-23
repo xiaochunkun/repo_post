@@ -7,3 +7,5 @@ image: assets/pranavp10_video_compress_20251209_010751_915_20251209_010838_9a0a5
 # [pranavp10/video-compress](https://github.com/pranavp10/video-compress/)
 
 Compresses videos offline using FFmpeg
+
+使用FFmpeg离线压缩视频

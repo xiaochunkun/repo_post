@@ -7,3 +7,5 @@ image: assets/mayanayza_netvisor_20251102_222925_678_20251103_211610_b3443b--202
 # [mayanayza/netvisor](https://github.com/mayanayza/netvisor/)
 
 Scans a network and generates an interactive topology visualization
+
+扫描网络并生成交互式拓扑可视化

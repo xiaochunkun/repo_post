@@ -7,3 +7,5 @@ image: assets/shadcnstore_shadcn_dashboard_landing_template_20260227_090645_908_
 # [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 
 Dashboard and landing page template for React and Next.js
+
+React和Next.js的仪表板和落地页模板

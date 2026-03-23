@@ -7,3 +7,5 @@ image: assets/valadaptive_ntsc_rs_20251031_025648_661_20251031_140954_4146d4--20
 # [valadaptive/ntsc-rs](https://github.com/valadaptive/ntsc-rs/)
 
 Video effect for emulating VHS artifacts
+
+模拟 VHS 伪影的视频效果

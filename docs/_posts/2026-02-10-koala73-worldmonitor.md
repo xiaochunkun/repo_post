@@ -7,3 +7,5 @@ image: assets/koala73_worldmonitor_20260205_083712_043_20260205_083726_760e26.pn
 # [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 
 Dashboard for geopolitical monitoring and news aggregation
+
+地缘政治监控和新闻聚合仪表板

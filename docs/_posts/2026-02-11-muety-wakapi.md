@@ -7,3 +7,5 @@ image: assets/muety_wakapi_20260204_065502_782_20260204_065525_d2c5e2.png
 # [muety/wakapi](https://github.com/muety/wakapi)
 
 Backend for coding statistics with WakaTime compatibility
+
+与 WakaTime 兼容的编码统计后端

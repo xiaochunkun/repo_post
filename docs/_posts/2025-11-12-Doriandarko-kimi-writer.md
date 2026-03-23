@@ -7,3 +7,5 @@ image: assets/Doriandarko_kimi_writer_20251111_044047_362_20251111_151004_46aef0
 # [Doriandarko/kimi-writer](https://github.com/Doriandarko/kimi-writer/)
 
 Autonomous agent for creative writing
+
+用于创意写作的自主代理

@@ -7,3 +7,5 @@ image: assets/20250908T191013767--ekzhang--bore--20250908T191427593--cropped.png
 # [ekzhang/bore](https://github.com/ekzhang/bore)
 
 simple Rust tool for exposing local ports online
+
+简单的 Rust 工具，将本地端口暴露到公网

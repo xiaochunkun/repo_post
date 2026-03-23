@@ -7,3 +7,5 @@ image: assets/tadata_org_fastapi_mcp_20260122_015537_718_20260122_015604_c7ef89.
 # [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
 
 Exposes FastAPI endpoints as MCP tools with authentication
+
+将FastAPI端点作为带认证的MCP工具暴露

@@ -7,3 +7,5 @@ image: assets/Diolinux_PhotoGIMP_20260316_164546_360_20260316_164619_94f2bb.png
 # [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
 GIMP patch mimicking Adobe Photoshop layout
+
+模仿Adobe Photoshop布局的GIMP补丁

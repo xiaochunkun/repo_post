@@ -7,3 +7,5 @@ image: assets/sonic_pi_net_sonic_pi_20251121_135716_754_20251122_045937_1df2e4--
 # [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi/)
 
 Music performance via code
+
+通过代码进行音乐表演

@@ -7,3 +7,5 @@ image: assets/filipstrand_mflux_20260309_104536_939_20260309_104720_396092.png
 # [filipstrand/mflux](https://github.com/filipstrand/mflux)
 
 Generative image models in native MLX for Mac
+
+Mac原生MLX中的生成式图像模型

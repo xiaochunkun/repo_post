@@ -7,3 +7,5 @@ image: assets/ahmedrangel_vuetracker_extension_20260114_035654_834_20260114_0357
 # [ahmedrangel/vuetracker-extension](https://github.com/ahmedrangel/vuetracker-extension)
 
 Identifies plugins and technologies on Vue websites
+
+识别 Vue 网站的插件和技术

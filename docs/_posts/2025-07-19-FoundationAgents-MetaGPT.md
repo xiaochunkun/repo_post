@@ -7,3 +7,5 @@ image: assets/FoundationAgents_MetaGPT_cropped.png
 # [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 
 AI agents working together to build software from a single prompt
+
+AI代理协作，从单个提示构建软件

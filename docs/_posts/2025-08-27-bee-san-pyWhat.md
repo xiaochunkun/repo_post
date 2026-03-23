@@ -7,3 +7,5 @@ image: assets/20250826T024916978--bee-san--pyWhat--20250826T025924865--cropped.p
 # [bee-san/pyWhat](https://github.com/bee-san/pyWhat)
 
 identify mysterious text or data in files
+
+识别文件或文本中的神秘数据内容

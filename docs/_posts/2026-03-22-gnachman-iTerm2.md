@@ -7,3 +7,5 @@ image: assets/gnachman_iTerm2_20260321_012214_340_20260321_012303_046273.png
 # [gnachman/iTerm2](https://github.com/gnachman/iTerm2)
 
 macOS terminal emulator with tmux integration
+
+集成tmux的macOS终端模拟器

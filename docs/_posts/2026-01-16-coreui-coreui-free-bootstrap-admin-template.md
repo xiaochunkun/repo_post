@@ -7,3 +7,5 @@ image: assets/coreui_coreui_free_bootstrap_admin_template_20260115_171526_006_20
 # [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 
 Bootstrap admin template with UI components
+
+带有 UI 组件的 Bootstrap 管理模板

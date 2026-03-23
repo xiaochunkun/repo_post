@@ -7,3 +7,5 @@ image: assets/itskovacs_trip_20260122_040126_813_20260122_040215_502d56.png
 # [itskovacs/trip](https://github.com/itskovacs/trip)
 
 Self-hosted map tracker and trip planner for points of interest
+
+自托管地图追踪器和兴趣点行程规划器

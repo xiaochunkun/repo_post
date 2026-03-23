@@ -7,3 +7,5 @@ image: assets/upscayl_upscayl_cropped.png
 # [upscayl/upscayl](https://github.com/upscayl/upscayl)
 
 AI tool for upscaling images on your desktop
+
+桌面端AI图像放大工具

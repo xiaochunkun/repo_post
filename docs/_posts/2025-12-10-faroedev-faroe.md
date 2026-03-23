@@ -7,3 +7,5 @@ image: assets/faroedev_faroe_20251207_231816_716_20251207_231837_645f89.png
 # [faroedev/faroe](https://github.com/faroedev/faroe/)
 
 Modular auth server distributed as a Go package
+
+作为 Go 包分发的模块化认证服务器

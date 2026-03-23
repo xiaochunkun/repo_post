@@ -7,3 +7,5 @@ image: assets/martin_olivier_airgorah_20260212_030157_875_20260212_030252_2653c1
 # [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)
 
 WiFi security auditing with GTK4 and Rust
+
+使用 GTK4 和 Rust 进行 WiFi 安全审计

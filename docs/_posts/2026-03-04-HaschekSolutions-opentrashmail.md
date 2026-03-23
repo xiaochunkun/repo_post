@@ -7,3 +7,5 @@ image: assets/HaschekSolutions_opentrashmail_20260210_052536_147_20260210_052632
 # [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail)
 
 Selfhosted mail server for disposable addresses with webhooks and RSS feeds
+
+自托管邮件服务器，用于一次性地址，支持 webhooks 和 RSS 订阅

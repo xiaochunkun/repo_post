@@ -7,3 +7,5 @@ image: assets/salmon_donate_salmon_donate_20251123_180657_937_20251124_095921_bc
 # [salmon-donate/salmon-donate](https://github.com/salmon-donate/salmon-donate/)
 
 Self-hosted non-custodial cryptocurrency donation gateway
+
+自托管的非托管加密货币捐赠网关

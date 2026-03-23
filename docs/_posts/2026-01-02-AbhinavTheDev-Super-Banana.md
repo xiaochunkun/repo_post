@@ -7,3 +7,5 @@ image: assets/AbhinavTheDev_Super_Banana_20260101_225651_931_20260101_225708_a87
 # [AbhinavTheDev/Super-Banana](https://github.com/AbhinavTheDev/Super-Banana/)
 
 Deploys AI Studio apps locally
+
+本地部署AI Studio应用

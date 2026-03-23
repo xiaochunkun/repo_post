@@ -7,3 +7,5 @@ image: assets/Ackee-Blockchain_trident--20250812T230514--cropped.png
 # [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident)
 
 Rust fuzzing framework for Solana Anchor programs
+
+用于Solana Anchor程序的Rust模糊测试框架

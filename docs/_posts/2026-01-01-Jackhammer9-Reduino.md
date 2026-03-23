@@ -7,3 +7,5 @@ image: assets/Jackhammer9_Reduino_20251231_065847_061_20251231_065907_9e127b.png
 # [Jackhammer9/Reduino](https://github.com/Jackhammer9/Reduino/)
 
 Transpiles Python into Arduino C++
+
+将Python转译为Arduino C++

@@ -7,3 +7,5 @@ image: assets/pagedjs_pagedjs_20260311_175342_798_20260311_175726_085bfa.png
 # [pagedjs/pagedjs](https://github.com/pagedjs/pagedjs)
 
 Generates print books using web technology
+
+使用 Web 技术生成印刷书籍

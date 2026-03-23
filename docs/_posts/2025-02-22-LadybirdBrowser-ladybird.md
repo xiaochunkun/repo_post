@@ -7,3 +7,5 @@ image: assets/LadybirdBrowser_ladybird_cropped.png
 # [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 
 Open-source web browser with custom engine
+
+使用自定义引擎的开源网页浏览器

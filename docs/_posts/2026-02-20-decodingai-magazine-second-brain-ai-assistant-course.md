@@ -7,3 +7,5 @@ image: assets/decodingai_magazine_second_brain_ai_assistant_course_20260214_1240
 # [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course)
 
 Builds agentic RAG systems with LLMOps
+
+使用 LLMOps 构建代理式 RAG 系统

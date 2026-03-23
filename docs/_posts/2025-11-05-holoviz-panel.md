@@ -7,3 +7,5 @@ image: assets/holoviz_panel_20251104_211748_997_20251104_223643_b2538b--20251104
 # [holoviz/panel](https://github.com/holoviz/panel/)
 
 Build data exploration web apps in Python
+
+用Python构建数据探索Web应用

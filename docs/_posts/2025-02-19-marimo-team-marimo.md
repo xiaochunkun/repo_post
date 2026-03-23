@@ -7,3 +7,5 @@ image: assets/marimo-team_marimo_cropped.png
 # [marimo-team/marimo](https://github.com/marimo-team/marimo)
 
 Marimo: Python notebooks as scripts and apps
+
+Marimo：将 Python 笔记本作为脚本和应用

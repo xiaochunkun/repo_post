@@ -7,3 +7,5 @@ image: assets/datawan_labs_pg_20260220_133633_929_20260220_133700_6b461b.png
 # [datawan-labs/pg](https://github.com/datawan-labs/pg)
 
 PostgreSQL playground in the browser via WASM
+
+通过 WASM 在浏览器中运行的 PostgreSQL 游乐场

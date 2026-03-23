@@ -7,3 +7,5 @@ image: assets/griptape_ai_griptape_20260318_201452_527_20260318_201553_a60306.pn
 # [griptape-ai/griptape](https://github.com/griptape-ai/griptape)
 
 Framework for generative AI agents
+
+用于生成式 AI 代理的框架

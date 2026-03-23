@@ -7,3 +7,5 @@ image: assets/ChromeDevTools_chrome_devtools_mcp_20260304_171653_998_20260304_17
 # [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 Server for AI agents to control and inspect browsers via Chrome DevTools
+
+服务器，供 AI 代理通过 Chrome DevTools 控制和检查浏览器

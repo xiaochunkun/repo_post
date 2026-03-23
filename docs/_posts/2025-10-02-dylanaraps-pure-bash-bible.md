@@ -7,3 +7,5 @@ image: assets/20251001T203145093--dylanaraps--pure-bash-bible--20251001T20351495
 # [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 
 Pure bash tricks for common scripting tasks
+
+用于常见脚本任务的纯Bash技巧

@@ -7,3 +7,5 @@ image: assets/EvanZhouDev_llm.pdf_cropped.png
 # [EvanZhouDev/llm.pdf](https://github.com/EvanZhouDev/llm.pdf)
 
 LLM runs inside a PDF file
+
+在PDF文件中运行LLM

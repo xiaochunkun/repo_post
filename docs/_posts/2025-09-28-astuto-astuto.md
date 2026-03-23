@@ -7,3 +7,5 @@ image: assets/20250928T055119008--astuto--astuto--20250928T055753142--cropped.pn
 # [astuto/astuto](https://github.com/astuto/astuto)
 
 open source tool for collecting and managing customer feedback
+
+开源工具，用于收集和管理客户反馈

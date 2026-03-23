@@ -7,3 +7,5 @@ image: assets/eclipse_openvsx_20251108_230852_286_20251109_000712_37b9b9--202511
 # [eclipse/openvsx](https://github.com/eclipse/openvsx/)
 
 Vendor-neutral alternative to the VS Code Marketplace
+
+VS Code Marketplace的供应商中立替代方案

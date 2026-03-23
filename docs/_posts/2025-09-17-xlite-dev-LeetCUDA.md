@@ -7,3 +7,5 @@ image: assets/20250917T005644628--xlite-dev--LeetCUDA--20250917T010039757--cropp
 # [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
 
 CUDA kernels, PyTorch notes, LLM blogs, tensor core benchmarks
+
+CUDA 内核、PyTorch 笔记、LLM 博客、张量核心基准测试

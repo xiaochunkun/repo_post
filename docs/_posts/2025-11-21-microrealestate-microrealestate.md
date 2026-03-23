@@ -7,3 +7,5 @@ image: assets/microrealestate_microrealestate_20251120_071238_059_20251121_05512
 # [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate/)
 
 Manages properties, leases, and payments
+
+管理物业、租赁和支付

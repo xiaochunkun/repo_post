@@ -7,3 +7,5 @@ image: assets/PayDevs_awesome_oss_monetization_20260101_153028_969_20260101_1530
 # [PayDevs/awesome-oss-monetization](https://github.com/PayDevs/awesome-oss-monetization/)
 
 Monetization strategies for open source maintainers
+
+开源维护者的变现策略

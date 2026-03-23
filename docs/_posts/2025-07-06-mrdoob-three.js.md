@@ -7,3 +7,5 @@ image: assets/mrdoob_three.js_cropped.png
 # [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 JavaScript 3D library for rendering graphics in the browser
+
+JavaScript 3D库，用于在浏览器中渲染图形

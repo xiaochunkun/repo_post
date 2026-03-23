@@ -7,3 +7,5 @@ image: assets/doramirdor_NadirClaw_20260321_060804_130_20260321_060905_1c2add.pn
 # [doramirdor/NadirClaw](https://github.com/doramirdor/NadirClaw)
 
 Routes LLM prompts to cheaper models
+
+将LLM提示路由到更便宜的模型

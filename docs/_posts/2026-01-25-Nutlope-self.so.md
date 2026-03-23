@@ -7,3 +7,5 @@ image: assets/Nutlope_self_so_20260122_012718_099_20260122_012734_56de94.png
 # [Nutlope/self.so](https://github.com/Nutlope/self.so)
 
 Turns LinkedIn profiles into websites
+
+将LinkedIn个人资料转换为网站

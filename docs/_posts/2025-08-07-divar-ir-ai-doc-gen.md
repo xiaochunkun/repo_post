@@ -7,3 +7,5 @@ image: assets/divar-ir_ai-doc-gen_cropped.png
 # [divar-ir/ai-doc-gen](https://github.com/divar-ir/ai-doc-gen)
 
 AI makes documentation from code
+
+AI 从代码生成文档

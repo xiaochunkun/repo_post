@@ -7,3 +7,5 @@ image: assets/20250826T030219556--gyoridavid--short-video-maker--20250826T030859
 # [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker)
 
 open source tool for making short-form videos with text-to-speech and captions
+
+开源短视频制作工具，支持文本转语音和字幕

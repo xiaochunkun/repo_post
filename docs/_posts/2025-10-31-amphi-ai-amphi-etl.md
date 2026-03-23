@@ -7,3 +7,5 @@ image: assets/amphi_ai_amphi_etl_20251030_172100_806_20251030_172141_828e66--202
 # [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl/)
 
 Visually build Python ETL pipelines
+
+可视化构建 Python ETL 管道

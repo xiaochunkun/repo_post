@@ -7,3 +7,5 @@ image: assets/Lucksi_Darkus_cropped.png
 # [Lucksi/Darkus](https://github.com/Lucksi/Darkus)
 
 Dark web .onion link search tool using search engines
+
+使用搜索引擎搜索暗网.onion链接的工具

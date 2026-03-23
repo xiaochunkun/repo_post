@@ -7,3 +7,5 @@ image: assets/AhmetCanArslan_ShizuWall_20251221_184646_324_20251221_184703_1dc9c
 # [AhmetCanArslan/ShizuWall](https://github.com/AhmetCanArslan/ShizuWall/)
 
 Firewall for Android via Shizuku
+
+通过 Shizuku 实现的 Android 防火墙

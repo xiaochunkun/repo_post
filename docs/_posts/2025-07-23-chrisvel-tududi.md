@@ -7,3 +7,5 @@ image: assets/chrisvel_tududi_cropped.png
 # [chrisvel/tududi](https://github.com/chrisvel/tududi)
 
 self-hosted task and project manager with notes and tags
+
+具有笔记和标签功能的自托管任务和项目管理器

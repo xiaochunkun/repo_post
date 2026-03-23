@@ -7,3 +7,5 @@ image: assets/mikeroyal_Apple_Silicon_Guide_20260120_054109_376_20260120_054145_
 # [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)
 
 Resources for Apple Silicon development and hardware
+
+Apple Silicon 开发和硬件的资源

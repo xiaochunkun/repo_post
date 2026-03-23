@@ -7,3 +7,5 @@ image: assets/redis_RedisInsight_20251111_173201_843_20251112_023017_64cbb2--202
 # [redis/RedisInsight](https://github.com/redis/RedisInsight/)
 
 GUI for visualizing and optimizing Redis data
+
+用于可视化和优化 Redis 数据的 GUI

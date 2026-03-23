@@ -7,3 +7,5 @@ image: assets/20251009T061714229--leemonade--leemons--20251009T062909931--croppe
 # [leemonade/leemons](https://github.com/leemonade/leemons)
 
 Open source platform for customizable, self-hosted learning experiences
+
+可定制、自托管学习体验的开源平台

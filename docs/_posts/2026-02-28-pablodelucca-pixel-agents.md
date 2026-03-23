@@ -7,3 +7,5 @@ image: assets/pablodelucca_pixel_agents_20260227_221455_369_20260227_221648_5020
 # [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents)
 
 Visualizes AI agents as characters in a virtual office
+
+将AI代理可视化为虚拟办公室中的角色

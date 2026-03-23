@@ -7,3 +7,5 @@ image: assets/riseandignite_capslap_20260131_062033_590_20260131_062142_fde7e9.p
 # [riseandignite/capslap](https://github.com/riseandignite/capslap)
 
 Desktop app burns captions into videos with local Whisper models
+
+桌面应用使用本地 Whisper 模型为视频添加字幕

@@ -7,3 +7,5 @@ image: assets/soGeneri_awesome-launch_cropped.png
 # [soGeneri/awesome-launch](https://github.com/soGeneri/awesome-launch)
 
 Directory for promoting side projects
+
+推广副项目的目录

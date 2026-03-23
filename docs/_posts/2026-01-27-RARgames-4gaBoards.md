@@ -7,3 +7,5 @@ image: assets/RARgames_4gaBoards_20260122_012425_744_20260122_012441_7a7822.png
 # [RARgames/4gaBoards](https://github.com/RARgames/4gaBoards)
 
 Kanban boards for task tracking
+
+用于任务跟踪的看板

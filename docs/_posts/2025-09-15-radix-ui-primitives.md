@@ -7,3 +7,5 @@ image: assets/20250915T040251961--radix-ui--primitives--20250915T040836906--crop
 # [radix-ui/primitives](https://github.com/radix-ui/primitives)
 
 low-level UI components focused on accessibility and customization
+
+专注于可访问性和自定义的低级 UI 组件

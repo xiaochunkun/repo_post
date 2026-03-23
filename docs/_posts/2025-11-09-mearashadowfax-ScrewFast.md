@@ -7,3 +7,5 @@ image: assets/mearashadowfax_ScrewFast_20251109_002034_000_20251109_141327_f46f5
 # [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast/)
 
 Template for a landing page, blog, and docs
+
+着陆页、博客和文档的模板

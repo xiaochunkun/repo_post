@@ -7,3 +7,5 @@ image: assets/20251005T001836422--mCaptcha--mCaptcha--20251005T002027729--croppe
 # [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha)
 
 proof-of-work CAPTCHA system that respects privacy and avoids image puzzles
+
+工作量证明CAPTCHA系统，尊重隐私，避免图像谜题

@@ -7,3 +7,5 @@ image: assets/tobi_AudioPriorityBar_20260111_045942_764_20260111_045956_3e61a0.p
 # [tobi/AudioPriorityBar](https://github.com/tobi/AudioPriorityBar)
 
 Switches audio devices based on priority
+
+基于优先级切换音频设备

@@ -7,3 +7,5 @@ image: assets/dagger_dagger_cropped.png
 # [dagger/dagger](https://github.com/dagger/dagger)
 
 builds and runs workflows in containers using code
+
+使用代码在容器中构建和运行工作流

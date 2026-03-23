@@ -7,3 +7,5 @@ image: assets/ColeMurray_claude_code_otel_20260209_050700_822_20260209_050748_78
 # [ColeMurray/claude-code-otel](https://github.com/ColeMurray/claude-code-otel)
 
 Monitors Claude Code usage and costs via OpenTelemetry
+
+通过OpenTelemetry监控Claude Code使用情况和成本

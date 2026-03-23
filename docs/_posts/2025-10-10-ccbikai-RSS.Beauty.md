@@ -7,3 +7,5 @@ image: assets/20251009T195451044--ccbikai--RSS.Beauty--20251009T200930229--cropp
 # [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty)
 
 Transforms RSS and Atom feeds into elegant, visually appealing reading interfaces using XSLT
+
+使用 XSLT 将 RSS 和 Atom 源转换为优雅、视觉吸引人的阅读界面

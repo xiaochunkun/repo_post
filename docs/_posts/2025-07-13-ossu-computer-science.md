@@ -7,3 +7,5 @@ image: assets/ossu_computer-science_cropped.png
 # [ossu/computer-science](https://github.com/ossu/computer-science)
 
 free self-taught computer science curriculum
+
+免费自学计算机科学课程

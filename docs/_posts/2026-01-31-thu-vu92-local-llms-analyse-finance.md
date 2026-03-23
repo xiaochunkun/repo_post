@@ -7,3 +7,5 @@ image: assets/thu_vu92_local_llms_analyse_finance_20260130_223220_265_20260130_2
 # [thu-vu92/local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance)
 
 Categorizes bank transactions with local LLMs
+
+使用本地LLM分类银行交易

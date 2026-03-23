@@ -7,3 +7,5 @@ image: assets/dosco_graphjin_20251125_035106_521_20251127_164910_7b60eb--2025112
 # [dosco/graphjin](https://github.com/dosco/graphjin/)
 
 Converts GraphQL queries into SQL
+
+将 GraphQL 查询转换为 SQL

@@ -7,3 +7,5 @@ image: assets/mickael-kerjean_filestash_cropped.png
 # [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
 
 self-hosted file manager for all your storage
+
+自托管文件管理器，适用于所有存储

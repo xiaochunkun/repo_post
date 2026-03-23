@@ -7,3 +7,5 @@ image: assets/OpenAgentPlatform_Dive_cropped.png
 # [OpenAgentPlatform/Dive](https://github.com/OpenAgentPlatform/Dive)
 
 desktop app connects AI models, supports tools, cross-platform
+
+连接AI模型的桌面应用，支持工具和跨平台

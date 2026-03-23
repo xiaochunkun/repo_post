@@ -7,3 +7,5 @@ image: assets/20251007T025140640--feldroy--air--20251007T025423573--cropped.png
 # [feldroy/air](https://github.com/feldroy/air)
 
 Python web framework built on FastAPI, Starlette, and Pydantic for fast HTML and API development
+
+基于 FastAPI、Starlette 和 Pydantic 的 Python Web 框架，用于快速 HTML 和 API 开发

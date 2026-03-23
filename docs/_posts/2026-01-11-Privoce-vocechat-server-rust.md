@@ -7,3 +7,5 @@ image: assets/Privoce_vocechat_server_rust_20260111_074810_309_20260111_074828_1
 # [Privoce/vocechat-server-rust](https://github.com/Privoce/vocechat-server-rust)
 
 Chat server for private hosting
+
+私有托管的聊天服务器

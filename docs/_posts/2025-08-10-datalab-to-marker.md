@@ -7,3 +7,5 @@ image: assets/datalab-to_marker_cropped.png
 # [datalab-to/marker](https://github.com/datalab-to/marker)
 
 convert PDFs to markdown or JSON
+
+将 PDF 转换为 Markdown 或 JSON

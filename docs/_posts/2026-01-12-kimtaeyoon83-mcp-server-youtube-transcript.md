@@ -7,3 +7,5 @@ image: assets/kimtaeyoon83_mcp_server_youtube_transcript_20260112_071421_456_202
 # [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)
 
 Retrieves YouTube transcripts for Claude
+
+为Claude检索YouTube字幕

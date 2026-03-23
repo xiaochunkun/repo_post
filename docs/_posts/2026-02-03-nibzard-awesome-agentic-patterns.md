@@ -7,3 +7,5 @@ image: assets/nibzard_awesome_agentic_patterns_20260202_212727_910_20260202_2127
 # [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns)
 
 Catalog of workflows for AI agents in production
+
+生产环境中 AI 代理工作流程的目录

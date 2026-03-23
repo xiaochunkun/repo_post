@@ -7,3 +7,5 @@ image: assets/alexbates_Tamari_20260316_140315_790_20260316_140407_3de0d2.png
 # [alexbates/Tamari](https://github.com/alexbates/Tamari)
 
 Recipe manager web application built with Python and Flask
+
+使用Python和Flask构建的食谱管理Web应用

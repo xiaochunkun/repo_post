@@ -7,3 +7,5 @@ image: assets/ChenglongMa_zoplicate_20251207_232337_067_20251207_232358_4f7dae.p
 # [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate/)
 
 Detects and manages duplicate Zotero items
+
+检测和管理 Zotero 中的重复项

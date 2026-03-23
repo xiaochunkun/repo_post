@@ -7,3 +7,5 @@ image: assets/kumarvivek1752_ThemeClipper_20251208_010502_615_20251208_010535_f3
 # [kumarvivek1752/ThemeClipper](https://github.com/kumarvivek1752/ThemeClipper/)
 
 Generates Jellyfin theme clips from movies
+
+从电影生成 Jellyfin 主题剪辑

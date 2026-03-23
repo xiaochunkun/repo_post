@@ -7,3 +7,5 @@ image: assets/JakePartusch_serverlessui_20260120_085601_545_20260120_085649_529b
 # [JakePartusch/serverlessui](https://github.com/JakePartusch/serverlessui)
 
 Deploys websites and functions to AWS
+
+将网站和函数部署到 AWS

@@ -7,3 +7,5 @@ image: assets/ashfromsky_acquiremock_20251223_055138_820_20251223_055155_9b1ae9.
 # [ashfromsky/acquiremock](https://github.com/ashfromsky/acquiremock/)
 
 Simulates payment flows with webhooks
+
+使用webhooks模拟支付流程

@@ -7,3 +7,5 @@ image: assets/silevis_reactgrid_cropped.png
 # [silevis/reactgrid](https://github.com/silevis/reactgrid)
 
 spreadsheet grid for React apps
+
+React应用的电子表格网格

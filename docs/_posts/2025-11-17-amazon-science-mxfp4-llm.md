@@ -7,3 +7,5 @@ image: assets/amazon_science_mxfp4_llm_20251115_214701_161_20251117_040400_cc4ae
 # [amazon-science/mxfp4-llm](https://github.com/amazon-science/mxfp4-llm/)
 
 Training LLMs with half the backward pass FLOPs
+
+以一半反向传播 FLOPs 训练 LLM

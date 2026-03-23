@@ -7,3 +7,5 @@ image: assets/cryptpad_cryptpad--20250815T025720129--cropped.png
 # [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad)
 
 end-to-end encrypted collaborative docs and office suite
+
+端到端加密的协作文档和办公套件

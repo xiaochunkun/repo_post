@@ -7,3 +7,5 @@ image: assets/tuna_f1sh_cyme_20251125_221947_818_20251127_171414_79de41--2025112
 # [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme/)
 
 Modern cross-platform lsusb alternative
+
+现代跨平台lsusb替代工具

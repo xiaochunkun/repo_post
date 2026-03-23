@@ -7,3 +7,5 @@ image: assets/eastlondoner_vibe-tools_cropped.png
 # [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools)
 
 CLI tool for upgrading AI agent skills across coding tools and IDEs
+
+CLI工具，用于升级AI代理在编码工具和IDE中的技能

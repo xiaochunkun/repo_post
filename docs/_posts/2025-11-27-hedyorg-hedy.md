@@ -7,3 +7,5 @@ image: assets/hedyorg_hedy_20251125_021210_979_20251126_150219_d0abe8--20251126T
 # [hedyorg/hedy](https://github.com/hedyorg/hedy/)
 
 Gradual programming language for teaching Python
+
+用于教学 Python 的渐进式编程语言

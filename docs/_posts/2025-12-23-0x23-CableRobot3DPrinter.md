@@ -7,3 +7,5 @@ image: assets/0x23_CableRobot3DPrinter_20251222_114924_370_20251222_114945_38fd1
 # [0x23/CableRobot3DPrinter](https://github.com/0x23/CableRobot3DPrinter/)
 
 3D printer using cables and winches as actuators
+
+使用电缆和绞盘作为执行器的3D打印机

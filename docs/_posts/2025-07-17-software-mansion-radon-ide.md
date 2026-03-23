@@ -7,3 +7,5 @@ image: assets/software-mansion_radon-ide_cropped.png
 # [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide)
 
 VSCode extension for building React Native and Expo apps
+
+VSCode 扩展，用于构建 React Native 和 Expo 应用

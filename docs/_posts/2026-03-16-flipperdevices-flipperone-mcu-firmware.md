@@ -7,3 +7,5 @@ image: assets/flipperdevices_flipperone_mcu_firmware_20260309_114053_606_2026030
 # [flipperdevices/flipperone-mcu-firmware](https://github.com/flipperdevices/flipperone-mcu-firmware)
 
 Firmware for the Flipper One co-processor
+
+Flipper One协处理器固件

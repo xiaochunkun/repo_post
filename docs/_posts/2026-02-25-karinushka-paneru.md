@@ -7,3 +7,5 @@ image: assets/karinushka_paneru_20260223_082017_958_20260223_082043_2d7bc9.png
 # [karinushka/paneru](https://github.com/karinushka/paneru)
 
 Tiling window manager for macOS with a scrollable strip
+
+macOS 的平铺窗口管理器，带可滚动条

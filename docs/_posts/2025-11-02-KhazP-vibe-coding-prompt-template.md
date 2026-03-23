@@ -7,3 +7,5 @@ image: assets/KhazP_vibe_coding_prompt_template_20251031_133944_685_20251101_205
 # [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template/)
 
 Workflow for AI-powered MVP development
+
+AI 驱动的 MVP 开发工作流

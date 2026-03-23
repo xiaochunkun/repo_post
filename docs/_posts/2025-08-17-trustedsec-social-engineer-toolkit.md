@@ -7,3 +7,5 @@ image: assets/trustedsec_social-engineer-toolkit--20250816T045022442--cropped.pn
 # [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 
 open-source toolkit for social engineering tests
+
+用于社会工程测试的开源工具包

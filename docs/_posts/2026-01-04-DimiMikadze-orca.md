@@ -7,3 +7,5 @@ image: assets/DimiMikadze_orca_20260103_121959_677_20260103_122016_228a5b.png
 # [DimiMikadze/orca](https://github.com/DimiMikadze/orca/)
 
 Builds community apps with React and Node
+
+使用React和Node构建社区应用

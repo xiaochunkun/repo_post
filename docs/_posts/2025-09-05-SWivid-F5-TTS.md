@@ -7,3 +7,5 @@ image: assets/20250904T000547508--SWivid--F5-TTS--20250904T001111111--cropped.pn
 # [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS)
 
 AI text-to-speech tool with fast voice cloning and emotion
+
+支持快速语音克隆和情感表达的 AI 文字转语音工具

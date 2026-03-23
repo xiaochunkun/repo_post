@@ -7,3 +7,5 @@ image: assets/VoltAgent_awesome_claude_skills_20251202_233834_251_20251202_23385
 # [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills/)
 
 Collection of official and community-built Claude skills
+
+官方和社区构建的 Claude 技能集合

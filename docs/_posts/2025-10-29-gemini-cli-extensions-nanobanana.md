@@ -7,3 +7,5 @@ image: assets/gemini_cli_extensions_nanobanana_20251029_074339_724_20251029_0931
 # [gemini-cli-extensions/nanobanana](https://github.com/gemini-cli-extensions/nanobanana/)
 
 CLI for Gemini image generation, editing, and restoration
+
+用于 Gemini 图像生成、编辑和恢复的 CLI

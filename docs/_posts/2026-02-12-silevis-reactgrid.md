@@ -7,3 +7,5 @@ image: assets/silevis_reactgrid_20260212_062217_652_20260212_062234_62b360.png
 # [silevis/reactgrid](https://github.com/silevis/reactgrid)
 
 Spreadsheet component for React applications
+
+React 应用的电子表格组件

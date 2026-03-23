@@ -7,3 +7,5 @@ image: assets/yetone_avante.nvim_cropped.png
 # [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
 
 Neovim plugin for AI-driven code suggestions, emulating Cursor IDE behavior
+
+Neovim 插件，提供 AI 驱动的代码建议，模拟 Cursor IDE 行为

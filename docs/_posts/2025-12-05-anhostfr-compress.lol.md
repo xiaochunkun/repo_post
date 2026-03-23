@@ -7,3 +7,5 @@ image: assets/anhostfr_compress_lol_20251202_224713_184_20251202_224734_9d0f2c.p
 # [anhostfr/compress.lol](https://github.com/anhostfr/compress.lol/)
 
 WebAssembly video compression in the browser
+
+浏览器中的 WebAssembly 视频压缩

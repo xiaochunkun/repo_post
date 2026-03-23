@@ -7,3 +7,5 @@ image: assets/20251015T010824733--RandomNinjaAtk--arr-scripts--20251015T01133223
 # [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts)
 
 Automation scripts for Sonarr, Radarr, Lidarr, Readarr, SABnzbd, and more
+
+用于 Sonarr、Radarr、Lidarr、Readarr、SABnzbd 等的自动化脚本

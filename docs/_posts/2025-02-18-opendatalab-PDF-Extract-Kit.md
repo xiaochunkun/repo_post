@@ -7,3 +7,5 @@ image: assets/opendatalab_PDF-Extract-Kit_cropped.png
 # [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
 
 PDF content extraction toolkit
+
+PDF 内容提取工具包

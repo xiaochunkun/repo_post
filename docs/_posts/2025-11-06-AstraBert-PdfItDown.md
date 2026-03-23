@@ -7,3 +7,5 @@ image: assets/AstraBert_PdfItDown_20251106_003801_446_20251106_003911_9428f5--20
 # [AstraBert/PdfItDown](https://github.com/AstraBert/PdfItDown/)
 
 Python package to convert various file formats to PDF
+
+将各种文件格式转换为 PDF 的 Python 包

@@ -7,3 +7,5 @@ image: assets/seaweedfs_seaweedfs_20260108_091309_465_20260108_091323_96fdea.png
 # [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
 
 Distributed storage system for blobs and objects
+
+用于blob和对象的分布式存储系统

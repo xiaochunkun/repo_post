@@ -7,3 +7,5 @@ image: assets/20250925T214252297--JustAnotherArchivist--snscrape--20250925T21435
 # [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape)
 
 scrapes posts and profiles from social media platforms using Python
+
+使用Python从社交媒体平台抓取帖子和个人资料

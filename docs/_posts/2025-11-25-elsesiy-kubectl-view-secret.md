@@ -7,3 +7,5 @@ image: assets/elsesiy_kubectl_view_secret_20251123_181945_396_20251124_184129_b5
 # [elsesiy/kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret/)
 
 Decodes Kubernetes secrets via kubectl
+
+通过 kubectl 解码 Kubernetes secrets

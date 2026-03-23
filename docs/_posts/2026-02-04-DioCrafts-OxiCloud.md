@@ -7,3 +7,5 @@ image: assets/DioCrafts_OxiCloud_20260203_084906_426_20260203_085020_578542.png
 # [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud)
 
 Rust file storage alternative to NextCloud
+
+Rust 文件存储，替代 NextCloud

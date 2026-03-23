@@ -7,3 +7,5 @@ image: assets/QuivrHQ_quivr_20260108_025347_067_20260108_025401_5e7f31.png
 # [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
 
 RAG for building a second brain with LLMs
+
+使用LLM构建第二大脑的RAG

@@ -7,3 +7,5 @@ image: assets/mmistakes_minimal_mistakes_20251122_205101_228_20251123_001603_6b4
 # [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/)
 
 Jekyll theme for blogs and portfolios
+
+用于博客和作品集的Jekyll主题

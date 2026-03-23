@@ -7,3 +7,5 @@ image: assets/giovapanasiti_active_storage_dashboard_20251216_181626_671_2025121
 # [giovapanasiti/active_storage_dashboard](https://github.com/giovapanasiti/active_storage_dashboard/)
 
 Dashboard for monitoring Rails Active Storage data
+
+监控 Rails Active Storage 数据的仪表板

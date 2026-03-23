@@ -7,3 +7,5 @@ image: assets/ansible_vscode-ansible_cropped.png
 # [ansible/vscode-ansible](https://github.com/ansible/vscode-ansible)
 
 VS Code extension for Ansible automation with syntax highlighting and auto-completion
+
+VS Code扩展，用于Ansible自动化，支持语法高亮和自动补全

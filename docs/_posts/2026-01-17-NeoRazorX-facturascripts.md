@@ -7,3 +7,5 @@ image: assets/NeoRazorX_facturascripts_20260117_061612_506_20260117_061627_64813
 # [NeoRazorX/facturascripts](https://github.com/NeoRazorX/facturascripts)
 
 ERP and accounting software built with PHP and Bootstrap 5
+
+基于PHP和Bootstrap 5构建的ERP和会计软件

@@ -7,3 +7,5 @@ image: assets/justboil_admin_one_vue_tailwind_20260120_035601_989_20260120_03562
 # [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind)
 
 Dashboard template for Vue 3 and Tailwind 4
+
+基于 Vue 3 和 Tailwind 4 的仪表板模板

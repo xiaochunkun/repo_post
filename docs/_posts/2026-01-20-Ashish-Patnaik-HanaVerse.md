@@ -7,3 +7,5 @@ image: assets/Ashish_Patnaik_HanaVerse_20260117_222525_869_20260117_222546_d2954
 # [Ashish-Patnaik/HanaVerse](https://github.com/Ashish-Patnaik/HanaVerse)
 
 Web UI for chatting with Ollama through a 2D character
+
+通过2D角色与Ollama聊天的Web UI

@@ -7,3 +7,5 @@ image: assets/20250912T172225143--containers--buildah--20250912T173152359--cropp
 # [containers/buildah](https://github.com/containers/buildah)
 
 command line tool for building OCI and Docker container images
+
+构建 OCI 和 Docker 容器镜像的命令行工具

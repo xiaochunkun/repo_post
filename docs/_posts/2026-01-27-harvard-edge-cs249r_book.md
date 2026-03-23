@@ -7,3 +7,5 @@ image: assets/harvard_edge_cs249r_book_20260122_011915_520_20260122_011932_b76d2
 # [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
 Textbook and labs for engineering AI systems
+
+工程AI系统的教科书和实验

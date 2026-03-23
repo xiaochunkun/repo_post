@@ -7,3 +7,5 @@ image: assets/SpartanJ_efsw_20251213_070237_649_20251213_070306_df0b9b.png
 # [SpartanJ/efsw](https://github.com/SpartanJ/efsw/)
 
 Cross-platform C++ file system watcher
+
+跨平台C++文件系统监视器

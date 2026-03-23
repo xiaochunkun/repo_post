@@ -7,3 +7,5 @@ image: assets/griptape_ai_griptape_20251217_185140_157_20251217_185212_d4a467.pn
 # [griptape-ai/griptape](https://github.com/griptape-ai/griptape/)
 
 Python framework for AI agents and workflows
+
+AI 代理和工作流的 Python 框架

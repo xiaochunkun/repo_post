@@ -7,3 +7,5 @@ image: assets/speeduino_Hardware_20260213_225650_017_20260213_225745_05a006.png
 # [speeduino/Hardware](https://github.com/speeduino/Hardware)
 
 Engine management system on Arduino framework
+
+基于Arduino框架的发动机管理系统

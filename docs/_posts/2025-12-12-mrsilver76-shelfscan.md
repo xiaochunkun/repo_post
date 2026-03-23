@@ -7,3 +7,5 @@ image: assets/mrsilver76_shelfscan_20251209_050805_985_20251209_050829_0f018d.pn
 # [mrsilver76/shelfscan](https://github.com/mrsilver76/shelfscan/)
 
 Scans media libraries for Plex naming compliance
+
+扫描媒体库以确保 Plex 命名合规性

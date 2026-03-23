@@ -7,3 +7,5 @@ image: assets/statping_statping_20251103_225208_696_20251103_230406_27573f--2025
 # [statping/statping](https://github.com/statping/statping/)
 
 Status page and monitoring server for web and apps
+
+用于网站和应用程序的状态页面与监控服务器

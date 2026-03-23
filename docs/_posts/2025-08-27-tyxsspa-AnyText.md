@@ -7,3 +7,5 @@ image: assets/20250826T030926732--tyxsspa--AnyText--20250826T031249836--cropped.
 # [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText)
 
 multilingual text generation and editing for images
+
+图像中的多语言文字生成和编辑

@@ -7,3 +7,5 @@ image: assets/20250829T041856652--nyudenkov--openapi-mcp-proxy--20250829T0423079
 # [nyudenkov/openapi-mcp-proxy](https://github.com/nyudenkov/openapi-mcp-proxy)
 
 explore and analyze OpenAPI schemas with MCP tools
+
+使用 MCP 工具探索和分析 OpenAPI Schema

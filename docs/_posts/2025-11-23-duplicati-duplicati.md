@@ -7,3 +7,5 @@ image: assets/duplicati_duplicati_20251122_235430_297_20251123_001914_5699d0--20
 # [duplicati/duplicati](https://github.com/duplicati/duplicati/)
 
 Cloud backup client with encryption
+
+带加密的云备份客户端

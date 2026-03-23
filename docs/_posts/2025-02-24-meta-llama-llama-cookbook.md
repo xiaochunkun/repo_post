@@ -7,3 +7,5 @@ image: assets/meta-llama_llama-cookbook_cropped.png
 # [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook)
 
 Guide for using Meta's Llama language models
+
+使用Meta Llama语言模型的指南

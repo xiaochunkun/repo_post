@@ -7,3 +7,5 @@ image: assets/nicejade_fine_directory_curator_20251226_014626_540_20251226_01471
 # [nicejade/fine-directory-curator](https://github.com/nicejade/fine-directory-curator/)
 
 Sorts files by year and type
+
+按年份和类型排序文件

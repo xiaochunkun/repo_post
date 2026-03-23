@@ -7,3 +7,5 @@ image: assets/rafaelmardojai_blanket_20260305_010806_248_20260305_010949_ceb730.
 # [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket)
 
 Application for playback of ambient sounds
+
+环境声音播放应用

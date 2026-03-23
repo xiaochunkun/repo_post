@@ -7,3 +7,5 @@ image: assets/wanghongenpin_proxypin_cropped.png
 # [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
 
 capture and modify HTTP(S) traffic for apps and devices
+
+捕获和修改应用和设备的HTTP(S)流量

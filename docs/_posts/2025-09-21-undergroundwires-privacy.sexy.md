@@ -7,3 +7,5 @@ image: assets/20250921T021141368--undergroundwires--privacy.sexy--20250921T02344
 # [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
 
 privacy and security scripts for Windows, macOS, and Linux
+
+适用于 Windows、macOS 和 Linux 的隐私和安全脚本

@@ -7,3 +7,5 @@ image: assets/maximecb_noisecraft_20260317_115602_070_20260317_115710_95bf21.png
 # [maximecb/noisecraft](https://github.com/maximecb/noisecraft)
 
 Visual programming language for sound synthesis
+
+声音合成的可视化编程语言

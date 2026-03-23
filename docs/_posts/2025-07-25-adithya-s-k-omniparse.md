@@ -7,3 +7,5 @@ image: assets/adithya-s-k_omniparse_cropped.png
 # [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse)
 
 ingest, parse, and structure any kind of data for AI projects
+
+为AI项目摄取、解析和结构化各种数据

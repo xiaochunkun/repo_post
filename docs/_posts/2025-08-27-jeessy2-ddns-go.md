@@ -7,3 +7,5 @@ image: assets/20250826T023922887--jeessy2--ddns-go--20250826T024339709--cropped.
 # [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)
 
 auto updates your domain to your current IP
+
+自动将域名解析更新为当前 IP

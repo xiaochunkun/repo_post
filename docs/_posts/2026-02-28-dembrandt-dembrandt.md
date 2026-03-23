@@ -7,3 +7,5 @@ image: assets/dembrandt_dembrandt_20260227_133927_392_20260227_134144_0fd849.png
 # [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt)
 
 Extracts design systems into design tokens
+
+将设计系统提取为设计令牌

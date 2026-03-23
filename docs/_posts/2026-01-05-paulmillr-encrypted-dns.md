@@ -7,3 +7,5 @@ image: assets/paulmillr_encrypted_dns_20260103_185153_997_20260103_185213_a28da7
 # [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns/)
 
 DNS over HTTPS and TLS profiles for iOS and macOS
+
+iOS和macOS的DNS over HTTPS和TLS配置文件

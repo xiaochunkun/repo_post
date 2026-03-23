@@ -7,3 +7,5 @@ image: assets/JasonLovesDoggo_caddy_defender_20251110_135000_187_20251110_143859
 # [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender/)
 
 Middleware to block requests from AI services
+
+用于拦截AI服务请求的中间件

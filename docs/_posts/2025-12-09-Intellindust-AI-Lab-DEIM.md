@@ -7,3 +7,5 @@ image: assets/Intellindust_AI_Lab_DEIM_20251207_205451_333_20251207_205524_2a9f4
 # [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM/)
 
 Enhances DETR matching for faster convergence
+
+增强DETR匹配以实现更快收敛

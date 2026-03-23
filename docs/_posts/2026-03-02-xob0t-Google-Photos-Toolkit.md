@@ -7,3 +7,5 @@ image: assets/xob0t_Google_Photos_Toolkit_20260302_033918_570_20260302_034035_c6
 # [xob0t/Google-Photos-Toolkit](https://github.com/xob0t/Google-Photos-Toolkit)
 
 Userscript to filter and organize media via the web API
+
+通过Web API过滤和组织媒体的用户脚本

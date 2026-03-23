@@ -7,3 +7,5 @@ image: assets/wasiahmad_Awesome_LLM_Synthetic_Data_20251126_114032_910_20251129_
 # [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data/)
 
 Curated list of resources on LLM synthetic data generation
+
+关于 LLM 合成数据生成的精选资源列表

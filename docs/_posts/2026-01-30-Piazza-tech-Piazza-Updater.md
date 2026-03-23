@@ -7,3 +7,5 @@ image: assets/Piazza_tech_Piazza_Updater_20260130_005604_397_20260130_005640_a48
 # [Piazza-tech/Piazza-Updater](https://github.com/Piazza-tech/Piazza-Updater)
 
 Updates vector databases with real-time internet data for RAG
+
+用实时互联网数据更新向量数据库以支持RAG

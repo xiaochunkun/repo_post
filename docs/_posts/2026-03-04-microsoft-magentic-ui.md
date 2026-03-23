@@ -7,3 +7,5 @@ image: assets/microsoft_magentic_ui_20260212_083628_817_20260212_083655_23088b.p
 # [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)
 
 Agent for web and coding tasks
+
+用于网络和编码任务的代理

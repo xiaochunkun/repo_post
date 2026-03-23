@@ -7,3 +7,5 @@ image: assets/lhartikk_ArnoldC_20251209_054244_594_20251209_054337_a6bfcd.png
 # [lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC/)
 
 Programming language based on Arnold Schwarzenegger quotes
+
+基于阿诺德·施瓦辛格语录的编程语言

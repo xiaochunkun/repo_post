@@ -7,3 +7,5 @@ image: assets/mbailey_voicemode_20260227_160042_960_20260227_160202_093cac.png
 # [mbailey/voicemode](https://github.com/mbailey/voicemode)
 
 Voice conversations with Claude Code agents
+
+与 Claude Code 代理进行语音对话

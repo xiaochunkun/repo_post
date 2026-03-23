@@ -7,3 +7,5 @@ image: assets/llmsresearch_paperbanana_20260206_005641_821_20260206_005708_fc28d
 # [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana)
 
 Generates academic diagrams from text descriptions using Gemini
+
+使用 Gemini 从文本描述生成学术图表

@@ -7,3 +7,5 @@ image: assets/kite_org_kite_20260305_031635_996_20260305_031755_5f245c.png
 # [kite-org/kite](https://github.com/kite-org/kite)
 
 Dashboard for management and monitoring of Kubernetes clusters
+
+用于Kubernetes集群管理与监控的仪表板

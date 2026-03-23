@@ -7,3 +7,5 @@ image: assets/20251016T074722754--Akifyss--obsidian-border--20251016T080228430--
 # [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border)
 
 Border theme for Obsidian—clean, highly customizable with auto-hide controls, card layouts, and visual presets via Style Settings
+
+Obsidian 的边框主题——简洁、高度可定制，支持自动隐藏控件、卡片布局和通过 Style Settings 的视觉预设

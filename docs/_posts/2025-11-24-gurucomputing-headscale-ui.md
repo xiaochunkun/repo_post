@@ -7,3 +7,5 @@ image: assets/gurucomputing_headscale_ui_20251123_165637_642_20251124_003609_a4e
 # [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui/)
 
 Web frontend for the Headscale server
+
+Headscale 服务器的 Web 前端

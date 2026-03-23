@@ -7,3 +7,5 @@ image: assets/xykt_NetQuality_cropped.png
 # [xykt/NetQuality](https://github.com/xykt/NetQuality)
 
 script for network quality check
+
+网络质量检查脚本

@@ -7,3 +7,5 @@ image: assets/OpenShot_openshot_qt_20251031_041620_705_20251031_205444_00e698--2
 # [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt/)
 
 Cross-platform video editor with curve-based keyframe animations
+
+带基于曲线的关键帧动画的跨平台视频编辑器

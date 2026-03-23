@@ -7,3 +7,5 @@ image: assets/kanriapp_kanri--20250817T081132810--cropped.png
 # [kanriapp/kanri](https://github.com/kanriapp/kanri)
 
 offline Kanban board app for desktop task management
+
+用于桌面任务管理的离线看板应用

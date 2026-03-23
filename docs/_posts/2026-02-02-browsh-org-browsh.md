@@ -7,3 +7,5 @@ image: assets/browsh_org_browsh_20260202_212021_947_20260202_212113_6ee56b.png
 # [browsh-org/browsh](https://github.com/browsh-org/browsh)
 
 Renders the web to TTYs
+
+将网页渲染到TTY终端

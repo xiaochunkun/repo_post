@@ -7,3 +7,5 @@ image: assets/vinceliuice_Colloid_icon_theme_20260101_031220_557_20260101_031235
 # [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme/)
 
 Icon theme for Linux desktops
+
+Linux桌面的图标主题

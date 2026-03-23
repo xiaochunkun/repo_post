@@ -7,3 +7,5 @@ image: assets/darthnorse_dockmon_20260108_072048_801_20260108_072135_fde111.png
 # [darthnorse/dockmon](https://github.com/darthnorse/dockmon)
 
 Monitors Docker containers with auto-restart and alerts
+
+监控Docker容器，支持自动重启和警报

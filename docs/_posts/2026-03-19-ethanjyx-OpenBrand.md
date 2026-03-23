@@ -7,3 +7,5 @@ image: assets/ethanjyx_OpenBrand_20260319_053348_245_20260319_053453_8ef102.png
 # [ethanjyx/OpenBrand](https://github.com/ethanjyx/OpenBrand)
 
 Extracts brand assets from any URL
+
+从任何 URL 提取品牌资产

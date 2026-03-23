@@ -7,3 +7,5 @@ image: assets/secure_77_Perlite_20251210_030548_194_20251210_030624_65ae0f.png
 # [secure-77/Perlite](https://github.com/secure-77/Perlite/)
 
 Web-based markdown viewer for Obsidian notes
+
+基于 Web 的 Obsidian 笔记 Markdown 查看器

@@ -7,3 +7,5 @@ image: assets/BYTEDz_PCLink_20260203_004205_233_20260203_004221_a45a3c.png
 # [BYTEDz/PCLink](https://github.com/BYTEDz/PCLink)
 
 Remote PC management via web interface
+
+通过 Web 界面远程管理 PC

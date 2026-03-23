@@ -7,3 +7,5 @@ image: assets/Alishahryar1_free_claude_code_20260309_082154_047_20260309_082455_
 # [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
 Routes Claude Code API calls to local or alternative providers
+
+将Claude Code API调用路由到本地或替代提供商

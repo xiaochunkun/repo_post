@@ -7,3 +7,5 @@ image: assets/opendatalab_MinerU_cropped.png
 # [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 
 Convert PDFs to machine-readable formatslike markdown or JSON for easy data extraction
+
+将PDF转换为机器可读格式如markdown或JSON，便于数据提取

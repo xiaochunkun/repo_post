@@ -7,3 +7,5 @@ image: assets/saadeghi_daisyui_20260108_025540_008_20260108_025626_6d6d73.png
 # [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
 
 Component library for Tailwind CSS
+
+Tailwind CSS的组件库

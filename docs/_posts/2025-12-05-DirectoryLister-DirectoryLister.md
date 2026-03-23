@@ -7,3 +7,5 @@ image: assets/DirectoryLister_DirectoryLister_20251202_205657_411_20251202_20575
 # [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister/)
 
 Exposes web-accessible folders for browsing and sharing
+
+公开可 Web 访问的文件夹以供浏览和共享

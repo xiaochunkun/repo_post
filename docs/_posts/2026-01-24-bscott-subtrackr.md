@@ -7,3 +7,5 @@ image: assets/bscott_subtrackr_20260122_083458_668_20260122_083517_dddd67.png
 # [bscott/subtrackr](https://github.com/bscott/subtrackr)
 
 Subscription tracker built with Go and HTMX
+
+使用Go和HTMX构建的订阅追踪器

@@ -7,3 +7,5 @@ image: assets/tim_koehler_Helm_Intellisense_20251127_173118_193_20251129_023207_
 # [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense/)
 
 Intellisense for Helm templates and variables
+
+Helm 模板和变量的智能感知

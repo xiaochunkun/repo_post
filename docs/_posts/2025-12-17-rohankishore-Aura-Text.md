@@ -7,3 +7,5 @@ image: assets/rohankishore_Aura_Text_20251216_042841_045_20251216_043010_2205a1.
 # [rohankishore/Aura-Text](https://github.com/rohankishore/Aura-Text/)
 
 Text editor built with PyQt6 and Python
+
+基于PyQt6和Python构建的文本编辑器

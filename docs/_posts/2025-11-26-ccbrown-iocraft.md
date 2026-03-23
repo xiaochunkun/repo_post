@@ -7,3 +7,5 @@ image: assets/ccbrown_iocraft_20251123_200746_880_20251125_012930_37e991--202511
 # [ccbrown/iocraft](https://github.com/ccbrown/iocraft/)
 
 Rust library for crafting terminal interfaces
+
+用于构建终端界面的 Rust 库

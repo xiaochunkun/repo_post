@@ -7,3 +7,5 @@ image: assets/20250826T024110487--mangiucugna--json_repair--20250826T024458430--
 # [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair)
 
 fixes broken JSON from LLMs in Python
+
+Python 工具，修复大模型输出的损坏 JSON

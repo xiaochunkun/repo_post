@@ -7,3 +7,5 @@ image: assets/nicotsx_zerobyte_20260127_192731_636_20260127_192807_f62319.png
 # [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte)
 
 Automates backups for self-hosters using restic
+
+使用restic为自托管者自动化备份

@@ -7,3 +7,5 @@ image: assets/20250830T051421634--huggingface--open-r1--20250830T052135265--crop
 # [huggingface/open-r1](https://github.com/huggingface/open-r1)
 
 open-source DeepSeek-R1 reproduction project for reasoning models
+
+DeepSeek-R1 推理模型的开源复现项目

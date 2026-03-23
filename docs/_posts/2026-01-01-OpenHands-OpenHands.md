@@ -7,3 +7,5 @@ image: assets/OpenHands_OpenHands_20251231_235738_825_20251231_235754_5262cb.png
 # [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands/)
 
 AI agent for software development tasks
+
+用于软件开发任务的AI代理

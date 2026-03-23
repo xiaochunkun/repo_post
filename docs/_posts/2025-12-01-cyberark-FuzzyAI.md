@@ -7,3 +7,5 @@ image: assets/cyberark_FuzzyAI_20251130_053050_661_20251130_084033_236ffb--20251
 # [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI/)
 
 Automates LLM fuzzing to identify jailbreaks
+
+自动化 LLM 模糊测试以识别越狱

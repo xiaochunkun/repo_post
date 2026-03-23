@@ -7,3 +7,5 @@ image: assets/vllm-project_vllm_cropped.png
 # [vllm-project/vllm](https://github.com/vllm-project/vllm)
 
 Library for running and serving large language models
+
+用于运行和服务大型语言模型的库

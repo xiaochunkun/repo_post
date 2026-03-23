@@ -7,3 +7,5 @@ image: assets/dakotamin_awesome_launch_platforms_20260106_070045_559_20260106_07
 # [dakotamin/awesome-launch-platforms](https://github.com/dakotamin/awesome-launch-platforms/)
 
 Directory of platforms for launching startups and products
+
+启动初创公司和产品的平台目录

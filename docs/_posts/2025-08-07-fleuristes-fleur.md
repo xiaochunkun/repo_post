@@ -7,3 +7,5 @@ image: assets/fleuristes_fleur_cropped.png
 # [fleuristes/fleur](https://github.com/fleuristes/fleur)
 
 Desktop app marketplace for discovering and installing Claude Desktop extensions
+
+用于发现和安装 Claude Desktop 扩展的桌面应用市场

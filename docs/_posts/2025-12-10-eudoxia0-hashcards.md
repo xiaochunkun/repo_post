@@ -7,3 +7,5 @@ image: assets/eudoxia0_hashcards_20251207_225512_884_20251207_225534_5aa335.png
 # [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards/)
 
 Plain text spaced repetition system
+
+纯文本间隔重复系统

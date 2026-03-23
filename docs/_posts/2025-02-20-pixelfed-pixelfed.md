@@ -7,3 +7,5 @@ image: assets/pixelfed_pixelfed_cropped.png
 # [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
 
 Decentralized photo sharing platform
+
+去中心化照片分享平台

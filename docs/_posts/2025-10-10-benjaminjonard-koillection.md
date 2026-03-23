@@ -7,3 +7,5 @@ image: assets/20251010T130217468--benjaminjonard--koillection--20251010T13193146
 # [benjaminjonard/koillection](https://github.com/benjaminjonard/koillection)
 
 self-hosted manager for physical collections like books, DVDs, stamps, games
+
+用于管理书籍、DVD、邮票、游戏等物理收藏的自托管管理器

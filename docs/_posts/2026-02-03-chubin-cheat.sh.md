@@ -7,3 +7,5 @@ image: assets/chubin_cheat_sh_20260202_234138_696_20260202_234200_636ef9.png
 # [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
 
 Cheat sheets via curl
+
+通过 curl 获取速查表

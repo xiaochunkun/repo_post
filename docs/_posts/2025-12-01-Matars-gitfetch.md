@@ -7,3 +7,5 @@ image: assets/Matars_gitfetch_20251130_075245_293_20251201_004102_d08624--202512
 # [Matars/gitfetch](https://github.com/Matars/gitfetch/)
 
 Neofetch-style CLI for git hosting statistics
+
+用于Git托管统计的Neofetch风格CLI工具

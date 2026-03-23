@@ -7,3 +7,5 @@ image: assets/PaperDebugger_paperdebugger_20251227_203021_761_20251227_203041_62
 # [PaperDebugger/paperdebugger](https://github.com/PaperDebugger/paperdebugger/)
 
 AI assistant for academic writing with Overleaf integration
+
+集成 Overleaf 的学术写作 AI 助手

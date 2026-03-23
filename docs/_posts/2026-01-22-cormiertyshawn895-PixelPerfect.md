@@ -7,3 +7,5 @@ image: assets/cormiertyshawn895_PixelPerfect_20260122_040649_999_20260122_040716
 # [cormiertyshawn895/PixelPerfect](https://github.com/cormiertyshawn895/PixelPerfect)
 
 Increases text size of iPhone and iPad apps on Mac
+
+在Mac上增加iPhone和iPad应用的文本大小

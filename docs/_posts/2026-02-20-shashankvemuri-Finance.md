@@ -7,3 +7,5 @@ image: assets/shashankvemuri_Finance_20260217_183536_791_20260217_183609_92df8d.
 # [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance)
 
 Collection of 150 Python programs for stock market analysis
+
+包含 150 个用于股票市场分析的 Python 程序集合

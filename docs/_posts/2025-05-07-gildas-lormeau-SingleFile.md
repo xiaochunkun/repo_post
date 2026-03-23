@@ -7,3 +7,5 @@ image: assets/gildas-lormeau_SingleFile_cropped.png
 # [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)
 
 Save any web page as a single HTML file for offline use
+
+将任何网页保存为单个 HTML 文件，供离线使用

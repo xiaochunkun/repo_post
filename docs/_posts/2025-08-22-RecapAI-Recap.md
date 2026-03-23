@@ -7,3 +7,5 @@ image: assets/20250818T113930407_RecapAI_Recap--20250820T141308133--cropped.png
 # [RecapAI/Recap](https://github.com/RecapAI/Recap)
 
 open source macOS app for private AI meeting summaries
+
+macOS 开源应用，本地私密生成 AI 会议摘要

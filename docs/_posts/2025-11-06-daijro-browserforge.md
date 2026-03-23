@@ -7,3 +7,5 @@ image: assets/daijro_browserforge_20251105_120317_032_20251105_123845_340716--20
 # [daijro/browserforge](https://github.com/daijro/browserforge/)
 
 Generates realistic browser fingerprints
+
+生成逼真的浏览器指纹

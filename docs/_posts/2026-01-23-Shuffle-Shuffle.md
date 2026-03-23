@@ -7,3 +7,5 @@ image: assets/Shuffle_Shuffle_20260122_150409_871_20260122_150457_ab7cc0.png
 # [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle)
 
 Open source automation platform for security professionals
+
+安全专业人员开源自动化平台

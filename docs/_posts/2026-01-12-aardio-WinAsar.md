@@ -7,3 +7,5 @@ image: assets/aardio_WinAsar_20260112_071213_728_20260112_071231_dc1a57.png
 # [aardio/WinAsar](https://github.com/aardio/WinAsar)
 
 Packs and extracts electron archive files on Windows
+
+在 Windows 上打包和提取 Electron 归档文件

@@ -7,3 +7,5 @@ image: assets/t3dotgg_stripe-recommendations_cropped.png
 # [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)
 
 tips for setting up Stripe without headaches
+
+无痛设置 Stripe 的提示

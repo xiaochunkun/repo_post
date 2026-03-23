@@ -7,3 +7,5 @@ image: assets/20250830T174459632--meshery--meshery--20250830T183547206--cropped.
 # [meshery/meshery](https://github.com/meshery/meshery)
 
 cloud native manager for kubernetes and multi-cloud
+
+Kubernetes 和多云环境的云原生管理器

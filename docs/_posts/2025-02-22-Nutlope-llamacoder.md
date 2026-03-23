@@ -7,3 +7,5 @@ image: assets/Nutlope_llamacoder_cropped.png
 # [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder)
 
 Open source tool to generate small React apps from prompts using Llama 3
+
+使用Llama 3从提示生成小型React应用的开源工具

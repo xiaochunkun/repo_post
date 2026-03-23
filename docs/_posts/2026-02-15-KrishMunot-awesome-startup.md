@@ -7,3 +7,5 @@ image: assets/KrishMunot_awesome_startup_20260213_124631_777_20260213_124727_2fb
 # [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup)
 
 Resources for building a startup
+
+构建初创公司的资源

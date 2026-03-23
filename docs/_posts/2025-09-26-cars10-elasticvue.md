@@ -7,3 +7,5 @@ image: assets/20250926T001819150--cars10--elasticvue--20250926T004312184--croppe
 # [cars10/elasticvue](https://github.com/cars10/elasticvue)
 
 GUI for managing Elasticsearch clusters in your browser or desktop
+
+用于在浏览器或桌面管理Elasticsearch集群的GUI

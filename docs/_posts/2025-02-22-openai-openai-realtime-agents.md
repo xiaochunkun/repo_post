@@ -7,3 +7,5 @@ image: assets/openai_openai-realtime-agents_cropped.png
 # [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents)
 
 Multi-agent realtime voice app demo using OpenAI's Realtime API
+
+使用OpenAI Realtime API的多代理实时语音应用演示

@@ -7,3 +7,5 @@ image: assets/TencentARC_InstantMesh_20251105_005612_245_20251105_013906_cc7897-
 # [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh/)
 
 Generates a 3D mesh from a single image
+
+从单张图像生成 3D 网格

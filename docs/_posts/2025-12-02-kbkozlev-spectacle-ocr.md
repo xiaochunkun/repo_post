@@ -7,3 +7,5 @@ image: assets/kbkozlev_spectacle_ocr_20251201_035557_630_20251201_035620_411b5a.
 # [kbkozlev/spectacle-ocr](https://github.com/kbkozlev/spectacle-ocr/)
 
 Adds OCR text extraction to Spectacle screenshots
+
+为 Spectacle 截图添加 OCR 文本提取功能

@@ -7,3 +7,5 @@ image: assets/20250919T021725301--wgsxm--PartCrafter--20250919T022326706--croppe
 # [wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter)
 
 3D mesh generation from images using diffusion transformers
+
+使用扩散变换器从图像生成3D网格

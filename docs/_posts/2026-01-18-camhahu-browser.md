@@ -7,3 +7,5 @@ image: assets/camhahu_browser_20260116_100641_036_20260116_100700_909da8.png
 # [camhahu/browser](https://github.com/camhahu/browser)
 
 Controls Chrome for AI agents with token efficiency
+
+为AI代理控制Chrome，提高令牌效率

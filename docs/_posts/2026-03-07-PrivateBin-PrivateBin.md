@@ -7,3 +7,5 @@ image: assets/PrivateBin_PrivateBin_20260305_202902_508_20260305_203030_ae3de8.p
 # [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
 
 Encrypts pastes via client side cryptography
+
+通过客户端加密技术加密粘贴内容

@@ -7,3 +7,5 @@ image: assets/20251005T225532554--beeradmoore--dlss-swapper--20251005T230254016-
 # [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 
 swap and manage DLSS, FSR, XeSS versions in your games
+
+在游戏中交换和管理 DLSS、FSR、XeSS 版本

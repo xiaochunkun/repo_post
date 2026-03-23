@@ -7,3 +7,5 @@ image: assets/20250823T013411346--cameron314--concurrentqueue--20250823T01391921
 # [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
 
 lock-free multi-producer multi-consumer queue for C++
+
+C++ 无锁队列，支持多生产者多消费者

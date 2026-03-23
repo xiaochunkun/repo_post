@@ -7,3 +7,5 @@ image: assets/glauth_glauth_20251031_032627_039_20251031_204436_9ed8fd--20251031
 # [glauth/glauth](https://github.com/glauth/glauth/)
 
 LDAP authentication server with configurable backends
+
+带可配置后端的 LDAP 认证服务器

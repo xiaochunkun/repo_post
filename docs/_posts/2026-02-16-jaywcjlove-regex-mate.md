@@ -7,3 +7,5 @@ image: assets/jaywcjlove_regex_mate_20260120_054810_651_20260120_054827_635c87.p
 # [jaywcjlove/regex-mate](https://github.com/jaywcjlove/regex-mate)
 
 Tests and creates regular expressions on macOS and iOS
+
+在 macOS 和 iOS 上测试和创建正则表达式

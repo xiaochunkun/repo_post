@@ -7,3 +7,5 @@ image: assets/sheepzh_time_tracker_4_browser_20260111_124340_150_20260111_124353
 # [sheepzh/time-tracker-4-browser](https://github.com/sheepzh/time-tracker-4-browser)
 
 Tracks time spent on websites
+
+跟踪网站时间花费

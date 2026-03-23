@@ -7,3 +7,5 @@ image: assets/20250923T020216724--toolleeo--awesome-cli-apps-in-a-csv--20250923T
 # [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
 
 huge list of CLI and TUI tools in CSV format
+
+CSV 格式的 CLI 和 TUI 工具大列表

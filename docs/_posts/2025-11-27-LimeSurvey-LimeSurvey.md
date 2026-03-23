@@ -7,3 +7,5 @@ image: assets/LimeSurvey_LimeSurvey_20251125_015956_849_20251126_101510_f83dbc--
 # [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey/)
 
 Open-source online survey platform
+
+开源在线调查平台

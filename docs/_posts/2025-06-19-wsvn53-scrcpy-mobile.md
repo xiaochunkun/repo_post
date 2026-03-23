@@ -7,3 +7,5 @@ image: assets/wsvn53_scrcpy-mobile_cropped.png
 # [wsvn53/scrcpy-mobile](https://github.com/wsvn53/scrcpy-mobile)
 
 Control Android devices from iOS or Android phones
+
+从iOS或Android手机控制Android设备

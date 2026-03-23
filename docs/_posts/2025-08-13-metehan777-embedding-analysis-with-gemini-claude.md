@@ -7,3 +7,5 @@ image: assets/20250810T062033--metehan777--embedding-analysis-with-gemini-claude
 # [metehan777/embedding-analysis-with-gemini-claude](https://github.com/metehan777/embedding-analysis-with-gemini-claude)
 
 SEO embedding analyzer with Gemini + Claude
+
+使用 Gemini + Claude 的 SEO 嵌入分析器

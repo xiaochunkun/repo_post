@@ -7,3 +7,5 @@ image: assets/chase-manning_pokemon-js_cropped.png
 # [chase-manning/pokemon-js](https://github.com/chase-manning/pokemon-js)
 
 pokemon game in javascript
+
+JavaScript 中的宝可梦游戏

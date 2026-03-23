@@ -7,3 +7,5 @@ image: assets/20250830T035451063--bgreenwell--doxx--20250901T033340180--cropped.
 # [bgreenwell/doxx](https://github.com/bgreenwell/doxx)
 
 view Word docs in terminal, search, export, copy, no Word needed
+
+在终端查看 Word 文档，支持搜索、导出和复制

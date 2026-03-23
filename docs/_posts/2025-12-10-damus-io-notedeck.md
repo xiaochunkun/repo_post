@@ -7,3 +7,5 @@ image: assets/damus_io_notedeck_20251208_010008_792_20251208_010121_fc31dd.png
 # [damus-io/notedeck](https://github.com/damus-io/notedeck/)
 
 Multiplatform Nostr client built with Rust
+
+使用 Rust 构建的多平台 Nostr 客户端

@@ -7,3 +7,5 @@ image: assets/xataio_agent_20260322_223256_989_20260322_223438_07197a.png
 # [xataio/agent](https://github.com/xataio/agent)
 
 Open source AI expert for PostgreSQL
+
+PostgreSQL的开源AI专家

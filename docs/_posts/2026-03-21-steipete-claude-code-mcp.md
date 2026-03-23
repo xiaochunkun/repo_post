@@ -7,3 +7,5 @@ image: assets/steipete_claude_code_mcp_20260321_124457_259_20260321_124527_33ebc
 # [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp)
 
 Runs Claude Code with bypassed permissions
+
+以绕过权限的方式运行 Claude Code

@@ -7,3 +7,5 @@ image: assets/shiyu_coder_Kronos_20260212_183316_027_20260212_183359_9f3edb.png
 # [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
 
 Foundation model for financial candlesticks
+
+金融蜡烛图的基础模型

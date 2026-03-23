@@ -7,3 +7,5 @@ image: assets/theodorusclarence_ts_nextjs_tailwind_starter_20251201_013830_131_2
 # [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/)
 
 Next.js, Tailwind CSS, and TypeScript starter
+
+Next.js、Tailwind CSS 和 TypeScript 入门模板

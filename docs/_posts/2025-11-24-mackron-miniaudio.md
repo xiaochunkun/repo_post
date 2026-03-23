@@ -7,3 +7,5 @@ image: assets/mackron_miniaudio_20251123_104817_491_20251124_003035_61131f--2025
 # [mackron/miniaudio](https://github.com/mackron/miniaudio/)
 
 Single file audio playback and capture library
+
+单文件音频播放和捕获库

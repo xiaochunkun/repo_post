@@ -7,3 +7,5 @@ image: assets/law_chain_hot_websocket_devtools_20260210_073812_694_20260210_0738
 # [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools)
 
 Proxies, simulates, and blocks WebSocket traffic in the browser
+
+在浏览器中代理、模拟和阻止 WebSocket 流量

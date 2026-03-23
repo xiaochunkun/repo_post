@@ -7,3 +7,5 @@ image: assets/jonssonyan_h_ui_20251225_143354_561_20251225_143411_a1fbd9.png
 # [jonssonyan/h-ui](https://github.com/jonssonyan/h-ui/)
 
 Web panel for Hysteria2 proxy management
+
+Hysteria2 代理管理的 Web 面板

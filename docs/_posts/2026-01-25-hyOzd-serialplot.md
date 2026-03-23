@@ -7,3 +7,5 @@ image: assets/hyOzd_serialplot_20260121_011056_520_20260121_011123_0219ac.png
 # [hyOzd/serialplot](https://github.com/hyOzd/serialplot)
 
 Plots data from serial ports in realtime
+
+实时绘制串口数据图表

@@ -7,3 +7,5 @@ image: assets/Mesh2Motion_mesh2motion_app_20260213_171444_569_20260213_171539_cc
 # [Mesh2Motion/mesh2motion-app](https://github.com/Mesh2Motion/mesh2motion-app)
 
 Assigns and exports animations for 3D models
+
+为 3D 模型分配和导出动画

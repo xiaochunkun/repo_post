@@ -7,3 +7,5 @@ image: assets/xpipe_io_xpipe_20260203_225908_422_20260203_225949_5d2674.png
 # [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
 
 Accesses server infrastructure from a local desktop without remote setup
+
+从本地桌面访问服务器基础设施，无需远程设置

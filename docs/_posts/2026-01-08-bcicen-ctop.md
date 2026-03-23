@@ -7,3 +7,5 @@ image: assets/bcicen_ctop_20260108_030417_971_20260108_030432_682746.png
 # [bcicen/ctop](https://github.com/bcicen/ctop)
 
 Interface for container metrics
+
+容器指标的界面

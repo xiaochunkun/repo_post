@@ -7,3 +7,5 @@ image: assets/microsoft_data_formulator_20260221_172746_736_20260221_191112_a542
 # [microsoft/data-formulator](https://github.com/microsoft/data-formulator)
 
 Visualizes data through AI agents
+
+通过 AI 智能体可视化数据

@@ -7,3 +7,5 @@ image: assets/yume-chan_ya-webadb_cropped.png
 # [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb)
 
 adb for android devices in your browser
+
+浏览器中的 Android 设备 adb

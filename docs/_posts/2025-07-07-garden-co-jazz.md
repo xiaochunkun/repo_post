@@ -7,3 +7,5 @@ image: assets/garden-co_jazz_cropped.png
 # [garden-co/jazz](https://github.com/garden-co/jazz)
 
 open-source toolkit for apps with distributed state
+
+用于具有分布式状态应用的开源工具包

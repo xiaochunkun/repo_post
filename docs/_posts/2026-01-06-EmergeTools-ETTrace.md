@@ -7,3 +7,5 @@ image: assets/EmergeTools_ETTrace_20260106_070718_799_20260106_070735_1cfb9d.png
 # [EmergeTools/ETTrace](https://github.com/EmergeTools/ETTrace/)
 
 Profiles iOS app performance without Xcode or Instruments
+
+无需 Xcode 或 Instruments 即可分析 iOS 应用性能

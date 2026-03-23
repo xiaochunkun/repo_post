@@ -7,3 +7,5 @@ image: assets/20250917T005645069--Shopify--flash-list--20250917T010146486--cropp
 # [Shopify/flash-list](https://github.com/Shopify/flash-list)
 
 React Native list component focused on speed, smooth scrolling, and easy FlatList replacement
+
+专注于速度、平滑滚动和易于替换 FlatList 的 React Native 列表组件

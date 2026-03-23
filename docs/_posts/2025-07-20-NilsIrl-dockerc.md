@@ -7,3 +7,5 @@ image: assets/NilsIrl_dockerc_cropped.png
 # [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)
 
 turn docker images into standalone executables
+
+将Docker镜像转换为独立可执行文件

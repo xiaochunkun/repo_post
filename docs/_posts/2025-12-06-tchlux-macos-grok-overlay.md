@@ -7,3 +7,5 @@ image: assets/tchlux_macos_grok_overlay_20251204_225518_262_20251204_225552_6a69
 # [tchlux/macos-grok-overlay](https://github.com/tchlux/macos-grok-overlay/)
 
 Pins Grok.com to a macOS overlay window
+
+将Grok.com固定在macOS覆盖窗口

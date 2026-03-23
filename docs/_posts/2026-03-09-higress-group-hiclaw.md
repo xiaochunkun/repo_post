@@ -7,3 +7,5 @@ image: assets/higress_group_hiclaw_20260304_142348_520_20260304_142529_91360d.pn
 # [higress-group/hiclaw](https://github.com/higress-group/hiclaw)
 
 System for coordination of AI agents through instant messaging
+
+通过即时消息协调AI代理的系统

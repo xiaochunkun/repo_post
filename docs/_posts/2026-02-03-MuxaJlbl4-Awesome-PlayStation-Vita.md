@@ -7,3 +7,5 @@ image: assets/MuxaJlbl4_Awesome_PlayStation_Vita_20260202_232139_108_20260202_23
 # [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 
 Curated list of PlayStation Vita software and resources
+
+PlayStation Vita 软件和资源的精选列表

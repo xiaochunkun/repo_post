@@ -7,3 +7,5 @@ image: assets/vsheg_tufted_20260131_170357_477_20260131_170440_39e477.png
 # [vsheg/tufted](https://github.com/vsheg/tufted)
 
 Template for websites using Typst HTML export
+
+使用 Typst HTML 导出的网站模板

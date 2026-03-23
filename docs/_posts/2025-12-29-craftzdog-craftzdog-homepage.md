@@ -7,3 +7,5 @@ image: assets/craftzdog_craftzdog_homepage_20251227_225555_879_20251227_225613_4
 # [craftzdog/craftzdog-homepage](https://github.com/craftzdog/craftzdog-homepage/)
 
 Homepage built with Next.js and Three.js
+
+使用 Next.js 和 Three.js 构建的主页

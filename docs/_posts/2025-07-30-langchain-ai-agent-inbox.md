@@ -7,3 +7,5 @@ image: assets/langchain-ai_agent-inbox_cropped.png
 # [langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox)
 
 UI for managing human-in-the-loop tasks with LangGraph agents
+
+使用LangGraph代理管理人在环任务的UI

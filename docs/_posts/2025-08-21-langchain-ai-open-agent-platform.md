@@ -7,3 +7,5 @@ image: assets/20250820T132119961_langchain-ai_open-agent-platform--20250820T1323
 # [langchain-ai/open-agent-platform](https://github.com/langchain-ai/open-agent-platform)
 
 no-code platform for building and managing LangGraph agents
+
+零代码构建和管理 LangGraph 智能体的平台

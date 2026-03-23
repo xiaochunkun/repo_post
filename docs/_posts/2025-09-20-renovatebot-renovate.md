@@ -7,3 +7,5 @@ image: assets/20250918T040653599--renovatebot--renovate--20250920T033005324--cro
 # [renovatebot/renovate](https://github.com/renovatebot/renovate)
 
 automated tool for updating dependencies with pull requests
+
+通过 pull request 自动更新依赖的工具

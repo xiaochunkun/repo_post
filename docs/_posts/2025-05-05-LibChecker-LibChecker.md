@@ -7,3 +7,5 @@ image: assets/LibChecker_LibChecker_cropped.png
 # [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker)
 
 See libraries used in apps on your device
+
+查看设备上应用使用的库

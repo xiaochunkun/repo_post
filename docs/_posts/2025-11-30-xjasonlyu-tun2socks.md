@@ -7,3 +7,5 @@ image: assets/xjasonlyu_tun2socks_20251127_193656_298_20251130_082620_14d109--20
 # [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks/)
 
 Routes all traffic through proxy
+
+将所有流量通过代理路由

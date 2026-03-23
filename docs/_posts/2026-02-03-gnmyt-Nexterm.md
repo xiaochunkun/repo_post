@@ -7,3 +7,5 @@ image: assets/gnmyt_Nexterm_20260203_023619_840_20260203_023646_9e911a.png
 # [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm)
 
 Server management software for SSH, VNC, and RDP
+
+用于 SSH、VNC 和 RDP 的服务器管理软件

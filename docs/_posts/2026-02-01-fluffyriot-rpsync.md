@@ -7,3 +7,5 @@ image: assets/fluffyriot_rpsync_20260131_212300_196_20260131_212337_9afbb4.png
 # [fluffyriot/rpsync](https://github.com/fluffyriot/rpsync)
 
 Aggregates social media statistics into a local database
+
+将社交媒体统计数据聚合到本地数据库

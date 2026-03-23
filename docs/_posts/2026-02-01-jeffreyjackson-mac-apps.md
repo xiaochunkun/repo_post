@@ -7,3 +7,5 @@ image: assets/jeffreyjackson_mac_apps_20260127_201653_467_20260127_201728_74d547
 # [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps)
 
 List of open-source Mac applications
+
+开源 Mac 应用列表

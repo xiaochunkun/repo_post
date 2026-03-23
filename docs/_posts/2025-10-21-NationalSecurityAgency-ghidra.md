@@ -7,3 +7,5 @@ image: assets/NationalSecurityAgency_ghidra_20251021_004813_837_20251021_064905-
 # [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra/)
 
 NSA's multi-platform code analysis framework
+
+NSA 的多平台代码分析框架

@@ -7,3 +7,5 @@ image: assets/i-am-bee_beeai-framework_cropped.png
 # [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
 
 Build AI agents with tools and frameworks
+
+使用工具和框架构建 AI 代理

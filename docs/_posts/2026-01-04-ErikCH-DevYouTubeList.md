@@ -7,3 +7,5 @@ image: assets/ErikCH_DevYouTubeList_20260103_141308_919_20260103_141325_60499b.p
 # [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList/)
 
 Directory of development channels on YouTube
+
+YouTube开发频道目录

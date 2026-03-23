@@ -7,3 +7,5 @@ image: assets/xuiltul_animaworks_20260322_072515_590_20260322_072551_d8b3c9.png
 # [xuiltul/animaworks](https://github.com/xuiltul/animaworks)
 
 Autonomous AI agent organization framework
+
+自主AI智能体组织框架

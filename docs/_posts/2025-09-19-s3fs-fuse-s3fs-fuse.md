@@ -7,3 +7,5 @@ image: assets/20250919T021232368--s3fs-fuse--s3fs-fuse--20250919T022131870--crop
 # [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
 
 mount S3 buckets as local drives on Linux, macOS, or FreeBSD
+
+在Linux、macOS或FreeBSD上将S3存储桶挂载为本地驱动器

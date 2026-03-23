@@ -7,3 +7,5 @@ image: assets/alephpi_Texo_20251121_105806_115_20251121_211441_dd8a54--20251121T
 # [alephpi/Texo](https://github.com/alephpi/Texo/)
 
 20M parameter LaTeX OCR in a browser
+
+浏览器2000万参数LaTeX OCR

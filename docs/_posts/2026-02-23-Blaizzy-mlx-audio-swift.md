@@ -7,3 +7,5 @@ image: assets/Blaizzy_mlx_audio_swift_20260222_064510_000_20260222_064544_52b44f
 # [Blaizzy/mlx-audio-swift](https://github.com/Blaizzy/mlx-audio-swift)
 
 Audio processing with MLX on Apple Silicon
+
+在Apple Silicon上使用MLX进行音频处理

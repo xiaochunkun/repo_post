@@ -7,3 +7,5 @@ image: assets/redis_Redis_for_VS_Code_20251121_131903_562_20251122_033721_975838
 # [redis/Redis-for-VS-Code](https://github.com/redis/Redis-for-VS-Code/)
 
 Redis GUI in VS Code
+
+VS Code 中的 Redis GUI

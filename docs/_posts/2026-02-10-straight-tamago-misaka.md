@@ -7,3 +7,5 @@ image: assets/straight_tamago_misaka_20260207_113546_423_20260207_113601_df83f6.
 # [straight-tamago/misaka](https://github.com/straight-tamago/misaka)
 
 Customizes iOS and tvOS without a jailbreak
+
+无需越狱自定义iOS和tvOS

@@ -7,3 +7,5 @@ image: assets/mohyware_clip_js_20260107_022232_668_20260107_022659_f604bd.png
 # [mohyware/clip-js](https://github.com/mohyware/clip-js/)
 
 Video editor in the browser using Next.js and FFmpeg
+
+使用 Next.js 和 FFmpeg 的浏览器视频编辑器

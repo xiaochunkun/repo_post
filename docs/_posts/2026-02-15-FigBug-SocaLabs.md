@@ -7,3 +7,5 @@ image: assets/FigBug_SocaLabs_20260201_103331_620_20260201_103415_5d1895.png
 # [FigBug/SocaLabs](https://github.com/FigBug/SocaLabs)
 
 Collection of audio plugins for multiple platforms
+
+多平台音频插件集合

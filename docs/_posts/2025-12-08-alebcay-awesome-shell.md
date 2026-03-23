@@ -7,3 +7,5 @@ image: assets/alebcay_awesome_shell_20251205_032850_264_20251205_032951_47e173.p
 # [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell/)
 
 Curated list of command-line frameworks and toolkits
+
+精选的命令行框架和工具包列表

@@ -7,3 +7,5 @@ image: assets/BigBodyCobain_Shadowbroker_20260310_004255_143_20260310_004441_034
 # [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
 
 OSINT dashboard for tracking aircraft, ships, and satellites
+
+跟踪飞机、船只和卫星的 OSINT 仪表板

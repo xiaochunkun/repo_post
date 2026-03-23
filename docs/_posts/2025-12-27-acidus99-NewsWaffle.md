@@ -7,3 +7,5 @@ image: assets/acidus99_NewsWaffle_20251225_230726_151_20251225_230744_33dbed.png
 # [acidus99/NewsWaffle](https://github.com/acidus99/NewsWaffle/)
 
 Gateway to news websites from Gemini
+
+从 Gemini 访问新闻网站的网关

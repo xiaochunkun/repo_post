@@ -7,3 +7,5 @@ image: assets/bernatsampera_event_deep_research_20251105_133532_073_20251105_210
 # [bernatsampera/event-deep-research](https://github.com/bernatsampera/event-deep-research/)
 
 AI agent researches historical figures and creates a JSON timeline
+
+AI 代理研究历史人物并创建 JSON 时间线

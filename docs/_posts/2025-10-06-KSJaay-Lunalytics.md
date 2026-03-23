@@ -7,3 +7,5 @@ image: assets/20251005T103020478--KSJaay--Lunalytics--20251005T104002153--croppe
 # [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics)
 
 self-hosted monitoring for uptime, incidents, and alerts
+
+自托管监控，用于正常运行时间、事件和警报

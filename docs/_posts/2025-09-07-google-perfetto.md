@@ -7,3 +7,5 @@ image: assets/google_perfetto--20250906T221637959--cropped.png
 # [google/perfetto](https://github.com/google/perfetto)
 
 system profiling and tracing for Android and Linux
+
+Android 和 Linux 系统性能分析与追踪

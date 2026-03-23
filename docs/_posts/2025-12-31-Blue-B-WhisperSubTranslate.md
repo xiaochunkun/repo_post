@@ -7,3 +7,5 @@ image: assets/Blue_B_WhisperSubTranslate_20251229_104647_244_20251229_104704_c1b
 # [Blue-B/WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate/)
 
 Extracts subtitles from video and translates them locally
+
+从视频中提取字幕并本地翻译

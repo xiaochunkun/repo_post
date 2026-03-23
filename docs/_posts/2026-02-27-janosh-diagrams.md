@@ -7,3 +7,5 @@ image: assets/janosh_diagrams_20260210_123516_247_20260210_123635_7194bc.png
 # [janosh/diagrams](https://github.com/janosh/diagrams)
 
 Collection of scientific diagrams in TikZ and Typst
+
+TikZ和Typst中的科学图表集合

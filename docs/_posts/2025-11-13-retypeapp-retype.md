@@ -7,3 +7,5 @@ image: assets/retypeapp_retype_20251112_044451_350_20251113_035640_a17927--20251
 # [retypeapp/retype](https://github.com/retypeapp/retype/)
 
 Static site generator for Markdown files
+
+用于 Markdown 文件的静态站点生成器

@@ -7,3 +7,5 @@ image: assets/horilla-opensource_horilla_cropped.png
 # [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla)
 
 open source HR software for managing recruitment, payroll, attendance, and more
+
+用于管理招聘、薪资、考勤等的开源 HR 软件

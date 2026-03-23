@@ -7,3 +7,5 @@ image: assets/superdesigndev_superdesign_cropped.png
 # [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign)
 
 open-source design agent for UI mockups in your IDE
+
+IDE中的开源UI设计代理

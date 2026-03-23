@@ -7,3 +7,5 @@ image: assets/initialcommit_com_git_sim_20260204_131136_858_20260204_131222_0348
 # [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim)
 
 Visualizes Git operations as images or videos
+
+将 Git 操作可视化为图像或视频

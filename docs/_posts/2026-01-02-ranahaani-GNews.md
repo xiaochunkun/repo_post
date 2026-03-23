@@ -7,3 +7,5 @@ image: assets/ranahaani_GNews_20260101_060910_958_20260101_060926_c5abb5.png
 # [ranahaani/GNews](https://github.com/ranahaani/GNews/)
 
 Python API for Google News articles in JSON format
+
+以 JSON 格式获取 Google 新闻文章的 Python API

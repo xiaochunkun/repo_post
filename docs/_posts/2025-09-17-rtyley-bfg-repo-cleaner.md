@@ -7,3 +7,5 @@ image: assets/20250917T011343638--rtyley--bfg-repo-cleaner--20250917T011741403--
 # [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner)
 
 removes big files and sensitive data from git history fast
+
+快速从 git 历史中移除大文件和敏感数据

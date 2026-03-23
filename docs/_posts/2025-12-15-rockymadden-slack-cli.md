@@ -7,3 +7,5 @@ image: assets/rockymadden_slack_cli_20251213_114156_922_20251213_114219_77b088.p
 # [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli/)
 
 Slack CLI via pure bash
+
+通过纯bash实现的Slack CLI

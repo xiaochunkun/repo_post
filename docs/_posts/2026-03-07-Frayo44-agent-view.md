@@ -7,3 +7,5 @@ image: assets/Frayo44_agent_view_20260304_104148_313_20260304_104328_73785c.png
 # [Frayo44/agent-view](https://github.com/Frayo44/agent-view)
 
 Terminal dashboard for managing AI coding agents
+
+管理AI编码代理的终端仪表板

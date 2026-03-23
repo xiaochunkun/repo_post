@@ -7,3 +7,5 @@ image: assets/jakops88_hub_AgentAudit_AI_Grounding_Reliability_Check_20260115_14
 # [jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check)
 
 Middleware for detecting AI hallucinations and verifying RAG grounding
+
+AI幻觉检测和RAG验证中间件

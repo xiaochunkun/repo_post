@@ -7,3 +7,5 @@ image: assets/clawnetes_Clawnetes_20260312_223343_240_20260312_223512_4ed07f.png
 # [clawnetes/Clawnetes](https://github.com/clawnetes/Clawnetes)
 
 Installs and launches AI agents without terminal
+
+无需终端即可安装和启动AI代理

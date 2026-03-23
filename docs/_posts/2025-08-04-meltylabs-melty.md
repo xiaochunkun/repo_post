@@ -7,3 +7,5 @@ image: assets/meltylabs_melty_cropped.png
 # [meltylabs/melty](https://github.com/meltylabs/melty)
 
 AI chat-based code editor where messages become git commits
+
+基于AI聊天的代码编辑器，消息可转为git提交

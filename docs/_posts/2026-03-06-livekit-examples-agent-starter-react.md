@@ -7,3 +7,5 @@ image: assets/livekit_examples_agent_starter_react_20260212_130301_130_20260212_
 # [livekit-examples/agent-starter-react](https://github.com/livekit-examples/agent-starter-react)
 
 Voice AI interface for agents
+
+智能体的语音 AI 界面

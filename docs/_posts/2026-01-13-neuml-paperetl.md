@@ -7,3 +7,5 @@ image: assets/neuml_paperetl_20260112_165219_893_20260112_165234_2e83f7.png
 # [neuml/paperetl](https://github.com/neuml/paperetl)
 
 Parses medical papers into databases
+
+将医学论文解析到数据库中

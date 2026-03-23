@@ -7,3 +7,5 @@ image: assets/renatokuipers_dynamic_kanban_mcp_20260113_144235_522_20260113_1442
 # [renatokuipers/dynamic-kanban-mcp](https://github.com/renatokuipers/dynamic-kanban-mcp)
 
 Syncs Claude with a board in real time
+
+实时同步Claude与看板

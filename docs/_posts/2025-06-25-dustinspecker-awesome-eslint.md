@@ -7,3 +7,5 @@ image: assets/dustinspecker_awesome-eslint_cropped.png
 # [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint)
 
 List of ESLint plugins, configs, parsers, tools, and tutorials
+
+ESLint插件、配置、解析器、工具和教程的列表

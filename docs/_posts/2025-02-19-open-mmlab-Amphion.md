@@ -7,3 +7,5 @@ image: assets/open-mmlab_Amphion_cropped.png
 # [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)
 
 Amphion: Audio, music, and speech generation toolkit
+
+Amphion：音频、音乐和语音生成工具包

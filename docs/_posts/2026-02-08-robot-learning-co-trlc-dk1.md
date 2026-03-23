@@ -7,3 +7,5 @@ image: assets/robot_learning_co_trlc_dk1_20260206_171943_574_20260206_172012_c14
 # [robot-learning-co/trlc-dk1](https://github.com/robot-learning-co/trlc-dk1)
 
 Hardware kit for robot learning
+
+机器人学习硬件套件

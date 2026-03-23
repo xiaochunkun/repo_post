@@ -7,3 +7,5 @@ image: assets/corkami_pics_20260129_075737_623_20260129_075818_489397.png
 # [corkami/pics](https://github.com/corkami/pics)
 
 Visual dissections of file formats
+
+文件格式的可视化解剖

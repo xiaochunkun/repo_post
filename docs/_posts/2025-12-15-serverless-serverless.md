@@ -7,3 +7,5 @@ image: assets/serverless_serverless_20251213_101726_150_20251213_101838_ef04ef.p
 # [serverless/serverless](https://github.com/serverless/serverless/)
 
 Builds auto-scaling apps on AWS Lambda
+
+在AWS Lambda上构建自动扩展应用

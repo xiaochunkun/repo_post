@@ -7,3 +7,5 @@ image: assets/vibeflowing_inc_vibe_figma_20260305_081709_359_20260305_081858_b5b
 # [vibeflowing-inc/vibe_figma](https://github.com/vibeflowing-inc/vibe_figma)
 
 Converter for Figma designs into React components with Tailwind CSS
+
+将Figma设计转换为使用Tailwind CSS的React组件

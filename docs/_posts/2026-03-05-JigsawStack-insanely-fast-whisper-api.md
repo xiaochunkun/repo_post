@@ -7,3 +7,5 @@ image: assets/JigsawStack_insanely_fast_whisper_api_20260304_224201_420_20260304
 # [JigsawStack/insanely-fast-whisper-api](https://github.com/JigsawStack/insanely-fast-whisper-api)
 
 API for audio transcription with speaker diarization
+
+带说话人识别的音频转录 API

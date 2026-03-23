@@ -7,3 +7,5 @@ image: assets/algorithm-visualizer_algorithm-visualizer--20250903T023603006--cro
 # [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 visualizes algorithms from code in your browser
+
+在浏览器中可视化展示代码中的算法

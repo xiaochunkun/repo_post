@@ -7,3 +7,5 @@ image: assets/lscambo13_ElegantFin_20251201_030025_432_20251201_030052_6a0011.pn
 # [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin/)
 
 Jellyseerr-inspired theme for Jellyfin
+
+受 Jellyseerr 启发的 Jellyfin 主题

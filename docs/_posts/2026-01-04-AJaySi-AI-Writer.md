@@ -7,3 +7,5 @@ image: assets/AJaySi_AI_Writer_20260103_070946_051_20260103_071005_776571.png
 # [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer/)
 
 Generates marketing content with search engine data and brand voice
+
+利用搜索引擎数据和品牌语音生成营销内容

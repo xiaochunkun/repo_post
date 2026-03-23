@@ -7,3 +7,5 @@ image: assets/20250825T034506813--mindee--doctr--20250826T023907939--cropped.png
 # [mindee/doctr](https://github.com/mindee/doctr)
 
 extracts text from documents and images using OCR
+
+OCR 工具，从文档和图像中提取文本

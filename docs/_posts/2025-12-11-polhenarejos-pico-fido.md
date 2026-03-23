@@ -7,3 +7,5 @@ image: assets/polhenarejos_pico_fido_20251209_004938_539_20251209_005013_4c8796.
 # [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido/)
 
 Turns Raspberry Pi Pico into FIDO passkey
+
+将Raspberry Pi Pico转换为FIDO通行密钥

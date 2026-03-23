@@ -7,3 +7,5 @@ image: assets/20250831T001321459--charmbracelet--freeze--20250831T001655292--cro
 # [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 
 turn code or terminal output into images
+
+将代码或终端输出转换为图片

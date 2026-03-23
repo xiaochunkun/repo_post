@@ -7,3 +7,5 @@ image: assets/cariboulabs_cariboulite_20251114_030549_102_20251114_155908_1eb28e
 # [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite/)
 
 Dual-channel SDR HAT for Raspberry Pi
+
+适用于Raspberry Pi的双通道SDR HAT

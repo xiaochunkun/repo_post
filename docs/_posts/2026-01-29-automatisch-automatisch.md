@@ -7,3 +7,5 @@ image: assets/automatisch_automatisch_20260122_002523_867_20260122_002548_dd7b85
 # [automatisch/automatisch](https://github.com/automatisch/automatisch)
 
 Self-hosted workflow automation for business processes
+
+业务流程自托管工作流自动化

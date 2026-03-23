@@ -7,3 +7,5 @@ image: assets/BidingCC_BuildingAI_20251221_050620_169_20251221_050642_350bee.png
 # [BidingCC/BuildingAI](https://github.com/BidingCC/BuildingAI/)
 
 Platform for building agent applications without code
+
+无代码构建智能体应用平台

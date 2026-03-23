@@ -7,3 +7,5 @@ image: assets/Toinane_colorpicker_20251122_071437_497_20251122_111237_e677aa--20
 # [Toinane/colorpicker](https://github.com/Toinane/colorpicker/)
 
 Desktop color management software
+
+桌面颜色管理软件

@@ -7,3 +7,5 @@ image: assets/wpscanteam_wpscan_20260116_153335_583_20260116_153349_c10da7.png
 # [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan)
 
 Scans WordPress sites for security vulnerabilities
+
+扫描WordPress站点安全漏洞

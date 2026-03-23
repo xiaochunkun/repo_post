@@ -7,3 +7,5 @@ image: assets/weitianxin_Awesome_Agentic_Reasoning_20260210_032607_221_20260210_
 # [weitianxin/Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 Resources for agentic reasoning in language models
+
+语言模型中代理推理的资源

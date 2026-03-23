@@ -7,3 +7,5 @@ image: assets/20250826T031242322--ikuaitu--vue-fabric-editor--20250826T031727312
 # [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)
 
 image editor for Vue with drag-and-drop, plugins, PSD and SVG support
+
+Vue 图像编辑器，支持拖放、插件、PSD 和 SVG

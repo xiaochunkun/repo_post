@@ -7,3 +7,5 @@ image: assets/hailo_ai_tappas_20251125_010728_159_20251126_101046_e097e5--202511
 # [hailo-ai/tappas](https://github.com/hailo-ai/tappas/)
 
 Infrastructure for building video analytics pipelines
+
+构建视频分析流水线的基础设施

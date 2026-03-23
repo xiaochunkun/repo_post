@@ -7,3 +7,5 @@ image: assets/aws_samples_aws_auto_inventory_20251203_005008_127_20251203_005031
 # [aws-samples/aws-auto-inventory](https://github.com/aws-samples/aws-auto-inventory/)
 
 Scans AWS services to collect resource information
+
+扫描AWS服务以收集资源信息

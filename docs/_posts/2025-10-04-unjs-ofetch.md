@@ -7,3 +7,5 @@ image: assets/20251003T231122205--unjs--ofetch--20251003T231423916--cropped.png
 # [unjs/ofetch](https://github.com/unjs/ofetch)
 
 Better fetch API that works everywhere with smart JSON parsing and auto retry
+
+更好的fetch API，支持智能JSON解析和自动重试，可在任何地方使用

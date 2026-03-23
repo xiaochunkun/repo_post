@@ -7,3 +7,5 @@ image: assets/flanksource_canary_checker_20251203_010722_231_20251203_010759_b4b
 # [flanksource/canary-checker](https://github.com/flanksource/canary-checker/)
 
 Kubernetes-native health check platform
+
+Kubernetes原生健康检查平台

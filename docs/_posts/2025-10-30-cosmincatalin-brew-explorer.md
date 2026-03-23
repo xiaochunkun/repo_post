@@ -7,3 +7,5 @@ image: assets/cosmincatalin_brew_explorer_20251029_210339_142_20251029_213318_42
 # [cosmincatalin/brew-explorer](https://github.com/cosmincatalin/brew-explorer/)
 
 Terminal UI for managing Homebrew packages
+
+用于管理 Homebrew 包的终端 UI

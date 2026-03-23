@@ -7,3 +7,5 @@ image: assets/knightnemo_Awesome_World_Models_20260129_190142_677_20260129_19023
 # [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)
 
 Resource for world modeling research
+
+世界建模研究资源

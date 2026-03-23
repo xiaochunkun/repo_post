@@ -7,3 +7,5 @@ image: assets/fiorix_wsdl2go_20251209_030020_008_20251209_030045_894426.png
 # [fiorix/wsdl2go](https://github.com/fiorix/wsdl2go/)
 
 Generates Go code from WSDL
+
+从 WSDL 生成 Go 代码

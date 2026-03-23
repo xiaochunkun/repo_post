@@ -7,3 +7,5 @@ image: assets/twelvedata_twelvedata_python_20260204_031909_640_20260204_031925_4
 # [twelvedata/twelvedata-python](https://github.com/twelvedata/twelvedata-python)
 
 Python client for financial data and WebSocket streams
+
+金融数据和WebSocket流的Python客户端

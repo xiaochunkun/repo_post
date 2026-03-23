@@ -7,3 +7,5 @@ image: assets/alurm_json2dir--20250812T232217--cropped.png
 # [alurm/json2dir](https://github.com/alurm/json2dir)
 
 convert JSON into a directory with files, symlinks, and scripts
+
+将JSON转换为包含文件、符号链接和脚本的目录

@@ -7,3 +7,5 @@ image: assets/20250830T040612871--stacklok--toolhive--20250830T041143862--croppe
 # [stacklok/toolhive](https://github.com/stacklok/toolhive)
 
 run and manage MCP servers in secure containers
+
+在安全容器中运行和管理 MCP 服务器

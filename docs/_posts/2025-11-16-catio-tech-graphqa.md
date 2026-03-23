@@ -7,3 +7,5 @@ image: assets/catio_tech_graphqa_20251115_044409_512_20251116_033815_33b4e8--202
 # [catio-tech/graphqa](https://github.com/catio-tech/graphqa/)
 
 Ask questions about a graph in natural language
+
+用自然语言对图表提问

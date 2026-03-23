@@ -7,3 +7,5 @@ image: assets/34j_decryptpdf_20260102_191706_876_20260102_191759_3c774b.png
 # [34j/decryptpdf](https://github.com/34j/decryptpdf/)
 
 Decrypts PDF files via command line
+
+通过命令行解密PDF文件

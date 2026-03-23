@@ -7,3 +7,5 @@ image: assets/cilium_pwru_20251111_051433_560_20251112_020124_1d80b1--20251112T0
 # [cilium/pwru](https://github.com/cilium/pwru/)
 
 eBPF-based tool for debugging network connectivity issues
+
+基于eBPF的调试网络连接问题的工具

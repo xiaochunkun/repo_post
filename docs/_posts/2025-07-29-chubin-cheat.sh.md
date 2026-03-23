@@ -7,3 +7,5 @@ image: assets/chubin_cheat.sh_cropped.png
 # [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
 
 command line cheat sheets for devs
+
+面向开发者的命令行速查表

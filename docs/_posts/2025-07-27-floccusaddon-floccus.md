@@ -7,3 +7,5 @@ image: assets/floccusaddon_floccus_cropped.png
 # [floccusaddon/floccus](https://github.com/floccusaddon/floccus)
 
 sync bookmarks across browsers and devices with your own storage
+
+使用自有存储跨浏览器和设备同步书签

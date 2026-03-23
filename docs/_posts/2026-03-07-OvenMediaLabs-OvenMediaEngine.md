@@ -7,3 +7,5 @@ image: assets/OvenMediaLabs_OvenMediaEngine_20260205_162858_687_20260205_162953_
 # [OvenMediaLabs/OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine)
 
 Streams live video over WebRTC and LLHLS
+
+通过WebRTC和LLHLS流式传输实时视频

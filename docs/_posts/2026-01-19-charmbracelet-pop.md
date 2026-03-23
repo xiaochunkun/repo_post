@@ -7,3 +7,5 @@ image: assets/charmbracelet_pop_20260116_164255_977_20260116_164323_d7a8ad.png
 # [charmbracelet/pop](https://github.com/charmbracelet/pop)
 
 Sends emails from the terminal via a TUI or CLI
+
+通过TUI或CLI从终端发送邮件

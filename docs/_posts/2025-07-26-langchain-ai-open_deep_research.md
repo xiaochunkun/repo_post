@@ -7,3 +7,5 @@ image: assets/langchain-ai_open_deep_research_cropped.png
 # [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
 
 AI agent for deep research reports and workflow automation
+
+深度研究报告和工作流自动化的AI代理

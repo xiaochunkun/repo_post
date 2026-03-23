@@ -7,3 +7,5 @@ image: assets/skatkov_devtui_20260220_150313_963_20260220_150413_e9948c.png
 # [skatkov/devtui](https://github.com/skatkov/devtui)
 
 Terminal toolkit for developer utilities
+
+开发者实用工具的终端工具包

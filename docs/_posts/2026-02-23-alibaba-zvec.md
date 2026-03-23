@@ -7,3 +7,5 @@ image: assets/alibaba_zvec_20260222_080054_686_20260222_080128_484680.png
 # [alibaba/zvec](https://github.com/alibaba/zvec)
 
 Vector database for embeddings in applications
+
+用于应用嵌入的向量数据库

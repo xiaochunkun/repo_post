@@ -7,3 +7,5 @@ image: assets/20251009T061649649--TechNomadCode--AI-Product-Development-Toolkit-
 # [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)
 
 prompt templates that guide AI through building products step by step
+
+引导 AI 逐步构建产品的提示模板

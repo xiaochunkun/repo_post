@@ -7,3 +7,5 @@ image: assets/denizsafak_abogen_20251018_165815_774_20251018_182644--20251018T20
 # [denizsafak/abogen](https://github.com/denizsafak/abogen/)
 
 Generates speech and subtitles from text
+
+从文本生成语音和字幕

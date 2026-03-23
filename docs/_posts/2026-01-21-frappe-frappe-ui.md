@@ -7,3 +7,5 @@ image: assets/frappe_frappe_ui_20260120_030252_472_20260120_030317_e6573d.png
 # [frappe/frappe-ui](https://github.com/frappe/frappe-ui)
 
 Set of components for building frontends with Vue and Tailwind
+
+使用 Vue 和 Tailwind 构建前端的组件集

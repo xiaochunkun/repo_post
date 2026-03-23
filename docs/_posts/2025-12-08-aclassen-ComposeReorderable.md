@@ -7,3 +7,5 @@ image: assets/aclassen_ComposeReorderable_20251207_174214_374_20251207_174246_56
 # [aclassen/ComposeReorderable](https://github.com/aclassen/ComposeReorderable/)
 
 Enables drag-and-drop reordering in Jetpack Compose lists and grids
+
+在Jetpack Compose列表和网格中启用拖放重新排序

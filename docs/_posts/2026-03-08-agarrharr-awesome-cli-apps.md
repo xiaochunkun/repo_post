@@ -7,3 +7,5 @@ image: assets/agarrharr_awesome_cli_apps_20260213_193900_110_20260213_193955_f7c
 # [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 
 Curated list of command line applications
+
+精选命令行应用列表

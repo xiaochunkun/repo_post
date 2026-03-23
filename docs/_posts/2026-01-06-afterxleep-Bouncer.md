@@ -7,3 +7,5 @@ image: assets/afterxleep_Bouncer_20260106_082142_583_20260106_082157_5e24d1.png
 # [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer/)
 
 Filters SMS messages locally on iOS devices
+
+在 iOS 设备上本地过滤短信

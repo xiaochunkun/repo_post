@@ -7,3 +7,5 @@ image: assets/GhufranBarcha_n8n_ai_agents_20251226_042047_159_20251226_042105_a7
 # [GhufranBarcha/n8n_ai_agents](https://github.com/GhufranBarcha/n8n_ai_agents/)
 
 AI agent workflows for automation platform
+
+自动化平台的 AI 代理工作流

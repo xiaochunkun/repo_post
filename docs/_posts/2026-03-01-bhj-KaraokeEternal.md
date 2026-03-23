@@ -7,3 +7,5 @@ image: assets/bhj_KaraokeEternal_20260222_121529_621_20260222_121554_000f92.png
 # [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal)
 
 Self-hosted karaoke party system in a browser
+
+浏览器中的自托管卡拉OK派对系统

@@ -7,3 +7,5 @@ image: assets/Robbyant_lingbot_world_20260220_112413_786_20260220_112432_2e9de4.
 # [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)
 
 World simulator with real-time interactivity
+
+具备实时交互性的世界模拟器

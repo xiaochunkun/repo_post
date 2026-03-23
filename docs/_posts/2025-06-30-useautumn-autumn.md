@@ -7,3 +7,5 @@ image: assets/useautumn_autumn_cropped.png
 # [useautumn/autumn](https://github.com/useautumn/autumn)
 
 Open-source billing layer for managing pricing and payments with Stripe
+
+用于管理定价和支付的开源计费层，支持 Stripe

@@ -7,3 +7,5 @@ image: assets/20250929T013824021--Privoce--vocechat-web--20250929T014646656--cro
 # [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web)
 
 web chat client for self-hosted messaging, built with React and Redux
+
+自托管消息的Web聊天客户端，使用React和Redux构建

@@ -7,3 +7,5 @@ image: assets/maoxiaoke_BaiJi_releases_20251226_024316_089_20251226_024338_72bdb
 # [maoxiaoke/BaiJi-releases](https://github.com/maoxiaoke/BaiJi-releases/)
 
 Converts and compresses images offline
+
+离线转换和压缩图像

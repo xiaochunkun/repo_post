@@ -7,3 +7,5 @@ image: assets/anonfaded_FadCam_20260103_181724_225_20260103_181814_823494.png
 # [anonfaded/FadCam](https://github.com/anonfaded/FadCam/)
 
 Records video and screen without analytics
+
+无分析功能的视频和屏幕录制工具

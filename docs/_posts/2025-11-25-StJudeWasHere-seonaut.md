@@ -7,3 +7,5 @@ image: assets/StJudeWasHere_seonaut_20251123_195905_602_20251125_012715_515aed--
 # [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut/)
 
 Open source SEO auditing tool
+
+开源 SEO 审计工具

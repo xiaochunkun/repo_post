@@ -7,3 +7,5 @@ image: assets/bmwas_InfiniteTalk_20251223_054241_705_20251223_054258_04c070.png
 # [bmwas/InfiniteTalk](https://github.com/bmwas/InfiniteTalk/)
 
 Generates talking videos of any length from audio
+
+从音频生成任意长度的说话视频

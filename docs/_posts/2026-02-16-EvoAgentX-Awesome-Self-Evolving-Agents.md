@@ -7,3 +7,5 @@ image: assets/EvoAgentX_Awesome_Self_Evolving_Agents_20260214_003940_655_2026021
 # [EvoAgentX/Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)
 
 Taxonomy of self-evolving AI agents
+
+自进化 AI 代理的分类体系

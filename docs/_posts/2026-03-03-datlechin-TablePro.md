@@ -7,3 +7,5 @@ image: assets/datlechin_TablePro_20260302_185654_237_20260302_185857_629a8a.png
 # [datlechin/TablePro](https://github.com/datlechin/TablePro)
 
 macOS database client with AI SQL assistance
+
+具备AI SQL辅助的macOS数据库客户端

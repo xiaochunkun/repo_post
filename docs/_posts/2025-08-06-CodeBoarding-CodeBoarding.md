@@ -7,3 +7,5 @@ image: assets/CodeBoarding_CodeBoarding_cropped.png
 # [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding)
 
 visualize codebase structure with diagrams
+
+通过图表可视化代码库结构

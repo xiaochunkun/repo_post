@@ -7,3 +7,5 @@ image: assets/BorealisAI_PETSA_cropped.png
 # [BorealisAI/PETSA](https://github.com/BorealisAI/PETSA)
 
 test-time adaptation for time series forecasting
+
+时间序列预测的测试时适应方法

@@ -7,3 +7,5 @@ image: assets/dogancelik_awesome_bookmarking_20251216_045115_457_20251216_045139
 # [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking/)
 
 List of bookmarking tools and managers
+
+书签工具和管理器列表

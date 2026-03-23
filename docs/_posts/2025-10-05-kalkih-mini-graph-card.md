@@ -7,3 +7,5 @@ image: assets/20251005T101103987--kalkih--mini-graph-card--20251005T102046058--c
 # [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card)
 
 minimalistic customizable graphs for Home Assistant dashboards
+
+Home Assistant仪表板的极简可定制图表

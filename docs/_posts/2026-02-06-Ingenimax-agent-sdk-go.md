@@ -7,3 +7,5 @@ image: assets/Ingenimax_agent_sdk_go_20260205_133641_173_20260205_133656_4ef852.
 # [Ingenimax/agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go)
 
 Framework for AI agents with memory and tool execution
+
+具有记忆和工具执行功能的AI代理框架

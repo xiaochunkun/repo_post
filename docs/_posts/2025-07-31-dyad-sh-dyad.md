@@ -7,3 +7,5 @@ image: assets/dyad-sh_dyad_cropped.png
 # [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 
 local open-source AI app builder, runs on your machine
+
+本地开源 AI 应用构建器，在您的机器上运行

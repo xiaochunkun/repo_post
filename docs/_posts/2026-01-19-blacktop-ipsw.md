@@ -7,3 +7,5 @@ image: assets/blacktop_ipsw_20260118_011821_368_20260118_011835_73a640.png
 # [blacktop/ipsw](https://github.com/blacktop/ipsw)
 
 Framework for iOS and macOS research
+
+iOS和macOS研究的框架

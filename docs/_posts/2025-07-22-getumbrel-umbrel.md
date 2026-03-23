@@ -7,3 +7,5 @@ image: assets/getumbrel_umbrel_cropped.png
 # [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
 
 run your own home server, bitcoin node, and self-hosted apps
+
+运行个人家庭服务器、比特币节点和自托管应用

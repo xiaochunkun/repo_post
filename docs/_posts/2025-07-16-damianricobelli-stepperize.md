@@ -7,3 +7,5 @@ image: assets/damianricobelli_stepperize_cropped.png
 # [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize)
 
 Solid JS library for building flexible stepper components
+
+用于构建灵活步进器组件的Solid JS库

@@ -7,3 +7,5 @@ image: assets/rclone_rclone_cropped.png
 # [rclone/rclone](https://github.com/rclone/rclone)
 
 Command-line cloud storage sync tool
+
+命令行云存储同步工具

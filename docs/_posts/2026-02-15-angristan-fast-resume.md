@@ -7,3 +7,5 @@ image: assets/angristan_fast_resume_20260213_050036_849_20260213_050127_8989d3.p
 # [angristan/fast-resume](https://github.com/angristan/fast-resume)
 
 Search and resume coding agent sessions from the terminal
+
+从终端搜索和恢复编码代理会话

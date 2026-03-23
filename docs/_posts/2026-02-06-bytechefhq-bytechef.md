@@ -7,3 +7,5 @@ image: assets/bytechefhq_bytechef_20260203_121216_976_20260203_121240_6e01a5.png
 # [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef)
 
 Workflow automation platform with built-in code editor
+
+带内置代码编辑器的工作流自动化平台

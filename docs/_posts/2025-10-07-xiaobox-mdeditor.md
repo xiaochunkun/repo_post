@@ -7,3 +7,5 @@ image: assets/20251007T021048201--xiaobox--mdeditor--20251007T023432292--cropped
 # [xiaobox/mdeditor](https://github.com/xiaobox/mdeditor)
 
 Markdown editor for social platforms with one-click HTML export
+
+社交平台 Markdown 编辑器，支持一键 HTML 导出

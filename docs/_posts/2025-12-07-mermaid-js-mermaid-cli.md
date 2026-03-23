@@ -7,3 +7,5 @@ image: assets/mermaid_js_mermaid_cli_20251205_003751_165_20251205_003825_7a4c2b.
 # [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli/)
 
 Command-line interface for generating diagrams from text
+
+从文本生成图表的命令行界面

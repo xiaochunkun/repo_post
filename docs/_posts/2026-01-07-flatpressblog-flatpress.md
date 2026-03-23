@@ -7,3 +7,5 @@ image: assets/flatpressblog_flatpress_20260107_004627_061_20260107_004643_65d83d
 # [flatpressblog/flatpress](https://github.com/flatpressblog/flatpress/)
 
 Blogging engine without a database
+
+无需数据库的博客引擎

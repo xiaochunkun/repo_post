@@ -7,3 +7,5 @@ image: assets/automazeio_vibeproxy_20251218_080411_660_20251219_215449_d4b731.pn
 # [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy/)
 
 Proxy for AI subscriptions without API keys
+
+无需 API 密钥的 AI 订阅代理

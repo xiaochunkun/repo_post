@@ -7,3 +7,5 @@ image: assets/20250906T023807774--EricLBuehler--mistral.rs--20250906T023929133--
 # [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
 
 multimodal LLM inference engine in Rust and Python
+
+用 Rust 和 Python 实现的多模态 LLM 推理引擎

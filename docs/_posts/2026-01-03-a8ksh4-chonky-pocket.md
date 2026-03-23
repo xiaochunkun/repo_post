@@ -7,3 +7,5 @@ image: assets/a8ksh4_chonky_pocket_20260102_173858_130_20260102_173916_d08a83.pn
 # [a8ksh4/chonky-pocket](https://github.com/a8ksh4/chonky-pocket/)
 
 Portable computer with a chording keyboard and an ethernet port
+
+带和弦键盘和以太网端口的便携式计算机

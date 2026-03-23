@@ -7,3 +7,5 @@ image: assets/cheatsnake_airstation_20260122_211833_762_20260122_211903_65adfc.p
 # [cheatsnake/airstation](https://github.com/cheatsnake/airstation)
 
 Self-hosted radio station for streaming music via HLS
+
+HLS流媒体音乐自托管电台

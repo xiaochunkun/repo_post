@@ -7,3 +7,5 @@ image: assets/xmikos_qspectrumanalyzer_20251213_082133_444_20251213_082157_74ee8
 # [xmikos/qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer/)
 
 Spectrum analyzer for multiple SDR platforms
+
+支持多种SDR平台的频谱分析仪

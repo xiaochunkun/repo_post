@@ -7,3 +7,5 @@ image: assets/TalEliyahu_awesome-CISO-maturity-models_cropped.png
 # [TalEliyahu/awesome-CISO-maturity-models](https://github.com/TalEliyahu/awesome-CISO-maturity-models)
 
 collection of CISO maturity models for security benchmarking
+
+用于安全基准测试的 CISO 成熟度模型集合

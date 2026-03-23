@@ -7,3 +7,5 @@ image: assets/EverMind_AI_EverMemOS_20251229_153434_672_20251229_153451_0fd0c7.p
 # [EverMind-AI/EverMemOS](https://github.com/EverMind-AI/EverMemOS/)
 
 Memory system for AI agents
+
+AI 智能体的记忆系统

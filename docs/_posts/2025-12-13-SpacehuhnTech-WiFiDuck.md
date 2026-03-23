@@ -7,3 +7,5 @@ image: assets/SpacehuhnTech_WiFiDuck_20251210_024834_385_20251210_024858_5ff617.
 # [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck/)
 
 Open source wireless BadUSB tool
+
+开源无线 BadUSB 工具

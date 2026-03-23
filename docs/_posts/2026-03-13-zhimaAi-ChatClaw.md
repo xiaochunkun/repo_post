@@ -7,3 +7,5 @@ image: assets/zhimaAi_ChatClaw_20260313_125558_376_20260313_125747_5b82ea.png
 # [zhimaAi/ChatClaw](https://github.com/zhimaAi/ChatClaw)
 
 AI agent with sandbox security
+
+具备沙箱安全性的AI代理

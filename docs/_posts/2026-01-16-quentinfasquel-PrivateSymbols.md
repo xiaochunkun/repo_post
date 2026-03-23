@@ -7,3 +7,5 @@ image: assets/quentinfasquel_PrivateSymbols_20260116_064124_430_20260116_064138_
 # [quentinfasquel/PrivateSymbols](https://github.com/quentinfasquel/PrivateSymbols)
 
 Browses private SF Symbols
+
+浏览私有 SF Symbols

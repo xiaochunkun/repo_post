@@ -7,3 +7,5 @@ image: assets/20250923T022244805--keystonejs--keystone--20250923T022822349--crop
 # [keystonejs/keystone](https://github.com/keystonejs/keystone)
 
 Headless CMS for building custom backends with GraphQL API and admin UI
+
+用于构建自定义后端的 Headless CMS，支持 GraphQL API 和管理界面

@@ -7,3 +7,5 @@ image: assets/aaronyang_ai_slideclean_20260114_053603_427_20260114_053617_4a8723
 # [aaronyang-ai/slideclean](https://github.com/aaronyang-ai/slideclean)
 
 Removes NotebookLM watermarks with local browser processing
+
+用本地浏览器处理移除 NotebookLM 水印

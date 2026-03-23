@@ -7,3 +7,5 @@ image: assets/CapSoftware_Cap_20260108_020013_969_20260108_020028_da35f6.png
 # [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 
 Self-hosted screen recording alternative to Loom
+
+自托管的屏幕录制工具，Loom的替代品

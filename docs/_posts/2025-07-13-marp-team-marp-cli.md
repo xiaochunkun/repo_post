@@ -7,3 +7,5 @@ image: assets/marp-team_marp-cli_cropped.png
 # [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
 
 turn markdown into slides from the command line
+
+命令行将Markdown转为幻灯片

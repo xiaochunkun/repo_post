@@ -7,3 +7,5 @@ image: assets/EzpieCo_GetHooky_20251225_194945_110_20251225_195005_a1abb7.png
 # [EzpieCo/GetHooky](https://github.com/EzpieCo/GetHooky/)
 
 Manages git hooks for any project
+
+管理任何项目的 git hooks

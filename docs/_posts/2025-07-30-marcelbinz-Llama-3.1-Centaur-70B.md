@@ -7,3 +7,5 @@ image: assets/marcelbinz_Llama-3.1-Centaur-70B_cropped.png
 # [marcelbinz/Llama-3.1-Centaur-70B](https://github.com/marcelbinz/Llama-3.1-Centaur-70B)
 
 simulates human behavior in experiments using Llama 3.1
+
+使用Llama 3.1模拟实验中的人类行为

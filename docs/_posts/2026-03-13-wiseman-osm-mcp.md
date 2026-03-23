@@ -7,3 +7,5 @@ image: assets/wiseman_osm_mcp_20260313_001823_421_20260313_002003_3209ea.png
 # [wiseman/osm-mcp](https://github.com/wiseman/osm-mcp)
 
 Query and visualize OpenStreetMap data via MCP
+
+通过MCP查询和可视化OpenStreetMap数据

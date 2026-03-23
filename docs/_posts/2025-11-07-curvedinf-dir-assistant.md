@@ -7,3 +7,5 @@ image: assets/curvedinf_dir_assistant_20251106_183910_912_20251106_220250_ac4e03
 # [curvedinf/dir-assistant](https://github.com/curvedinf/dir-assistant/)
 
 CLI tool to chat with files in a directory using an LLM
+
+使用LLM与目录中文件聊天的CLI工具

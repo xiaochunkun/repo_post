@@ -7,3 +7,5 @@ image: assets/lmsqueezy_wedges_20260117_084534_034_20260117_084549_fd8e28.png
 # [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges)
 
 React UI library with Radix and Tailwind CSS
+
+基于Radix和Tailwind CSS的React UI库

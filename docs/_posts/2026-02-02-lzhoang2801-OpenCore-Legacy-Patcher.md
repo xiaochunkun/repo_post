@@ -7,3 +7,5 @@ image: assets/lzhoang2801_OpenCore_Legacy_Patcher_20260202_004546_212_20260202_0
 # [lzhoang2801/OpenCore-Legacy-Patcher](https://github.com/lzhoang2801/OpenCore-Legacy-Patcher)
 
 Installs macOS on unsupported hardware
+
+在不支持的硬件上安装macOS

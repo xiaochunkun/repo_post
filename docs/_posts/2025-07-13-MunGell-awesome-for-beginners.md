@@ -7,3 +7,5 @@ image: assets/MunGell_awesome-for-beginners_cropped.png
 # [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
 list of open source projects for first-time contributors
+
+面向首次贡献者的开源项目列表

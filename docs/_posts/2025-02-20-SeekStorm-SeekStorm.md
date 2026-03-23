@@ -7,3 +7,5 @@ image: assets/SeekStorm_SeekStorm_cropped.png
 # [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm)
 
 Open-source full-text search library and server in Rust
+
+Rust 开源全文搜索库和服务器

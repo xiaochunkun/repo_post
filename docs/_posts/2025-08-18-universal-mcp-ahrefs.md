@@ -7,3 +7,5 @@ image: assets/universal-mcp_ahrefs--20250817T075222537--cropped.png
 # [universal-mcp/ahrefs](https://github.com/universal-mcp/ahrefs)
 
 connect AI assistants to Ahrefs with a unified API
+
+通过统一API连接AI助手与Ahrefs

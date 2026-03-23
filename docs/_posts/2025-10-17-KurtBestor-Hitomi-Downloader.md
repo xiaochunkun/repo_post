@@ -7,3 +7,5 @@ image: assets/screenshot_20251017_194916--20251017T214916484--cropped.png
 # [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader/)
 
 Monitors network hosts with notifications and dashboard export
+
+监控网络主机，支持通知和仪表板导出

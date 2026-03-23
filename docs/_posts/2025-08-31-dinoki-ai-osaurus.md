@@ -7,3 +7,5 @@ image: assets/20250830T174215931--dinoki-ai--osaurus--20250830T174523080--croppe
 # [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus)
 
 local LLM server for Apple Silicon with OpenAI API endpoints
+
+Apple Silicon 本地大模型服务器，提供 OpenAI 兼容 API

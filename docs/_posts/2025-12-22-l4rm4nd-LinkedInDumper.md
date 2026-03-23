@@ -7,3 +7,5 @@ image: assets/l4rm4nd_LinkedInDumper_20251221_193120_809_20251221_193136_803cab.
 # [l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper/)
 
 Dumps employee data from LinkedIn API
+
+从 LinkedIn API 转储员工数据

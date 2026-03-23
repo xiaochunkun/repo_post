@@ -7,3 +7,5 @@ image: assets/RUCBM_LaSeR_20260111_121119_233_20260111_121133_d51e3e.png
 # [RUCBM/LaSeR](https://github.com/RUCBM/LaSeR)
 
 Optimizes reasoning and self-rewarding capabilities of LLMs
+
+优化LLM的推理和自奖励能力

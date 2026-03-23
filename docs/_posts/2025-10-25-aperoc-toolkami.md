@@ -7,3 +7,5 @@ image: assets/aperoc_toolkami_20251025_024425_694_20251025_031304_397def--202510
 # [aperoc/toolkami](https://github.com/aperoc/toolkami/)
 
 Framework to build and work with AI agents from the command line
+
+命令行构建和使用AI代理的框架

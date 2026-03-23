@@ -7,3 +7,5 @@ image: assets/aseprite_aseprite_20251031_041516_056_20251031_205426_eaa60b--2025
 # [aseprite/aseprite](https://github.com/aseprite/aseprite/)
 
 Create animated sprites and pixel art
+
+创建动画精灵和像素艺术

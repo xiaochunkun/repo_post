@@ -7,3 +7,5 @@ image: assets/bokub_rgb_light_card_20251214_220754_633_20251214_220819_6cf800.pn
 # [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card/)
 
 Home Assistant card for RGB lights
+
+Home Assistant的RGB灯光卡片

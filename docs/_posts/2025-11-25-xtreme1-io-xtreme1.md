@@ -7,3 +7,5 @@ image: assets/xtreme1_io_xtreme1_20251123_193904_764_20251125_012337_87a759--202
 # [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1/)
 
 Multimodal training data platform for 3D LiDAR and images
+
+用于 3D LiDAR 和图像的多模态训练数据平台

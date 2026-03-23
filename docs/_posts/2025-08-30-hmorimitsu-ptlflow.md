@@ -7,3 +7,5 @@ image: assets/20250830T030919375--hmorimitsu--ptlflow--20250830T032659819--cropp
 # [hmorimitsu/ptlflow](https://github.com/hmorimitsu/ptlflow)
 
 Unified platform for training and evaluating multiple optical flow models using PyTorch Lightning
+
+基于 PyTorch Lightning 的统一光流模型训练和评估平台

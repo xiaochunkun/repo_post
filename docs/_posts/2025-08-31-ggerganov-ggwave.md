@@ -7,3 +7,5 @@ image: assets/ggerganov_ggwave--20250830T174747179--cropped.png
 # [ggerganov/ggwave](https://github.com/ggerganov/ggwave)
 
 send data between devices using sound
+
+通过声音在设备间传输数据

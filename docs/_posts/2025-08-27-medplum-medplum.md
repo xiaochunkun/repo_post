@@ -7,3 +7,5 @@ image: assets/20250826T030901579--medplum--medplum--20250826T031240122--cropped.
 # [medplum/medplum](https://github.com/medplum/medplum)
 
 open source platform for building healthcare apps
+
+构建医疗健康应用的开源平台

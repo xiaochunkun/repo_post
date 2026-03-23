@@ -7,3 +7,5 @@ image: assets/orbitdb_orbitdb_20251031_030511_693_20251031_141311_2dbad4--202510
 # [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb/)
 
 Serverless peer-to-peer database using IPFS
+
+使用 IPFS 的无服务器点对点数据库

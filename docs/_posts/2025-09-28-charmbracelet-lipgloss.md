@@ -7,3 +7,5 @@ image: assets/20250927T044616057--charmbracelet--lipgloss--20250927T045421613--c
 # [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 
 style terminal UIs with CSS-like Go library
+
+使用类似CSS的Go库来设计终端用户界面

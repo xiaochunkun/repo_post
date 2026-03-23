@@ -7,3 +7,5 @@ image: assets/Oussama1403_Encipherr_20260120_200632_921_20260120_200651_418247.p
 # [Oussama1403/Encipherr](https://github.com/Oussama1403/Encipherr)
 
 AES encryption and decryption tool in a browser
+
+浏览器中的 AES 加密解密工具

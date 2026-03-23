@@ -7,3 +7,5 @@ image: assets/moyangzhan_mango_desk_20260131_234707_802_20260131_234746_1e81f4.p
 # [moyangzhan/mango-desk](https://github.com/moyangzhan/mango-desk)
 
 Search local documents with natural language
+
+使用自然语言搜索本地文档

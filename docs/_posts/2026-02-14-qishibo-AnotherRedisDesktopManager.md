@@ -7,3 +7,5 @@ image: assets/qishibo_AnotherRedisDesktopManager_20260116_103752_038_20260116_10
 # [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
 Redis desktop client for Linux, Windows, and Mac
+
+适用于 Linux、Windows 和 Mac 的 Redis 桌面客户端

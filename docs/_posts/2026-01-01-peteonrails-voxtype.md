@@ -7,3 +7,5 @@ image: assets/peteonrails_voxtype_20251231_073037_462_20251231_073053_7b7b92.png
 # [peteonrails/voxtype](https://github.com/peteonrails/voxtype/)
 
 Voice to text for Linux with push to talk
+
+Linux上的语音转文本，支持一键通话

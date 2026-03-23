@@ -7,3 +7,5 @@ image: assets/20251001T203416592--giuseppe99barchetta--SuggestArr--20251001T2037
 # [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
 
 automates media recommendations and download requests for Jellyfin, Plex, and Emby
+
+自动化媒体推荐和下载请求，支持Jellyfin、Plex和Emby

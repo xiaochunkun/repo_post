@@ -7,3 +7,5 @@ image: assets/casantosmu_audiodeck_20251118_065238_742_20251118_160151_f3b20e--2
 # [casantosmu/audiodeck](https://github.com/casantosmu/audiodeck/)
 
 Visually verify audio file quality with a self-hosted spectrogram analyzer
+
+使用自托管频谱分析器可视化验证音频文件质量

@@ -7,3 +7,5 @@ image: assets/GavinZhengOI_LiveCodeBench_Pro_20251216_120612_041_20251216_120636
 # [GavinZhengOI/LiveCodeBench-Pro](https://github.com/GavinZhengOI/LiveCodeBench-Pro/)
 
 Evaluates LLMs on competitive programming tasks
+
+在竞争性编程任务上评估 LLM

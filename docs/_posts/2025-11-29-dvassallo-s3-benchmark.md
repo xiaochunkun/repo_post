@@ -7,3 +7,5 @@ image: assets/dvassallo_s3_benchmark_20251126_000758_248_20251128_213419_739bd7-
 # [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark/)
 
 Measures Amazon S3 performance from any location
+
+从任意位置测量Amazon S3性能

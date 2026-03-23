@@ -7,3 +7,5 @@ image: assets/lihaoyun6_AirBattery_20260129_055059_880_20260129_055145_71fabc.pn
 # [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)
 
 Displays battery levels of all devices on macOS
+
+在macOS上显示所有设备的电池电量

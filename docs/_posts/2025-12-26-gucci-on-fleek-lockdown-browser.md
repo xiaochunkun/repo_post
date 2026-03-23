@@ -7,3 +7,5 @@ image: assets/gucci_on_fleek_lockdown_browser_20251225_004947_427_20251225_00500
 # [gucci-on-fleek/lockdown-browser](https://github.com/gucci-on-fleek/lockdown-browser/)
 
 Runs browser in Windows Sandbox to bypass virtualization detection
+
+在 Windows Sandbox 中运行浏览器以绕过虚拟化检测

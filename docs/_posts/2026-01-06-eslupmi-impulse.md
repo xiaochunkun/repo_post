@@ -7,3 +7,5 @@ image: assets/eslupmi_impulse_20260104_185534_814_20260104_185549_329708.png
 # [eslupmi/impulse](https://github.com/eslupmi/impulse/)
 
 Incident management platform for chat applications
+
+聊天应用的事件管理平台

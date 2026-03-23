@@ -7,3 +7,5 @@ image: assets/geerlingguy_pi_cluster_20251218_063015_466_20251218_063034_257301.
 # [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster/)
 
 Automation for Raspberry Pi clusters
+
+Raspberry Pi 集群自动化工具

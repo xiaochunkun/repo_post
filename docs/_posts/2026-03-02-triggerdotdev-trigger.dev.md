@@ -7,3 +7,5 @@ image: assets/triggerdotdev_trigger_dev_20260225_212932_318_20260225_213113_038c
 # [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 
 Builds AI agents with retries and no timeouts
+
+构建支持重试且无超时的AI代理

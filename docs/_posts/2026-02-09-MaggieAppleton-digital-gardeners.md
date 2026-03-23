@@ -7,3 +7,5 @@ image: assets/MaggieAppleton_digital_gardeners_20260206_160856_332_20260206_1609
 # [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
 
 Resources for building a digital garden
+
+构建数字花园的资源

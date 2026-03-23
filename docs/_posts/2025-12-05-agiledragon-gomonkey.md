@@ -7,3 +7,5 @@ image: assets/agiledragon_gomonkey_20251202_222036_475_20251202_222213_53c667.pn
 # [agiledragon/gomonkey](https://github.com/agiledragon/gomonkey/)
 
 Library for monkey patching in Go unit tests
+
+用于 Go 单元测试中猴子补丁的库

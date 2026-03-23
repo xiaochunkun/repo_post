@@ -7,3 +7,5 @@ image: assets/joaocarvalhoopen_How_to_learn_modern_electronics_20260211_062244_2
 # [joaocarvalhoopen/How_to_learn_modern_electronics](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
 
 Curated curriculum for electronics engineering
+
+电子工程的精选课程

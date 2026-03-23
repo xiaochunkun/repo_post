@@ -7,3 +7,5 @@ image: assets/zgsm_ai_costrict_20251208_012729_279_20251208_012753_507c78.png
 # [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict/)
 
 Open-source AI coding assistant with enterprise private deployment
+
+支持企业私有部署的开源AI编码助手

@@ -7,3 +7,5 @@ image: assets/0xSojalSec_Awesome_WAF_20260113_174230_262_20260113_174245_5bcd26.
 # [0xSojalSec/Awesome-WAF](https://github.com/0xSojalSec/Awesome-WAF)
 
 Resources for web application firewalls
+
+Web 应用防火墙资源

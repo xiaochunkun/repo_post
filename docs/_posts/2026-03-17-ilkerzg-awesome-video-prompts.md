@@ -7,3 +7,5 @@ image: assets/ilkerzg_awesome_video_prompts_20260316_134944_145_20260316_135131_
 # [ilkerzg/awesome-video-prompts](https://github.com/ilkerzg/awesome-video-prompts)
 
 Modular AI video prompts with 20+ categories
+
+模块化 AI 视频提示，包含 20 多个类别

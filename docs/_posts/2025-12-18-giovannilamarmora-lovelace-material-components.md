@@ -7,3 +7,5 @@ image: assets/giovannilamarmora_lovelace_material_components_20251217_165708_069
 # [giovannilamarmora/lovelace-material-components](https://github.com/giovannilamarmora/lovelace-material-components/)
 
 Google Home app experience for Home Assistant
+
+Home Assistant 的 Google Home 应用体验

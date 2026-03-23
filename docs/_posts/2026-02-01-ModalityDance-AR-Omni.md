@@ -7,3 +7,5 @@ image: assets/ModalityDance_AR_Omni_20260201_003256_626_20260201_003344_f2f389.p
 # [ModalityDance/AR-Omni](https://github.com/ModalityDance/AR-Omni)
 
 Generates text, images, and speech through a single decoder
+
+通过单一解码器生成文本、图像和语音

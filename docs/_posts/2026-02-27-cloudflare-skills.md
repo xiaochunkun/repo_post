@@ -7,3 +7,5 @@ image: assets/cloudflare_skills_20260227_043159_815_20260227_043320_514cd4.png
 # [cloudflare/skills](https://github.com/cloudflare/skills)
 
 Teaches agents to build on Cloudflare
+
+教授智能体在Cloudflare上构建

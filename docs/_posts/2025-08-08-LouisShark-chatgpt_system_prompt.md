@@ -7,3 +7,5 @@ image: assets/LouisShark_chatgpt_system_prompt_cropped.png
 # [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 
 collection of ChatGPT system prompts and prompt extraction tips
+
+ChatGPT系统提示集合和提示提取技巧

@@ -7,3 +7,5 @@ image: assets/HenryNdubuaku_maths_cs_ai_compendium_20260216_201411_553_20260216_
 # [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
 Textbook for AI interview preparation
+
+AI面试准备的教科书

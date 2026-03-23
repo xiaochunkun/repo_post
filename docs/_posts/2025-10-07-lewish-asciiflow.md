@@ -7,3 +7,5 @@ image: assets/20251007T025141670--lewish--asciiflow--20251007T030008908--cropped
 # [lewish/asciiflow](https://github.com/lewish/asciiflow)
 
 draw ASCII diagrams in your browser
+
+在浏览器中绘制 ASCII 图表

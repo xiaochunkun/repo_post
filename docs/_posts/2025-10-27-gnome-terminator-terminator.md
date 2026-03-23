@@ -7,3 +7,5 @@ image: assets/gnome_terminator_terminator_20251026_221346_643_20251027_001319_59
 # [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator/)
 
 Terminal emulator for arranging terminals in a grid
+
+在网格中排列终端的终端模拟器

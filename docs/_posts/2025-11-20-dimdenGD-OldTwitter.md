@@ -7,3 +7,5 @@ image: assets/dimdenGD_OldTwitter_20251118_184615_438_20251120_000238_f87d78--20
 # [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter/)
 
 Browser extension to return the old Twitter layout
+
+恢复旧版 Twitter 布局的浏览器扩展

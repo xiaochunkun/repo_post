@@ -7,3 +7,5 @@ image: assets/weAIDB_ST_Raptor_20251213_093152_478_20251213_093230_c2999a.png
 # [weAIDB/ST-Raptor](https://github.com/weAIDB/ST-Raptor/)
 
 Answers questions over semi-structured tables
+
+在半结构化表格上回答问题

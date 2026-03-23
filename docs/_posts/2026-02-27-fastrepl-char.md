@@ -7,3 +7,5 @@ image: assets/fastrepl_char_20260226_044825_362_20260226_045003_a63959.png
 # [fastrepl/char](https://github.com/fastrepl/char)
 
 Transcribes and summarizes meetings offline
+
+离线转录和总结会议

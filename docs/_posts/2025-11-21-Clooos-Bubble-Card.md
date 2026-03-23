@@ -7,3 +7,5 @@ image: assets/Clooos_Bubble_Card_20251120_061424_042_20251121_011540_b831ef--202
 # [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card/)
 
 Pop-up card collection for Home Assistant
+
+Home Assistant 的弹出式卡片集合

@@ -7,3 +7,5 @@ image: assets/20251010T130443970--orioledb--orioledb--20251010T132051933--croppe
 # [orioledb/orioledb](https://github.com/orioledb/orioledb)
 
 cloud-native storage engine for PostgreSQL with modern hardware support and reduced maintenance
+
+为 PostgreSQL 设计的云原生存储引擎，支持现代硬件并减少维护

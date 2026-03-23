@@ -7,3 +7,5 @@ image: assets/20251014T014841379--goclone-dev--goclone--20251014T015630670--crop
 # [goclone-dev/goclone](https://github.com/goclone-dev/goclone)
 
 download websites to your computer, keep all files and structure
+
+将网站下载到计算机，保留所有文件和结构

@@ -7,3 +7,5 @@ image: assets/XiaoYouChR_Ghost-Downloader-3_cropped.png
 # [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
 
 multi-threaded downloader with AI features
+
+带 AI 功能的多线程下载器

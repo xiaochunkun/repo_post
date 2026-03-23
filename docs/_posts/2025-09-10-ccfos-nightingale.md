@@ -7,3 +7,5 @@ image: assets/20250908T233233198--ccfos--nightingale--20250908T233745816--croppe
 # [ccfos/nightingale](https://github.com/ccfos/nightingale)
 
 open-source alerting and monitoring platform for metrics and logs
+
+面向指标和日志的开源告警与监控平台

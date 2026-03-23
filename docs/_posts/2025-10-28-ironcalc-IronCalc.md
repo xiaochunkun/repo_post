@@ -7,3 +7,5 @@ image: assets/ironcalc_IronCalc_20251026_225311_176_20251027_001849_6b3baf--2025
 # [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc/)
 
 Spreadsheet engine for Python, JavaScript, and other languages
+
+适用于 Python、JavaScript 等语言的电子表格引擎

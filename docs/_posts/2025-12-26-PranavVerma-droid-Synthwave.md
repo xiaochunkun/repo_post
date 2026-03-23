@@ -7,3 +7,5 @@ image: assets/PranavVerma_droid_Synthwave_20251225_060229_621_20251225_060247_c0
 # [PranavVerma-droid/Synthwave](https://github.com/PranavVerma-droid/Synthwave/)
 
 Downloads YouTube Music playlists with Docker support
+
+下载 YouTube Music 播放列表，支持 Docker

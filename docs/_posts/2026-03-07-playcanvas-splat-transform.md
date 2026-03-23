@@ -7,3 +7,5 @@ image: assets/playcanvas_splat_transform_20260222_145649_548_20260222_145708_241
 # [playcanvas/splat-transform](https://github.com/playcanvas/splat-transform)
 
 Converts and edits Gaussian splats
+
+转换和编辑高斯溅射

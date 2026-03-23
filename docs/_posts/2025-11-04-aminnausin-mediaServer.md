@@ -7,3 +7,5 @@ image: assets/aminnausin_mediaServer_20251103_233636_270_20251103_233931_d937d0-
 # [aminnausin/mediaServer](https://github.com/aminnausin/mediaServer/)
 
 Media player for self-hosted video and audio
+
+自托管音视频媒体播放器

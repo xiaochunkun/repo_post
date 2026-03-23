@@ -7,3 +7,5 @@ image: assets/gersteinlab_ML_Bench_20251216_024830_750_20251216_024900_de0d2b.pn
 # [gersteinlab/ML-Bench](https://github.com/gersteinlab/ML-Bench/)
 
 Benchmarks LLMs for end-to-end machine learning workflows
+
+为端到端机器学习工作流基准测试 LLM

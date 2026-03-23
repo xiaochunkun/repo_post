@@ -7,3 +7,5 @@ image: assets/CaviraOSS_neuropilot_20251127_203343_206_20251130_083132_9c26f7--2
 # [CaviraOSS/neuropilot](https://github.com/CaviraOSS/neuropilot/)
 
 Open source AI education platform inspired by NotebookLM
+
+受 NotebookLM 启发的开源 AI 教育平台

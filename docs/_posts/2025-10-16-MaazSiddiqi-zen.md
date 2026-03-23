@@ -7,3 +7,5 @@ image: assets/20251016T073210706--MaazSiddiqi--zen--20251016T073432703--cropped.
 # [MaazSiddiqi/zen](https://github.com/MaazSiddiqi/zen)
 
 command launcher and alias manager for project workflows
+
+用于项目工作流的命令启动器和别名管理器

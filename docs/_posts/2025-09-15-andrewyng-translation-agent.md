@@ -7,3 +7,5 @@ image: assets/20250915T045026138--andrewyng--translation-agent--20250915T0452581
 # [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)
 
 Python demo for customizable machine translation using LLMs and reflection workflow
+
+使用 LLM 和反思工作流的可定制机器翻译 Python 演示

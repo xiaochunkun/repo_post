@@ -7,3 +7,5 @@ image: assets/arnesacnussem_jellyfin_plugin_meilisearch_20251207_221211_796_2025
 # [arnesacnussem/jellyfin-plugin-meilisearch](https://github.com/arnesacnussem/jellyfin-plugin-meilisearch/)
 
 Offloads Jellyfin search logic to Meilisearch
+
+将Jellyfin搜索逻辑卸载到Meilisearch

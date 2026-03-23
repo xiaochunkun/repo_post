@@ -7,3 +7,5 @@ image: assets/gianni_rosato_aviator_20260121_002844_486_20260121_002857_ccac7c.p
 # [gianni-rosato/aviator](https://github.com/gianni-rosato/aviator)
 
 Encodes video with SVT-AV1 and libopus
+
+使用SVT-AV1和libopus编码视频

@@ -7,3 +7,5 @@ image: assets/ctrl_alt_automate_netbox_ssl_20260212_154145_841_20260212_154222_2
 # [ctrl-alt-automate/netbox-ssl](https://github.com/ctrl-alt-automate/netbox-ssl)
 
 Manages TLS certificates in NetBox
+
+管理 NetBox 中的 TLS 证书

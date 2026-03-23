@@ -7,3 +7,5 @@ image: assets/ImArjunJ_jcan_20260302_011759_793_20260302_012018_0fcea9.png
 # [ImArjunJ/jcan](https://github.com/ImArjunJ/jcan)
 
 Cross-platform bus diagnostic tool with real-time DBC decoding
+
+跨平台总线诊断工具，支持实时 DBC 解码

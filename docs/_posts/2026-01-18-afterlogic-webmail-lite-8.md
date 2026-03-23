@@ -7,3 +7,5 @@ image: assets/afterlogic_webmail_lite_8_20260117_150212_168_20260117_150227_1073
 # [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8)
 
 Webmail script for IMAP servers
+
+IMAP服务器的Webmail脚本

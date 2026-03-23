@@ -7,3 +7,5 @@ image: assets/cwandev_ai_elements_vue_20251122_112141_493_20251122_215246_35818f
 # [cwandev/ai-elements-vue](https://github.com/cwandev/ai-elements-vue/)
 
 Vue components for AI interfaces
+
+AI 界面的 Vue 组件

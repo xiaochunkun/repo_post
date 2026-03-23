@@ -7,3 +7,5 @@ image: assets/SUP3RMASS1VE_Suno_Song_Remaster_20260316_085320_899_20260316_08534
 # [SUP3RMASS1VE/Suno-Song-Remaster](https://github.com/SUP3RMASS1VE/Suno-Song-Remaster)
 
 Mastering AI music with pure JavaScript
+
+纯 JavaScript 的 AI 音乐母带处理工具

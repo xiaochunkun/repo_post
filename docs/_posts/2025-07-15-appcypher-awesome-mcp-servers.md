@@ -7,3 +7,5 @@ image: assets/appcypher_awesome-mcp-servers_cropped.png
 # [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
 
 curated list of Model Context Protocol servers and tools
+
+精选的 Model Context Protocol 服务器和工具列表

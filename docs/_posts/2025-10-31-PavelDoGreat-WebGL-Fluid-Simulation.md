@@ -7,3 +7,5 @@ image: assets/PavelDoGreat_WebGL_Fluid_Simulation_20251031_010307_473_20251031_0
 # [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/)
 
 Fluid simulation that runs in a browser
+
+在浏览器中运行的流体模拟

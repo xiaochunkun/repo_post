@@ -7,3 +7,5 @@ image: assets/d_kholin_tooltracker_20251225_064252_178_20251225_064310_9cf9c5.pn
 # [d-kholin/tooltracker](https://github.com/d-kholin/tooltracker/)
 
 Tracks tools and equipment lending
+
+跟踪工具和设备借用

@@ -7,3 +7,5 @@ image: assets/sequenzia_agent_alchemy_20260309_110655_066_20260309_110828_91f2af
 # [sequenzia/agent-alchemy](https://github.com/sequenzia/agent-alchemy)
 
 Extends Claude Code into development platform with plugins and task manager
+
+通过插件和任务管理器将Claude Code扩展为开发平台

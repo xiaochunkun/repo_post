@@ -7,3 +7,5 @@ image: assets/leeoniya_uDSV_20251208_001236_930_20251208_001310_b14c73.png
 # [leeoniya/uDSV](https://github.com/leeoniya/uDSV/)
 
 5KB CSV parser for JavaScript
+
+用于 JavaScript 的 5KB CSV 解析器

@@ -7,3 +7,5 @@ image: assets/OS_Copilot_OS_Copilot_20260123_173953_232_20260123_174102_a0d4fd.p
 # [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot)
 
 Computer agents for operating system automation and self-improvement
+
+用于操作系统自动化和自我改进的计算机智能体

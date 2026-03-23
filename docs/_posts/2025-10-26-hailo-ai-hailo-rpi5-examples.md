@@ -7,3 +7,5 @@ image: assets/hailo_ai_hailo_rpi5_examples_20251025_053009_461_20251025_101915_8
 # [hailo-ai/hailo-rpi5-examples](https://github.com/hailo-ai/hailo-rpi5-examples/)
 
 AI example applications for the Raspberry Pi 5
+
+Raspberry Pi 5的AI示例应用

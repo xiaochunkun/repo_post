@@ -7,3 +7,5 @@ image: assets/Cysharp_ConsoleAppFramework_20251205_033045_655_20251205_033155_6e
 # [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework/)
 
 Zero-overhead CLI framework using C# source generators
+
+使用 C# 源生成器的零开销 CLI 框架

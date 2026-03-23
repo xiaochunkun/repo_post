@@ -7,3 +7,5 @@ image: assets/magooney_loon_pb_ext_20260224_223859_777_20260224_224024_d6ca9b.pn
 # [magooney-loon/pb-ext](https://github.com/magooney-loon/pb-ext)
 
 PocketBase server with monitoring and API documentation
+
+带监控和API文档的PocketBase服务器

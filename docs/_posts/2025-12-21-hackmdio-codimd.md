@@ -7,3 +7,5 @@ image: assets/hackmdio_codimd_20251219_145728_140_20251219_145745_e05c55.png
 # [hackmdio/codimd](https://github.com/hackmdio/codimd/)
 
 Collaborative markdown notes in real-time
+
+实时协作Markdown笔记

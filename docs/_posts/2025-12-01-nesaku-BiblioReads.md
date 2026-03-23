@@ -7,3 +7,5 @@ image: assets/nesaku_BiblioReads_20251130_074441_944_20251201_004005_b50b49--202
 # [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads/)
 
 Privacy-focused alternative Goodreads front-end
+
+注重隐私的Goodreads前端替代方案

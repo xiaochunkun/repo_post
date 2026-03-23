@@ -7,3 +7,5 @@ image: assets/Sri_Krishna_V_awesome_adk_agents_20260113_091245_611_20260113_0913
 # [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
 
 Collection of agents and templates for Google's Agent Development Kit
+
+Google Agent Development Kit 的代理和模板集合

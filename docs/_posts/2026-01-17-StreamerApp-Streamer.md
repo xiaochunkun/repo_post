@@ -7,3 +7,5 @@ image: assets/StreamerApp_Streamer_20260116_051308_110_20260116_051325_6adbd7.pn
 # [StreamerApp/Streamer](https://github.com/StreamerApp/Streamer)
 
 Streams movies and shows to iOS and tvOS devices
+
+将电影和剧集流式传输到iOS和tvOS设备

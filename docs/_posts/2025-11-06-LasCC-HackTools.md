@@ -7,3 +7,5 @@ image: assets/LasCC_HackTools_20251106_021256_626_20251106_133505_3e768f--202511
 # [LasCC/HackTools](https://github.com/LasCC/HackTools/)
 
 Browser extension with cheat sheets and tools for web pen testing
+
+包含 Web 渗透测试备忘单和工具的浏览器扩展

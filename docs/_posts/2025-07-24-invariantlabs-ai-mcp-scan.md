@@ -7,3 +7,5 @@ image: assets/invariantlabs-ai_mcp-scan_cropped.png
 # [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
 
 scans and monitors MCP servers for security issues
+
+扫描和监控MCP服务器的安全问题

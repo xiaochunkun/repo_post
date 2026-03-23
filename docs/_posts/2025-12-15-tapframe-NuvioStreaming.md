@@ -7,3 +7,5 @@ image: assets/tapframe_NuvioStreaming_20251213_104038_488_20251213_104103_140553
 # [tapframe/NuvioStreaming](https://github.com/tapframe/NuvioStreaming/)
 
 Cross-platform media hub with Stremio addon support
+
+支持Stremio插件的跨平台媒体中心

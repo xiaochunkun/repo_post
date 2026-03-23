@@ -7,3 +7,5 @@ image: assets/XGenerationLab_XiYan_SQL_20251118_105528_169_20251119_212500_1d21e
 # [XGenerationLab/XiYan-SQL](https://github.com/XGenerationLab/XiYan-SQL/)
 
 Ensemble framework for text-to-SQL generation
+
+文本转SQL集成框架

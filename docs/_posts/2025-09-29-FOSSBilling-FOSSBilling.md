@@ -7,3 +7,5 @@ image: assets/20250929T073329966--FOSSBilling--FOSSBilling--20250929T073813166--
 # [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)
 
 open source billing and client management for hosting businesses
+
+托管业务的开源计费和客户管理

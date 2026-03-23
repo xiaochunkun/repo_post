@@ -7,3 +7,5 @@ image: assets/20251001T105406776--google-gemini--nano-banana-hackathon-kit--2025
 # [google-gemini/nano-banana-hackathon-kit](https://github.com/google-gemini/nano-banana-hackathon-kit)
 
 48-hour hackathon starter kit for building with Gemini's image generation API
+
+48小时黑客马拉松入门套件，用于构建Gemini图像生成API应用

@@ -7,3 +7,5 @@ image: assets/geosmart_lumma_20251120_062628_724_20251121_011556_50647d--2025112
 # [geosmart/lumma](https://github.com/geosmart/lumma/)
 
 AI-native mobile diary for Obsidian
+
+Obsidian 的 AI 原生移动日记

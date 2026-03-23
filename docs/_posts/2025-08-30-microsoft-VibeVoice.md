@@ -7,3 +7,5 @@ image: assets/20250830T030835688--microsoft--VibeVoice--20250830T032116432--crop
 # [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 
 open source model for long-form, multi-speaker text-to-speech
+
+开源长文本多说话人文本转语音模型

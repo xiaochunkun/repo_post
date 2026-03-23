@@ -7,3 +7,5 @@ image: assets/rails_solid_queue_20251110_010401_719_20251110_013425_c6e70b--2025
 # [rails/solid_queue](https://github.com/rails/solid_queue/)
 
 A database-based queuing backend for Active Job
+
+基于数据库的Active Job队列后端

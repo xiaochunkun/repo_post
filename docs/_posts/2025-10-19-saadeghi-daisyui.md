@@ -7,3 +7,5 @@ image: assets/saadeghi_daisyui_20251018_061628_940_20251019_193117--20251019T213
 # [saadeghi/daisyui](https://github.com/saadeghi/daisyui/)
 
 Popular Tailwind CSS component library
+
+流行的 Tailwind CSS 组件库

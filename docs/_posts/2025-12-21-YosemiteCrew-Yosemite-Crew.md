@@ -7,3 +7,5 @@ image: assets/YosemiteCrew_Yosemite_Crew_20251219_065935_024_20251219_065953_409
 # [YosemiteCrew/Yosemite-Crew](https://github.com/YosemiteCrew/Yosemite-Crew/)
 
 Operating system for animal health management
+
+动物健康管理操作系统

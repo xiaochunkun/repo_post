@@ -7,3 +7,5 @@ image: assets/widelands_widelands_20260309_122314_768_20260309_122516_4de755.png
 # [widelands/widelands](https://github.com/widelands/widelands)
 
 Strategy game with singleplayer campaigns and multiplayer mode
+
+策略游戏，支持单人战役和多人模式

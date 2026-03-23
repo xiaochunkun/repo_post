@@ -7,3 +7,5 @@ image: assets/openlaunch_org_Open_Launch_20260204_035644_605_20260204_035700_e58
 # [openlaunch-org/Open-Launch](https://github.com/openlaunch-org/Open-Launch)
 
 Open source alternative to Product Hunt
+
+Product Hunt的开源替代品

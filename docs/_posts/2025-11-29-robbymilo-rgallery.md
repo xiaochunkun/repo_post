@@ -7,3 +7,5 @@ image: assets/robbymilo_rgallery_20251125_232543_076_20251128_212822_1088d1--202
 # [robbymilo/rgallery](https://github.com/robbymilo/rgallery/)
 
 Offline photo and video timeline synced from filesystem
+
+从文件系统同步的离线照片和视频时间线

@@ -7,3 +7,5 @@ image: assets/cvlab_kaist_VideoMaMa_20260222_044450_948_20260222_044520_11ca16.p
 # [cvlab-kaist/VideoMaMa](https://github.com/cvlab-kaist/VideoMaMa)
 
 Video matting via generative prior
+
+通过生成先验进行视频抠图

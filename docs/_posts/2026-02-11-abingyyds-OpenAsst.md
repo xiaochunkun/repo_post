@@ -7,3 +7,5 @@ image: assets/abingyyds_OpenAsst_20260205_151516_879_20260205_151531_2b18f5.png
 # [abingyyds/OpenAsst](https://github.com/abingyyds/OpenAsst)
 
 Terminal assistant for system operations via natural language
+
+通过自然语言进行系统操作的终端助手

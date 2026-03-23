@@ -7,3 +7,5 @@ image: assets/yoheinakajima_ditto--20250816T044632897--cropped.png
 # [yoheinakajima/ditto](https://github.com/yoheinakajima/ditto)
 
 build flask apps from text prompts with ditto
+
+使用 ditto 从文本提示构建 Flask 应用

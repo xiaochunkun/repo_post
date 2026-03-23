@@ -7,3 +7,5 @@ image: assets/omarKmekkawy_Useful_Youtube_Channels_20260201_051509_018_20260201_
 # [omarKmekkawy/Useful-Youtube-Channels](https://github.com/omarKmekkawy/Useful-Youtube-Channels)
 
 List of YouTube channels for electronics and mechanical engineering
+
+电子和机械工程相关的YouTube频道列表

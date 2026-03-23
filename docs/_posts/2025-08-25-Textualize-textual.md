@@ -7,3 +7,5 @@ image: assets/20250823T012108650--Textualize--textual--20250825T013549171--cropp
 # [Textualize/textual](https://github.com/Textualize/textual)
 
 build terminal and web UIs in Python
+
+用 Python 构建终端和 Web 用户界面

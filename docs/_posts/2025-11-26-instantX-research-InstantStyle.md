@@ -7,3 +7,5 @@ image: assets/instantX_research_InstantStyle_20251123_203835_335_20251125_215441
 # [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle/)
 
 Decouples style and content for text-to-image generation
+
+用于文本到图像生成的风格与内容解耦工具

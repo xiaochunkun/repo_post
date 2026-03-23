@@ -7,3 +7,5 @@ image: assets/NexaAI_nexa_sdk_20251025_001224_610_20251025_004128_281d0e--202510
 # [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/)
 
 Kernel-level inference engine for local AI
+
+本地AI的核级推理引擎

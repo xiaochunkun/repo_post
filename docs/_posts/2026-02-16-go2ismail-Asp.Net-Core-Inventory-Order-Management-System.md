@@ -7,3 +7,5 @@ image: assets/go2ismail_Asp_Net_Core_Inventory_Order_Management_System_20260209_
 # [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System)
 
 Inventory management system with headless API and .NET 9
+
+具有无头 API 和 .NET 9 的库存管理系统

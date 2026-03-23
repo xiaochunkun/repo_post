@@ -7,3 +7,5 @@ image: assets/elchead_misou_20260130_185305_940_20260130_185343_a022bb.png
 # [elchead/misou](https://github.com/elchead/misou)
 
 Search engine for personal knowledge sources
+
+个人知识源搜索引擎

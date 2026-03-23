@@ -7,3 +7,5 @@ image: assets/HorizonRobotics_EmbodiedGen_20251213_074755_914_20251213_074854_a5
 # [HorizonRobotics/EmbodiedGen](https://github.com/HorizonRobotics/EmbodiedGen/)
 
 Generative engine for creating interactive 3D worlds
+
+用于创建交互式3D世界的生成引擎

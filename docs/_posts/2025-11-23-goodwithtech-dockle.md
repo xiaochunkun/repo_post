@@ -7,3 +7,5 @@ image: assets/goodwithtech_dockle_20251122_132235_086_20251123_000941_18f224--20
 # [goodwithtech/dockle](https://github.com/goodwithtech/dockle/)
 
 Audits container images for security benchmarks
+
+审计容器镜像以符合安全基准

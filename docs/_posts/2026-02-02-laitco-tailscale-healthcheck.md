@@ -7,3 +7,5 @@ image: assets/laitco_tailscale_healthcheck_20260126_151945_283_20260126_152034_c
 # [laitco/tailscale-healthcheck](https://github.com/laitco/tailscale-healthcheck)
 
 Monitors health of devices in a Tailscale network
+
+监控Tailscale网络中设备的健康状态

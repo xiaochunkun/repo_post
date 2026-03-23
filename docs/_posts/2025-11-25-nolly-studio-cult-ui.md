@@ -7,3 +7,5 @@ image: assets/nolly_studio_cult_ui_20251123_182814_221_20251124_184220_84cb8b--2
 # [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui/)
 
 Tailwind React components for design engineers
+
+面向设计工程师的 Tailwind React 组件

@@ -7,3 +7,5 @@ image: assets/20251007T025941251--ananthakumaran--paisa--20251007T030922018--cro
 # [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa)
 
 personal finance manager built on double-entry accounting
+
+基于复式记账的个人财务管理工具

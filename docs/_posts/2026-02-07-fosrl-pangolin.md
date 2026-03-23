@@ -7,3 +7,5 @@ image: assets/fosrl_pangolin_20260205_233857_025_20260205_233927_45801a.png
 # [fosrl/pangolin](https://github.com/fosrl/pangolin)
 
 Remote access platform combining reverse proxy and VPN capabilities
+
+结合反向代理和 VPN 功能的远程访问平台

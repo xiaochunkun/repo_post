@@ -7,3 +7,5 @@ image: assets/MiroMindAI_MiroFlow_20251120_071034_592_20251121_055107_b1f84a--20
 # [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow/)
 
 Internet research agent for event prediction
+
+用于事件预测的互联网研究代理

@@ -7,3 +7,5 @@ image: assets/abumq_licensepp_20260117_135252_907_20260117_135315_e8c3ac.png
 # [abumq/licensepp](https://github.com/abumq/licensepp)
 
 Secures software licenses with digital signatures
+
+使用数字签名保护软件许可证

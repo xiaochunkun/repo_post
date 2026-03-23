@@ -7,3 +7,5 @@ image: assets/ndabAP_vue_command_20251205_024754_351_20251205_024817_6cef3b.png
 # [ndabAP/vue-command](https://github.com/ndabAP/vue-command/)
 
 Vue.js terminal emulator with asynchronous commands
+
+支持异步命令的Vue.js终端模拟器

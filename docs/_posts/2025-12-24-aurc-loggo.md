@@ -7,3 +7,5 @@ image: assets/aurc_loggo_20251223_031300_049_20251223_031328_edb21f.png
 # [aurc/loggo](https://github.com/aurc/loggo/)
 
 Terminal interface for log streams
+
+日志流的终端界面

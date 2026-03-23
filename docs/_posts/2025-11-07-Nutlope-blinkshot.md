@@ -7,3 +7,5 @@ image: assets/Nutlope_blinkshot_20251107_020952_926_20251107_165908_581534--2025
 # [Nutlope/blinkshot](https://github.com/Nutlope/blinkshot/)
 
 Real-time AI image generator
+
+实时AI图像生成器

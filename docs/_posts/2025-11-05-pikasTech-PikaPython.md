@@ -7,3 +7,5 @@ image: assets/pikasTech_PikaPython_20251105_052029_821_20251105_123627_829f96--2
 # [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython/)
 
 Cross-platform embedded Python engine
+
+跨平台嵌入式 Python 引擎

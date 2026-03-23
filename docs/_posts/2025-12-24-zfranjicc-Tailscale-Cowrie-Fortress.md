@@ -7,3 +7,5 @@ image: assets/zfranjicc_Tailscale_Cowrie_Fortress_20251222_204843_363_20251222_2
 # [zfranjicc/Tailscale-Cowrie-Fortress](https://github.com/zfranjicc/Tailscale-Cowrie-Fortress/)
 
 Security lab with Tailscale access and SSH honeypot
+
+具有Tailscale访问和SSH蜜罐的安全实验室

@@ -7,3 +7,5 @@ image: assets/humanchaos_factcheck_20260212_165827_410_20260212_165922_b01e66.pn
 # [humanchaos/factcheck](https://github.com/humanchaos/factcheck)
 
 Verifies YouTube claims against data sources in real-time
+
+实时根据数据源验证 YouTube 声明

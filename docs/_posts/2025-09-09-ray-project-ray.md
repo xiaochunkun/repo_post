@@ -7,3 +7,5 @@ image: assets/20250908T185912760--ray-project--ray--20250908T190454952--cropped.
 # [ray-project/ray](https://github.com/ray-project/ray)
 
 framework for scaling Python and AI apps from laptop to cluster
+
+将 Python 和 AI 应用从笔记本扩展到集群的框架

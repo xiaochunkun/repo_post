@@ -7,3 +7,5 @@ image: assets/itrummer_thalamusdb_20251126_114445_241_20251129_022814_cb5923--20
 # [itrummer/thalamusdb](https://github.com/itrummer/thalamusdb/)
 
 SQL queries with semantic operators on multimodal data
+
+在多模态数据上使用语义运算符的SQL查询

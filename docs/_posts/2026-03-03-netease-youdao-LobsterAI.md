@@ -7,3 +7,5 @@ image: assets/netease_youdao_LobsterAI_20260228_024707_050_20260228_024857_f621b
 # [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI)
 
 Agent executes tools and manipulates files via IM
+
+代理通过 IM 执行工具和操作文件

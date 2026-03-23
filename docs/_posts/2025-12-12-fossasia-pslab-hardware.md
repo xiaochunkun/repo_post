@@ -7,3 +7,5 @@ image: assets/fossasia_pslab_hardware_20251209_030524_006_20251209_030547_89116d
 # [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware/)
 
 Hardware design files for pocket science lab
+
+口袋科学实验室的硬件设计文件

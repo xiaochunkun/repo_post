@@ -7,3 +7,5 @@ image: assets/WeeJeWel_node_google_backup_20260119_222646_446_20260119_222710_f4
 # [WeeJeWel/node-google-backup](https://github.com/WeeJeWel/node-google-backup)
 
 Backs up Google Mail, Contacts, and Calendar to local files
+
+将Google邮件、联系人和日历备份到本地文件

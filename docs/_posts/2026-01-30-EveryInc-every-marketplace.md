@@ -7,3 +7,5 @@ image: assets/EveryInc_every_marketplace_20260129_112647_901_20260129_112722_375
 # [EveryInc/every-marketplace](https://github.com/EveryInc/every-marketplace)
 
 Workflow automation for Claude Code
+
+Claude Code 的工作流自动化

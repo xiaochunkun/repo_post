@@ -7,3 +7,5 @@ image: assets/efeslab_fiddler_20251207_214221_597_20251207_214255_de00e7.png
 # [efeslab/fiddler](https://github.com/efeslab/fiddler/)
 
 Run unquantized Mixtral-8x7B on a single 24GB GPU
+
+在单个24GB GPU上运行未量化的Mixtral-8x7B模型

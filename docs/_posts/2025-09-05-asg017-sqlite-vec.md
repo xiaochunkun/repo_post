@@ -7,3 +7,5 @@ image: assets/asg017_sqlite-vec--20250905T020425997--cropped.png
 # [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec)
 
 vector search for SQLite, works anywhere
+
+SQLite 向量搜索扩展，随处可用

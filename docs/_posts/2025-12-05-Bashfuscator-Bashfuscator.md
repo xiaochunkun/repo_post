@@ -7,3 +7,5 @@ image: assets/Bashfuscator_Bashfuscator_20251202_230558_713_20251202_230639_9a82
 # [Bashfuscator/Bashfuscator](https://github.com/Bashfuscator/Bashfuscator/)
 
 Framework for obfuscating Bash scripts
+
+用于混淆 Bash 脚本的框架

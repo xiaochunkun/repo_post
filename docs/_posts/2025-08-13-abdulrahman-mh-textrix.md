@@ -7,3 +7,5 @@ image: assets/20250810T054045--abdulrahman-mh--textrix--20250812T011313--cropped
 # [abdulrahman-mh/textrix](https://github.com/abdulrahman-mh/textrix)
 
 Medium-style rich text editor with static HTML publishing
+
+Medium风格的富文本编辑器，支持静态HTML发布

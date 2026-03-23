@@ -7,3 +7,5 @@ image: assets/20250928T051711990--leonardomso--33-js-concepts--20250928T05223734
 # [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 
 Covers the must-know JavaScript concepts for devs, from basics to async and closures
+
+涵盖开发者必须了解的JavaScript概念，从基础到异步和闭包

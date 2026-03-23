@@ -7,3 +7,5 @@ image: assets/20250908T225401260--Hammerspoon--hammerspoon--20250910T030429221--
 # [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
 Automate macOS using Lua scripts and system APIs
+
+用 Lua 脚本和系统 API 自动化 macOS 操作

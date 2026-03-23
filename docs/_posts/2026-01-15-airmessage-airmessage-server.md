@@ -7,3 +7,5 @@ image: assets/airmessage_airmessage_server_20260113_190759_108_20260113_190818_c
 # [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server)
 
 Relays iMessage to Android and web
+
+将 iMessage 中继到 Android 和网页

@@ -7,3 +7,5 @@ image: assets/kritishmohapatra_100_Days_100_IoT_Projects_20260212_025533_483_202
 # [kritishmohapatra/100_Days_100_IoT_Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects)
 
 IoT projects using ESP32 and MicroPython
+
+使用 ESP32 和 MicroPython 的 IoT 项目

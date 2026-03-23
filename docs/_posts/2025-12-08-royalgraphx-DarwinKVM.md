@@ -7,3 +7,5 @@ image: assets/royalgraphx_DarwinKVM_20251205_031816_215_20251205_031848_685043.p
 # [royalgraphx/DarwinKVM](https://github.com/royalgraphx/DarwinKVM/)
 
 Guide for running macOS within QEMU
+
+在QEMU中运行macOS的指南

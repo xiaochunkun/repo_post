@@ -7,3 +7,5 @@ image: assets/blueprint_freespeech_ricochet_refresh_20251127_205337_833_20251130
 # [blueprint-freespeech/ricochet-refresh](https://github.com/blueprint-freespeech/ricochet-refresh/)
 
 Messaging over Tor hidden services
+
+通过 Tor 隐藏服务进行消息传递

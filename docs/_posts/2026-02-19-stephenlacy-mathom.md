@@ -7,3 +7,5 @@ image: assets/stephenlacy_mathom_20260120_105644_179_20260120_105658_4b6267.png
 # [stephenlacy/mathom](https://github.com/stephenlacy/mathom)
 
 Local MCP platform with OAuth2
+
+带OAuth2的本地MCP平台

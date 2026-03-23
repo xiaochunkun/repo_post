@@ -7,3 +7,5 @@ image: assets/ilkome_finapp_20260123_075441_755_20260123_075524_54e820.png
 # [ilkome/finapp](https://github.com/ilkome/finapp)
 
 Tracks finances across devices offline
+
+跨设备离线跟踪财务

@@ -7,3 +7,5 @@ image: assets/imbue_bit_OpenClaw_PwnKit_20260315_100528_890_20260315_100829_4269
 # [imbue-bit/OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit)
 
 Bypasses LLM safety via adversarial tool calls
+
+通过对抗性工具调用绕过 LLM 安全限制

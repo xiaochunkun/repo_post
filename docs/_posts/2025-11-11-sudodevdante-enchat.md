@@ -7,3 +7,5 @@ image: assets/sudodevdante_enchat_20251110_161351_674_20251111_014845_2b7590--20
 # [sudodevdante/enchat](https://github.com/sudodevdante/enchat/)
 
 End-to-end encrypted chat in the terminal
+
+终端中的端到端加密聊天

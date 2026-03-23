@@ -7,3 +7,5 @@ image: assets/quant_sentiment_ai_claude_equity_research_20251104_005851_951_2025
 # [quant-sentiment-ai/claude-equity-research](https://github.com/quant-sentiment-ai/claude-equity-research/)
 
 Equity research and trading analysis with Claude AI
+
+使用Claude AI进行股票研究和交易分析

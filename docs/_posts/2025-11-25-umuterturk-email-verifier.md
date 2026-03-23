@@ -7,3 +7,5 @@ image: assets/umuterturk_email_verifier_20251123_180833_862_20251124_100017_91bd
 # [umuterturk/email-verifier](https://github.com/umuterturk/email-verifier/)
 
 Validates email addresses without storing data
+
+不存储数据的电子邮件地址验证工具

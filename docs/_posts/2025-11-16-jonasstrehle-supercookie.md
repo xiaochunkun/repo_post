@@ -7,3 +7,5 @@ image: assets/jonasstrehle_supercookie_20251115_044630_149_20251116_135700_8452a
 # [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie/)
 
 Tracks users with favicons, even in incognito mode
+
+使用 favicon 追踪用户，即使在隐身模式下

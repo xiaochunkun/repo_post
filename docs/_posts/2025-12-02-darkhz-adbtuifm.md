@@ -7,3 +7,5 @@ image: assets/darkhz_adbtuifm_20251201_010953_507_20251201_012311_f3a8e5.png
 # [darkhz/adbtuifm](https://github.com/darkhz/adbtuifm/)
 
 TUI file manager for Android Debug Bridge
+
+Android Debug Bridge的TUI文件管理器

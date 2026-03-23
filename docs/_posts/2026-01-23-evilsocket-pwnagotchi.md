@@ -7,3 +7,5 @@ image: assets/evilsocket_pwnagotchi_20260122_113607_138_20260122_113629_fefb0d.p
 # [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi)
 
 AI for WiFi handshake capture using reinforcement learning
+
+使用强化学习的 AI 捕获 WiFi 握手

@@ -7,3 +7,5 @@ image: assets/Dreamlinerm_Netflix_Prime_Auto_Skip_20251222_031700_010_20251222_0
 # [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip/)
 
 Skips ads and intros on streaming services
+
+跳过流媒体服务的广告和片头

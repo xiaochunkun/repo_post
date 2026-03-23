@@ -7,3 +7,5 @@ image: assets/kgretzky_evilginx2_cropped.png
 # [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2)
 
 phishing tool that grabs credentials and session cookies to bypass 2FA
+
+钓鱼工具，窃取凭据和会话Cookie以绕过2FA

@@ -7,3 +7,5 @@ image: assets/virattt_ai_financial_agent_20260122_025506_896_20260122_025523_015
 # [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent)
 
 Financial agent for investment research
+
+用于投资研究的金融智能体

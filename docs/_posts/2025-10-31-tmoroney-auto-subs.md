@@ -7,3 +7,5 @@ image: assets/tmoroney_auto_subs_20251030_232911_289_20251031_000354_50cde7--202
 # [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs/)
 
 Generates subtitles with one click, now with a standalone mode
+
+一键生成字幕，现支持独立模式

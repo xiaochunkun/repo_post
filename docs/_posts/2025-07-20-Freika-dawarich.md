@@ -7,3 +7,5 @@ image: assets/Freika_dawarich_cropped.png
 # [Freika/dawarich](https://github.com/Freika/dawarich)
 
 self-hosted location history app
+
+自托管位置历史应用

@@ -7,3 +7,5 @@ image: assets/quietloudlab_ai_interaction_atlas_20260216_095522_704_20260216_095
 # [quietloudlab/ai-interaction-atlas](https://github.com/quietloudlab/ai-interaction-atlas)
 
 Taxonomy for mapping human-AI interaction systems
+
+映射人机交互系统的分类法

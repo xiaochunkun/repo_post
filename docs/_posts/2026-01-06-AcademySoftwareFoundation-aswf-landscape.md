@@ -7,3 +7,5 @@ image: assets/AcademySoftwareFoundation_aswf_landscape_20260105_183021_921_20260
 # [AcademySoftwareFoundation/aswf-landscape](https://github.com/AcademySoftwareFoundation/aswf-landscape/)
 
 Maps open source projects in the motion picture industry
+
+映射电影行业的开源项目

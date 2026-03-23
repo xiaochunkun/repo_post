@@ -7,3 +7,5 @@ image: assets/Losses_rune_20260127_205314_758_20260127_205403_ceeb2e.png
 # [Losses/rune](https://github.com/Losses/rune)
 
 Music player inspired by Zune design
+
+受Zune设计启发的音乐播放器

@@ -7,3 +7,5 @@ image: assets/devsecops_awesome_devsecops_20251114_060430_349_20251114_162945_7b
 # [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops/)
 
 Curated list of DevSecOps documents, presentations, and tools
+
+精选的DevSecOps文档、演示和工具列表

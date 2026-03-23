@@ -7,3 +7,5 @@ image: assets/20250818T124606431_ed-donner_action--20250818T125237975--cropped.p
 # [ed-donner/action](https://github.com/ed-donner/action)
 
 hands-on agentic AI multi-agent Python workshop repo
+
+实践性代理 AI 多代理 Python 工作坊仓库

@@ -7,3 +7,5 @@ image: assets/awesome_scripts_awesome_userscripts_20260103_095345_176_20260103_0
 # [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts/)
 
 Collection of scripts to modify websites
+
+修改网站的脚本集合

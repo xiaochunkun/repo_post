@@ -7,3 +7,5 @@ image: assets/rerun_io_pi0_lerobot_20260115_214443_895_20260115_214503_3eaf81.pn
 # [rerun-io/pi0-lerobot](https://github.com/rerun-io/pi0-lerobot)
 
 Retargets human pose motion for robot training
+
+为机器人训练重定向人体姿态运动

@@ -7,3 +7,5 @@ image: assets/Kinfe123_better_auth_studio_20251226_213408_549_20251226_213426_da
 # [Kinfe123/better-auth-studio](https://github.com/Kinfe123/better-auth-studio/)
 
 Web interface for managing authentication data
+
+管理认证数据的 Web 界面

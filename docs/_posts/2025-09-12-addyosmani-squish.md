@@ -7,3 +7,5 @@ image: assets/20250911T165948947--addyosmani--squish--20250911T170947609--croppe
 # [addyosmani/squish](https://github.com/addyosmani/squish)
 
 browser image compression tool with batch support and multiple formats
+
+浏览器图片压缩工具，支持批量处理和多种格式

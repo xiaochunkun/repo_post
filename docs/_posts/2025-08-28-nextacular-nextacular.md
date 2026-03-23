@@ -7,3 +7,5 @@ image: assets/20250827T221954528--nextacular--nextacular--20250827T223130284--cr
 # [nextacular/nextacular](https://github.com/nextacular/nextacular)
 
 starter kit for multi-tenant SaaS apps with Next.js
+
+Next.js 多租户 SaaS 应用启动套件

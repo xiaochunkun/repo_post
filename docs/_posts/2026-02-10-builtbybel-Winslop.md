@@ -7,3 +7,5 @@ image: assets/builtbybel_Winslop_20260206_002701_046_20260206_002730_92f929.png
 # [builtbybel/Winslop](https://github.com/builtbybel/Winslop)
 
 Removes system components from Windows
+
+从 Windows 移除系统组件

@@ -7,3 +7,5 @@ image: assets/ayushsharma82_ESP_DASH_20251221_190754_251_20251221_190810_2d393b.
 # [ayushsharma82/ESP-DASH](https://github.com/ayushsharma82/ESP-DASH/)
 
 Dashboard for ESP32 and RP2040 microcontrollers
+
+ESP32 和 RP2040 微控制器仪表板

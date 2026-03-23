@@ -7,3 +7,5 @@ image: assets/cybershujin_Threat-Actors-use-of-Artifical-Intelligence_cropped.pn
 # [cybershujin/Threat-Actors-use-of-Artifical-Intelligence](https://github.com/cybershujin/Threat-Actors-use-of-Artifical-Intelligence)
 
 examples of cybercriminals using AI for attacks
+
+网络犯罪分子使用 AI 进行攻击的示例

@@ -7,3 +7,5 @@ image: assets/avikeid2007_Ping_Tool_20260117_070658_433_20260117_070722_e349ef.p
 # [avikeid2007/Ping-Tool](https://github.com/avikeid2007/Ping-Tool)
 
 Network diagnostic tool for Windows
+
+Windows 网络诊断工具

@@ -7,3 +7,5 @@ image: assets/iamsrikanthnani_pluely_20251229_112234_292_20251229_112255_f70ece.
 # [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely/)
 
 AI assistant for meetings and screen shares
+
+用于会议和屏幕共享的AI助手

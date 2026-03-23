@@ -7,3 +7,5 @@ image: assets/20250810T065218--miroslavpejic85--mirotalksfu--20250811T002724--cr
 # [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu)
 
 browser-based video calls app built on Mediasoup
+
+基于Mediasoup构建的浏览器视频通话应用

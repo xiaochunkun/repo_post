@@ -7,3 +7,5 @@ image: assets/bacinger_f1_circuits_20251029_224220_240_20251030_000912_e2bde1--2
 # [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits/)
 
 Repository of Formula 1 circuits in GeoJSON format
+
+以 GeoJSON 格式存储的 F1 赛道仓库

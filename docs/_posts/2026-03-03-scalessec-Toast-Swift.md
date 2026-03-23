@@ -7,3 +7,5 @@ image: assets/scalessec_Toast_Swift_20260201_062004_544_20260201_062046_ac26b8.p
 # [scalessec/Toast-Swift](https://github.com/scalessec/Toast-Swift)
 
 Adds toast notifications to the UIView class
+
+为 UIView 类添加 toast 通知功能

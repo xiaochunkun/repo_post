@@ -7,3 +7,5 @@ image: assets/dnlzro_horizon_20251114_225916_480_20251115_202037_05e0bb--2025111
 # [dnlzro/horizon](https://github.com/dnlzro/horizon/)
 
 Renders the current sky as a CSS gradient
+
+将当前天空渲染为 CSS 渐变

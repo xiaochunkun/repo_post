@@ -7,3 +7,5 @@ image: assets/hijohnnylin_neuronpedia_20260131_153405_457_20260131_153528_88b212
 # [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia)
 
 Platform for mechanistic interpretability research
+
+机制可解释性研究平台

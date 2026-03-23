@@ -7,3 +7,5 @@ image: assets/alperdrsnn_clime_20251103_232343_487_20251104_181804_fce47d--20251
 # [alperdrsnn/clime](https://github.com/alperdrsnn/clime/)
 
 A Go library for building command-line interfaces with spinners, progress bars, and tables
+
+构建带旋转器、进度条和表格的CLI的Go库

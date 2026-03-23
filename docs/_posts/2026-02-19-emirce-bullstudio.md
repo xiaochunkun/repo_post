@@ -7,3 +7,5 @@ image: assets/emirce_bullstudio_20260208_101829_425_20260208_101850_0cf03d.png
 # [emirce/bullstudio](https://github.com/emirce/bullstudio)
 
 Queue management dashboard for Bull and BullMQ
+
+Bull和BullMQ的队列管理仪表板

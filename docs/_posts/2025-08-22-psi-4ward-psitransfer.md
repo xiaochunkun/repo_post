@@ -7,3 +7,5 @@ image: assets/psi-4ward_psitransfer--20250820T141337261--cropped.png
 # [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer)
 
 self-hosted file sharing, no accounts needed
+
+自托管文件分享，无需注册账号

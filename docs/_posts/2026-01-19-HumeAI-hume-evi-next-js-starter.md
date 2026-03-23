@@ -7,3 +7,5 @@ image: assets/HumeAI_hume_evi_next_js_starter_20260117_053903_415_20260117_05391
 # [HumeAI/hume-evi-next-js-starter](https://github.com/HumeAI/hume-evi-next-js-starter)
 
 Voice interface with emotion detection for Next.js
+
+为 Next.js 提供情感检测的语音界面

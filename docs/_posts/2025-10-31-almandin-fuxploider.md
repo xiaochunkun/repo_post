@@ -7,3 +7,5 @@ image: assets/almandin_fuxploider_20251031_030616_416_20251031_141339_82a9d9--20
 # [almandin/fuxploider](https://github.com/almandin/fuxploider/)
 
 Automates detecting and exploiting file upload forms
+
+自动化检测和利用文件上传表单

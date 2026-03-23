@@ -7,3 +7,5 @@ image: assets/surveyjs_survey_creator_20251217_125442_577_20251217_125656_1b546c
 # [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator/)
 
 Client-side form builder component for JavaScript apps
+
+JavaScript 应用的客户端表单构建组件

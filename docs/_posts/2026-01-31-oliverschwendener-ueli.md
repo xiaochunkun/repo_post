@@ -7,3 +7,5 @@ image: assets/oliverschwendener_ueli_20260130_135357_960_20260130_135433_a54a67.
 # [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli)
 
 Keystroke launcher for Windows, macOS, and Linux
+
+适用于Windows、macOS和Linux的击键启动器

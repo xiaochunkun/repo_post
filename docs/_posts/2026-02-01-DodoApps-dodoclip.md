@@ -7,3 +7,5 @@ image: assets/DodoApps_dodoclip_20260201_020640_104_20260201_020725_61caa0.png
 # [DodoApps/dodoclip](https://github.com/DodoApps/dodoclip)
 
 Clipboard manager with OCR and color detection
+
+带有 OCR 和颜色检测的剪贴板管理器

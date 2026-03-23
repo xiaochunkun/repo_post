@@ -7,3 +7,5 @@ image: assets/usenocturne_nocturne_connector_20251219_142758_099_20251219_142814
 # [usenocturne/nocturne-connector](https://github.com/usenocturne/nocturne-connector/)
 
 Enables Wi-Fi on Spotify Car Thing via Raspberry Pi OS
+
+通过 Raspberry Pi OS 为 Spotify Car Thing 启用 Wi-Fi

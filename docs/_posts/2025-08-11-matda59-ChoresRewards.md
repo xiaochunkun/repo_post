@@ -7,3 +7,5 @@ image: assets/matda59_ChoresRewards_cropped.png
 # [matda59/ChoresRewards](https://github.com/matda59/ChoresRewards)
 
 point-based family chores tracker with rewards
+
+基于积分的家庭家务跟踪与奖励系统

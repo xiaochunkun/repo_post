@@ -7,3 +7,5 @@ image: assets/alextselegidis_easyappointments_20260209_005622_965_20260209_00564
 # [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments)
 
 Self-hosted appointment scheduler for servers
+
+自托管服务器预约调度器

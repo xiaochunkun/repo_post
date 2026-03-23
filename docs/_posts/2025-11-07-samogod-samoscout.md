@@ -7,3 +7,5 @@ image: assets/samogod_samoscout_20251106_232445_282_20251107_165628_404ba8--2025
 # [samogod/samoscout](https://github.com/samogod/samoscout/)
 
 LLM powered subdomain enumeration tool
+
+基于LLM的子域名枚举工具

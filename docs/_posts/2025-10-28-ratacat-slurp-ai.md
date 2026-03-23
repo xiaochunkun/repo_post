@@ -7,3 +7,5 @@ image: assets/ratacat_slurp_ai_20251027_190556_787_20251028_091330_62bb1b--20251
 # [ratacat/slurp-ai](https://github.com/ratacat/slurp-ai/)
 
 CLI tool to scrape documentation for AI agents without using AI
+
+无需 AI 即可为 AI 代理抓取文档的 CLI 工具

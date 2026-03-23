@@ -7,3 +7,5 @@ image: assets/Lightricks_LTX_2_20260208_163146_250_20260208_163217_f3a793.png
 # [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
 
 Generates audio and video in one model
+
+在一个模型中生成音频和视频

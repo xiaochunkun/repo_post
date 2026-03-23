@@ -7,3 +7,5 @@ image: assets/g_hano_Claude_Powered_Study_Assistant_20260130_151840_143_20260130
 # [g-hano/Claude-Powered-Study-Assistant](https://github.com/g-hano/Claude-Powered-Study-Assistant)
 
 Study assistant with tool use for Claude
+
+支持工具使用的 Claude 学习助手

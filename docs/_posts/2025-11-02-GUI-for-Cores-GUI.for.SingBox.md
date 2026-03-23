@@ -7,3 +7,5 @@ image: assets/GUI_for_Cores_GUI_for_SingBox_20251031_060833_660_20251101_203156_
 # [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox/)
 
 GUI for SingBox built with Vue3 and Wails
+
+使用 Vue3 和 Wails 构建的 SingBox GUI

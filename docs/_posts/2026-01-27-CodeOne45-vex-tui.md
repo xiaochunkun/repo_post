@@ -7,3 +7,5 @@ image: assets/CodeOne45_vex_tui_20260122_015135_874_20260122_015150_b713df.png
 # [CodeOne45/vex-tui](https://github.com/CodeOne45/vex-tui)
 
 Terminal spreadsheet editor with vim keybindings and formula support
+
+支持vim键绑定和公式的终端电子表格编辑器

@@ -7,3 +7,5 @@ image: assets/turtle_key_TabLift_20260130_113024_336_20260130_113132_c4329d.png
 # [turtle-key/TabLift](https://github.com/turtle-key/TabLift)
 
 Restores windows when switching apps
+
+切换应用时恢复窗口

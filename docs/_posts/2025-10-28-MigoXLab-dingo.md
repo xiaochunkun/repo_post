@@ -7,3 +7,5 @@ image: assets/MigoXLab_dingo_20251026_233804_275_20251027_002442_3429e0--2025102
 # [MigoXLab/dingo](https://github.com/MigoXLab/dingo/)
 
 Data quality evaluation tool for text and multimodal datasets
+
+用于文本和多模态数据集的数据质量评估工具

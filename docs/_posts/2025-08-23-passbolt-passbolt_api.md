@@ -7,3 +7,5 @@ image: assets/20250818T123243657_passbolt_passbolt_api--20250822T021905781--crop
 # [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api)
 
 open source password manager for teams
+
+面向团队的开源密码管理器

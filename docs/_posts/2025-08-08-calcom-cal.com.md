@@ -7,3 +7,5 @@ image: assets/calcom_cal.com_cropped.png
 # [calcom/cal.com](https://github.com/calcom/cal.com)
 
 open source calendar scheduling for teams and individuals
+
+用于团队和个人的开源日历调度工具

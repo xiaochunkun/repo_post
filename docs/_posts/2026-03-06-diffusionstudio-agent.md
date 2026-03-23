@@ -7,3 +7,5 @@ image: assets/diffusionstudio_agent_20260306_010103_092_20260306_010215_a41411.p
 # [diffusionstudio/agent](https://github.com/diffusionstudio/agent)
 
 Compose video via autonomous agents
+
+通过自主智能体合成视频

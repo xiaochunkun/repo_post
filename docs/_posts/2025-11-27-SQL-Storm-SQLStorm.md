@@ -7,3 +7,5 @@ image: assets/SQL_Storm_SQLStorm_20251125_013452_780_20251126_101128_0a4129--202
 # [SQL-Storm/SQLStorm](https://github.com/SQL-Storm/SQLStorm/)
 
 LLM-generated analytical benchmark for database systems
+
+LLM 生成的数据库系统分析基准

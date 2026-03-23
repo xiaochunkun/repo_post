@@ -7,3 +7,5 @@ image: assets/ggozad_haiku_rag_20251030_003622_294_20251030_010904_b3660e--20251
 # [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag/)
 
 Retrieval-Augmented Generation library with native hybrid search
+
+具有原生混合搜索的检索增强生成库

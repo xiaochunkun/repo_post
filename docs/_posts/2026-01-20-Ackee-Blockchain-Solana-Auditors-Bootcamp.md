@@ -7,3 +7,5 @@ image: assets/Ackee_Blockchain_Solana_Auditors_Bootcamp_20260115_152412_265_2026
 # [Ackee-Blockchain/Solana-Auditors-Bootcamp](https://github.com/Ackee-Blockchain/Solana-Auditors-Bootcamp)
 
 Course for auditing programs on the blockchain
+
+区块链程序审计课程

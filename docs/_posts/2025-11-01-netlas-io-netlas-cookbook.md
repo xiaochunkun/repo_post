@@ -7,3 +7,5 @@ image: assets/netlas_io_netlas_cookbook_20251031_042725_162_20251031_205600_32b5
 # [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook/)
 
 Cookbook for automating cybersecurity searches
+
+自动化网络安全搜索的食谱

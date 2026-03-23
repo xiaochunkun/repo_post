@@ -7,3 +7,5 @@ image: assets/jacob_bd_universal_skills_manager_20260311_085206_229_20260311_085
 # [jacob-bd/universal-skills-manager](https://github.com/jacob-bd/universal-skills-manager)
 
 Sync skills across multiple AI tools
+
+跨多个 AI 工具同步技能

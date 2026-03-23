@@ -7,3 +7,5 @@ image: assets/EvanZhouDev_open_genmoji_20251112_074658_598_20251113_164432_57c55
 # [EvanZhouDev/open-genmoji](https://github.com/EvanZhouDev/open-genmoji/)
 
 Recreates Apple's Genmoji feature with open technology
+
+使用开放技术重现 Apple 的 Genmoji 功能

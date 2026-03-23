@@ -7,3 +7,5 @@ image: assets/Tyrrrz_DiscordChatExporter_cropped.png
 # [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 
 Tool for exporting Discord chat logs to files
+
+将 Discord 聊天记录导出到文件的工具

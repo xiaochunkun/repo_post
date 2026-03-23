@@ -7,3 +7,5 @@ image: assets/0xdea_lighthouse_20251222_224538_969_20251222_224600_5670dd.png
 # [0xdea/lighthouse](https://github.com/0xdea/lighthouse/)
 
 Maps code coverage for reverse engineering
+
+逆向工程的代码覆盖率映射工具

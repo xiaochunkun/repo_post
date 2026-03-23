@@ -7,3 +7,5 @@ image: assets/D3Ext_aesthetic_wallpapers_20251228_062208_030_20251228_062227_477
 # [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/)
 
 Collection of wallpapers from various sources
+
+来自多个来源的壁纸集合

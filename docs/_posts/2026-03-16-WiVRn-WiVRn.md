@@ -7,3 +7,5 @@ image: assets/WiVRn_WiVRn_20260303_124432_828_20260303_124601_9d8e98.png
 # [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn)
 
 Streams PCVR to standalone headsets from Linux
+
+从Linux流式传输PCVR到独立头显

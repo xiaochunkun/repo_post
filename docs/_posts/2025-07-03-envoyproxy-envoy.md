@@ -7,3 +7,5 @@ image: assets/envoyproxy_envoy_cropped.png
 # [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 
 Envoy is a service and edge proxy for handling network traffic in microservices
+
+Envoy是用于处理微服务网络流量的服务和边缘代理

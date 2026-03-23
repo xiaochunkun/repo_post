@@ -7,3 +7,5 @@ image: assets/20250831T025227215--Ironclad--rivet--20250831T030353470--cropped.p
 # [Ironclad/rivet](https://github.com/Ironclad/rivet)
 
 visual AI agent builder with prompt chaining
+
+可视化 AI 智能体构建器，支持提示词链

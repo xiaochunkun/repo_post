@@ -7,3 +7,5 @@ image: assets/ton-blockchain_ton_cropped.png
 # [ton-blockchain/ton](https://github.com/ton-blockchain/ton)
 
 TON blockchain core implementation and tools
+
+TON 区块链核心实现和工具

@@ -7,3 +7,5 @@ image: assets/anthonycorletti_modal_metabase_20260113_203858_814_20260113_203912
 # [anthonycorletti/modal-metabase](https://github.com/anthonycorletti/modal-metabase)
 
 Analytics platform on infrastructure for machine learning
+
+机器学习基础设施上的分析平台

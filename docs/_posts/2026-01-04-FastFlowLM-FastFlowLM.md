@@ -7,3 +7,5 @@ image: assets/FastFlowLM_FastFlowLM_20260103_083645_073_20260103_083707_e1f782.p
 # [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM/)
 
 Runs LLMs on AMD NPUs
+
+在AMD NPU上运行LLM

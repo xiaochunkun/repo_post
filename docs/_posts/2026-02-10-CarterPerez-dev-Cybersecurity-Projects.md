@@ -7,3 +7,5 @@ image: assets/CarterPerez_dev_Cybersecurity_Projects_20260209_061340_586_2026020
 # [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
 
 Source code for sixty cybersecurity projects and certification roadmaps
+
+六十个网络安全项目和认证路线图的源代码

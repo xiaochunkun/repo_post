@@ -7,3 +7,5 @@ image: assets/collaborator_ai_collab_public_20260323_004657_547_20260323_004802_
 # [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)
 
 End-to-end agentic development environment
+
+端到端的智能体开发环境

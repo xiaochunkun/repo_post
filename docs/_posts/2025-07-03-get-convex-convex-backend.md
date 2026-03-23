@@ -7,3 +7,5 @@ image: assets/get-convex_convex-backend_cropped.png
 # [get-convex/convex-backend](https://github.com/get-convex/convex-backend)
 
 Database, server-side functions, client libraries for building and scaling live-updating apps
+
+用于构建和扩展实时更新应用的数据库、服务器端函数和客户端库

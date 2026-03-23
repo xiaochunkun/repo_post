@@ -7,3 +7,5 @@ image: assets/20251005T230035024--Pipelex--pipelex--20251005T231020216--cropped.
 # [Pipelex/pipelex](https://github.com/Pipelex/pipelex)
 
 open-source tool for building repeatable AI workflows with modular, reusable components
+
+开源工具，用于使用模块化、可重用组件构建可重复的 AI 工作流

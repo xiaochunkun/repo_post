@@ -7,3 +7,5 @@ image: assets/vercel_labs_visual_json_20260226_041216_821_20260226_041345_3cbfd6
 # [vercel-labs/visual-json](https://github.com/vercel-labs/visual-json)
 
 Schema-aware editor for JSON data
+
+JSON 数据的模式感知编辑器

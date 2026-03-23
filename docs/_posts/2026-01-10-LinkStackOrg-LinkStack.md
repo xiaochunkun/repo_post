@@ -7,3 +7,5 @@ image: assets/LinkStackOrg_LinkStack_20260108_091837_154_20260108_091901_74cfdc.
 # [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
 Self-hosted link sharing platform
+
+自托管链接分享平台

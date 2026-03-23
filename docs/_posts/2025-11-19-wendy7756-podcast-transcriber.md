@@ -7,3 +7,5 @@ image: assets/wendy7756_podcast_transcriber_20251118_092102_377_20251118_160804_
 # [wendy7756/podcast-transcriber](https://github.com/wendy7756/podcast-transcriber/)
 
 Turns podcasts into transcripts and summaries
+
+将播客转换为文字稿和摘要

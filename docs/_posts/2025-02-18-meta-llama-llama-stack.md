@@ -7,3 +7,5 @@ image: assets/meta-llama_llama-stack_cropped.png
 # [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack)
 
 Open-source framework designed to streamline the development and deployment of generative AI applications built on top of Meta'sLlama models 
+
+基于 Meta Llama 模型的开源框架，简化生成式 AI 应用的开发和部署

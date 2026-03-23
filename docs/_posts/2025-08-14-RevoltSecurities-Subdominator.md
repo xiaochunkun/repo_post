@@ -7,3 +7,5 @@ image: assets/RevoltSecurities_Subdominator--20250814T044044159--cropped.png
 # [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator)
 
 subdomain enumeration tool for bug hunting and recon
+
+用于漏洞挖掘和侦察的子域名枚举工具

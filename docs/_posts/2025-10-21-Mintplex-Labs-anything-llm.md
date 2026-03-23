@@ -7,3 +7,5 @@ image: assets/Mintplex_Labs_anything_llm_20251020_204224_677_20251021_000106--20
 # [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm/)
 
 AI app for chat with documents, AI agents, multi-user
+
+AI 应用，支持文档聊天、AI agents 和多用户

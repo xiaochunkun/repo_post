@@ -7,3 +7,5 @@ image: assets/rogden_tailwind_config_viewer_20251221_171032_110_20251221_171051_
 # [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer/)
 
 Visualizes Tailwind CSS configuration files in a local UI
+
+在本地 UI 中可视化 Tailwind CSS 配置文件

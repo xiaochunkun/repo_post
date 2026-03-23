@@ -7,3 +7,5 @@ image: assets/dgmjs_dgmjs_cropped.png
 # [dgmjs/dgmjs](https://github.com/dgmjs/dgmjs)
 
 infinite canvas library with smart shapes
+
+支持智能形状的无限画布库

@@ -7,3 +7,5 @@ image: assets/20251001T205050256--fern-api--fern--20251001T205534900--cropped.pn
 # [fern-api/fern](https://github.com/fern-api/fern)
 
 generate SDKs and docs for your API in multiple languages
+
+为您的API生成多语言SDK和文档

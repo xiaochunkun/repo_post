@@ -7,3 +7,5 @@ image: assets/20251010T211322087--myliang--x-spreadsheet--20251010T212430086--cr
 # [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)
 
 web-based JavaScript spreadsheet component
+
+基于 Web 的 JavaScript 电子表格组件

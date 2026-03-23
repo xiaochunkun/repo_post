@@ -7,3 +7,5 @@ image: assets/elastic_elasticsearch_labs_20260111_104732_358_20260111_104745_e75
 # [elastic/elasticsearch-labs](https://github.com/elastic/elasticsearch-labs)
 
 Notebooks for search and AI applications
+
+搜索和 AI 应用的 notebook

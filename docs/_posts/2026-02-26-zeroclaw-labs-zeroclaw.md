@@ -7,3 +7,5 @@ image: assets/zeroclaw_labs_zeroclaw_20260225_115918_373_20260225_120055_c10e83.
 # [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 
 Infrastructure for agentic workflows on hardware with 5MB RAM
+
+在5MB RAM硬件上运行的代理工作流基础设施

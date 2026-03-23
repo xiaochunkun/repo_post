@@ -7,3 +7,5 @@ image: assets/Rongronggg9_RSS_to_Telegram_Bot_20251025_115813_178_20251025_22440
 # [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/)
 
 Telegram bot for RSS feeds focused on reading experience
+
+专注于阅读体验的 Telegram RSS 机器人

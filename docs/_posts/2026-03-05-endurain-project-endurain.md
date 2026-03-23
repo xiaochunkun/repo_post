@@ -7,3 +7,5 @@ image: assets/endurain_project_endurain_20260223_130103_849_20260223_130148_2ccd
 # [endurain-project/endurain](https://github.com/endurain-project/endurain)
 
 Self-hosted fitness tracking service
+
+自托管的健身追踪服务

@@ -7,3 +7,5 @@ image: assets/wecode-ai_RunVSAgent_cropped.png
 # [wecode-ai/RunVSAgent](https://github.com/wecode-ai/RunVSAgent)
 
 run VSCode agents and extensions inside other IDEs
+
+在其他 IDE 中运行 VSCode 代理和扩展

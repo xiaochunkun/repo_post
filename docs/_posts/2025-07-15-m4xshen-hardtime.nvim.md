@@ -7,3 +7,5 @@ image: assets/m4xshen_hardtime.nvim_cropped.png
 # [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
 
 neovim plugin that blocks bad editing habits
+
+neovim插件，用于阻止不良编辑习惯

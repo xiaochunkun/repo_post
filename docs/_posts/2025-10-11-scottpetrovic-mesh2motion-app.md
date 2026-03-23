@@ -7,3 +7,5 @@ image: assets/20251010T210328544--scottpetrovic--mesh2motion-app--20251010T21171
 # [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app)
 
 Import 3D models, auto-rig and export animations in your browser
+
+在浏览器中导入 3D 模型、自动绑定骨骼并导出动画

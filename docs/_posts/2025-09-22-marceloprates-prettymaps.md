@@ -7,3 +7,5 @@ image: assets/20250922T025527954--marceloprates--prettymaps--20250922T030229070-
 # [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)
 
 generate custom maps from OpenStreetMap data using Python
+
+使用 Python 从 OpenStreetMap 数据生成自定义地图

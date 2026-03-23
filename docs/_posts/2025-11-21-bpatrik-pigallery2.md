@@ -7,3 +7,5 @@ image: assets/bpatrik_pigallery2_20251120_064451_814_20251121_054818_5c2e8b--202
 # [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2/)
 
 Directory-first photo gallery for Raspberry Pi
+
+树莓派目录优先相册

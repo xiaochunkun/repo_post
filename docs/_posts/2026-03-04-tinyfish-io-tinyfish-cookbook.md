@@ -7,3 +7,5 @@ image: assets/tinyfish_io_tinyfish_cookbook_20260210_063746_416_20260210_063817_
 # [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook)
 
 Turns websites into APIs with natural language
+
+用自然语言将网站转换为API

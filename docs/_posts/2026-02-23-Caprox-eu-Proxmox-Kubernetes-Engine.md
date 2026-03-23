@@ -7,3 +7,5 @@ image: assets/Caprox_eu_Proxmox_Kubernetes_Engine_20260222_110951_796_20260222_1
 # [Caprox-eu/Proxmox-Kubernetes-Engine](https://github.com/Caprox-eu/Proxmox-Kubernetes-Engine)
 
 Deploys Kubernetes clusters on Proxmox via Cluster API
+
+通过Cluster API在Proxmox上部署Kubernetes集群

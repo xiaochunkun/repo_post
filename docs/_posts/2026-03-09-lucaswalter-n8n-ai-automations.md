@@ -7,3 +7,5 @@ image: assets/lucaswalter_n8n_ai_automations_20260309_114945_503_20260309_115152
 # [lucaswalter/n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations)
 
 Workflows and agents for n8n automation
+
+用于n8n自动化的工作流和代理

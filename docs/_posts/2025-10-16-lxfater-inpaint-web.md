@@ -7,3 +7,5 @@ image: assets/20251016T074652838--lxfater--inpaint-web--20251016T075427502--crop
 # [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web)
 
 browser-based inpainting and image upscaling powered by webgpu and wasm
+
+基于浏览器的修复和图像放大工具，由 webgpu 和 wasm 驱动

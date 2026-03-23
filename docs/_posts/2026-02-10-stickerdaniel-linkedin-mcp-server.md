@@ -7,3 +7,5 @@ image: assets/stickerdaniel_linkedin_mcp_server_20260208_135150_807_20260208_135
 # [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server)
 
 Connects AI assistants to LinkedIn for profile and job data
+
+将AI助手连接到LinkedIn以获取个人资料和工作数据

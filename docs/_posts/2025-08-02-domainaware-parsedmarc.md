@@ -7,3 +7,5 @@ image: assets/domainaware_parsedmarc_cropped.png
 # [domainaware/parsedmarc](https://github.com/domainaware/parsedmarc)
 
 Python tool for parsing and visualizing DMARC reports
+
+用于解析和可视化 DMARC 报告的 Python 工具

@@ -7,3 +7,5 @@ image: assets/ivmartel_dwv_20251210_033343_407_20251210_033404_a627ff.png
 # [ivmartel/dwv](https://github.com/ivmartel/dwv/)
 
 Zero footprint medical image viewer library
+
+零占用空间的医学图像查看器库

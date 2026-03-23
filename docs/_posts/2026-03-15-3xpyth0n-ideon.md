@@ -7,3 +7,5 @@ image: assets/3xpyth0n_ideon_20260302_201812_227_20260302_202012_28057d.png
 # [3xpyth0n/ideon](https://github.com/3xpyth0n/ideon)
 
 Spatial canvas for project management
+
+用于项目管理的空间画布

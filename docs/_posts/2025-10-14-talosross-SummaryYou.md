@@ -7,3 +7,5 @@ image: assets/20251014T005335513--talosross--SummaryYou--20251014T005648089--cro
 # [talosross/SummaryYou](https://github.com/talosross/SummaryYou)
 
 Summarizes YouTube videos, articles, images, and documents with AI
+
+使用 AI 总结 YouTube 视频、文章、图像和文档

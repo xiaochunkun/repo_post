@@ -7,3 +7,5 @@ image: assets/20251010T211409720--brunochanrio--DangoPlayer--20251010T211612193-
 # [brunochanrio/DangoPlayer](https://github.com/brunochanrio/DangoPlayer)
 
 video player and IPTV client for Android and TV
+
+Android 和电视的视频播放器和 IPTV 客户端

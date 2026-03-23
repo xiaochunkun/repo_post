@@ -7,3 +7,5 @@ image: assets/celluloid_player_celluloid_20251127_192520_627_20251130_082522_402
 # [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid/)
 
 GTK+ frontend for mpv
+
+mpv 的 GTK+ 前端

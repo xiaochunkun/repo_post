@@ -7,3 +7,5 @@ image: assets/qeeqbox_social_analyzer_20260206_201210_905_20260206_201236_d239f4
 # [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
 
 Locates profiles across 1000 websites
+
+在1000个网站上定位个人资料

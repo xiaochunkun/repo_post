@@ -7,3 +7,5 @@ image: assets/20250929T073537521--soketi--soketi--20250929T074320679--cropped.pn
 # [soketi/soketi](https://github.com/soketi/soketi)
 
 Open-source WebSockets server, Pusher-compatible, built for real-time apps
+
+为实时应用构建的开源 WebSockets 服务器，兼容 Pusher

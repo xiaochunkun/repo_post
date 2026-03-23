@@ -7,3 +7,5 @@ image: assets/arianrhodsandlot_retroassembly_20251121_134808_002_20251122_034018
 # [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/)
 
 Console game cabinet in a browser
+
+浏览器中的游戏机柜模拟

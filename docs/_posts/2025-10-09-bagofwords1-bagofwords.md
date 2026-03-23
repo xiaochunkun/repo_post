@@ -7,3 +7,5 @@ image: assets/20251009T050518522--bagofwords1--bagofwords--20251009T051126803--c
 # [bagofwords1/bagofwords](https://github.com/bagofwords1/bagofwords)
 
 connects LLMs to any data source with centralized context and governance
+
+通过集中式上下文和治理将 LLM 连接到任何数据源

@@ -7,3 +7,5 @@ image: assets/20250818T123429832_socfortress_CoPilot--20250818T124004056--croppe
 # [socfortress/CoPilot](https://github.com/socfortress/CoPilot)
 
 open source tool to manage and unify your security stack
+
+管理和统一安全堆栈的开源工具

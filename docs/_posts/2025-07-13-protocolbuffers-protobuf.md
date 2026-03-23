@@ -7,3 +7,5 @@ image: assets/protocolbuffers_protobuf_cropped.png
 # [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 
 Google's data serialization format for structured data
+
+Google的结构化数据序列化格式

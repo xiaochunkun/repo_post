@@ -7,3 +7,5 @@ image: assets/20250928T055402105--newdee--prompt-shelf--20250928T060346080--crop
 # [newdee/prompt-shelf](https://github.com/newdee/prompt-shelf)
 
 Prompt management with version control for AI projects
+
+AI项目的提示管理，支持版本控制

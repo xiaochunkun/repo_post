@@ -7,3 +7,5 @@ image: assets/rrahul1011_loanlens_ai_20251221_031617_265_20251221_031634_ee8e3e.
 # [rrahul1011/loanlens_ai](https://github.com/rrahul1011/loanlens_ai/)
 
 Automates loan underwriting and fraud detection
+
+自动化贷款承销和欺诈检测

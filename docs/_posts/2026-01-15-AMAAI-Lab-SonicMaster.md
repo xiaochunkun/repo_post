@@ -7,3 +7,5 @@ image: assets/AMAAI_Lab_SonicMaster_20260114_083022_181_20260114_083036_9b3cf8.p
 # [AMAAI-Lab/SonicMaster](https://github.com/AMAAI-Lab/SonicMaster)
 
 Restores music through text instructions
+
+通过文本指令恢复音乐

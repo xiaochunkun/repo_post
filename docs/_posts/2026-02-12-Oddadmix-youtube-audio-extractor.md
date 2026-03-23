@@ -7,3 +7,5 @@ image: assets/Oddadmix_youtube_audio_extractor_20260212_053853_882_20260212_0539
 # [Oddadmix/youtube-audio-extractor](https://github.com/Oddadmix/youtube-audio-extractor)
 
 Builds Egyptian Arabic ASR datasets from YouTube videos
+
+从 YouTube 视频构建埃及阿拉伯语 ASR 数据集

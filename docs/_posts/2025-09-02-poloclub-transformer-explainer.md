@@ -7,3 +7,5 @@ image: assets/20250831T025234169--poloclub--transformer-explainer--20250831T0304
 # [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer)
 
 interactive tool to see how GPT-2 predicts text step by step
+
+可交互地逐步查看 GPT-2 文本预测过程的工具

@@ -7,3 +7,5 @@ image: assets/normal_computing_fuji_web_20260122_061815_005_20260122_061829_0021
 # [normal-computing/fuji-web](https://github.com/normal-computing/fuji-web)
 
 AI agent for browser automation
+
+浏览器自动化的AI代理

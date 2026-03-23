@@ -7,3 +7,5 @@ image: assets/watat83_document_chat_system_20251222_080526_772_20251222_080544_6
 # [watat83/document-chat-system](https://github.com/watat83/document-chat-system/)
 
 RAG platform for chat with documents via multi-provider AI
+
+通过多提供商 AI 与文档聊天的 RAG 平台

@@ -7,3 +7,5 @@ image: assets/dotdc_grafana_dashboards_kubernetes_20251125_042321_417_20251127_1
 # [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes/)
 
 Grafana dashboards for Kubernetes monitoring
+
+用于 Kubernetes 监控的 Grafana 仪表板

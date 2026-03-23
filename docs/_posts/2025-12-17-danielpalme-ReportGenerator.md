@@ -7,3 +7,5 @@ image: assets/danielpalme_ReportGenerator_20251216_041828_174_20251216_042042_99
 # [danielpalme/ReportGenerator](https://github.com/danielpalme/ReportGenerator/)
 
 Converts coverage reports into human readable formats
+
+将覆盖率报告转换为人类可读格式

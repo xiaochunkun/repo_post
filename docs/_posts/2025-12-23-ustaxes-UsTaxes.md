@@ -7,3 +7,5 @@ image: assets/ustaxes_UsTaxes_20251222_023344_438_20251222_023400_cda30a.png
 # [ustaxes/UsTaxes](https://github.com/ustaxes/UsTaxes/)
 
 Open-source tax filing application for the Federal 1040 form
+
+用于联邦 1040 表格的开源报税应用

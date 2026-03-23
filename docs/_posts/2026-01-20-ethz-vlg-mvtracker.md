@@ -7,3 +7,5 @@ image: assets/ethz_vlg_mvtracker_20260112_153801_905_20260112_153818_be7cbe.png
 # [ethz-vlg/mvtracker](https://github.com/ethz-vlg/mvtracker)
 
 Tracks 3D points across multiple camera views
+
+跨多个相机视图跟踪3D点

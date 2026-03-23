@@ -7,3 +7,5 @@ image: assets/cod3licious_autofeat_20251123_185912_182_20251124_184600_6496f6--2
 # [cod3licious/autofeat](https://github.com/cod3licious/autofeat/)
 
 Automated feature engineering for linear models
+
+线性模型的自动化特征工程

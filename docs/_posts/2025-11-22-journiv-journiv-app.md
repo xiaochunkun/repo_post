@@ -7,3 +7,5 @@ image: assets/journiv_journiv_app_20251121_141039_126_20251122_050058_81d26b--20
 # [journiv/journiv-app](https://github.com/journiv/journiv-app/)
 
 Self-hosted journal with mood tracking
+
+带情绪追踪的自托管日记

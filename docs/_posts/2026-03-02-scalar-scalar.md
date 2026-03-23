@@ -7,3 +7,5 @@ image: assets/scalar_scalar_20260213_153625_164_20260213_153744_e47ae4.png
 # [scalar/scalar](https://github.com/scalar/scalar)
 
 API client and documentation from OpenAPI files
+
+从 OpenAPI 文件生成的 API 客户端和文档

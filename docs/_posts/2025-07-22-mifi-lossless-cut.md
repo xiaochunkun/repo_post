@@ -7,3 +7,5 @@ image: assets/mifi_lossless-cut_cropped.png
 # [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
 
 cut and trim videos without quality loss
+
+无损剪切和修剪视频

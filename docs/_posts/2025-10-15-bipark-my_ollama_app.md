@@ -7,3 +7,5 @@ image: assets/20251015T033049945--bipark--my_ollama_app--20251015T033856831--cro
 # [bipark/my_ollama_app](https://github.com/bipark/my_ollama_app)
 
 mobile client for connecting to Ollama LLMs from your phone or desktop
+
+从手机或桌面连接 Ollama LLM 的移动客户端

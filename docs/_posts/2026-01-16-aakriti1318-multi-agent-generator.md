@@ -7,3 +7,5 @@ image: assets/aakriti1318_multi_agent_generator_20260115_151412_397_20260115_151
 # [aakriti1318/multi-agent-generator](https://github.com/aakriti1318/multi-agent-generator)
 
 Generates multi-agent AI teams from English instructions
+
+从英文指令生成多代理 AI 团队

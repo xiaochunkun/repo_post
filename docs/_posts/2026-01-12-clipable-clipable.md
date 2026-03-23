@@ -7,3 +7,5 @@ image: assets/clipable_clipable_20260111_210438_871_20260111_210452_d9f8a0.png
 # [clipable/clipable](https://github.com/clipable/clipable)
 
 Self-hosted video sharing platform with S3 storage
+
+带 S3 存储的自托管视频分享平台

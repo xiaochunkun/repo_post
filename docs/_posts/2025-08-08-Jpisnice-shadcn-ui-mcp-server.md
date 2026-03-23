@@ -7,3 +7,5 @@ image: assets/Jpisnice_shadcn-ui-mcp-server_cropped.png
 # [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server)
 
 lets AI tools fetch shadcn/ui component code and docs
+
+让AI工具获取shadcn/ui组件代码和文档

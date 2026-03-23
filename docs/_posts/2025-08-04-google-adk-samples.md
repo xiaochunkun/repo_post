@@ -7,3 +7,5 @@ image: assets/google_adk-samples_cropped.png
 # [google/adk-samples](https://github.com/google/adk-samples)
 
 sample AI agents using Google ADK
+
+使用Google ADK的AI代理示例

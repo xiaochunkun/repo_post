@@ -7,3 +7,5 @@ image: assets/20250826T030516502--awesomedata--awesome-public-datasets--20250826
 # [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 huge list of public datasets for any project
+
+各类项目可用的公共数据集大全

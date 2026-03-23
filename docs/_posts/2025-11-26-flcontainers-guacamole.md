@@ -7,3 +7,5 @@ image: assets/flcontainers_guacamole_20251123_205111_291_20251125_220527_66a3ca-
 # [flcontainers/guacamole](https://github.com/flcontainers/guacamole/)
 
 Docker container for client-less remote desktop gateway
+
+无客户端远程桌面网关的 Docker 容器

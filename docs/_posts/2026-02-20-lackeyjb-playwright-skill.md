@@ -7,3 +7,5 @@ image: assets/lackeyjb_playwright_skill_20260215_053843_992_20260215_053930_7225
 # [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)
 
 Browser automation for Claude Code via Playwright
+
+通过 Playwright 为 Claude Code 实现浏览器自动化

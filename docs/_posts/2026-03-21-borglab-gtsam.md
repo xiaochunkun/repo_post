@@ -7,3 +7,5 @@ image: assets/borglab_gtsam_20260316_075757_465_20260316_075841_f7205a.png
 # [borglab/gtsam](https://github.com/borglab/gtsam)
 
 C++ library using factor graphs for robotics
+
+使用因子图的C++机器人库

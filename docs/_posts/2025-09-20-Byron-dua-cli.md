@@ -7,3 +7,5 @@ image: assets/20250915T223107765--Byron--dua-cli--20250920T034804333--cropped.pn
 # [Byron/dua-cli](https://github.com/Byron/dua-cli)
 
 Parallel disk analyzer that maxes out your SSD and lets you interactively delete files
+
+并行磁盘分析器，最大化SSD性能，并允许交互式删除文件

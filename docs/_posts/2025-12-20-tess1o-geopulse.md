@@ -7,3 +7,5 @@ image: assets/tess1o_geopulse_20251218_015457_149_20251218_015515_031643.png
 # [tess1o/geopulse](https://github.com/tess1o/geopulse/)
 
 Converts GPS data into timelines with trip detection
+
+将 GPS 数据转换为带行程检测的时间线

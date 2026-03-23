@@ -7,3 +7,5 @@ image: assets/cameroncooke_AXe_20260103_034502_106_20260103_034519_5de0bb.png
 # [cameroncooke/AXe](https://github.com/cameroncooke/AXe/)
 
 Automates iOS Simulators via Accessibility APIs
+
+通过 Accessibility API 自动化 iOS 模拟器

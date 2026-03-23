@@ -7,3 +7,5 @@ image: assets/ankane_onnxruntime-php_cropped.png
 # [ankane/onnxruntime-php](https://github.com/ankane/onnxruntime-php)
 
 run ONNX machine learning models in PHP
+
+在 PHP 中运行 ONNX 机器学习模型

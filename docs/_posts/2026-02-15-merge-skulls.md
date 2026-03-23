@@ -7,3 +7,5 @@ image: assets/merge_skulls_20260207_124603_824_20260207_124624_02bd14.png
 # [merge/skulls](https://github.com/merge/skulls)
 
 Installs coreboot on Thinkpad laptops
+
+在Thinkpad笔记本电脑上安装coreboot

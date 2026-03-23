@@ -7,3 +7,5 @@ image: assets/20250929T074017301--dwisiswant0--apkleaks--20250929T215417464--cro
 # [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)
 
 scans APKs for secrets, endpoints, and URIs
+
+扫描APK以查找密钥、端点和URI

@@ -7,3 +7,5 @@ image: assets/20250908T225647205--GeeeekExplorer--nano-vllm--20250908T230732381-
 # [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
 
 Minimal vLLM engine for fast offline LLM inference with a clean Python codebase
+
+极简 vLLM 引擎，代码简洁，实现快速离线 LLM 推理

@@ -7,3 +7,5 @@ image: assets/alirezanet_Husky_Net_20251213_035914_556_20251213_035938_be49e9.pn
 # [alirezanet/Husky.Net](https://github.com/alirezanet/Husky.Net/)
 
 Git hooks and task runner for .NET
+
+.NET 的 Git 钩子和任务运行器

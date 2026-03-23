@@ -7,3 +7,5 @@ image: assets/curdinc_skylar_email_20260104_145927_085_20260104_145943_84c1c7.pn
 # [curdinc/skylar-email](https://github.com/curdinc/skylar-email/)
 
 Email client with shared filters and automated OTP management
+
+支持共享过滤器和自动化OTP管理的邮件客户端

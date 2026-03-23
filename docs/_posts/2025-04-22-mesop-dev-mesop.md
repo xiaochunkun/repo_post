@@ -7,3 +7,5 @@ image: assets/mesop-dev_mesop_cropped.png
 # [mesop-dev/mesop](https://github.com/mesop-dev/mesop)
 
 Python UI framework for building web apps without JavaScript
+
+用于构建无需 JavaScript 的 Web 应用的 Python UI 框架

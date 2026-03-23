@@ -7,3 +7,5 @@ image: assets/20250925T041945122--DP-Hridayan--aShellYou--20250925T042305997--cr
 # [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou)
 
 Android shell utility for ADB, root, and shell commands with Material Design UI
+
+具有Material Design UI的Android shell工具，支持ADB、root和shell命令

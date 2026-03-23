@@ -7,3 +7,5 @@ image: assets/forus_labs_forui_20260103_035105_590_20260103_035121_1e64cf.png
 # [forus-labs/forui](https://github.com/forus-labs/forui/)
 
 Flutter UI library with 40 widgets and a CLI
+
+带40个组件和CLI的Flutter UI库

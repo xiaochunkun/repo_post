@@ -7,3 +7,5 @@ image: assets/grafana_smtprelay_20251126_003701_386_20251128_214326_eeafd4--2025
 # [grafana/smtprelay](https://github.com/grafana/smtprelay/)
 
 SMTP relay focused on observability
+
+专注于可观测性的SMTP中继

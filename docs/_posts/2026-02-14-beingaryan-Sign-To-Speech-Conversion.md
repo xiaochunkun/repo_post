@@ -7,3 +7,5 @@ image: assets/beingaryan_Sign_To_Speech_Conversion_20260210_192024_898_20260210_
 # [beingaryan/Sign-To-Speech-Conversion](https://github.com/beingaryan/Sign-To-Speech-Conversion)
 
 Converts sign language gestures into speech via computer vision
+
+通过计算机视觉将手语手势转换为语音

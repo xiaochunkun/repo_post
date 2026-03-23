@@ -7,3 +7,5 @@ image: assets/terrakube_io_terrakube_20260305_095926_540_20260305_100103_3c4100.
 # [terrakube-io/terrakube](https://github.com/terrakube-io/terrakube)
 
 Software for automation and collaboration of infrastructure as code
+
+基础设施即代码自动化和协作软件

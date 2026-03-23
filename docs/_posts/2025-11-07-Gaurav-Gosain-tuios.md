@@ -7,3 +7,5 @@ image: assets/Gaurav_Gosain_tuios_20251106_214328_879_20251106_223503_a16092--20
 # [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios/)
 
 Terminal-based window manager with mouse support
+
+支持鼠标的基于终端的窗口管理器

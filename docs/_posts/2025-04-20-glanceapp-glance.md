@@ -7,3 +7,5 @@ image: assets/glanceapp_glance_cropped.png
 # [glanceapp/glance](https://github.com/glanceapp/glance)
 
 self-hosted dashboard for feeds, widgets, and stats
+
+自托管仪表板，用于feeds、widgets和统计

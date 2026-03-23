@@ -7,3 +7,5 @@ image: assets/lucasdillmann_nginx_ignition_20260108_033508_924_20260108_033522_2
 # [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition)
 
 Interface for server configuration
+
+服务器配置界面

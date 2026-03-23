@@ -7,3 +7,5 @@ image: assets/MinishLab_vicinity_20251127_191951_442_20251130_082509_ec1b02--202
 # [MinishLab/vicinity](https://github.com/MinishLab/vicinity/)
 
 Unified interface for nearest neighbor search backends
+
+最近邻搜索后端的统一接口

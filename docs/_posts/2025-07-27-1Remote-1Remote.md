@@ -7,3 +7,5 @@ image: assets/1Remote_1Remote_cropped.png
 # [1Remote/1Remote](https://github.com/1Remote/1Remote)
 
 remote session manager for RDP, SSH, VNC, and more
+
+远程会话管理器，支持 RDP、SSH、VNC 等协议

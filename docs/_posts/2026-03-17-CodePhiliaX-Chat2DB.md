@@ -7,3 +7,5 @@ image: assets/CodePhiliaX_Chat2DB_20260317_161620_603_20260317_161814_583713.png
 # [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
 
 Chat interface for database management
+
+数据库管理的聊天界面

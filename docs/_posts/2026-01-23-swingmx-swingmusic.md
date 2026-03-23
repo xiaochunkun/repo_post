@@ -7,3 +7,5 @@ image: assets/swingmx_swingmusic_20260122_084911_435_20260122_084927_e918a3.png
 # [swingmx/swingmusic](https://github.com/swingmx/swingmusic)
 
 Self-hosted music player for local audio files
+
+本地音频文件自托管音乐播放器

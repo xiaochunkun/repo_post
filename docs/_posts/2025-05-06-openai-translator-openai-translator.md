@@ -7,3 +7,5 @@ image: assets/openai-translator_openai-translator_cropped.png
 # [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator)
 
 Browser extension and desktop app for translation using ChatGPT API
+
+使用 ChatGPT API 进行翻译的浏览器扩展和桌面应用

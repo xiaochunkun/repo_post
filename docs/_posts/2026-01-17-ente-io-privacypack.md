@@ -7,3 +7,5 @@ image: assets/ente_io_privacypack_20260116_154857_464_20260116_154914_550180.png
 # [ente-io/privacypack](https://github.com/ente-io/privacypack)
 
 Generates cards showing privacy tools used instead of mainstream apps
+
+生成卡片，展示替代主流应用的隐私工具

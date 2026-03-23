@@ -7,3 +7,5 @@ image: assets/editor-js_awesome-editorjs_cropped.png
 # [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs)
 
 Collection of Editor.js tools, libraries, resources
+
+Editor.js工具、库和资源的集合

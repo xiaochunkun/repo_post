@@ -7,3 +7,5 @@ image: assets/bramses_chatgpt_md_20251203_002941_559_20251203_003153_7027a6.png
 # [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md/)
 
 Integrates ChatGPT and local LLMs into Obsidian
+
+将ChatGPT和本地LLM集成到Obsidian中

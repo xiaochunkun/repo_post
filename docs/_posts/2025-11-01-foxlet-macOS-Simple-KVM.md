@@ -7,3 +7,5 @@ image: assets/foxlet_macOS_Simple_KVM_20251031_051642_154_20251031_210211_6e584f
 # [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM/)
 
 Set up a macOS virtual machine in QEMU
+
+在 QEMU 中设置 macOS 虚拟机

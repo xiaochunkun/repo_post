@@ -7,3 +7,5 @@ image: assets/distillium_warp_native_20251210_042741_788_20251210_042814_0cccc1.
 # [distillium/warp-native](https://github.com/distillium/warp-native/)
 
 Installs Cloudflare WARP via WireGuard interface
+
+通过 WireGuard 接口安装 Cloudflare WARP

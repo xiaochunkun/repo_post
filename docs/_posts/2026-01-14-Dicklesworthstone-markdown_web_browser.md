@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_markdown_web_browser_20260113_130718_353_2026011
 # [Dicklesworthstone/markdown_web_browser](https://github.com/Dicklesworthstone/markdown_web_browser)
 
 Converts websites into markdown using OCR and stealth scraping
+
+使用 OCR 和 stealth scraping 将网站转换为 markdown

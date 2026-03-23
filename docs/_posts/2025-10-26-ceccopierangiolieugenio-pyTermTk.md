@@ -7,3 +7,5 @@ image: assets/ceccopierangiolieugenio_pyTermTk_20251025_091146_916_20251025_1025
 # [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk/)
 
 Text-based user interface library inspired by Qt5, GTK, and tkinter
+
+受Qt5、GTK和tkinter启发的文本用户界面库

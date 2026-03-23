@@ -7,3 +7,5 @@ image: assets/azukaar_Cosmos_Server_20251019_001232_330_20251019_003834--2025101
 # [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server/)
 
 Secure self-hosted Home Server gateway
+
+安全的自托管家庭服务器网关

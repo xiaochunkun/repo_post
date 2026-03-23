@@ -7,3 +7,5 @@ image: assets/meceware_wapy.dev_cropped.png
 # [meceware/wapy.dev](https://github.com/meceware/wapy.dev)
 
 track subscriptions and get payment reminders
+
+跟踪订阅并获取付款提醒

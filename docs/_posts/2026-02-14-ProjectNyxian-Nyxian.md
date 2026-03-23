@@ -7,3 +7,5 @@ image: assets/ProjectNyxian_Nyxian_20260213_072839_230_20260213_072928_efbf0d.pn
 # [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian)
 
 IDE for native iOS development on unjailbroken devices
+
+用于未越狱设备的原生 iOS 开发 IDE

@@ -7,3 +7,5 @@ image: assets/GongRzhe_Office_Word_MCP_Server_20251210_055715_319_20251210_05573
 # [GongRzhe/Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server/)
 
 MCP server for manipulating Word documents
+
+Word 文档操作 MCP 服务器

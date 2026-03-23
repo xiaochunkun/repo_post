@@ -7,3 +7,5 @@ image: assets/punk_security_dnsReaper_20251127_180817_587_20251130_041133_63d064
 # [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper/)
 
 Subdomain takeover tool with 50+ signatures
+
+子域名接管工具，包含 50 多个签名

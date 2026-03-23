@@ -7,3 +7,5 @@ image: assets/rohitg00_awesome_claude_code_toolkit_20260224_190952_376_20260224_
 # [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)
 
 Toolkit for Claude Code with agents and skills
+
+Claude Code 的工具包，包含代理和技能

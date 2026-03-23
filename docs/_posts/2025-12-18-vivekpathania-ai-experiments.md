@@ -7,3 +7,5 @@ image: assets/vivekpathania_ai_experiments_20251216_210059_697_20251216_210121_5
 # [vivekpathania/ai-experiments](https://github.com/vivekpathania/ai-experiments/)
 
 Collection of AI applications exploring NLP and automation
+
+探索 NLP 和自动化的 AI 应用集合

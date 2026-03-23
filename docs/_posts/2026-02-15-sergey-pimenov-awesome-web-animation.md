@@ -7,3 +7,5 @@ image: assets/sergey_pimenov_awesome_web_animation_20260119_221614_336_20260119_
 # [sergey-pimenov/awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation)
 
 List of tools for web animations
+
+Web 动画工具列表

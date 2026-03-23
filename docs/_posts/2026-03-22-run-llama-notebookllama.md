@@ -7,3 +7,5 @@ image: assets/run_llama_notebookllama_20260322_050143_675_20260322_050222_7cbd3e
 # [run-llama/notebookllama](https://github.com/run-llama/notebookllama)
 
 Open-source NotebookLM alternative backed by LlamaCloud
+
+基于LlamaCloud的开源NotebookLM替代方案

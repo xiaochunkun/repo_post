@@ -7,3 +7,5 @@ image: assets/getseabird_seabird_cropped.png
 # [getseabird/seabird](https://github.com/getseabird/seabird)
 
 Native Kubernetes desktop app for managing clusters
+
+原生Kubernetes桌面应用，用于管理集群

@@ -7,3 +7,5 @@ image: assets/database64128_youtube_dl_wpf_20251219_114550_720_20251219_114610_e
 # [database64128/youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf/)
 
 GUI for youtube-dl and yt-dlp
+
+youtube-dl 和 yt-dlp 的 GUI 界面

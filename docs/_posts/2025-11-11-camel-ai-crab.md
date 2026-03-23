@@ -7,3 +7,5 @@ image: assets/camel_ai_crab_20251110_173808_177_20251111_015420_43ca79--20251111
 # [camel-ai/crab](https://github.com/camel-ai/crab/)
 
 Benchmark for cross-platform embodied agents
+
+跨平台具身代理的基准测试

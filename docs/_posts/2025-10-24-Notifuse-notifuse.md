@@ -7,3 +7,5 @@ image: assets/Notifuse_notifuse_20251023_002943_894_20251023_222639_fa6eb8--2025
 # [Notifuse/notifuse](https://github.com/Notifuse/notifuse/)
 
 A self-hosted emailing platform
+
+自托管邮件平台

@@ -7,3 +7,5 @@ image: assets/blendi_remade_falcraft_20251227_013833_896_20251227_013850_6be0f6.
 # [blendi-remade/falcraft](https://github.com/blendi-remade/falcraft/)
 
 Generates 3D models in Minecraft using AI
+
+使用 AI 在 Minecraft 中生成 3D 模型

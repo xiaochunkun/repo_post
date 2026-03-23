@@ -7,3 +7,5 @@ image: assets/time_to_move_TTM_20260116_005620_887_20260116_005635_831b0e.png
 # [time-to-move/TTM](https://github.com/time-to-move/TTM)
 
 Controls video motion without training
+
+无需训练即可控制视频运动

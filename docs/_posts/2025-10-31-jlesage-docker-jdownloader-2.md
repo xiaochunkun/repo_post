@@ -7,3 +7,5 @@ image: assets/jlesage_docker_jdownloader_2_20251030_233031_735_20251031_000426_4
 # [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2/)
 
 Download management tool in a Docker container with a web GUI
+
+Docker 容器中的下载管理工具，带 Web GUI

@@ -7,3 +7,5 @@ image: assets/kuglee_TermiWatch_20260130_135113_056_20260130_135159_d31497.png
 # [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch)
 
 Terminal interface for the Apple Watch
+
+Apple Watch的终端界面

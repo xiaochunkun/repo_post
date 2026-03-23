@@ -7,3 +7,5 @@ image: assets/mfontanini_presenterm_20260313_234020_808_20260313_234420_d1e1b6.p
 # [mfontanini/presenterm](https://github.com/mfontanini/presenterm)
 
 Run markdown presentations in the terminal
+
+在终端中运行markdown演示文稿

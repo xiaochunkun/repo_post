@@ -7,3 +7,5 @@ image: assets/cake_tech_cake_wallet_20260122_084122_490_20260122_084140_42def9.p
 # [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)
 
 Non-custodial wallet for multiple cryptocurrencies
+
+支持多种加密货币的非托管钱包

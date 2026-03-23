@@ -7,3 +7,5 @@ image: assets/BasedHardware_omi_cropped.png
 # [BasedHardware/omi](https://github.com/BasedHardware/omi)
 
 AI wearable for transcriptions and actions
+
+AI 可穿戴设备，用于转录和操作

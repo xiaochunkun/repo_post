@@ -7,3 +7,5 @@ image: assets/adammiribyan_zeroboot_20260319_065203_729_20260319_065307_76c599.p
 # [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
 
 VM sandboxes via copy-on-write forking
+
+通过写时复制分叉实现VM沙箱

@@ -7,3 +7,5 @@ image: assets/dahlia_upyo_20251106_181359_385_20251106_211814_cb0a93--20251106T2
 # [dahlia/upyo](https://github.com/dahlia/upyo/)
 
 Cross-runtime email library with a unified API
+
+具有统一API的跨运行时电子邮件库

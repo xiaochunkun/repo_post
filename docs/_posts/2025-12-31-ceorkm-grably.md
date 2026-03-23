@@ -7,3 +7,5 @@ image: assets/ceorkm_grably_20251230_005417_882_20251230_005444_463ce9.png
 # [ceorkm/grably](https://github.com/ceorkm/grably/)
 
 Transcribes and downloads media from websites using Whisper AI
+
+使用 Whisper AI 转录和下载网站媒体

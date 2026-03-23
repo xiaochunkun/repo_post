@@ -7,3 +7,5 @@ image: assets/Cactusinhand_filter_repo_rs_20251102_235755_480_20251103_213154_8b
 # [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs/)
 
 High-performance Rust tool for rewriting Git history
+
+高性能Rust Git历史重写工具

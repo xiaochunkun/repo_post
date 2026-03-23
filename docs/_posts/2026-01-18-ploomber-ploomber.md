@@ -7,3 +7,5 @@ image: assets/ploomber_ploomber_20260118_043609_010_20260118_043622_2d43fe.png
 # [ploomber/ploomber](https://github.com/ploomber/ploomber)
 
 Builds data pipelines from notebooks
+
+从笔记本构建数据管道

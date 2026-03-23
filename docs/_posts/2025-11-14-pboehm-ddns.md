@@ -7,3 +7,5 @@ image: assets/pboehm_ddns_20251113_190321_068_20251114_015317_5f5102--20251114T0
 # [pboehm/ddns](https://github.com/pboehm/ddns/)
 
 Self-hosted Dynamic DNS using PowerDNS
+
+使用PowerDNS的自托管动态DNS

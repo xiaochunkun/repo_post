@@ -7,3 +7,5 @@ image: assets/public_apis_public_apis_20260220_182319_688_20260220_182337_50000e
 # [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
 Collection of APIs for software development
+
+软件开发的 API 集合

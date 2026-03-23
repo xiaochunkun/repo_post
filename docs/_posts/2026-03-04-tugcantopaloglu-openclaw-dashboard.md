@@ -7,3 +7,5 @@ image: assets/tugcantopaloglu_openclaw_dashboard_20260304_143952_140_20260304_14
 # [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard)
 
 Dashboard for monitoring and control of AI agents
+
+用于监控和控制AI代理的仪表板

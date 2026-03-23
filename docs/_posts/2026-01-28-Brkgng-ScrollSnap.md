@@ -7,3 +7,5 @@ image: assets/Brkgng_ScrollSnap_20260122_020219_275_20260122_020235_ea9963.png
 # [Brkgng/ScrollSnap](https://github.com/Brkgng/ScrollSnap)
 
 Stitches scrolling screenshots on macOS
+
+在macOS上拼接滚动截图

@@ -7,3 +7,5 @@ image: assets/datalab_to_chandra_20251031_081616_616_20251101_211057_c5adb0--202
 # [datalab-to/chandra](https://github.com/datalab-to/chandra/)
 
 OCR model that converts images to structured formats while preserving layout
+
+将图像转换为结构化格式并保留布局的 OCR 模型

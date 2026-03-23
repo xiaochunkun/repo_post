@@ -7,3 +7,5 @@ image: assets/mmartial_ComfyUI_Nvidia_Docker_20251205_022706_195_20251205_022816
 # [mmartial/ComfyUI-Nvidia-Docker](https://github.com/mmartial/ComfyUI-Nvidia-Docker/)
 
 ComfyUI for NVIDIA GPUs in Docker
+
+Docker中用于NVIDIA GPU的ComfyUI

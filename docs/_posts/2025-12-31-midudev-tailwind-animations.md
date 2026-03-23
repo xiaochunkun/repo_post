@@ -7,3 +7,5 @@ image: assets/midudev_tailwind_animations_20251231_021352_496_20251231_021414_36
 # [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations/)
 
 Animations for Tailwind CSS projects
+
+Tailwind CSS项目的动画

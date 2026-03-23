@@ -7,3 +7,5 @@ image: assets/HICAI_ZJU_SciToolAgent_20251213_131257_432_20251213_131319_75ad11.
 # [HICAI-ZJU/SciToolAgent](https://github.com/HICAI-ZJU/SciToolAgent/)
 
 Integrates scientific tools with LLMs via knowledge graphs
+
+通过知识图谱将科学工具与LLM集成

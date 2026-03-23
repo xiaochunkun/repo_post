@@ -7,3 +7,5 @@ image: assets/SamuelPinho_gitgraph_creator_20260206_075719_785_20260206_075748_b
 # [SamuelPinho/gitgraph-creator](https://github.com/SamuelPinho/gitgraph-creator)
 
 Generates git graphs as SVG files
+
+生成SVG格式的git图

@@ -7,3 +7,5 @@ image: assets/AzuraCast_AzuraCast_20251114_045807_534_20251114_162212_002f6e--20
 # [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast/)
 
 Self-hosted web radio management suite
+
+自托管网络电台管理套件

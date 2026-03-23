@@ -7,3 +7,5 @@ image: assets/crisogray_claudius_20260205_183251_180_20260205_183306_349af6.png
 # [crisogray/claudius](https://github.com/crisogray/claudius)
 
 Desktop interface for Claude Code
+
+Claude Code桌面界面

@@ -7,3 +7,5 @@ image: assets/xixu_me_xget_20251227_065449_816_20251227_065508_4c907e.png
 # [xixu-me/xget](https://github.com/xixu-me/xget/)
 
 Acceleration engine for developer resources
+
+开发者资源加速引擎

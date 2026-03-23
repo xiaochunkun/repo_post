@@ -7,3 +7,5 @@ image: assets/payloadcms_payload_cropped.png
 # [payloadcms/payload](https://github.com/payloadcms/payload)
 
 Next.js fullstack framework for CMS and more
+
+Next.js全栈框架，适用于CMS等

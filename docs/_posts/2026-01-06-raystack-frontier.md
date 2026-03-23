@@ -7,3 +7,5 @@ image: assets/raystack_frontier_20260104_175926_615_20260104_175951_11c61b.png
 # [raystack/frontier](https://github.com/raystack/frontier/)
 
 Identity and access management platform for organizations
+
+组织的身份和访问管理平台

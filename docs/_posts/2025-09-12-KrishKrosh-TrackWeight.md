@@ -7,3 +7,5 @@ image: assets/20250911T163024917--KrishKrosh--TrackWeight--20250911T163432631--c
 # [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight)
 
 turns your MacBook trackpad into a digital scale
+
+把 MacBook 触控板变成数字秤

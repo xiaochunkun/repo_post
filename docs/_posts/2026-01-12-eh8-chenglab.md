@@ -7,3 +7,5 @@ image: assets/eh8_chenglab_20260112_013619_400_20260112_013633_cad344.png
 # [eh8/chenglab](https://github.com/eh8/chenglab)
 
 NixOS configurations for homelab and personal computers
+
+适用于家庭实验室和个人电脑的NixOS配置

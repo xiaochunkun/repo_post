@@ -7,3 +7,5 @@ image: assets/MinishLab_model2vec_20251122_184928_045_20251123_001351_156b53--20
 # [MinishLab/model2vec](https://github.com/MinishLab/model2vec/)
 
 Distills sentence transformers into static embeddings
+
+将句子转换器蒸馏为静态嵌入

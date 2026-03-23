@@ -7,3 +7,5 @@ image: assets/wheelos_apollo_lite_20260111_102626_173_20260111_102640_c91d50.png
 # [wheelos/apollo-lite](https://github.com/wheelos/apollo-lite)
 
 Autonomous driving system for Ubuntu
+
+Ubuntu的自动驾驶系统

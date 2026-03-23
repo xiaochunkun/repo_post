@@ -7,3 +7,5 @@ image: assets/JimmyLefevre_kb_20251209_024805_544_20251209_024831_3ce32e.png
 # [JimmyLefevre/kb](https://github.com/JimmyLefevre/kb/)
 
 Single-header C/C++ libraries for Unicode text segmentation and OpenType shaping
+
+用于 Unicode 文本分割和 OpenType 字形的单头文件 C/C++ 库

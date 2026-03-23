@@ -7,3 +7,5 @@ image: assets/stack_chan_stack_chan_20260117_002053_101_20260117_002107_e6086b.p
 # [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan)
 
 JavaScript-driven robot with M5Stack hardware
+
+基于M5Stack硬件的JavaScript驱动机器人

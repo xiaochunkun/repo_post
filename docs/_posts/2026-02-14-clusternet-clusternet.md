@@ -7,3 +7,5 @@ image: assets/clusternet_clusternet_20260116_200145_365_20260116_200200_b64599.p
 # [clusternet/clusternet](https://github.com/clusternet/clusternet)
 
 Manages Kubernetes clusters across clouds and edge locations
+
+跨云和边缘位置管理 Kubernetes 集群

@@ -7,3 +7,5 @@ image: assets/KoKuToru_de-pixelate_gaV-O6NPWrI_cropped.png
 # [KoKuToru/de-pixelate_gaV-O6NPWrI](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI)
 
 reverse engineering pixelated video frames
+
+逆向工程像素化视频帧

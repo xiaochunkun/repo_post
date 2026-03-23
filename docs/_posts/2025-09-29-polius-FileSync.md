@@ -7,3 +7,5 @@ image: assets/20250929T015940710--polius--FileSync--20250929T020612840--cropped.
 # [polius/FileSync](https://github.com/polius/FileSync)
 
 real-time file sharing between devices with end-to-end encryption
+
+设备间实时文件共享，支持端到端加密

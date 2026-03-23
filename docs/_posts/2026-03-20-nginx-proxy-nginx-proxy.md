@@ -7,3 +7,5 @@ image: assets/nginx_proxy_nginx_proxy_20260306_011407_306_20260306_011528_eb6367
 # [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)
 
 Automate reverse proxy configurations for containers
+
+自动化容器反向代理配置

@@ -7,3 +7,5 @@ image: assets/nanomq_nanomq_20260309_142332_924_20260309_142610_4132a7.png
 # [nanomq/nanomq](https://github.com/nanomq/nanomq)
 
 MQTT broker for IoT and edge platforms
+
+用于物联网和边缘平台的MQTT代理

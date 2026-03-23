@@ -7,3 +7,5 @@ image: assets/alex8088_electron_vite_20251216_201718_115_20251216_201828_007bae.
 # [alex8088/electron-vite](https://github.com/alex8088/electron-vite/)
 
 Electron build tooling based on Vite
+
+基于 Vite 的 Electron 构建工具

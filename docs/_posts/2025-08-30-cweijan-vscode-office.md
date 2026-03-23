@@ -7,3 +7,5 @@ image: assets/20250829T043154172--cweijan--vscode-office--20250829T043734557--cr
 # [cweijan/vscode-office](https://github.com/cweijan/vscode-office)
 
 preview office files in vscode
+
+在 VS Code 中预览 Office 文件

@@ -7,3 +7,5 @@ image: assets/FranklyRocks_OnlyHuman_20260203_192425_468_20260203_192447_0ac71b.
 # [FranklyRocks/OnlyHuman](https://github.com/FranklyRocks/OnlyHuman)
 
 Filter list blocks AI content farms from search results
+
+过滤列表从搜索结果中屏蔽AI内容农场

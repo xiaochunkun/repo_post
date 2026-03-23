@@ -7,3 +7,5 @@ image: assets/pywebio_PyWebIO_20251031_034502_952_20251031_205132_a37d39--202510
 # [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO/)
 
 Write interactive web apps in Python
+
+用 Python 编写交互式 Web 应用

@@ -7,3 +7,5 @@ image: assets/ancs21_screenshots_banana_20260113_200750_785_20260113_200804_ecc2
 # [ancs21/screenshots-banana](https://github.com/ancs21/screenshots-banana)
 
 Screenshot editor with AI backgrounds
+
+集成 AI 背景的截图编辑器

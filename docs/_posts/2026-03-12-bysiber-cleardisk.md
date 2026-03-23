@@ -7,3 +7,5 @@ image: assets/bysiber_cleardisk_20260309_150931_334_20260309_151132_d74dff.png
 # [bysiber/cleardisk](https://github.com/bysiber/cleardisk)
 
 Cleans developer caches from macOS menu bar
+
+从macOS菜单栏清理开发者缓存

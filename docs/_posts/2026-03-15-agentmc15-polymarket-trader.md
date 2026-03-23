@@ -7,3 +7,5 @@ image: assets/agentmc15_polymarket_trader_20260312_225239_706_20260312_225421_91
 # [agentmc15/polymarket-trader](https://github.com/agentmc15/polymarket-trader)
 
 Scaffold Polymarket trading app with Claude Code
+
+使用Claude Code搭建Polymarket交易应用

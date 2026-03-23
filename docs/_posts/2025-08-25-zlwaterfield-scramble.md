@@ -7,3 +7,5 @@ image: assets/20250825T024336256--zlwaterfield--scramble--20250825T025311651--cr
 # [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble)
 
 open-source Chrome extension for AI writing help
+
+开源 Chrome AI 写作辅助扩展

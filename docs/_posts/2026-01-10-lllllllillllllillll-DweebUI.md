@@ -7,3 +7,5 @@ image: assets/lllllllillllllillll_DweebUI_20260108_041305_270_20260108_041318_35
 # [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI)
 
 Web interface for managing containers and server metrics
+
+管理容器和服务器指标的Web界面

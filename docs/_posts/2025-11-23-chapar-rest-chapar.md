@@ -7,3 +7,5 @@ image: assets/chapar_rest_chapar_20251123_014615_616_20251123_022838_4e22a7--202
 # [chapar-rest/chapar](https://github.com/chapar-rest/chapar/)
 
 Native API testing tool for HTTP and gRPC
+
+HTTP 和 gRPC 的原生 API 测试工具

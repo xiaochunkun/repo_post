@@ -7,3 +7,5 @@ image: assets/20250926T005030573--VityaSchel--lufin--20250926T005601281--cropped
 # [VityaSchel/lufin](https://github.com/VityaSchel/lufin)
 
 self-hosted file sharing with encryption, previews, and S3 support
+
+支持加密、预览和 S3 的自托管文件共享

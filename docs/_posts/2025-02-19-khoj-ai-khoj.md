@@ -7,3 +7,5 @@ image: assets/khoj-ai_khoj_cropped.png
 # [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 
 Personal AI for document search and automation
+
+用于文档搜索和自动化的个人 AI

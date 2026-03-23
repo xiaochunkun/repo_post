@@ -7,3 +7,5 @@ image: assets/BragAI_bRAG_langchain_20260118_215001_144_20260118_215022_e76c12.p
 # [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain)
 
 Notebooks for building RAG pipelines
+
+构建RAG管道的笔记本

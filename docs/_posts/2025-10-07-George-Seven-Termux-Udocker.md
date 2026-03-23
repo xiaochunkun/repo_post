@@ -7,3 +7,5 @@ image: assets/20251007T025643695--George-Seven--Termux-Udocker--20251007T0304097
 # [George-Seven/Termux-Udocker](https://github.com/George-Seven/Termux-Udocker)
 
 Run Docker images on Android with Termux, no root needed
+
+在 Android 上使用 Termux 运行 Docker 镜像，无需 root 权限

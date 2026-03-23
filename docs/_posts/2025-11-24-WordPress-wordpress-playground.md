@@ -7,3 +7,5 @@ image: assets/WordPress_wordpress_playground_20251123_051642_772_20251123_215338
 # [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/)
 
 Runs WordPress in the browser via WebAssembly
+
+通过 WebAssembly 在浏览器中运行 WordPress

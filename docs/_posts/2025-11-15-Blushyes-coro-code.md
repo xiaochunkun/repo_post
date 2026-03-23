@@ -7,3 +7,5 @@ image: assets/Blushyes_coro_code_20251114_084138_382_20251115_034454_1c4101--202
 # [Blushyes/coro-code](https://github.com/Blushyes/coro-code/)
 
 AI coding agent in Rust with a terminal UI
+
+带终端UI的Rust AI编码代理

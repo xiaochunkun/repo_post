@@ -7,3 +7,5 @@ image: assets/alex-moon_ban--20250816T051601420--cropped.png
 # [alex-moon/ban](https://github.com/alex-moon/ban)
 
 bash script to block distracting commands
+
+用于屏蔽干扰命令的Bash脚本

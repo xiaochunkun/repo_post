@@ -7,3 +7,5 @@ image: assets/catppuccin_tailwindcss_20251123_203450_585_20251125_214739_dea326-
 # [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss/)
 
 Color palette theme for Tailwind CSS
+
+Tailwind CSS 的调色板主题

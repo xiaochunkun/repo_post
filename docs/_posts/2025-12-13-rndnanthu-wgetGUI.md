@@ -7,3 +7,5 @@ image: assets/rndnanthu_wgetGUI_20251209_055043_603_20251209_055119_ed9eed.png
 # [rndnanthu/wgetGUI](https://github.com/rndnanthu/wgetGUI/)
 
 PyQt5 GUI front-end for wget
+
+wget 的 PyQt5 GUI 前端

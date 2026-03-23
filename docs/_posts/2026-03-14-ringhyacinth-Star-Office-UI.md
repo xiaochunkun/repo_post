@@ -7,3 +7,5 @@ image: assets/ringhyacinth_Star_Office_UI_20260313_164856_655_20260313_165208_5b
 # [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI)
 
 Visualize AI agent work states in pixel art office
+
+在像素艺术办公室中可视化AI代理工作状态

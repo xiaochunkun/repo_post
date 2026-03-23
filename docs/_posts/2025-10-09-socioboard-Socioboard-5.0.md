@@ -7,3 +7,5 @@ image: assets/20251009T195051262--socioboard--Socioboard-5.0--20251009T200152608
 # [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0)
 
 manage and schedule posts across all your social media accounts from one dashboard
+
+从一个仪表板管理和调度所有社交媒体账户的帖子

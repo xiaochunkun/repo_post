@@ -7,3 +7,5 @@ image: assets/microsoft_TinyTroupe_20260224_180533_217_20260224_180609_372664.pn
 # [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)
 
 Simulates personas for business insights
+
+模拟角色以获取商业洞察

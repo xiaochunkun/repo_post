@@ -7,3 +7,5 @@ image: assets/vercel_labs_openreview_20260314_193616_939_20260314_193912_855271.
 # [vercel-labs/openreview](https://github.com/vercel-labs/openreview)
 
 Self-hosted code review bot powered by Claude
+
+由Claude驱动的自托管代码审查机器人

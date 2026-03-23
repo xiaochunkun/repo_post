@@ -7,3 +7,5 @@ image: assets/FireBird_Technologies_Auto_Analyst_20260222_111546_225_20260222_11
 # [FireBird-Technologies/Auto-Analyst](https://github.com/FireBird-Technologies/Auto-Analyst)
 
 Automates data science workflows with modular agents
+
+使用模块化代理自动化数据科学工作流

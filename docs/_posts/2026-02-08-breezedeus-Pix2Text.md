@@ -7,3 +7,5 @@ image: assets/breezedeus_Pix2Text_20260204_055129_799_20260204_055144_640d77.png
 # [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text)
 
 Converts images of formulas and tables into Markdown format
+
+将公式和表格图像转换为 Markdown 格式

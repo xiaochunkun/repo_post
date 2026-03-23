@@ -7,3 +7,5 @@ image: assets/20250908T093928975--openai--tiktoken--20250908T094147622--cropped.
 # [openai/tiktoken](https://github.com/openai/tiktoken)
 
 fast BPE tokenizer for OpenAI models
+
+OpenAI 模型的快速 BPE 分词器

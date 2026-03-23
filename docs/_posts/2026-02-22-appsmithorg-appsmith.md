@@ -7,3 +7,5 @@ image: assets/appsmithorg_appsmith_20260209_190007_006_20260209_190030_263fb5.pn
 # [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 
 Platform for building internal tools and dashboards
+
+构建内部工具和仪表板的平台

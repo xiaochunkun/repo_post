@@ -7,3 +7,5 @@ image: assets/joeycastillo_Sensor_Watch_20251130_053335_394_20251130_084048_1757
 # [joeycastillo/Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch/)
 
 Board replacement for Casio F-91W wristwatch
+
+Casio F-91W手表的电路板替换方案

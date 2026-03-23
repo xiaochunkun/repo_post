@@ -7,3 +7,5 @@ image: assets/roboflow_sports_cropped.png
 # [roboflow/sports](https://github.com/roboflow/sports)
 
 tools for sports field and player detection with computer vision
+
+用于体育场地和球员检测的计算机视觉工具

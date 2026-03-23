@@ -7,3 +7,5 @@ image: assets/gety_ai_apple_on_device_openai_20251031_001046_439_20251031_001159
 # [gety-ai/apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai/)
 
 OpenAI-compatible API for Apple's on-device models
+
+Apple 设备端模型的 OpenAI 兼容 API

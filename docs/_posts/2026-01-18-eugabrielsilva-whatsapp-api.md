@@ -7,3 +7,5 @@ image: assets/eugabrielsilva_whatsapp_api_20260117_222333_369_20260117_222353_54
 # [eugabrielsilva/whatsapp-api](https://github.com/eugabrielsilva/whatsapp-api)
 
 HTTP server for unofficial WhatsApp API without developer accounts
+
+无需开发者账户的非官方WhatsApp API HTTP服务器

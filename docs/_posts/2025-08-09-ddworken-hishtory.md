@@ -7,3 +7,5 @@ image: assets/ddworken_hishtory_cropped.png
 # [ddworken/hishtory](https://github.com/ddworken/hishtory)
 
 shell history sync and search tool
+
+shell历史同步和搜索工具

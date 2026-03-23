@@ -7,3 +7,5 @@ image: assets/20250915T225755758--id-Software--DOOM--20250918T045841584--cropped
 # [id-Software/DOOM](https://github.com/id-Software/DOOM)
 
 DOOM's Linux source code released in 1997, later re-licensed under GPL; original DOS code surfaced in 2023
+
+DOOM 的 Linux 源代码于 1997 年发布，后以 GPL 重新许可；原始 DOS 代码于 2023 年浮出水面

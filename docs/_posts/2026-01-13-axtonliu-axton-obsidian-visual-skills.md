@@ -7,3 +7,5 @@ image: assets/axtonliu_axton_obsidian_visual_skills_20260113_023155_638_20260113
 # [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)
 
 Generates diagrams from text with Claude Code
+
+使用Claude Code从文本生成图表

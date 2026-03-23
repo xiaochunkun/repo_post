@@ -7,3 +7,5 @@ image: assets/MeiGen-AI_PosterCraft_cropped.png
 # [MeiGen-AI/PosterCraft](https://github.com/MeiGen-AI/PosterCraft)
 
 AI framework for generating aesthetic posters
+
+用于生成美观海报的 AI 框架

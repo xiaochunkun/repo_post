@@ -7,3 +7,5 @@ image: assets/bitgapp_eqMac_20260122_031625_405_20260122_031650_2c3fa7.png
 # [bitgapp/eqMac](https://github.com/bitgapp/eqMac)
 
 System-wide audio equalizer and mixer for macOS
+
+macOS系统级音频均衡器和混音器

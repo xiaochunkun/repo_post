@@ -7,3 +7,5 @@ image: assets/rainxchzed_Github_Store_20251219_222350_397_20251219_222425_3d0996
 # [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store/)
 
 App store for GitHub releases
+
+GitHub发布的应用商店

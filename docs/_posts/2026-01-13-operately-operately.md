@@ -7,3 +7,5 @@ image: assets/operately_operately_20260112_080242_585_20260112_080300_8785b8.png
 # [operately/operately](https://github.com/operately/operately)
 
 Company operating system for goals and projects
+
+公司目标与项目操作系统

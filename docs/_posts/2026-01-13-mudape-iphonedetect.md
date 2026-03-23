@@ -7,3 +7,5 @@ image: assets/mudape_iphonedetect_20260111_094916_229_20260111_094930_b65d22.png
 # [mudape/iphonedetect](https://github.com/mudape/iphonedetect)
 
 Detects iPhones on a local network during deep sleep
+
+在深度睡眠期间检测本地网络中的iPhone

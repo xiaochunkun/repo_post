@@ -7,3 +7,5 @@ image: assets/CloudAI_X_threejs_skills_20260209_212729_809_20260209_212759_e33db
 # [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)
 
 3D graphics skill files for Claude Code
+
+Claude Code 的 3D 图形技能文件

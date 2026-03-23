@@ -7,3 +7,5 @@ image: assets/20250901T033249727--motion-canvas--motion-canvas--20250901T0338394
 # [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
 
 make vector animations in TypeScript with real-time preview
+
+用 TypeScript 制作矢量动画，支持实时预览

@@ -7,3 +7,5 @@ image: assets/mjakeman_extension_manager_20251210_040905_056_20251210_040926_dba
 # [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager/)
 
 Browse and install GNOME Shell extensions
+
+浏览与安装 GNOME Shell 扩展

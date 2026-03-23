@@ -7,3 +7,5 @@ image: assets/lobehub_lobe_tts_20260213_203306_695_20260213_203359_0ed399.png
 # [lobehub/lobe-tts](https://github.com/lobehub/lobe-tts)
 
 TTS and STT library for server and browser
+
+服务器和浏览器的TTS和STT库

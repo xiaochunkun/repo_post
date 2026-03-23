@@ -7,3 +7,5 @@ image: assets/neural_maze_agentic_patterns_course_20251201_034328_812_20251201_0
 # [neural-maze/agentic-patterns-course](https://github.com/neural-maze/agentic-patterns-course/)
 
 Implements agentic patterns using pure Groq API calls
+
+使用纯 Groq API 调用实现智能体模式

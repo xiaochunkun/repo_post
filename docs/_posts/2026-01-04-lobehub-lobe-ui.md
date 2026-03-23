@@ -7,3 +7,5 @@ image: assets/lobehub_lobe_ui_20260103_065804_683_20260103_065836_f9c2fb.png
 # [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui/)
 
 UI component library for AIGC web apps
+
+AIGC Web 应用的 UI 组件库

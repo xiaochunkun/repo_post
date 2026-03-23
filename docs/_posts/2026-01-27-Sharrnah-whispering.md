@@ -7,3 +7,5 @@ image: assets/Sharrnah_whispering_20260126_233148_389_20260126_233235_202369.png
 # [Sharrnah/whispering](https://github.com/Sharrnah/whispering)
 
 Transcribes and translates audio or images into text
+
+将音频或图像转录并翻译为文本

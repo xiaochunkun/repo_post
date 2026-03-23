@@ -7,3 +7,5 @@ image: assets/20251013T000119519--tenox7--ttyplot--20251013T000630381--cropped.p
 # [tenox7/ttyplot](https://github.com/tenox7/ttyplot)
 
 real-time terminal plots from stdin data
+
+从标准输入数据生成实时终端图表

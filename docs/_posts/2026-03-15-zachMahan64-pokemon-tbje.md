@@ -7,3 +7,5 @@ image: assets/zachMahan64_pokemon_tbje_20260315_062751_964_20260315_062838_7549c
 # [zachMahan64/pokemon-tbje](https://github.com/zachMahan64/pokemon-tbje)
 
 Terminal Pokémon battle game with dynamic AI
+
+终端宝可梦对战游戏，带动态AI

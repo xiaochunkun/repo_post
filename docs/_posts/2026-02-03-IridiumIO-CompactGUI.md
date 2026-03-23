@@ -7,3 +7,5 @@ image: assets/IridiumIO_CompactGUI_20260203_025031_649_20260203_025052_8c008b.pn
 # [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI)
 
 Compresses games and programs using Windows APIs
+
+使用 Windows API 压缩游戏和程序

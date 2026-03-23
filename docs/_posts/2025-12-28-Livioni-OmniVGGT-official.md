@@ -7,3 +7,5 @@ image: assets/Livioni_OmniVGGT_official_20251226_225904_849_20251226_225929_92c9
 # [Livioni/OmniVGGT-official](https://github.com/Livioni/OmniVGGT-official/)
 
 Foundation model for 3D reconstruction from modalities
+
+从模态进行 3D 重建的基础模型

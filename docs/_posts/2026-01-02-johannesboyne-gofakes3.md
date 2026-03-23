@@ -7,3 +7,5 @@ image: assets/johannesboyne_gofakes3_20260101_054629_943_20260101_054645_fdbe48.
 # [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3/)
 
 S3 server for local development and testing
+
+用于本地开发和测试的S3服务器

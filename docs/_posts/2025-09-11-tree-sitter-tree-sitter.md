@@ -7,3 +7,5 @@ image: assets/20250911T011817254--tree-sitter--tree-sitter--20250911T012503507--
 # [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
 incremental parsing library for syntax trees in editors and tools
+
+面向编辑器和工具的增量语法树解析库

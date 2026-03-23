@@ -7,3 +7,5 @@ image: assets/Zeyi-Lin_HivisionIDPhotos_cropped.png
 # [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 
 AI tool for offline ID photo creation from regular images using image segmentation and export features
+
+使用图像分割和导出功能的离线 AI 证件照制作工具

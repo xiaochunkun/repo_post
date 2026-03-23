@@ -7,3 +7,5 @@ image: assets/aws_samples_bedrock_chat_20251210_044458_427_20251210_044531_6aae1
 # [aws-samples/bedrock-chat](https://github.com/aws-samples/bedrock-chat/)
 
 Platform for chat and agents on Amazon Bedrock
+
+Amazon Bedrock 上的聊天和代理平台

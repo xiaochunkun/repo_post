@@ -7,3 +7,5 @@ image: assets/katanemo_plano_20260319_072530_126_20260319_072819_c99798.png
 # [katanemo/plano](https://github.com/katanemo/plano)
 
 Proxy server for agentic apps
+
+用于代理应用的代理服务器

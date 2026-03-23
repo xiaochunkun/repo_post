@@ -7,3 +7,5 @@ image: assets/intel_intel_one_mono_20251127_184511_924_20251130_052243_53de78--2
 # [intel/intel-one-mono](https://github.com/intel/intel-one-mono/)
 
 Monospaced font for developers with low vision
+
+为低视力开发者设计的等宽字体

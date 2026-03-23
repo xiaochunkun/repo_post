@@ -7,3 +7,5 @@ image: assets/mcp-use_mcp-use-ts--20250815T010502039--cropped.png
 # [mcp-use/mcp-use-ts](https://github.com/mcp-use/mcp-use-ts)
 
 connect any LLM to any MCP server with TypeScript
+
+使用 TypeScript 连接任何 LLM 到任何 MCP 服务器

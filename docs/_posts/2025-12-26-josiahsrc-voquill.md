@@ -7,3 +7,5 @@ image: assets/josiahsrc_voquill_20251225_021050_540_20251225_021140_090945.png
 # [josiahsrc/voquill](https://github.com/josiahsrc/voquill/)
 
 Dictate into any desktop application via voice
+
+通过语音在任何桌面应用中口述

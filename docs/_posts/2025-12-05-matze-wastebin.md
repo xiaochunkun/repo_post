@@ -7,3 +7,5 @@ image: assets/matze_wastebin_20251202_211509_012_20251202_211548_3a79ea.png
 # [matze/wastebin](https://github.com/matze/wastebin/)
 
 Minimal pastebin with sqlite3 backend
+
+基于 sqlite3 后端的最小化粘贴板

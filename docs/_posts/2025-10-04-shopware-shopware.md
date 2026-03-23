@@ -7,3 +7,5 @@ image: assets/20251003T232307537--shopware--shopware--20251003T232538429--croppe
 # [shopware/shopware](https://github.com/shopware/shopware)
 
 open source headless commerce platform built with Symfony and Vue
+
+基于Symfony和Vue构建的开源无头商务平台

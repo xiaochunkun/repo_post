@@ -7,3 +7,5 @@ image: assets/bragai_bRAG_langchain_20251127_180221_926_20251130_040736_730302--
 # [bragai/bRAG-langchain](https://github.com/bragai/bRAG-langchain/)
 
 Explores retrieval-augmented generation implementations
+
+探索检索增强生成实现

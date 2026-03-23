@@ -7,3 +7,5 @@ image: assets/facebook_watchman_20251123_183130_718_20251124_184245_f8b1d4--2025
 # [facebook/watchman](https://github.com/facebook/watchman/)
 
 Watches files and triggers actions
+
+监视文件并触发操作

@@ -7,3 +7,5 @@ image: assets/jrochkind_attr_json_20251205_012607_405_20251205_012643_9b321a.png
 # [jrochkind/attr_json](https://github.com/jrochkind/attr_json/)
 
 Serialized ActiveRecord attributes in JSON columns
+
+JSON列中的序列化ActiveRecord属性

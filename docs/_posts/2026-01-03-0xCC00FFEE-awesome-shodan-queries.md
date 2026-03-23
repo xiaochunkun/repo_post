@@ -7,3 +7,5 @@ image: assets/0xCC00FFEE_awesome_shodan_queries_20260102_012844_313_20260102_012
 # [0xCC00FFEE/awesome-shodan-queries](https://github.com/0xCC00FFEE/awesome-shodan-queries/)
 
 Search queries for internet-connected devices
+
+互联网连接设备的搜索查询

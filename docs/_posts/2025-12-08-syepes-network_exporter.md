@@ -7,3 +7,5 @@ image: assets/syepes_network_exporter_20251205_025537_448_20251205_025601_b0c832
 # [syepes/network_exporter](https://github.com/syepes/network_exporter/)
 
 Exports network metrics to Prometheus
+
+将网络指标导出到Prometheus

@@ -7,3 +7,5 @@ image: assets/FOGProject_fogproject_20251122_053840_535_20251122_111053_6fa4dd--
 # [FOGProject/fogproject](https://github.com/FOGProject/fogproject/)
 
 Clones computers and manages inventory
+
+克隆计算机并管理库存

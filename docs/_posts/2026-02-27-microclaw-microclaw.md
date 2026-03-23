@@ -7,3 +7,5 @@ image: assets/microclaw_microclaw_20260227_122505_046_20260227_122713_0e3610.png
 # [microclaw/microclaw](https://github.com/microclaw/microclaw)
 
 Agentic assistant for chat platforms
+
+聊天平台的智能助手

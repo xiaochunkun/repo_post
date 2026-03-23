@@ -7,3 +7,5 @@ image: assets/opengrep_opengrep_20260227_151524_069_20260227_151708_dd35ec.png
 # [opengrep/opengrep](https://github.com/opengrep/opengrep)
 
 Fork of Semgrep under LGPL
+
+Semgrep的LGPL分支

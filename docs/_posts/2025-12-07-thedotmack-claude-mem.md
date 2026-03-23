@@ -7,3 +7,5 @@ image: assets/thedotmack_claude_mem_20251205_012032_855_20251205_012103_f0d0fb.p
 # [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem/)
 
 Persistent memory compression system for Claude Code
+
+Claude Code的持久内存压缩系统

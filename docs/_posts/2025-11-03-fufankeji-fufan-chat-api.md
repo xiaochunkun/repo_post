@@ -7,3 +7,5 @@ image: assets/fufankeji_fufan_chat_api_20251031_084902_602_20251102_154600_1b441
 # [fufankeji/fufan-chat-api](https://github.com/fufankeji/fufan-chat-api/)
 
 Q&A system for local knowledge bases with RAG evaluation
+
+基于RAG评估的本地知识库问答系统

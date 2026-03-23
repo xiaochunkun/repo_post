@@ -7,3 +7,5 @@ image: assets/kRYstall9_docker_surgeon_20251124_235724_156_20251125_224848_020b2
 # [kRYstall9/docker-surgeon](https://github.com/kRYstall9/docker-surgeon/)
 
 Restarts unhealthy Docker containers based on dependencies
+
+基于依赖关系重启不健康的 Docker 容器

@@ -7,3 +7,5 @@ image: assets/fkie_cad_awesome_embedded_and_iot_security_20260112_161907_104_202
 # [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 
 Resources for security of embedded and IoT devices
+
+嵌入式与物联网安全资源

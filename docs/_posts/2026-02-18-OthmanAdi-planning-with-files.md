@@ -7,3 +7,5 @@ image: assets/OthmanAdi_planning_with_files_20260210_082429_468_20260210_082444_
 # [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 
 Persistent markdown files for AI agent planning
+
+用于 AI 代理规划的持久 Markdown 文件

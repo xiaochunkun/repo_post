@@ -7,3 +7,5 @@ image: assets/basnijholt_home_assistant_config_20260117_205234_945_20260117_2052
 # [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config)
 
 Home Assistant configuration with MacBook Touch Bar integration
+
+集成 MacBook Touch Bar 的 Home Assistant 配置

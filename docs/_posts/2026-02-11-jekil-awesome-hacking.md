@@ -7,3 +7,5 @@ image: assets/jekil_awesome_hacking_20260205_233047_589_20260205_233104_d0eda1.p
 # [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)
 
 Collection of hacking tools for security researchers
+
+安全研究人员的黑客工具集合

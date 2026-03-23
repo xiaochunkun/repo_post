@@ -7,3 +7,5 @@ image: assets/fccview_cronmaster_20260203_002840_605_20260203_002859_4dfb1a.png
 # [fccview/cronmaster](https://github.com/fccview/cronmaster)
 
 Cronjob management interface with live logging
+
+具有实时日志的Cronjob管理界面

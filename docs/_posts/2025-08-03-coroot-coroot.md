@@ -7,3 +7,5 @@ image: assets/coroot_coroot_cropped.png
 # [coroot/coroot](https://github.com/coroot/coroot)
 
 observability for apps and infra, all-in-one monitoring
+
+应用和基础设施可观测性，一体化监控

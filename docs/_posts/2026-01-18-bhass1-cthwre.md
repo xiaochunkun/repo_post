@@ -7,3 +7,5 @@ image: assets/bhass1_cthwre_20260116_092107_053_20260116_092131_405b84.png
 # [bhass1/cthwre](https://github.com/bhass1/cthwre)
 
 Hardware reverse engineering course materials for firmware extraction via JTAG
+
+通过JTAG进行固件提取的硬件逆向工程课程材料

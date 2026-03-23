@@ -7,3 +7,5 @@ image: assets/xinggaoya_sing_box_windows_20260114_075226_657_20260114_075240_0ca
 # [xinggaoya/sing-box-windows](https://github.com/xinggaoya/sing-box-windows)
 
 GUI client for proxy management on Windows, Linux, and macOS
+
+用于 Windows、Linux 和 macOS 代理管理的 GUI 客户端

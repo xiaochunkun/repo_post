@@ -7,3 +7,5 @@ image: assets/leaper-one_MultiPost-Extension_cropped.png
 # [leaper-one/MultiPost-Extension](https://github.com/leaper-one/MultiPost-Extension)
 
 Post content to multiple platforms
+
+将内容发布到多个平台

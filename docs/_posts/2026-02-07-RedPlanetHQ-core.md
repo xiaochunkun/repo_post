@@ -7,3 +7,5 @@ image: assets/RedPlanetHQ_core_20260204_032241_296_20260204_032301_fa1119.png
 # [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core)
 
 Memory agent for AI tools
+
+AI工具的记忆代理

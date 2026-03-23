@@ -7,3 +7,5 @@ image: assets/ComposioHQ_open_claude_cowork_20260118_030418_957_20260118_030434_
 # [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork)
 
 Desktop chat application with access to tools
+
+带工具访问的桌面聊天应用

@@ -7,3 +7,5 @@ image: assets/SeedSigner_seedsigner_20251225_001253_473_20251225_001313_620e86.p
 # [SeedSigner/seedsigner](https://github.com/SeedSigner/seedsigner/)
 
 Signs Bitcoin transactions with a Raspberry Pi Zero
+
+使用 Raspberry Pi Zero 签署比特币交易

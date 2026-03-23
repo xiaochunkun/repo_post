@@ -7,3 +7,5 @@ image: assets/hauxir_macos_live_screensaver_20251111_194059_457_20251112_025640_
 # [hauxir/macos-live-screensaver](https://github.com/hauxir/macos-live-screensaver/)
 
 macOS screensaver that plays video streams
+
+播放视频流的macOS屏幕保护程序

@@ -7,3 +7,5 @@ image: assets/20250812T232324--gitbundle--gitbundle--20250812T233345--cropped.pn
 # [gitbundle/gitbundle](https://github.com/gitbundle/gitbundle)
 
 self-hosted git platform in Rust
+
+基于Rust的自托管Git平台

@@ -7,3 +7,5 @@ image: assets/20250922T023048988--openziti--ziti--20250922T023951926--cropped.pn
 # [openziti/ziti](https://github.com/openziti/ziti)
 
 zero trust networking for apps, mesh overlay, smart routing, sdk support
+
+零信任网络应用，支持网格覆盖、智能路由和 SDK

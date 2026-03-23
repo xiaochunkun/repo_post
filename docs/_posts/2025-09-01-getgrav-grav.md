@@ -7,3 +7,5 @@ image: assets/20250830T185609994--getgrav--grav--20250830T190624647--cropped.png
 # [getgrav/grav](https://github.com/getgrav/grav)
 
 file-based PHP CMS, no database needed
+
+基于文件的 PHP CMS，无需数据库

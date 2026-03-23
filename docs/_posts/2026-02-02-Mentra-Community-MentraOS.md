@@ -7,3 +7,5 @@ image: assets/Mentra_Community_MentraOS_20260202_104650_195_20260202_104726_582f
 # [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS)
 
 Operating system for smart glasses
+
+智能眼镜操作系统

@@ -7,3 +7,5 @@ image: assets/agentgateway_agentgateway_20260318_204544_780_20260318_204701_4de1
 # [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
 
 Data plane for agent connectivity
+
+代理连接的数据平面

@@ -7,3 +7,5 @@ image: assets/iannuttall_tab_stash_20260112_040828_158_20260112_040845_67440e.pn
 # [iannuttall/tab-stash](https://github.com/iannuttall/tab-stash)
 
 Stashes browser tabs locally for later reading
+
+本地暂存浏览器标签以供稍后阅读

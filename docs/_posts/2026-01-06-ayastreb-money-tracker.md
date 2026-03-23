@@ -7,3 +7,5 @@ image: assets/ayastreb_money_tracker_20260106_051556_579_20260106_051611_afc564.
 # [ayastreb/money-tracker](https://github.com/ayastreb/money-tracker/)
 
 Tracks income and expenses offline with PouchDB
+
+使用 PouchDB 离线追踪收入和支出

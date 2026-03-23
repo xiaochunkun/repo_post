@@ -7,3 +7,5 @@ image: assets/MichielMe_fastscheduler_20260115_135927_459_20260115_135943_d442f3
 # [MichielMe/fastscheduler](https://github.com/MichielMe/fastscheduler)
 
 Python task scheduler with dashboard and persistence
+
+带仪表板和持久化的 Python 任务调度器

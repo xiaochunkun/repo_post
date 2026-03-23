@@ -7,3 +7,5 @@ image: assets/alvr_org_ALVR_20260120_123409_679_20260120_123423_0db503.png
 # [alvr-org/ALVR](https://github.com/alvr-org/ALVR)
 
 Transmits VR games from PCs to headsets via Wi-Fi
+
+通过Wi-Fi从PC传输VR游戏到头显

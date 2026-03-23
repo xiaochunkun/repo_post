@@ -7,3 +7,5 @@ image: assets/theopfr_somo_20251018_171053_201_20251018_183007--20251018T2030078
 # [theopfr/somo](https://github.com/theopfr/somo/)
 
 A netstat alternative for socket and port monitoring
+
+用于 socket 和端口监控的 netstat 替代工具

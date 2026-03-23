@@ -7,3 +7,5 @@ image: assets/beromir_Servas_20260103_012703_928_20260103_012719_9266b1.png
 # [beromir/Servas](https://github.com/beromir/Servas/)
 
 Self-hosted bookmark manager with browser extensions
+
+带浏览器扩展的自托管书签管理器

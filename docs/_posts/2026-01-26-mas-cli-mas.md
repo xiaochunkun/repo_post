@@ -7,3 +7,5 @@ image: assets/mas_cli_mas_20260119_222225_870_20260119_222239_34cc85.png
 # [mas-cli/mas](https://github.com/mas-cli/mas)
 
 Command-line interface for the Mac App Store
+
+Mac App Store 的命令行界面

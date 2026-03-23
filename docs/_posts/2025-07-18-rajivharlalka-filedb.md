@@ -7,3 +7,5 @@ image: assets/rajivharlalka_filedb_cropped.png
 # [rajivharlalka/filedb](https://github.com/rajivharlalka/filedb)
 
 disk-based key-value store in Zig inspired by Bitcask
+
+受Bitcask启发的Zig磁盘键值存储

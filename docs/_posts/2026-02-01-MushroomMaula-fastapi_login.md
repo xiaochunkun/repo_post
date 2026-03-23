@@ -7,3 +7,5 @@ image: assets/MushroomMaula_fastapi_login_20260130_224842_919_20260130_224919_40
 # [MushroomMaula/fastapi_login](https://github.com/MushroomMaula/fastapi_login)
 
 Handles user authentication for FastAPI via JSON Web Tokens
+
+通过 JSON Web Tokens 处理 FastAPI 用户认证

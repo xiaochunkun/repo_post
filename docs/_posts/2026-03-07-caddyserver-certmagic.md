@@ -7,3 +7,5 @@ image: assets/caddyserver_certmagic_20260223_115815_351_20260223_115832_ba3fd7.p
 # [caddyserver/certmagic](https://github.com/caddyserver/certmagic)
 
 Automates TLS certificate issuance and renewal for Go programs
+
+为 Go 程序自动化 TLS 证书颁发和续订

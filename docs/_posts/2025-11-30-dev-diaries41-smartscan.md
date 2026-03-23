@@ -7,3 +7,5 @@ image: assets/dev_diaries41_smartscan_20251127_180706_047_20251130_040916_426e54
 # [dev-diaries41/smartscan](https://github.com/dev-diaries41/smartscan/)
 
 Offline on-device AI media search engine
+
+离线设备端 AI 媒体搜索引擎

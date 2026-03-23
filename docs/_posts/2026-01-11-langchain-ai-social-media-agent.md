@@ -7,3 +7,5 @@ image: assets/langchain_ai_social_media_agent_20260111_025551_150_20260111_02560
 # [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent)
 
 Schedules social media posts with human feedback
+
+带人工反馈的社交媒体帖子调度器

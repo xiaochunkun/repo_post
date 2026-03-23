@@ -7,3 +7,5 @@ image: assets/containernetworking_cni_cropped.png
 # [containernetworking/cni](https://github.com/containernetworking/cni)
 
 CNI plugins for container networking
+
+用于容器网络的CNI插件

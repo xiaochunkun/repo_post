@@ -7,3 +7,5 @@ image: assets/gisiahq_gisia_20260116_085541_163_20260116_085554_8f3013.png
 # [gisiahq/gisia](https://github.com/gisiahq/gisia)
 
 Self-hosted DevOps platform for Git hosting and CI/CD automation
+
+自托管的Git托管和CI/CD自动化DevOps平台

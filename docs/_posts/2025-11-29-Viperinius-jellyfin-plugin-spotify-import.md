@@ -7,3 +7,5 @@ image: assets/Viperinius_jellyfin_plugin_spotify_import_20251126_010829_315_2025
 # [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import/)
 
 Imports Spotify playlists into Jellyfin
+
+将 Spotify 播放列表导入 Jellyfin

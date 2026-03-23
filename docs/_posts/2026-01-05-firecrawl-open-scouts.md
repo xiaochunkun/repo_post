@@ -7,3 +7,5 @@ image: assets/firecrawl_open_scouts_20260103_223705_292_20260103_223720_b709c4.p
 # [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts/)
 
 Automates web searches and sends email alerts
+
+自动化网络搜索并发送邮件提醒

@@ -6,3 +6,5 @@ image: assets/TeXlyre_texlyre_20251025_035159_875_20251025_041127_b498da--202510
 # [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre/)
 
 Local-first LaTeX and Typst collaboration platform
+
+本地优先的LaTeX和Typst协作平台

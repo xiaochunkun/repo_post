@@ -7,3 +7,5 @@ image: assets/jarcoal_httpmock_20251209_060938_628_20251209_061000_2e2085.png
 # [jarcoal/httpmock](https://github.com/jarcoal/httpmock/)
 
 Mock HTTP responses from external resources in Go
+
+在 Go 中模拟外部资源的 HTTP 响应

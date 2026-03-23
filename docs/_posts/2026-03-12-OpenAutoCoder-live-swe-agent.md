@@ -7,3 +7,5 @@ image: assets/OpenAutoCoder_live_swe_agent_20260312_021134_120_20260312_021414_f
 # [OpenAutoCoder/live-swe-agent](https://github.com/OpenAutoCoder/live-swe-agent)
 
 Runtime self-evolving software engineering agent
+
+运行时自演进的软件工程智能体

@@ -7,3 +7,5 @@ image: assets/ZeroZeroOne_dev_00Key_20260209_055348_370_20260209_055410_a0f448.p
 # [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key)
 
 75% keyboard with OLED display and RGB underglow
+
+带 OLED 显示屏和 RGB 底光的 75% 键盘

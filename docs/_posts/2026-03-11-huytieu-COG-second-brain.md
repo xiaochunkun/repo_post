@@ -7,3 +7,5 @@ image: assets/huytieu_COG_second_brain_20260308_205226_895_20260308_205407_284ca
 # [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain)
 
 AI agents managing markdown files for knowledge and version control
+
+AI 代理管理 Markdown 文件以实现知识和版本控制

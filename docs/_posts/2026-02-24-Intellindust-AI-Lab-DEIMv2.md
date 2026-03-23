@@ -7,3 +7,5 @@ image: assets/Intellindust_AI_Lab_DEIMv2_20260221_081513_688_20260221_081532_c41
 # [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)
 
 Real-time object detection with DINOv3 features
+
+使用 DINOv3 特征进行实时物体检测

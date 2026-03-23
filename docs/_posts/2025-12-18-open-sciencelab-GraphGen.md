@@ -7,3 +7,5 @@ image: assets/open_sciencelab_GraphGen_20251217_084725_412_20251217_084746_62650
 # [open-sciencelab/GraphGen](https://github.com/open-sciencelab/GraphGen/)
 
 Synthesizes data using knowledge graphs
+
+使用知识图谱合成数据

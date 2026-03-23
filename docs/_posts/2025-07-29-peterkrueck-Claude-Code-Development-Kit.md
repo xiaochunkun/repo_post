@@ -7,3 +7,5 @@ image: assets/peterkrueck_Claude-Code-Development-Kit_cropped.png
 # [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit)
 
 Claude-Code-Development-Kit: code tools for integrating Claude into development workflows
+
+Claude-Code-Development-Kit：将 Claude 集成到开发工作流的代码工具

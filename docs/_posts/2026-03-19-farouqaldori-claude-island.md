@@ -7,3 +7,5 @@ image: assets/farouqaldori_claude_island_20260319_000542_112_20260319_000744_9bf
 # [farouqaldori/claude-island](https://github.com/farouqaldori/claude-island)
 
 macOS menu bar app for Claude Code CLI
+
+用于 Claude Code CLI 的 macOS 菜单栏应用

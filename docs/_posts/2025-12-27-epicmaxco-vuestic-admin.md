@@ -7,3 +7,5 @@ image: assets/epicmaxco_vuestic_admin_20251226_001616_557_20251226_001633_7cf129
 # [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin/)
 
 Admin template with Vue 3, Vite, and Tailwind CSS
+
+使用 Vue 3、Vite 和 Tailwind CSS 的管理模板

@@ -7,3 +7,5 @@ image: assets/fluentscheduler_FluentScheduler_20251208_234654_465_20251208_23493
 # [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler/)
 
 Job scheduler for .NET platform
+
+.NET平台的作业调度器

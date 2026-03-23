@@ -7,3 +7,5 @@ image: assets/gitbutlerapp_gitbutler_20260108_022808_822_20260108_022821_aac5b5.
 # [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
 Version control client for simultaneous branch management
+
+支持同时管理分支的版本控制客户端

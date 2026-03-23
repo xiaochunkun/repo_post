@@ -7,3 +7,5 @@ image: assets/20250922T030624455--apankrat--nullboard--20250922T031817298--cropp
 # [apankrat/nullboard](https://github.com/apankrat/nullboard)
 
 minimalist kanban board, single HTML file, works offline, local storage
+
+极简看板，单 HTML 文件，离线工作，本地存储

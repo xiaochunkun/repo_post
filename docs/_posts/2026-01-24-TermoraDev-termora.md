@@ -7,3 +7,5 @@ image: assets/TermoraDev_termora_20260122_050748_382_20260122_050806_09cff3.png
 # [TermoraDev/termora](https://github.com/TermoraDev/termora)
 
 Terminal emulator and SSH client with SFTP file management
+
+集成SFTP文件管理的终端模拟器和SSH客户端

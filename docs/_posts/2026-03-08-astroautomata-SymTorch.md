@@ -7,3 +7,5 @@ image: assets/astroautomata_SymTorch_20260303_063449_938_20260303_063617_f0debe.
 # [astroautomata/SymTorch](https://github.com/astroautomata/SymTorch)
 
 Approximates deep learning components with symbolic equations
+
+使用符号方程近似深度学习组件

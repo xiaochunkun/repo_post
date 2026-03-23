@@ -7,3 +7,5 @@ image: assets/jesseduffield_lazydocker_cropped.png
 # [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 
 Terminal UI for managing Docker containers and services
+
+用于管理 Docker 容器和服务的终端 UI

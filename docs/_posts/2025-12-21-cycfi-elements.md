@@ -7,3 +7,5 @@ image: assets/cycfi_elements_20251219_055233_805_20251219_055323_54c06b.png
 # [cycfi/elements](https://github.com/cycfi/elements/)
 
 GUI library using C++20 features
+
+使用 C++20 特性的 GUI 库

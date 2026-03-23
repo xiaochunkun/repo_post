@@ -7,3 +7,5 @@ image: assets/loco-rs_loco_cropped.png
 # [loco-rs/loco](https://github.com/loco-rs/loco)
 
 Rust web framework for building apps
+
+用于构建应用的 Rust Web 框架

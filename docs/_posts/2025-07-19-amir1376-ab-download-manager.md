@@ -7,3 +7,5 @@ image: assets/amir1376_ab-download-manager_cropped.png
 # [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
 open source desktop app for managing and organizing downloads
+
+开源桌面应用，用于管理和组织下载

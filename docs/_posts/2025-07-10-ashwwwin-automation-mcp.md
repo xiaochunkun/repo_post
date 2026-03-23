@@ -7,3 +7,5 @@ image: assets/ashwwwin_automation-mcp_cropped.png
 # [ashwwwin/automation-mcp](https://github.com/ashwwwin/automation-mcp)
 
 Mac automation with MCP server
+
+使用 MCP 服务器进行 Mac 自动化

@@ -7,3 +7,5 @@ image: assets/thewh1teagle_vibe_20260129_010013_281_20260129_010122_16555f.png
 # [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe)
 
 Transcribes audio and video offline using OpenAI Whisper
+
+使用 OpenAI Whisper 离线转录音频和视频

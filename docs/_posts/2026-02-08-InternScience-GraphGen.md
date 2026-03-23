@@ -7,3 +7,5 @@ image: assets/InternScience_GraphGen_20260202_230906_966_20260202_230925_7e8964.
 # [InternScience/GraphGen](https://github.com/InternScience/GraphGen)
 
 Generates synthetic data from knowledge graphs for fine-tuning
+
+从知识图谱生成用于微调的合成数据

@@ -7,3 +7,5 @@ image: assets/clidey_whodb_cropped.png
 # [clidey/whodb](https://github.com/clidey/whodb)
 
 Lightweight database management tool with chat interface
+
+具有聊天界面的轻量级数据库管理工具

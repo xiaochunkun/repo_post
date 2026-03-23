@@ -7,3 +7,5 @@ image: assets/20250915T234148659--cargo-bins--cargo-binstall--20250919T022207314
 # [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall)
 
 Skip compiling Rust binaries, download pre-built ones instead
+
+跳过编译Rust二进制文件，直接下载预构建版本

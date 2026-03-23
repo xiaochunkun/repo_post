@@ -7,3 +7,5 @@ image: assets/liveloveapp_hashbrown_20251217_091409_027_20251217_091444_f4d04d.p
 # [liveloveapp/hashbrown](https://github.com/liveloveapp/hashbrown/)
 
 Framework for building browser-based AI agents
+
+构建基于浏览器的 AI 代理的框架

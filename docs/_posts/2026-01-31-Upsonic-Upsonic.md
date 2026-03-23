@@ -7,3 +7,5 @@ image: assets/Upsonic_Upsonic_20260130_044306_016_20260130_044340_30c518.png
 # [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)
 
 Framework for agents with safety engine and OCR
+
+带安全引擎和OCR的代理框架

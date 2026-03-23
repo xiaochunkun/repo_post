@@ -7,3 +7,5 @@ image: assets/joschan21_quill_20251122_131546_138_20251122_222051_82ed38--202511
 # [joschan21/quill](https://github.com/joschan21/quill/)
 
 SaaS for chatting with PDFs
+
+用于与PDF聊天的SaaS服务

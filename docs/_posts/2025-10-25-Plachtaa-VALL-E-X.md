@@ -7,3 +7,5 @@ image: assets/Plachtaa_VALL_E_X_20251023_181556_922_20251025_011417_8f5ff2--2025
 # [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X/)
 
 Clones voices across languages
+
+跨语言克隆语音

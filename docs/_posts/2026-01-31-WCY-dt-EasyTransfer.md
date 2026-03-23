@@ -7,3 +7,5 @@ image: assets/WCY_dt_EasyTransfer_20260129_112436_268_20260129_112522_2d230d.png
 # [WCY-dt/EasyTransfer](https://github.com/WCY-dt/EasyTransfer)
 
 Transfers files between devices via webRTC
+
+通过 webRTC 在设备间传输文件

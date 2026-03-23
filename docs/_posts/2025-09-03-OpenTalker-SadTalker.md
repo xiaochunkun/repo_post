@@ -7,3 +7,5 @@ image: assets/20250901T033758024--OpenTalker--SadTalker--20250903T014604479--cro
 # [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker)
 
 turn a photo and audio into a talking video with AI
+
+用 AI 将照片和音频合成说话视频

@@ -7,3 +7,5 @@ image: assets/akitaonrails_tvclipboard_20260205_014641_405_20260205_014711_91abb
 # [akitaonrails/tvclipboard](https://github.com/akitaonrails/tvclipboard)
 
 Transfers text from phones to computers via QR codes
+
+通过二维码将文本从手机传输到电脑

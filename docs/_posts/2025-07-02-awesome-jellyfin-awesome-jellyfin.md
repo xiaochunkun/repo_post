@@ -7,3 +7,5 @@ image: assets/awesome-jellyfin_awesome-jellyfin_cropped.png
 # [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
 
 Jellyfin plugins, themes, guides, companion tools
+
+Jellyfin插件、主题、指南和配套工具

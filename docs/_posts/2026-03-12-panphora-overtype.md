@@ -7,3 +7,5 @@ image: assets/panphora_overtype_20260217_032117_847_20260217_032212_1bb909.png
 # [panphora/overtype](https://github.com/panphora/overtype)
 
 Markdown editor using an invisible textarea overlay
+
+使用隐形文本区域覆盖的Markdown编辑器

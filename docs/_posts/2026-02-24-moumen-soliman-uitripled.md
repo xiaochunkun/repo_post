@@ -7,3 +7,5 @@ image: assets/moumen_soliman_uitripled_20260203_073933_761_20260203_073954_344b2
 # [moumen-soliman/uitripled](https://github.com/moumen-soliman/uitripled)
 
 UI blocks and components for shadcn/ui and Base UI
+
+适用于 shadcn/ui 和 Base UI 的 UI 块和组件

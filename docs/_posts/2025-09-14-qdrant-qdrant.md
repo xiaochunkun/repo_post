@@ -7,3 +7,5 @@ image: assets/20250912T195808893--qdrant--qdrant--20250914T182250175--cropped.pn
 # [qdrant/qdrant](https://github.com/qdrant/qdrant)
 
 vector database and similarity search engine for AI apps
+
+AI 应用的向量数据库和相似度搜索引擎

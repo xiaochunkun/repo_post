@@ -7,3 +7,5 @@ image: assets/Macchina_CLI_macchina_20251120_051130_743_20251120_195117_85f15f--
 # [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina/)
 
 System information frontend for the terminal
+
+终端的系统信息前端

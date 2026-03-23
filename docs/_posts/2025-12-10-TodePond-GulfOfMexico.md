@@ -7,3 +7,5 @@ image: assets/TodePond_GulfOfMexico_20251207_234224_689_20251207_234256_7b4427.p
 # [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico/)
 
 Programming language that ends statements with exclamation marks
+
+以感叹号结束语句的编程语言

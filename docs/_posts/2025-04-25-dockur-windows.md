@@ -7,3 +7,5 @@ image: assets/dockur_windows_cropped.png
 # [dockur/windows](https://github.com/dockur/windows)
 
 Windows in a Docker container for easy setup and access
+
+Docker容器中的Windows，便于设置和访问

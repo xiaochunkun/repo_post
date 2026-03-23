@@ -7,3 +7,5 @@ image: assets/20250930T002155956--Wisser--Jailer--20250930T002926193--cropped.pn
 # [Wisser/Jailer](https://github.com/Wisser/Jailer)
 
 tool for creating smaller, consistent database subsets and browsing relational data
+
+用于创建更小、一致的数据库子集并浏览关系数据的工具

@@ -7,3 +7,5 @@ image: assets/sb2702_free_ai_video_upscaler_20260114_003621_358_20260114_003635_
 # [sb2702/free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler)
 
 Upscales video in the browser
+
+在浏览器中提升视频分辨率

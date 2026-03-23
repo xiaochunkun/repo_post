@@ -7,3 +7,5 @@ image: assets/20250911T014340572--henrythe9th--AI-Crash-Course--20250911T0150131
 # [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
 
 curated AI research resources for catching up fast
+
+精选 AI 研究资源，快速了解前沿动态

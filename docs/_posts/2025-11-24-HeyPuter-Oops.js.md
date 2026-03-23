@@ -7,3 +7,5 @@ image: assets/HeyPuter_Oops_js_20251123_173930_494_20251124_095247_25d86e--20251
 # [HeyPuter/Oops.js](https://github.com/HeyPuter/Oops.js/)
 
 Undo/redo manager for JavaScript applications
+
+JavaScript 应用程序的撤销/重做管理器

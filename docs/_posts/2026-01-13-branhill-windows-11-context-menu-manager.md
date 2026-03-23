@@ -7,3 +7,5 @@ image: assets/branhill_windows_11_context_menu_manager_20260112_123133_940_20260
 # [branhill/windows-11-context-menu-manager](https://github.com/branhill/windows-11-context-menu-manager)
 
 Disables entries in the Windows 11 context menu
+
+禁用Windows 11上下文菜单中的条目

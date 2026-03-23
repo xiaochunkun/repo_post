@@ -7,3 +7,5 @@ image: assets/mautic_mautic_cropped.png
 # [mautic/mautic](https://github.com/mautic/mautic)
 
 open source marketing automation platform for campaigns and emails
+
+用于营销活动和邮件的开源营销自动化平台

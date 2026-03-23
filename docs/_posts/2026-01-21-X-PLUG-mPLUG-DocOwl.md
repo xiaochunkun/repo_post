@@ -7,3 +7,5 @@ image: assets/X_PLUG_mPLUG_DocOwl_20260120_022752_912_20260120_022840_a4e675.png
 # [X-PLUG/mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl)
 
 Document understanding via LLMs without OCR
+
+无需 OCR，通过 LLMs 理解文档

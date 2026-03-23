@@ -7,3 +7,5 @@ image: assets/half_blood_labs_route_shield_20251226_220334_259_20251226_220351_b
 # [half-blood-labs/route_shield](https://github.com/half-blood-labs/route_shield/)
 
 Filters requests and manages route access through a dashboard
+
+通过仪表板过滤请求和管理路由访问

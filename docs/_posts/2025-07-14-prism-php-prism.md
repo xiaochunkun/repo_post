@@ -7,3 +7,5 @@ image: assets/prism-php_prism_cropped.png
 # [prism-php/prism](https://github.com/prism-php/prism)
 
 Laravel package for LLMs and AI tools
+
+用于 LLM 和 AI 工具的 Laravel 包

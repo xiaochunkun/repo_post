@@ -7,3 +7,5 @@ image: assets/Milkshiift_YouTubeTLDR--20250812T004906--cropped.png
 # [Milkshiift/YouTubeTLDR](https://github.com/Milkshiift/YouTubeTLDR)
 
 self‑hosted YouTube video summarizer using Gemini
+
+使用Gemini的自托管YouTube视频摘要器

@@ -7,3 +7,5 @@ image: assets/20250830T043833298--saleor--saleor--20250830T044311472--cropped.pn
 # [saleor/saleor](https://github.com/saleor/saleor)
 
 Headless open-source e-commerce built with Python and GraphQL
+
+Python + GraphQL 的开源 Headless 电商平台

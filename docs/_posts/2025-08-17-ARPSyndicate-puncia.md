@@ -7,3 +7,5 @@ image: assets/ARPSyndicate_puncia--20250816T013635061--cropped.png
 # [ARPSyndicate/puncia](https://github.com/ARPSyndicate/puncia)
 
 CLI tool for subdomain, exploit, and vulnerability intelligence
+
+用于子域名、漏洞利用和漏洞情报的CLI工具

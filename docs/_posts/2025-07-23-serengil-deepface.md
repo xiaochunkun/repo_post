@@ -7,3 +7,5 @@ image: assets/serengil_deepface_cropped.png
 # [serengil/deepface](https://github.com/serengil/deepface)
 
 face recognition and analysis in python
+
+Python中的面部识别和分析

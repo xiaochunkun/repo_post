@@ -7,3 +7,5 @@ image: assets/CCExtractor_taskwarrior_flutter_20260118_061352_993_20260118_06140
 # [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)
 
 Flutter app for task management with self-hosted server support
+
+带有自托管服务器支持的 Flutter 任务管理应用

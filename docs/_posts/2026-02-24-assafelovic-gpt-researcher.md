@@ -7,3 +7,5 @@ image: assets/assafelovic_gpt_researcher_20260218_014057_487_20260218_014147_762
 # [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 
 Agent for research with citations
+
+带引用的研究代理

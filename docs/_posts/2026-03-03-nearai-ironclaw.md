@@ -7,3 +7,5 @@ image: assets/nearai_ironclaw_20260302_041112_252_20260302_041235_3e1c2d.png
 # [nearai/ironclaw](https://github.com/nearai/ironclaw)
 
 AI assistant with local encryption and WASM sandboxing
+
+具有本地加密和 WASM 沙箱的 AI 助手

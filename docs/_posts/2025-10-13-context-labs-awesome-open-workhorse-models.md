@@ -7,3 +7,5 @@ image: assets/20251012T030235421--context-labs--awesome-open-workhorse-models--2
 # [context-labs/awesome-open-workhorse-models](https://github.com/context-labs/awesome-open-workhorse-models)
 
 curated list of specialized open-weight AI models for focused enterprise tasks
+
+精选的专门用于企业任务的开放权重 AI 模型列表

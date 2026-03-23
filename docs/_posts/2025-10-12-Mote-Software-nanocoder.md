@@ -7,3 +7,5 @@ image: assets/20251010T212511741--Mote-Software--nanocoder--20251010T213312399--
 # [Mote-Software/nanocoder](https://github.com/Mote-Software/nanocoder)
 
 CLI coding agent that runs locally with your choice of model or API
+
+本地运行的 CLI 编码代理，可选择模型或 API

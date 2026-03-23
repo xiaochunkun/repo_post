@@ -7,3 +7,5 @@ image: assets/20250827T221754006--GRVYDEV--Project-Lightspeed--20250827T22205445
 # [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed)
 
 self-hosted live streaming server with sub-second latency
+
+自托管低延迟直播服务器

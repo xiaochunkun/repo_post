@@ -7,3 +7,5 @@ image: assets/MIERUNE_svelte_maplibre_gl_20251207_230359_755_20251207_230431_53c
 # [MIERUNE/svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl/)
 
 Svelte 5 wrapper for MapLibre GL JS
+
+MapLibre GL JS的Svelte 5封装

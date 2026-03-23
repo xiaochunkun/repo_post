@@ -7,3 +7,5 @@ image: assets/warmshao_FasterLivePortrait_20251120_014825_247_20251120_020754_ad
 # [warmshao/FasterLivePortrait](https://github.com/warmshao/FasterLivePortrait/)
 
 Real-time portrait animation with TensorRT
+
+TensorRT实时肖像动画

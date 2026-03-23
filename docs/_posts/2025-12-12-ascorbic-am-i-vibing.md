@@ -7,3 +7,5 @@ image: assets/ascorbic_am_i_vibing_20251209_025700_930_20251209_025723_518d15.pn
 # [ascorbic/am-i-vibing](https://github.com/ascorbic/am-i-vibing/)
 
 Detects execution within AI coding agents
+
+检测是否在AI编码智能体中执行

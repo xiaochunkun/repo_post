@@ -7,3 +7,5 @@ image: assets/20250814T034721691_nautilus-ops_mcp-center--20250814T035054032--cr
 # [nautilus-ops/mcp-center](https://github.com/nautilus-ops/mcp-center)
 
 centralized proxy for managing and connecting MCP servers
+
+用于管理和连接MCP服务器的集中式代理

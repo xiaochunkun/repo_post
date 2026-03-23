@@ -7,3 +7,5 @@ image: assets/debba_tabularis_20260208_175631_576_20260208_175656_d9cb3b.png
 # [debba/tabularis](https://github.com/debba/tabularis)
 
 Database management tool built with Tauri and React
+
+基于Tauri和React构建的数据库管理工具

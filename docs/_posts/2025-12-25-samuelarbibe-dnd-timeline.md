@@ -7,3 +7,5 @@ image: assets/samuelarbibe_dnd_timeline_20251223_234814_957_20251223_234834_0e49
 # [samuelarbibe/dnd-timeline](https://github.com/samuelarbibe/dnd-timeline/)
 
 Headless timeline library for React based on dnd-kit
+
+基于 dnd-kit 的 React 无头时间线库

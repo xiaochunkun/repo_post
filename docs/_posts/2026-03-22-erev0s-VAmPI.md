@@ -7,3 +7,5 @@ image: assets/erev0s_VAmPI_20260321_222626_152_20260321_222820_1a3649.png
 # [erev0s/VAmPI](https://github.com/erev0s/VAmPI)
 
 Vulnerable REST API for security testing
+
+用于安全测试的易受攻击REST API

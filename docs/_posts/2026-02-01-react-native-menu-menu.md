@@ -7,3 +7,5 @@ image: assets/react_native_menu_menu_20260131_115028_315_20260131_115103_3ce9a9.
 # [react-native-menu/menu](https://github.com/react-native-menu/menu)
 
 Native menu components for React Native
+
+React Native 的原生菜单组件

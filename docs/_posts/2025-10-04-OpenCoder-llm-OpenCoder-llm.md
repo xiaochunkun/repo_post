@@ -7,3 +7,5 @@ image: assets/20251003T231312458--OpenCoder-llm--OpenCoder-llm--20251003T2316360
 # [OpenCoder-llm/OpenCoder-llm](https://github.com/OpenCoder-llm/OpenCoder-llm)
 
 Open cookbook for building top-tier code LLMs with complete training data and reproducible pipeline
+
+构建顶级代码LLM的开放食谱，包含完整训练数据和可复现的流水线

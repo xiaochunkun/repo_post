@@ -7,3 +7,5 @@ image: assets/6551Team_opennews_mcp_20260306_005022_651_20260306_005135_e3289d.p
 # [6551Team/opennews-mcp](https://github.com/6551Team/opennews-mcp)
 
 Connect AI assistants to crypto news
+
+将AI助手连接到加密新闻

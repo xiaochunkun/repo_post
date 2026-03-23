@@ -7,3 +7,5 @@ image: assets/rennf93_fastapi_guard_20260121_235756_357_20260121_235813_e78ccf.p
 # [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard)
 
 Middleware for IP control and penetration detection
+
+用于IP控制和渗透检测的中间件

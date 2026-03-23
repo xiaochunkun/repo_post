@@ -7,3 +7,5 @@ image: assets/ahmedmigo_AgentRadar_20260308_200826_230_20260308_201003_69f9fd.pn
 # [ahmedmigo/AgentRadar](https://github.com/ahmedmigo/AgentRadar)
 
 Monitors AI coding agents from the macOS menu bar
+
+从macOS菜单栏监控AI编码代理

@@ -7,3 +7,5 @@ image: assets/20250825T025313720--LHRUN--paint-board--20250825T030308477--croppe
 # [LHRUN/paint-board](https://github.com/LHRUN/paint-board)
 
 multi-device drawing board with creative brushes
+
+多设备绘图板，内含创意画笔

@@ -7,3 +7,5 @@ image: assets/Piebald_AI_awesome_gemini_cli_20251221_181240_611_20251221_181257_
 # [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli/)
 
 Agentic developer experience for Gemini CLI
+
+Gemini CLI 的代理式开发者体验

@@ -7,3 +7,5 @@ image: assets/broady_claude2stream_20260113_084412_515_20260113_084425_304a96.pn
 # [broady/claude2stream](https://github.com/broady/claude2stream)
 
 Streams Claude history to a web UI
+
+将 Claude 历史记录流式传输到 Web UI

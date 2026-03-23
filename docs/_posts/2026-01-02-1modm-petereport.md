@@ -7,3 +7,5 @@ image: assets/1modm_petereport_20260101_225913_229_20260101_225929_8d85b6.png
 # [1modm/petereport](https://github.com/1modm/petereport/)
 
 Generates pentesting reports from findings in Markdown
+
+从Markdown发现生成渗透测试报告

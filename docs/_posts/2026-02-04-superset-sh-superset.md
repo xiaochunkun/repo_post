@@ -7,3 +7,5 @@ image: assets/superset_sh_superset_20260202_223116_671_20260202_223142_d3c871.pn
 # [superset-sh/superset](https://github.com/superset-sh/superset)
 
 Terminal for orchestrating coding agents
+
+编排编码代理的终端

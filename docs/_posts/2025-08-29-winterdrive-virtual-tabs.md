@@ -7,3 +7,5 @@ image: assets/20250829T041719134--winterdrive--virtual-tabs--20250829T042249608-
 # [winterdrive/virtual-tabs](https://github.com/winterdrive/virtual-tabs)
 
 organize VS Code files into custom groups, not just folders
+
+VS Code 文件自定义分组，不局限于文件夹

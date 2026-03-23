@@ -7,3 +7,5 @@ image: assets/rajnandan1_kener_cropped.png
 # [rajnandan1/kener](https://github.com/rajnandan1/kener)
 
 Status page system using SvelteKit and NodeJS for monitoring incidents and outages
+
+使用 SvelteKit 和 NodeJS 的状态页面系统，用于监控事件和中断

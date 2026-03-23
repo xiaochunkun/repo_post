@@ -7,3 +7,5 @@ image: assets/1modm_petereport_20260308_170423_852_20260308_170628_b20123.png
 # [1modm/petereport](https://github.com/1modm/petereport)
 
 Generates vulnerability reports for pentesting and redteaming
+
+为渗透测试和红队生成漏洞报告

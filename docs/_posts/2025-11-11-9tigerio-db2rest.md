@@ -7,3 +7,5 @@ image: assets/9tigerio_db2rest_20251110_161900_175_20251111_014900_0856e8--20251
 # [9tigerio/db2rest](https://github.com/9tigerio/db2rest/)
 
 Automatically creates a secure REST API for databases
+
+为数据库自动创建安全的REST API

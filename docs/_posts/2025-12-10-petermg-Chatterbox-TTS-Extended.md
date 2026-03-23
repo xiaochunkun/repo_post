@@ -7,3 +7,5 @@ image: assets/petermg_Chatterbox_TTS_Extended_20251207_234836_985_20251207_23485
 # [petermg/Chatterbox-TTS-Extended](https://github.com/petermg/Chatterbox-TTS-Extended/)
 
 Power-user TTS pipeline for speech synthesis and voice conversion
+
+用于语音合成和转换的高级TTS管道

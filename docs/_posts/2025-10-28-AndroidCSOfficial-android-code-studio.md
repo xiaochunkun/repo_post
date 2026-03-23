@@ -7,3 +7,5 @@ image: assets/AndroidCSOfficial_android_code_studio_20251027_191409_920_20251028
 # [AndroidCSOfficial/android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio/)
 
 Develop Android apps on an Android device
+
+在 Android 设备上开发 Android 应用

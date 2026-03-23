@@ -7,3 +7,5 @@ image: assets/20250912T003339828--encoredev--encore--20250912T003856621--cropped
 # [encoredev/encore](https://github.com/encoredev/encore)
 
 framework for building type-safe distributed systems with code-defined infrastructure
+
+用代码定义基础设施构建类型安全分布式系统的框架

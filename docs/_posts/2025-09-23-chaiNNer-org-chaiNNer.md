@@ -7,3 +7,5 @@ image: assets/20250923T022503339--chaiNNer-org--chaiNNer--20250923T023131505--cr
 # [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
 node-based tool for customizable image processing workflows
+
+基于节点的工具，用于可定制的图像处理工作流

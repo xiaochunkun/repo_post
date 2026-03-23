@@ -7,3 +7,5 @@ image: assets/PatrickJS_awesome-cursorrules_cropped.png
 # [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 
 Cursor AI rules repository
+
+Cursor AI 规则仓库

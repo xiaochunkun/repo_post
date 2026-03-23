@@ -7,3 +7,5 @@ image: assets/0xbitx_DEDSEC_WI_FIDAR_20260102_084640_960_20260102_084656_64101b.
 # [0xbitx/DEDSEC_WI-FIDAR](https://github.com/0xbitx/DEDSEC_WI-FIDAR/)
 
 Maps networks and estimates distances
+
+映射网络并估算距离

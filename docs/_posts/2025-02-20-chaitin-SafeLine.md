@@ -7,3 +7,5 @@ image: assets/chaitin_SafeLine_cropped.png
 # [chaitin/SafeLine](https://github.com/chaitin/SafeLine)
 
 Open-source web application firewall
+
+开源Web应用防火墙

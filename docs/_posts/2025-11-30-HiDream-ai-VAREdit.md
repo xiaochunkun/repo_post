@@ -7,3 +7,5 @@ image: assets/HiDream_ai_VAREdit_20251127_194722_413_20251130_082715_706440--202
 # [HiDream-ai/VAREdit](https://github.com/HiDream-ai/VAREdit/)
 
 Instruction-based image editing using autoregressive models
+
+使用自回归模型进行基于指令的图像编辑

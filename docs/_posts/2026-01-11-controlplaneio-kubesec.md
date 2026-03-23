@@ -7,3 +7,5 @@ image: assets/controlplaneio_kubesec_20260111_033012_940_20260111_033034_b01e25.
 # [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)
 
 Scans Kubernetes resources for security risks
+
+扫描Kubernetes资源以查找安全风险

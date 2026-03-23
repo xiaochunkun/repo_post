@@ -7,3 +7,5 @@ image: assets/20250915T203301371--Dao-AILab--flash-attention--20250918T031309151
 # [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)
 
 fast attention algorithm for transformers, boosts speed and memory efficiency
+
+用于 Transformer 的快速注意力算法，提升速度和内存效率

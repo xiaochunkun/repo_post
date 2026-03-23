@@ -7,3 +7,5 @@ image: assets/catppuccin_nvim_20251215_010232_479_20251215_010312_8e598a.png
 # [catppuccin/nvim](https://github.com/catppuccin/nvim/)
 
 Theme port for Vim and Neovim
+
+Vim和Neovim的主题移植

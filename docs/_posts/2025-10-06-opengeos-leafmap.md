@@ -7,3 +7,5 @@ image: assets/20251005T225545856--opengeos--leafmap--20251005T230313582--cropped
 # [opengeos/leafmap](https://github.com/opengeos/leafmap)
 
 Python tools for interactive geospatial mapping and analysis in Jupyter
+
+用于 Jupyter 中交互式地理空间映射和分析的 Python 工具

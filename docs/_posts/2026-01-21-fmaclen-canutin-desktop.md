@@ -7,3 +7,5 @@ image: assets/fmaclen_canutin_desktop_20260120_181204_912_20260120_181220_5f22f6
 # [fmaclen/canutin-desktop](https://github.com/fmaclen/canutin-desktop)
 
 Personal finance app with local data storage
+
+本地数据存储的个人财务应用

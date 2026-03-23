@@ -7,3 +7,5 @@ image: assets/SideStore_SideStore_cropped.png
 # [SideStore/SideStore](https://github.com/SideStore/SideStore)
 
 install iOS apps outside the App Store
+
+在 App Store 外安装 iOS 应用

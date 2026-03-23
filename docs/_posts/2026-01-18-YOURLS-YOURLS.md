@@ -7,3 +7,5 @@ image: assets/YOURLS_YOURLS_20260116_115606_378_20260116_115620_f346b9.png
 # [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS)
 
 PHP scripts for self-hosted URL shorteners
+
+自托管URL缩短器的PHP脚本

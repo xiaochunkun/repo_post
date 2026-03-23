@@ -7,3 +7,5 @@ image: assets/alangrainger_obsidian_lazy_plugins_20251207_195415_378_20251207_19
 # [alangrainger/obsidian-lazy-plugins](https://github.com/alangrainger/obsidian-lazy-plugins/)
 
 Delays plugin loading to speed up Obsidian startup
+
+延迟插件加载以加速Obsidian启动

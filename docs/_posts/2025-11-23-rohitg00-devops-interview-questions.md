@@ -7,3 +7,5 @@ image: assets/rohitg00_devops_interview_questions_20251122_190526_598_20251123_0
 # [rohitg00/devops-interview-questions](https://github.com/rohitg00/devops-interview-questions/)
 
 Questions covering Docker, Kubernetes, and CI/CD
+
+涵盖Docker、Kubernetes和CI/CD的问题

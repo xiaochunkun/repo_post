@@ -7,3 +7,5 @@ image: assets/srbhptl39_MCP_SuperAssistant_20260309_143321_031_20260309_143543_7
 # [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant)
 
 Integrates Model Context Protocol tools into AI assistants
+
+将Model Context Protocol工具集成到AI助手

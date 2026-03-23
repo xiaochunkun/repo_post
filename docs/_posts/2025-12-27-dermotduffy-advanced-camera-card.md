@@ -7,3 +7,5 @@ image: assets/dermotduffy_advanced_camera_card_20251226_052019_880_20251226_0520
 # [dermotduffy/advanced-camera-card](https://github.com/dermotduffy/advanced-camera-card/)
 
 Camera card for Home Assistant with live viewing and media gallery
+
+Home Assistant 的摄像头卡片，支持实时查看和媒体库

@@ -7,3 +7,5 @@ image: assets/abhixdd_UptimeKit_CLI_20251225_232516_924_20251225_232534_f6eb9c.p
 # [abhixdd/UptimeKit-CLI](https://github.com/abhixdd/UptimeKit-CLI/)
 
 Terminal interface for monitoring websites and APIs
+
+监控网站和 API 的终端界面

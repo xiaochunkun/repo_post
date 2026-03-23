@@ -7,3 +7,5 @@ image: assets/20251010T065430561--HaveAGitGat--Tdarr--20251010T070826732--croppe
 # [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
 
 automates video library transcoding and management across multiple devices
+
+跨设备自动化视频库转码与管理

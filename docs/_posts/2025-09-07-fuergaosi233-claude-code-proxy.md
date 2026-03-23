@@ -7,3 +7,5 @@ image: assets/20250906T031223901--fuergaosi233--claude-code-proxy--20250906T0314
 # [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy)
 
 lets Claude Code use OpenAI-compatible APIs
+
+让 Claude Code 使用 OpenAI 兼容 API

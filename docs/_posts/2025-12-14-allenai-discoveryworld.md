@@ -7,3 +7,5 @@ image: assets/allenai_discoveryworld_20251213_022916_835_20251213_023023_889d95.
 # [allenai/discoveryworld](https://github.com/allenai/discoveryworld/)
 
 Virtual environment for evaluating scientific discovery agents
+
+用于评估科学发现代理的虚拟环境

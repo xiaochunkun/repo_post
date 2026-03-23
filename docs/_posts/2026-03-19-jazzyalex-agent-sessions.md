@@ -7,3 +7,5 @@ image: assets/jazzyalex_agent_sessions_20260319_040227_714_20260319_040418_cc566
 # [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions)
 
 Local-first session browser for coding tools
+
+用于编码工具的本地优先会话浏览器

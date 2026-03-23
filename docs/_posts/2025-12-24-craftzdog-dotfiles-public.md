@@ -7,3 +7,5 @@ image: assets/craftzdog_dotfiles_public_20251223_055351_195_20251223_055407_3f0d
 # [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public/)
 
 Configuration files for Neovim, tmux, and fish shell
+
+Neovim、tmux和fish shell的配置文件

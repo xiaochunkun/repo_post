@@ -7,3 +7,5 @@ image: assets/janhesters_shadcn_kanban_board_20251209_024036_329_20251209_024107
 # [janhesters/shadcn-kanban-board](https://github.com/janhesters/shadcn-kanban-board/)
 
 Kanban board for Shadcn/UI applications
+
+Shadcn/UI 应用的看板工具

@@ -7,3 +7,5 @@ image: assets/C0dwiz_aassh_20251209_011517_757_20251209_011540_2e5e26.png
 # [C0dwiz/aassh](https://github.com/C0dwiz/aassh/)
 
 SSH connection manager with Mosh support
+
+支持Mosh的SSH连接管理器

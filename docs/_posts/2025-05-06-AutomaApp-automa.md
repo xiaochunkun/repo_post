@@ -7,3 +7,5 @@ image: assets/AutomaApp_automa_cropped.png
 # [AutomaApp/automa](https://github.com/AutomaApp/automa)
 
 browser extension for automating tasks by connecting blocks
+
+通过连接块来自动化任务的浏览器扩展

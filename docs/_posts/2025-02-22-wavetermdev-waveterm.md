@@ -7,3 +7,5 @@ image: assets/wavetermdev_waveterm_cropped.png
 # [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 
 Open-source terminal with graphical features
+
+具有图形功能的开源终端

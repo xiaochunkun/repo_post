@@ -7,3 +7,5 @@ image: assets/transformerlab_transformerlab-app_cropped.png
 # [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app)
 
 open source app to run, train, and tune large language models on your computer
+
+在计算机上运行、训练和调优大语言模型的开源应用

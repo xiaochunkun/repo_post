@@ -7,3 +7,5 @@ image: assets/EcoPasteHub_EcoPaste_cropped.png
 # [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste)
 
 clipboard manager for Windows, macOS, Linux
+
+适用于 Windows、macOS、Linux 的剪贴板管理器

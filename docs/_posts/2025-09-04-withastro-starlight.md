@@ -7,3 +7,5 @@ image: assets/20250903T023737480--withastro--starlight--20250903T024711925--crop
 # [withastro/starlight](https://github.com/withastro/starlight)
 
 Astro Starlight for building docs sites
+
+用 Astro Starlight 构建文档网站

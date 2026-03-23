@@ -7,3 +7,5 @@ image: assets/eigenmiao_Rickrack_20251114_052108_949_20251114_162511_59edb7--202
 # [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack/)
 
 Desktop color palette generator that creates schemes from images
+
+从图像生成配色方案的桌面调色板工具

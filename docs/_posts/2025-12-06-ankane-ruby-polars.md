@@ -7,3 +7,5 @@ image: assets/ankane_ruby_polars_20251203_003847_877_20251203_003923_4cacf2.png
 # [ankane/ruby-polars](https://github.com/ankane/ruby-polars/)
 
 DataFrames for Ruby powered by Polars
+
+基于Polars的Ruby数据框架

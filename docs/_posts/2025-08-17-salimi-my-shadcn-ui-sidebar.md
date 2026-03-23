@@ -7,3 +7,5 @@ image: assets/salimi-my_shadcn-ui-sidebar--20250816T050927803--cropped.png
 # [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar)
 
 nextjs sidebar component with shadcn/ui and tailwind
+
+使用 shadcn/ui 和 Tailwind 的 Next.js 侧边栏组件

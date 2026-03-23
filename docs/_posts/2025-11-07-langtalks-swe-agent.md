@@ -7,3 +7,5 @@ image: assets/langtalks_swe_agent_20251106_163821_295_20251106_174547_df910b--20
 # [langtalks/swe-agent](https://github.com/langtalks/swe-agent/)
 
 Automates code implementation with planning and execution
+
+通过规划和执行自动化代码实现

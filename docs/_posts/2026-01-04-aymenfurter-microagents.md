@@ -7,3 +7,5 @@ image: assets/aymenfurter_microagents_20260103_041532_611_20260103_041549_0768e0
 # [aymenfurter/microagents](https://github.com/aymenfurter/microagents/)
 
 Generates self-improving agents for tasks
+
+为任务生成自我改进的代理

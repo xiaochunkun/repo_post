@@ -7,3 +7,5 @@ image: assets/instructa_browser_echo_20251111_024417_587_20251111_145046_541fd9-
 # [instructa/browser-echo](https://github.com/instructa/browser-echo/)
 
 Read client-side logs in a coding agent
+
+在编码代理中读取客户端日志

@@ -7,3 +7,5 @@ image: assets/20250830T152828287--modelscope--DiffSynth-Studio--20250830T1531009
 # [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 
 open-source diffusion engine for AI image and video generation
+
+开源扩散模型引擎，用于 AI 图像和视频生成

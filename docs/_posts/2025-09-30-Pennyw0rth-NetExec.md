@@ -7,3 +7,5 @@ image: assets/20250930T033423666--Pennyw0rth--NetExec--20250930T034323116--cropp
 # [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)
 
 network security tool for automating internal assessments and command execution
+
+用于自动化内部评估和命令执行的网络安全工具

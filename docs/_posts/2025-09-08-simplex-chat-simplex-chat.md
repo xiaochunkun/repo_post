@@ -7,3 +7,5 @@ image: assets/20250907T194003425--simplex-chat--simplex-chat--20250907T194407117
 # [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 
 messaging app with no user identifiers, privacy by design
+
+无用户标识的通讯应用，隐私优先设计

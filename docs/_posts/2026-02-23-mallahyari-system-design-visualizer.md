@@ -7,3 +7,5 @@ image: assets/mallahyari_system_design_visualizer_20260221_230006_114_20260221_2
 # [mallahyari/system-design-visualizer](https://github.com/mallahyari/system-design-visualizer)
 
 Converts system design images into Mermaid diagrams and React Flow graphs
+
+将系统设计图像转换为 Mermaid 图表和 React Flow 图

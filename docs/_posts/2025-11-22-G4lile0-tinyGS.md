@@ -7,3 +7,5 @@ image: assets/G4lile0_tinyGS_20251121_135858_889_20251122_045955_256344--2025112
 # [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS/)
 
 Ground station network for LoRa satellites
+
+LoRa 卫星的地面站网络

@@ -7,3 +7,5 @@ image: assets/Serial_Studio_Serial_Studio_20260212_062947_380_20260212_063013_a8
 # [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio)
 
 Visualizes telemetry data from embedded devices in real-time
+
+实时可视化嵌入式设备的遥测数据

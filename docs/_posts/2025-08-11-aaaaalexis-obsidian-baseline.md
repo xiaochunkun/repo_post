@@ -7,3 +7,5 @@ image: assets/aaaaalexis_obsidian-baseline_cropped.png
 # [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline)
 
 minimal Obsidian theme with clean look and easy migration
+
+简洁外观、易于迁移的极简 Obsidian 主题

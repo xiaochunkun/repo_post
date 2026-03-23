@@ -7,3 +7,5 @@ image: assets/Alfredredbird_tookie_osint_20260318_210931_674_20260318_211030_3b3
 # [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint)
 
 Discovers usernames across websites
+
+跨网站发现用户名

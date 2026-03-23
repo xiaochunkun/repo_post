@@ -7,3 +7,5 @@ image: assets/frangoteam_FUXA_20260305_171651_837_20260305_171904_a3288f.png
 # [frangoteam/FUXA](https://github.com/frangoteam/FUXA)
 
 Visualize industrial processes via web browsers
+
+通过网页浏览器可视化工业流程

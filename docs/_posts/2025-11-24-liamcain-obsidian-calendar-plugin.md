@@ -7,3 +7,5 @@ image: assets/liamcain_obsidian_calendar_plugin_20251123_174627_722_20251124_095
 # [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin/)
 
 Calendar view for Obsidian daily notes
+
+Obsidian 每日笔记的日历视图

@@ -7,3 +7,5 @@ image: assets/20250820T141819747_epicenter-so_epicenter--20250820T142033499--cro
 # [epicenter-so/epicenter](https://github.com/epicenter-so/epicenter)
 
 open-source local-first workspace for your notes, chats, and transcripts
+
+开源本地优先工作区，管理笔记、对话和转录

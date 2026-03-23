@@ -7,3 +7,5 @@ image: assets/20250912T002221218--goldmansachs--gs-quant--20250912T002747128--cr
 # [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)
 
 Python toolkit for quantitative finance and trading strategy development
+
+量化金融和交易策略开发的 Python 工具包

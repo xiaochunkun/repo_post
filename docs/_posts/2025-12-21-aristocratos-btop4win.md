@@ -7,3 +7,5 @@ image: assets/aristocratos_btop4win_20251219_031509_321_20251219_031526_a00c32.p
 # [aristocratos/btop4win](https://github.com/aristocratos/btop4win/)
 
 Resource monitor for Windows in C++
+
+C++ 编写的 Windows 资源监控器

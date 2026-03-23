@@ -7,3 +7,5 @@ image: assets/SaynaAI_sayna_20251227_034606_995_20251227_034624_3090ba.png
 # [SaynaAI/sayna](https://github.com/SaynaAI/sayna/)
 
 Voice layer for AI agents
+
+AI 智能体的语音层

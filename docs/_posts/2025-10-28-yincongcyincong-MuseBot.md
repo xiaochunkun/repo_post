@@ -7,3 +7,5 @@ image: assets/yincongcyincong_MuseBot_20251027_013421_989_20251027_015031_84a358
 # [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot/)
 
 Chatbot that integrates with various LLMs and chat platforms
+
+集成多种 LLM 和聊天平台的聊天机器人

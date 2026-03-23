@@ -7,3 +7,5 @@ image: assets/ruvnet_midstream_20251216_180602_299_20251216_180625_c7fc12.png
 # [ruvnet/midstream](https://github.com/ruvnet/midstream/)
 
 LLM streaming via autonomous agents
+
+通过自主代理进行 LLM 流式处理

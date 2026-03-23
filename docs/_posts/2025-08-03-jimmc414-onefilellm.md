@@ -7,3 +7,5 @@ image: assets/jimmc414_onefilellm_cropped.png
 # [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm)
 
 combine repos, docs, videos into one file for llm
+
+将仓库、文档、视频合并为单个文件供LLM使用

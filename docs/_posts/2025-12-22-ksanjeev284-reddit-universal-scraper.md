@@ -7,3 +7,5 @@ image: assets/ksanjeev284_reddit_universal_scraper_20251221_194013_974_20251221_
 # [ksanjeev284/reddit-universal-scraper](https://github.com/ksanjeev284/reddit-universal-scraper/)
 
 Scrapes Reddit data without API keys
+
+无需 API 密钥抓取 Reddit 数据

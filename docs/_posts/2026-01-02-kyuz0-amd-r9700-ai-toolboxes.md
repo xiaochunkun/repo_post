@@ -7,3 +7,5 @@ image: assets/kyuz0_amd_r9700_ai_toolboxes_20260101_072631_706_20260101_072651_5
 # [kyuz0/amd-r9700-ai-toolboxes](https://github.com/kyuz0/amd-r9700-ai-toolboxes/)
 
 Containers for LLMs on AMD Radeon GPUs
+
+在 AMD Radeon GPU 上运行 LLM 的容器

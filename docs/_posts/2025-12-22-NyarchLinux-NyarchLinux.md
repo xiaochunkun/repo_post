@@ -7,3 +7,5 @@ image: assets/NyarchLinux_NyarchLinux_20251221_183240_216_20251221_183256_5f8689
 # [NyarchLinux/NyarchLinux](https://github.com/NyarchLinux/NyarchLinux/)
 
 Linux distribution for anime fans based on Arch Linux
+
+基于 Arch Linux 的动漫爱好者 Linux 发行版

@@ -7,3 +7,5 @@ image: assets/google_gemini_gemini_fullstack_langgraph_quickstart_20260228_19574
 # [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
 
 Research agent using LangGraph and Gemini
+
+使用 LangGraph 和 Gemini 的研究代理

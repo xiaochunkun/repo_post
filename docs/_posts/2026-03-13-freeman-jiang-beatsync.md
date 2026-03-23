@@ -7,3 +7,5 @@ image: assets/freeman_jiang_beatsync_20260212_064727_761_20260212_064803_674a48.
 # [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync)
 
 Syncs audio across devices with millisecond accuracy
+
+以毫秒精度跨设备同步音频

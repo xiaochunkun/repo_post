@@ -7,3 +7,5 @@ image: assets/20250827T221605504--gokadzev--Musify--20250827T221858316--cropped.
 # [gokadzev/Musify](https://github.com/gokadzev/Musify)
 
 open source music streaming app with offline mode and no ads
+
+开源音乐流媒体应用，支持离线和无广告

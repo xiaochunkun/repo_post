@@ -7,3 +7,5 @@ image: assets/giovapanasiti_active_canvas_20260309_180159_012_20260309_180358_c3
 # [giovapanasiti/active_canvas](https://github.com/giovapanasiti/active_canvas)
 
 Rails engine for CMS with drag-and-drop editor and AI content generation
+
+Rails 引擎，用于 CMS，带拖放编辑器和 AI 内容生成

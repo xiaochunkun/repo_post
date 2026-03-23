@@ -7,3 +7,5 @@ image: assets/neural_maze_realtime_phone_agents_course_20260221_070724_067_20260
 # [neural-maze/realtime-phone-agents-course](https://github.com/neural-maze/realtime-phone-agents-course)
 
 Builds phone call centers with voice agents
+
+使用语音代理构建电话呼叫中心

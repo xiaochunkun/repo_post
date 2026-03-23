@@ -7,3 +7,5 @@ image: assets/20250927T040109734--LonamiWebs--Telethon--20250927T041101019--crop
 # [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
 
 Python library for building Telegram clients and bots
+
+用于构建Telegram客户端和机器人的Python库

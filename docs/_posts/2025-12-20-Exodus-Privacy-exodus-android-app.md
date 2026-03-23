@@ -7,3 +7,5 @@ image: assets/Exodus_Privacy_exodus_android_app_20251218_040035_800_20251218_040
 # [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app/)
 
 Identifies trackers and permissions in apps
+
+识别应用中的追踪器和权限

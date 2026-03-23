@@ -7,3 +7,5 @@ image: assets/1038lab_ComfyUI_QwenVL_20251105_141923_463_20251105_210826_ea0687-
 # [1038lab/ComfyUI-QwenVL](https://github.com/1038lab/ComfyUI-QwenVL/)
 
 Integrates vision-language models into ComfyUI
+
+将视觉语言模型集成到 ComfyUI

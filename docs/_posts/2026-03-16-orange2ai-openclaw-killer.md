@@ -7,3 +7,5 @@ image: assets/orange2ai_openclaw_killer_20260315_003819_320_20260315_003930_a716
 # [orange2ai/openclaw-killer](https://github.com/orange2ai/openclaw-killer)
 
 One-click uninstaller for OpenClaw
+
+一键卸载 OpenClaw 的工具

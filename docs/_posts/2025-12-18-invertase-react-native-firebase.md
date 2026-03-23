@@ -7,3 +7,5 @@ image: assets/invertase_react_native_firebase_20251217_112511_989_20251217_11253
 # [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase/)
 
 Connects React Native apps to Firebase services
+
+将 React Native 应用连接到 Firebase 服务

@@ -7,3 +7,5 @@ image: assets/gta_reversed_gta_reversed_20251118_181432_707_20251119_235941_be83
 # [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed/)
 
 Reverse engineering of Grand Theft Auto San Andreas
+
+《侠盗猎车手：圣安地列斯》的反向工程

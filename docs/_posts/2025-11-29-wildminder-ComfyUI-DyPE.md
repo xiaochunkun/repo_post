@@ -7,3 +7,5 @@ image: assets/wildminder_ComfyUI_DyPE_20251126_112157_803_20251129_022644_44e342
 # [wildminder/ComfyUI-DyPE](https://github.com/wildminder/ComfyUI-DyPE/)
 
 Generates 4K images with FLUX models
+
+使用 FLUX 模型生成 4K 图像

@@ -7,3 +7,5 @@ image: assets/fpgaminer_joycaption_20251025_044531_583_20251025_085212_e0bdac--2
 # [fpgaminer/joycaption](https://github.com/fpgaminer/joycaption/)
 
 Uncensored image captioning model
+
+无审查的图像字幕模型

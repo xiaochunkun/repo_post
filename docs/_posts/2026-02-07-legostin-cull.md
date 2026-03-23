@@ -7,3 +7,5 @@ image: assets/legostin_cull_20260205_102825_514_20260205_102924_bd7508.png
 # [legostin/cull](https://github.com/legostin/cull)
 
 Scans directories and deletes files from the terminal
+
+扫描目录并从终端删除文件

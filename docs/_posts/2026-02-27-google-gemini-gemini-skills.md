@@ -7,3 +7,5 @@ image: assets/google_gemini_gemini_skills_20260224_134229_212_20260224_134252_d8
 # [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills)
 
 Adds context to Gemini agents
+
+为Gemini智能体添加上下文

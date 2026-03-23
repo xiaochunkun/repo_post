@@ -7,3 +7,5 @@ image: assets/jmanhype_DSPy-Multi-Document-Agents--20250813T000752--cropped.png
 # [jmanhype/DSPy-Multi-Document-Agents](https://github.com/jmanhype/DSPy-Multi-Document-Agents)
 
 multi-document agents for smarter document querying with DSPy and Qdrant
+
+使用 DSPy 和 Qdrant 实现更智能文档查询的多文档代理

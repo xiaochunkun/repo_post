@@ -7,3 +7,5 @@ image: assets/anthropics_claude_agent_sdk_demos_20251228_091720_400_20251228_091
 # [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos/)
 
 Demos for building AI agents with Claude
+
+使用 Claude 构建 AI 代理的演示

@@ -7,3 +7,5 @@ image: assets/joylarkin_Awesome_AI_Market_Maps_20260209_010616_267_20260209_0106
 # [joylarkin/Awesome-AI-Market-Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps)
 
 Collection of 400 AI market maps from VCs and analysts
+
+收集 400 个来自 VC 和分析师的 AI 市场地图

@@ -7,3 +7,5 @@ image: assets/JasonRobertDestiny_WeFinance_20251228_054322_615_20251228_054339_5
 # [JasonRobertDestiny/WeFinance](https://github.com/JasonRobertDestiny/WeFinance/)
 
 Extracts financial data from bill images using vision models
+
+使用视觉模型从账单图像提取金融数据

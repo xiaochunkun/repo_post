@@ -7,3 +7,5 @@ image: assets/20251014T012037577--hamsterbase--tasks--20251014T013719329--croppe
 # [hamsterbase/tasks](https://github.com/hamsterbase/tasks)
 
 self-hosted task manager with offline sync and end-to-end encryption
+
+自托管任务管理器，支持离线同步和端到端加密

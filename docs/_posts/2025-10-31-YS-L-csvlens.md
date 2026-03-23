@@ -7,3 +7,5 @@ image: assets/YS_L_csvlens_20251031_004341_149_20251031_012749_acad03--20251031T
 # [YS-L/csvlens](https://github.com/YS-L/csvlens/)
 
 Command line CSV viewer like `less`
+
+类似 `less` 的命令行 CSV 查看器

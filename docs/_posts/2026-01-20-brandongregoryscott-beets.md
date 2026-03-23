@@ -7,3 +7,5 @@ image: assets/brandongregoryscott_beets_20260119_142915_994_20260119_143004_d2b7
 # [brandongregoryscott/beets](https://github.com/brandongregoryscott/beets)
 
 React DAW for music production in a browser
+
+浏览器中的React DAW音乐制作工具

@@ -7,3 +7,5 @@ image: assets/PartialVolume_shredos_x86_64_20251223_101023_318_20251223_101041_5
 # [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64/)
 
 Erases disks on computers via USB
+
+通过 USB 擦除计算机磁盘

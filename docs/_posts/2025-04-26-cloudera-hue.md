@@ -7,3 +7,5 @@ image: assets/cloudera_hue_cropped.png
 # [cloudera/hue](https://github.com/cloudera/hue)
 
 SQL query assistant for databases and data warehouses
+
+用于数据库和数据仓库的SQL查询助手

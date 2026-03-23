@@ -7,3 +7,5 @@ image: assets/Dashibase_dashibase_20260116_103425_381_20260116_103438_f7f201.png
 # [Dashibase/dashibase](https://github.com/Dashibase/dashibase)
 
 Builds Supabase dashboards from JSON config files
+
+从 JSON 配置文件构建 Supabase 仪表板

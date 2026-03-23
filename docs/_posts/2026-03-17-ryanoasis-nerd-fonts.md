@@ -7,3 +7,5 @@ image: assets/ryanoasis_nerd_fonts_20260316_173952_143_20260316_174016_ee7242.pn
 # [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 
 Patches developer fonts with icon glyphs
+
+为开发者字体添加图标字形补丁

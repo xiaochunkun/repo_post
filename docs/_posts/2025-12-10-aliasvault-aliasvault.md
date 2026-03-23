@@ -7,3 +7,5 @@ image: assets/aliasvault_aliasvault_20251207_220018_805_20251207_220051_5978eb.p
 # [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault/)
 
 Password and email alias manager for self-hosting
+
+自托管的密码和邮箱别名管理器

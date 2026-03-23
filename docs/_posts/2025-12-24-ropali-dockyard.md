@@ -7,3 +7,5 @@ image: assets/ropali_dockyard_20251222_201635_883_20251222_201658_57b791.png
 # [ropali/dockyard](https://github.com/ropali/dockyard/)
 
 Docker client for Linux built with Rust and Tauri
+
+使用Rust和Tauri构建的Linux版Docker客户端

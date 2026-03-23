@@ -7,3 +7,5 @@ image: assets/20250818T122610872_BornToBeRoot_NETworkManager--20250818T123152970
 # [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
 
 open source tool for managing and troubleshooting networks
+
+管理和故障排除网络的开源工具

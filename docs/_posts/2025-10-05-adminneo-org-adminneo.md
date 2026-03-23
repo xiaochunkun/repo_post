@@ -7,3 +7,5 @@ image: assets/20251005T003147355--adminneo-org--adminneo--20251005T003719788--cr
 # [adminneo-org/adminneo](https://github.com/adminneo-org/adminneo)
 
 single-file PHP tool for managing databases like MySQL, PostgreSQL, SQLite, and more
+
+单文件PHP工具，用于管理MySQL、PostgreSQL、SQLite等数据库

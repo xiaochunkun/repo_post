@@ -7,3 +7,5 @@ image: assets/steilerDev_icloud_photos_sync_20260120_060137_574_20260120_060159_
 # [steilerDev/icloud-photos-sync](https://github.com/steilerDev/icloud-photos-sync)
 
 Syncs iCloud Photos to the local file system
+
+将 iCloud Photos 同步到本地文件系统

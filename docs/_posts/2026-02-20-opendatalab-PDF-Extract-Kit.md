@@ -7,3 +7,5 @@ image: assets/opendatalab_PDF_Extract_Kit_20260202_232155_703_20260202_232256_8b
 # [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
 
 Extracts layout, formulas, and tables from documents
+
+从文档中提取布局、公式和表格

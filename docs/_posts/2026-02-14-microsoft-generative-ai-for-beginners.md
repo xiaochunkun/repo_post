@@ -7,3 +7,5 @@ image: assets/microsoft_generative_ai_for_beginners_20260209_005550_486_20260209
 # [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
 Curriculum for building generative AI applications
+
+构建生成式 AI 应用的课程

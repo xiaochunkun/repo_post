@@ -7,3 +7,5 @@ image: assets/strands_agents_tools_20251031_003937_852_20251031_012729_4d9ddd--2
 # [strands-agents/tools](https://github.com/strands-agents/tools/)
 
 Model-driven framework for building AI agents
+
+构建 AI 代理的模型驱动框架

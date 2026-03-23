@@ -7,3 +7,5 @@ image: assets/digitalocean_prometheus-client-c_cropped.png
 # [digitalocean/prometheus-client-c](https://github.com/digitalocean/prometheus-client-c)
 
 Prometheus client library for C programs
+
+用于C程序的Prometheus客户端库

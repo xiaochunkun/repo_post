@@ -7,3 +7,5 @@ image: assets/PreviousAlone_Nnngram_20260105_041653_887_20260105_041711_68fd74.p
 # [PreviousAlone/Nnngram](https://github.com/PreviousAlone/Nnngram/)
 
 Telegram client without ads or tracking
+
+无广告或追踪的 Telegram 客户端

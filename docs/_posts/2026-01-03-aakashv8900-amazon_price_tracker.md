@@ -7,3 +7,5 @@ image: assets/aakashv8900_amazon_price_tracker_20260102_145142_888_20260102_1451
 # [aakashv8900/amazon_price_tracker](https://github.com/aakashv8900/amazon_price_tracker/)
 
 Monitors Amazon prices and sends email alerts
+
+监控Amazon价格并发送邮件提醒

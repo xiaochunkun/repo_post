@@ -7,3 +7,5 @@ image: assets/tborychowski_self_hosted_cookbook_20251118_191605_817_20251120_003
 # [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook/)
 
 Collection of docker-compose recipes for self-hosting
+
+自托管docker-compose配方集合

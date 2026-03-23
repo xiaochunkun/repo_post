@@ -7,3 +7,5 @@ image: assets/cogwheel0_conduit_20260129_114622_012_20260129_114709_cd56f9.png
 # [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
 
 Mobile client for OpenWebUI
+
+OpenWebUI 的移动客户端

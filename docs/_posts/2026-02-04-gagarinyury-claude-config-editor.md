@@ -7,3 +7,5 @@ image: assets/gagarinyury_claude_config_editor_20260204_061737_839_20260204_0617
 # [gagarinyury/claude-config-editor](https://github.com/gagarinyury/claude-config-editor)
 
 GUI to manage Claude configuration files
+
+管理 Claude 配置文件的 GUI

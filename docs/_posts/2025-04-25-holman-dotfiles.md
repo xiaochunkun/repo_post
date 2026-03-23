@@ -7,3 +7,5 @@ image: assets/holman_dotfiles_cropped.png
 # [holman/dotfiles](https://github.com/holman/dotfiles)
 
 Collection of scripts and config files for setting up a Unix development environment
+
+设置Unix开发环境的脚本和配置文件集合

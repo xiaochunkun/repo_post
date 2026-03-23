@@ -7,3 +7,5 @@ image: assets/facebookresearch_meta_seal_20260113_120012_003_20260113_120030_b64
 # [facebookresearch/meta-seal](https://github.com/facebookresearch/meta-seal)
 
 Invisible watermarking for audio, image, video, and text
+
+音频、图像、视频和文本的隐形水印

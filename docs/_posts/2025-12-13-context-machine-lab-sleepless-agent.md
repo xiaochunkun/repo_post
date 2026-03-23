@@ -7,3 +7,5 @@ image: assets/context_machine_lab_sleepless_agent_20251210_034018_036_20251210_0
 # [context-machine-lab/sleepless-agent](https://github.com/context-machine-lab/sleepless-agent/)
 
 24/7 AI daemon for Claude Code CLI
+
+Claude Code CLI 的 24/7 AI 守护进程

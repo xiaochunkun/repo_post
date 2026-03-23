@@ -7,3 +7,5 @@ image: assets/audreyfeldroy_cookiecutter-pypackage_cropped.png
 # [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
 
 template for starting a Python package project
+
+启动Python包项目的模板

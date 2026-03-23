@@ -7,3 +7,5 @@ image: assets/AndrewWalsh_openapi_devtools_20260317_165234_238_20260317_165323_a
 # [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools)
 
 Generates OpenAPI specs from network requests
+
+从网络请求生成OpenAPI规范

@@ -7,3 +7,5 @@ image: assets/juftin_homelab_20260214_165546_494_20260214_165717_922776.png
 # [juftin/homelab](https://github.com/juftin/homelab)
 
 Deploys services via docker compose profiles
+
+通过 docker compose 配置文件部署服务

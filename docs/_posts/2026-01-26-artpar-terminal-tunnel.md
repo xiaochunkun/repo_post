@@ -7,3 +7,5 @@ image: assets/artpar_terminal_tunnel_20260113_211148_429_20260113_211222_15d511.
 # [artpar/terminal-tunnel](https://github.com/artpar/terminal-tunnel)
 
 Shares terminals via peer-to-peer encryption
+
+点对点加密终端共享工具

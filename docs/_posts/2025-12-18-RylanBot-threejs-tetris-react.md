@@ -7,3 +7,5 @@ image: assets/RylanBot_threejs_tetris_react_20251217_175209_259_20251217_175229_
 # [RylanBot/threejs-tetris-react](https://github.com/RylanBot/threejs-tetris-react/)
 
 3D Tetris game built with React and Three.js
+
+使用 React 和 Three.js 构建的 3D 俄罗斯方块游戏

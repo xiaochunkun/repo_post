@@ -7,3 +7,5 @@ image: assets/persts_DotDotGoose_20260111_045201_576_20260111_045216_9136d3.png
 # [persts/DotDotGoose](https://github.com/persts/DotDotGoose)
 
 Tool for counting objects in images to create training data
+
+统计图像对象以创建训练数据的工具

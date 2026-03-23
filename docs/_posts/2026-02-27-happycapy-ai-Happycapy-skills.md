@@ -7,3 +7,5 @@ image: assets/happycapy_ai_Happycapy_skills_20260217_154159_396_20260217_154226_
 # [happycapy-ai/Happycapy-skills](https://github.com/happycapy-ai/Happycapy-skills)
 
 Skills for Claude Code development workflows
+
+Claude Code开发工作流程的技能

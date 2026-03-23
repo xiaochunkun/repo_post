@@ -7,3 +7,5 @@ image: assets/20250917T005703289--melontini--bootloader-unlock-wall-of-shame--20
 # [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 
 tracking companies that block bootloader unlocking
+
+追踪阻止引导加载程序解锁的公司

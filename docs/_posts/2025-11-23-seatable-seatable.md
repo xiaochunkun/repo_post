@@ -7,3 +7,5 @@ image: assets/seatable_seatable_20251123_033404_021_20251123_213435_bf829b--2025
 # [seatable/seatable](https://github.com/seatable/seatable/)
 
 Spreadsheet database with automation and SQL
+
+带自动化和SQL的电子表格数据库

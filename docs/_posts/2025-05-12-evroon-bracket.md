@@ -7,3 +7,5 @@ image: assets/evroon_bracket_cropped.png
 # [evroon/bracket](https://github.com/evroon/bracket)
 
 selfhosted tournament system for running and managing competitions
+
+自托管锦标赛系统，用于运行和管理比赛

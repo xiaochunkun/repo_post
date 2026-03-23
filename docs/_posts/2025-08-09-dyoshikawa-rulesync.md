@@ -7,3 +7,5 @@ image: assets/dyoshikawa_rulesync_cropped.png
 # [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync)
 
 sync AI assistant rule files across projects
+
+跨项目同步AI助手规则文件

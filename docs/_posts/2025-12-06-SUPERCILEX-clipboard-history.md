@@ -7,3 +7,5 @@ image: assets/SUPERCILEX_clipboard_history_20251203_012553_370_20251203_012620_7
 # [SUPERCILEX/clipboard-history](https://github.com/SUPERCILEX/clipboard-history/)
 
 Clipboard manager for Linux with client-server architecture
+
+采用客户端-服务器架构的Linux剪贴板管理器

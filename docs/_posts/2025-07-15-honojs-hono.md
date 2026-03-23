@@ -7,3 +7,5 @@ image: assets/honojs_hono_cropped.png
 # [honojs/hono](https://github.com/honojs/hono)
 
 ultrafast web framework for building APIs and apps
+
+用于构建API和应用的超快速Web框架

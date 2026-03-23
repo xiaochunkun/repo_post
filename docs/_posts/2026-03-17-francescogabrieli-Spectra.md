@@ -7,3 +7,5 @@ image: assets/francescogabrieli_Spectra_20260316_171910_600_20260316_171933_df69
 # [francescogabrieli/Spectra](https://github.com/francescogabrieli/Spectra)
 
 Local-first finance dashboard from bank exports
+
+从银行导出构建的本地优先财务仪表板

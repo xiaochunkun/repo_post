@@ -7,3 +7,5 @@ image: assets/20250906T025958245--Tencent-Hunyuan--HunyuanWorld-Voyager--2025090
 # [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
 
 turns images into 3D-consistent videos with camera control
+
+将图像转换为 3D 一致性视频，支持镜头控制

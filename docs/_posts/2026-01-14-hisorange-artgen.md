@@ -7,3 +7,5 @@ image: assets/hisorange_artgen_20260113_065016_081_20260113_065030_679148.png
 # [hisorange/artgen](https://github.com/hisorange/artgen)
 
 Headless CMS with visual data modeller
+
+带可视化数据建模器的无头 CMS

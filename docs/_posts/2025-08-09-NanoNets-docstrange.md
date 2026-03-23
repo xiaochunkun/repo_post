@@ -7,3 +7,5 @@ image: assets/NanoNets_docstrange_cropped.png
 # [NanoNets/docstrange](https://github.com/NanoNets/docstrange)
 
 extracts data from any document to markdown, csv, json, html
+
+从任何文档提取数据到 Markdown、CSV、JSON、HTML

@@ -7,3 +7,5 @@ image: assets/lukas_krecan_ShedLock_20251207_194738_959_20251207_194813_991388.p
 # [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock/)
 
 Ensures scheduled tasks run once
+
+确保计划任务仅运行一次

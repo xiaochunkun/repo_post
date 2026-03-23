@@ -7,3 +7,5 @@ image: assets/astronomer_dag_factory_20251105_224500_981_20251106_001453_a2fb0c-
 # [astronomer/dag-factory](https://github.com/astronomer/dag-factory/)
 
 Constructs Apache Airflow DAGs from configuration files
+
+从配置文件构建 Apache Airflow DAG

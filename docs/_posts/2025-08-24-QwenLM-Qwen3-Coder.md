@@ -7,3 +7,5 @@ image: assets/20250823T012247603--QwenLM--Qwen3-Coder--20250823T013357263--cropp
 # [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)
 
 Qwen3-Coder is open source, supports 256K+ token context windows, and is built for agentic coding and large-scale code generation
+
+Qwen3-Coder 开源模型，支持 256K+ Token 上下文，专为智能体编程和大规模代码生成设计

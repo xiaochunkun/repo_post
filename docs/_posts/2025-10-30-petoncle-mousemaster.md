@@ -7,3 +7,5 @@ image: assets/petoncle_mousemaster_20251030_025210_447_20251030_164727_cd3e44--2
 # [petoncle/mousemaster](https://github.com/petoncle/mousemaster/)
 
 Keyboard interface for mouse manipulation
+
+用于鼠标操作的键盘界面

@@ -7,3 +7,5 @@ image: assets/CaviraOSS_neuropilot_20260122_073942_976_20260122_073959_846d0b.pn
 # [CaviraOSS/neuropilot](https://github.com/CaviraOSS/neuropilot)
 
 Converts study materials into quizzes and podcasts
+
+将学习材料转换为测验和播客

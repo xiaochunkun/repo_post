@@ -7,3 +7,5 @@ image: assets/johannesjo_super-productivity_cropped.png
 # [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
 
 Task management app with time tracking and integrations
+
+集成时间追踪的任务管理应用

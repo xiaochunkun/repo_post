@@ -7,3 +7,5 @@ image: assets/ayn2op_discordo_20251031_162709_391_20251102_220111_225a39--202511
 # [ayn2op/discordo](https://github.com/ayn2op/discordo/)
 
 Discord client for the terminal
+
+终端Discord客户端

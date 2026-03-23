@@ -7,3 +7,5 @@ image: assets/BookerLiu_GeekDesk_20251219_055640_279_20251219_055700_0f5ff2.png
 # [BookerLiu/GeekDesk](https://github.com/BookerLiu/GeekDesk/)
 
 Desktop management tool with integrated search
+
+集成搜索功能的桌面管理工具

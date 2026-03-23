@@ -7,3 +7,5 @@ image: assets/hadrien_FastSQLA_20251201_042047_688_20251201_042156_b201a0.png
 # [hadrien/FastSQLA](https://github.com/hadrien/FastSQLA/)
 
 Async SQLAlchemy extension for FastAPI
+
+FastAPI 的异步 SQLAlchemy 扩展

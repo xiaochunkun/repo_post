@@ -7,3 +7,5 @@ image: assets/coder_code_server_20260202_224552_600_20260202_224630_c5eee6.png
 # [coder/code-server](https://github.com/coder/code-server)
 
 VS Code on a server for browser access
+
+服务器上的VS Code，支持浏览器访问

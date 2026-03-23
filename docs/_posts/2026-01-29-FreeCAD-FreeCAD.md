@@ -7,3 +7,5 @@ image: assets/FreeCAD_FreeCAD_20260129_004302_616_20260129_004345_2cf7a1.png
 # [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
 Parametric 3D modeler for engineering
+
+参数化3D建模器用于工程

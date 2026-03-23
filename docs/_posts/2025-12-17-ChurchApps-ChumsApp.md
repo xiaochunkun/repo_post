@@ -7,3 +7,5 @@ image: assets/ChurchApps_ChumsApp_20251216_061007_210_20251216_061045_d780c7.png
 # [ChurchApps/ChumsApp](https://github.com/ChurchApps/ChumsApp/)
 
 Open-source church management software
+
+开源教堂管理软件

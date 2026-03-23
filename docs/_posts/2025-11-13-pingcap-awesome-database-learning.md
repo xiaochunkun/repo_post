@@ -7,3 +7,5 @@ image: assets/pingcap_awesome_database_learning_20251112_090005_467_20251113_164
 # [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning/)
 
 List of materials for learning database internals
+
+学习数据库内部原理的材料列表

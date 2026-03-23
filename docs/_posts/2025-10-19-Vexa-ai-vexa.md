@@ -7,3 +7,5 @@ image: assets/Vexa_ai_vexa_20251018_230901_399_20251018_231343--20251019T0113436
 # [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa/)
 
 Real-time meeting transcription for Google Meet and Microsoft Teams
+
+Google Meet 和 Microsoft Teams 的实时会议转录

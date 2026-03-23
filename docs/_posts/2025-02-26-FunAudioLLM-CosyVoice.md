@@ -7,3 +7,5 @@ image: assets/FunAudioLLM_CosyVoice_cropped.png
 # [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)
 
 Multilingual text-to-speech model with zero-shot capabilities
+
+具有零样本能力的多语言文本到语音模型

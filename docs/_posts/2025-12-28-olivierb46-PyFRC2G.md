@@ -7,3 +7,5 @@ image: assets/olivierb46_PyFRC2G_20251226_204334_318_20251226_204351_6ea5d2.png
 # [olivierb46/PyFRC2G](https://github.com/olivierb46/PyFRC2G/)
 
 Converts firewall rules into flow diagrams
+
+将防火墙规则转换为流程图

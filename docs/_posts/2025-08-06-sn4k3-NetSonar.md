@@ -7,3 +7,5 @@ image: assets/sn4k3_NetSonar_cropped.png
 # [sn4k3/NetSonar](https://github.com/sn4k3/NetSonar)
 
 Network pings, network tools, interface management, local device discovery
+
+网络 ping、网络工具、接口管理、本地设备发现

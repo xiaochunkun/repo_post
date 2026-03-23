@@ -7,3 +7,5 @@ image: assets/gdquest_demos_godot_design_patterns_20251115_045445_211_20251116_1
 # [gdquest-demos/godot-design-patterns](https://github.com/gdquest-demos/godot-design-patterns/)
 
 Collection of programming patterns for Godot
+
+Godot 编程模式集合

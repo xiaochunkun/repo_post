@@ -7,3 +7,5 @@ image: assets/20250825T031102311--timescale--pgai--20250825T031739001--cropped.p
 # [timescale/pgai](https://github.com/timescale/pgai)
 
 turns postgres into an AI-powered retrieval engine for RAG apps
+
+将 Postgres 变成 AI 驱动的 RAG 检索引擎

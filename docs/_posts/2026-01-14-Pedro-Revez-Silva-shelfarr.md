@@ -7,3 +7,5 @@ image: assets/Pedro_Revez_Silva_shelfarr_20260113_132516_406_20260113_132531_200
 # [Pedro-Revez-Silva/shelfarr](https://github.com/Pedro-Revez-Silva/shelfarr)
 
 Request and management system for ebooks and audiobooks
+
+电子书和有声书请求与管理系统

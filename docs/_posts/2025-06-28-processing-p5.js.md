@@ -7,3 +7,5 @@ image: assets/processing_p5.js_cropped.png
 # [processing/p5.js](https://github.com/processing/p5.js)
 
 JavaScript library for drawing and interactive code in the browser
+
+用于在浏览器中绘图和交互式编码的 JavaScript 库

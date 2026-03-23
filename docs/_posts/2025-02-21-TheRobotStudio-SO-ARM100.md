@@ -7,3 +7,5 @@ image: assets/TheRobotStudio_SO-ARM100_cropped.png
 # [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
 
 Open-source robotic arm kit with NVIDIA Jetson integration
+
+集成 NVIDIA Jetson 的开源机器人手臂套件

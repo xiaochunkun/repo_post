@@ -7,3 +7,5 @@ image: assets/Chocapikk_wpprobe--20250814T051217740--cropped.png
 # [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe)
 
 stealthy WordPress plugin scanner using REST API
+
+使用REST API的隐蔽WordPress插件扫描器

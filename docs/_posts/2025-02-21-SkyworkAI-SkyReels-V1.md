@@ -7,3 +7,5 @@ image: assets/SkyworkAI_SkyReels-V1_cropped.png
 # [SkyworkAI/SkyReels-V1](https://github.com/SkyworkAI/SkyReels-V1)
 
 Open-source video foundation model
+
+开源视频基础模型

@@ -7,3 +7,5 @@ image: assets/jekyll_jekyll_cropped.png
 # [jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 Blog-aware static site generator in Ruby for building websites from text files
+
+用于从文本文件构建网站的 Ruby 博客感知静态站点生成器

@@ -7,3 +7,5 @@ image: assets/sn4k3_NetSonar_20260202_140400_411_20260202_140451_e2d672.png
 # [sn4k3/NetSonar](https://github.com/sn4k3/NetSonar)
 
 Network diagnostics tool for pinging hosts and managing interfaces
+
+用于ping主机和管理接口的网络诊断工具

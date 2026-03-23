@@ -7,3 +7,5 @@ image: assets/20250903T035257042--AstroNvim--AstroNvim--20250903T035833105--crop
 # [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 neovim config with plugins and IDE features
+
+带插件和 IDE 功能的 Neovim 配置

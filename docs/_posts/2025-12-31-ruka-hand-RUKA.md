@@ -7,3 +7,5 @@ image: assets/ruka_hand_RUKA_20251231_040337_319_20251231_040354_c9793b.png
 # [ruka-hand/RUKA](https://github.com/ruka-hand/RUKA/)
 
 Design of humanoid hands with learning
+
+带学习功能的人形手设计

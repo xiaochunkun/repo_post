@@ -7,3 +7,5 @@ image: assets/20250822T020618420--scalar--scalar--20250823T013956307--cropped.pn
 # [scalar/scalar](https://github.com/scalar/scalar)
 
 offline OpenAPI client and docs
+
+离线 OpenAPI 客户端和文档工具

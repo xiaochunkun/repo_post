@@ -7,3 +7,5 @@ image: assets/ai_hero_dev_ai_hero_20260306_002621_322_20260306_002729_7ae4bc.png
 # [ai-hero-dev/ai-hero](https://github.com/ai-hero-dev/ai-hero)
 
 Train developers for AI engineering roles
+
+为AI工程角色培训开发者

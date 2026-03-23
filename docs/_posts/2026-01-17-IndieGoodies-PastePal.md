@@ -7,3 +7,5 @@ image: assets/IndieGoodies_PastePal_20260116_204622_261_20260116_204645_ae7b0c.p
 # [IndieGoodies/PastePal](https://github.com/IndieGoodies/PastePal)
 
 Syncs clipboard history across Apple devices
+
+跨Apple设备同步剪贴板历史

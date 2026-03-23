@@ -7,3 +7,5 @@ image: assets/mr_r3b00t_crime_mapper_20251222_010306_955_20251226_175930_33eb95.
 # [mr-r3b00t/crime-mapper](https://github.com/mr-r3b00t/crime-mapper/)
 
 Maps cyber crime from a browser
+
+从浏览器映射网络犯罪

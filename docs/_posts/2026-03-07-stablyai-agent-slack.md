@@ -7,3 +7,5 @@ image: assets/stablyai_agent_slack_20260305_054735_394_20260305_054907_f725ad.pn
 # [stablyai/agent-slack](https://github.com/stablyai/agent-slack)
 
 Command line interface for automation of Slack by agents
+
+智能体自动化Slack的命令行界面

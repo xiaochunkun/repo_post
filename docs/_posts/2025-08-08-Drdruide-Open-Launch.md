@@ -7,3 +7,5 @@ image: assets/Drdruide_Open-Launch_cropped.png
 # [Drdruide/Open-Launch](https://github.com/Drdruide/Open-Launch)
 
 open source platform for launching and discovering new products
+
+开源平台，用于发布和发现新产品

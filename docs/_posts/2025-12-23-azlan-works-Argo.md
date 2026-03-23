@@ -7,3 +7,5 @@ image: assets/azlan_works_Argo_20251222_113430_400_20251222_113448_e73bc0.png
 # [azlan-works/Argo](https://github.com/azlan-works/Argo/)
 
 Carrier board for the Raspberry Pi Compute Module 5
+
+Raspberry Pi Compute Module 5的载板

@@ -7,3 +7,5 @@ image: assets/20250903T011213719--wailsapp--wails--20250903T011839100--cropped.p
 # [wailsapp/wails](https://github.com/wailsapp/wails)
 
 build desktop apps with go and web tech
+
+用 Go 和 Web 技术构建桌面应用

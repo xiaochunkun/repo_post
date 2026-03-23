@@ -7,3 +7,5 @@ image: assets/SouthBridgeAI_diagen--20250814T050340046--cropped.png
 # [SouthBridgeAI/diagen](https://github.com/SouthBridgeAI/diagen)
 
 AI tool for generating and refining diagrams from your data
+
+AI工具，用于从数据生成和优化图表

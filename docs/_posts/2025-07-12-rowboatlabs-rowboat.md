@@ -7,3 +7,5 @@ image: assets/rowboatlabs_rowboat_cropped.png
 # [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
 
 AI tool for building and testing multi-agent workflows
+
+用于构建和测试多代理工作流的 AI 工具

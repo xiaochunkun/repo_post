@@ -7,3 +7,5 @@ image: assets/kraken_tech_django_subatomic_20251205_023235_832_20251205_023311_a
 # [kraken-tech/django-subatomic](https://github.com/kraken-tech/django-subatomic/)
 
 Splits Django atomic transactions into specific utilities
+
+将Django原子事务拆分为特定工具

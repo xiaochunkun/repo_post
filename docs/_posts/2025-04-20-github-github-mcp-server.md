@@ -7,3 +7,5 @@ image: assets/github_github-mcp-server_cropped.png
 # [github/github-mcp-server](https://github.com/github/github-mcp-server)
 
 GitHub MCP Server, a server for automating and interacting with GitHub APIs using the Model Context Protocol
+
+GitHub MCP服务器，使用Model Context Protocol自动化和交互GitHub API

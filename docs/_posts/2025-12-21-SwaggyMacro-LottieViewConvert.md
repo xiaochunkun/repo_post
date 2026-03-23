@@ -7,3 +7,5 @@ image: assets/SwaggyMacro_LottieViewConvert_20251219_100642_467_20251219_100700_
 # [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert/)
 
 Converts Telegram stickers and Lottie animations to video formats
+
+将 Telegram 贴纸和 Lottie 动画转换为视频格式

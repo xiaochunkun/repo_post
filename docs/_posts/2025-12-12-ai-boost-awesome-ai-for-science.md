@@ -7,3 +7,5 @@ image: assets/ai_boost_awesome_ai_for_science_20251209_034347_002_20251209_03441
 # [ai-boost/awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science/)
 
 Curated list of AI tools for scientific discovery
+
+科学发现AI工具精选列表

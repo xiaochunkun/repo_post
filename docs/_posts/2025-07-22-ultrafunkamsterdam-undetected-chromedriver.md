@@ -7,3 +7,5 @@ image: assets/ultrafunkamsterdam_undetected-chromedriver_cropped.png
 # [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 
 Python package that patches Selenium's Chrome driver to avoid triggering anti-bot detection
+
+修补Selenium Chrome驱动以避免触发反机器人检测的Python包

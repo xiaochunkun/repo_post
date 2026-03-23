@@ -7,3 +7,5 @@ image: assets/sismics_docs_20251227_205546_962_20251227_205604_1db2c6.png
 # [sismics/docs](https://github.com/sismics/docs/)
 
 Document management system with OCR and full text search
+
+具备 OCR 和全文搜索功能的文档管理系统

@@ -7,3 +7,5 @@ image: assets/kem_a_AppManager_20260207_101941_512_20260207_102005_af9975.png
 # [kem-a/AppManager](https://github.com/kem-a/AppManager)
 
 Installs AppImages via drag-and-drop on Linux
+
+在 Linux 上通过拖放安装 AppImage

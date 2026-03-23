@@ -7,3 +7,5 @@ image: assets/mbnuqw_sidebery_20251031_032518_157_20251031_204416_33457d--202510
 # [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery/)
 
 Firefox extension for managing tabs and bookmarks with configurable panels
+
+带可配置面板的 Firefox 标签和书签管理扩展

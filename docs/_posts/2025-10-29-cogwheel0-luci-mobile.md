@@ -7,3 +7,5 @@ image: assets/cogwheel0_luci_mobile_20251027_193218_007_20251028_091723_cc8178--
 # [cogwheel0/luci-mobile](https://github.com/cogwheel0/luci-mobile/)
 
 Manage multiple OpenWrt routers from a Flutter app
+
+通过 Flutter 应用管理多个 OpenWrt 路由器

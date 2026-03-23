@@ -7,3 +7,5 @@ image: assets/JonMagon_KDiskMark_20251030_024752_111_20251030_164435_e9510f--202
 # [JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark/)
 
 Linux disk benchmark tool with a GUI for Fio
+
+Linux 磁盘基准测试工具，带 Fio 的 GUI

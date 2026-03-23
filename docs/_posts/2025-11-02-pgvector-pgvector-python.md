@@ -7,3 +7,5 @@ image: assets/pgvector_pgvector_python_20251031_073505_481_20251101_205833_afbaf
 # [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python/)
 
 PostgreSQL vector support for Django, SQLAlchemy, and more
+
+为 Django、SQLAlchemy 等提供 PostgreSQL 向量支持

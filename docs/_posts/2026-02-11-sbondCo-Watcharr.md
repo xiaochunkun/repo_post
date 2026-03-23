@@ -7,3 +7,5 @@ image: assets/sbondCo_Watcharr_20260209_214112_045_20260209_214129_9d46fb.png
 # [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr)
 
 Self-hosted list for movies, shows, and games
+
+自托管的电影、剧集和游戏列表

@@ -7,3 +7,5 @@ image: assets/projectdiscovery_subfinder_20260109_062626_734_20260109_062648_cdf
 # [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
 
 Discovers subdomains through passive online sources
+
+通过被动在线源发现子域名

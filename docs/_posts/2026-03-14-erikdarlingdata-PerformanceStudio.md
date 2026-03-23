@@ -7,3 +7,5 @@ image: assets/erikdarlingdata_PerformanceStudio_20260313_204354_419_20260313_204
 # [erikdarlingdata/PerformanceStudio](https://github.com/erikdarlingdata/PerformanceStudio)
 
 SQL Server execution plan analysis with AI
+
+使用AI分析SQL Server执行计划

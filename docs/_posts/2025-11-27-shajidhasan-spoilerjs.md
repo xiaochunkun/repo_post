@@ -7,3 +7,5 @@ image: assets/shajidhasan_spoilerjs_20251125_030633_452_20251127_163606_289a75--
 # [shajidhasan/spoilerjs](https://github.com/shajidhasan/spoilerjs/)
 
 Web component for spoiler text with particle effects
+
+带有粒子效果的剧透文本 Web 组件

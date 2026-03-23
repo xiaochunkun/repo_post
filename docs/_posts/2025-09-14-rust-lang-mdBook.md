@@ -7,3 +7,5 @@ image: assets/20250914T182100026--rust-lang--mdBook--20250914T191152576--cropped
 # [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
 
 turn markdown files into online books
+
+将 Markdown 文件转换为在线书籍

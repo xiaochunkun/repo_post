@@ -7,3 +7,5 @@ image: assets/localdesktop_localdesktop_20260221_003154_532_20260221_003225_4374
 # [localdesktop/localdesktop](https://github.com/localdesktop/localdesktop)
 
 Runs Linux desktop environments on Android devices
+
+在 Android 设备上运行 Linux 桌面环境

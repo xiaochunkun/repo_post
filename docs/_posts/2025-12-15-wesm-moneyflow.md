@@ -7,3 +7,5 @@ image: assets/wesm_moneyflow_20251213_082042_719_20251213_082105_1d76be.png
 # [wesm/moneyflow](https://github.com/wesm/moneyflow/)
 
 Keyboard-driven terminal UI for personal finance
+
+个人理财的键盘驱动终端UI

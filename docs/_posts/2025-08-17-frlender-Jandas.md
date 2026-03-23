@@ -7,3 +7,5 @@ image: assets/frlender_Jandas--20250816T053517241--cropped.png
 # [frlender/Jandas](https://github.com/frlender/Jandas)
 
 Pandas-style data analysis in JavaScript with Jandas
+
+在JavaScript中使用Jandas进行类似Pandas的数据分析

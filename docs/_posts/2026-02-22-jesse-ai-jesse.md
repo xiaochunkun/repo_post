@@ -7,3 +7,5 @@ image: assets/jesse_ai_jesse_20260212_173454_183_20260212_173630_c7ea2c.png
 # [jesse-ai/jesse](https://github.com/jesse-ai/jesse)
 
 Framework for backtesting and live trading crypto strategies
+
+加密货币策略回测和实时交易框架

@@ -7,3 +7,5 @@ image: assets/mikepruett3_chrome_remote_desktop_20260209_005643_730_20260209_005
 # [mikepruett3/chrome-remote-desktop](https://github.com/mikepruett3/chrome-remote-desktop)
 
 Electron application for managing multiple Google accounts
+
+用于管理多个 Google 账户的 Electron 应用

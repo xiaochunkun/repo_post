@@ -7,3 +7,5 @@ image: assets/ysymyth_awesome_language_agents_20260111_101757_953_20260111_10181
 # [ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)
 
 Framework for language agents with cognitive architectures
+
+具有认知架构的语言代理框架

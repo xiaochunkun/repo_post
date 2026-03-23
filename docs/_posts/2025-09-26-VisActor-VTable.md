@@ -7,3 +7,5 @@ image: assets/20250926T173134534--VisActor--VTable--20250926T174119404--cropped.
 # [VisActor/VTable](https://github.com/VisActor/VTable)
 
 multidimensional data analysis table with fast rendering and chart integration
+
+具有快速渲染和图表集成的多维数据分析表

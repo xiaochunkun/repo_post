@@ -7,3 +7,5 @@ image: assets/GongRzhe_Office-PowerPoint-MCP-Server_cropped.png
 # [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server)
 
 PowerPoint presentations made and edited by code with MCP server
+
+通过MCP服务器用代码制作和编辑PowerPoint演示文稿

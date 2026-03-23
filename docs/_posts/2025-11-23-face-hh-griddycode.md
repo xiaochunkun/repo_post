@@ -7,3 +7,5 @@ image: assets/face_hh_griddycode_20251123_012443_488_20251123_022806_122c5d--202
 # [face-hh/griddycode](https://github.com/face-hh/griddycode/)
 
 Code editor made with Godot
+
+用 Godot 制作的代码编辑器

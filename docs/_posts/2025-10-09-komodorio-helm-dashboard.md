@@ -7,3 +7,5 @@ image: assets/20251009T050519131--komodorio--helm-dashboard--20251009T051433035-
 # [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
 UI for managing Helm charts and releases in Kubernetes clusters
+
+用于管理 Kubernetes 集群中 Helm 图表和发布的 UI

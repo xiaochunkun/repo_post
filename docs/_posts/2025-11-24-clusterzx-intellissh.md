@@ -7,3 +7,5 @@ image: assets/clusterzx_intellissh_20251123_063548_841_20251124_001820_86a442--2
 # [clusterzx/intellissh](https://github.com/clusterzx/intellissh/)
 
 SSH client in a browser with AI
+
+带 AI 的浏览器 SSH 客户端

@@ -7,3 +7,5 @@ image: assets/vercel_registry_starter_20251127_184942_448_20251130_052321_274c84
 # [vercel/registry-starter](https://github.com/vercel/registry-starter/)
 
 Next.js template for AI-native design systems
+
+AI 原生设计系统的 Next.js 模板

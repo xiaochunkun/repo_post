@@ -7,3 +7,5 @@ image: assets/BayramAnnakov_claude_reflect_20260204_130925_712_20260204_130959_7
 # [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect)
 
 Syncs corrections and discovers workflow patterns for Claude Code
+
+同步修正并发现Claude Code工作流模式

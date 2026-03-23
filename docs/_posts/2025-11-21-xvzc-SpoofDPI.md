@@ -7,3 +7,5 @@ image: assets/xvzc_SpoofDPI_20251121_121532_691_20251121_211533_2ac1e6--20251121
 # [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI/)
 
 Bypasses Deep Packet Inspection censorship
+
+绕过深度包检测审查

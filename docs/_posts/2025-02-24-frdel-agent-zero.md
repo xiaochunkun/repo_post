@@ -7,3 +7,5 @@ image: assets/frdel_agent-zero_cropped.png
 # [frdel/agent-zero](https://github.com/frdel/agent-zero)
 
 AI agent framework for building customizable assistants
+
+构建可定制助手的AI代理框架

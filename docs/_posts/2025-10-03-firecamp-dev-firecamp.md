@@ -7,3 +7,5 @@ image: assets/20251001T211512199--firecamp-dev--firecamp--20251001T212912136--cr
 # [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp)
 
 Open source API platform for designing, testing, and collaborating on REST, GraphQL, and WebSocket APIs
+
+开源API平台，用于设计、测试和协作REST、GraphQL和WebSocket API

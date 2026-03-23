@@ -7,3 +7,5 @@ image: assets/lokesh_krishna_dotfiles_20251209_033301_905_20251209_033339_339d12
 # [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles/)
 
 Collection of Linux desktop configuration setups
+
+Linux 桌面配置设置合集

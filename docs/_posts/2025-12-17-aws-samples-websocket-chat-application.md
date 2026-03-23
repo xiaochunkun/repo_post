@@ -7,3 +7,5 @@ image: assets/aws_samples_websocket_chat_application_20251215_014322_256_2025121
 # [aws-samples/websocket-chat-application](https://github.com/aws-samples/websocket-chat-application/)
 
 Provisions chat infrastructure with AWS CDK
+
+使用 AWS CDK 部署聊天基础设施

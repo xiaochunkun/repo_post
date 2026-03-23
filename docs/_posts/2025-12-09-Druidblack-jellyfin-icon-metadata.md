@@ -7,3 +7,5 @@ image: assets/Druidblack_jellyfin_icon_metadata_20251207_203510_810_20251207_203
 # [Druidblack/jellyfin-icon-metadata](https://github.com/Druidblack/jellyfin-icon-metadata/)
 
 Replaces Jellyfin metadata links with icons
+
+将Jellyfin元数据链接替换为图标

@@ -7,3 +7,5 @@ image: assets/Byaidu_PDFMathTranslate_cropped.png
 # [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
 Translate PDFs with AI
+
+使用 AI 翻译 PDF

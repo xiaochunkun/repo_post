@@ -7,3 +7,5 @@ image: assets/webwhiz_ai_webwhiz_20251218_032806_922_20251218_032823_050cd6.png
 # [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz/)
 
 Trains chatbots on website data
+
+基于网站数据训练聊天机器人

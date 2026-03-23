@@ -7,3 +7,5 @@ image: assets/SecretDeveloper_lsv_20251213_034506_301_20251213_034536_6ba6a3.png
 # [SecretDeveloper/lsv](https://github.com/SecretDeveloper/lsv/)
 
 Three-pane terminal file viewer
+
+三窗格终端文件查看器

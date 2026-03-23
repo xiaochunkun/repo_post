@@ -7,3 +7,5 @@ image: assets/disler_agent_sandbox_skill_20260214_004045_484_20260214_004136_8ff
 # [disler/agent-sandbox-skill](https://github.com/disler/agent-sandbox-skill)
 
 Isolated execution environments for AI agents via E2B sandboxes
+
+通过E2B沙箱为AI代理提供隔离执行环境

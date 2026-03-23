@@ -7,3 +7,5 @@ image: assets/termly_dev_termly_cli_20260316_015743_702_20260316_015813_b5c3b0.p
 # [termly-dev/termly-cli](https://github.com/termly-dev/termly-cli)
 
 CLI for remote access to AI coding assistants
+
+CLI，用于远程访问 AI 编码助手

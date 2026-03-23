@@ -7,3 +7,5 @@ image: assets/agno_agi_agent_api_20251025_190442_635_20251025_230120_d6f64a--202
 # [agno-agi/agent-api](https://github.com/agno-agi/agent-api/)
 
 API for serving agents with a FastAPI server and PostgreSQL database
+
+通过FastAPI服务器和PostgreSQL数据库提供代理服务的API

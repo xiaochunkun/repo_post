@@ -7,3 +7,5 @@ image: assets/cameroncooke_mcpli_20260128_220834_386_20260128_220914_58930e.png
 # [cameroncooke/mcpli](https://github.com/cameroncooke/mcpli)
 
 Converts stdio-based MCP servers into CLI tools
+
+将基于stdio的MCP服务器转换为CLI工具

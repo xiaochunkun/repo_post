@@ -7,3 +7,5 @@ image: assets/TomWhitwell_Workshop_Computer_20260208_152151_921_20260208_152227_
 # [TomWhitwell/Workshop_Computer](https://github.com/TomWhitwell/Workshop_Computer)
 
 Starter code for synthesizer program cards
+
+合成器程序卡片的入门代码

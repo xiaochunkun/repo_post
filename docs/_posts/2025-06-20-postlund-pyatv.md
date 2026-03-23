@@ -7,3 +7,5 @@ image: assets/postlund_pyatv_cropped.png
 # [postlund/pyatv](https://github.com/postlund/pyatv)
 
 Python library for controlling Apple TV and AirPlay devices
+
+用于控制 Apple TV 和 AirPlay 设备的 Python 库

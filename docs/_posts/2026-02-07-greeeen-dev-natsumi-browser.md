@@ -7,3 +7,5 @@ image: assets/greeeen_dev_natsumi_browser_20260206_002538_548_20260206_002622_ba
 # [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser)
 
 Skin for Firefox browsers
+
+Firefox 浏览器的皮肤

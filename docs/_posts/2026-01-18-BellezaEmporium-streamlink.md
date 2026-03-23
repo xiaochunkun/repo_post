@@ -7,3 +7,5 @@ image: assets/BellezaEmporium_streamlink_20260118_031029_607_20260118_031050_a54
 # [BellezaEmporium/streamlink](https://github.com/BellezaEmporium/streamlink)
 
 Pipes video streams into players
+
+将视频流传输到播放器

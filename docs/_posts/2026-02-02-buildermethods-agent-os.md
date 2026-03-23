@@ -7,3 +7,5 @@ image: assets/buildermethods_agent_os_20260202_161321_436_20260202_161417_a2446e
 # [buildermethods/agent-os](https://github.com/buildermethods/agent-os)
 
 Injects codebase standards into AI agents
+
+将代码库标准注入AI代理

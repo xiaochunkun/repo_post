@@ -6,3 +6,5 @@ image: assets/fm_sys_snapdrop_android_20251025_043135_917_20251025_084836_189954
 # [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android/)
 
 Android client for cross-platform local file sharing
+
+跨平台本地文件共享的Android客户端

@@ -7,3 +7,5 @@ image: assets/20250915T230900943--microsoft--vcpkg--20250915T231905853--cropped.
 # [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 
 C++ package manager with thousands of libraries
+
+C++ 包管理器，包含数千个库

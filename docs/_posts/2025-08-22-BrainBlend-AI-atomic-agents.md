@@ -7,3 +7,5 @@ image: assets/20250822T014944011--BrainBlend-AI--atomic-agents--20250822T0201222
 # [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents)
 
 modular Python framework for building AI agent pipelines
+
+模块化 Python 框架，用于构建 AI 智能体流水线

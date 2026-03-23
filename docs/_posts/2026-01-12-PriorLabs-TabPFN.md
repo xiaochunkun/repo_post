@@ -7,3 +7,5 @@ image: assets/PriorLabs_TabPFN_20260111_104806_830_20260111_104820_3983ea.png
 # [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)
 
 Foundation model for tabular data
+
+表格数据的基础模型

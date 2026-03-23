@@ -7,3 +7,5 @@ image: assets/Ackites_hidden-word_cropped.png
 # [Ackites/hidden-word](https://github.com/Ackites/hidden-word)
 
 embed invisible info in text with unicode
+
+使用Unicode在文本中嵌入隐形信息

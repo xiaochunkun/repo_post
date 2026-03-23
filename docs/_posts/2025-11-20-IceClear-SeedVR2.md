@@ -7,3 +7,5 @@ image: assets/IceClear_SeedVR2_20251118_190835_655_20251120_000408_685c15--20251
 # [IceClear/SeedVR2](https://github.com/IceClear/SeedVR2/)
 
 One-step video restoration with a diffusion transformer
+
+扩散Transformer单步视频修复

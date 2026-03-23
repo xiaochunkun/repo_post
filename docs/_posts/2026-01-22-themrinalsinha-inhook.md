@@ -7,3 +7,5 @@ image: assets/themrinalsinha_inhook_20260121_005825_850_20260121_005839_85ddd1.p
 # [themrinalsinha/inhook](https://github.com/themrinalsinha/inhook)
 
 Self-hosted tool to capture and debug webhooks
+
+用于捕获和调试webhook的自托管工具

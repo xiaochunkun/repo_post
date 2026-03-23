@@ -7,3 +7,5 @@ image: assets/thelastoutpostworkshop_ESPConnect_20260305_063807_463_20260305_063
 # [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect)
 
 Web application for management of ESP32 and ESP8266 boards from a browser
+
+从浏览器管理ESP32和ESP8266板的Web应用

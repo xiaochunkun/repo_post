@@ -7,3 +7,5 @@ image: assets/luong-komorebi_Awesome-Linux-Software_cropped.png
 # [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
 huge list of Linux apps and tools
+
+庞大的Linux应用和工具列表

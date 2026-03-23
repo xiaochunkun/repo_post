@@ -7,3 +7,5 @@ image: assets/openobserve_openobserve_cropped.png
 # [openobserve/openobserve](https://github.com/openobserve/openobserve)
 
 Open-source observability platform for logs, metrics, and traces
+
+用于日志、指标和追踪的开源可观测性平台

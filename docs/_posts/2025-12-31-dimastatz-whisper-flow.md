@@ -7,3 +7,5 @@ image: assets/dimastatz_whisper_flow_20251230_053123_139_20251230_053140_0ff0be.
 # [dimastatz/whisper-flow](https://github.com/dimastatz/whisper-flow/)
 
 Transcribes audio streams in real-time
+
+实时转录音频流

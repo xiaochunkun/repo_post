@@ -7,3 +7,5 @@ image: assets/20250908T094016196--filamentphp--filament--20250908T094346509--cro
 # [filamentphp/filament](https://github.com/filamentphp/filament)
 
 UI framework for Laravel with Livewire for building admin panels and apps
+
+用 Livewire 为 Laravel 构建管理面板和应用的 UI 框架

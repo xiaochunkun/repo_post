@@ -7,3 +7,5 @@ image: assets/stravo1_obsidian_gdrive_sync_20251110_172039_749_20251111_015352_3
 # [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync/)
 
 Syncs Obsidian notes with Google Drive
+
+将Obsidian笔记与Google Drive同步

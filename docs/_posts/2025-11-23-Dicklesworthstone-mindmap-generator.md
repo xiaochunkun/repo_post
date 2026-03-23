@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_mindmap_generator_20251122_150647_842_20251123_0
 # [Dicklesworthstone/mindmap-generator](https://github.com/Dicklesworthstone/mindmap-generator/)
 
 Generates mindmaps from text using LLMs
+
+使用 LLM 从文本生成思维导图

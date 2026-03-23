@@ -7,3 +7,5 @@ image: assets/tldraw_tldraw_cropped.png
 # [tldraw/tldraw](https://github.com/tldraw/tldraw)
 
 whiteboard and infinite canvas library for React apps
+
+用于React应用的电子白板和无限画布库

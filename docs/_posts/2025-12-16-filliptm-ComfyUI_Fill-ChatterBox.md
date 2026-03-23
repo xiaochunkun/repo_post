@@ -7,3 +7,5 @@ image: assets/filliptm_ComfyUI_Fill_ChatterBox_20251215_010400_523_20251215_0104
 # [filliptm/ComfyUI_Fill-ChatterBox](https://github.com/filliptm/ComfyUI_Fill-ChatterBox/)
 
 ComfyUI nodes for text-to-speech and voice conversion
+
+用于文本转语音和语音转换的ComfyUI节点

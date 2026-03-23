@@ -7,3 +7,5 @@ image: assets/20250912T003214582--DopplerHQ--awesome-interview-questions--202509
 # [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 
 Lists of technical interview questions for dozens of programming languages and frameworks
+
+数十种编程语言和框架的技术面试题库

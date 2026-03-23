@@ -7,3 +7,5 @@ image: assets/20250830T173302372--Zyphra--Zonos--20250830T173910795--cropped.png
 # [Zyphra/Zonos](https://github.com/Zyphra/Zonos)
 
 open-source text-to-speech with voice cloning and emotion control
+
+开源文本转语音，支持语音克隆和情感控制

@@ -7,3 +7,5 @@ image: assets/mengxi-ream_read-frog_cropped.png
 # [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
 
 Translate and explain any webpage with AI help
+
+借助AI翻译和解释任何网页

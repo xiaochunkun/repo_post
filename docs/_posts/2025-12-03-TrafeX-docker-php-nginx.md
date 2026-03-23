@@ -7,3 +7,5 @@ image: assets/TrafeX_docker_php_nginx_20251201_041154_368_20251201_041322_a0acc1
 # [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx/)
 
 Docker image with PHP-FPM and Nginx on Alpine Linux
+
+基于Alpine Linux的PHP-FPM和Nginx Docker镜像

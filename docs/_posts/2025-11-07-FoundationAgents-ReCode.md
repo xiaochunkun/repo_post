@@ -7,3 +7,5 @@ image: assets/FoundationAgents_ReCode_20251106_150928_218_20251106_174203_50099a
 # [FoundationAgents/ReCode](https://github.com/FoundationAgents/ReCode/)
 
 Recursive code generation for LLM agents
+
+LLM代理的递归代码生成工具

@@ -7,3 +7,5 @@ image: assets/20251005T102337364--foss42--apidash--20251005T103818183--cropped.p
 # [foss42/apidash](https://github.com/foss42/apidash)
 
 cross-platform API client for testing, visualizing, and integrating APIs
+
+跨平台 API 客户端，用于测试、可视化和集成 API

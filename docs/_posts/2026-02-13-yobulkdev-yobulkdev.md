@@ -7,3 +7,5 @@ image: assets/yobulkdev_yobulkdev_20260212_031032_727_20260212_031103_4270fb.png
 # [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev)
 
 Open source data onboarding platform for CSV files
+
+用于 CSV 文件的开源数据导入平台

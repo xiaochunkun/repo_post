@@ -7,3 +7,5 @@ image: assets/aaddrick_claude_desktop_debian_20260305_024637_175_20260305_024817
 # [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)
 
 Scripts to run Claude Desktop on Linux distributions
+
+在 Linux 发行版上运行 Claude Desktop 的脚本

@@ -7,3 +7,5 @@ image: assets/jhuckaby_Cronicle_20260122_030222_873_20260122_030322_b7acca.png
 # [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle)
 
 Distributed task scheduler with a web interface
+
+具有 Web 界面的分布式任务调度器

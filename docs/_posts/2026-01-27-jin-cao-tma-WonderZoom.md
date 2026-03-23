@@ -7,3 +7,5 @@ image: assets/jin_cao_tma_WonderZoom_20260112_132034_687_20260112_132049_35752d.
 # [jin-cao-tma/WonderZoom](https://github.com/jin-cao-tma/WonderZoom)
 
 Generates 3D worlds from images
+
+从图像生成3D世界

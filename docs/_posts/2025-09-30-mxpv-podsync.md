@@ -7,3 +7,5 @@ image: assets/20250930T033537399--mxpv--podsync--20250930T034800307--cropped.png
 # [mxpv/podsync](https://github.com/mxpv/podsync)
 
 turn YouTube or Vimeo playlists into podcast feeds
+
+将 YouTube 或 Vimeo 播放列表转换为播客订阅源

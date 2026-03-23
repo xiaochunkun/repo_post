@@ -7,3 +7,5 @@ image: assets/FFmpeg_asm-lessons_cropped.png
 # [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)
 
 Assembly language lessons for FFmpeg
+
+FFmpeg汇编语言教程

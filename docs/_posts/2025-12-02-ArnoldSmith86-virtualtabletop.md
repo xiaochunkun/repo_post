@@ -7,3 +7,5 @@ image: assets/ArnoldSmith86_virtualtabletop_20251201_024936_861_20251201_024959_
 # [ArnoldSmith86/virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop/)
 
 Browser platform for creating and playing board games
+
+浏览器平台，用于创建和玩棋盘游戏

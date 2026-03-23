@@ -7,3 +7,5 @@ image: assets/vinceliuice_WhiteSur-gtk-theme_cropped.png
 # [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
 MacOS Big Sur-inspired GTK theme for Linux desktops
+
+受 MacOS Big Sur 启发的 Linux 桌面 GTK 主题

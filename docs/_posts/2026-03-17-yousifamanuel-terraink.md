@@ -7,3 +7,5 @@ image: assets/yousifamanuel_terraink_20260317_081605_866_20260317_081726_3bd853.
 # [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink)
 
 Generates custom city map posters
+
+生成自定义城市地图海报

@@ -7,3 +7,5 @@ image: assets/developmentseed_titiler_20251105_120520_153_20251105_123905_c1fe9c
 # [developmentseed/titiler](https://github.com/developmentseed/titiler/)
 
 dynamic tile server built on FastAPI and Rasterio
+
+基于 FastAPI 和 Rasterio 的动态瓦片服务器

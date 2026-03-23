@@ -7,3 +7,5 @@ image: assets/haris_musa_excel_mcp_server_20260318_052833_778_20260318_052934_11
 # [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)
 
 MCP server for Excel manipulation without Microsoft Excel
+
+无需 Microsoft Excel 的 Excel 操作 MCP 服务器

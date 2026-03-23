@@ -7,3 +7,5 @@ image: assets/harlan_zw_unlighthouse_20260119_205539_129_20260119_205554_5440df.
 # [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse)
 
 Scans entire sites with Google Lighthouse
+
+使用Google Lighthouse扫描整个网站

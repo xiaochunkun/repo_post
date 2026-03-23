@@ -7,3 +7,5 @@ image: assets/lmnr_ai_lmnr_20260317_165438_591_20260317_165720_b9851b.png
 # [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr)
 
 Platform to trace and evaluate agent behavior
+
+追踪和评估Agent行为的平台

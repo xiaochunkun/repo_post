@@ -7,3 +7,5 @@ image: assets/dacort_s3grep--20250816T055840776--cropped.png
 # [dacort/s3grep](https://github.com/dacort/s3grep)
 
 search logs in S3 buckets with a fast parallel CLI tool
+
+使用快速并行CLI工具搜索S3存储桶中的日志

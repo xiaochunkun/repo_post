@@ -6,3 +6,5 @@ image: assets/drk1wi_Modlishka_20251025_042109_091_20251025_084054_a817d3--20251
 # [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka/)
 
 Penetration testing tool for 2FA bypass
+
+用于绕过2FA的渗透测试工具

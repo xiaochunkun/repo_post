@@ -7,3 +7,5 @@ image: assets/huggingface_large-scale-image-deduplication_cropped.png
 # [huggingface/large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication)
 
 tool for finding and removing duplicate images in big datasets
+
+在大数据集中查找和删除重复图像的工具

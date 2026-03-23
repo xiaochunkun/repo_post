@@ -7,3 +7,5 @@ image: assets/20250930T034326180--Datalux--Osintgram--20250930T035635687--croppe
 # [Datalux/Osintgram](https://github.com/Datalux/Osintgram)
 
 Instagram OSINT tool for gathering and analyzing public profile data
+
+用于收集和分析公开个人资料数据的 Instagram OSINT 工具

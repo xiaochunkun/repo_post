@@ -7,3 +7,5 @@ image: assets/memvid_memvid_20260130_071659_613_20260130_071735_f3df2f.png
 # [memvid/memvid](https://github.com/memvid/memvid)
 
 Memory layer for AI agents without databases
+
+无需数据库的AI代理内存层

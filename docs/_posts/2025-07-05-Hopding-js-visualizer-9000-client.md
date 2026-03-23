@@ -7,3 +7,5 @@ image: assets/Hopding_js-visualizer-9000-client_cropped.png
 # [Hopding/js-visualizer-9000-client](https://github.com/Hopding/js-visualizer-9000-client)
 
 React app for visualizing JavaScript event loop
+
+用于可视化 JavaScript 事件循环的 React 应用

@@ -7,3 +7,5 @@ image: assets/generalaction_emdash_20260301_202304_366_20260301_202438_1ebe15.pn
 # [generalaction/emdash](https://github.com/generalaction/emdash)
 
 Runs coding agents in parallel worktrees
+
+在并行工作树中运行编码代理

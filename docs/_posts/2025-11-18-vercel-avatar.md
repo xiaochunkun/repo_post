@@ -7,3 +7,5 @@ image: assets/vercel_avatar_20251118_023615_216_20251118_025004_4739ab--20251118
 # [vercel/avatar](https://github.com/vercel/avatar/)
 
 Generates gradient avatars from a username
+
+根据用户名生成渐变头像

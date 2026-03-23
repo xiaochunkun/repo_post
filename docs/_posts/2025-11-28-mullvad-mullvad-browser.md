@@ -7,3 +7,5 @@ image: assets/mullvad_mullvad_browser_20251125_050417_609_20251127_170456_2bba94
 # [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser/)
 
 Tor Browser without the Tor Network
+
+无 Tor 网络的 Tor 浏览器

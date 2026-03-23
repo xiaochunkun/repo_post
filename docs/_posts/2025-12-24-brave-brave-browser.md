@@ -7,3 +7,5 @@ image: assets/brave_brave_browser_20251222_172731_223_20251222_172748_81a737.png
 # [brave/brave-browser](https://github.com/brave/brave-browser/)
 
 Build tools for the browser
+
+浏览器构建工具

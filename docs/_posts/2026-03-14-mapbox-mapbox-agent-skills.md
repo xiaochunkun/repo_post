@@ -7,3 +7,5 @@ image: assets/mapbox_mapbox_agent_skills_20260313_120237_926_20260313_120410_587
 # [mapbox/mapbox-agent-skills](https://github.com/mapbox/mapbox-agent-skills)
 
 Teaches AI assistants Mapbox development expertise
+
+教授AI助手Mapbox开发专业知识

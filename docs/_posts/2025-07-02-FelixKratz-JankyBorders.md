@@ -7,3 +7,5 @@ image: assets/FelixKratz_JankyBorders_cropped.png
 # [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
 
 macOS tool for adding colored borders to windows
+
+为macOS窗口添加彩色边框的工具

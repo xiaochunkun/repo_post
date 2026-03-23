@@ -7,3 +7,5 @@ image: assets/cdgriffith_FastFlix_20251125_013824_378_20251126_101247_64a5f0--20
 # [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix/)
 
 GUI for H.264, HEVC and AV1 encoding
+
+H.264、HEVC 和 AV1 编码的 GUI 工具

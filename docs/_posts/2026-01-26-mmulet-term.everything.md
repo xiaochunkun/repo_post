@@ -7,3 +7,5 @@ image: assets/mmulet_term_everything_20260122_050308_036_20260122_050333_551c75.
 # [mmulet/term.everything](https://github.com/mmulet/term.everything)
 
 Runs GUI applications in the terminal over SSH
+
+通过 SSH 在终端中运行 GUI 应用程序

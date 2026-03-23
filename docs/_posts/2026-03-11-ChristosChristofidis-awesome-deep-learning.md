@@ -7,3 +7,5 @@ image: assets/ChristosChristofidis_awesome_deep_learning_20260222_192605_810_202
 # [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 Curated list of deep learning resources
+
+深度学习资源的精选列表

@@ -7,3 +7,5 @@ image: assets/20251005T100554051--maxpert--marmot--20251005T101010193--cropped.p
 # [maxpert/marmot](https://github.com/maxpert/marmot)
 
 Distributed SQLite replication with leaderless, eventually consistent sync between nodes
+
+分布式SQLite复制，节点间采用无领导、最终一致的同步

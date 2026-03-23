@@ -7,3 +7,5 @@ image: assets/LSTM_Kirigaya_slidev_ai_20260201_083911_026_20260201_083947_a813dc
 # [LSTM-Kirigaya/slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai)
 
 Generates presentations from text using LLMs
+
+使用LLM从文本生成演示文稿

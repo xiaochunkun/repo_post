@@ -7,3 +7,5 @@ image: assets/Helicone_ai_gateway_20260204_163116_567_20260204_163134_509e3b.png
 # [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway)
 
 Gateway for LLM requests built on Rust
+
+基于 Rust 构建的 LLM 请求网关

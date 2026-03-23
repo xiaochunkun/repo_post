@@ -7,3 +7,5 @@ image: assets/viblo_pymunk_cropped.png
 # [viblo/pymunk](https://github.com/viblo/pymunk)
 
 2D physics for Python games and simulations
+
+用于Python游戏和模拟的2D物理引擎

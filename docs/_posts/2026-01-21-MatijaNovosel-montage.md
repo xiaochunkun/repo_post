@@ -7,3 +7,5 @@ image: assets/MatijaNovosel_montage_20260120_022127_287_20260120_022148_7f975b.p
 # [MatijaNovosel/montage](https://github.com/MatijaNovosel/montage)
 
 Clip editor built with Tauri and Vue
+
+使用 Tauri 和 Vue 构建的剪辑编辑器

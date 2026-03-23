@@ -7,3 +7,5 @@ image: assets/20250906T224012881--TriliumNext--Trilium--20250908T100148032--crop
 # [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
 
 open-source note-taking app for building personal knowledge bases
+
+用于构建个人知识库的开源笔记应用

@@ -7,3 +7,5 @@ image: assets/20250915T205016492--Hack-with-Github--Awesome-Hacking--20250918T04
 # [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 Curated lists of hacking tools, resources, and guides for security researchers and pentesters
+
+为安全研究人员和渗透测试人员精选的黑客工具、资源和指南列表

@@ -7,3 +7,5 @@ image: assets/topoteretes_cognee_20260209_113901_021_20260209_113922_2ab4ca.png
 # [topoteretes/cognee](https://github.com/topoteretes/cognee)
 
 Replaces RAG with ECL pipelines for AI memory
+
+用 ECL 管道替代 RAG 实现 AI 记忆

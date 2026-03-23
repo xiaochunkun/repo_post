@@ -7,3 +7,5 @@ image: assets/assafelovic_skyll_20260222_100455_679_20260222_100511_e3a337.png
 # [assafelovic/skyll](https://github.com/assafelovic/skyll)
 
 Agents discover and learn skills at runtime
+
+智能体在运行时发现和学习技能

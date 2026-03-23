@@ -7,3 +7,5 @@ image: assets/ZTE_AICloud_Co_Sight_20251103_232712_667_20251104_182010_412e24--2
 # [ZTE-AICloud/Co-Sight](https://github.com/ZTE-AICloud/Co-Sight/)
 
 Builds a Manus-like system with low-cost large models
+
+使用低成本大模型构建类Manus系统

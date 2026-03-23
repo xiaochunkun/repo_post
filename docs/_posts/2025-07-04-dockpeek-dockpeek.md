@@ -7,3 +7,5 @@ image: assets/dockpeek_dockpeek_cropped.png
 # [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek)
 
 dockpeek: dashboard for monitoring Docker containers with authentication
+
+dockpeek：用于监控Docker容器的仪表板，具有身份验证功能

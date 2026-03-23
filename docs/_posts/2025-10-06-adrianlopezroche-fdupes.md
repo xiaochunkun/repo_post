@@ -7,3 +7,5 @@ image: assets/20251005T225917290--adrianlopezroche--fdupes--20251005T230741815--
 # [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes)
 
 finds duplicate files in directories
+
+在目录中查找重复文件

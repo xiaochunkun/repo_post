@@ -7,3 +7,5 @@ image: assets/20250830T032621579--aliakseis--webrtc-ui--20250830T033030099--crop
 # [aliakseis/webrtc-ui](https://github.com/aliakseis/webrtc-ui)
 
 WebRTC video chat demo using Qt and ntty.sh signaling
+
+基于 Qt 和 ntty.sh 信令的 WebRTC 视频聊天示例

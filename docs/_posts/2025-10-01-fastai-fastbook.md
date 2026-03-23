@@ -7,3 +7,5 @@ image: assets/20251001T132038881--fastai--fastbook--20251001T132328036--cropped.
 # [fastai/fastbook](https://github.com/fastai/fastbook)
 
 Jupyter notebooks teaching deep learning with fastai and PyTorch
+
+使用fastai和PyTorch教授深度学习的Jupyter笔记本

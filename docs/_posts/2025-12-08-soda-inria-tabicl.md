@@ -7,3 +7,5 @@ image: assets/soda_inria_tabicl_20251207_185346_314_20251207_185631_b01145.png
 # [soda-inria/tabicl](https://github.com/soda-inria/tabicl/)
 
 Tabular foundation model for in-context learning
+
+用于上下文学习的表格基础模型

@@ -7,3 +7,5 @@ image: assets/rotki_rotki_20251110_132240_477_20251110_141110_4e719f--20251110T1
 # [rotki/rotki](https://github.com/rotki/rotki/)
 
 Self-hosted, privacy-focused portfolio manager
+
+自托管、注重隐私的投资组合管理器

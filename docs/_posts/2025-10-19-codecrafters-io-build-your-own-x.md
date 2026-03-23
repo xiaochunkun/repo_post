@@ -7,3 +7,5 @@ image: assets/codecrafters_io_build_your_own_x_20251018_063701_333_20251019_2042
 # [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x/)
 
 Guides to build technologies from scratch
+
+从零构建技术的指南

@@ -7,3 +7,5 @@ image: assets/siderolabs_omni_20260303_185648_762_20260303_185820_d3f517.png
 # [siderolabs/omni](https://github.com/siderolabs/omni)
 
 Deploys Kubernetes on bare metal or virtual machines
+
+在裸机或虚拟机上部署Kubernetes

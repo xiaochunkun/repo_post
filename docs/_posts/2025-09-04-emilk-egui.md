@@ -7,3 +7,5 @@ image: assets/20250903T035249452--emilk--egui--20250903T035815591--cropped.png
 # [emilk/egui](https://github.com/emilk/egui)
 
 immediate mode GUI library for Rust, runs on web and native
+
+Rust 即时模式 GUI 库，支持 Web 和原生平台

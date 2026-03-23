@@ -7,3 +7,5 @@ image: assets/melodee_project_melodee_20260112_113710_154_20260112_113724_299859
 # [melodee-project/melodee](https://github.com/melodee-project/melodee)
 
 Streams music libraries with millions of songs
+
+流媒体音乐库，包含数百万首歌曲

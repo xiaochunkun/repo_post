@@ -7,3 +7,5 @@ image: assets/twhite96_js_dev_reads_20260121_184206_093_20260121_184222_3436b6.p
 # [twhite96/js-dev-reads](https://github.com/twhite96/js-dev-reads)
 
 Curated books and articles for JavaScript developers
+
+为JavaScript开发者精选的书籍和文章

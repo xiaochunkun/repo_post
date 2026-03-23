@@ -7,3 +7,5 @@ image: assets/johnfactotum_foliate_20260304_030226_468_20260304_030359_133310.pn
 # [johnfactotum/foliate](https://github.com/johnfactotum/foliate)
 
 E-book reader for Linux desktops
+
+Linux桌面的电子书阅读器

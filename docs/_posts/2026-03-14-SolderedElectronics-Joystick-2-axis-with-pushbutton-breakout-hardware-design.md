@@ -7,3 +7,5 @@ image: assets/SolderedElectronics_Joystick_2_axis_with_pushbutton_breakout_hardw
 # [SolderedElectronics/Joystick-2-axis-with-pushbutton-breakout-hardware-design](https://github.com/SolderedElectronics/Joystick-2-axis-with-pushbutton-breakout-hardware-design)
 
 2-axis joystick hardware design with pushbutton
+
+带按钮的2轴摇杆硬件设计

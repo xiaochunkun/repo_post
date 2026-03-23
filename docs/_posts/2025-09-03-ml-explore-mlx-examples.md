@@ -7,3 +7,5 @@ image: assets/20250903T020010258--ml-explore--mlx-examples--20250903T020353565--
 # [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)
 
 mlx-examples has code for text, image, audio, and multimodal ML models using the MLX framework
+
+MLX 框架的示例代码，涵盖文本、图像、音频和多模态 ML 模型

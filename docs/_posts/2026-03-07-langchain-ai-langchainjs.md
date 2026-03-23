@@ -7,3 +7,5 @@ image: assets/langchain_ai_langchainjs_20260305_094821_798_20260305_094936_2189a
 # [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)
 
 Framework for building applications with large language models
+
+使用大语言模型构建应用的框架

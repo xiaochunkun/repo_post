@@ -7,3 +7,5 @@ image: assets/hashicorp_vault_20260318_105430_818_20260318_105540_f08807.png
 # [hashicorp/vault](https://github.com/hashicorp/vault)
 
 Manages secrets and encryption
+
+管理密钥和加密

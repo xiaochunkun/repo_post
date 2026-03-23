@@ -7,3 +7,5 @@ image: assets/ClickHouse_ClickHouse_20260124_081830_558_20260124_081849_135f73.p
 # [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
 
 Column-oriented database for real-time analytics
+
+实时分析列式数据库

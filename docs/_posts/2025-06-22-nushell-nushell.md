@@ -7,3 +7,5 @@ image: assets/nushell_nushell_cropped.png
 # [nushell/nushell](https://github.com/nushell/nushell)
 
 Shell and scripting language for working with structured data, files, and pipelines
+
+用于处理结构化数据、文件和管道的Shell和脚本语言

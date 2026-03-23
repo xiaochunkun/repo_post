@@ -7,3 +7,5 @@ image: assets/20250925T042702066--ngoduykhanh--wireguard-ui--20250925T042938659-
 # [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui)
 
 web interface for managing WireGuard VPN clients and configs
+
+用于管理WireGuard VPN客户端和配置的Web界面

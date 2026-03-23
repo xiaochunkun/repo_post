@@ -7,3 +7,5 @@ image: assets/localsend_localsend_cropped.png
 # [localsend/localsend](https://github.com/localsend/localsend)
 
 send files or messages to nearby devices over local network, no internet needed
+
+通过本地网络向附近设备发送文件或消息，无需互联网

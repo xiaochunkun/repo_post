@@ -7,3 +7,5 @@ image: assets/davebcn87_pi_autoresearch_20260321_172120_138_20260321_172204_b947
 # [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
 
 Pi extension for autonomous optimization loops
+
+用于自主优化循环的Pi扩展

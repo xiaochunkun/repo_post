@@ -7,3 +7,5 @@ image: assets/Nekmo_telegram_upload_20260117_095832_301_20260117_095919_3bcdff.p
 # [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload)
 
 Uploads and downloads files up to 4 GiB via Telegram
+
+通过Telegram上传和下载文件，最大4 GiB

@@ -7,3 +7,5 @@ image: assets/parcadei_ouros_20260307_101049_070_20260307_101234_25e9dc.png
 # [parcadei/ouros](https://github.com/parcadei/ouros)
 
 Execute Python code via sandboxed runtime
+
+通过沙盒运行时执行Python代码

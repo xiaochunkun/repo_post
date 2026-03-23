@@ -7,3 +7,5 @@ image: assets/CoppingEthan_Brisk_Budget_20260208_174048_567_20260208_174110_5d02
 # [CoppingEthan/Brisk-Budget](https://github.com/CoppingEthan/Brisk-Budget)
 
 Tracks household finances using JSON files without a database
+
+使用 JSON 文件跟踪家庭财务，无需数据库

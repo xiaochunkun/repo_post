@@ -7,3 +7,5 @@ image: assets/hmpl-language_hmpl_cropped.png
 # [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl)
 
 server-side UI templates with fetch and minimal JS
+
+使用 fetch 和最小化 JS 的服务器端 UI 模板

@@ -7,3 +7,5 @@ image: assets/SeyZ_clawbands_20260315_134231_281_20260315_134313_b2b812.png
 # [SeyZ/clawbands](https://github.com/SeyZ/clawbands)
 
 Intercepts tool execution for OpenClaw agents
+
+拦截OpenClaw代理的工具执行

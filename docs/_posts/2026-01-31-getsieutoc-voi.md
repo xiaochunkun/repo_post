@@ -7,3 +7,5 @@ image: assets/getsieutoc_voi_20260130_133828_338_20260130_133904_db60ee.png
 # [getsieutoc/voi](https://github.com/getsieutoc/voi)
 
 Self-hosted customer feedback management system
+
+自托管客户反馈管理系统

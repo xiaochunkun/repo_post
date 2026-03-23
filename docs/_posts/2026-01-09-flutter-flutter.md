@@ -7,3 +7,5 @@ image: assets/flutter_flutter_20260107_030405_069_20260107_030419_23fb0e.png
 # [flutter/flutter](https://github.com/flutter/flutter)
 
 SDK for building apps from a single codebase
+
+从单一代码库构建应用的SDK

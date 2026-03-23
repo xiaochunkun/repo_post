@@ -7,3 +7,5 @@ image: assets/o2sh_onefetch--20250905T023147955--cropped.png
 # [o2sh/onefetch](https://github.com/o2sh/onefetch)
 
 shows git repo stats in your terminal
+
+在终端中展示 Git 仓库统计信息

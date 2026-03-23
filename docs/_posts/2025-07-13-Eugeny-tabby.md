@@ -7,3 +7,5 @@ image: assets/Eugeny_tabby_cropped.png
 # [Eugeny/tabby](https://github.com/Eugeny/tabby)
 
 Terminal emulator with SSH and serial support
+
+支持SSH和串口的终端模拟器

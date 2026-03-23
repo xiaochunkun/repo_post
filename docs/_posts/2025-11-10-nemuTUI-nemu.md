@@ -7,3 +7,5 @@ image: assets/nemuTUI_nemu_20251110_120528_498_20251110_120719_ab2313--20251110T
 # [nemuTUI/nemu](https://github.com/nemuTUI/nemu/)
 
 Ncurses UI for managing QEMU VMs
+
+管理QEMU虚拟机的Ncurses界面

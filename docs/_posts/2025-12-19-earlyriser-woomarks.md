@@ -7,3 +7,5 @@ image: assets/earlyriser_woomarks_20251217_193529_286_20251217_193549_ac1667.png
 # [earlyriser/woomarks](https://github.com/earlyriser/woomarks/)
 
 Saves links in browser storage without accounts
+
+无需账户在浏览器存储中保存链接

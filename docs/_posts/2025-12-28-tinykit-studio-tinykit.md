@@ -7,3 +7,5 @@ image: assets/tinykit_studio_tinykit_20251227_040436_464_20251227_040453_b63447.
 # [tinykit-studio/tinykit](https://github.com/tinykit-studio/tinykit/)
 
 Self-hosted agentic app builder
+
+自托管的智能体应用构建器

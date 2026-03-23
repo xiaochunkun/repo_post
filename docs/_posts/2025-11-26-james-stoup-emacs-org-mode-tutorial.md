@@ -7,3 +7,5 @@ image: assets/james_stoup_emacs_org_mode_tutorial_20251123_203431_328_20251125_2
 # [james-stoup/emacs-org-mode-tutorial](https://github.com/james-stoup/emacs-org-mode-tutorial/)
 
 Primer for making sense of Emacs Org Mode
+
+理解 Emacs Org Mode 的入门指南

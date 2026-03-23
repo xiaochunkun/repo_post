@@ -7,3 +7,5 @@ image: assets/thecmdguy_Ducky_20260122_063346_402_20260122_063404_730df7.png
 # [thecmdguy/Ducky](https://github.com/thecmdguy/Ducky)
 
 Desktop application for network engineers with terminal and topology mapper
+
+网络工程师桌面应用，含终端和拓扑映射器

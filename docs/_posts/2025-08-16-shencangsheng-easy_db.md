@@ -7,3 +7,5 @@ image: assets/20250816T010556842_shencangsheng_easy_db--20250816T010907904--crop
 # [shencangsheng/easy_db](https://github.com/shencangsheng/easy_db)
 
 query CSV, JSON, xlsx, and more with SQL in Rust
+
+在Rust中使用SQL查询CSV、JSON、xlsx等文件

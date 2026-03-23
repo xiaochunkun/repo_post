@@ -7,3 +7,5 @@ image: assets/leinelissen_jellyfin_audio_player_20260122_031830_030_20260122_031
 # [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player)
 
 Streams audio from Jellyfin servers to mobile devices
+
+从 Jellyfin 服务器流式传输音频到移动设备

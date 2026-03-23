@@ -7,3 +7,5 @@ image: assets/Plumbiu_ai_translator_20251216_190451_482_20251216_190515_dfa7f8.p
 # [Plumbiu/ai-translator](https://github.com/Plumbiu/ai-translator/)
 
 Chrome extension using built-in browser AI for translation
+
+使用浏览器内置 AI 进行翻译的 Chrome 扩展

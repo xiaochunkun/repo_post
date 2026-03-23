@@ -7,3 +7,5 @@ image: assets/cisco_ai_defense_skill_scanner_20260225_204328_336_20260225_204452
 # [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)
 
 Scans AI agent skills for prompt injection and data exfiltration
+
+扫描 AI 代理技能以检测提示注入和数据泄露

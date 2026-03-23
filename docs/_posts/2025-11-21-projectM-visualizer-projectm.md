@@ -7,3 +7,5 @@ image: assets/projectM_visualizer_projectm_20251120_050320_824_20251120_195051_f
 # [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm/)
 
 Music visualization library reimplementing Milkdrop
+
+重新实现 Milkdrop 的音乐可视化库

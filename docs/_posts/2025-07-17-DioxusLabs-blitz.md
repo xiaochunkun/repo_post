@@ -7,3 +7,5 @@ image: assets/DioxusLabs_blitz_cropped.png
 # [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz)
 
 modular Rust web renderer for HTML and CSS
+
+用于 HTML 和 CSS 的模块化 Rust Web 渲染器

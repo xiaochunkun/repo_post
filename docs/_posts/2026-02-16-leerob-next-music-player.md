@@ -7,3 +7,5 @@ image: assets/leerob_next_music_player_20260117_044717_613_20260117_044731_f84da
 # [leerob/next-music-player](https://github.com/leerob/next-music-player)
 
 Music player for local files
+
+本地文件的音乐播放器

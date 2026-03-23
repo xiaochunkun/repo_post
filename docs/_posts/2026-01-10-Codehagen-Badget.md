@@ -7,3 +7,5 @@ image: assets/Codehagen_Badget_20260108_145018_907_20260108_145033_3d624c.png
 # [Codehagen/Badget](https://github.com/Codehagen/Badget)
 
 Financial management platform with AI insights and budget automation
+
+具备AI洞察和预算自动化的财务管理平台

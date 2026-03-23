@@ -7,3 +7,5 @@ image: assets/20250818T101419368_spliit-app_spliit--20250820T125757435--cropped.
 # [spliit-app/spliit](https://github.com/spliit-app/spliit)
 
 open source bill splitting app, alternative to Splitwise
+
+开源账单分摊应用，Splitwise 的替代品

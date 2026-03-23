@@ -7,3 +7,5 @@ image: assets/avtzis_awesome_linux_ricing_20260115_084009_852_20260115_084024_17
 # [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing)
 
 List of tools for customizing Linux environments
+
+定制 Linux 环境的工具列表

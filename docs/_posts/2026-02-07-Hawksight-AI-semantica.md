@@ -7,3 +7,5 @@ image: assets/Hawksight_AI_semantica_20260204_030632_609_20260204_030658_38a568.
 # [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica)
 
 Framework for building knowledge graphs from text
+
+从文本构建知识图谱的框架

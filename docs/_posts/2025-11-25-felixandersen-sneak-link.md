@@ -7,3 +7,5 @@ image: assets/felixandersen_sneak_link_20251123_195805_664_20251125_012654_42955
 # [felixandersen/sneak-link](https://github.com/felixandersen/sneak-link/)
 
 Link-based access control for self-hosted services
+
+自托管服务的基于链接的访问控制

@@ -7,3 +7,5 @@ image: assets/OpenEmu_OpenEmu_20260205_213339_182_20260205_213400_794479.png
 # [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)
 
 Emulates game consoles on macOS
+
+在macOS上模拟游戏主机

@@ -7,3 +7,5 @@ image: assets/DataAnts_AI_CutScript_20260309_134236_880_20260309_134419_008ce6.p
 # [DataAnts-AI/CutScript](https://github.com/DataAnts-AI/CutScript)
 
 Edits video by editing text transcript
+
+通过编辑文本转录来编辑视频

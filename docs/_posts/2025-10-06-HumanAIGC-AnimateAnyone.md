@@ -7,3 +7,5 @@ image: assets/20251005T103036299--HumanAIGC--AnimateAnyone--20251005T104035000--
 # [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)
 
 turns static character images into controllable animations
+
+将静态角色图像转换为可控动画

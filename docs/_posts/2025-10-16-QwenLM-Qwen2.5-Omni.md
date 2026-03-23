@@ -7,3 +7,5 @@ image: assets/20251016T020747414--QwenLM--Qwen2.5-Omni--20251016T044058255--crop
 # [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni)
 
 multimodal AI model for real-time text, image, audio, and video chat
+
+多模态AI模型，支持实时文本、图像、音频和视频聊天

@@ -7,3 +7,5 @@ image: assets/20251013T001355428--pi-hole--docker-pi-hole--20251013T002028020--c
 # [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
 
 run Pi-hole in Docker for network-wide ad blocking
+
+在 Docker 中运行 Pi-hole，实现全网广告拦截

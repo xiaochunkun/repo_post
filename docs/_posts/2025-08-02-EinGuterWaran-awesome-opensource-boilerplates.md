@@ -7,3 +7,5 @@ image: assets/EinGuterWaran_awesome-opensource-boilerplates_cropped.png
 # [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates)
 
 curated open source SaaS boilerplates and starter templates
+
+精选的开源 SaaS 样板和启动模板

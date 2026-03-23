@@ -7,3 +7,5 @@ image: assets/transformerlab_transformerlab_app_20260204_052458_012_20260204_052
 # [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app)
 
 Platform to train and scale models on local hardware or GPU clusters
+
+在本地硬件或GPU集群上训练和扩展模型的平台

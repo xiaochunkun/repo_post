@@ -7,3 +7,5 @@ image: assets/nekename_OpenDeck_20260204_235315_456_20260204_235339_67f8e2.png
 # [nekename/OpenDeck](https://github.com/nekename/OpenDeck)
 
 Linux software for Elgato Stream Deck with plugin support
+
+支持插件的 Elgato Stream Deck Linux 软件

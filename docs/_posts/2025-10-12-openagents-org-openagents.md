@@ -7,3 +7,5 @@ image: assets/20251012T023443715--openagents-org--openagents--20251012T023832028
 # [openagents-org/openagents](https://github.com/openagents-org/openagents)
 
 open-source framework for building and connecting AI agent networks
+
+用于构建和连接 AI 代理网络的开源框架

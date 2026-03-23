@@ -7,3 +7,5 @@ image: assets/remorses_opencode_fork_20260120_140429_430_20260120_140444_9a0401.
 # [remorses/opencode-fork](https://github.com/remorses/opencode-fork)
 
 AI coding agent for the terminal
+
+终端AI编程代理

@@ -7,3 +7,5 @@ image: assets/gethomepage_homepage_20260108_021800_999_20260108_021814_3643d3.pn
 # [gethomepage/homepage](https://github.com/gethomepage/homepage)
 
 Dashboard with service integrations and docker label discovery
+
+集成服务和Docker标签发现的仪表板

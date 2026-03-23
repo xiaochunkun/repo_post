@@ -7,3 +7,5 @@ image: assets/20250911T022641363--open-compass--opencompass--20250911T023130139-
 # [open-compass/opencompass](https://github.com/open-compass/opencompass)
 
 evaluating large language models across tasks and datasets
+
+跨任务和数据集评估大语言模型

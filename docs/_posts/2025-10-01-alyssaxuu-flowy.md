@@ -7,3 +7,5 @@ image: assets/20251001T121927622--alyssaxuu--flowy--20251001T132010895--cropped.
 # [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy)
 
 drag and drop flowchart builder for web apps
+
+用于 Web 应用的拖放式流程图构建器

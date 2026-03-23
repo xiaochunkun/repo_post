@@ -7,3 +7,5 @@ image: assets/utmapp_UTM_20260203_010440_447_20260203_010508_510c97.png
 # [utmapp/UTM](https://github.com/utmapp/UTM)
 
 Runs Windows and Linux on iOS and macOS
+
+在iOS和macOS上运行Windows和Linux

@@ -7,3 +7,5 @@ image: assets/getgridea_gridea_20260313_161807_410_20260313_162214_796191.png
 # [getgridea/gridea](https://github.com/getgridea/gridea)
 
 Blog writing client syncing with GitHub Pages
+
+与 GitHub Pages 同步的博客写作客户端

@@ -7,3 +7,5 @@ image: assets/Galaxy_Dawn_claude_scholar_20260322_053621_289_20260322_053656_53f
 # [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar)
 
 Semi-automated research assistant for academic work
+
+学术工作的半自动化研究助手

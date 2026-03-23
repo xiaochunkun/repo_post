@@ -7,3 +7,5 @@ image: assets/playwora_wora_20260202_174534_534_20260202_174626_356cd4.png
 # [playwora/wora](https://github.com/playwora/wora)
 
 Music player with FLAC and WAV support
+
+支持 FLAC 和 WAV 的音乐播放器

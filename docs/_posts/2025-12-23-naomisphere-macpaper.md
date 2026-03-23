@@ -7,3 +7,5 @@ image: assets/naomisphere_macpaper_20251222_162849_749_20251222_162909_63c2df.pn
 # [naomisphere/macpaper](https://github.com/naomisphere/macpaper/)
 
 Wallpaper manager for macOS with support for gifs and videos
+
+支持 gif 和视频的 macOS 壁纸管理器

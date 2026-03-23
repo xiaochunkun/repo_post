@@ -7,3 +7,5 @@ image: assets/TraderAlice_OpenAlice_20260306_193115_996_20260306_193234_ab9de4.p
 # [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)
 
 Automate trading via file-driven AI agents
+
+通过文件驱动AI智能体自动化交易

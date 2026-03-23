@@ -7,3 +7,5 @@ image: assets/matsonj_csv_everything_20251217_071343_693_20251217_071420_c53d85.
 # [matsonj/csv-everything](https://github.com/matsonj/csv-everything/)
 
 Converts images of tables into CSV files
+
+将表格图像转换为 CSV 文件

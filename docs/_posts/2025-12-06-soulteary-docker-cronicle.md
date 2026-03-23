@@ -7,3 +7,5 @@ image: assets/soulteary_docker_cronicle_20251203_010626_495_20251203_010651_7763
 # [soulteary/docker-cronicle](https://github.com/soulteary/docker-cronicle/)
 
 Cronicle Docker solution for x86 and ARM
+
+适用于x86和ARM的Cronicle Docker解决方案

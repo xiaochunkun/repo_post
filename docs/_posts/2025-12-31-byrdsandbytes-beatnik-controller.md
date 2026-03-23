@@ -7,3 +7,5 @@ image: assets/byrdsandbytes_beatnik_controller_20251230_112736_526_20251230_1128
 # [byrdsandbytes/beatnik-controller](https://github.com/byrdsandbytes/beatnik-controller/)
 
 Remote control for Snapcast multi-room audio servers
+
+Snapcast 多房间音频服务器的远程控制

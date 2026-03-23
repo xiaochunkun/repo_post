@@ -7,3 +7,5 @@ image: assets/fonoster_routr_20251109_005809_006_20251109_141343_655841--2025110
 # [fonoster/routr](https://github.com/fonoster/routr/)
 
 SIP proxy, location server, and registrar for telephony
+
+用于电话的SIP代理、位置服务器和注册器

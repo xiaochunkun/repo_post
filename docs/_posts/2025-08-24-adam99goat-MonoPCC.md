@@ -7,3 +7,5 @@ image: assets/20250823T012358727--adam99goat--MonoPCC--20250823T012800385--cropp
 # [adam99goat/MonoPCC](https://github.com/adam99goat/MonoPCC)
 
 monocular depth estimation for endoscopic images with PyTorch
+
+基于 PyTorch 的内窥镜图像单目深度估计

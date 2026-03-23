@@ -7,3 +7,5 @@ image: assets/batteries_included_batteries_included_20251230_194025_371_20251230
 # [batteries-included/batteries-included](https://github.com/batteries-included/batteries-included/)
 
 Deploys infrastructure on Kubernetes in minutes
+
+在几分钟内于 Kubernetes 上部署基础设施

@@ -7,3 +7,5 @@ image: assets/toon_format_toon_20251116_092827_316_20251117_214748_3ff93e--20251
 # [toon-format/toon](https://github.com/toon-format/toon/)
 
 Serialization format for JSON that minimizes tokens
+
+最小化令牌的JSON序列化格式

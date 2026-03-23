@@ -7,3 +7,5 @@ image: assets/jaywcjlove_awesome_swift_macos_apps_20251219_115127_469_20251219_1
 # [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps/)
 
 Curated list of open-source macOS applications built with Swift
+
+精选的Swift开源macOS应用列表

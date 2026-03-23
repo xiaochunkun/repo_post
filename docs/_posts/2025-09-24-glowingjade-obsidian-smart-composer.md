@@ -7,3 +7,5 @@ image: assets/20250924T060920776--glowingjade--obsidian-smart-composer--20250924
 # [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer)
 
 AI-powered writing in Obsidian with contextual chat and seamless note integration
+
+Obsidian 中的 AI 驱动写作，具备上下文聊天和无缝笔记集成

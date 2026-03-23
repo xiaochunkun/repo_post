@@ -7,3 +7,5 @@ image: assets/informatici_openhospital_20260120_011331_377_20260120_011346_51d1f
 # [informatici/openhospital](https://github.com/informatici/openhospital)
 
 Health Information Management System for hospitals
+
+医院的健康信息管理系统

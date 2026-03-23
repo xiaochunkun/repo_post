@@ -7,3 +7,5 @@ image: assets/AsyncFuncAI_deepwiki_open_20260304_092100_083_20260304_092256_f299
 # [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
 
 Generates wikis and diagrams for code repositories
+
+为代码仓库生成 wiki 和图表

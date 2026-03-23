@@ -7,3 +7,5 @@ image: assets/cloudflare_cloudflared_20260225_204112_641_20260225_204252_9a2107.
 # [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 
 Proxies traffic from the network to origins without firewall holes
+
+从网络代理流量到源站，无需防火墙开孔

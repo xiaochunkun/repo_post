@@ -7,3 +7,5 @@ image: assets/0xSojalSec_Autonomous_LLM_Agents_20260115_235911_362_20260115_2359
 # [0xSojalSec/Autonomous-LLM-Agents](https://github.com/0xSojalSec/Autonomous-LLM-Agents)
 
 Discovers tools for autonomous agents
+
+发现自主代理的工具

@@ -7,3 +7,5 @@ image: assets/fastfire_deepdarkCTI_20251025_190226_699_20251025_230100_315cb2--2
 # [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI/)
 
 Collects cyber threat intelligence sources from the deep and dark web
+
+从深网和暗网收集网络威胁情报源

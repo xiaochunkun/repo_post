@@ -7,3 +7,5 @@ image: assets/mozilla_ai_llamafile_20260318_010254_057_20260318_010401_1025d6.pn
 # [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)
 
 Run LLMs in a single file executable
+
+在单个可执行文件中运行LLM

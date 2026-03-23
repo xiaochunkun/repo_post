@@ -7,3 +7,5 @@ image: assets/B00merang-Project_Windows-XP_cropped.png
 # [B00merang-Project/Windows-XP](https://github.com/B00merang-Project/Windows-XP)
 
 Windows XP themes for Linux desktops
+
+适用于Linux桌面的Windows XP主题

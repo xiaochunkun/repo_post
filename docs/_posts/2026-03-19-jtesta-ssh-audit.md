@@ -7,3 +7,5 @@ image: assets/jtesta_ssh_audit_20260319_075426_141_20260319_075533_e41e7d.png
 # [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)
 
 Audits SSH server and client configurations
+
+审计 SSH 服务器和客户端配置

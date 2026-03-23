@@ -7,3 +7,5 @@ image: assets/Lissy93_personal-security-checklist_cropped.png
 # [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 
 digital security checklist with 300+ privacy tips
+
+包含 300 多个隐私提示的数字安全清单

@@ -7,3 +7,5 @@ image: assets/kunkundi_crossdesk_20260108_040434_539_20260108_040448_648807.png
 # [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk)
 
 Remote desktop software with web client access
+
+远程桌面软件，支持Web客户端访问

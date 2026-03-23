@@ -7,3 +7,5 @@ image: assets/1Hive_payroll_app_20260102_145927_234_20260102_145942_0007f4.png
 # [1Hive/payroll-app](https://github.com/1Hive/payroll-app/)
 
 Streams salaries in assets and equity
+
+以资产和股权形式发放薪资

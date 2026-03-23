@@ -7,3 +7,5 @@ image: assets/gmickel_sheets_cli_20260207_225529_652_20260207_225602_8ccedc.png
 # [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli)
 
 CLI for Google Sheets with agent skills
+
+具有代理技能的 Google Sheets CLI

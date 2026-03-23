@@ -7,3 +7,5 @@ image: assets/vercel_components_build_20251125_233420_478_20251128_212941_c308e6
 # [vercel/components.build](https://github.com/vercel/components.build/)
 
 Specification for building UI components
+
+构建 UI 组件的规范

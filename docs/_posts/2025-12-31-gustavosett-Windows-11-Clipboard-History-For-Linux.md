@@ -7,3 +7,5 @@ image: assets/gustavosett_Windows_11_Clipboard_History_For_Linux_20251231_024829
 # [gustavosett/Windows-11-Clipboard-History-For-Linux](https://github.com/gustavosett/Windows-11-Clipboard-History-For-Linux/)
 
 Clipboard manager for Linux with emoji and GIF support
+
+支持表情符号和 GIF 的 Linux 剪贴板管理器

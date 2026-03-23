@@ -7,3 +7,5 @@ image: assets/afshinea_stanford_cs_221_artificial_intelligence_20251208_004805_1
 # [afshinea/stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/)
 
 Cheatsheets for Stanford's CS 221 AI course
+
+斯坦福CS 221 AI课程的速查表

@@ -7,3 +7,5 @@ image: assets/20250831T001530662--lucia-auth--lucia--20250831T003240279--cropped
 # [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
 
 Lucia gives open source auth resources for JavaScript and TypeScript devs
+
+面向 JavaScript 和 TypeScript 开发者的开源认证资源

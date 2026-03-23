@@ -7,3 +7,5 @@ image: assets/20250924T061713906--unopim--unopim--20250924T062332471--cropped.pn
 # [unopim/unopim](https://github.com/unopim/unopim)
 
 open source tool for managing and enriching product information
+
+开源工具，用于管理和丰富产品信息

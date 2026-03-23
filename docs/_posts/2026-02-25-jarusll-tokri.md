@@ -7,3 +7,5 @@ image: assets/jarusll_tokri_20260225_002444_066_20260225_002617_9866e7.png
 # [jarusll/tokri](https://github.com/jarusll/tokri)
 
 Basket for dragging and dropping items
+
+拖放项目的篮子

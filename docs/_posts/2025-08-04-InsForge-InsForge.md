@@ -7,3 +7,5 @@ image: assets/InsForge_InsForge_cropped.png
 # [InsForge/InsForge](https://github.com/InsForge/InsForge)
 
 ai-native backend alternative to supabase
+
+AI原生的Supabase替代后端

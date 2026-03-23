@@ -7,3 +7,5 @@ image: assets/abhimishra91_insight_20260130_234521_351_20260130_234621_45540b.pn
 # [abhimishra91/insight](https://github.com/abhimishra91/insight)
 
 NLP service with FastAPI and Streamlit
+
+基于 FastAPI 和 Streamlit 的 NLP 服务

@@ -7,3 +7,5 @@ image: assets/lost_pixel_lost_pixel_20260117_002138_084_20260117_002204_a8082b.p
 # [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel)
 
 Visual regression testing for Storybook and web pages
+
+用于Storybook和网页的视觉回归测试

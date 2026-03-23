@@ -7,3 +7,5 @@ image: assets/potatameister_PaperKnife_20260217_052621_797_20260217_052722_17e2a
 # [potatameister/PaperKnife](https://github.com/potatameister/PaperKnife)
 
 PDF utility with local processing
+
+具备本地处理功能的PDF工具

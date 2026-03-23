@@ -7,3 +7,5 @@ image: assets/saltcorn_saltcorn_cropped.png
 # [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn)
 
 build web apps without code using Saltcorn
+
+使用Saltcorn无需代码构建Web应用

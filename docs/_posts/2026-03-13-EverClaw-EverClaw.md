@@ -7,3 +7,5 @@ image: assets/EverClaw_EverClaw_20260310_222616_810_20260310_222913_4b6c1d.png
 # [EverClaw/EverClaw](https://github.com/EverClaw/EverClaw)
 
 Decentralized AI inference network for agents
+
+用于代理的去中心化 AI 推理网络

@@ -7,3 +7,5 @@ image: assets/20250903T030327084--n0-computer--iroh--20250917T010937799--cropped
 # [n0-computer/iroh](https://github.com/n0-computer/iroh)
 
 peer-to-peer networking library with hole punching and relay support
+
+支持打洞和中继的点对点网络库

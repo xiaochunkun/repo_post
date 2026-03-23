@@ -7,3 +7,5 @@ image: assets/makeplane_plane_cropped.png
 # [makeplane/plane](https://github.com/makeplane/plane)
 
 project management tool for tracking issues, sprints, and product roadmaps
+
+用于跟踪问题、冲刺和产品路线图的项目管理工具

@@ -7,3 +7,5 @@ image: assets/Col_E_Recaf_Launcher_20251204_214754_525_20251204_214828_f6f74a.pn
 # [Col-E/Recaf-Launcher](https://github.com/Col-E/Recaf-Launcher/)
 
 Launcher for running Recaf 4.X and above
+
+运行Recaf 4.X及更高版本的启动器

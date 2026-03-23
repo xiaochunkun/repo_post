@@ -7,3 +7,5 @@ image: assets/iflytek_astron_rpa_20251114_221339_454_20251115_201852_6178cd--202
 # [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa/)
 
 Enterprise RPA desktop application with a visual designer
+
+带可视化设计器的企业 RPA 桌面应用

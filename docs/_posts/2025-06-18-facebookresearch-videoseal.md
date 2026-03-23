@@ -7,3 +7,5 @@ image: assets/facebookresearch_videoseal_cropped.png
 # [facebookresearch/videoseal](https://github.com/facebookresearch/videoseal)
 
 video and image watermarking code for training and inference
+
+用于训练和推理的视频和图像水印代码

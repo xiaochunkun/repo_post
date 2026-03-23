@@ -7,3 +7,5 @@ image: assets/markmap_markmap_cropped.png
 # [markmap/markmap](https://github.com/markmap/markmap)
 
 Tool for turning Markdown into mindmaps
+
+将 Markdown 转换为思维导图的工具

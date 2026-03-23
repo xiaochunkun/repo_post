@@ -7,3 +7,5 @@ image: assets/block_trailblaze_20251031_134110_845_20251101_210007_b01a3f--20251
 # [block/trailblaze](https://github.com/block/trailblaze/)
 
 AI-powered mobile testing framework using natural language
+
+使用自然语言的 AI 驱动移动测试框架

@@ -7,3 +7,5 @@ image: assets/NREL_EnergyPlus_20251125_022320_805_20251127_161349_15f419--202511
 # [NREL/EnergyPlus](https://github.com/NREL/EnergyPlus/)
 
 Whole building energy simulation program
+
+全建筑能耗模拟程序

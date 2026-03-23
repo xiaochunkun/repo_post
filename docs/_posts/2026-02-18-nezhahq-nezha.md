@@ -7,3 +7,5 @@ image: assets/nezhahq_nezha_20260122_091635_005_20260122_091651_5e0219.png
 # [nezhahq/nezha](https://github.com/nezhahq/nezha)
 
 Monitors servers and websites with push alerts and web terminal
+
+通过推送警报和 Web 终端监控服务器和网站

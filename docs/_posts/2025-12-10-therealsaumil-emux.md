@@ -7,3 +7,5 @@ image: assets/therealsaumil_emux_20251207_225651_364_20251207_225800_b20a0b.png
 # [therealsaumil/emux](https://github.com/therealsaumil/emux/)
 
 Firmware emulation framework on Docker
+
+基于Docker的固件仿真框架

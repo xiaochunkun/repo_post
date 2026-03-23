@@ -7,3 +7,5 @@ image: assets/basarsubasi_simplefitnessapp_20260130_052308_006_20260130_052352_2
 # [basarsubasi/simplefitnessapp](https://github.com/basarsubasi/simplefitnessapp)
 
 Fitness tracker for local workout data
+
+本地锻炼数据的健身追踪器

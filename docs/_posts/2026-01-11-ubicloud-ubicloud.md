@@ -7,3 +7,5 @@ image: assets/ubicloud_ubicloud_20260108_022240_359_20260108_022253_6d76a3.png
 # [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 
 Cloud services on bare metal providers
+
+裸机提供商上的云服务

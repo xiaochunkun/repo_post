@@ -7,3 +7,5 @@ image: assets/worldbench_awesome_3d_4d_world_models_20260113_103845_665_20260113
 # [worldbench/awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models)
 
 Surveys systems that simulate geometry and dynamics of environments from signals
+
+调查从信号模拟环境几何和动态的系统

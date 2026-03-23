@@ -7,3 +7,5 @@ image: assets/Leantime_leantime--20250818T101349230--cropped.png
 # [Leantime/leantime](https://github.com/Leantime/leantime)
 
 open source project management for teams
+
+团队开源项目管理工具

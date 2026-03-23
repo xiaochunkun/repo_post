@@ -7,3 +7,5 @@ image: assets/habedi_omni_lpr_20251217_184634_890_20251217_184656_1a2ce2.png
 # [habedi/omni-lpr](https://github.com/habedi/omni-lpr/)
 
 Self-hostable server for automatic license plate recognition
+
+可自托管的自动车牌识别服务器

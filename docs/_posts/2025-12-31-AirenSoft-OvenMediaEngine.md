@@ -7,3 +7,5 @@ image: assets/AirenSoft_OvenMediaEngine_20251231_040815_334_20251231_040831_a974
 # [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine/)
 
 Streaming server for sub-second latency over WebRTC and LLHLS
+
+支持 WebRTC 和 LLHLS 的亚秒级延迟流媒体服务器

@@ -7,3 +7,5 @@ image: assets/jarvis2f_telegram-files_cropped.png
 # [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files)
 
 self-hosted Telegram file downloader for automated and stable downloads
+
+用于自动化和稳定下载的自托管Telegram文件下载器

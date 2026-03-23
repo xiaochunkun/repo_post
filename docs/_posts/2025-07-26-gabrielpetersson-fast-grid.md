@@ -7,3 +7,5 @@ image: assets/gabrielpetersson_fast-grid_cropped.png
 # [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid)
 
 super fast web table for big data
+
+适用于大数据的超快速Web表格

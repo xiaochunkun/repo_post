@@ -7,3 +7,5 @@ image: assets/CERT_Polska_Artemis_20251125_040519_799_20251127_165045_cf590f--20
 # [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis/)
 
 Modular vulnerability scanner with automatic reporting
+
+模块化漏洞扫描器，支持自动报告

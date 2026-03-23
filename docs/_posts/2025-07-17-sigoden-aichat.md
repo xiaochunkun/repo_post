@@ -7,3 +7,5 @@ image: assets/sigoden_aichat_cropped.png
 # [sigoden/aichat](https://github.com/sigoden/aichat)
 
 all-in-one AI chat tool for your terminal
+
+终端的一体化 AI 聊天工具

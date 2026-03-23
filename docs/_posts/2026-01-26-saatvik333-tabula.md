@@ -7,3 +7,5 @@ image: assets/saatvik333_tabula_20260115_111150_728_20260115_111237_3c8711.png
 # [saatvik333/tabula](https://github.com/saatvik333/tabula)
 
 New tab extension with clock of clocks and productivity widgets
+
+带有时钟和生产力小部件的新标签页扩展

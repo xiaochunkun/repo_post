@@ -7,3 +7,5 @@ image: assets/dream_horizon_org_pulse_20260101_090156_806_20260101_090211_818a32
 # [dream-horizon-org/pulse](https://github.com/dream-horizon-org/pulse/)
 
 Platform for monitoring user interactions in real time
+
+实时监控用户交互的平台

@@ -7,3 +7,5 @@ image: assets/jaye773_youtube-summarizer_cropped.png
 # [jaye773/youtube-summarizer](https://github.com/jaye773/youtube-summarizer)
 
 YouTube video link input and AI-generated summary output
+
+输入 YouTube 视频链接，输出 AI 生成的摘要

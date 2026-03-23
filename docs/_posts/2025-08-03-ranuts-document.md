@@ -7,3 +7,5 @@ image: assets/ranuts_document_cropped.png
 # [ranuts/document](https://github.com/ranuts/document)
 
 edit docs in your browser with no server
+
+在浏览器中编辑文档，无需服务器

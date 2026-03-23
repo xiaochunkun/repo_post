@@ -7,3 +7,5 @@ image: assets/jujumilk3_leaked-system-prompts_cropped.png
 # [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
 
 Collection of leaked system prompts from popular LLM-based services
+
+来自流行LLM服务的泄露系统提示集合

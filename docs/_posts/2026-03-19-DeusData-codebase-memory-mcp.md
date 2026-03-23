@@ -7,3 +7,5 @@ image: assets/DeusData_codebase_memory_mcp_20260319_001343_186_20260319_001727_4
 # [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 
 Indexes codebases into persistent knowledge graphs
+
+将代码库索引为持久知识图谱

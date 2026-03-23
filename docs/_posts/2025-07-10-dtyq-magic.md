@@ -7,3 +7,5 @@ image: assets/dtyq_magic_cropped.png
 # [dtyq/magic](https://github.com/dtyq/magic)
 
 open-source platform for building and deploying AI productivity tools
+
+开源平台，用于构建和部署 AI 生产力工具

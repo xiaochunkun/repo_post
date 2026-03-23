@@ -7,3 +7,5 @@ image: assets/Ti_03_remainders_20260112_114318_949_20260112_114334_ecc55f.png
 # [Ti-03/remainders](https://github.com/Ti-03/remainders)
 
 Generates time-aware wallpapers for phone lock screens
+
+为手机锁屏生成时间感知壁纸

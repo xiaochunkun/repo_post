@@ -7,3 +7,5 @@ image: assets/CrossPaste_crosspaste_desktop_20251123_082335_253_20251124_002106_
 # [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop/)
 
 Syncs clipboard history across devices
+
+跨设备同步剪贴板历史

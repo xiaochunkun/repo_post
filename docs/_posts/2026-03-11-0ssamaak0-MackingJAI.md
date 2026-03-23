@@ -7,3 +7,5 @@ image: assets/0ssamaak0_MackingJAI_20260211_002610_658_20260211_002632_1acf30.pn
 # [0ssamaak0/MackingJAI](https://github.com/0ssamaak0/MackingJAI)
 
 Mocks OpenAI and Ollama APIs to use Apple Intelligence models
+
+模拟OpenAI和Ollama API以使用Apple Intelligence模型

@@ -7,3 +7,5 @@ image: assets/qwibitai_nanoclaw_20260218_010217_228_20260218_010254_8bee66.png
 # [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
 
 Claude assistant in containers with agent swarms
+
+容器中的Claude助手，支持代理群组

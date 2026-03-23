@@ -7,3 +7,5 @@ image: assets/aptible_supercronic_20251115_060439_368_20251117_032155_e24ac1--20
 # [aptible/supercronic](https://github.com/aptible/supercronic/)
 
 Crontab-compatible job runner for containers
+
+容器兼容的 Crontab 作业运行器

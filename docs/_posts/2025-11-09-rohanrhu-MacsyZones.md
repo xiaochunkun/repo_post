@@ -7,3 +7,5 @@ image: assets/rohanrhu_MacsyZones_20251109_015737_054_20251109_144201_b5ad19--20
 # [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones/)
 
 Window manager for macOS to create layouts
+
+用于创建布局的macOS窗口管理器

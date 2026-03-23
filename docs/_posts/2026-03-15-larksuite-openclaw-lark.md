@@ -7,3 +7,5 @@ image: assets/larksuite_openclaw_lark_20260314_184259_120_20260314_184456_613df4
 # [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark)
 
 Connects OpenClaw agent to Lark workspace
+
+将 OpenClaw 代理连接到 Lark 工作空间

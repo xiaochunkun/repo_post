@@ -7,3 +7,5 @@ image: assets/linkwarden_linkwarden_cropped.png
 # [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
 
 self-hosted bookmark manager for saving, organizing, and sharing links with others
+
+自托管的书签管理器，用于保存、组织和与他人分享链接

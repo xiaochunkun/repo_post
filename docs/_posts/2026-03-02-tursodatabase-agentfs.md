@@ -7,3 +7,5 @@ image: assets/tursodatabase_agentfs_20260226_094350_311_20260226_094530_224845.p
 # [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs)
 
 Filesystem for AI agent state management
+
+用于AI代理状态管理的文件系统

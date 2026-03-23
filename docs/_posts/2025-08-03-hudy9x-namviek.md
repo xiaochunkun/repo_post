@@ -7,3 +7,5 @@ image: assets/hudy9x_namviek_cropped.png
 # [hudy9x/namviek](https://github.com/hudy9x/namviek)
 
 project management tool for small teams
+
+小型团队项目管理工具

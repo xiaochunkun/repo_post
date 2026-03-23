@@ -7,3 +7,5 @@ image: assets/balena_os_wifi_connect_20260210_200258_685_20260210_200343_00f739.
 # [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect)
 
 Sets WiFi configuration on Linux devices via a captive portal
+
+通过强制门户在 Linux 设备上设置 WiFi 配置

@@ -7,3 +7,5 @@ image: assets/20251014T011435733--joeferner--redis-commander--20251014T013204418
 # [joeferner/redis-commander](https://github.com/joeferner/redis-commander)
 
 web UI for managing and editing Redis databases
+
+用于管理和编辑 Redis 数据库的 Web 用户界面

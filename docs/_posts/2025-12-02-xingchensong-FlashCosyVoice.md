@@ -7,3 +7,5 @@ image: assets/xingchensong_FlashCosyVoice_20251201_030214_418_20251201_030237_7a
 # [xingchensong/FlashCosyVoice](https://github.com/xingchensong/FlashCosyVoice/)
 
 vLLM implementation for CosyVoice built from scratch
+
+从头构建的 CosyVoice vLLM 实现

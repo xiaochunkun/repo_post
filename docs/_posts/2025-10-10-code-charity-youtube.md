@@ -7,3 +7,5 @@ image: assets/20251010T125923348--code-charity--youtube--20251010T130511915--cro
 # [code-charity/youtube](https://github.com/code-charity/youtube)
 
 browser extension with 200+ options to customize your youtube experience
+
+具备 200 多种选项以自定义 YouTube 体验的浏览器扩展

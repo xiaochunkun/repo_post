@@ -7,3 +7,5 @@ image: assets/SteamClientHomebrew_Millennium_20260316_042727_239_20260316_042813
 # [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium)
 
 Low-code Steam Client modding without internal hooks
+
+低代码Steam客户端修改，无需内部钩子

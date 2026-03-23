@@ -7,3 +7,5 @@ image: assets/rusq_slackdump_20251201_004240_531_20251201_012301_ca5304.png
 # [rusq/slackdump](https://github.com/rusq/slackdump/)
 
 Archives Slack messages without admin privileges
+
+无需管理员权限归档 Slack 消息

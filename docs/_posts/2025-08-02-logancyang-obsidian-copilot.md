@@ -7,3 +7,5 @@ image: assets/logancyang_obsidian-copilot_cropped.png
 # [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)
 
 AI assistant for Obsidian notes with chat, summaries, and smart linking
+
+用于 Obsidian 笔记的 AI 助手，支持聊天、摘要和智能链接

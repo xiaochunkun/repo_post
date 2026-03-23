@@ -7,3 +7,5 @@ image: assets/elesiuta_picosnitch_20260103_021506_710_20260103_021523_db928d.png
 # [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch/)
 
 Monitors network traffic per executable with BPF
+
+使用BPF监控每个可执行文件的网络流量

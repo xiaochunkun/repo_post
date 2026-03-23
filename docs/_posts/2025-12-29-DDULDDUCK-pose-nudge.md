@@ -7,3 +7,5 @@ image: assets/DDULDDUCK_pose_nudge_20251227_230644_784_20251227_230709_2ee162.pn
 # [DDULDDUCK/pose-nudge](https://github.com/DDULDDUCK/pose-nudge/)
 
 Monitors posture via webcam and sends notifications
+
+通过摄像头监控姿势并发送通知

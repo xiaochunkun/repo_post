@@ -7,3 +7,5 @@ image: assets/ALucek_smolagents_guide_20260111_080358_388_20260111_080412_21f63a
 # [ALucek/smolagents-guide](https://github.com/ALucek/smolagents-guide)
 
 Builds agents with open source models
+
+使用开源模型构建代理

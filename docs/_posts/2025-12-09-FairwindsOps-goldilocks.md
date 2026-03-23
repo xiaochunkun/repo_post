@@ -7,3 +7,5 @@ image: assets/FairwindsOps_goldilocks_20251207_212023_820_20251207_212059_19720d
 # [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks/)
 
 Identifies starting points for Kubernetes resource requests
+
+识别Kubernetes资源请求的起始点

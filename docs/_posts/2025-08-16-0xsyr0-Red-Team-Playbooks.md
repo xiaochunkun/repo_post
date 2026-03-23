@@ -7,3 +7,5 @@ image: assets/0xsyr0_Red-Team-Playbooks--20250816T011635084--cropped.png
 # [0xsyr0/Red-Team-Playbooks](https://github.com/0xsyr0/Red-Team-Playbooks)
 
 Red Team tactics, tools, and playbooks for security assessments
+
+用于安全评估的 Red Team 战术、工具和剧本

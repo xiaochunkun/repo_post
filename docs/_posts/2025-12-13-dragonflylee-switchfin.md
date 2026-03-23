@@ -7,3 +7,5 @@ image: assets/dragonflylee_switchfin_20251209_065350_326_20251209_065427_7e9727.
 # [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin/)
 
 Native Jellyfin client for PC and Switch
+
+PC 和 Switch 的原生 Jellyfin 客户端

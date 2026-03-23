@@ -7,3 +7,5 @@ image: assets/GeostatsGuy_MachineLearningDemos_20251125_000343_934_20251125_2250
 # [GeostatsGuy/MachineLearningDemos](https://github.com/GeostatsGuy/MachineLearningDemos/)
 
 Python machine learning demonstration workflows
+
+Python 机器学习演示工作流

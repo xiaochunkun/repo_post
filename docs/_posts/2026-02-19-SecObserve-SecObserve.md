@@ -7,3 +7,5 @@ image: assets/SecObserve_SecObserve_20260205_202037_226_20260205_202100_83cb38.p
 # [SecObserve/SecObserve](https://github.com/SecObserve/SecObserve)
 
 Vulnerability and license management system for software teams
+
+软件团队的漏洞和许可证管理系统

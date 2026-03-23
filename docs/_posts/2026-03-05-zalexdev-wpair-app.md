@@ -7,3 +7,5 @@ image: assets/zalexdev_wpair_app_20260304_210920_436_20260304_211106_39da90.png
 # [zalexdev/wpair-app](https://github.com/zalexdev/wpair-app)
 
 Tool for research on Bluetooth vulnerability CVE-2025-36911
+
+研究蓝牙漏洞CVE-2025-36911的工具

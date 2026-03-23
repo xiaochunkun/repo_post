@@ -7,3 +7,5 @@ image: assets/20250906T025457256--karpathy--rendergit--20250906T030026924--cropp
 # [karpathy/rendergit](https://github.com/karpathy/rendergit)
 
 turn any GitHub repo into a single searchable HTML page
+
+将任意 GitHub 仓库转换为一个可搜索的 HTML 页面

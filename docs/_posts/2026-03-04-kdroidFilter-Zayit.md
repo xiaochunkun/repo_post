@@ -7,3 +7,5 @@ image: assets/kdroidFilter_Zayit_20260201_060132_038_20260201_060218_94216c.png
 # [kdroidFilter/Zayit](https://github.com/kdroidFilter/Zayit)
 
 Search and study library for Jewish texts
+
+犹太文本的搜索和学习库

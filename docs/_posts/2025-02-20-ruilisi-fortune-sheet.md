@@ -7,3 +7,5 @@ image: assets/ruilisi_fortune-sheet_cropped.png
 # [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)
 
 JavaScript spreadsheet library
+
+JavaScript 电子表格库

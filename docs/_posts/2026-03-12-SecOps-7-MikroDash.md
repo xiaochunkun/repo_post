@@ -7,3 +7,5 @@ image: assets/SecOps_7_MikroDash_20260308_175854_818_20260308_180044_c0d63f.png
 # [SecOps-7/MikroDash](https://github.com/SecOps-7/MikroDash)
 
 Dashboard for MikroTik RouterOS v7 streaming data via API
+
+通过API流式传输MikroTik RouterOS v7数据的仪表板

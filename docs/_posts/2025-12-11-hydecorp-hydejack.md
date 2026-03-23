@@ -7,3 +7,5 @@ image: assets/hydecorp_hydejack_20251208_232537_170_20251208_232632_3d4f7e.png
 # [hydecorp/hydejack](https://github.com/hydecorp/hydejack/)
 
 Jekyll theme for personal sites
+
+个人网站的Jekyll主题

@@ -7,3 +7,5 @@ image: assets/originalankur_maptoposter_20260228_081629_099_20260228_081819_c726
 # [originalankur/maptoposter](https://github.com/originalankur/maptoposter)
 
 Generates map posters from code
+
+从代码生成地图海报

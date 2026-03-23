@@ -7,3 +7,5 @@ image: assets/breschio_drawbridge_20251125_043638_926_20251127_165632_d9b45f--20
 # [breschio/drawbridge](https://github.com/breschio/drawbridge/)
 
 Visual comments for Claude Code and Cursor
+
+用于 Claude Code 和 Cursor 的可视化评论

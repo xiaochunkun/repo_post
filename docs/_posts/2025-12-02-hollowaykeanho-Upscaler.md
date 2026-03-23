@@ -7,3 +7,5 @@ image: assets/hollowaykeanho_Upscaler_20251201_032651_260_20251201_032715_dca4f9
 # [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler/)
 
 Consolidates open-source AI image and video upscaling tools
+
+整合开源AI图像和视频放大工具

@@ -7,3 +7,5 @@ image: assets/instructa_ai_prompts_20260122_054305_922_20260122_054320_b7981e.pn
 # [instructa/ai-prompts](https://github.com/instructa/ai-prompts)
 
 Curated rules for AI coding agents
+
+AI编码代理的精选规则

@@ -7,3 +7,5 @@ image: assets/20250917T005732758--puhuilab--phocr--20250917T010300638--cropped.p
 # [puhuilab/phocr](https://github.com/puhuilab/phocr)
 
 multi-language OCR toolkit with custom recognition model and Python API
+
+多语言 OCR 工具包，带有自定义识别模型和 Python API

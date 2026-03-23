@@ -7,3 +7,5 @@ image: assets/Cleanuparr_Cleanuparr_20251023_003505_480_20251023_230030_57d7e8--
 # [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr/)
 
 Cleans failed downloads for Sonarr and Radarr
+
+清理Sonarr和Radarr的失败下载

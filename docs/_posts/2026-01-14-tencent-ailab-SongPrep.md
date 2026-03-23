@@ -7,3 +7,5 @@ image: assets/tencent_ailab_SongPrep_20260111_050150_346_20260111_050203_820b70.
 # [tencent-ailab/SongPrep](https://github.com/tencent-ailab/SongPrep)
 
 Parses song structures and transcribes lyrics with timestamps
+
+解析歌曲结构并带时间戳转录歌词

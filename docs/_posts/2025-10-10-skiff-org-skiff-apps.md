@@ -7,3 +7,5 @@ image: assets/20251009T195532124--skiff-org--skiff-apps--20251009T201007927--cro
 # [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
 
 end-to-end encrypted email, calendar, pages, and drive in one workspace
+
+端到端加密的电子邮件、日历、页面和驱动器，集成在一个工作区中

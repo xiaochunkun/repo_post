@@ -7,3 +7,5 @@ image: assets/standardgalactic_git_truck_20260115_162353_971_20260115_162441_a88
 # [standardgalactic/git-truck](https://github.com/standardgalactic/git-truck)
 
 Visualizes repository history and file structure
+
+可视化仓库历史和文件结构

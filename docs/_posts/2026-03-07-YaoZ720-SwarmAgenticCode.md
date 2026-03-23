@@ -7,3 +7,5 @@ image: assets/YaoZ720_SwarmAgenticCode_20260304_113643_973_20260304_113818_1adb6
 # [YaoZ720/SwarmAgenticCode](https://github.com/YaoZ720/SwarmAgenticCode)
 
 Generates multi-agent systems via swarm intelligence
+
+通过群体智能生成多智能体系统

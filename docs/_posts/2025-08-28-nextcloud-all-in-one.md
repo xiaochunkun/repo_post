@@ -7,3 +7,5 @@ image: assets/20250822T015607788--nextcloud--all-in-one--20250827T221119695--cro
 # [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
 
 Nextcloud All-in-One makes self-hosting cloud services simple with an all-in-one Docker setup
+
+Nextcloud All-in-One，一键 Docker 部署自托管云服务

@@ -7,3 +7,5 @@ image: assets/coffinxp_crtmon_20260112_154702_309_20260112_154716_f27ee0.png
 # [coffinxp/crtmon](https://github.com/coffinxp/crtmon)
 
 Monitors certificate transparency logs for subdomains
+
+监控子域名的证书透明度日志

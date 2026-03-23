@@ -7,3 +7,5 @@ image: assets/duckdb_ducklake_cropped.png
 # [duckdb/ducklake](https://github.com/duckdb/ducklake)
 
 integrated data lake and catalog format built on SQL and Parquet
+
+基于SQL和Parquet构建的集成数据湖和目录格式

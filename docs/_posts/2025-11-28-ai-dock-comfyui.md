@@ -7,3 +7,5 @@ image: assets/ai_dock_comfyui_20251125_051718_068_20251127_170646_3cf0a2--202511
 # [ai-dock/comfyui](https://github.com/ai-dock/comfyui/)
 
 Docker images for running ComfyUI in cloud environments
+
+用于在云环境中运行 ComfyUI 的 Docker 镜像

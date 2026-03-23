@@ -7,3 +7,5 @@ image: assets/tigerabrodi_sakuraflow_cropped.png
 # [tigerabrodi/sakuraflow](https://github.com/tigerabrodi/sakuraflow)
 
 generator functions utilities for TypeScript data streams
+
+TypeScript数据流的生成器函数实用工具

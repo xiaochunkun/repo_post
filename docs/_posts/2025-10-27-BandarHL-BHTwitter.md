@@ -7,3 +7,5 @@ image: assets/BandarHL_BHTwitter_20251025_115214_794_20251025_224215_59a902--202
 # [BandarHL/BHTwitter](https://github.com/BandarHL/BHTwitter/)
 
 Tweak for Twitter adding features and customization
+
+为Twitter添加功能和自定义的调整工具

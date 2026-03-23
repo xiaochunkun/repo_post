@@ -7,3 +7,5 @@ image: assets/marieooq_neo_brutalism_ui_library_20251120_061607_643_20251121_011
 # [marieooq/neo-brutalism-ui-library](https://github.com/marieooq/neo-brutalism-ui-library/)
 
 Neo-brutalism components for React and Tailwind
+
+React 和 Tailwind 的新粗野主义组件

@@ -7,3 +7,5 @@ image: assets/johnbillion_query_monitor_20251213_082722_998_20251213_082800_8f69
 # [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor/)
 
 Developer tools panel for WordPress and WooCommerce
+
+WordPress和WooCommerce的开发者工具面板

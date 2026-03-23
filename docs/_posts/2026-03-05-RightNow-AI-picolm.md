@@ -7,3 +7,5 @@ image: assets/RightNow_AI_picolm_20260304_225946_215_20260304_230134_6f3f03.png
 # [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)
 
 Inference of language models on hardware with limited memory
+
+在有限内存硬件上推理语言模型

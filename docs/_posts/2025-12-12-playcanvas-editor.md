@@ -7,3 +7,5 @@ image: assets/playcanvas_editor_20251209_023623_428_20251209_023743_31b0fc.png
 # [playcanvas/editor](https://github.com/playcanvas/editor/)
 
 Browser-based visual editor for WebGL apps
+
+基于浏览器的 WebGL 应用可视化编辑器

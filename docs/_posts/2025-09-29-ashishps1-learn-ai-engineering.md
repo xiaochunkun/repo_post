@@ -7,3 +7,5 @@ image: assets/20250929T015124463--ashishps1--learn-ai-engineering--20250929T0201
 # [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering)
 
 curated list of AI, ML, LLM, and agent learning resources
+
+AI、ML、LLM和代理学习资源的精选列表

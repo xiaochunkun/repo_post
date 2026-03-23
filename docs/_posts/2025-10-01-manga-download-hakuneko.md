@@ -7,3 +7,5 @@ image: assets/20251001T104912721--manga-download--hakuneko--20251001T110112948--
 # [manga-download/hakuneko](https://github.com/manga-download/hakuneko)
 
 cross-platform manga and anime downloader for offline reading
+
+跨平台漫画和动漫下载器，支持离线阅读

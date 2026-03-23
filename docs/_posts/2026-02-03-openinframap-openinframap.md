@@ -7,3 +7,5 @@ image: assets/openinframap_openinframap_20260203_000058_118_20260203_000128_9ec1
 # [openinframap/openinframap](https://github.com/openinframap/openinframap)
 
 Map of infrastructure from OpenStreetMap
+
+基于 OpenStreetMap 的基础设施地图

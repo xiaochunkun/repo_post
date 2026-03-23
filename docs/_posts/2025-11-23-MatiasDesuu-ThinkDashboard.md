@@ -7,3 +7,5 @@ image: assets/MatiasDesuu_ThinkDashboard_20251122_142346_660_20251123_001017_59a
 # [MatiasDesuu/ThinkDashboard](https://github.com/MatiasDesuu/ThinkDashboard/)
 
 Self-hosted bookmark dashboard with keyboard shortcuts
+
+带键盘快捷键的自托管书签仪表板

@@ -7,3 +7,5 @@ image: assets/IO_Design_Team_hive_ce_20251214_215101_741_20251214_215135_0fbdc4.
 # [IO-Design-Team/hive_ce](https://github.com/IO-Design-Team/hive_ce/)
 
 Lightweight key-value database written in pure Dart
+
+用纯Dart编写的轻量级键值数据库

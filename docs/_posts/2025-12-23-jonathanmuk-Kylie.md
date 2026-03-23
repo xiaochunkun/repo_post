@@ -7,3 +7,5 @@ image: assets/jonathanmuk_Kylie_20251222_163436_538_20251222_163452_0401ad.png
 # [jonathanmuk/Kylie](https://github.com/jonathanmuk/Kylie/)
 
 Whatsapp agent powered by LangGraph
+
+由 LangGraph 驱动的 WhatsApp 智能体

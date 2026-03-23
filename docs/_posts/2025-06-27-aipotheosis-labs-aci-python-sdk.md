@@ -7,3 +7,5 @@ image: assets/aipotheosis-labs_aci-python-sdk_cropped.png
 # [aipotheosis-labs/aci-python-sdk](https://github.com/aipotheosis-labs/aci-python-sdk)
 
 Python SDK for accessing the ACI REST API from Python apps
+
+Python SDK，用于从 Python 应用访问 ACI REST API

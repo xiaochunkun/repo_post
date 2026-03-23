@@ -7,3 +7,5 @@ image: assets/cporter202_lovable_for_beginners_20260209_003400_642_20260209_0034
 # [cporter202/lovable-for-beginners](https://github.com/cporter202/lovable-for-beginners)
 
 Course for building applications with natural language
+
+使用自然语言构建应用的课程

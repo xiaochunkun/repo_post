@@ -7,3 +7,5 @@ image: assets/SpartanJ_ecode_20260306_001208_545_20260306_001340_97a660.png
 # [SpartanJ/ecode](https://github.com/SpartanJ/ecode)
 
 Code editor with hardware acceleration
+
+支持硬件加速的代码编辑器

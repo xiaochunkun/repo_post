@@ -7,3 +7,5 @@ image: assets/unslothai_notebooks_cropped.png
 # [unslothai/notebooks](https://github.com/unslothai/notebooks)
 
 Unsloth's collection of fine-tuning notebooks for various LLMs
+
+Unsloth 为各种 LLM 提供的微调笔记本集合

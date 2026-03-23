@@ -7,3 +7,5 @@ image: assets/nathanhoad_godot_dialogue_manager_20251127_174930_565_20251130_035
 # [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager/)
 
 Stateless branching dialogue editor for Godot
+
+Godot 的无状态分支对话编辑器

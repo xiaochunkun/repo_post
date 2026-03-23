@@ -7,3 +7,5 @@ image: assets/sinaptik_ai_pandas_ai_20251020_203704_191_20251020_235942--2025102
 # [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai/)
 
 Natural language interaction with data
+
+与数据的自然语言交互

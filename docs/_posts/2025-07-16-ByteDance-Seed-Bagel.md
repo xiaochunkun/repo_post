@@ -7,3 +7,5 @@ image: assets/ByteDance-Seed_Bagel_cropped.png
 # [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel)
 
 multimodal AI model for text, image, and video tasks
+
+用于文本、图像和视频任务的多模态AI模型

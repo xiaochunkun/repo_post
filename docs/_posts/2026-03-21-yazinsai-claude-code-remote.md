@@ -7,3 +7,5 @@ image: assets/yazinsai_claude_code_remote_20260321_161338_843_20260321_161424_50
 # [yazinsai/claude-code-remote](https://github.com/yazinsai/claude-code-remote)
 
 Remote terminal access for Claude Code
+
+Claude Code 的远程终端访问

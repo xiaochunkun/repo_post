@@ -7,3 +7,5 @@ image: assets/sinaptik_ai_pandas_ai_20260209_221808_535_20260209_221824_3ea4ee.p
 # [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
 
 Chat with dataframes using LLMs
+
+使用LLM与数据框对话

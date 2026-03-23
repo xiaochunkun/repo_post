@@ -7,3 +7,5 @@ image: assets/GladysAssistant_Gladys_20260122_012722_152_20260122_012752_697294.
 # [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys)
 
 Home automation for Docker and Raspberry Pi
+
+用于 Docker 和 Raspberry Pi 的家庭自动化

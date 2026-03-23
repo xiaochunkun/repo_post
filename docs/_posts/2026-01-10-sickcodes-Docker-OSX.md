@@ -7,3 +7,5 @@ image: assets/sickcodes_Docker_OSX_20260108_040127_211_20260108_040141_7b0d30.pn
 # [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 
 macOS in a Docker container with X11 forwarding
+
+在Docker容器中运行macOS，支持X11转发

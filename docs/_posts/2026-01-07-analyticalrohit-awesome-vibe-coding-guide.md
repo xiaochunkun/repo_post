@@ -7,3 +7,5 @@ image: assets/analyticalrohit_awesome_vibe_coding_guide_20260106_205549_751_2026
 # [analyticalrohit/awesome-vibe-coding-guide](https://github.com/analyticalrohit/awesome-vibe-coding-guide/)
 
 Guide for AI development using Cursor and Windsurf
+
+使用 Cursor 和 Windsurf 进行 AI 开发的指南

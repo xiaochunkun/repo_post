@@ -7,3 +7,5 @@ image: assets/danoon2_Boxedwine_20251207_203712_328_20251207_203733_53d975.png
 # [danoon2/Boxedwine](https://github.com/danoon2/Boxedwine/)
 
 Runs Windows applications in a browser via WebAssembly
+
+通过WebAssembly在浏览器中运行Windows应用程序

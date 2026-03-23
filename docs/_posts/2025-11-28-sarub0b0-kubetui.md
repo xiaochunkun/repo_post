@@ -7,3 +7,5 @@ image: assets/sarub0b0_kubetui_20251125_230636_643_20251127_171557_8b169b--20251
 # [sarub0b0/kubetui](https://github.com/sarub0b0/kubetui/)
 
 Terminal user interface for monitoring Kubernetes resources
+
+用于监控Kubernetes资源的终端用户界面

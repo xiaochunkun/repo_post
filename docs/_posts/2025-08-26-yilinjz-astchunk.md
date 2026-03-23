@@ -7,3 +7,5 @@ image: assets/20250825T032417149--yilinjz--astchunk--20250825T033202068--cropped
 # [yilinjz/astchunk](https://github.com/yilinjz/astchunk)
 
 toolkit for splitting code into AST-based chunks
+
+基于 AST 的代码分块工具包

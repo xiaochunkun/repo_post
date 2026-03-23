@@ -7,3 +7,5 @@ image: assets/schorschii_CustomerDB_Android_20260120_214715_075_20260120_214750_
 # [schorschii/CustomerDB-Android](https://github.com/schorschii/CustomerDB-Android)
 
 CRM for small businesses with self-hosted sync server
+
+小型企业 CRM，带自托管同步服务器

@@ -7,3 +7,5 @@ image: assets/93won_lidar_odometry_20260102_011442_040_20260102_011457_e3d9df.pn
 # [93won/lidar_odometry](https://github.com/93won/lidar_odometry/)
 
 LiDAR SLAM at 400 FPS on KITTI
+
+在KITTI上实现400 FPS的LiDAR SLAM

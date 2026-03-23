@@ -7,3 +7,5 @@ image: assets/20250831T025248873--denoland--deno--20250831T030446243--cropped.pn
 # [denoland/deno](https://github.com/denoland/deno)
 
 JavaScript and TypeScript runtime with secure defaults
+
+安全默认的 JavaScript 和 TypeScript 运行时

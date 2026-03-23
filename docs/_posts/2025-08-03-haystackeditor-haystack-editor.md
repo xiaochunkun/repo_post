@@ -7,3 +7,5 @@ image: assets/haystackeditor_haystack-editor_cropped.png
 # [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor)
 
 code editor with infinite canvas for visual code navigation
+
+无限画布代码编辑器，支持可视化代码导航

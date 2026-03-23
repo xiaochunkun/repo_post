@@ -7,3 +7,5 @@ image: assets/steipete_summarize_20260205_205338_111_20260205_205354_bfcb0b.png
 # [steipete/summarize](https://github.com/steipete/summarize)
 
 Summarizes URLs and media via side panel or terminal
+
+通过侧边栏或终端总结 URL 和媒体

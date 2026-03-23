@@ -7,3 +7,5 @@ image: assets/saleor_saleor_platform_20260130_195255_746_20260130_195333_0b3c53.
 # [saleor/saleor-platform](https://github.com/saleor/saleor-platform)
 
 Orchestrates e-commerce services with docker-compose
+
+使用 docker-compose 编排电商服务

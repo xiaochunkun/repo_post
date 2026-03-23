@@ -7,3 +7,5 @@ image: assets/cyrinux_push2talk_20251111_022457_908_20251111_145018_5ffb30--2025
 # [cyrinux/push2talk](https://github.com/cyrinux/push2talk/)
 
 Push-to-talk for Wayland, X11, PulseAudio and PipeWire
+
+支持Wayland、X11、PulseAudio和PipeWire的按键通话

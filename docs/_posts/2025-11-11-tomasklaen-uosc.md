@@ -7,3 +7,5 @@ image: assets/tomasklaen_uosc_20251111_032943_820_20251111_145527_26fb6c--202511
 # [tomasklaen/uosc](https://github.com/tomasklaen/uosc/)
 
 Proximity-based UI for the MPV player
+
+用于MPV播放器的基于接近度的用户界面

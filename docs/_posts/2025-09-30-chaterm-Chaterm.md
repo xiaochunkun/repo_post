@@ -7,3 +7,5 @@ image: assets/20250930T031025620--chaterm--Chaterm--20250930T032313784--cropped.
 # [chaterm/Chaterm](https://github.com/chaterm/Chaterm)
 
 AI-powered terminal with smart command completion, syntax highlighting, and voice input
+
+具备智能命令补全、语法高亮和语音输入的 AI 驱动终端

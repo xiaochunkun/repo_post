@@ -7,3 +7,5 @@ image: assets/Jiayi-Pan_TinyZero_cropped.png
 # [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
 TinyZero: reproduction of DeepSeek R1-Zero for countdown and multiplication tasks using reinforcement learning
+
+TinyZero：使用强化学习复制DeepSeek R1-Zero，用于倒计时和乘法任务

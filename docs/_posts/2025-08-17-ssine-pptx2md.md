@@ -7,3 +7,5 @@ image: assets/ssine_pptx2md--20250816T053543507--cropped.png
 # [ssine/pptx2md](https://github.com/ssine/pptx2md)
 
 convert PowerPoint pptx slides to markdown
+
+将 PowerPoint pptx 幻灯片转换为 markdown

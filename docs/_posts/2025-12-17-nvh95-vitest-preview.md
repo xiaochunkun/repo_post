@@ -7,3 +7,5 @@ image: assets/nvh95_vitest_preview_20251216_030815_801_20251216_030852_f961e2.pn
 # [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview/)
 
 Visual debugging for Vitest tests
+
+Vitest测试的可视化调试工具

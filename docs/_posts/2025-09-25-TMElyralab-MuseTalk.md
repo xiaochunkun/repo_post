@@ -7,3 +7,5 @@ image: assets/20250925T042839295--TMElyralab--MuseTalk--20250925T043718477--crop
 # [TMElyralab/MuseTalk](https://github.com/TMElyralab/MuseTalk)
 
 real-time high quality audio-driven lip-syncing for video dubbing
+
+用于视频配音的实时高质量音频驱动唇形同步

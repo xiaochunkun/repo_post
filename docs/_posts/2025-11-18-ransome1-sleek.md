@@ -7,3 +7,5 @@ image: assets/ransome1_sleek_20251118_045355_530_20251118_050252_44452a--2025111
 # [ransome1/sleek](https://github.com/ransome1/sleek/)
 
 GUI for todo.txt files
+
+todo.txt文件的GUI

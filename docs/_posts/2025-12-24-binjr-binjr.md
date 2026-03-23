@@ -7,3 +7,5 @@ image: assets/binjr_binjr_20251223_042510_934_20251223_042529_bb7ff0.png
 # [binjr/binjr](https://github.com/binjr/binjr/)
 
 Time series browser for data from various sources
+
+多源时间序列数据浏览器

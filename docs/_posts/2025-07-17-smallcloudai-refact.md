@@ -7,3 +7,5 @@ image: assets/smallcloudai_refact_cropped.png
 # [smallcloudai/refact](https://github.com/smallcloudai/refact)
 
 open-source AI agent for automating coding tasks in your IDE
+
+开源 AI 代理，用于在 IDE 中自动化编码任务

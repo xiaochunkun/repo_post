@@ -7,3 +7,5 @@ image: assets/zebbern_claude-code-guide_cropped.png
 # [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide)
 
 Complete guide to every Claude Code command and tips
+
+Claude Code命令和技巧完整指南

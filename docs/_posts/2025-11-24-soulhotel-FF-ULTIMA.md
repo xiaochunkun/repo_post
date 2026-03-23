@@ -7,3 +7,5 @@ image: assets/soulhotel_FF_ULTIMA_20251123_110431_647_20251124_003047_87558c--20
 # [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA/)
 
 Firefox theme with layout options
+
+带布局选项的 Firefox 主题

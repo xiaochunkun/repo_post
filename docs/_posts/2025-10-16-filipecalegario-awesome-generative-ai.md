@@ -7,3 +7,5 @@ image: assets/20251016T020611492--filipecalegario--awesome-generative-ai--202510
 # [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai)
 
 curated list of generative AI tools, projects, and resources
+
+精选的生成式 AI 工具、项目和资源列表

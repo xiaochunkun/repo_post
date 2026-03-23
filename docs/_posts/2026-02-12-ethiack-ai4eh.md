@@ -7,3 +7,5 @@ image: assets/ethiack_ai4eh_20260207_135358_994_20260207_135414_16f206.png
 # [ethiack/ai4eh](https://github.com/ethiack/ai4eh)
 
 Applies AI to offensive security tasks
+
+将AI应用于攻击性安全任务

@@ -7,3 +7,5 @@ image: assets/ant-design_x_cropped.png
 # [ant-design/x](https://github.com/ant-design/x)
 
 AI-driven UI components for React
+
+AI驱动的React UI组件

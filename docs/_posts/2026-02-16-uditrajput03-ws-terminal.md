@@ -7,3 +7,5 @@ image: assets/uditrajput03_ws_terminal_20260201_034644_026_20260201_034721_08399
 # [uditrajput03/ws-terminal](https://github.com/uditrajput03/ws-terminal)
 
 Remote terminal access through outbound WebSockets
+
+通过出站WebSocket进行远程终端访问

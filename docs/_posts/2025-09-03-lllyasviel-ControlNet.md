@@ -7,3 +7,5 @@ image: assets/20250903T012646993--lllyasviel--ControlNet--20250903T014031778--cr
 # [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
 
 control diffusion models with extra conditions for image generation
+
+用额外条件控制扩散模型生成图像

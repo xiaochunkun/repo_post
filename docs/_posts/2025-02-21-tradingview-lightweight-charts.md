@@ -7,3 +7,5 @@ image: assets/tradingview_lightweight-charts_cropped.png
 # [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)
 
 Interactive financial charts library
+
+交互式金融图表库

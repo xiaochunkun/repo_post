@@ -7,3 +7,5 @@ image: assets/20250906T220651657--lwouis--alt-tab-macos--20250906T220807711--cro
 # [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
 
 alt-tab for switching windows on macOS
+
+macOS 上的窗口切换工具，类似 Alt-Tab

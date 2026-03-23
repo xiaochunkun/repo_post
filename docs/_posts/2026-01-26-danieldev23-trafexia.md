@@ -7,3 +7,5 @@ image: assets/danieldev23_trafexia_20260126_001800_575_20260126_001833_7691c2.pn
 # [danieldev23/trafexia](https://github.com/danieldev23/trafexia)
 
 Intercepts and analyzes traffic from mobile devices
+
+移动设备流量拦截分析工具

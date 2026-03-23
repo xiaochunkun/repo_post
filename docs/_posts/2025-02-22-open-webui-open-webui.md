@@ -7,3 +7,5 @@ image: assets/open-webui_open-webui_cropped.png
 # [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
 Open-source AI chat interface for Ollama and OpenAI APIs
+
+用于Ollama和OpenAI API的开源AI聊天界面

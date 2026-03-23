@@ -7,3 +7,5 @@ image: assets/simonoppowa_OpenNutriTracker_20260117_122908_421_20260117_122930_3
 # [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker)
 
 Nutritional tracker with barcode scanner and food diary
+
+带条形码扫描器和食物日记的营养追踪器

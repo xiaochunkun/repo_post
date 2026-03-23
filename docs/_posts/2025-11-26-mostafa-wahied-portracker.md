@@ -7,3 +7,5 @@ image: assets/mostafa_wahied_portracker_20251123_202348_688_20251125_165607_b847
 # [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker/)
 
 Self-hosted tool for monitoring and discovering ports
+
+用于监控和发现端口的自托管工具

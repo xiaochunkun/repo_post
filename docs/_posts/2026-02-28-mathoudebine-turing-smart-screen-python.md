@@ -7,3 +7,5 @@ image: assets/mathoudebine_turing_smart_screen_python_20260225_033452_693_202602
 # [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python)
 
 Python library for USB-C displays
+
+USB-C显示器的Python库

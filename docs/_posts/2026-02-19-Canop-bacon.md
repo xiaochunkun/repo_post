@@ -7,3 +7,5 @@ image: assets/Canop_bacon_20260201_012353_582_20260201_012438_8b5d02.png
 # [Canop/bacon](https://github.com/Canop/bacon)
 
 Background code checker for Rust
+
+Rust的后台代码检查器

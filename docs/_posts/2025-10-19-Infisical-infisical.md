@@ -7,3 +7,5 @@ image: assets/Infisical_infisical_20251019_004730_291_20251019_172737--20251019T
 # [Infisical/infisical](https://github.com/Infisical/infisical/)
 
 Manages secrets and configurations
+
+管理密钥和配置

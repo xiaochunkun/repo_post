@@ -7,3 +7,5 @@ image: assets/enulus_OpenPackage_20260227_164219_374_20260227_164411_fda117.png
 # [enulus/OpenPackage](https://github.com/enulus/OpenPackage)
 
 Package manager for coding agent configurations
+
+编码代理配置的包管理器

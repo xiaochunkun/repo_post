@@ -7,3 +7,5 @@ image: assets/towardsthecloud_aws-toolbox_cropped.png
 # [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox)
 
 collection of scripts and tools for automating AWS tasks
+
+用于自动化 AWS 任务的脚本和工具集合

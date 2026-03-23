@@ -7,3 +7,5 @@ image: assets/severity1_claude_code_prompt_improver_20260203_171844_889_20260203
 # [severity1/claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)
 
 Clarifies vague prompts for Claude Code
+
+澄清 Claude Code 的模糊提示

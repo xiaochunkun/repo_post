@@ -7,3 +7,5 @@ image: assets/onderceylan_proofly_20260115_143800_673_20260115_143817_1e760b.png
 # [onderceylan/proofly](https://github.com/onderceylan/proofly)
 
 Proofreads text using on-device AI
+
+使用设备端 AI 校对文本

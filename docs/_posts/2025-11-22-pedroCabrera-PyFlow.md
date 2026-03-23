@@ -7,3 +7,5 @@ image: assets/pedroCabrera_PyFlow_20251121_132101_993_20251122_033737_66abc0--20
 # [pedroCabrera/PyFlow](https://github.com/pedroCabrera/PyFlow/)
 
 Visual scripting framework for Python
+
+Python 可视化脚本框架

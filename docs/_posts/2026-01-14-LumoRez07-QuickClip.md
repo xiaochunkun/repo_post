@@ -7,3 +7,5 @@ image: assets/LumoRez07_QuickClip_20260113_100548_852_20260113_100604_41093a.png
 # [LumoRez07/QuickClip](https://github.com/LumoRez07/QuickClip)
 
 Clipboard manager with AI integration
+
+集成 AI 的剪贴板管理器

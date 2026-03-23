@@ -7,3 +7,5 @@ image: assets/svartalf_rust_battop_20251202_204836_977_20251202_205021_3da3fd.pn
 # [svartalf/rust-battop](https://github.com/svartalf/rust-battop/)
 
 Interactive terminal viewer for notebook batteries
+
+笔记本电池的交互式终端查看器

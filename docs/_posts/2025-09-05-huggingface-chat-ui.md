@@ -7,3 +7,5 @@ image: assets/20250904T000443159--huggingface--chat-ui--20250904T000849417--crop
 # [huggingface/chat-ui](https://github.com/huggingface/chat-ui)
 
 open source chat interface for LLMs
+
+开源 LLM 聊天界面

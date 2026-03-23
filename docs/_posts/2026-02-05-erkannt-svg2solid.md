@@ -7,3 +7,5 @@ image: assets/erkannt_svg2solid_20260202_060405_200_20260202_060444_40bd24.png
 # [erkannt/svg2solid](https://github.com/erkannt/svg2solid)
 
 Converts SVGs into STLs for multi-color printing
+
+将SVG转换为STL以进行多色打印

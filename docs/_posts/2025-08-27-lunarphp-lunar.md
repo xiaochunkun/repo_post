@@ -7,3 +7,5 @@ image: assets/20250826T023931571--lunarphp--lunar--20250826T024350869--cropped.p
 # [lunarphp/lunar](https://github.com/lunarphp/lunar)
 
 Laravel e-commerce toolkit for custom stores
+
+Laravel 电商开发工具包，打造自定义商城

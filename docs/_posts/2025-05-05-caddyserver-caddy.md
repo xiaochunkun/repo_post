@@ -7,3 +7,5 @@ image: assets/caddyserver_caddy_cropped.png
 # [caddyserver/caddy](https://github.com/caddyserver/caddy)
 
 Web server with automatic HTTPS, reverse proxy, and config API
+
+Web服务器，支持自动HTTPS、反向代理和配置API

@@ -7,3 +7,5 @@ image: assets/MedUnes_go_kata_20260225_123941_142_20260225_124111_660278.png
 # [MedUnes/go-kata](https://github.com/MedUnes/go-kata)
 
 Drills Go patterns into muscle memory
+
+通过练习将Go模式融入肌肉记忆

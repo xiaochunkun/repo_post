@@ -7,3 +7,5 @@ image: assets/engatec_vdl_20260106_173947_831_20260106_174012_0b4dbd.png
 # [engatec/vdl](https://github.com/engatec/vdl/)
 
 GUI for yt-dlp with 4K support and channel subscriptions
+
+支持 4K 和频道订阅的 yt-dlp GUI

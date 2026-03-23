@@ -7,3 +7,5 @@ image: assets/collabnix_kubetools--20250816T011728741--cropped.png
 # [collabnix/kubetools](https://github.com/collabnix/kubetools)
 
 curated list of Kubernetes tools for every use case
+
+适用于各种用例的 Kubernetes 工具精选列表

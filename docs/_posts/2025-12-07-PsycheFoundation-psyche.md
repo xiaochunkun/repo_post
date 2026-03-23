@@ -7,3 +7,5 @@ image: assets/PsycheFoundation_psyche_20251204_234258_538_20251204_234321_7cda68
 # [PsycheFoundation/psyche](https://github.com/PsycheFoundation/psyche/)
 
 Distributed transformer training over the internet
+
+通过互联网进行分布式Transformer训练

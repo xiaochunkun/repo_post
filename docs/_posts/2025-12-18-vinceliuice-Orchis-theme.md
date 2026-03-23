@@ -7,3 +7,5 @@ image: assets/vinceliuice_Orchis_theme_20251216_183818_237_20251216_183912_cbd40
 # [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme/)
 
 Material Design theme for GNOME/GTK desktops
+
+GNOME/GTK 桌面的 Material Design 主题

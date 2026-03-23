@@ -7,3 +7,5 @@ image: assets/isaacus_dev_semchunk_20260309_083548_748_20260309_083815_def034.pn
 # [isaacus-dev/semchunk](https://github.com/isaacus-dev/semchunk)
 
 Splits text into chunks for tokenizers
+
+将文本分割成块以供分词器使用

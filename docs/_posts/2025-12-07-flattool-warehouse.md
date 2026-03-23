@@ -7,3 +7,5 @@ image: assets/flattool_warehouse_20251205_020411_162_20251205_020437_12a2cb.png
 # [flattool/warehouse](https://github.com/flattool/warehouse/)
 
 Toolbox for managing Flatpak apps and data
+
+管理Flatpak应用和数据的工具箱

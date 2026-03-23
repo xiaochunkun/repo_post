@@ -7,3 +7,5 @@ image: assets/IBM_mcp_context_forge_20260316_105651_320_20260316_105740_3e598b.p
 # [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)
 
 Federates MCP and agent APIs with centralized governance
+
+通过集中治理联合 MCP 和代理 API

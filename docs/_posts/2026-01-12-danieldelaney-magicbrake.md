@@ -7,3 +7,5 @@ image: assets/danieldelaney_magicbrake_20260111_170111_361_20260111_170124_b11c7
 # [danieldelaney/magicbrake](https://github.com/danieldelaney/magicbrake)
 
 GUI for handbrakecli on macOS
+
+macOS 上 handbrakecli 的 GUI

@@ -7,3 +7,5 @@ image: assets/20251001T203831721--Koenkk--zigbee2mqtt--20251001T204532232--cropp
 # [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 
 Control Zigbee devices with MQTT, no vendor bridge needed
+
+通过MQTT控制Zigbee设备，无需厂商桥接

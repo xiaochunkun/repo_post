@@ -7,3 +7,5 @@ image: assets/mihail911_modern_software_dev_assignments_20260220_152309_165_2026
 # [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)
 
 Assignments for software development course at Stanford
+
+斯坦福软件开发课程的作业

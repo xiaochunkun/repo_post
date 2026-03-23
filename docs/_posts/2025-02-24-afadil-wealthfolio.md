@@ -7,3 +7,5 @@ image: assets/afadil_wealthfolio_cropped.png
 # [afadil/wealthfolio](https://github.com/afadil/wealthfolio)
 
 Open-source desktop investment tracker with local data storage
+
+开源桌面投资追踪器，支持本地数据存储

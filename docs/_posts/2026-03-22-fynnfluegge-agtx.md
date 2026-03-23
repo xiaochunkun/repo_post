@@ -7,3 +7,5 @@ image: assets/fynnfluegge_agtx_20260318_024539_619_20260318_024629_47ea11.png
 # [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
 
 Orchestrates multiple AI coding agents in parallel
+
+并行编排多个AI编码代理

@@ -7,3 +7,5 @@ image: assets/av_remotion_bits_20260303_075408_104_20260303_075537_b2d3ba.png
 # [av/remotion-bits](https://github.com/av/remotion-bits)
 
 Animation components for video projects
+
+视频项目的动画组件

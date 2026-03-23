@@ -7,3 +7,5 @@ image: assets/botswin_BotBrowser_20260122_000050_128_20260122_000107_2b0ab4.png
 # [botswin/BotBrowser](https://github.com/botswin/BotBrowser)
 
 Simulates fingerprints across platforms and devices
+
+跨平台和设备模拟指纹

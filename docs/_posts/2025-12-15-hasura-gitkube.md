@@ -7,3 +7,5 @@ image: assets/hasura_gitkube_20251213_093644_872_20251213_093709_cc4491.png
 # [hasura/gitkube](https://github.com/hasura/gitkube/)
 
 Build and deploy Docker images on Kubernetes using git push
+
+使用git push在Kubernetes上构建和部署Docker镜像

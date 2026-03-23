@@ -7,3 +7,5 @@ image: assets/20250906T023041288--ast-grep--ast-grep--20250906T023339833--croppe
 # [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
 
 search and rewrite code using AST patterns
+
+使用 AST 模式搜索和重写代码

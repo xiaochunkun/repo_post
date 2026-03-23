@@ -7,3 +7,5 @@ image: assets/catppuccin_discord_20251125_053648_116_20251127_170858_69bae5--202
 # [catppuccin/discord](https://github.com/catppuccin/discord/)
 
 Theme configuration for Discord clients
+
+Discord 客户端的主题配置

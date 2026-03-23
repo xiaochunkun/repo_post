@@ -7,3 +7,5 @@ image: assets/ful1e5_apple_cursor_20251121_132943_546_20251122_033817_855ed4--20
 # [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor/)
 
 macOS cursors for Windows and Linux
+
+Windows 和 Linux 的 macOS 光标

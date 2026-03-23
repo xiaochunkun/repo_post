@@ -7,3 +7,5 @@ image: assets/ellie_commons_sequeler_20260111_025651_359_20260111_025705_7778ab.
 # [ellie-commons/sequeler](https://github.com/ellie-commons/sequeler)
 
 SQL client for Linux systems
+
+Linux系统的SQL客户端

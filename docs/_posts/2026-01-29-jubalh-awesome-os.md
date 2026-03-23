@@ -7,3 +7,5 @@ image: assets/jubalh_awesome_os_20260128_180102_747_20260128_180149_72d08b.png
 # [jubalh/awesome-os](https://github.com/jubalh/awesome-os)
 
 Curated list of open source operating systems
+
+精选开源操作系统列表

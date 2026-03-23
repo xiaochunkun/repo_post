@@ -7,3 +7,5 @@ image: assets/swark_io_swark_20260108_034408_726_20260108_034423_3eadc7.png
 # [swark-io/swark](https://github.com/swark-io/swark)
 
 Generates architecture diagrams from code via GitHub Copilot
+
+通过GitHub Copilot从代码生成架构图

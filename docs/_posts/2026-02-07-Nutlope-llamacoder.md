@@ -7,3 +7,5 @@ image: assets/Nutlope_llamacoder_20260204_192911_142_20260204_193011_0adb48.png
 # [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder)
 
 Generates apps from prompts using Llama 3.1 405B
+
+使用Llama 3.1 405B从提示生成应用

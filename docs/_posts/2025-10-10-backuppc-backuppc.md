@@ -7,3 +7,5 @@ image: assets/20251010T065106476--backuppc--backuppc--20251010T070414068--croppe
 # [backuppc/backuppc](https://github.com/backuppc/backuppc)
 
 backup solution for Linux, Windows, and Mac with web interface and data deduplication
+
+适用于 Linux、Windows 和 Mac 的备份解决方案，具备 Web 界面和数据去重功能

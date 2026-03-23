@@ -7,3 +7,5 @@ image: assets/langchain_ai_open_swe_20260317_165740_455_20260317_165840_e85d98.p
 # [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
 
 Coding agent with sandboxes
+
+带沙盒的编码代理

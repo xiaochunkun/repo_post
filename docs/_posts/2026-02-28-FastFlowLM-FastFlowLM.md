@@ -7,3 +7,5 @@ image: assets/FastFlowLM_FastFlowLM_20260226_044111_490_20260226_044251_73b4d8.p
 # [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM)
 
 Runs LLMs on Ryzen NPUs without GPUs
+
+在Ryzen NPU上运行LLM，无需GPU

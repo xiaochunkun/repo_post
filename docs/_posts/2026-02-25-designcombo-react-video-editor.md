@@ -7,3 +7,5 @@ image: assets/designcombo_react_video_editor_20260212_111301_884_20260212_111325
 # [designcombo/react-video-editor](https://github.com/designcombo/react-video-editor)
 
 Multi-track video editor with visual timeline
+
+带可视化时间线的多轨道视频编辑器

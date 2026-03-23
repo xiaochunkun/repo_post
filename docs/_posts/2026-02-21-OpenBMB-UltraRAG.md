@@ -7,3 +7,5 @@ image: assets/OpenBMB_UltraRAG_20260213_191105_972_20260213_191158_fd4edd.png
 # [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG)
 
 Framework for RAG pipelines using MCP architecture
+
+使用 MCP 架构的 RAG 管道框架

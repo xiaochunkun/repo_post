@@ -7,3 +7,5 @@ image: assets/20251008T180842964--ShilohEye--bitchat-terminal--20251008T18132078
 # [ShilohEye/bitchat-terminal](https://github.com/ShilohEye/bitchat-terminal)
 
 terminal client for decentralized encrypted bluetooth chat
+
+去中心化加密蓝牙聊天的终端客户端

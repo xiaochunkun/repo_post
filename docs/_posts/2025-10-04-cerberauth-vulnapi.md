@@ -7,3 +7,5 @@ image: assets/20251003T231302716--cerberauth--vulnapi--20251003T231626443--cropp
 # [cerberauth/vulnapi](https://github.com/cerberauth/vulnapi)
 
 scan APIs for security issues and vulnerabilities
+
+扫描 API 的安全问题和漏洞

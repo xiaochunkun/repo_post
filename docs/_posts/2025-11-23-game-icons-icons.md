@@ -7,3 +7,5 @@ image: assets/game_icons_icons_20251123_031824_538_20251123_213353_88b7c0--20251
 # [game-icons/icons](https://github.com/game-icons/icons/)
 
 SVG icons and scripts for games
+
+游戏的 SVG 图标和脚本

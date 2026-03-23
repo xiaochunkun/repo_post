@@ -7,3 +7,5 @@ image: assets/Pavelevich_llm_checker_20260302_181351_022_20260302_181553_e63e9b.
 # [Pavelevich/llm-checker](https://github.com/Pavelevich/llm-checker)
 
 Matches LLM models to hardware
+
+将LLM模型与硬件匹配

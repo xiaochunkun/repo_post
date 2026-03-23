@@ -7,3 +7,5 @@ image: assets/lusingander_serie_20260202_225113_494_20260202_225217_7397c1.png
 # [lusingander/serie](https://github.com/lusingander/serie)
 
 Renders git commit graphs using terminal image protocols
+
+使用终端图像协议渲染 git 提交图

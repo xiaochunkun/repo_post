@@ -7,3 +7,5 @@ image: assets/denysdovhan_wtfjs_cropped.png
 # [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
 
 Collection of funny and tricky JavaScript examples
+
+有趣且棘手的 JavaScript 示例集合

@@ -7,3 +7,5 @@ image: assets/vercel_ai-chatbot_cropped.png
 # [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
 
 Open-source Next.js AI chatbot template by Vercel
+
+Vercel的开源Next.js AI聊天机器人模板

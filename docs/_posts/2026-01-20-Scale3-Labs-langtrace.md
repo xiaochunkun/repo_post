@@ -7,3 +7,5 @@ image: assets/Scale3_Labs_langtrace_20260119_214957_373_20260119_215011_e6e96f.p
 # [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace)
 
 Observability tool for LLM applications
+
+用于LLM应用的可观测性工具

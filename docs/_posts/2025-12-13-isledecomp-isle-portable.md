@@ -7,3 +7,5 @@ image: assets/isledecomp_isle_portable_20251209_060139_403_20251209_060203_963aa
 # [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable/)
 
 Portable version of LEGO Island based on decompilation
+
+基于反编译的 LEGO Island 便携版本

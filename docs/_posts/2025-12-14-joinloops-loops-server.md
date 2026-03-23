@@ -7,3 +7,5 @@ image: assets/joinloops_loops_server_20251213_031633_448_20251213_031658_b262eb.
 # [joinloops/loops-server](https://github.com/joinloops/loops-server/)
 
 Federated short video sharing platform
+
+联邦化短视频分享平台

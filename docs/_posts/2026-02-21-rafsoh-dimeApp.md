@@ -7,3 +7,5 @@ image: assets/rafsoh_dimeApp_20260220_103519_902_20260220_103536_133d6c.png
 # [rafsoh/dimeApp](https://github.com/rafsoh/dimeApp)
 
 Open-source expense tracker for iOS
+
+iOS的开源费用追踪器

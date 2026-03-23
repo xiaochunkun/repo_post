@@ -7,3 +7,5 @@ image: assets/20251003T232110760--liyedanpdx--reddit-ai-trends--20251003T2324036
 # [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends)
 
 Daily AI trend reports from Reddit communities
+
+来自 Reddit 社区的每日 AI 趋势报告

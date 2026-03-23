@@ -7,3 +7,5 @@ image: assets/chatwoot_chatwoot_20260305_131344_795_20260305_131534_45f7a9.png
 # [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 
 Platform for customer support and communication management
+
+客户支持和通信管理平台

@@ -7,3 +7,5 @@ image: assets/sindresorhus_awesome_whisper_20251223_080810_431_20251223_080836_a
 # [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper/)
 
 Curated list of Whisper resources
+
+精选的Whisper资源列表

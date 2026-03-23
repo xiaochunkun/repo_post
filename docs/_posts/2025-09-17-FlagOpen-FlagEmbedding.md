@@ -7,3 +7,5 @@ image: assets/20250917T003132047--FlagOpen--FlagEmbedding--20250917T004049118--c
 # [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)
 
 retrieval toolkit for search, RAG, and embedding models
+
+检索工具包，用于搜索、RAG 和嵌入模型

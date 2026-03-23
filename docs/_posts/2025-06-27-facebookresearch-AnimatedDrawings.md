@@ -7,3 +7,5 @@ image: assets/facebookresearch_AnimatedDrawings_cropped.png
 # [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
 
 Tool for turning hand-drawn characters into simple animations using AI
+
+使用 AI 将手绘角色转换为简单动画的工具

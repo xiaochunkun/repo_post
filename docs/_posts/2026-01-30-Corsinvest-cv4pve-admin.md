@@ -7,3 +7,5 @@ image: assets/Corsinvest_cv4pve_admin_20260129_234302_998_20260129_234347_1cd981
 # [Corsinvest/cv4pve-admin](https://github.com/Corsinvest/cv4pve-admin)
 
 Monitors Proxmox VE clusters through a web portal
+
+通过 Web 门户监控 Proxmox VE 集群

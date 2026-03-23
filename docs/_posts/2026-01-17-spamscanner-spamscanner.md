@@ -7,3 +7,5 @@ image: assets/spamscanner_spamscanner_20260117_080208_135_20260117_080231_ccee8f
 # [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner)
 
 Filters email and prevents phishing
+
+过滤邮件并防止网络钓鱼

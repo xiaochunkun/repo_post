@@ -7,3 +7,5 @@ image: assets/electricalgorithm_protomq_20260201_074824_492_20260201_074903_03da
 # [electricalgorithm/protomq](https://github.com/electricalgorithm/protomq)
 
 MQTT broker with Protobuf schema routing
+
+支持Protobuf模式路由的MQTT代理

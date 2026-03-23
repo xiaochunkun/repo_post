@@ -7,3 +7,5 @@ image: assets/nodeshift_opossum_cropped.png
 # [nodeshift/opossum](https://github.com/nodeshift/opossum)
 
 Node.js circuit breaker for handling async failures
+
+处理异步故障的 Node.js 断路器

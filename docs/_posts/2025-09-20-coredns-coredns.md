@@ -7,3 +7,5 @@ image: assets/20250920T043043348--coredns--coredns--20250920T043957047--cropped.
 # [coredns/coredns](https://github.com/coredns/coredns)
 
 DNS server built with plugins, supports Kubernetes and service discovery
+
+使用插件构建的DNS服务器，支持Kubernetes和服务发现

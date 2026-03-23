@@ -7,3 +7,5 @@ image: assets/Pipelex_pipelex_cookbook_20251231_064225_582_20251231_064241_5e485
 # [Pipelex/pipelex-cookbook](https://github.com/Pipelex/pipelex-cookbook/)
 
 Framework for AI workflows
+
+用于AI工作流的框架

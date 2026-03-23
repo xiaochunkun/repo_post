@@ -7,3 +7,5 @@ image: assets/BoPeng_ai_marketplace_monitor_20251222_102027_894_20251222_102044_
 # [BoPeng/ai-marketplace-monitor](https://github.com/BoPeng/ai-marketplace-monitor/)
 
 Monitors Facebook Marketplace listings with AI analysis
+
+通过AI分析监控Facebook Marketplace列表

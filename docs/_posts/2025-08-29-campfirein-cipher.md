@@ -7,3 +7,5 @@ image: assets/20250818T111718867_campfirein_cipher--20250829T030103845--cropped.
 # [campfirein/cipher](https://github.com/campfirein/cipher)
 
 AI memory layer for coding agents with IDE integration
+
+编码智能体的 AI 记忆层，集成 IDE

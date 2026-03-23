@@ -7,3 +7,5 @@ image: assets/heurist_network_heurist_agent_framework_20251222_095153_353_202512
 # [heurist-network/heurist-agent-framework](https://github.com/heurist-network/heurist-agent-framework/)
 
 Framework for building agents on blockchain
+
+区块链上构建智能体的框架

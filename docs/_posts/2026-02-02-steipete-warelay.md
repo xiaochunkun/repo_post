@@ -7,3 +7,5 @@ image: assets/steipete_warelay_20260121_021712_005_20260121_021737_734646.png
 # [steipete/warelay](https://github.com/steipete/warelay)
 
 Personal AI assistant for any OS
+
+适用于任何操作系统的个人AI助手

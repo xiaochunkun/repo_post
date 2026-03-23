@@ -7,3 +7,5 @@ image: assets/TimmyOVO_deepseek_ocr_rs_20251127_191346_673_20251130_082332_4ef23
 # [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs/)
 
 Rust implementation of DeepSeek-OCR inference stack
+
+DeepSeek-OCR 推理栈的 Rust 实现

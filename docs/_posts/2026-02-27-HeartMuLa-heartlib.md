@@ -7,3 +7,5 @@ image: assets/HeartMuLa_heartlib_20260210_111051_818_20260210_111129_acb2e3.png
 # [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)
 
 Generates music from lyrics and tags
+
+从歌词和标签生成音乐

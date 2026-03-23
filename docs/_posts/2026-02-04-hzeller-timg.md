@@ -7,3 +7,5 @@ image: assets/hzeller_timg_20260202_234058_391_20260202_234127_32e76a.png
 # [hzeller/timg](https://github.com/hzeller/timg)
 
 Displays images and videos in terminals
+
+在终端中显示图像和视频

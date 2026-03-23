@@ -7,3 +7,5 @@ image: assets/nerdyslacker_desktop-web-browsers_cropped.png
 # [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers)
 
 list of desktop web browsers
+
+桌面 Web 浏览器列表

@@ -7,3 +7,5 @@ image: assets/patrik_csak_auto_terminal_profile_20260131_063133_723_20260131_063
 # [patrik-csak/auto-terminal-profile](https://github.com/patrik-csak/auto-terminal-profile)
 
 Switches terminal profiles when macOS appearance changes
+
+当macOS外观变化时切换终端配置文件

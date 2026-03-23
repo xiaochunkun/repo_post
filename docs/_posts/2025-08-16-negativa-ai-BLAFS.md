@@ -7,3 +7,5 @@ image: assets/negativa-ai_BLAFS--20250815T022405618--cropped.png
 # [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS)
 
 shrinks container images by removing unused files
+
+通过移除未使用文件来缩小容器镜像

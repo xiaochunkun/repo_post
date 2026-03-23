@@ -7,3 +7,5 @@ image: assets/opensim-org_opensim-core_cropped.png
 # [opensim-org/opensim-core](https://github.com/opensim-org/opensim-core)
 
 simulate and analyze musculoskeletal movement with OpenSim core
+
+使用OpenSim核心模拟和分析肌肉骨骼运动

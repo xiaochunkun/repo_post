@@ -7,3 +7,5 @@ image: assets/HenestrosaDev_audiotext_20251219_100530_776_20251219_100549_926d0e
 # [HenestrosaDev/audiotext](https://github.com/HenestrosaDev/audiotext/)
 
 Transcribes audio and creates subtitles
+
+转录音频并生成字幕

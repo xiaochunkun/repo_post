@@ -7,3 +7,5 @@ image: assets/3xploitGuy_webscrape_20260106_062237_637_20260106_062256_e679e8.pn
 # [3xploitGuy/webscrape](https://github.com/3xploitGuy/webscrape/)
 
 Scrapes emails and phone numbers from websites using bash
+
+使用 bash 从网站抓取电子邮件和电话号码

@@ -7,3 +7,5 @@ image: assets/liriliri_vivy_20251123_184034_257_20251124_184325_25b6af--20251124
 # [liriliri/vivy](https://github.com/liriliri/vivy/)
 
 Desktop application for Stable Diffusion
+
+Stable Diffusion 桌面应用

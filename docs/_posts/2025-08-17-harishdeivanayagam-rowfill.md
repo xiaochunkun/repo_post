@@ -7,3 +7,5 @@ image: assets/harishdeivanayagam_rowfill--20250816T052553775--cropped.png
 # [harishdeivanayagam/rowfill](https://github.com/harishdeivanayagam/rowfill)
 
 Open-source platform for processing PDFs, images, and audio with AI
+
+开源平台，使用AI处理PDF、图像和音频

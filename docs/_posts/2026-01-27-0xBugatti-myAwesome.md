@@ -7,3 +7,5 @@ image: assets/0xBugatti_myAwesome_20260111_144842_727_20260111_144855_3df4e9.png
 # [0xBugatti/myAwesome](https://github.com/0xBugatti/myAwesome)
 
 Resources for evasion techniques and lab environments
+
+用于规避技术和实验室环境的资源

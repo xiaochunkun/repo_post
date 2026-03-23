@@ -7,3 +7,5 @@ image: assets/bad_antics_nullsec_logreaper_20260131_202603_985_20260131_202641_c
 # [bad-antics/nullsec-logreaper](https://github.com/bad-antics/nullsec-logreaper)
 
 Log analysis tool for forensics and threat hunting
+
+用于取证和威胁狩猎的日志分析工具

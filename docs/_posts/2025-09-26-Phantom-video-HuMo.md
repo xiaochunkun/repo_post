@@ -7,3 +7,5 @@ image: assets/20250926T004735083--Phantom-video--HuMo--20250926T005446143--cropp
 # [Phantom-video/HuMo](https://github.com/Phantom-video/HuMo)
 
 AI model for generating human videos from text, images, or audio
+
+从文本、图像或音频生成人类视频的 AI 模型

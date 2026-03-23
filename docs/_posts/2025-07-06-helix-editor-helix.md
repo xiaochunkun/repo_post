@@ -7,3 +7,5 @@ image: assets/helix-editor_helix_cropped.png
 # [helix-editor/helix](https://github.com/helix-editor/helix)
 
 helix: modal text editor with multiple selections, LSP, tree-sitter, terminal focus
+
+helix：具有多选、LSP、tree-sitter、终端焦点的模态文本编辑器

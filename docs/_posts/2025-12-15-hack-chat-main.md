@@ -7,3 +7,5 @@ image: assets/hack_chat_main_20251213_105704_331_20251213_105739_683dfa.png
 # [hack-chat/main](https://github.com/hack-chat/main/)
 
 Chat service without accounts or logs
+
+无需账户或日志的聊天服务

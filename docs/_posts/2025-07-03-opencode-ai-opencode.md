@@ -7,3 +7,5 @@ image: assets/opencode-ai_opencode_cropped.png
 # [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
 
 Go-based CLI tool for terminal coding tasks with multiple AI model support
+
+基于Go的CLI工具，用于终端编码任务，支持多种AI模型

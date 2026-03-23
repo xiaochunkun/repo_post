@@ -7,3 +7,5 @@ image: assets/adamspd_django_appointment_20251201_034200_817_20251201_034225_02f
 # [adamspd/django-appointment](https://github.com/adamspd/django-appointment/)
 
 Appointment scheduling app for Django
+
+Django的预约调度应用

@@ -7,3 +7,5 @@ image: assets/kholia_OSX-KVM_cropped.png
 # [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM)
 
 run macOS in a VM on Linux with QEMU/KVM
+
+在Linux上用QEMU/KVM虚拟机运行macOS

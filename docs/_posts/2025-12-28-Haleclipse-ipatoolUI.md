@@ -7,3 +7,5 @@ image: assets/Haleclipse_ipatoolUI_20251227_041027_838_20251227_041044_6be560.pn
 # [Haleclipse/ipatoolUI](https://github.com/Haleclipse/ipatoolUI/)
 
 GUI for downloading iOS app files on macOS
+
+macOS 上下载 iOS 应用文件的 GUI

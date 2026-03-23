@@ -7,3 +7,5 @@ image: assets/xournalpp_xournalpp_20260307_014249_950_20260307_014405_b96a28.png
 # [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
 
 Annotate PDF files with handwriting
+
+使用手写注释PDF文件

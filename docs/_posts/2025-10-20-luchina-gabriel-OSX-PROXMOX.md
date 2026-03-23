@@ -7,3 +7,5 @@ image: assets/luchina_gabriel_OSX_PROXMOX_20251020_054947_169_20251020_173000--2
 # [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX/)
 
 Run macOS on Proxmox VE
+
+在 Proxmox VE 上运行 macOS

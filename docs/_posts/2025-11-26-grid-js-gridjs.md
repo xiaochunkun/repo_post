@@ -7,3 +7,5 @@ image: assets/grid_js_gridjs_20251124_235052_993_20251125_224759_e993d7--2025112
 # [grid-js/gridjs](https://github.com/grid-js/gridjs/)
 
 Table library for JavaScript frameworks
+
+JavaScript 框架的表格库

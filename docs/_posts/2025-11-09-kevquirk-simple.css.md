@@ -7,3 +7,5 @@ image: assets/kevquirk_simple_css_20251109_162434_104_20251109_164511_64e430--20
 # [kevquirk/simple.css](https://github.com/kevquirk/simple.css/)
 
 CSS framework for semantic HTML
+
+用于语义HTML的CSS框架

@@ -7,3 +7,5 @@ image: assets/rdbende_Sun_Valley_ttk_theme_20251023_001421_874_20251023_212601_f
 # [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme/)
 
 A Windows 11 theme for Tkinter
+
+Tkinter的Windows 11主题

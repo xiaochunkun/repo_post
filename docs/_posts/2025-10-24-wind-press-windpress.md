@@ -7,3 +7,5 @@ image: assets/wind_press_windpress_20251023_001726_824_20251023_214440_3b6f94--2
 # [wind-press/windpress](https://github.com/wind-press/windpress/)
 
 Tailwind CSS for WordPress without a build step
+
+无需构建步骤的WordPress Tailwind CSS

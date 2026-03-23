@@ -7,3 +7,5 @@ image: assets/polamoros_home_assistant_cards_20260113_141444_629_20260113_141458
 # [polamoros/home-assistant-cards](https://github.com/polamoros/home-assistant-cards)
 
 Templates for Home Assistant dashboards
+
+Home Assistant 仪表板模板

@@ -7,3 +7,5 @@ image: assets/20250928T052429399--dessant--buster--20250928T053603264--cropped.p
 # [dessant/buster](https://github.com/dessant/buster)
 
 browser extension that solves reCAPTCHA audio challenges using speech recognition
+
+浏览器扩展，使用语音识别解决reCAPTCHA音频验证

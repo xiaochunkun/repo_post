@@ -7,3 +7,5 @@ image: assets/sentriz_gonic_20251114_032109_503_20251114_160434_0fb306--20251114
 # [sentriz/gonic](https://github.com/sentriz/gonic/)
 
 Subsonic server API implementation in Go
+
+Go实现的Subsonic服务器API

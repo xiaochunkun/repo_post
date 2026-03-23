@@ -7,3 +7,5 @@ image: assets/MewPurPur_GodSVG_20251023_001838_520_20251023_215002_06f329--20251
 # [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG/)
 
 An SVG editor for direct code representation
+
+直接代码表示的SVG编辑器

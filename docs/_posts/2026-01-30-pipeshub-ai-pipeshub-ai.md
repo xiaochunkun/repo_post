@@ -7,3 +7,5 @@ image: assets/pipeshub_ai_pipeshub_ai_20260129_215359_506_20260129_215444_f5990b
 # [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)
 
 Workplace AI for search and workflow automation
+
+工作场所AI，用于搜索和工作流自动化

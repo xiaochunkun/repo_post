@@ -7,3 +7,5 @@ image: assets/EmilDimov93_Rapid_Engine_20251213_041412_856_20251213_041508_6aa9d
 # [EmilDimov93/Rapid-Engine](https://github.com/EmilDimov93/Rapid-Engine/)
 
 Game engine with visual scripting in C
+
+C语言可视化脚本游戏引擎

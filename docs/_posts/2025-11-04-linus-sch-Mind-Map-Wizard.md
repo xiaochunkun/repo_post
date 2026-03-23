@@ -7,3 +7,5 @@ image: assets/linus_sch_Mind_Map_Wizard_20251031_161053_595_20251102_215804_e158
 # [linus-sch/Mind-Map-Wizard](https://github.com/linus-sch/Mind-Map-Wizard/)
 
 AI-powered text to mind map generator
+
+AI驱动的文本转思维导图生成器

@@ -7,3 +7,5 @@ image: assets/20250822T020921839--NiladriHazra--Open-Fiesta--20250822T021257980-
 # [NiladriHazra/Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta)
 
 open-source multi-model AI chat playground with side-by-side outputs
+
+开源多模型 AI 对话试验场，支持并排对比输出

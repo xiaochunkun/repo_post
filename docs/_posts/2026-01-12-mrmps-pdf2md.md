@@ -7,3 +7,5 @@ image: assets/mrmps_pdf2md_20260112_075048_281_20260112_075109_69b5a2.png
 # [mrmps/pdf2md](https://github.com/mrmps/pdf2md)
 
 Converts PDF files to Markdown in the browser
+
+在浏览器中将PDF文件转换为Markdown

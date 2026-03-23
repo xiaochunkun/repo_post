@@ -7,3 +7,5 @@ image: assets/ConSol_docker_headless_vnc_container_20251213_033811_771_20251213_
 # [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container/)
 
 Docker images with headless VNC environments
+
+带有无头 VNC 环境的 Docker 镜像

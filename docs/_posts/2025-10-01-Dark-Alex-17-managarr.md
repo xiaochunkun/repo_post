@@ -7,3 +7,5 @@ image: assets/20251001T132641127--Dark-Alex-17--managarr--20251001T133013298--cr
 # [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr)
 
 Terminal UI and CLI for managing Radarr, Sonarr, Readarr, Lidarr, Prowlarr, Whisparr, Bazarr, and Tautulli in your Servarr stack, built with Rust
+
+基于Rust构建的Terminal UI和CLI，用于管理Servarr堆栈中的Radarr、Sonarr、Readarr、Lidarr、Prowlarr、Whisparr、Bazarr和Tautulli

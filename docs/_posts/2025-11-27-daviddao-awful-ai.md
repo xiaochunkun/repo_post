@@ -7,3 +7,5 @@ image: assets/daviddao_awful_ai_20251125_003755_460_20251126_100515_42ce8d--2025
 # [daviddao/awful-ai](https://github.com/daviddao/awful-ai/)
 
 Curated list of unethical AI usage
+
+不道德 AI 使用案例精选列表

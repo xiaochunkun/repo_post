@@ -7,3 +7,5 @@ image: assets/0xSojalSec_ChatTutor_20260113_174213_797_20260113_174228_106c04.pn
 # [0xSojalSec/ChatTutor](https://github.com/0xSojalSec/ChatTutor)
 
 AI tutor with an electronic whiteboard
+
+带电子白板的 AI 导师

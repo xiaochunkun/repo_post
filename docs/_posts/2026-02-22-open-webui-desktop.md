@@ -7,3 +7,5 @@ image: assets/open_webui_desktop_20260222_063049_579_20260222_063107_75836b.png
 # [open-webui/desktop](https://github.com/open-webui/desktop)
 
 Interface for local LLM servers
+
+本地 LLM 服务器的界面

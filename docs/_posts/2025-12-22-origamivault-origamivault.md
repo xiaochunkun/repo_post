@@ -7,3 +7,5 @@ image: assets/origamivault_origamivault_20251219_225118_815_20251219_225136_e127
 # [origamivault/origamivault](https://github.com/origamivault/origamivault/)
 
 Encrypts secrets into paper storage
+
+将秘密加密存储到纸质介质

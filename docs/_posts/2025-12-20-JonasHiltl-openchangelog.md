@@ -7,3 +7,5 @@ image: assets/JonasHiltl_openchangelog_20251218_021024_693_20251218_021042_1e194
 # [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog/)
 
 Converts Markdown files into changelog websites
+
+将 Markdown 文件转换为更新日志网站

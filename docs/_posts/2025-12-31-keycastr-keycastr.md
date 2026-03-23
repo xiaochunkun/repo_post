@@ -7,3 +7,5 @@ image: assets/keycastr_keycastr_20251231_020908_682_20251231_020926_148b28.png
 # [keycastr/keycastr](https://github.com/keycastr/keycastr/)
 
 Visualizes keystrokes for screencasts on macOS
+
+在macOS上为屏幕录制可视化按键

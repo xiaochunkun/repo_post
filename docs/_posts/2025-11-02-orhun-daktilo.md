@@ -7,3 +7,5 @@ image: assets/orhun_daktilo_20251031_071526_821_20251101_205536_d80989--20251101
 # [orhun/daktilo](https://github.com/orhun/daktilo/)
 
 Adds typewriter sounds to your keyboard
+
+为键盘添加打字机声音

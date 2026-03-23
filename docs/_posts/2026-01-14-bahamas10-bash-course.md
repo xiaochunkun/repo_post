@@ -7,3 +7,5 @@ image: assets/bahamas10_bash_course_20260113_052920_362_20260113_052933_eda39b.p
 # [bahamas10/bash-course](https://github.com/bahamas10/bash-course)
 
 Bash scripting course from beginner to advanced techniques
+
+从基础到高级的 Bash 脚本课程

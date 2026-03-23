@@ -7,3 +7,5 @@ image: assets/lucidrains_transfusion_pytorch_20251201_081223_300_20251201_081431
 # [lucidrains/transfusion-pytorch](https://github.com/lucidrains/transfusion-pytorch/)
 
 PyTorch implementation of MetaAI's Transfusion model
+
+MetaAI Transfusion 模型的 PyTorch 实现

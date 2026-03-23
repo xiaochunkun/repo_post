@@ -7,3 +7,5 @@ image: assets/Lissy93_portainer_templates_20260213_175835_290_20260213_175944_29
 # [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
 
 Collection of 500 app templates for Portainer
+
+Portainer 的 500 个应用模板集合

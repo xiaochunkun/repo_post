@@ -7,3 +7,5 @@ image: assets/jackyzy823_fxa_selfhosting_20260101_210801_494_20260101_210816_211
 # [jackyzy823/fxa-selfhosting](https://github.com/jackyzy823/fxa-selfhosting/)
 
 Selfhosting for Firefox Accounts via Docker
+
+通过Docker自托管Firefox账户

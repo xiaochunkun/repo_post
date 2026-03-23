@@ -7,3 +7,5 @@ image: assets/TailAdmin_vue_tailwind_admin_dashboard_20251217_203903_551_2025121
 # [TailAdmin/vue-tailwind-admin-dashboard](https://github.com/TailAdmin/vue-tailwind-admin-dashboard/)
 
 Vue.js 3 and Tailwind CSS admin dashboard template
+
+基于 Vue.js 3 和 Tailwind CSS 的管理仪表板模板

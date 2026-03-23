@@ -7,3 +7,5 @@ image: assets/langchain_ai_langgraph_supervisor_py_20260321_152945_854_20260321_
 # [langchain-ai/langgraph-supervisor-py](https://github.com/langchain-ai/langgraph-supervisor-py)
 
 Hierarchical multi-agent systems with supervisor
+
+带监督器的分层多代理系统

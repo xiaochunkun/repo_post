@@ -7,3 +7,5 @@ image: assets/asacristani_fastapi_rocket_boilerplate_20260111_084041_319_2026011
 # [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate)
 
 Python API boilerplate with Celery and Docker
+
+包含Celery和Docker的Python API样板

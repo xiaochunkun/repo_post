@@ -7,3 +7,5 @@ image: assets/remotion_dev_remotion_20260205_181659_632_20260205_181749_1dbb4f.p
 # [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 
 Creates videos programmatically with React
+
+使用React编程创建视频

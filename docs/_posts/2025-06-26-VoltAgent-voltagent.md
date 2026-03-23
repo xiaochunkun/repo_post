@@ -7,3 +7,5 @@ image: assets/VoltAgent_voltagent_cropped.png
 # [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)
 
 TypeScript framework for building and managing AI agents
+
+用于构建和管理 AI 代理的 TypeScript 框架

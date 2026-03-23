@@ -7,3 +7,5 @@ image: assets/google_ai_edge_gallery_20260129_020746_950_20260129_020832_f84d9e.
 # [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
 
 Generative AI models on Android and iOS devices
+
+Android 和 iOS 设备上的生成式 AI 模型

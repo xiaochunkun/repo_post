@@ -7,3 +7,5 @@ image: assets/20250818T122802234_hyperb1iss_droidmind--20250818T123312921--cropp
 # [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind)
 
 control android devices with ai using adb and natural language
+
+使用 adb 和自然语言通过 AI 控制 Android 设备

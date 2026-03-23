@@ -7,3 +7,5 @@ image: assets/ionelmc_cookiecutter-pylibrary_cropped.png
 # [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary)
 
 cookiecutter template for making python library projects
+
+创建Python库项目的cookiecutter模板

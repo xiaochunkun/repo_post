@@ -7,3 +7,5 @@ image: assets/20250826T033842485--cursorless-dev--cursorless-talon--20250827T095
 # [cursorless-dev/cursorless-talon](https://github.com/cursorless-dev/cursorless-talon)
 
 voice coding with Talon and Cursorless for fast code editing
+
+使用 Talon 和 Cursorless 进行语音编程

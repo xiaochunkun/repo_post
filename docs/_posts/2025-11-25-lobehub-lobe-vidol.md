@@ -7,3 +7,5 @@ image: assets/lobehub_lobe_vidol_20251123_190414_012_20251124_184748_258036--202
 # [lobehub/lobe-vidol](https://github.com/lobehub/lobe-vidol/)
 
 Virtual idol creation with MMD dance support
+
+支持 MMD 舞蹈的虚拟偶像创建工具

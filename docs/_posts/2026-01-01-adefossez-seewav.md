@@ -7,3 +7,5 @@ image: assets/adefossez_seewav_20251231_191115_038_20251231_191129_419dbd.png
 # [adefossez/seewav](https://github.com/adefossez/seewav/)
 
 Generates video animations from audio waveforms
+
+从音频波形生成视频动画

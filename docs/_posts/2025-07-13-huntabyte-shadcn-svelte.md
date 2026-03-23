@@ -7,3 +7,5 @@ image: assets/huntabyte_shadcn-svelte_cropped.png
 # [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
 
 Svelte UI components you can copy, customize, and drop into your app
+
+可复制、定制并集成到应用的Svelte UI组件

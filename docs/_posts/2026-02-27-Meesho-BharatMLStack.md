@@ -7,3 +7,5 @@ image: assets/Meesho_BharatMLStack_20260216_200013_304_20260216_200105_88b9f5.pn
 # [Meesho/BharatMLStack](https://github.com/Meesho/BharatMLStack)
 
 Infrastructure for machine learning at scale
+
+大规模机器学习的基础设施

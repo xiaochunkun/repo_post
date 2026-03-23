@@ -7,3 +7,5 @@ image: assets/20250908T120946856--firecrawl--fireplexity--20250908T193055940--cr
 # [firecrawl/fireplexity](https://github.com/firecrawl/fireplexity)
 
 Open-source AI search engine for web, news, and images using Firecrawl
+
+基于 Firecrawl 的开源 AI 搜索引擎，支持网页、新闻和图片搜索

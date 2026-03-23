@@ -7,3 +7,5 @@ image: assets/ts-rest_ts-rest_cropped.png
 # [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest)
 
 type-safe API contracts for REST, no codegen
+
+类型安全的 REST API 契约，无需代码生成

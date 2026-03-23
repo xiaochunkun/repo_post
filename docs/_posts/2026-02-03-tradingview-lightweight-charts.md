@@ -7,3 +7,5 @@ image: assets/tradingview_lightweight_charts_20260202_231152_320_20260202_231222
 # [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)
 
 Financial charts with HTML5 canvas
+
+使用 HTML5 canvas 的金融图表

@@ -7,3 +7,5 @@ image: assets/hengyoush_kyanos_cropped.png
 # [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
 
 eBPF-based tool for analyzing and capturing network traffic like HTTP, Redis, and MySQL requests
+
+基于eBPF的工具，用于分析和捕获HTTP、Redis和MySQL请求等网络流量

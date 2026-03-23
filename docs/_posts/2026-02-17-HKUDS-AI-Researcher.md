@@ -7,3 +7,5 @@ image: assets/HKUDS_AI_Researcher_20260206_060036_844_20260206_060141_779c67.png
 # [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
 
 Automates scientific research from concept to publication
+
+从概念到出版自动化科学研究

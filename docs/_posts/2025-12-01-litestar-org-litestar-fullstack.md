@@ -7,3 +7,5 @@ image: assets/litestar_org_litestar_fullstack_20251130_055638_064_20251130_08424
 # [litestar-org/litestar-fullstack](https://github.com/litestar-org/litestar-fullstack/)
 
 Fullstack reference application with React, Vite, and SQLAlchemy
+
+使用React、Vite和SQLAlchemy的全栈参考应用

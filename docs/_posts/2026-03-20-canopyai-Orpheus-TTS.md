@@ -7,3 +7,5 @@ image: assets/canopyai_Orpheus_TTS_20260222_182028_859_20260222_182123_84fd23.pn
 # [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)
 
 Text-to-speech system on Llama-3 backbone
+
+基于 Llama-3 骨干的文本转语音系统

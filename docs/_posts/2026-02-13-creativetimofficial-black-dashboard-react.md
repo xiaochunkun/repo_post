@@ -7,3 +7,5 @@ image: assets/creativetimofficial_black_dashboard_react_20260116_195858_051_2026
 # [creativetimofficial/black-dashboard-react](https://github.com/creativetimofficial/black-dashboard-react)
 
 Admin dashboard with React and Bootstrap components
+
+使用 React 和 Bootstrap 组件的管理仪表板

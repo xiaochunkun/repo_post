@@ -7,3 +7,5 @@ image: assets/tancredi_fantasticon_20260314_195049_562_20260314_195523_afd7ee.pn
 # [tancredi/fantasticon](https://github.com/tancredi/fantasticon)
 
 Generates TypeScript types and JSON maps for icon fonts
+
+为图标字体生成 TypeScript 类型和 JSON 映射

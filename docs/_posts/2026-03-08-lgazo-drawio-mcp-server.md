@@ -7,3 +7,5 @@ image: assets/lgazo_drawio_mcp_server_20260303_114738_075_20260303_114908_203b36
 # [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server)
 
 MCP server for AI agents to control diagrams
+
+AI 代理控制图表的 MCP 服务器

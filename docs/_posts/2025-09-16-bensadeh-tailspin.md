@@ -7,3 +7,5 @@ image: assets/20250915T223222305--bensadeh--tailspin--20250915T225211890--croppe
 # [bensadeh/tailspin](https://github.com/bensadeh/tailspin)
 
 highlights log files with colors for dates, IPs, UUIDs and more
+
+用颜色高亮日志文件中的日期、IP、UUID 等

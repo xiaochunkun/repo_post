@@ -7,3 +7,5 @@ image: assets/PleasePrompto_notebooklm_mcp_20260227_010235_959_20260227_010422_7
 # [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)
 
 Connects agents to NotebookLM for grounded answers
+
+将代理连接到NotebookLM以获取基于事实的答案

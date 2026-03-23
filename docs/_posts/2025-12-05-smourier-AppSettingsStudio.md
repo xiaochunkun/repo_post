@@ -7,3 +7,5 @@ image: assets/smourier_AppSettingsStudio_20251202_224609_023_20251202_224632_5e4
 # [smourier/AppSettingsStudio](https://github.com/smourier/AppSettingsStudio/)
 
 GUI for centralized management of .NET appsettings.json files
+
+用于集中管理 .NET appsettings.json 文件的 GUI

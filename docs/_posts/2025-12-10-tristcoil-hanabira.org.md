@@ -7,3 +7,5 @@ image: assets/tristcoil_hanabira_org_20251207_224427_808_20251207_224451_67b98d.
 # [tristcoil/hanabira.org](https://github.com/tristcoil/hanabira.org/)
 
 Self-hostable Japanese learning platform
+
+可自托管的日语学习平台

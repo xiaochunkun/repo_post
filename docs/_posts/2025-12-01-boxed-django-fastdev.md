@@ -7,3 +7,5 @@ image: assets/boxed_django_fastdev_20251130_062235_863_20251130_084434_823230--2
 # [boxed/django-fastdev](https://github.com/boxed/django-fastdev/)
 
 Raises errors for missing Django template variables
+
+为缺失的 Django 模板变量引发错误

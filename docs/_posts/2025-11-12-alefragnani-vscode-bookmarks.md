@@ -7,3 +7,5 @@ image: assets/alefragnani_vscode_bookmarks_20251111_190928_162_20251112_024531_3
 # [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks/)
 
 VS Code extension to mark and jump between positions in code
+
+用于标记和跳转代码位置的VS Code扩展

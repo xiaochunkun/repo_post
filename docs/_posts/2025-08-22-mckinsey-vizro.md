@@ -7,3 +7,5 @@ image: assets/mckinsey_vizro--20250820T141029879--cropped.png
 # [mckinsey/vizro](https://github.com/mckinsey/vizro)
 
 low-code toolkit for building Python data visualization apps
+
+低代码工具包，快速构建 Python 数据可视化应用

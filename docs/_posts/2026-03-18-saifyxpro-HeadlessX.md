@@ -7,3 +7,5 @@ image: assets/saifyxpro_HeadlessX_20260317_162414_614_20260317_162543_3c3c78.png
 # [saifyxpro/HeadlessX](https://github.com/saifyxpro/HeadlessX)
 
 Self-hosted scraping platform powered by Camoufox
+
+由Camoufox驱动的自托管爬虫平台

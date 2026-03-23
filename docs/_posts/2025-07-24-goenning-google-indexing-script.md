@@ -7,3 +7,5 @@ image: assets/goenning_google-indexing-script_cropped.png
 # [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)
 
 script to quickly request Google to index all your site pages
+
+快速请求Google索引所有网站页面的脚本

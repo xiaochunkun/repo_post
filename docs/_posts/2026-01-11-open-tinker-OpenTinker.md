@@ -7,3 +7,5 @@ image: assets/open_tinker_OpenTinker_20260111_040014_239_20260111_040027_0639a4.
 # [open-tinker/OpenTinker](https://github.com/open-tinker/OpenTinker)
 
 Infrastructure for agentic reinforcement learning
+
+代理强化学习的基础设施

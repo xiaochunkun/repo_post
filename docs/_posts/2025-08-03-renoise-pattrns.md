@@ -7,3 +7,5 @@ image: assets/renoise_pattrns_cropped.png
 # [renoise/pattrns](https://github.com/renoise/pattrns)
 
 algorithmic music patterns with lua or rust
+
+使用Lua或Rust的算法音乐模式

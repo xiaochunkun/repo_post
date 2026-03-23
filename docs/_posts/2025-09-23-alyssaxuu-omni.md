@@ -7,3 +7,5 @@ image: assets/20250923T023439695--alyssaxuu--omni--20250923T024255220--cropped.p
 # [alyssaxuu/omni](https://github.com/alyssaxuu/omni)
 
 command bar for tabs, bookmarks, and browser actions
+
+标签、书签和浏览器操作的命令栏

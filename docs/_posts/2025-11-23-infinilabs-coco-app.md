@@ -7,3 +7,5 @@ image: assets/infinilabs_coco_app_20251123_041038_413_20251123_215009_7d30c6--20
 # [infinilabs/coco-app](https://github.com/infinilabs/coco-app/)
 
 Search across enterprise applications
+
+跨企业应用搜索

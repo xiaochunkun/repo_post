@@ -7,3 +7,5 @@ image: assets/JaKooLit_Arch_Hyprland_20251218_103451_234_20251218_103508_3d3a7e.
 # [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland/)
 
 Automates Hyprland installation on Arch Linux
+
+在Arch Linux上自动化安装Hyprland

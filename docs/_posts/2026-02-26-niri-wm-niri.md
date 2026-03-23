@@ -7,3 +7,5 @@ image: assets/niri_wm_niri_20260225_121514_162_20260225_121646_81debd.png
 # [niri-wm/niri](https://github.com/niri-wm/niri)
 
 Scrollable tiling Wayland compositor
+
+可滚动的平铺Wayland合成器

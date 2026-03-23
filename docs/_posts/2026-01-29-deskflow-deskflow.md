@@ -7,3 +7,5 @@ image: assets/deskflow_deskflow_20260129_012157_844_20260129_012237_06f8ef.png
 # [deskflow/deskflow](https://github.com/deskflow/deskflow)
 
 Shares keyboard and mouse between computers
+
+在计算机间共享键盘和鼠标

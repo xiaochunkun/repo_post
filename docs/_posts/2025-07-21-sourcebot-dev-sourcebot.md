@@ -7,3 +7,5 @@ image: assets/sourcebot-dev_sourcebot_cropped.png
 # [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot)
 
 open source code search across all your repos
+
+跨仓库开源代码搜索工具

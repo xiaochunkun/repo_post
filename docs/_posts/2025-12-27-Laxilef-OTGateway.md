@@ -7,3 +7,5 @@ image: assets/Laxilef_OTGateway_20251226_030009_732_20251226_030028_bf95da.png
 # [Laxilef/OTGateway](https://github.com/Laxilef/OTGateway/)
 
 Control for boilers via Home Assistant
+
+通过 Home Assistant 控制锅炉

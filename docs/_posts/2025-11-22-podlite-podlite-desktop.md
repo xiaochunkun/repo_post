@@ -7,3 +7,5 @@ image: assets/podlite_podlite_desktop_20251121_135408_565_20251122_034224_77a121
 # [podlite/podlite-desktop](https://github.com/podlite/podlite-desktop/)
 
 Desktop editor for markup files
+
+标记文件的桌面编辑器

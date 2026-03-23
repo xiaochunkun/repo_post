@@ -7,3 +7,5 @@ image: assets/steven-tey_novel_cropped.png
 # [steven-tey/novel](https://github.com/steven-tey/novel)
 
 Notion-style WYSIWYG editor with AI-powered autocompletion
+
+Notion 风格的所见即所得编辑器，具备 AI 驱动的自动补全功能

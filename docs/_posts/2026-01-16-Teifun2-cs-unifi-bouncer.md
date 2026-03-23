@@ -7,3 +7,5 @@ image: assets/Teifun2_cs_unifi_bouncer_20260115_225738_878_20260115_225751_33b1a
 # [Teifun2/cs-unifi-bouncer](https://github.com/Teifun2/cs-unifi-bouncer)
 
 Blocks malicious IP addresses on Unifi gateways
+
+在 Unifi 网关上阻止恶意 IP 地址

@@ -7,3 +7,5 @@ image: assets/answeryt_Neosgenesis_20251105_022855_980_20251105_123134_1da108--2
 # [answeryt/Neosgenesis](https://github.com/answeryt/Neosgenesis/)
 
 Metacognitive AI decision framework for agents
+
+用于智能体的元认知AI决策框架

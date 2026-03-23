@@ -7,3 +7,5 @@ image: assets/asdfghj1237890_WebVideo2NAS_20260322_104301_192_20260322_104328_cc
 # [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS)
 
 Captures web video URLs to NAS
+
+捕获网络视频 URL 到 NAS

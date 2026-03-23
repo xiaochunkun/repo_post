@@ -7,3 +7,5 @@ image: assets/evcc-io_evcc_cropped.png
 # [evcc-io/evcc](https://github.com/evcc-io/evcc)
 
 EV charge controller and home energy manager
+
+电动汽车充电控制器和家庭能源管理器

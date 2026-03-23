@@ -7,3 +7,5 @@ image: assets/sherlockchou86_VideoPipe_20251216_170555_877_20251216_170623_23eec
 # [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe/)
 
 Framework for video analysis and structuring in C++
+
+C++ 视频分析和结构化框架

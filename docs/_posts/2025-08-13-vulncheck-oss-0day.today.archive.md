@@ -7,3 +7,5 @@ image: assets/vulncheck-oss_0day.today.archive--20250812T231054--cropped.png
 # [vulncheck-oss/0day.today.archive](https://github.com/vulncheck-oss/0day.today.archive)
 
 archive of 0day.today exploits, preserved PoCs and index
+
+0day.today 漏洞利用存档，包含保留的 PoC 和索引

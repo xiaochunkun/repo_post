@@ -7,3 +7,5 @@ image: assets/bmad_code_org_BMAD_METHOD_20260304_160258_259_20260304_160453_4bcc
 # [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)
 
 Module for development using AI and agile workflows
+
+使用AI和敏捷工作流的开发模块

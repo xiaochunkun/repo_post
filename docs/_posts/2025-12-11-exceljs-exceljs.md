@@ -7,3 +7,5 @@ image: assets/exceljs_exceljs_20251209_005632_819_20251209_005657_cb898b.png
 # [exceljs/exceljs](https://github.com/exceljs/exceljs/)
 
 Reads, manipulates, and writes spreadsheet data to XLSX and JSON
+
+读取、操作并写入XLSX和JSON的电子表格数据

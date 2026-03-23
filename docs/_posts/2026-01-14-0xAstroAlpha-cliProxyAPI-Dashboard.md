@@ -7,3 +7,5 @@ image: assets/0xAstroAlpha_cliProxyAPI_Dashboard_20260113_173454_988_20260113_17
 # [0xAstroAlpha/cliProxyAPI-Dashboard](https://github.com/0xAstroAlpha/cliProxyAPI-Dashboard)
 
 Dashboard for managing proxy instances
+
+管理 proxy 实例的仪表板

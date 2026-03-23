@@ -7,3 +7,5 @@ image: assets/iannuttall_ralph_20260217_011100_316_20260217_011153_56b65d.png
 # [iannuttall/ralph](https://github.com/iannuttall/ralph)
 
 Agent loop for autonomous coding using files as memory
+
+使用文件作为内存的自主编码代理循环

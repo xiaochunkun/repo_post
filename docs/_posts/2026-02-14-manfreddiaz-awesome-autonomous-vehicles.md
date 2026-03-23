@@ -7,3 +7,5 @@ image: assets/manfreddiaz_awesome_autonomous_vehicles_20260211_085143_162_202602
 # [manfreddiaz/awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
 
 Resources for self-driving car development
+
+自动驾驶汽车开发的资源

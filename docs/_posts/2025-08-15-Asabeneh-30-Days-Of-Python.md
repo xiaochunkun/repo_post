@@ -7,3 +7,5 @@ image: assets/Asabeneh_30-Days-Of-Python--20250815T015533201--cropped.png
 # [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
 30 days of Python lessons for beginners
+
+面向初学者的30天Python课程

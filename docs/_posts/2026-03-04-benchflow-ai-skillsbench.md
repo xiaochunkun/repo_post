@@ -7,3 +7,5 @@ image: assets/benchflow_ai_skillsbench_20260226_181056_949_20260226_181233_8bf77
 # [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench)
 
 Benchmark for agent skill composition
+
+代理技能组合的基准测试

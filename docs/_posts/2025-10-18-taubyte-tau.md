@@ -7,3 +7,5 @@ image: assets/taubyte_tau_20251018_132202_588_20251018_140754--20251018T16075481
 # [taubyte/tau](https://github.com/taubyte/tau/)
 
 A distributed platform for applications and hosting
+
+用于应用和托管的分布式平台

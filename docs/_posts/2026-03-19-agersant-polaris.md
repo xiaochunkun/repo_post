@@ -7,3 +7,5 @@ image: assets/agersant_polaris_20260319_112905_674_20260319_113038_88e61e.png
 # [agersant/polaris](https://github.com/agersant/polaris)
 
 Self-hosted music streaming server
+
+自托管音乐流媒体服务器

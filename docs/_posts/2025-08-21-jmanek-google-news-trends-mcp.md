@@ -7,3 +7,5 @@ image: assets/20250820T132440889_jmanek_google-news-trends-mcp--20250820T1328166
 # [jmanek/google-news-trends-mcp](https://github.com/jmanek/google-news-trends-mcp)
 
 Pulls news and trending topics from Google, then summarizes articles with LLM and NLP tools
+
+从 Google 获取新闻和热门话题，用 LLM 和 NLP 工具生成摘要

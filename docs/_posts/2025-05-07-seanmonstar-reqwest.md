@@ -7,3 +7,5 @@ image: assets/seanmonstar_reqwest_cropped.png
 # [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
 
 Rust HTTP client for making requests
+
+Rust HTTP 客户端，用于发送请求

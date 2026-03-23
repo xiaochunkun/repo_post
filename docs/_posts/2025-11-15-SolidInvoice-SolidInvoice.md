@@ -7,3 +7,5 @@ image: assets/SolidInvoice_SolidInvoice_20251114_200634_925_20251115_035614_37ef
 # [SolidInvoice/SolidInvoice](https://github.com/SolidInvoice/SolidInvoice/)
 
 Open-source invoicing application for small businesses
+
+面向小企业的开源发票应用

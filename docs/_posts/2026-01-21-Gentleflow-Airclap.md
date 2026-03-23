@@ -7,3 +7,5 @@ image: assets/Gentleflow_Airclap_20260120_125544_647_20260120_125617_caf722.png
 # [Gentleflow/Airclap](https://github.com/Gentleflow/Airclap)
 
 Transfers files across devices over local networks
+
+在本地网络间跨设备传输文件

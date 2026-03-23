@@ -7,3 +7,5 @@ image: assets/memodb_io_memobase_20260318_155613_550_20260318_155715_3c821e.png
 # [memodb-io/memobase](https://github.com/memodb-io/memobase)
 
 User profile memory for LLMs
+
+为LLM提供用户档案记忆

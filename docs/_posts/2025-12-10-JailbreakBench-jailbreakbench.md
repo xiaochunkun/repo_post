@@ -7,3 +7,5 @@ image: assets/JailbreakBench_jailbreakbench_20251207_220506_573_20251207_220528_
 # [JailbreakBench/jailbreakbench](https://github.com/JailbreakBench/jailbreakbench/)
 
 Benchmark for jailbreaking language models
+
+用于越狱语言模型的基准测试

@@ -7,3 +7,5 @@ image: assets/NeoHuncho_vikunja_voice_assistant_20251219_130501_460_20251219_130
 # [NeoHuncho/vikunja-voice-assistant](https://github.com/NeoHuncho/vikunja-voice-assistant/)
 
 Voice assistant for task creation in Home Assistant
+
+Home Assistant中创建任务的语音助手

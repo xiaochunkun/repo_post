@@ -7,3 +7,5 @@ image: assets/express_rate_limit_express_rate_limit_20251111_190546_936_20251112
 # [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit/)
 
 Rate-limiting middleware for Express
+
+用于Express的速率限制中间件

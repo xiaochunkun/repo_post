@@ -7,3 +7,5 @@ image: assets/star_history_star_history_20260311_015124_873_20260311_015319_3157
 # [star-history/star-history](https://github.com/star-history/star-history)
 
 GitHub star history graph generator
+
+GitHub star 历史图表生成器

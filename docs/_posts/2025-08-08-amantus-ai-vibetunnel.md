@@ -7,3 +7,5 @@ image: assets/amantus-ai_vibetunnel_cropped.png
 # [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
 
 access your Mac terminal from any browser
+
+从任何浏览器访问 Mac 终端

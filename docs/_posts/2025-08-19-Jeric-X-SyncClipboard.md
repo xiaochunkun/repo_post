@@ -7,3 +7,5 @@ image: assets/20250818T112317070_Jeric-X_SyncClipboard--20250818T112439463--crop
 # [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
 
 clipboard sync for text, images, and files across devices
+
+跨设备同步文本、图像和文件的剪贴板工具

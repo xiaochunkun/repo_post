@@ -7,3 +7,5 @@ image: assets/duckdb_duckdb_cropped.png
 # [duckdb/duckdb](https://github.com/duckdb/duckdb)
 
 GitHub repo for DuckDB, an in-process SQL database system for analytics
+
+DuckDB 的 GitHub 仓库，这是一个用于分析的进程内 SQL 数据库系统

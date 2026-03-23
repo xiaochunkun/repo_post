@@ -7,3 +7,5 @@ image: assets/ServBay_ServBay_20251125_041335_892_20251127_165230_069b86--202511
 # [ServBay/ServBay](https://github.com/ServBay/ServBay/)
 
 Local web development environment for macOS and Windows
+
+适用于macOS和Windows的本地Web开发环境

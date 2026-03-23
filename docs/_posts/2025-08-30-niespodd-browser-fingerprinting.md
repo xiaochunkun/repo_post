@@ -7,3 +7,5 @@ image: assets/20250830T041214624--niespodd--browser-fingerprinting--20250830T042
 # [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
 
 tips for scraping the web without getting blocked
+
+防止 Web 爬虫被封锁的技巧

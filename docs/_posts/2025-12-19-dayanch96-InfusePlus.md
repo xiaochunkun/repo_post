@@ -7,3 +7,5 @@ image: assets/dayanch96_InfusePlus_20251218_005415_634_20251218_005432_8318e3.pn
 # [dayanch96/InfusePlus](https://github.com/dayanch96/InfusePlus/)
 
 Enhancer for the Infuse app on iOS
+
+iOS 上 Infuse 应用的增强工具

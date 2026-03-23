@@ -7,3 +7,5 @@ image: assets/20251015T011310990--sigma67--ytmusicapi--20251015T012339428--cropp
 # [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi)
 
 Python library for automating YouTube Music actions like searching, managing playlists, and uploading songs
+
+用于自动化 YouTube Music 操作的 Python 库，如搜索、管理播放列表和上传歌曲

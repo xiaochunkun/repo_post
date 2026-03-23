@@ -7,3 +7,5 @@ image: assets/souvikmajumder26_Multi_Agent_Medical_Assistant_20260111_071056_736
 # [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant)
 
 Multi-agent system for diagnosis and research in medicine
+
+用于医学诊断和研究的多代理系统

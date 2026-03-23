@@ -7,3 +7,5 @@ image: assets/mikeroyal_Self_Hosting_Guide_20260108_024333_858_20260108_024350_7
 # [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 
 Guide for hosting software on hardware
+
+在硬件上托管软件的指南

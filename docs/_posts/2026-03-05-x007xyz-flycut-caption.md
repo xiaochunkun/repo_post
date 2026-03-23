@@ -7,3 +7,5 @@ image: assets/x007xyz_flycut_caption_20260223_165633_154_20260223_165734_9987f0.
 # [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption)
 
 Edits video subtitles with local AI speech recognition
+
+使用本地AI语音识别编辑视频字幕

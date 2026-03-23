@@ -7,3 +7,5 @@ image: assets/spipm_Depixelization_poc_20260317_045833_349_20260317_050039_7ef58
 # [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
 
 Restores text obscured by pixelation
+
+恢复被像素化模糊的文本

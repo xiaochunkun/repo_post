@@ -7,3 +7,5 @@ image: assets/pmndrs_react_three_fiber_20260321_035454_275_20260321_035610_16407
 # [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 
 React renderer for Three.js
+
+Three.js的React渲染器

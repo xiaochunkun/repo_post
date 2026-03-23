@@ -7,3 +7,5 @@ image: assets/oxylabs_oxylabs_ai_studio_py_20260112_053255_333_20260112_053312_a
 # [oxylabs/oxylabs-ai-studio-py](https://github.com/oxylabs/oxylabs-ai-studio-py)
 
 Extracts structured data from websites with natural language prompts
+
+使用自然语言提示从网站提取结构化数据

@@ -7,3 +7,5 @@ image: assets/LordKnish_StreamGrid_20251123_185653_333_20251124_184550_d22a79--2
 # [LordKnish/StreamGrid](https://github.com/LordKnish/StreamGrid/)
 
 Multi-stream viewer with custom layouts
+
+支持自定义布局的多流观看器

@@ -7,3 +7,5 @@ image: assets/gensyn-ai_rl-swarm_cropped.png
 # [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm)
 
 Framework for running distributed reinforcement learning training swarms over the internet
+
+在互联网上运行分布式强化学习训练集群的框架

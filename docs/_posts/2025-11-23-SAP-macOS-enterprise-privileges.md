@@ -7,3 +7,5 @@ image: assets/SAP_macOS_enterprise_privileges_20251122_232919_611_20251123_00174
 # [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges/)
 
 Toggle administrator privileges on macOS
+
+在macOS上切换管理员权限

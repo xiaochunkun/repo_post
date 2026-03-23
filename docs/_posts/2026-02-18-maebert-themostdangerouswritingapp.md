@@ -7,3 +7,5 @@ image: assets/maebert_themostdangerouswritingapp_20260121_185206_621_20260121_18
 # [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp)
 
 Deletes progress if typing stops for five seconds
+
+如果停止打字五秒则删除进度

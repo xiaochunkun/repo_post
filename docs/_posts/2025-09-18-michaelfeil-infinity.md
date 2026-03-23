@@ -7,3 +7,5 @@ image: assets/20250915T231920277--michaelfeil--infinity--20250918T151005657--cro
 # [michaelfeil/infinity](https://github.com/michaelfeil/infinity)
 
 REST API for fast text embeddings and model serving
+
+用于快速文本嵌入和模型服务的REST API

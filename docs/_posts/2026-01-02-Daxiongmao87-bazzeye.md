@@ -7,3 +7,5 @@ image: assets/Daxiongmao87_bazzeye_20260101_091951_293_20260101_092007_abc3ca.pn
 # [Daxiongmao87/bazzeye](https://github.com/Daxiongmao87/bazzeye/)
 
 Web dashboard for Bazzite system monitoring and Steam integration
+
+Bazzite系统监控和Steam集成的Web仪表板

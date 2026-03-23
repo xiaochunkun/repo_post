@@ -7,3 +7,5 @@ image: assets/CollinHeist_TitleCardMaker_20251106_001036_126_20251106_001435_e23
 # [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker/)
 
 Automated title card maker for media servers
+
+媒体服务器的自动标题卡制作工具

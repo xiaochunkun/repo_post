@@ -7,3 +7,5 @@ image: assets/firecrawl_firecrawl_20260122_001339_809_20260122_001356_c25528.png
 # [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 
 Converts websites into markdown for LLMs
+
+将网站转换为 Markdown 供 LLM 使用

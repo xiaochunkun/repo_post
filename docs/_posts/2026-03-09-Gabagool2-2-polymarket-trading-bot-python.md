@@ -7,3 +7,5 @@ image: assets/Gabagool2_2_polymarket_trading_bot_python_20260309_124643_204_2026
 # [Gabagool2-2/polymarket-trading-bot-python](https://github.com/Gabagool2-2/polymarket-trading-bot-python)
 
 Trading bot for prediction markets with gasless L2 execution
+
+用于预测市场的交易机器人，支持无gas的L2执行

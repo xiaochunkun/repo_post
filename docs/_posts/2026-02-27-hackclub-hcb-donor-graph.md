@@ -7,3 +7,5 @@ image: assets/hackclub_hcb_donor_graph_20260217_233241_680_20260217_233334_63957
 # [hackclub/hcb-donor-graph](https://github.com/hackclub/hcb-donor-graph)
 
 Visualizes donor avatars for organizations
+
+可视化组织捐赠者头像

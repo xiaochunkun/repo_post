@@ -7,3 +7,5 @@ image: assets/SleepyCatHey_CozyPixels_20251223_003834_023_20251223_003854_96c9e4
 # [SleepyCatHey/CozyPixels](https://github.com/SleepyCatHey/CozyPixels/)
 
 Wallpaper collection with themes for desktop setups
+
+桌面主题壁纸集合

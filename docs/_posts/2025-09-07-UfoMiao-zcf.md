@@ -7,3 +7,5 @@ image: assets/20250906T220311203--UfoMiao--zcf--20250906T220431081--cropped.png
 # [UfoMiao/zcf](https://github.com/UfoMiao/zcf)
 
 zero-config tool for Claude Code setup and workflow
+
+Claude Code 零配置安装和工作流工具

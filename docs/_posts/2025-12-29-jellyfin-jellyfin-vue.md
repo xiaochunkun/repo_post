@@ -7,3 +7,5 @@ image: assets/jellyfin_jellyfin_vue_20251227_232609_260_20251227_232627_021637.p
 # [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue/)
 
 Web client for media servers using Vue.js
+
+使用 Vue.js 的媒体服务器 Web 客户端

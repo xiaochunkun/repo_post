@@ -7,3 +7,5 @@ image: assets/frappe_education_20260130_052555_690_20260130_052629_e85b6a.png
 # [frappe/education](https://github.com/frappe/education)
 
 Management system for schools and institutions
+
+学校和机构的管理系统

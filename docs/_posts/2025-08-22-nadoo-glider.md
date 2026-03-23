@@ -7,3 +7,5 @@ image: assets/20250818T124806178_nadoo_glider--20250820T143114002--cropped.png
 # [nadoo/glider](https://github.com/nadoo/glider)
 
 Glider is a forward proxy that supports multiple protocols and also works as a DNS and DHCP server with handy IP management
+
+多协议正向代理，兼具 DNS 和 DHCP 服务器功能

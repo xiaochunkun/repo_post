@@ -7,3 +7,5 @@ image: assets/20251010T211814513--ptmcg--logmerger--20251010T212642324--cropped.
 # [ptmcg/logmerger](https://github.com/ptmcg/logmerger)
 
 view and merge multiple log files by timestamp in a terminal
+
+在终端中按时间戳查看和合并多个日志文件

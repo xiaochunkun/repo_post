@@ -7,3 +7,5 @@ image: assets/microsoft_cleavenet_20260315_000622_356_20260315_000732_bbb85b.png
 # [microsoft/cleavenet](https://github.com/microsoft/cleavenet)
 
 AI pipeline for protease substrate design
+
+蛋白酶底物设计的 AI 管道

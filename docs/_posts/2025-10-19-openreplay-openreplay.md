@@ -7,3 +7,5 @@ image: assets/openreplay_openreplay_20251019_000038_263_20251019_003553--2025101
 # [openreplay/openreplay](https://github.com/openreplay/openreplay/)
 
 Session replay for web applications
+
+Web 应用的会话回放

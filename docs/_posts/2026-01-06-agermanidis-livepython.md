@@ -7,3 +7,5 @@ image: assets/agermanidis_livepython_20260106_025826_647_20260106_041721_29eb45.
 # [agermanidis/livepython](https://github.com/agermanidis/livepython/)
 
 Traces Python code execution in real-time
+
+实时追踪 Python 代码执行

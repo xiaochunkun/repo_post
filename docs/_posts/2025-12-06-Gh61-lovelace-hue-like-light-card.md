@@ -7,3 +7,5 @@ image: assets/Gh61_lovelace_hue_like_light_card_20251204_212842_777_20251204_212
 # [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card/)
 
 Philips Hue style light card for Home Assistant
+
+Home Assistant的Philips Hue风格灯光卡片

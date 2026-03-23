@@ -7,3 +7,5 @@ image: assets/Xyborg_ChatGPT_Product_Info_20260208_035301_820_20260208_035319_04
 # [Xyborg/ChatGPT-Product-Info](https://github.com/Xyborg/ChatGPT-Product-Info)
 
 Fetches product data through ChatGPT search API
+
+通过 ChatGPT 搜索 API 获取产品数据

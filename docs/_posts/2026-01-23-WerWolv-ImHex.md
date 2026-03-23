@@ -7,3 +7,5 @@ image: assets/WerWolv_ImHex_20260122_162706_557_20260122_162726_b1e027.png
 # [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 
 Hex editor for reverse engineers
+
+逆向工程十六进制编辑器

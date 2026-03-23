@@ -7,3 +7,5 @@ image: assets/Boeing_config_file_validator_20251210_040812_677_20251210_040834_1
 # [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator/)
 
 Cross-platform CLI tool to validate configuration files
+
+跨平台 CLI 工具，用于验证配置文件

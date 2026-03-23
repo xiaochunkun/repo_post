@@ -7,3 +7,5 @@ image: assets/DustinBrett_daedalOS_20260129_091026_819_20260129_091101_c01dfc.pn
 # [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 
 Desktop with file system and emulators in a browser
+
+浏览器中的桌面，包含文件系统和模拟器

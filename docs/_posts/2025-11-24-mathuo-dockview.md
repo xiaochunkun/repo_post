@@ -7,3 +7,5 @@ image: assets/mathuo_dockview_20251123_175551_227_20251124_095443_87c3d0--202511
 # [mathuo/dockview](https://github.com/mathuo/dockview/)
 
 Zero dependency docking layout manager
+
+零依赖的停靠布局管理器

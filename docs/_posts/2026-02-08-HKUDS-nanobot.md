@@ -7,3 +7,5 @@ image: assets/HKUDS_nanobot_20260205_102918_816_20260205_103000_f4bc60.png
 # [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 
 AI assistant in 4,000 lines of code
+
+4000 行代码的 AI 助手

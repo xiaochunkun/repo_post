@@ -7,3 +7,5 @@ image: assets/vertti_lazy_ecs_20251209_032837_066_20251209_032910_383362.png
 # [vertti/lazy-ecs](https://github.com/vertti/lazy-ecs/)
 
 Interactive CLI for navigating AWS ECS clusters
+
+交互式 CLI 导航 AWS ECS 集群

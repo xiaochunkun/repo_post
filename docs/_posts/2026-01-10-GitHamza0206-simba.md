@@ -7,3 +7,5 @@ image: assets/GitHamza0206_simba_20260108_045321_970_20260108_045336_6d55c4.png
 # [GitHamza0206/simba](https://github.com/GitHamza0206/simba)
 
 Customer service assistant with evaluation and monitoring
+
+具备评估和监控功能的客户服务助手

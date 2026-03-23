@@ -7,3 +7,5 @@ image: assets/penberg_awesome_low_latency_20251208_230838_257_20251208_230901_bf
 # [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency/)
 
 Curated resources for low-latency programming
+
+低延迟编程的精选资源

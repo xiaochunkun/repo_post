@@ -7,3 +7,5 @@ image: assets/1Password_shell_plugins_20260101_185123_959_20260101_185146_d50d3f
 # [1Password/shell-plugins](https://github.com/1Password/shell-plugins/)
 
 Authenticates command line interfaces with biometrics
+
+使用生物识别认证命令行界面

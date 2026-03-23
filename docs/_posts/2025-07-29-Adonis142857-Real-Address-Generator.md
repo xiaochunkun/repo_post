@@ -7,3 +7,5 @@ image: assets/Adonis142857_Real-Address-Generator_cropped.png
 # [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator)
 
 generate real random addresses and info for many countries
+
+为多国生成真实随机地址和信息

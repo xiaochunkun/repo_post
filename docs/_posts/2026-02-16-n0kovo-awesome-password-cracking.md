@@ -7,3 +7,5 @@ image: assets/n0kovo_awesome_password_cracking_20260212_125301_476_20260212_1253
 # [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking)
 
 Resources for password cracking and security
+
+密码破解和安全资源

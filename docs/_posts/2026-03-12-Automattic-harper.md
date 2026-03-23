@@ -7,3 +7,5 @@ image: assets/Automattic_harper_20260224_053614_374_20260224_053629_896182.png
 # [Automattic/harper](https://github.com/Automattic/harper)
 
 Grammar checker with local processing
+
+本地处理的语法检查器

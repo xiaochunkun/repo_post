@@ -7,3 +7,5 @@ image: assets/MotiaDev_visualize_git_20260212_102804_511_20260212_102831_afd672.
 # [MotiaDev/visualize-git](https://github.com/MotiaDev/visualize-git)
 
 Visualizes repository structure and star history
+
+可视化仓库结构和星标历史

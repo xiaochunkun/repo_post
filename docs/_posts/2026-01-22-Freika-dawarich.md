@@ -7,3 +7,5 @@ image: assets/Freika_dawarich_20260121_232940_103_20260121_232957_fb6eb1.png
 # [Freika/dawarich](https://github.com/Freika/dawarich)
 
 Self-hostable alternative to Google Location History
+
+可自托管的Google位置历史替代方案

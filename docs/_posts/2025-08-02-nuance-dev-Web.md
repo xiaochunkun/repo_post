@@ -7,3 +7,5 @@ image: assets/nuance-dev_Web_cropped.png
 # [nuance-dev/Web](https://github.com/nuance-dev/Web)
 
 macOS browser with built-in local AI
+
+带有内置本地 AI 的 macOS 浏览器

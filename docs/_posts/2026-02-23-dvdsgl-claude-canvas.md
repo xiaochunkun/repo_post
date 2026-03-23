@@ -7,3 +7,5 @@ image: assets/dvdsgl_claude_canvas_20260203_214058_244_20260203_214125_c41f71.pn
 # [dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas)
 
 Terminal interfaces for Claude Code
+
+Claude Code 的终端界面

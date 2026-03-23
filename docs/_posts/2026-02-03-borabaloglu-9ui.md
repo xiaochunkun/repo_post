@@ -7,3 +7,5 @@ image: assets/borabaloglu_9ui_20260203_022603_858_20260203_022620_dd8014.png
 # [borabaloglu/9ui](https://github.com/borabaloglu/9ui)
 
 UI components for Base UI and Tailwind CSS
+
+Base UI 和 Tailwind CSS 的 UI 组件

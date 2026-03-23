@@ -7,3 +7,5 @@ image: assets/lasseignelab_CoSIA_20260308_184340_206_20260308_184450_99c212.png
 # [lasseignelab/CoSIA](https://github.com/lasseignelab/CoSIA)
 
 Compares gene expression across species and tissues
+
+跨物种和组织的基因表达比较工具

@@ -7,3 +7,5 @@ image: assets/hyperlight-dev_hyperlight_cropped.png
 # [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)
 
 Lightweight virtual machine manager for running untrusted code inside apps
+
+轻量级虚拟机管理器，用于在应用中运行不受信任的代码

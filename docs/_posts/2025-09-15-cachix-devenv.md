@@ -7,3 +7,5 @@ image: assets/20250914T191716507--cachix--devenv--20250914T191952508--cropped.pn
 # [cachix/devenv](https://github.com/cachix/devenv)
 
 declarative dev environments with Nix, easy setup, reproducible configs
+
+基于 Nix 的声明式开发环境，易配置，可复现

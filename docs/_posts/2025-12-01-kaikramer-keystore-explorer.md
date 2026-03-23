@@ -7,3 +7,5 @@ image: assets/kaikramer_keystore_explorer_20251130_061134_453_20251130_084351_51
 # [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer/)
 
 GUI replacement for Java keytool and jarsigner
+
+Java keytool和jarsigner的GUI替代工具

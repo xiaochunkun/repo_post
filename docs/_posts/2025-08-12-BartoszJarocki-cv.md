@@ -7,3 +7,5 @@ image: assets/BartoszJarocki_cv--20250812T001717--cropped.png
 # [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)
 
 minimalist CV web app with Next.js, TypeScript, Tailwind, GraphQL
+
+使用Next.js、TypeScript、Tailwind、GraphQL构建的极简简历Web应用

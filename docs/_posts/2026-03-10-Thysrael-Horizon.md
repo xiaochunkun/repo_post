@@ -7,3 +7,5 @@ image: assets/Thysrael_Horizon_20260307_073153_756_20260307_073334_942220.png
 # [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
 
 Summarize tech news via AI
+
+通过AI总结科技新闻

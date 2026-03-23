@@ -7,3 +7,5 @@ image: assets/20250822T021552214--strapi--strapi--20250829T023207066--cropped.pn
 # [strapi/strapi](https://github.com/strapi/strapi)
 
 open-source headless CMS for building APIs and managing content
+
+开源 Headless CMS，构建 API 和管理内容

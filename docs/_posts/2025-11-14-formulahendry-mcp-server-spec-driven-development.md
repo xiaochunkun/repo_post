@@ -7,3 +7,5 @@ image: assets/formulahendry_mcp_server_spec_driven_development_20251113_232438_9
 # [formulahendry/mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development/)
 
 Uses prompts to generate requirements, design, and code
+
+使用提示生成需求、设计和代码

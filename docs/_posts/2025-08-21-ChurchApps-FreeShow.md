@@ -7,3 +7,5 @@ image: assets/20250820T132357904_ChurchApps_FreeShow--20250820T132651912--croppe
 # [ChurchApps/FreeShow](https://github.com/ChurchApps/FreeShow)
 
 free and open source presentation tool for big screens
+
+免费开源的大屏演示工具

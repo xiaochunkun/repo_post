@@ -7,3 +7,5 @@ image: assets/gerbil_kubegui_20260321_155327_779_20260321_155352_801804.png
 # [gerbil/kubegui](https://github.com/gerbil/kubegui)
 
 KubeGUI Kubernetes admin desktop application
+
+KubeGUI Kubernetes管理桌面应用

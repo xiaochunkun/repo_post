@@ -7,3 +7,5 @@ image: assets/20250830T040754856--sveinbjornt--KatSearch--20250830T041255874--cr
 # [sveinbjornt/KatSearch](https://github.com/sveinbjornt/KatSearch)
 
 macOS app for fast file search without indexing
+
+macOS 快速文件搜索应用，无需索引

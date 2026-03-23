@@ -7,3 +7,5 @@ image: assets/areibman_bottleneck_20251217_054711_063_20251217_054733_8205f6.png
 # [areibman/bottleneck](https://github.com/areibman/bottleneck/)
 
 Code review tool for AI-native teams
+
+面向 AI 原生团队的代码审查工具

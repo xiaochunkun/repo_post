@@ -7,3 +7,5 @@ image: assets/chatmcp_mcpso_cropped.png
 # [chatmcp/mcpso](https://github.com/chatmcp/mcpso)
 
 GitHub Chat MCP, tool for analyzing and querying GitHub repositories using an API
+
+GitHub Chat MCP，使用 API 分析和查询 GitHub 仓库的工具

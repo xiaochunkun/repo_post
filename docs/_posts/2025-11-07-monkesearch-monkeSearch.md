@@ -7,3 +7,5 @@ image: assets/monkesearch_monkeSearch_20251106_213440_711_20251106_223435_a97750
 # [monkesearch/monkeSearch](https://github.com/monkesearch/monkeSearch/)
 
 Semantic search for local files with temporal awareness
+
+具有时间感知的本地文件语义搜索

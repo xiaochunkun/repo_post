@@ -7,3 +7,5 @@ image: assets/beto_rodriguez_LiveCharts2_20251031_033550_650_20251031_205015_c73
 # [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2/)
 
 Data visualization library for .NET
+
+.NET 数据可视化库

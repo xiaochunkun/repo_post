@@ -7,3 +7,5 @@ image: assets/Doby_Xu_WithAnyone_20251207_193840_389_20251207_193902_9bcdc9.png
 # [Doby-Xu/WithAnyone](https://github.com/Doby-Xu/WithAnyone/)
 
 Controllable and ID-consistent image generation
+
+可控且 ID 一致的图像生成

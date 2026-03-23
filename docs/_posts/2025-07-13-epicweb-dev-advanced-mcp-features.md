@@ -7,3 +7,5 @@ image: assets/epicweb-dev_advanced-mcp-features_cropped.png
 # [epicweb-dev/advanced-mcp-features](https://github.com/epicweb-dev/advanced-mcp-features)
 
 advanced Model Context Protocol tools for connecting AI to files, databases, GitHub, and web resources
+
+连接AI与文件、数据库、GitHub及网络资源的高级Model Context Protocol工具

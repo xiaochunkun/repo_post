@@ -7,3 +7,5 @@ image: assets/modular_modular_cropped.png
 # [modular/modular](https://github.com/modular/modular)
 
 AI development and deployment tools from Modular
+
+来自Modular的AI开发和部署工具

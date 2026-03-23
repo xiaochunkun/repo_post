@@ -7,3 +7,5 @@ image: assets/20250912T195732436--fish-shell--fish-shell--20250912T195928586--cr
 # [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
 
 smart command line shell with syntax highlighting and autosuggestions
+
+智能命令行 Shell，支持语法高亮和自动建议

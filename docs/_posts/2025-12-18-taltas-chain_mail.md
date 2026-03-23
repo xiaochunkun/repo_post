@@ -7,3 +7,5 @@ image: assets/taltas_chain_mail_20251217_092409_669_20251217_092438_18184d.png
 # [taltas/chain_mail](https://github.com/taltas/chain_mail/)
 
 Ruby gem for email provider failover
+
+用于邮件提供商故障转移的 Ruby gem

@@ -7,3 +7,5 @@ image: assets/KalyanKS-NLP_llm-engineer-toolkit_cropped.png
 # [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
 
 curated list of LLM libraries and tools for engineers
+
+工程师的 LLM 库和工具精选列表

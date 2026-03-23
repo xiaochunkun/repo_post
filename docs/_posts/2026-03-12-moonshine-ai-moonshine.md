@@ -7,3 +7,5 @@ image: assets/moonshine_ai_moonshine_20260303_041015_686_20260303_041138_b5ebc9.
 # [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
 
 Speech recognition for edge devices
+
+面向边缘设备的语音识别

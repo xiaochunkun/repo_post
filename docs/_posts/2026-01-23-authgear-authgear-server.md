@@ -7,3 +7,5 @@ image: assets/authgear_authgear_server_20260122_013431_002_20260122_013450_bdd90
 # [authgear/authgear-server](https://github.com/authgear/authgear-server)
 
 Authentication server for passkeys and SSO
+
+支持Passkey和SSO的认证服务器

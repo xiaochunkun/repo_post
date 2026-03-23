@@ -7,3 +7,5 @@ image: assets/20251016T020612918--HKUDS--Auto-Deep-Research--20251016T024101765-
 # [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)
 
 automated research assistant with multi-LLM support, file uploads, and one-click start
+
+自动化研究助手，支持多 LLM、文件上传和一键启动

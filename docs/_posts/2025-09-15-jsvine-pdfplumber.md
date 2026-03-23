@@ -7,3 +7,5 @@ image: assets/20250915T044731468--jsvine--pdfplumber--20250915T045036218--croppe
 # [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber)
 
 extracts tables and text from PDFs, supports visual debugging
+
+从 PDF 中提取表格和文本，支持视觉调试

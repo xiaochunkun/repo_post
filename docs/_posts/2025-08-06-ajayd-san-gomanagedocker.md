@@ -7,3 +7,5 @@ image: assets/ajayd-san_gomanagedocker_cropped.png
 # [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker)
 
 terminal tool for managing Docker and Podman
+
+用于管理 Docker 和 Podman 的终端工具

@@ -7,3 +7,5 @@ image: assets/snakers4_silero_vad_20251111_194828_567_20251112_025715_c0b59c--20
 # [snakers4/silero-vad](https://github.com/snakers4/silero-vad/)
 
 Detects voice activity in audio
+
+检测音频中的语音活动

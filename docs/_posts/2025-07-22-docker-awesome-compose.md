@@ -7,3 +7,5 @@ image: assets/docker_awesome-compose_cropped.png
 # [docker/awesome-compose](https://github.com/docker/awesome-compose)
 
 docker compose sample projects for quick app setups
+
+Docker Compose示例项目，快速搭建应用

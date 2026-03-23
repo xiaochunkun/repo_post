@@ -7,3 +7,5 @@ image: assets/20250826T031252066--dwmkerr--hacker-laws--20250826T031754656--crop
 # [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)
 
 collection of famous laws and principles for developers
+
+开发者常用定律和原则合集

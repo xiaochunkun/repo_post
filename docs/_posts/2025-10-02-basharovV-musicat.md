@@ -7,3 +7,5 @@ image: assets/20251001T135254998--basharovV--musicat--20251001T140012577--croppe
 # [basharovV/musicat](https://github.com/basharovV/musicat)
 
 local music player with smart playlists, lyrics, album art, and map view
+
+本地音乐播放器，带有智能播放列表、歌词、专辑封面和地图视图

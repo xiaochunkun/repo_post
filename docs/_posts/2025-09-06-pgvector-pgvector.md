@@ -7,3 +7,5 @@ image: assets/20250906T022827796--pgvector--pgvector--20250906T023022815--croppe
 # [pgvector/pgvector](https://github.com/pgvector/pgvector)
 
 vector search for Postgres databases
+
+PostgreSQL 向量搜索扩展

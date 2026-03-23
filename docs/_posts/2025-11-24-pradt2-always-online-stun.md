@@ -7,3 +7,5 @@ image: assets/pradt2_always_online_stun_20251123_170753_761_20251124_094635_c7a7
 # [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun/)
 
 List of public STUN servers updated hourly
+
+每小时更新的公共 STUN 服务器列表

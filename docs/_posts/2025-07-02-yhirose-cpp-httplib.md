@@ -7,3 +7,5 @@ image: assets/yhirose_cpp-httplib_cropped.png
 # [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
 
 C++ HTTP/HTTPS server and client library, single header, blocking sockets
+
+C++ HTTP/HTTPS服务器和客户端库，单头文件，阻塞套接字

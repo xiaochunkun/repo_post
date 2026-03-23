@@ -7,3 +7,5 @@ image: assets/actualbudget_actual_20260108_024511_484_20260108_024525_d6f4e6.png
 # [actualbudget/actual](https://github.com/actualbudget/actual)
 
 Syncs personal finances across devices
+
+跨设备同步个人财务

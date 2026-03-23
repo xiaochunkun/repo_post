@@ -7,3 +7,5 @@ image: assets/khoj_ai_khoj_20260129_092118_733_20260129_092155_2473c1.png
 # [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 
 AI agent for search and research across personal documents
+
+跨个人文档搜索和研究的AI代理

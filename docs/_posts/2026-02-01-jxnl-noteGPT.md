@@ -7,3 +7,5 @@ image: assets/jxnl_noteGPT_20260128_132656_178_20260128_132730_c4f280.png
 # [jxnl/noteGPT](https://github.com/jxnl/noteGPT)
 
 Transcribes voice notes into summaries and action items
+
+将语音笔记转录为摘要和待办事项

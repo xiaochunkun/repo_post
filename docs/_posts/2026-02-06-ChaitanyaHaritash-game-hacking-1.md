@@ -7,3 +7,5 @@ image: assets/ChaitanyaHaritash_game_hacking_1_20260205_191536_788_20260205_1916
 # [ChaitanyaHaritash/game-hacking-1](https://github.com/ChaitanyaHaritash/game-hacking-1)
 
 Resources for reverse engineering video games
+
+视频游戏逆向工程资源

@@ -7,3 +7,5 @@ image: assets/ElementZoom_Material_Design_3_Dynamic_Tablet_Dashboard_20260112_03
 # [ElementZoom/Material-Design-3-Dynamic-Tablet-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Tablet-Dashboard)
 
 Home Assistant dashboard with Material Design 3 principles
+
+遵循Material Design 3原则的Home Assistant仪表板

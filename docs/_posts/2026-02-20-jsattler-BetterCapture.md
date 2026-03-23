@@ -7,3 +7,5 @@ image: assets/jsattler_BetterCapture_20260215_210700_657_20260215_210749_c0ee57.
 # [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture)
 
 Screen recorder with ProRes and HDR support
+
+支持 ProRes 和 HDR 的屏幕录制器

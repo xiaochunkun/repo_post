@@ -7,3 +7,5 @@ image: assets/Pimzino_claude-code-spec-workflow_cropped.png
 # [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow)
 
 spec-driven Claude Code workflows for features and bug fixes
+
+用于功能和错误修复的规范驱动 Claude Code 工作流

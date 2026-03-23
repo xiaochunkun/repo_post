@@ -7,3 +7,5 @@ image: assets/arturitu_the_delegation_20260309_122709_781_20260309_122902_31cfeb
 # [arturitu/the-delegation](https://github.com/arturitu/the-delegation)
 
 3D simulation of AI agents in an office
+
+办公室AI代理的3D模拟

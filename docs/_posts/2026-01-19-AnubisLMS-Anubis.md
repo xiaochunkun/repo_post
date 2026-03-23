@@ -7,3 +7,5 @@ image: assets/AnubisLMS_Anubis_20260118_001413_880_20260118_001428_b8d608.png
 # [AnubisLMS/Anubis](https://github.com/AnubisLMS/Anubis)
 
 Automates computer science courses from NYU
+
+自动化NYU的计算机科学课程

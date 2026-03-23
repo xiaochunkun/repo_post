@@ -7,3 +7,5 @@ image: assets/bkhtmltopdf_bkhtmltopdf_20251030_222704_213_20251030_222744_696d34
 # [bkhtmltopdf/bkhtmltopdf](https://github.com/bkhtmltopdf/bkhtmltopdf/)
 
 High-performance HTML to PDF converter
+
+高性能 HTML 转 PDF 转换器

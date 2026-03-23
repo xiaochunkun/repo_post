@@ -7,3 +7,5 @@ image: assets/Coding_Meet_News_KMP_App_20251210_043711_533_20251210_043735_55a57
 # [Coding-Meet/News-KMP-App](https://github.com/Coding-Meet/News-KMP-App/)
 
 News reading app built with Kotlin Multiplatform
+
+使用 Kotlin Multiplatform 构建的新闻阅读应用

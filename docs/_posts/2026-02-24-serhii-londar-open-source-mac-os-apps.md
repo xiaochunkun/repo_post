@@ -7,3 +7,5 @@ image: assets/serhii_londar_open_source_mac_os_apps_20260220_112752_806_20260220
 # [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 Directory of open source applications for macOS
+
+macOS 开源应用程序目录

@@ -7,3 +7,5 @@ image: assets/jpicklyk_task_orchestrator_20251031_075519_563_20251101_210233_6e1
 # [jpicklyk/task-orchestrator](https://github.com/jpicklyk/task-orchestrator/)
 
 AI coding assistant memory that persists across sessions
+
+跨会话持久化的 AI 编码助手记忆

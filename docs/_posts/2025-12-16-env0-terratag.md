@@ -7,3 +7,5 @@ image: assets/env0_terratag_20251213_140948_131_20251213_141010_8f47ee.png
 # [env0/terratag](https://github.com/env0/terratag/)
 
 Automatically tags Terraform and OpenTofu resources
+
+自动标记Terraform和OpenTofu资源

@@ -7,3 +7,5 @@ image: assets/facelessuser_soupsieve_20251204_224023_924_20251204_224045_4a8088.
 # [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve/)
 
 CSS selector library for Beautiful Soup 4
+
+Beautiful Soup 4的CSS选择器库

@@ -7,3 +7,5 @@ image: assets/NeuralNomadsAI_CodeNomad_20260305_023833_278_20260305_024000_1a125
 # [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
 
 Workspace for running OpenCode sessions
+
+运行 OpenCode 会话的工作空间

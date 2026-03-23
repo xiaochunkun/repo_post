@@ -7,3 +7,5 @@ image: assets/pnp_cli_microsoft365_20260316_011427_329_20260316_011536_cc8787.pn
 # [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365)
 
 Command line tool for Microsoft 365 tenant management
+
+Microsoft 365租户管理命令行工具

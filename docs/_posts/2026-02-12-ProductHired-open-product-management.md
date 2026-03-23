@@ -7,3 +7,5 @@ image: assets/ProductHired_open_product_management_20260212_045300_380_20260212_
 # [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management)
 
 Curated advice for technical people entering product management
+
+为技术人进入产品管理提供的精选建议

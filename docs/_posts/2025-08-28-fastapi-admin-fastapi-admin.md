@@ -7,3 +7,5 @@ image: assets/20250827T221742405--fastapi-admin--fastapi-admin--20250827T2220047
 # [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin)
 
 Admin dashboard for FastAPI projects
+
+FastAPI 项目的管理后台面板

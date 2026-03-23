@@ -7,3 +7,5 @@ image: assets/emcie_co_parlant_20260121_232849_315_20260121_232907_5af630.png
 # [emcie-co/parlant](https://github.com/emcie-co/parlant)
 
 Framework for LLM agents to follow instructions
+
+LLM代理遵循指令的框架

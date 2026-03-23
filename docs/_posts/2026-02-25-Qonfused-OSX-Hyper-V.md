@@ -7,3 +7,5 @@ image: assets/Qonfused_OSX_Hyper_V_20260212_060557_356_20260212_060633_1ba9d8.pn
 # [Qonfused/OSX-Hyper-V](https://github.com/Qonfused/OSX-Hyper-V)
 
 Runs macOS on Windows Hyper-V
+
+在 Windows Hyper-V 上运行 macOS

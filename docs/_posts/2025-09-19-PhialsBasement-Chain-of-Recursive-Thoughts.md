@@ -7,3 +7,5 @@ image: assets/20250911T220403366--PhialsBasement--Chain-of-Recursive-Thoughts--2
 # [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
 
 AI models debate their own answers, pick the best, and get smarter with each round
+
+AI模型辩论自身答案，选择最佳，每轮变得更智能

@@ -7,3 +7,5 @@ image: assets/andrepcg_toon_ruby_20251201_093652_204_20251201_093716_087813.png
 # [andrepcg/toon-ruby](https://github.com/andrepcg/toon-ruby/)
 
 Compact data format for LLMs
+
+用于LLM的紧凑数据格式

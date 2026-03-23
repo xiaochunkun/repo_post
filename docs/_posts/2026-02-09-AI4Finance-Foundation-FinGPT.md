@@ -7,3 +7,5 @@ image: assets/AI4Finance_Foundation_FinGPT_20260207_214246_039_20260207_214312_4
 # [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 
 Language models for finance with reinforcement learning from human feedback
+
+基于人类反馈强化学习的金融语言模型

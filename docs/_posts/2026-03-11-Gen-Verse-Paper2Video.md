@@ -7,3 +7,5 @@ image: assets/Gen_Verse_Paper2Video_20260307_172703_967_20260307_172854_1c37db.p
 # [Gen-Verse/Paper2Video](https://github.com/Gen-Verse/Paper2Video)
 
 Transforms papers into video abstracts autonomously
+
+自主将论文转换为视频摘要

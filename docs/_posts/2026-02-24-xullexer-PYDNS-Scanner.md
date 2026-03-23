@@ -7,3 +7,5 @@ image: assets/xullexer_PYDNS_Scanner_20260223_144216_206_20260223_144309_5aad5e.
 # [xullexer/PYDNS-Scanner](https://github.com/xullexer/PYDNS-Scanner)
 
 DNS scanner with terminal interface for millions of addresses
+
+终端界面DNS扫描器，支持百万地址

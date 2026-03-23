@@ -7,3 +7,5 @@ image: assets/bpcreech_PyMiniRacer_20260101_045229_376_20260101_045245_1bc300.pn
 # [bpcreech/PyMiniRacer](https://github.com/bpcreech/PyMiniRacer/)
 
 Embeds V8 engine into Python
+
+将V8引擎嵌入Python

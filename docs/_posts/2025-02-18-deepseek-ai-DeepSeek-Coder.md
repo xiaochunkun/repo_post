@@ -7,3 +7,5 @@ image: assets/deepseek-ai_DeepSeek-Coder_cropped.png
 # [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
 
 Code completion and generation model
+
+代码补全和生成模型

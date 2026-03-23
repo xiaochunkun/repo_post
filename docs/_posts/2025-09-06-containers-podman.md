@@ -7,3 +7,5 @@ image: assets/20250906T024314045--containers--podman--20250906T024651629--croppe
 # [containers/podman](https://github.com/containers/podman)
 
 manage containers and pods without a daemon
+
+无守护进程的容器和 Pod 管理工具

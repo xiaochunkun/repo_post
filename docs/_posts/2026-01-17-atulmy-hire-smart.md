@@ -7,3 +7,5 @@ image: assets/atulmy_hire_smart_20260117_004657_999_20260117_004712_e000c5.png
 # [atulmy/hire-smart](https://github.com/atulmy/hire-smart)
 
 Tracks candidates and schedules interviews for recruitment teams
+
+为招聘团队跟踪候选人和安排面试

@@ -7,3 +7,5 @@ image: assets/janhq_ichigo_20260227_180044_362_20260227_180222_a9c815.png
 # [janhq/ichigo](https://github.com/janhq/ichigo)
 
 Speech package for local inference
+
+用于本地推理的语音包

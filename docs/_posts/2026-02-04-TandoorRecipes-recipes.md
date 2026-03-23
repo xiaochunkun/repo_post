@@ -7,3 +7,5 @@ image: assets/TandoorRecipes_recipes_20260202_233120_127_20260202_233219_58c86b.
 # [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes)
 
 Manages recipes and meal plans with AI recognition
+
+管理食谱和膳食计划，支持AI识别

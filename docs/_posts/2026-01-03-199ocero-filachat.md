@@ -7,3 +7,5 @@ image: assets/199ocero_filachat_20260102_012331_749_20260102_012348_80ffc3.png
 # [199ocero/filachat](https://github.com/199ocero/filachat/)
 
 Real-time chat for customers and agents
+
+客户与客服的实时聊天工具

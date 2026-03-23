@@ -7,3 +7,5 @@ image: assets/20251013T000119569--AIDotNet--auto-prompt--20251013T000651435--cro
 # [AIDotNet/auto-prompt](https://github.com/AIDotNet/auto-prompt)
 
 AI prompt optimizer with automated analysis, template management, and community sharing
+
+AI 提示优化器，具有自动分析、模板管理和社区分享功能

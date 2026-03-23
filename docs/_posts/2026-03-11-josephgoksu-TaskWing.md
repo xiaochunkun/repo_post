@@ -7,3 +7,5 @@ image: assets/josephgoksu_TaskWing_20260226_072041_754_20260226_072230_809833.pn
 # [josephgoksu/TaskWing](https://github.com/josephgoksu/TaskWing)
 
 Executes tasks from goals while maintaining context between AI sessions
+
+从目标执行任务，并在 AI 会话间保持上下文

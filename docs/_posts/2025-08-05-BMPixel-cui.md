@@ -7,3 +7,5 @@ image: assets/BMPixel_cui_cropped.png
 # [BMPixel/cui](https://github.com/BMPixel/cui)
 
 web UI for Claude Code agents
+
+Claude Code 智能体的 Web 界面

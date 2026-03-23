@@ -7,3 +7,5 @@ image: assets/realrogue_kagi_darker_20251202_224236_312_20251202_224300_cef4a5.p
 # [realrogue/kagi-darker](https://github.com/realrogue/kagi-darker/)
 
 Custom CSS theme for Kagi Search
+
+Kagi Search 的自定义 CSS 主题

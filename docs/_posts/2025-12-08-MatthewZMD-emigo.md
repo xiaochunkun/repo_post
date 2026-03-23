@@ -7,3 +7,5 @@ image: assets/MatthewZMD_emigo_20251205_025305_996_20251205_025330_6c2642.png
 # [MatthewZMD/emigo](https://github.com/MatthewZMD/emigo/)
 
 Agentic AI assistant for Emacs
+
+Emacs 的智能体 AI 助手

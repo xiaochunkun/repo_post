@@ -7,3 +7,5 @@ image: assets/nektos_act_20260129_073519_204_20260129_073553_760185.png
 # [nektos/act](https://github.com/nektos/act)
 
 Runs GitHub Actions on a local machine
+
+在本地机器上运行GitHub Actions

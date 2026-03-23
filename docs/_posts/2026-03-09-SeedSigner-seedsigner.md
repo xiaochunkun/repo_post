@@ -7,3 +7,5 @@ image: assets/SeedSigner_seedsigner_20260309_081312_820_20260309_081630_975203.p
 # [SeedSigner/seedsigner](https://github.com/SeedSigner/seedsigner)
 
 Bitcoin signing device for Raspberry Pi Zero
+
+Raspberry Pi Zero 的比特币签名设备

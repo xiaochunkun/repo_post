@@ -7,3 +7,5 @@ image: assets/sibprogrammer_xq_20251123_180754_565_20251124_095941_cdbb66--20251
 # [sibprogrammer/xq](https://github.com/sibprogrammer/xq/)
 
 Beautifies and extracts XML and HTML content
+
+美化和提取 XML 与 HTML 内容

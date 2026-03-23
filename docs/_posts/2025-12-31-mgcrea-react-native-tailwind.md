@@ -7,3 +7,5 @@ image: assets/mgcrea_react_native_tailwind_20251230_013124_622_20251230_013156_9
 # [mgcrea/react-native-tailwind](https://github.com/mgcrea/react-native-tailwind/)
 
 Compiles Tailwind CSS into React Native styles at build time
+
+在构建时将Tailwind CSS编译为React Native样式

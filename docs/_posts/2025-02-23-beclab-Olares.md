@@ -7,3 +7,5 @@ image: assets/beclab_Olares_cropped.png
 # [beclab/Olares](https://github.com/beclab/Olares)
 
 Open-source cloud OS for running AI models locally
+
+用于本地运行AI模型的开源云操作系统

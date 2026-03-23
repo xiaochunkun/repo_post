@@ -7,3 +7,5 @@ image: assets/20251003T201002373--lmstudio-ai--lmstudio-python--20251003T2010506
 # [lmstudio-ai/lmstudio-python](https://github.com/lmstudio-ai/lmstudio-python)
 
 Python SDK for LM Studio with chat, completion, and embedding APIs
+
+LM Studio的Python SDK，提供聊天、完成和嵌入API

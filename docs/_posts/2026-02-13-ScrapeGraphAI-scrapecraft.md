@@ -7,3 +7,5 @@ image: assets/ScrapeGraphAI_scrapecraft_20260209_233100_008_20260209_233208_d85a
 # [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft)
 
 Web scraping editor with visual workflow builder
+
+具有可视化工作流构建器的网页抓取编辑器

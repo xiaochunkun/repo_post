@@ -7,3 +7,5 @@ image: assets/YouMind_OpenLab_awesome_nano_banana_pro_prompts_20260212_052716_70
 # [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
 
 Prompts for Google Nano Banana Pro with a web gallery
+
+Google Nano Banana Pro 的提示词，附带网络画廊

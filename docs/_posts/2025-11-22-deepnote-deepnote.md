@@ -7,3 +7,5 @@ image: assets/deepnote_deepnote_20251121_124606_075_20251121_211842_dc5db5--2025
 # [deepnote/deepnote](https://github.com/deepnote/deepnote/)
 
 Jupyter replacement with an AI agent
+
+带 AI 代理的 Jupyter 替代品

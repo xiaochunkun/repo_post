@@ -7,3 +7,5 @@ image: assets/lobehub_lobehub_20260217_090645_189_20260217_090752_a9fdf9.png
 # [lobehub/lobehub](https://github.com/lobehub/lobehub)
 
 Framework for multi-agent collaboration and team design
+
+多智能体协作和团队设计框架

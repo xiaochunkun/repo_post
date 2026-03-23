@@ -7,3 +7,5 @@ image: assets/Open_Dev_Society_OpenStock_20260210_060252_042_20260210_060306_c6d
 # [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
 Tracks market prices and company insights
+
+跟踪市场价格和公司洞察

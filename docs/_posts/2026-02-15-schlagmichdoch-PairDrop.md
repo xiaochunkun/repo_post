@@ -7,3 +7,5 @@ image: assets/schlagmichdoch_PairDrop_20260213_054522_679_20260213_054610_7338c3
 # [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
 
 Transfers files across devices via browsers
+
+通过浏览器跨设备传输文件

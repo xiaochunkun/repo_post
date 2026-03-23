@@ -7,3 +7,5 @@ image: assets/st3v3nmw_sourcerer_mcp_20251029_220118_882_20251029_222359_cf131d-
 # [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp/)
 
 Semantic code search index for AI agents
+
+AI 代理的语义代码搜索索引

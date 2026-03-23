@@ -7,3 +7,5 @@ image: assets/adithya_s_k_AI_Engineering_academy_20251031_080532_738_20251101_21
 # [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy/)
 
 Curated learning paths for AI engineering
+
+AI 工程的精选学习路径

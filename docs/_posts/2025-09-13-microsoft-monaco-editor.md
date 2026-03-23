@@ -7,3 +7,5 @@ image: assets/20250912T010259379--microsoft--monaco-editor--20250912T010518942--
 # [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
 
 browser-based code editor from VS Code
+
+基于 VS Code 的浏览器代码编辑器

@@ -7,3 +7,5 @@ image: assets/dry-python_returns_cropped.png
 # [dry-python/returns](https://github.com/dry-python/returns)
 
 Functional programming primitives and containers for Python functions
+
+Python函数的函数式编程原语和容器

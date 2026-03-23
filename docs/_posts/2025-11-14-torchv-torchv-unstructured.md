@@ -7,3 +7,5 @@ image: assets/torchv_torchv_unstructured_20251114_044151_767_20251114_162100_8a5
 # [torchv/torchv-unstructured](https://github.com/torchv/torchv-unstructured/)
 
 Document parsing library for RAG with table structure recognition
+
+具有表格结构识别的RAG文档解析库

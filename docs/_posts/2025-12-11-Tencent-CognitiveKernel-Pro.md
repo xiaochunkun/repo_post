@@ -7,3 +7,5 @@ image: assets/Tencent_CognitiveKernel_Pro_20251209_002602_972_20251209_002638_c3
 # [Tencent/CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro/)
 
 Framework for deep research agents and foundation model training
+
+深度研究智能体和基础模型训练框架

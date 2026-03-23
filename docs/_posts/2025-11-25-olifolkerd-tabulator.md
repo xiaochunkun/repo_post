@@ -7,3 +7,5 @@ image: assets/olifolkerd_tabulator_20251123_185221_629_20251124_184521_be1779--2
 # [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator/)
 
 JavaScript library for data grids
+
+用于数据网格的 JavaScript 库

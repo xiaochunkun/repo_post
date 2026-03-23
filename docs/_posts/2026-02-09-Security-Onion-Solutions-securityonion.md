@@ -7,3 +7,5 @@ image: assets/Security_Onion_Solutions_securityonion_20260209_010510_501_2026020
 # [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion)
 
 Platform for threat hunting and network security monitoring
+
+威胁狩猎和网络安全监控平台

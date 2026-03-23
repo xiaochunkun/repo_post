@@ -7,3 +7,5 @@ image: assets/v9mirza_LazyPorts_20260201_053110_183_20260201_053152_cea0b4.png
 # [v9mirza/LazyPorts](https://github.com/v9mirza/LazyPorts)
 
 Terminal UI to manage network ports and processes on Linux
+
+用于管理Linux网络端口和进程的终端UI

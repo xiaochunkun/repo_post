@@ -7,3 +7,5 @@ image: assets/alexstyl_avdbuddy_20260302_021659_306_20260302_021832_a390eb.png
 # [alexstyl/avdbuddy](https://github.com/alexstyl/avdbuddy)
 
 Manages Android Virtual Devices without Android Studio
+
+无需Android Studio管理Android虚拟设备

@@ -7,3 +7,5 @@ image: assets/FreeshardBase_freeshard_20251225_183927_236_20251225_183945_b109f8
 # [FreeshardBase/freeshard](https://github.com/FreeshardBase/freeshard/)
 
 Personal cloud computer for data sovereignty
+
+用于数据主权的个人云计算机

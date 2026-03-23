@@ -7,3 +7,5 @@ image: assets/GuidoBartoli_sherloq_20251025_050819_175_20251025_101405_7339cc--2
 # [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq/)
 
 Open source toolset for image forensics
+
+图像取证的开源工具集

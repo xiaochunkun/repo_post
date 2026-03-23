@@ -7,3 +7,5 @@ image: assets/cybertec_postgresql_pgwatch_20260202_224926_226_20260202_224949_a0
 # [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch)
 
 Monitors PostgreSQL metrics through Grafana dashboards
+
+通过 Grafana 仪表板监控 PostgreSQL 指标

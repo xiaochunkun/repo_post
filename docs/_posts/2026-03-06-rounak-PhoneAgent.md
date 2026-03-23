@@ -7,3 +7,5 @@ image: assets/rounak_PhoneAgent_20260306_005448_473_20260306_005600_b56f30.png
 # [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent)
 
 Automate mobile devices via AI agents
+
+通过 AI 智能体自动化移动设备

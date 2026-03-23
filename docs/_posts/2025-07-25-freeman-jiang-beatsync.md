@@ -7,3 +7,5 @@ image: assets/freeman-jiang_beatsync_cropped.png
 # [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync)
 
 sync audio playback across devices in your browser
+
+在浏览器中跨设备同步音频播放

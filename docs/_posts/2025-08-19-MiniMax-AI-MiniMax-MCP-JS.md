@@ -7,3 +7,5 @@ image: assets/20250818T115808955_MiniMax-AI_MiniMax-MCP-JS--20250818T120106070--
 # [MiniMax-AI/MiniMax-MCP-JS](https://github.com/MiniMax-AI/MiniMax-MCP-JS)
 
 JavaScript tools for AI image, video, and speech with MiniMax MCP
+
+用于AI图像、视频和语音的JavaScript工具，支持MiniMax MCP

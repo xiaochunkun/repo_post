@@ -7,3 +7,5 @@ image: assets/bluetuith_org_bluetuith_20251123_012737_099_20251123_022815_7f3c58
 # [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith/)
 
 TUI bluetooth manager for Linux
+
+Linux 的 TUI 蓝牙管理器

@@ -7,3 +7,5 @@ image: assets/ASHUTOSH_SWAIN_GIT_maxim_20251103_214759_928_20251103_215944_dcbf4
 # [ASHUTOSH-SWAIN-GIT/maxim](https://github.com/ASHUTOSH-SWAIN-GIT/maxim/)
 
 A terminal user interface for PostgreSQL databases
+
+PostgreSQL数据库终端用户界面

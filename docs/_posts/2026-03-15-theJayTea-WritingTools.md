@@ -7,3 +7,5 @@ image: assets/theJayTea_WritingTools_20260303_175146_716_20260303_175340_786846.
 # [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools)
 
 System-wide grammar assistant with LLM integration
+
+系统级语法助手，集成LLM

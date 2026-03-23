@@ -7,3 +7,5 @@ image: assets/dersvenhesse_awesome_scriptable_20260105_011902_720_20260105_01192
 # [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable/)
 
 Automates iOS with JavaScript widgets
+
+使用 JavaScript 小部件自动化 iOS

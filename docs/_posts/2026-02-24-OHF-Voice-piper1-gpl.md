@@ -7,3 +7,5 @@ image: assets/OHF_Voice_piper1_gpl_20260217_000125_755_20260217_000221_d9ab48.pn
 # [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)
 
 Neural text-to-speech engine using espeak-ng
+
+使用 espeak-ng 的神经文本转语音引擎

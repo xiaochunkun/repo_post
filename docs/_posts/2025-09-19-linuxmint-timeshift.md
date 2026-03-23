@@ -7,3 +7,5 @@ image: assets/20250919T022201223--linuxmint--timeshift--20250919T023035417--crop
 # [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
 
 system restore snapshots for Linux
+
+Linux系统还原快照工具

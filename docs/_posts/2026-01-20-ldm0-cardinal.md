@@ -7,3 +7,5 @@ image: assets/ldm0_cardinal_20260119_230217_275_20260119_230233_e82132.png
 # [ldm0/cardinal](https://github.com/ldm0/cardinal)
 
 File search tool for macOS
+
+macOS文件搜索工具

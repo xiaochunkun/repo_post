@@ -7,3 +7,5 @@ image: assets/apple_containerization_cropped.png
 # [apple/containerization](https://github.com/apple/containerization)
 
 Swift package for running Linux containers on macOS using lightweight virtual machines
+
+使用轻量级虚拟机在macOS上运行Linux容器的Swift包

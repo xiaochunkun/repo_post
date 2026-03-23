@@ -7,3 +7,5 @@ image: assets/gebrkn_copytables_20260205_002459_050_20260205_002534_636ea8.png
 # [gebrkn/copytables](https://github.com/gebrkn/copytables)
 
 Selects and copies table cells as CSV or HTML
+
+选择并复制表格单元格为CSV或HTML格式

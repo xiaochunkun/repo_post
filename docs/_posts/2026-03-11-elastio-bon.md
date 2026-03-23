@@ -7,3 +7,5 @@ image: assets/elastio_bon_20260227_151305_019_20260227_151509_cd62cc.png
 # [elastio/bon](https://github.com/elastio/bon)
 
 Generates compile-time checked builders for functions and structs
+
+为函数和结构生成编译时检查的构建器

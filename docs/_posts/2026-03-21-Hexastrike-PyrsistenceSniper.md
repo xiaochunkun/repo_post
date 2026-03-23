@@ -7,3 +7,5 @@ image: assets/Hexastrike_PyrsistenceSniper_20260308_202440_061_20260308_202705_d
 # [Hexastrike/PyrsistenceSniper](https://github.com/Hexastrike/PyrsistenceSniper)
 
 Windows persistence detection from forensic collections
+
+从取证集合中检测Windows持久性

@@ -7,3 +7,5 @@ image: assets/visual_layer_fastdup_20251030_003503_625_20251030_010827_8d101a--2
 # [visual-layer/fastdup](https://github.com/visual-layer/fastdup/)
 
 Finds duplicates and outliers in image datasets
+
+在图像数据集中查找重复项和异常值

@@ -7,3 +7,5 @@ image: assets/ultralytics_ultralytics_20260205_154320_957_20260205_154343_7499c5
 # [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 
 Computer vision models for object detection and image classification
+
+用于目标检测和图像分类的计算机视觉模型

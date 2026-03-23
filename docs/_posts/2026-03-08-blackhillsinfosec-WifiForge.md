@@ -7,3 +7,5 @@ image: assets/blackhillsinfosec_WifiForge_20260304_053122_796_20260304_053259_35
 # [blackhillsinfosec/WifiForge](https://github.com/blackhillsinfosec/WifiForge)
 
 Sets up networks and tools for WiFi exploitation labs
+
+为WiFi渗透实验室设置网络和工具

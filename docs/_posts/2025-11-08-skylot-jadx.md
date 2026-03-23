@@ -7,3 +7,5 @@ image: assets/skylot_jadx_20251108_182529_144_20251108_182641_0c0f39--20251108T2
 # [skylot/jadx](https://github.com/skylot/jadx/)
 
 Decompiler for Android Dex and Apk files
+
+Android Dex和Apk文件的反编译器

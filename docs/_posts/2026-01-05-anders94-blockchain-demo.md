@@ -7,3 +7,5 @@ image: assets/anders94_blockchain_demo_20260104_094112_817_20260104_094127_a8438
 # [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo/)
 
 Visualizes hash chains and distributed ledgers
+
+可视化哈希链和分布式账本

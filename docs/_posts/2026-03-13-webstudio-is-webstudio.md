@@ -7,3 +7,5 @@ image: assets/webstudio_is_webstudio_20260222_072423_587_20260222_072459_cab956.
 # [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)
 
 Visual builder for headless CMS
+
+无头CMS的可视化构建器

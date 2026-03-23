@@ -7,3 +7,5 @@ image: assets/pasky_chrome_cdp_skill_20260316_190254_302_20260316_190336_d72f06.
 # [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
 
 Connects AI agents to Chrome sessions
+
+连接 AI 代理与 Chrome 会话

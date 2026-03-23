@@ -7,3 +7,5 @@ image: assets/obillekyle_synced_lyrics_editor_webapp_v2_20260212_055347_281_2026
 # [obillekyle/synced-lyrics-editor-webapp-v2](https://github.com/obillekyle/synced-lyrics-editor-webapp-v2)
 
 Creates LRC files in a browser
+
+在浏览器中创建 LRC 文件

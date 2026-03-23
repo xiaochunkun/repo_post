@@ -7,3 +7,5 @@ image: assets/kuse_ai_kuse_cowork_20260203_020520_312_20260203_020607_905e7a.png
 # [kuse-ai/kuse_cowork](https://github.com/kuse-ai/kuse_cowork)
 
 Rust desktop agent for local model execution
+
+用于本地模型执行的Rust桌面Agent

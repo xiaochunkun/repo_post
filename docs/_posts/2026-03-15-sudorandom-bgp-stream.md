@@ -7,3 +7,5 @@ image: assets/sudorandom_bgp_stream_20260308_182637_766_20260308_182819_0839c3.p
 # [sudorandom/bgp-stream](https://github.com/sudorandom/bgp-stream)
 
 Visualizes Border Gateway Protocol updates on a map in real-time
+
+实时在地图上可视化BGP更新

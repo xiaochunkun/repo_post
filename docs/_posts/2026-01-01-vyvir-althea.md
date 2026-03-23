@@ -7,3 +7,5 @@ image: assets/vyvir_althea_20251231_062536_568_20251231_062603_42c030.png
 # [vyvir/althea](https://github.com/vyvir/althea/)
 
 GUI for sideloading apps to iOS from Linux
+
+从Linux侧载应用到iOS的GUI

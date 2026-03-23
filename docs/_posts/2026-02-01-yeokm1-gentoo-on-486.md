@@ -7,3 +7,5 @@ image: assets/yeokm1_gentoo_on_486_20260201_031203_320_20260201_031243_7dc337.pn
 # [yeokm1/gentoo-on-486](https://github.com/yeokm1/gentoo-on-486)
 
 Installs Gentoo Linux on 486 PCs
+
+在 486 PC 上安装 Gentoo Linux

@@ -7,3 +7,5 @@ image: assets/sailor_sh_CK_X_20260101_012105_676_20260101_012120_d1a20b.png
 # [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X/)
 
 Simulates Kubernetes certification exams with labs and evaluation
+
+通过实验室和评估模拟Kubernetes认证考试

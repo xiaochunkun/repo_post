@@ -7,3 +7,5 @@ image: assets/CursorTouch_Android_MCP_20260222_143241_939_20260222_143327_8f5ac8
 # [CursorTouch/Android-MCP](https://github.com/CursorTouch/Android-MCP)
 
 Bridges AI agents and Android devices via MCP server
+
+通过MCP服务器桥接AI代理和Android设备

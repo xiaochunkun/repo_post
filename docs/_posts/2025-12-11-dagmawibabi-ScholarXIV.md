@@ -7,3 +7,5 @@ image: assets/dagmawibabi_ScholarXIV_20251208_223632_357_20251208_223656_2241d8.
 # [dagmawibabi/ScholarXIV](https://github.com/dagmawibabi/ScholarXIV/)
 
 App for reading and summarizing arXiv papers
+
+arXiv论文阅读与摘要应用

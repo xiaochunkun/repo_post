@@ -7,3 +7,5 @@ image: assets/custom_components_remote_homeassistant_20251127_200655_459_2025113
 # [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant/)
 
 Links multiple Home Assistant instances together
+
+将多个 Home Assistant 实例链接在一起

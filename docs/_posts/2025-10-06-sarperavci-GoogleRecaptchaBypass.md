@@ -7,3 +7,5 @@ image: assets/sarperavci_GoogleRecaptchaBypass--20251005T225520701--cropped.png
 # [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass)
 
 Python script using DrissionPage to automate solving Google reCAPTCHA for testing or research
+
+使用 DrissionPage 自动绕过 Google reCAPTCHA 的 Python 脚本，用于测试或研究

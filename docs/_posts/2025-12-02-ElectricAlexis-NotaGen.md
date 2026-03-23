@@ -7,3 +7,5 @@ image: assets/ElectricAlexis_NotaGen_20251201_022102_845_20251201_022139_b8f555.
 # [ElectricAlexis/NotaGen](https://github.com/ElectricAlexis/NotaGen/)
 
 Symbolic music generation using LLM training paradigms
+
+使用LLM训练范式的符号音乐生成

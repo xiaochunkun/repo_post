@@ -7,3 +7,5 @@ image: assets/glinford_dns_easy_switcher_20251125_035905_383_20251127_165003_43d
 # [glinford/dns-easy-switcher](https://github.com/glinford/dns-easy-switcher/)
 
 macOS menu bar app for switching DNS providers
+
+macOS 菜单栏应用，用于切换 DNS 提供商

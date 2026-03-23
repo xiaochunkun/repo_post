@@ -7,3 +7,5 @@ image: assets/20250926T001724646--jitsucom--jitsu--20250926T004154835--cropped.p
 # [jitsucom/jitsu](https://github.com/jitsucom/jitsu)
 
 collect event data from websites and apps, send to your data warehouse
+
+从网站和应用收集事件数据，发送到数据仓库

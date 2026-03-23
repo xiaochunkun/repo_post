@@ -7,3 +7,5 @@ image: assets/00ie_Username_Checker_20260314_204756_544_20260314_205008_01b9f7.p
 # [00ie/Username-Checker](https://github.com/00ie/Username-Checker)
 
 Bulk username checker with real-time alerts
+
+批量用户名检查器，带实时警报

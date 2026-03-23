@@ -7,3 +7,5 @@ image: assets/arrowpc_palettum_20251123_184919_506_20251124_184506_fe506a--20251
 # [arrowpc/palettum](https://github.com/arrowpc/palettum/)
 
 Recolors media with custom palettes
+
+使用自定义调色板重新着色媒体

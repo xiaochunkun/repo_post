@@ -7,3 +7,5 @@ image: assets/DeprecatedLuar_ireallylovemydots_20251213_034358_114_20251213_0344
 # [DeprecatedLuar/ireallylovemydots](https://github.com/DeprecatedLuar/ireallylovemydots/)
 
 CLI dotfile manager written in bash
+
+用 bash 编写的 CLI 点文件管理器

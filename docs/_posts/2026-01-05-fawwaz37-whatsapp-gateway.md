@@ -7,3 +7,5 @@ image: assets/fawwaz37_whatsapp_gateway_20260104_122114_429_20260104_122202_4a60
 # [fawwaz37/whatsapp-gateway](https://github.com/fawwaz37/whatsapp-gateway/)
 
 Gateway for WhatsApp using Baileys and Express
+
+使用Baileys和Express的WhatsApp网关

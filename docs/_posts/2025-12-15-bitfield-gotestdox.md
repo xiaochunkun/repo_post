@@ -7,3 +7,5 @@ image: assets/bitfield_gotestdox_20251213_111854_776_20251213_111930_63c69e.png
 # [bitfield/gotestdox](https://github.com/bitfield/gotestdox/)
 
 Formats Go test results as readable documentation
+
+将 Go 测试结果格式化为可读文档

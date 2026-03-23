@@ -7,3 +7,5 @@ image: assets/20250905T031052489--imsnif--bandwhich--20250905T032548889--cropped
 # [imsnif/bandwhich](https://github.com/imsnif/bandwhich)
 
 shows network usage by process in terminal
+
+在终端中按进程显示网络使用情况

@@ -7,3 +7,5 @@ image: assets/dlvhdr_gh_dash_20260122_044022_072_20260122_044037_a32921.png
 # [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)
 
 Terminal interface for GitHub management
+
+GitHub管理终端界面

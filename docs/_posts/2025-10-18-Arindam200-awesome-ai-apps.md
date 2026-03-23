@@ -7,3 +7,5 @@ image: assets/Arindam200_awesome_ai_apps_20251018_124601_490_20251018_131846--20
 # [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps/)
 
 Provides LLM-powered application examples and tutorials
+
+提供LLM驱动的应用示例和教程

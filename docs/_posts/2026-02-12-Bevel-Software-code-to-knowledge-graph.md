@@ -7,3 +7,5 @@ image: assets/Bevel_Software_code_to_knowledge_graph_20260210_135048_800_2026021
 # [Bevel-Software/code-to-knowledge-graph](https://github.com/Bevel-Software/code-to-knowledge-graph)
 
 Parses source code into a knowledge graph using LSP
+
+使用LSP将源代码解析为知识图谱

@@ -7,3 +7,5 @@ image: assets/koush_scrypted--20250816T205938003--cropped.png
 # [koush/scrypted](https://github.com/koush/scrypted)
 
 home video integration platform with smart camera support
+
+支持智能摄像头的家庭视频集成平台

@@ -7,3 +7,5 @@ image: assets/binpash_try_20251025_002025_954_20251025_004505_2df49f--20251025T0
 # [binpash/try](https://github.com/binpash/try/)
 
 Inspect a command's effects before applying them
+
+应用前检查命令效果

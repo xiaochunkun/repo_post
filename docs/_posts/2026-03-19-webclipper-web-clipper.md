@@ -7,3 +7,5 @@ image: assets/webclipper_web_clipper_20260318_093752_427_20260318_093838_98665c.
 # [webclipper/web-clipper](https://github.com/webclipper/web-clipper)
 
 Save web content to any note app
+
+将网页内容保存到任何笔记应用

@@ -7,3 +7,5 @@ image: assets/20250818T114719502_hatchet-dev_hatchet--20250822T023429523--croppe
 # [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
 
 background task management platform built on Postgres
+
+基于 Postgres 的后台任务管理平台

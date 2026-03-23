@@ -7,3 +7,5 @@ image: assets/20250831T002244214--spicetify--cli--20250831T003354867--cropped.pn
 # [spicetify/cli](https://github.com/spicetify/cli)
 
 customize your Spotify app with command line tools
+
+命令行工具自定义 Spotify 应用

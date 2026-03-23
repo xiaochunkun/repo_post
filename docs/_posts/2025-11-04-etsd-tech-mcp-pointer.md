@@ -7,3 +7,5 @@ image: assets/etsd_tech_mcp_pointer_20251031_165549_224_20251102_220734_379a54--
 # [etsd-tech/mcp-pointer](https://github.com/etsd-tech/mcp-pointer/)
 
 A tool to select browser DOM elements for AI coding tools
+
+为AI编码工具选择浏览器DOM元素的工具

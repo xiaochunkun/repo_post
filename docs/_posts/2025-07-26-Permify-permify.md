@@ -7,3 +7,5 @@ image: assets/Permify_permify_cropped.png
 # [Permify/permify](https://github.com/Permify/permify)
 
 open source authorization service for fine-grained access control
+
+细粒度访问控制的开源授权服务

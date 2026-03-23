@@ -7,3 +7,5 @@ image: assets/decentpaste_decentpaste_20260113_122038_912_20260113_122053_e09a7f
 # [decentpaste/decentpaste](https://github.com/decentpaste/decentpaste)
 
 Syncs clipboards across devices via P2P
+
+通过P2P跨设备同步剪贴板

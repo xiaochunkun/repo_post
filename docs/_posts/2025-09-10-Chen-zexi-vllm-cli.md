@@ -7,3 +7,5 @@ image: assets/20250908T232427834--Chen-zexi--vllm-cli--20250908T233512466--cropp
 # [Chen-zexi/vllm-cli](https://github.com/Chen-zexi/vllm-cli)
 
 CLI tool for managing and serving LLMs with interactive terminal and server monitoring
+
+管理和部署 LLM 的 CLI 工具，带交互终端和服务器监控

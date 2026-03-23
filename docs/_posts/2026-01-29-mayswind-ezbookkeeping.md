@@ -7,3 +7,5 @@ image: assets/mayswind_ezbookkeeping_20260128_234740_753_20260128_234817_cea598.
 # [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
 
 Self-hosted finance app with receipt recognition and multi-currency support
+
+自托管财务应用，带收据识别和多币种支持

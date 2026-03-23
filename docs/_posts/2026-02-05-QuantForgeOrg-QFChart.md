@@ -7,3 +7,5 @@ image: assets/QuantForgeOrg_QFChart_20260204_030744_709_20260204_030809_28380f.p
 # [QuantForgeOrg/QFChart](https://github.com/QuantForgeOrg/QFChart)
 
 Financial charting library for candlestick visualization with technical indicators
+
+具有技术指标的烛台图金融图表库

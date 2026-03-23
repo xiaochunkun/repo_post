@@ -7,3 +7,5 @@ image: assets/Mindbaz_awesome_opensource_email_20251218_033306_798_20251218_0333
 # [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email/)
 
 Curated list of open source email tools and resources
+
+精选的开源电子邮件工具和资源列表

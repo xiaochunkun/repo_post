@@ -7,3 +7,5 @@ image: assets/vibe_log_vibe_log_cli_20260210_210407_738_20260210_210425_5a032f.p
 # [vibe-log/vibe-log-cli](https://github.com/vibe-log/vibe-log-cli)
 
 CLI for analyzing Claude Code sessions and generating productivity reports
+
+分析Claude Code会话并生成生产力报告的CLI

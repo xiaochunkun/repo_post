@@ -7,3 +7,5 @@ image: assets/cisagov_LME_20251125_055726_039_20251127_171020_78131e--20251127T1
 # [cisagov/LME](https://github.com/cisagov/LME/)
 
 Centralizes log collection and threat detection
+
+集中日志收集和威胁检测系统

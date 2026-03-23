@@ -7,3 +7,5 @@ image: assets/eternalai_org_eternal_ai_20260112_123305_533_20260112_123325_ad653
 # [eternalai-org/eternal-ai](https://github.com/eternalai-org/eternal-ai)
 
 Protocol for autonomous agents on blockchains
+
+区块链自主代理协议

@@ -7,3 +7,5 @@ image: assets/TelemetryHarbor_telemetry_harbor_oss_20251125_033221_349_20251127_
 # [TelemetryHarbor/telemetry-harbor-oss](https://github.com/TelemetryHarbor/telemetry-harbor-oss/)
 
 Self-hosted telemetry ingestion and visualization stack
+
+自托管遥测数据摄取和可视化堆栈

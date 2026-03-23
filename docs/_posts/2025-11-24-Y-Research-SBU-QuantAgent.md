@@ -7,3 +7,5 @@ image: assets/Y_Research_SBU_QuantAgent_20251123_111725_977_20251124_003149_56b1
 # [Y-Research-SBU/QuantAgent](https://github.com/Y-Research-SBU/QuantAgent/)
 
 Multi-agent LLMs for high-frequency trading
+
+用于高频交易的多智能体 LLM

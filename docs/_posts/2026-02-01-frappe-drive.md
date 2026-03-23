@@ -7,3 +7,5 @@ image: assets/frappe_drive_20260131_142222_349_20260131_142320_2aac1c.png
 # [frappe/drive](https://github.com/frappe/drive)
 
 Storage for files with sharing and collaboration
+
+带有共享和协作功能的文件存储

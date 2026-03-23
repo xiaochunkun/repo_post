@@ -7,3 +7,5 @@ image: assets/20251010T131142786--hfaran--slack-export-viewer--20251010T13230533
 # [hfaran/slack-export-viewer](https://github.com/hfaran/slack-export-viewer)
 
 turns Slack's JSON export dumps into a readable web interface
+
+将 Slack 的 JSON 导出文件转换为可读的 Web 界面

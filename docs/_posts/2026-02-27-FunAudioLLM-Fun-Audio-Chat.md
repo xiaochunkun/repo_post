@@ -7,3 +7,5 @@ image: assets/FunAudioLLM_Fun_Audio_Chat_20260226_175535_501_20260226_175721_511
 # [FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)
 
 Audio language model for voice interactions
+
+语音交互的音频语言模型

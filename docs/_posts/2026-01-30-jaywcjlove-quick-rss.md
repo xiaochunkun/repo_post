@@ -7,3 +7,5 @@ image: assets/jaywcjlove_quick_rss_20260129_161441_385_20260129_161521_b1b09a.pn
 # [jaywcjlove/quick-rss](https://github.com/jaywcjlove/quick-rss)
 
 RSS reader for macOS and iOS
+
+macOS和iOS的RSS阅读器

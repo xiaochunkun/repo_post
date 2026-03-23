@@ -7,3 +7,5 @@ image: assets/davidtakac_prognoza_20260103_075200_049_20260103_075233_89ef4c.png
 # [davidtakac/prognoza](https://github.com/davidtakac/prognoza/)
 
 Weather forecasts with widgets and offline support
+
+带小部件和离线支持的天气预报

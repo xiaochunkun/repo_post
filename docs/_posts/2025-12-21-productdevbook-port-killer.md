@@ -7,3 +7,5 @@ image: assets/productdevbook_port_killer_20251219_215457_224_20251219_215514_5fd
 # [productdevbook/port-killer](https://github.com/productdevbook/port-killer/)
 
 Kills processes on open ports from the macOS menu bar
+
+从macOS菜单栏终止开放端口进程

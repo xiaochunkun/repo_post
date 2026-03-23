@@ -7,3 +7,5 @@ image: assets/google-gemini_cookbook_cropped.png
 # [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
 
 Guides and examples for Gemini API
+
+Gemini API 指南和示例

@@ -7,3 +7,5 @@ image: assets/commixproject_commix_cropped.png
 # [commixproject/commix](https://github.com/commixproject/commix)
 
 automates finding and exploiting command injection bugs
+
+自动化查找和利用命令注入漏洞

@@ -7,3 +7,5 @@ image: assets/CoretechR_SPINC_20260126_152316_320_20260126_152353_d0ea09.png
 # [CoretechR/SPINC](https://github.com/CoretechR/SPINC)
 
 Charges and ejects batteries automatically
+
+自动充电和弹出电池

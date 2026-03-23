@@ -7,3 +7,5 @@ image: assets/keephq_keep_cropped.png
 # [keephq/keep](https://github.com/keephq/keep)
 
 Open-source AIOps and alert management platform
+
+开源 AIOps 和告警管理平台

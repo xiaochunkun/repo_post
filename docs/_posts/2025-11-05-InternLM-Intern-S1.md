@@ -7,3 +7,5 @@ image: assets/InternLM_Intern_S1_20251105_031041_955_20251105_123318_8042fc--202
 # [InternLM/Intern-S1](https://github.com/InternLM/Intern-S1/)
 
 Open-source multimodal model for scientific tasks
+
+用于科学任务的开源多模态模型

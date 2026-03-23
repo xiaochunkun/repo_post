@@ -7,3 +7,5 @@ image: assets/JudgmentLabs_judgeval_20251215_021738_419_20251215_021818_cc5181.p
 # [JudgmentLabs/judgeval](https://github.com/JudgmentLabs/judgeval/)
 
 Framework for monitoring and judging agent behavior
+
+监控和评估Agent行为的框架

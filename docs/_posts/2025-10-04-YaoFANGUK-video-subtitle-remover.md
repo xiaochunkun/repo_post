@@ -7,3 +7,5 @@ image: assets/20251003T230029448--YaoFANGUK--video-subtitle-remover--20251003T23
 # [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 
 AI tool for removing hardcoded subtitles from videos, keeps original quality
+
+AI工具，用于从视频中移除硬编码字幕，保持原始质量

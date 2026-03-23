@@ -7,3 +7,5 @@ image: assets/terrastruct_d2_20251017_232001_361_20251018_010234--20251018T03023
 # [terrastruct/d2](https://github.com/terrastruct/d2/)
 
 Diagram scripting language turns text to diagrams
+
+将文本转换为图表的脚本语言

@@ -7,3 +7,5 @@ image: assets/TheInfamousToTo_PiHoleVault_20251207_181646_286_20251207_181708_6e
 # [TheInfamousToTo/PiHoleVault](https://github.com/TheInfamousToTo/PiHoleVault/)
 
 Web-based Pi-hole backup manager with automated scheduling
+
+基于Web的Pi-hole备份管理器，支持自动化调度

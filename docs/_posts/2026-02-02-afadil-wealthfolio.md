@@ -7,3 +7,5 @@ image: assets/afadil_wealthfolio_20260202_185833_297_20260202_185925_2d7a74.png
 # [afadil/wealthfolio](https://github.com/afadil/wealthfolio)
 
 Investment tracker with local data storage
+
+带有本地数据存储的投资追踪器

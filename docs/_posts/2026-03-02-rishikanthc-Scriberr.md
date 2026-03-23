@@ -7,3 +7,5 @@ image: assets/rishikanthc_Scriberr_20260301_193230_992_20260301_193437_ba5c14.pn
 # [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr)
 
 Offline audio transcription for self-hosters
+
+自托管者的离线音频转录

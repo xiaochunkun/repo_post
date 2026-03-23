@@ -7,3 +7,5 @@ image: assets/purpleidea_mgmt_20260203_013205_361_20260203_013226_de5609.png
 # [purpleidea/mgmt](https://github.com/purpleidea/mgmt)
 
 Automation tool for distributed configuration management
+
+用于分布式配置管理的自动化工具

@@ -7,3 +7,5 @@ image: assets/avilum_uvify_20251125_044831_678_20251127_170330_3d54e2--20251127T
 # [avilum/uvify](https://github.com/avilum/uvify/)
 
 Turns Python repositories into uv environments
+
+将 Python 仓库转换为 uv 环境

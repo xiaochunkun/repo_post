@@ -7,3 +7,5 @@ image: assets/FradSer_dotclaude_20260305_170948_163_20260305_171149_c28825.png
 # [FradSer/dotclaude](https://github.com/FradSer/dotclaude)
 
 Automate development workflows via Claude plugins
+
+通过Claude插件自动化开发工作流

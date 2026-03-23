@@ -7,3 +7,5 @@ image: assets/VectorSpaceLab_OmniGen2_20260108_025844_169_20260108_025859_a3646d
 # [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2)
 
 Generates images and text with unshared parameters
+
+使用未共享参数生成图像和文本

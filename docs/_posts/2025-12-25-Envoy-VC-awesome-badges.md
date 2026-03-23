@@ -7,3 +7,5 @@ image: assets/Envoy_VC_awesome_badges_20251224_114732_493_20251224_114752_fdec39
 # [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges/)
 
 Collection of badges for GitHub projects
+
+GitHub 项目徽章集合

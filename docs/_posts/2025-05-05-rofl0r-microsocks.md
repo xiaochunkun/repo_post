@@ -7,3 +7,5 @@ image: assets/rofl0r_microsocks_cropped.png
 # [rofl0r/microsocks](https://github.com/rofl0r/microsocks)
 
 SOCKS5 proxy server for relaying network traffic
+
+用于中继网络流量的 SOCKS5 代理服务器

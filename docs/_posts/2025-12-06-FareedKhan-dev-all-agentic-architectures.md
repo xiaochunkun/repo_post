@@ -7,3 +7,5 @@ image: assets/FareedKhan_dev_all_agentic_architectures_20251204_224756_792_20251
 # [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures/)
 
 Implementations of 17+ agentic architectures
+
+17种以上代理架构的实现

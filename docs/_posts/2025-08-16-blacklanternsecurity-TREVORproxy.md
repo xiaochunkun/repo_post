@@ -7,3 +7,5 @@ image: assets/blacklanternsecurity_TREVORproxy--20250815T021453724--cropped.png
 # [blacklanternsecurity/TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy)
 
 SOCKS proxy that rotates your source IP using SSH tunnels or subnets
+
+使用 SSH 隧道或子网轮换源 IP 的 SOCKS 代理

@@ -7,3 +7,5 @@ image: assets/vantage_sh_handbook_vantage_sh_20260224_054444_618_20260224_054501
 # [vantage-sh/handbook.vantage.sh](https://github.com/vantage-sh/handbook.vantage.sh)
 
 Guides for cloud infrastructure pricing
+
+云基础设施定价指南

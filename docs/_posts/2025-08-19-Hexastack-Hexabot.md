@@ -7,3 +7,5 @@ image: assets/20250818T111728864_Hexastack_Hexabot--20250818T111924845--cropped.
 # [Hexastack/Hexabot](https://github.com/Hexastack/Hexabot)
 
 open source platform for building AI chatbots and agents
+
+构建AI聊天机器人和代理的开源平台

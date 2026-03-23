@@ -7,3 +7,5 @@ image: assets/ahmedesa_laravel_api_tool_kit_20251201_022405_074_20251201_022439_
 # [ahmedesa/laravel-api-tool-kit](https://github.com/ahmedesa/laravel-api-tool-kit/)
 
 Generates APIs with pagination and filtering
+
+生成带分页和过滤的API

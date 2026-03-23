@@ -7,3 +7,5 @@ image: assets/FoundatioFx_Foundatio_20251213_034000_937_20251213_034026_12eccb.p
 # [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio/)
 
 Pluggable building blocks for distributed apps
+
+分布式应用可插拔构建模块

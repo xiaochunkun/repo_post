@@ -7,3 +7,5 @@ image: assets/builtbybel_FlyOOBE_20251221_033603_308_20251221_033654_fc6084.png
 # [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE/)
 
 Bypasses hardware checks and debloats Windows installations
+
+绕过硬件检查并精简 Windows 安装

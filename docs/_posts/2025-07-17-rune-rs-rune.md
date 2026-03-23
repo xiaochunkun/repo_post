@@ -7,3 +7,5 @@ image: assets/rune-rs_rune_cropped.png
 # [rune-rs/rune](https://github.com/rune-rs/rune)
 
 Embeddable dynamic scripting for Rust projects
+
+Rust 项目的可嵌入动态脚本

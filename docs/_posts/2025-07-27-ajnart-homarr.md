@@ -7,3 +7,5 @@ image: assets/ajnart_homarr_cropped.png
 # [ajnart/homarr](https://github.com/ajnart/homarr)
 
 dashboard for managing web apps and services
+
+管理 Web 应用和服务的仪表板

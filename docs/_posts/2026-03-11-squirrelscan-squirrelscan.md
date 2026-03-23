@@ -7,3 +7,5 @@ image: assets/squirrelscan_squirrelscan_20260217_230600_311_20260217_230624_5504
 # [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan)
 
 Audits websites for coding agents
+
+审计网站以用于编码代理

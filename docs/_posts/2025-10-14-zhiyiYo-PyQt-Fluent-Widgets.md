@@ -7,3 +7,5 @@ image: assets/20251014T013901566--zhiyiYo--PyQt-Fluent-Widgets--20251014T0147513
 # [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
 Fluent design widgets for PyQt5 apps
+
+用于 PyQt5 应用的 Fluent 设计组件

@@ -7,3 +7,5 @@ image: assets/NullOpsDevs_LibSshNet_20251202_223932_217_20251202_223955_b1dc87.p
 # [NullOpsDevs/LibSshNet](https://github.com/NullOpsDevs/LibSshNet/)
 
 Managed .NET bindings for libssh2
+
+libssh2 的托管 .NET 绑定

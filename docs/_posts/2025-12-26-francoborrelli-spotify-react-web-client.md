@@ -7,3 +7,5 @@ image: assets/francoborrelli_spotify_react_web_client_20251224_232902_890_202512
 # [francoborrelli/spotify-react-web-client](https://github.com/francoborrelli/spotify-react-web-client/)
 
 Web client using React and Spotify SDK
+
+使用 React 和 Spotify SDK 的 Web 客户端

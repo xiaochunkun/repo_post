@@ -7,3 +7,5 @@ image: assets/ExcelDataReader_ExcelDataReader_20251202_231036_176_20251202_23130
 # [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader/)
 
 Reads Microsoft Excel files in C#
+
+在 C# 中读取 Microsoft Excel 文件

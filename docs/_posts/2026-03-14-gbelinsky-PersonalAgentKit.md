@@ -7,3 +7,5 @@ image: assets/gbelinsky_PersonalAgentKit_20260311_060633_083_20260311_060810_de5
 # [gbelinsky/PersonalAgentKit](https://github.com/gbelinsky/PersonalAgentKit)
 
 Self-naming AI agent that grows over time
+
+随时间成长的自命名AI代理

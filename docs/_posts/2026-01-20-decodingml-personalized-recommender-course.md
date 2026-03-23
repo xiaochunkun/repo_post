@@ -7,3 +7,5 @@ image: assets/decodingml_personalized_recommender_course_20260119_214106_472_202
 # [decodingml/personalized-recommender-course](https://github.com/decodingml/personalized-recommender-course)
 
 Real-time recommender system with feature pipelines
+
+实时推荐系统，带特征管道

@@ -7,3 +7,5 @@ image: assets/medusajs_medusa_20260225_033652_010_20260225_033820_babcae.png
 # [medusajs/medusa](https://github.com/medusajs/medusa)
 
 Framework for building commerce applications
+
+构建商业应用的框架

@@ -7,3 +7,5 @@ image: assets/Melkeydev_go-blueprint_cropped.png
 # [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)
 
 Go project initializer with frameworks and databases
+
+Go项目初始化器，包含框架和数据库

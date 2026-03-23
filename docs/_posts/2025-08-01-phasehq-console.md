@@ -7,3 +7,5 @@ image: assets/phasehq_console_cropped.png
 # [phasehq/console](https://github.com/phasehq/console)
 
 open source dashboard for managing app secrets and configs
+
+开源仪表板，管理应用密钥和配置

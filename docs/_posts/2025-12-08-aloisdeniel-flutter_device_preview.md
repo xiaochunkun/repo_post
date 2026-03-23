@@ -7,3 +7,5 @@ image: assets/aloisdeniel_flutter_device_preview_20251205_035246_611_20251205_03
 # [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview/)
 
 Preview Flutter apps on simulated devices
+
+在模拟设备上预览Flutter应用

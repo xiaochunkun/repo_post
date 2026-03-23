@@ -7,3 +7,5 @@ image: assets/insight_platform_Savant_20251118_073531_842_20251118_160348_d14f95
 # [insight-platform/Savant](https://github.com/insight-platform/Savant/)
 
 Framework for building computer vision pipelines on the Nvidia stack
+
+在Nvidia堆栈上构建计算机视觉管道的框架

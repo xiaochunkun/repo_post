@@ -7,3 +7,5 @@ image: assets/Openwrt_Passwall_openwrt_passwall2_20260210_191019_214_20260210_19
 # [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2)
 
 Proxy and VPN interface for OpenWrt routers
+
+OpenWrt路由器的代理和VPN界面

@@ -7,3 +7,5 @@ image: assets/ragpi_ragpi_20251031_062939_413_20251101_203532_c023da--20251101T2
 # [ragpi/ragpi](https://github.com/ragpi/ragpi/)
 
 AI assistant answers questions using your documentation
+
+使用您的文档回答问题的 AI 助手

@@ -7,3 +7,5 @@ image: assets/InCom_0_incplot_20251226_035101_167_20251226_035117_009997.png
 # [InCom-0/incplot](https://github.com/InCom-0/incplot/)
 
 Plots data in the terminal using unicode characters
+
+使用 Unicode 字符在终端中绘制数据

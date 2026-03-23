@@ -7,3 +7,5 @@ image: assets/teableio_teable_cropped.png
 # [teableio/teable](https://github.com/teableio/teable)
 
 Open-source Airtable alternative built on Postgres
+
+基于Postgres构建的开源Airtable替代品

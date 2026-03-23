@@ -7,3 +7,5 @@ image: assets/urbanadventurer_Android_PIN_Bruteforce_20251102_225714_923_2025110
 # [urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce/)
 
 Bruteforce an Android PIN with a Kali Nethunter phone
+
+使用Kali Nethunter手机暴力破解Android PIN码

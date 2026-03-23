@@ -6,3 +6,5 @@ image: assets/Kocoro_lab_Shannon_20251025_043414_749_20251025_084945_b1a262--202
 # [Kocoro-lab/Shannon](https://github.com/Kocoro-lab/Shannon/)
 
 Infrastructure for production AI agents
+
+生产AI代理的基础设施

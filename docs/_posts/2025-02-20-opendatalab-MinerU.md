@@ -7,3 +7,5 @@ image: assets/opendatalab_MinerU_cropped.png
 # [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 
 PDF to machine-readable formats converter
+
+PDF到机器可读格式的转换器

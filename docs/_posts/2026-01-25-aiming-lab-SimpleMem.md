@@ -7,3 +7,5 @@ image: assets/aiming_lab_SimpleMem_20260113_140844_896_20260113_140930_12809c.pn
 # [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem)
 
 Lifelong memory for LLM agents
+
+LLM智能体的终身记忆系统

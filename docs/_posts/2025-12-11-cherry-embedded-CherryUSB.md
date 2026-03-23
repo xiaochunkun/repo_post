@@ -7,3 +7,5 @@ image: assets/cherry_embedded_CherryUSB_20251209_002510_622_20251209_002533_28d4
 # [cherry-embedded/CherryUSB](https://github.com/cherry-embedded/CherryUSB/)
 
 Portable USB host and device stack for embedded systems
+
+嵌入式系统的便携式USB主机和设备栈

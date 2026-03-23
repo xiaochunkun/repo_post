@@ -7,3 +7,5 @@ image: assets/20250915T230522966--TagStudioDev--TagStudio--20250915T231032024--c
 # [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio)
 
 Organize and tag all your files with a flexible, user-focused system
+
+使用灵活、以用户为中心的系统组织和标记所有文件

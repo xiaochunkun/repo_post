@@ -7,3 +7,5 @@ image: assets/cortezaproject_corteza_20260223_231715_212_20260223_231757_d1576d.
 # [cortezaproject/corteza](https://github.com/cortezaproject/corteza)
 
 Platform for building CRM and business process workflows
+
+构建CRM和业务流程工作流的平台

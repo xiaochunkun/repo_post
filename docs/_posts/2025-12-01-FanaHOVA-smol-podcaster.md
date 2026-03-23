@@ -7,3 +7,5 @@ image: assets/FanaHOVA_smol_podcaster_20251130_071714_256_20251130_085143_e761ae
 # [FanaHOVA/smol-podcaster](https://github.com/FanaHOVA/smol-podcaster/)
 
 Podcast production agent for transcripts and chapters
+
+播客制作代理，用于生成文字稿和章节

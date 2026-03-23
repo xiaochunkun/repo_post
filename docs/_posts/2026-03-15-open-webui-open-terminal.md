@@ -7,3 +7,5 @@ image: assets/open_webui_open_terminal_20260314_223102_156_20260314_223216_a2858
 # [open-webui/open-terminal](https://github.com/open-webui/open-terminal)
 
 Self-hosted terminal for AI agents
+
+AI 代理的自托管终端

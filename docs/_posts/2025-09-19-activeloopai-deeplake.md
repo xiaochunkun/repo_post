@@ -7,3 +7,5 @@ image: assets/20250919T023149294--activeloopai--deeplake--20250919T024006071--cr
 # [activeloopai/deeplake](https://github.com/activeloopai/deeplake)
 
 database for AI data, vectors, and deep learning workflows
+
+用于AI数据、向量和深度学习工作流的数据库

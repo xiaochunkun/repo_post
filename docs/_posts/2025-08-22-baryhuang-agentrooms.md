@@ -7,3 +7,5 @@ image: assets/20250818T125157975_baryhuang_agentrooms--20250820T143206064--cropp
 # [baryhuang/agentrooms](https://github.com/baryhuang/agentrooms)
 
 multi-agent dev workspace with Claude integration
+
+集成 Claude 的多智能体开发工作区

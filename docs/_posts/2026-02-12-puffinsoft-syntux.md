@@ -7,3 +7,5 @@ image: assets/puffinsoft_syntux_20260206_142928_244_20260206_143002_dca238.png
 # [puffinsoft/syntux](https://github.com/puffinsoft/syntux)
 
 Generates web interfaces from data
+
+从数据生成 Web 界面

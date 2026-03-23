@@ -7,3 +7,5 @@ image: assets/basnijholt_dotbins_20251030_013230_772_20251030_131556_c751be--202
 # [basnijholt/dotbins](https://github.com/basnijholt/dotbins/)
 
 Manages CLI tool binaries in a dotfiles repository
+
+在 dotfiles 仓库中管理 CLI 工具二进制文件

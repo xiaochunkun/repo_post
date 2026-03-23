@@ -7,3 +7,5 @@ image: assets/charlax_professional_programming_20260304_110607_340_20260304_1108
 # [charlax/professional-programming](https://github.com/charlax/professional-programming)
 
 Curated learning resources for software engineers
+
+软件工程师精选学习资源

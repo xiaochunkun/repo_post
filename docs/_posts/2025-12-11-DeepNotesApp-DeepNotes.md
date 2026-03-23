@@ -7,3 +7,5 @@ image: assets/DeepNotesApp_DeepNotes_20251209_000432_366_20251209_000455_8ba93f.
 # [DeepNotesApp/DeepNotes](https://github.com/DeepNotesApp/DeepNotes/)
 
 End-to-end encrypted infinite canvas tool
+
+端到端加密无限画布工具

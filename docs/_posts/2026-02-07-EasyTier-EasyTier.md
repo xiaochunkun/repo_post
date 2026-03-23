@@ -7,3 +7,5 @@ image: assets/EasyTier_EasyTier_20260206_005509_920_20260206_005524_fee712.png
 # [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
 
 Mesh VPN with WireGuard support and NAT traversal
+
+支持 WireGuard 和 NAT 穿透的 Mesh VPN

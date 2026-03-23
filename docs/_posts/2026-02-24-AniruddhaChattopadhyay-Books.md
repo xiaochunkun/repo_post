@@ -7,3 +7,5 @@ image: assets/AniruddhaChattopadhyay_Books_20260223_062423_394_20260223_062437_8
 # [AniruddhaChattopadhyay/Books](https://github.com/AniruddhaChattopadhyay/Books)
 
 Repository of AI and machine learning books
+
+AI和机器学习书籍仓库

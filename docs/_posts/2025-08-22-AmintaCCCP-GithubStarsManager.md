@@ -7,3 +7,5 @@ image: assets/20250820T142307814--AmintaCCCP--GithubStarsManager--20250820T14335
 # [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)
 
 AI-powered tool to organize and search your GitHub stars
+
+AI 驱动的 GitHub Star 项目整理和搜索工具

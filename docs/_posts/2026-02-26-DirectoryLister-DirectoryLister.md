@@ -7,3 +7,5 @@ image: assets/DirectoryLister_DirectoryLister_20260225_120125_584_20260225_12024
 # [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister)
 
 Exposes folder contents for browsing
+
+暴露文件夹内容以供浏览

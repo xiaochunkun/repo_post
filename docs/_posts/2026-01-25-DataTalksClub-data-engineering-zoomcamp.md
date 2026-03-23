@@ -7,3 +7,5 @@ image: assets/DataTalksClub_data_engineering_zoomcamp_20260122_120959_483_202601
 # [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 Course on building data pipelines from scratch
+
+从零构建数据管道的课程

@@ -7,3 +7,5 @@ image: assets/20250825T025624747--supermacro--neverthrow--20250825T030540725--cr
 # [supermacro/neverthrow](https://github.com/supermacro/neverthrow)
 
 type-safe error handling for JS and TS
+
+JavaScript 和 TypeScript 的类型安全错误处理库

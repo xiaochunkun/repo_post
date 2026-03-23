@@ -7,3 +7,5 @@ image: assets/HiDream_ai_HiDream_I1_20251021_005540_653_20251021_071428--2025102
 # [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1/)
 
 Efficient image generation foundation model
+
+高效的图像生成基础模型

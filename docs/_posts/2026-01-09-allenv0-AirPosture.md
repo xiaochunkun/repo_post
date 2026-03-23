@@ -7,3 +7,5 @@ image: assets/allenv0_AirPosture_20260108_162824_542_20260108_162848_442e7e.png
 # [allenv0/AirPosture](https://github.com/allenv0/AirPosture)
 
 Uses sensors in headphones for posture coaching
+
+使用耳机传感器进行姿势指导

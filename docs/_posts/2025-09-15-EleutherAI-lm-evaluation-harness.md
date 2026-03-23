@@ -7,3 +7,5 @@ image: assets/20250912T194147842--EleutherAI--lm-evaluation-harness--20250915T04
 # [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 
 framework for testing language models on benchmarks and tasks
+
+在基准和任务上测试语言模型的框架

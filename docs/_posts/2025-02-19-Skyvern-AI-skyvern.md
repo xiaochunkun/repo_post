@@ -7,3 +7,5 @@ image: assets/Skyvern-AI_skyvern_cropped.png
 # [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 
 Browser automation with LLMs and computer vision
+
+使用LLM和计算机视觉的浏览器自动化

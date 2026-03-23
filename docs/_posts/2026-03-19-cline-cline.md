@@ -7,3 +7,5 @@ image: assets/cline_cline_20260319_042547_017_20260319_042817_e6b34a.png
 # [cline/cline](https://github.com/cline/cline)
 
 AI assistant for CLI and editor
+
+用于 CLI 和编辑器的 AI 助手

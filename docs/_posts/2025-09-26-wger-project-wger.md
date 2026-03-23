@@ -7,3 +7,5 @@ image: assets/20250926T173517581--wger-project--wger--20250926T175036148--croppe
 # [wger-project/wger](https://github.com/wger-project/wger)
 
 track workouts, nutrition, and progress with self-hosted fitness manager
+
+自托管健身管理器，跟踪锻炼、营养和进度

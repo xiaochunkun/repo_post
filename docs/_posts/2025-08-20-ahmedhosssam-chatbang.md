@@ -7,3 +7,5 @@ image: assets/20250820T124915166_ahmedhosssam_chatbang--20250820T125452418--crop
 # [ahmedhosssam/chatbang](https://github.com/ahmedhosssam/chatbang)
 
 chatgpt in your terminal without api keys
+
+无需 API 密钥在终端中使用 ChatGPT

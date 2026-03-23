@@ -7,3 +7,5 @@ image: assets/mautic_mautic_20260121_233212_838_20260121_233230_2b023e.png
 # [mautic/mautic](https://github.com/mautic/mautic)
 
 Open source marketing automation software
+
+开源营销自动化软件

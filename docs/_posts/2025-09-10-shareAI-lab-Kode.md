@@ -7,3 +7,5 @@ image: assets/20250908T231358385--shareAI-lab--Kode--20250908T232331215--cropped
 # [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode)
 
 open-source AI coding assistant for your terminal
+
+终端中的开源 AI 编程助手

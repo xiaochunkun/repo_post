@@ -7,3 +7,5 @@ image: assets/its_maestro_baby_maestro_20260223_164912_920_20260223_164952_595ed
 # [its-maestro-baby/maestro](https://github.com/its-maestro-baby/maestro)
 
 Runs AI coding assistants in parallel worktrees
+
+在并行工作树中运行AI编码助手

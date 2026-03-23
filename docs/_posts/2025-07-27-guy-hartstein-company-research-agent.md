@@ -7,3 +7,5 @@ image: assets/guy-hartstein_company-research-agent_cropped.png
 # [guy-hartstein/company-research-agent](https://github.com/guy-hartstein/company-research-agent)
 
 AI agent that researches companies for you
+
+AI 代理，为您研究公司信息

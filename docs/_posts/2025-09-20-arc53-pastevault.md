@@ -7,3 +7,5 @@ image: assets/20250920T065441458--arc53--pastevault--20250920T065526460--cropped
 # [arc53/pastevault](https://github.com/arc53/pastevault)
 
 E2EE pastebin with a VS Code-style editor and code syntax highlighting
+
+端到端加密的pastebin，具有VS Code风格编辑器和代码语法高亮

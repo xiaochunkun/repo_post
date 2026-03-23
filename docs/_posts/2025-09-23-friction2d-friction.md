@@ -7,3 +7,5 @@ image: assets/20250923T032430211--friction2d--friction--20250923T032827270--crop
 # [friction2d/friction](https://github.com/friction2d/friction)
 
 motion graphics tool for creating vector and raster animations
+
+用于创建矢量和栅格动画的动态图形工具

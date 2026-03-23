@@ -7,3 +7,5 @@ image: assets/Yuyz0112_claude-code-reverse_cropped.png
 # [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse)
 
 reverse engineering Claude Code with LLMs and visual tools
+
+使用LLM和可视化工具逆向工程Claude Code

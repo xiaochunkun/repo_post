@@ -7,3 +7,5 @@ image: assets/20250822T025402387--mylinuxforwork--dotfiles--20250822T030030351--
 # [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 
 Hyprland desktop configs with dynamic theming and easy setup
+
+Hyprland 桌面配置，支持动态主题和快速设置

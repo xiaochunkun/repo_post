@@ -7,3 +7,5 @@ image: assets/20250907T200223967--modelcontextprotocol--inspector--20250907T2004
 # [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)
 
 visual tool for testing and debugging MCP servers
+
+测试和调试 MCP 服务器的可视化工具

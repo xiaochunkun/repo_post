@@ -7,3 +7,5 @@ image: assets/hcavarsan_pipedash_20251120_023306_724_20251120_040957_9741df--202
 # [hcavarsan/pipedash](https://github.com/hcavarsan/pipedash/)
 
 Aggregates CI/CD pipelines from providers
+
+聚合多平台CI/CD流水线

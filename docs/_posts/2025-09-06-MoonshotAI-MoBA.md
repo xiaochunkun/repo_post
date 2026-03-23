@@ -7,3 +7,5 @@ image: assets/MoonshotAI_MoBA--20250905T033516208--cropped.png
 # [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA)
 
 efficient attention for long-context LLMs
+
+面向长上下文 LLM 的高效注意力机制

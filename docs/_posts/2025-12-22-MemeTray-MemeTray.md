@@ -7,3 +7,5 @@ image: assets/MemeTray_MemeTray_20251221_045016_564_20251221_045034_fbb389.png
 # [MemeTray/MemeTray](https://github.com/MemeTray/MemeTray/)
 
 GIF collection for system trays
+
+系统托盘的 GIF 合集

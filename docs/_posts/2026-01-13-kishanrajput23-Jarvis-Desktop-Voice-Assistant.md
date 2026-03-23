@@ -7,3 +7,5 @@ image: assets/kishanrajput23_Jarvis_Desktop_Voice_Assistant_20260111_182959_524_
 # [kishanrajput23/Jarvis-Desktop-Voice-Assistant](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant)
 
 Voice assistant for desktop automation
+
+桌面自动化语音助手

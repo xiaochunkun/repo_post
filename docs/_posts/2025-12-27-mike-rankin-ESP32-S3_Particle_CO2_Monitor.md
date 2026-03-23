@@ -7,3 +7,5 @@ image: assets/mike_rankin_ESP32_S3_Particle_CO2_Monitor_20251225_235402_705_2025
 # [mike-rankin/ESP32-S3_Particle_CO2_Monitor](https://github.com/mike-rankin/ESP32-S3_Particle_CO2_Monitor/)
 
 Air quality monitor plugs into wall outlets
+
+插入墙壁插座的空气质量监测器

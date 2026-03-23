@@ -7,3 +7,5 @@ image: assets/Lienol_openwrt_20260206_130105_160_20260206_130157_807ce1.png
 # [Lienol/openwrt](https://github.com/Lienol/openwrt)
 
 Linux operating system for embedded devices
+
+适用于嵌入式设备的Linux操作系统

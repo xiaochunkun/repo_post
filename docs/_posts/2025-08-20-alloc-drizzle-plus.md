@@ -7,3 +7,5 @@ image: assets/20250818T124132275_alloc_drizzle-plus--20250818T124747552--cropped
 # [alloc/drizzle-plus](https://github.com/alloc/drizzle-plus)
 
 Handy utilities and extensions for Drizzle ORM like upsert, count, and cursor helpers
+
+Drizzle ORM 的实用工具和扩展，如 upsert、count 和 cursor 助手

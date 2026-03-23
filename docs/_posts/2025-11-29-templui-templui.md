@@ -7,3 +7,5 @@ image: assets/templui_templui_20251126_113427_298_20251129_022729_9a4529--202511
 # [templui/templui](https://github.com/templui/templui/)
 
 UI components for Go using templ and Tailwind CSS
+
+使用 templ 和 Tailwind CSS 的 Go UI 组件

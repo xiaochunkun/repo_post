@@ -7,3 +7,5 @@ image: assets/V3lectronics_SPIRIT_20251221_144820_996_20251221_144845_cf8e0b.png
 # [V3lectronics/SPIRIT](https://github.com/V3lectronics/SPIRIT/)
 
 Open source smartphone from available components
+
+由可用组件构建的开源智能手机

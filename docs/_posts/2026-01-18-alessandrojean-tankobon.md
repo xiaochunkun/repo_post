@@ -7,3 +7,5 @@ image: assets/alessandrojean_tankobon_20260116_075537_369_20260116_075550_6c0de2
 # [alessandrojean/tankobon](https://github.com/alessandrojean/tankobon)
 
 Self-hosted manager for book collections
+
+自托管书籍收藏管理器

@@ -7,3 +7,5 @@ image: assets/talex_touch_tuff_20251216_042728_609_20251216_042803_4ea6fb.png
 # [talex-touch/tuff](https://github.com/talex-touch/tuff/)
 
 Open-source command bar with local-first AI
+
+具有本地优先AI的开源命令栏

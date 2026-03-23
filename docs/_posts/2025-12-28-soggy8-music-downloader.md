@@ -7,3 +7,5 @@ image: assets/soggy8_music_downloader_20251227_132417_647_20251227_132438_9b6951
 # [soggy8/music-downloader](https://github.com/soggy8/music-downloader/)
 
 Downloads music from YouTube to Navidrome with metadata
+
+从 YouTube 下载音乐到 Navidrome，附带元数据

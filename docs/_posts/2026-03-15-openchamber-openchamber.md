@@ -7,3 +7,5 @@ image: assets/openchamber_openchamber_20260315_115134_069_20260315_115234_bffe93
 # [openchamber/openchamber](https://github.com/openchamber/openchamber)
 
 Interface for OpenCode with cross-device continuity
+
+OpenCode 的界面，支持跨设备连续性

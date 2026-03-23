@@ -7,3 +7,5 @@ image: assets/badri_s2001_antigravity_claude_proxy_20251227_051648_176_20251227_
 # [badri-s2001/antigravity-claude-proxy](https://github.com/badri-s2001/antigravity-claude-proxy/)
 
 Proxy for Claude models via Google AI Pro subscription
+
+通过 Google AI Pro 订阅访问 Claude 模型的代理

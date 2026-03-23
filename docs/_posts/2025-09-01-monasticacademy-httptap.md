@@ -7,3 +7,5 @@ image: assets/20250831T003315342--monasticacademy--httptap--20250831T005403535--
 # [monasticacademy/httptap](https://github.com/monasticacademy/httptap)
 
 see HTTP requests from any Linux command
+
+查看任意 Linux 命令的 HTTP 请求

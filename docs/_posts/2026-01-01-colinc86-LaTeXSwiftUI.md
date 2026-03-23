@@ -7,3 +7,5 @@ image: assets/colinc86_LaTeXSwiftUI_20251231_222241_364_20251231_222257_a8ecb5.p
 # [colinc86/LaTeXSwiftUI](https://github.com/colinc86/LaTeXSwiftUI/)
 
 Renders LaTeX equations in SwiftUI views
+
+在SwiftUI视图中渲染LaTeX方程

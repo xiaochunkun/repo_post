@@ -7,3 +7,5 @@ image: assets/bananaofhappiness_soundscope_20251105_042157_537_20251105_123454_c
 # [bananaofhappiness/soundscope](https://github.com/bananaofhappiness/soundscope/)
 
 CLI tool for real-time audio analysis
+
+实时音频分析的CLI工具

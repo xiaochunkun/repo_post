@@ -7,3 +7,5 @@ image: assets/F1ash_qt_virt_manager_20251224_212044_602_20251224_212101_6be7dc.p
 # [F1ash/qt-virt-manager](https://github.com/F1ash/qt-virt-manager/)
 
 GUI for managing virtual machines
+
+管理虚拟机的 GUI

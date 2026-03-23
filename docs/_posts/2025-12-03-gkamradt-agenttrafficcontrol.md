@@ -7,3 +7,5 @@ image: assets/gkamradt_agenttrafficcontrol_20251201_044937_972_20251201_045018_5
 # [gkamradt/agenttrafficcontrol](https://github.com/gkamradt/agenttrafficcontrol/)
 
 Next.js dashboard monitors AI agent traffic
+
+监控 AI 代理流量的 Next.js 仪表板

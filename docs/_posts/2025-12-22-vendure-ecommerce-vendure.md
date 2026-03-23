@@ -7,3 +7,5 @@ image: assets/vendure_ecommerce_vendure_20251219_224618_861_20251219_224642_08da
 # [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure/)
 
 Headless commerce platform for TypeScript and Node.js
+
+面向TypeScript和Node.js的无头电商平台

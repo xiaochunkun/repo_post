@@ -7,3 +7,5 @@ image: assets/cbeuw_Cloak_20260203_070621_055_20260203_070708_17f378.png
 # [cbeuw/Cloak](https://github.com/cbeuw/Cloak)
 
 Masquerades proxy traffic as web browsing
+
+将代理流量伪装成网页浏览

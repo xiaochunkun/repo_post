@@ -7,3 +7,5 @@ image: assets/dimartarmizi_map_to_poster_20260228_102210_419_20260228_102339_d30
 # [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster)
 
 Turns locations into map posters
+
+将位置转换为地图海报

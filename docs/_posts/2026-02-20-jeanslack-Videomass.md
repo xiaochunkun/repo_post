@@ -7,3 +7,5 @@ image: assets/jeanslack_Videomass_20260211_101451_019_20260211_101520_a9e9c6.png
 # [jeanslack/Videomass](https://github.com/jeanslack/Videomass)
 
 GUI for FFmpeg on Linux, macOS, Windows, and FreeBSD
+
+适用于 Linux、macOS、Windows 和 FreeBSD 的 FFmpeg GUI

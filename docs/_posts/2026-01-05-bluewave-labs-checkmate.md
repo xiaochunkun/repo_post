@@ -7,3 +7,5 @@ image: assets/bluewave_labs_checkmate_20260103_190059_598_20260103_190122_565a3e
 # [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate/)
 
 Self-hosted tool for monitoring server hardware and uptime
+
+监控服务器硬件和运行时间的自托管工具

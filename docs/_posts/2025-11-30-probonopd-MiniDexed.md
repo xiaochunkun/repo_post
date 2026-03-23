@@ -7,3 +7,5 @@ image: assets/probonopd_MiniDexed_20251127_175137_814_20251130_035144_f97029--20
 # [probonopd/MiniDexed](https://github.com/probonopd/MiniDexed/)
 
 Bare metal Raspberry Pi FM synthesizer
+
+树莓派裸机 FM 合成器

@@ -7,3 +7,5 @@ image: assets/jatinkrmalik_vocalinux_20260201_025817_228_20260201_025857_8c8daf.
 # [jatinkrmalik/vocalinux](https://github.com/jatinkrmalik/vocalinux)
 
 Voice dictation for Linux with offline transcription
+
+支持离线转录的Linux语音听写工具

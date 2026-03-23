@@ -7,3 +7,5 @@ image: assets/20250925T041945338--google-deepmind--graphcast--20250925T042235189
 # [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
 
 example code and pretrained models for machine learning weather forecasting
+
+用于机器学习天气预报的示例代码和预训练模型

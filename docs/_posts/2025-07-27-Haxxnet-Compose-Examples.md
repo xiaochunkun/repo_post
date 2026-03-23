@@ -7,3 +7,5 @@ image: assets/Haxxnet_Compose-Examples_cropped.png
 # [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples)
 
 docker-compose files for selfhosted apps
+
+自托管应用的 docker-compose 文件

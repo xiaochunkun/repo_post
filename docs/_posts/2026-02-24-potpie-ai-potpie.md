@@ -7,3 +7,5 @@ image: assets/potpie_ai_potpie_20260209_074401_576_20260209_074524_6125e6.png
 # [potpie-ai/potpie](https://github.com/potpie-ai/potpie)
 
 Generates engineering agents from a codebase knowledge graph
+
+从代码库知识图谱生成工程代理

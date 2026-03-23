@@ -7,3 +7,5 @@ image: assets/javaistic_javaistic_20260207_064416_238_20260207_064441_8d97e3.png
 # [javaistic/javaistic](https://github.com/javaistic/javaistic)
 
 Platform for learning Java from fundamentals to advanced topics
+
+从基础到高级学习Java的平台

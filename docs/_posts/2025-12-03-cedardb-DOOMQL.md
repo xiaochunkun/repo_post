@@ -7,3 +7,5 @@ image: assets/cedardb_DOOMQL_20251201_043505_059_20251201_043527_5fcdf4.png
 # [cedardb/DOOMQL](https://github.com/cedardb/DOOMQL/)
 
 Multiplayer shooter implemented entirely in SQL
+
+完全用 SQL 实现的多人在线射击游戏

@@ -7,3 +7,5 @@ image: assets/20250823T013740065--nucleuscloud--neosync--20250823T014028560--cro
 # [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
 
 open source tool for anonymizing and generating synthetic data
+
+开源数据匿名化和合成数据生成工具

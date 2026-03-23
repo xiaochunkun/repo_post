@@ -7,3 +7,5 @@ image: assets/geerlingguy_beowulf_ai_cluster_20251105_002728_555_20251105_013752
 # [geerlingguy/beowulf-ai-cluster](https://github.com/geerlingguy/beowulf-ai-cluster/)
 
 Ansible playbooks for a distributed AI cluster
+
+分布式AI集群的Ansible剧本

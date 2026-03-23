@@ -7,3 +7,5 @@ image: assets/tale_headplane_20260207_055827_639_20260207_055848_c2bd02.png
 # [tale/headplane](https://github.com/tale/headplane)
 
 Web interface for Headscale to manage nodes and networks
+
+Headscale 的 Web 界面，用于管理节点和网络

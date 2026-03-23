@@ -7,3 +7,5 @@ image: assets/fraserxu_electron_pdf_20260311_202457_788_20260311_202650_02b2d7.p
 # [fraserxu/electron-pdf](https://github.com/fraserxu/electron-pdf)
 
 Generates PDFs from URLs and HTML files
+
+从 URL 和 HTML 文件生成 PDF

@@ -7,3 +7,5 @@ image: assets/microsoft_ai_agents_for_beginners_20260209_131616_205_20260209_131
 # [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
 Curriculum for building AI agents
+
+构建 AI 代理的课程

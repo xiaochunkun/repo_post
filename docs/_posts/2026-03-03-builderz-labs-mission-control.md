@@ -7,3 +7,5 @@ image: assets/builderz_labs_mission_control_20260302_025024_924_20260302_025144_
 # [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)
 
 Dashboard for AI agent orchestration
+
+AI代理编排仪表板

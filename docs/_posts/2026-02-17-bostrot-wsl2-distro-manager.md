@@ -7,3 +7,5 @@ image: assets/bostrot_wsl2_distro_manager_20260123_175240_921_20260123_175258_41
 # [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)
 
 GUI for managing WSL2 instances and Docker images
+
+管理WSL2实例和Docker镜像的GUI

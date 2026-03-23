@@ -7,3 +7,5 @@ image: assets/trimstray_the-book-of-secret-knowledge_cropped.png
 # [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 huge list of tech resources, cheatsheets, and tools
+
+海量技术资源、速查表和工具列表

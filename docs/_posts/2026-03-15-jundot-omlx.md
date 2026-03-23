@@ -7,3 +7,5 @@ image: assets/jundot_omlx_20260313_212535_710_20260313_212708_664a7c.png
 # [jundot/omlx](https://github.com/jundot/omlx)
 
 LLM inference server for Apple Silicon
+
+Apple Silicon 的 LLM 推理服务器

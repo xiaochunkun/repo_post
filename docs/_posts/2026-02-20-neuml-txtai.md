@@ -7,3 +7,5 @@ image: assets/neuml_txtai_20260202_234815_272_20260202_234902_dd3292.png
 # [neuml/txtai](https://github.com/neuml/txtai)
 
 Framework for semantic search and LLM orchestration
+
+语义搜索和 LLM 编排框架

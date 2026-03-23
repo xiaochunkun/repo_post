@@ -7,3 +7,5 @@ image: assets/nathanmcnulty_defender_reporting_20260211_105725_686_20260211_1057
 # [nathanmcnulty/defender-reporting](https://github.com/nathanmcnulty/defender-reporting)
 
 Generates HTML dashboards from Defender for Endpoint APIs via PowerShell
+
+通过PowerShell从Defender for Endpoint API生成HTML仪表板

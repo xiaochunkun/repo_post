@@ -7,3 +7,5 @@ image: assets/icbestCA_giftmanager_20251122_213143_490_20251123_001628_75dd81--2
 # [icbestCA/giftmanager](https://github.com/icbestCA/giftmanager/)
 
 Manages family gift lists and Secret Santa
+
+管理家庭礼物列表和 Secret Santa

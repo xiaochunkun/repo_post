@@ -7,3 +7,5 @@ image: assets/rany2_edge-tts_cropped.png
 # [rany2/edge-tts](https://github.com/rany2/edge-tts)
 
 Python module for using Microsoft Edge's text-to-speech service
+
+使用 Microsoft Edge 文本到语音服务的 Python 模块

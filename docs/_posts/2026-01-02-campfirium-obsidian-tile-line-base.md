@@ -7,3 +7,5 @@ image: assets/campfirium_obsidian_tile_line_base_20260101_095648_230_20260101_09
 # [campfirium/obsidian-tile-line-base](https://github.com/campfirium/obsidian-tile-line-base/)
 
 Plain-text database for Obsidian with tables and kanban boards
+
+Obsidian的纯文本数据库，支持表格和看板

@@ -7,3 +7,5 @@ image: assets/dotenvx_dotenvx_20260227_124552_487_20260227_124755_565211.png
 # [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
 
 Encrypts environment variables across platforms
+
+跨平台加密环境变量

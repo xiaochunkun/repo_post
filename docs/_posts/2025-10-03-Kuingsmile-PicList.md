@@ -7,3 +7,5 @@ image: assets/20251003T031711131--Kuingsmile--PicList--20251003T032019271--cropp
 # [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList)
 
 cloud image storage and management tool with PicGo compatibility
+
+云图像存储和管理工具，兼容PicGo

@@ -7,3 +7,5 @@ image: assets/moeru_ai_airi_20260225_115403_041_20260225_115537_188afe.png
 # [moeru-ai/airi](https://github.com/moeru-ai/airi)
 
 Host for AI characters with voice chat and game integration
+
+支持语音聊天和游戏集成的AI角色托管平台

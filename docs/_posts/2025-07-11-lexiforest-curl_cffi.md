@@ -7,3 +7,5 @@ image: assets/lexiforest_curl_cffi_cropped.png
 # [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi)
 
 Python HTTP requests with browser fingerprinting
+
+支持浏览器指纹识别的Python HTTP请求库

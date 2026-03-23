@@ -7,3 +7,5 @@ image: assets/huggingface_text-generation-inference_cropped.png
 # [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
 
 Toolkit for serving and running large language models through an inference server
+
+用于通过推理服务器运行大型语言模型的工具包

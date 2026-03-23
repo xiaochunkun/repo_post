@@ -7,3 +7,5 @@ image: assets/dangvansam_livekit_plugins_tenvad_20251201_091411_517_20251201_091
 # [dangvansam/livekit-plugins-tenvad](https://github.com/dangvansam/livekit-plugins-tenvad/)
 
 Real-time voice activity detection for LiveKit
+
+LiveKit的实时语音活动检测

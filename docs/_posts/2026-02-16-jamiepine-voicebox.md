@@ -7,3 +7,5 @@ image: assets/jamiepine_voicebox_20260131_135757_816_20260131_135846_14d24f.png
 # [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
 
 Clones voices and generates speech locally
+
+本地克隆语音并生成语音

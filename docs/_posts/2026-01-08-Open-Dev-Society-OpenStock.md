@@ -7,3 +7,5 @@ image: assets/Open_Dev_Society_OpenStock_20260108_032329_946_20260108_032350_137
 # [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
 Stock market platform with real-time prices and heatmaps
+
+具有实时价格和热图的股票市场平台

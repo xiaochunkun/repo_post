@@ -7,3 +7,5 @@ image: assets/deyaa1251_HostMonk_20260112_002310_582_20260112_002324_6503c5.png
 # [deyaa1251/HostMonk](https://github.com/deyaa1251/HostMonk)
 
 Terminal dashboard for self-hosted applications
+
+自托管应用的终端仪表板

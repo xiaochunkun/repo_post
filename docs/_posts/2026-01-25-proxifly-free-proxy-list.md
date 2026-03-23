@@ -7,3 +7,5 @@ image: assets/proxifly_free_proxy_list_20260122_020520_182_20260122_020534_7d95f
 # [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list)
 
 Fetches and validates proxies from 101 countries every 5 minutes
+
+每5分钟从101个国家获取并验证代理

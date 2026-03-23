@@ -7,3 +7,5 @@ image: assets/googleworkspace_cli_20260305_074149_753_20260305_074318_0f1ab3.png
 # [googleworkspace/cli](https://github.com/googleworkspace/cli)
 
 Command-line interface for Google Workspace with dynamic command generation
+
+具有动态命令生成的 Google Workspace CLI

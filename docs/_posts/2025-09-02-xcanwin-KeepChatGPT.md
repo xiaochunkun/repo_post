@@ -7,3 +7,5 @@ image: assets/20250831T020055276--xcanwin--KeepChatGPT--20250831T020806280--crop
 # [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 
 KeepChatGPT plugin for smoother, uninterrupted ChatGPT chats
+
+KeepChatGPT 插件，让 ChatGPT 对话更流畅不中断

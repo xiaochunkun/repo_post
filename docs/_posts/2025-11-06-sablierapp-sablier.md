@@ -7,3 +7,5 @@ image: assets/sablierapp_sablier_20251106_135718_665_20251106_173842_09cf38--202
 # [sablierapp/sablier](https://github.com/sablierapp/sablier/)
 
 Starts workloads on demand and stops them after inactivity
+
+按需启动工作负载，闲置后自动停止

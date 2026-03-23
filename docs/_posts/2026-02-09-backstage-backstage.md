@@ -7,3 +7,5 @@ image: assets/backstage_backstage_20260208_064727_508_20260208_064755_48bc21.png
 # [backstage/backstage](https://github.com/backstage/backstage)
 
 Framework for building developer portals
+
+构建开发者门户的框架

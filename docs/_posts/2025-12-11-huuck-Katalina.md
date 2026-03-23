@@ -7,3 +7,5 @@ image: assets/huuck_Katalina_20251208_233132_723_20251208_233154_f1306b.png
 # [huuck/Katalina](https://github.com/huuck/Katalina/)
 
 Executes Android bytecode one instruction at a time
+
+逐条执行Android字节码指令

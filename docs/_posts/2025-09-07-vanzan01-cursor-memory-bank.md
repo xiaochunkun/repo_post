@@ -7,3 +7,5 @@ image: assets/20250906T222615931--vanzan01--cursor-memory-bank--20250906T2228167
 # [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank)
 
 AI-powered task manager for Cursor workflows
+
+面向 Cursor 工作流的 AI 任务管理器

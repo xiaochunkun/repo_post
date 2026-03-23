@@ -7,3 +7,5 @@ image: assets/ad_si_awesome_music_production_20251031_160157_116_20251102_215627
 # [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production/)
 
 List of software and hardware for music production
+
+音乐制作软硬件列表

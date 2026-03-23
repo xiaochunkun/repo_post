@@ -7,3 +7,5 @@ image: assets/OneUptime_oneuptime_20260308_204729_594_20260308_204947_882b24.png
 # [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
 
 Observability platform for monitoring and managing online services
+
+用于监控和管理在线服务的可观测性平台

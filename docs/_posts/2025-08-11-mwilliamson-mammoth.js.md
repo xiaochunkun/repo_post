@@ -7,3 +7,5 @@ image: assets/20250810T070010--mwilliamson--mammoth.js--20250811T003301--cropped
 # [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js)
 
 convert .docx files to HTML with JavaScript
+
+使用JavaScript将.docx文件转换为HTML

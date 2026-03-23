@@ -7,3 +7,5 @@ image: assets/marian2js_opengoat_20260215_031130_511_20260215_031247_ddc2dd.png
 # [marian2js/opengoat](https://github.com/marian2js/opengoat)
 
 Hierarchical organizations of agents coordinating across tools
+
+跨工具协调的代理分层组织

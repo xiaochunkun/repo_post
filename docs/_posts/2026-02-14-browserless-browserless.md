@@ -7,3 +7,5 @@ image: assets/browserless_browserless_20260209_212626_111_20260209_212648_90ce63
 # [browserless/browserless](https://github.com/browserless/browserless)
 
 Headless browsers in Docker
+
+Docker 中的无头浏览器

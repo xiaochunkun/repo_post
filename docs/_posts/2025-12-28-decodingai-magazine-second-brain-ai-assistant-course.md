@@ -7,3 +7,5 @@ image: assets/decodingai_magazine_second_brain_ai_assistant_course_20251227_0943
 # [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course/)
 
 Course on building agentic RAG systems
+
+构建代理式 RAG 系统的课程

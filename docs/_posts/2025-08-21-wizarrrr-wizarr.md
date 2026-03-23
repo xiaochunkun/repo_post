@@ -7,3 +7,5 @@ image: assets/20250820T132527442_wizarrrr_wizarr--20250820T135402659--cropped.pn
 # [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
 
 automatic invites for Plex, Jellyfin, Emby and more
+
+Plex、Jellyfin、Emby 等媒体服务器的自动邀请管理工具

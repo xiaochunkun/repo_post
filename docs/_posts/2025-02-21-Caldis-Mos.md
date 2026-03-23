@@ -7,3 +7,5 @@ image: assets/Caldis_Mos_cropped.png
 # [Caldis/Mos](https://github.com/Caldis/Mos)
 
 Smooth mouse scrolling for macOS
+
+macOS 平滑鼠标滚动

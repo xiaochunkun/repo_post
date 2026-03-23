@@ -7,3 +7,5 @@ image: assets/2KAbhishek_tdo_20260115_142926_150_20260115_142942_ed3d45.png
 # [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo)
 
 Command line note system with natural language dates and git integration
+
+具有自然语言日期和 git 集成的命令行笔记系统

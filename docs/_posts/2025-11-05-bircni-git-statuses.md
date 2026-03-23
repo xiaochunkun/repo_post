@@ -7,3 +7,5 @@ image: assets/bircni_git_statuses_20251105_025220_603_20251105_123233_0e2a0d--20
 # [bircni/git-statuses](https://github.com/bircni/git-statuses/)
 
 Command-line tool to display the status of multiple Git repositories in a table
+
+以表格显示多个Git仓库状态的命令行工具

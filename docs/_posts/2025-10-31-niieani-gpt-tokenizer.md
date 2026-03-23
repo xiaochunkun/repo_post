@@ -7,3 +7,5 @@ image: assets/niieani_gpt_tokenizer_20251031_013805_029_20251031_015053_0b3941--
 # [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer/)
 
 Fast and small JavaScript tokenizer for OpenAI models
+
+OpenAI 模型的快速小型 JavaScript 分词器

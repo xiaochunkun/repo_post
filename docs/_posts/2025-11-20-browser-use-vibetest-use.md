@@ -7,3 +7,5 @@ image: assets/browser_use_vibetest_use_20251119_220725_535_20251120_003545_7b424
 # [browser-use/vibetest-use](https://github.com/browser-use/vibetest-use/)
 
 Automated QA testing with multiple browser agents
+
+使用多个浏览器代理进行自动化 QA 测试

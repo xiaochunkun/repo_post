@@ -7,3 +7,5 @@ image: assets/suitedaces_dorabot_20260309_214945_905_20260309_215212_b6bc25.png
 # [suitedaces/dorabot](https://github.com/suitedaces/dorabot)
 
 AI agent with integrated IDE workspace for macOS
+
+集成IDE工作空间的macOS AI代理

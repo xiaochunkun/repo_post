@@ -7,3 +7,5 @@ image: assets/ComposioHQ_open_gamma_20260222_095707_312_20260222_095750_7012a2.p
 # [ComposioHQ/open-gamma](https://github.com/ComposioHQ/open-gamma)
 
 AI agent generates Google Slides via Vercel AI SDK
+
+AI代理通过Vercel AI SDK生成Google Slides

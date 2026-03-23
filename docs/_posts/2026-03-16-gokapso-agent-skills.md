@@ -7,3 +7,5 @@ image: assets/gokapso_agent_skills_20260316_041642_899_20260316_041730_9b8e10.pn
 # [gokapso/agent-skills](https://github.com/gokapso/agent-skills)
 
 WhatsApp agent skills for automation
+
+WhatsApp 自动化代理技能

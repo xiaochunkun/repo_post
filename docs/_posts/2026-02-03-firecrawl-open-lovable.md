@@ -7,3 +7,5 @@ image: assets/firecrawl_open_lovable_20260203_120103_884_20260203_120131_ad9acc.
 # [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)
 
 Clones websites into React apps with AI
+
+使用 AI 将网站克隆为 React 应用

@@ -7,3 +7,5 @@ image: assets/mx_seer_seer_20260111_145111_811_20260111_145125_665e20.png
 # [mx-seer/seer](https://github.com/mx-seer/seer)
 
 Monitors developer platforms for market opportunities
+
+监控开发者平台以发现市场机会

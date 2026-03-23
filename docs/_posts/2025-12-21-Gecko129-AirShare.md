@@ -7,3 +7,5 @@ image: assets/Gecko129_AirShare_20251219_153655_770_20251219_153712_5a4792.png
 # [Gecko129/AirShare](https://github.com/Gecko129/AirShare/)
 
 Transfers files over local networks
+
+在本地网络传输文件

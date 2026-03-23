@@ -7,3 +7,5 @@ image: assets/YS_L_csvlens_20260203_165958_988_20260203_170027_63d312.png
 # [YS-L/csvlens](https://github.com/YS-L/csvlens)
 
 Command line CSV viewer with vim-like keybindings
+
+带类vim键绑定的命令行CSV查看器

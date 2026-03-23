@@ -7,3 +7,5 @@ image: assets/desertwitch_par2cron_20260201_070442_985_20260201_070519_e25dd0.pn
 # [desertwitch/par2cron](https://github.com/desertwitch/par2cron)
 
 Automates file integrity repair for directory trees
+
+自动化目录树文件完整性修复

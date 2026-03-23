@@ -7,3 +7,5 @@ image: assets/microsoft_apm_20260308_175615_156_20260308_175755_6679e3.png
 # [microsoft/apm](https://github.com/microsoft/apm)
 
 Dependency manager for AI agent skills and prompts
+
+AI代理技能和提示的依赖管理器

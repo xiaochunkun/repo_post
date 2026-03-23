@@ -7,3 +7,5 @@ image: assets/micromata_awesome-javascript-learning_cropped.png
 # [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning)
 
 Curated list of JavaScript learning resources and tutorials
+
+JavaScript学习资源和教程的精选列表

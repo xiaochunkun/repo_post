@@ -7,3 +7,5 @@ image: assets/jehna_humanify_cropped.png
 # [jehna/humanify](https://github.com/jehna/humanify)
 
 turns messy JavaScript into readable code with AI
+
+使用 AI 将混乱的 JavaScript 转换为可读代码

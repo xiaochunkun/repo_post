@@ -7,3 +7,5 @@ image: assets/condorheroblog_react_antd_admin_20251213_140019_940_20251213_14005
 # [condorheroblog/react-antd-admin](https://github.com/condorheroblog/react-antd-admin/)
 
 Admin dashboard template using React Hooks and Vite
+
+使用React Hooks和Vite的管理仪表板模板

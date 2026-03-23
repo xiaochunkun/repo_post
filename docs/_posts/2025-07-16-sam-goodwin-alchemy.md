@@ -7,3 +7,5 @@ image: assets/sam-goodwin_alchemy_cropped.png
 # [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy)
 
 JS-native infra-as-code library built for gen-AI
+
+专为生成式 AI 构建的 JS 原生基础设施即代码库

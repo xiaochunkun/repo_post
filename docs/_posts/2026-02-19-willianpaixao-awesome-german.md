@@ -7,3 +7,5 @@ image: assets/willianpaixao_awesome_german_20260121_225236_741_20260121_225253_2
 # [willianpaixao/awesome-german](https://github.com/willianpaixao/awesome-german)
 
 Resources for learning German
+
+学习德语的资源

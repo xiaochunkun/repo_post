@@ -7,3 +7,5 @@ image: assets/krayin_laravel-crm_cropped.png
 # [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
 
 Open-source Laravel CRM for customer lifecycle management
+
+开源的 Laravel CRM，用于客户生命周期管理

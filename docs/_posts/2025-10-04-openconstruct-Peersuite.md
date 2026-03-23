@@ -7,3 +7,5 @@ image: assets/20251003T230102160--openconstruct--Peersuite--20251003T230814366--
 # [openconstruct/Peersuite](https://github.com/openconstruct/Peersuite)
 
 peer-to-peer chat, calls, docs, kanban, whiteboard, no server needed
+
+点对点聊天、通话、文档、看板和白板，无需服务器

@@ -7,3 +7,5 @@ image: assets/ConardLi_easy_dataset_20260205_070618_979_20260205_070635_f0a128.p
 # [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)
 
 Converts documents into datasets for LLM fine-tuning
+
+将文档转换为LLM微调数据集

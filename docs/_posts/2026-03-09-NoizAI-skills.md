@@ -7,3 +7,5 @@ image: assets/NoizAI_skills_20260304_111903_441_20260304_112044_fd346e.png
 # [NoizAI/skills](https://github.com/NoizAI/skills)
 
 Voice generation and translation skills for AI bots
+
+用于AI机器人的语音生成和翻译技能

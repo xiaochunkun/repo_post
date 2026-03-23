@@ -7,3 +7,5 @@ image: assets/20250831T022135824--ianstormtaylor--slate--20250831T025242030--cro
 # [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)
 
 customizable framework for building rich text editors
+
+可定制的富文本编辑器构建框架

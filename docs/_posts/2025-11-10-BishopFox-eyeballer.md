@@ -7,3 +7,5 @@ image: assets/BishopFox_eyeballer_20251110_011243_296_20251110_014219_c1689d--20
 # [BishopFox/eyeballer](https://github.com/BishopFox/eyeballer/)
 
 Finds penetration testing targets from website screenshots
+
+从网站截图发现渗透测试目标

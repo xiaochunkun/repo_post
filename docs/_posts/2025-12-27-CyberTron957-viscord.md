@@ -7,3 +7,5 @@ image: assets/CyberTron957_viscord_20251226_052812_361_20251226_052829_54cb66.pn
 # [CyberTron957/viscord](https://github.com/CyberTron957/viscord/)
 
 Shows GitHub activity in VS Code
+
+在 VS Code 中显示 GitHub 活动

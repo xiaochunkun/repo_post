@@ -7,3 +7,5 @@ image: assets/20250820T132202757_opencost_opencost--20250820T132436825--cropped.
 # [opencost/opencost](https://github.com/opencost/opencost)
 
 OpenCost shows you where your Kubernetes and cloud spend goes, breaking down costs by cluster, namespace, or service in real time
+
+实时查看 Kubernetes 和云服务的成本明细，按集群、命名空间或服务维度拆分

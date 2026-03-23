@@ -7,3 +7,5 @@ image: assets/FelipeFTN_Emoji_Copy_20251213_092207_034_20251213_092232_50f3aa.pn
 # [FelipeFTN/Emoji-Copy](https://github.com/FelipeFTN/Emoji-Copy/)
 
 GNOME shell extension for emoji search
+
+用于表情符号搜索的 GNOME shell 扩展

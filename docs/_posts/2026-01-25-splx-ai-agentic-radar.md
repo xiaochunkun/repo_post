@@ -7,3 +7,5 @@ image: assets/splx_ai_agentic_radar_20260122_032828_042_20260122_032844_cf19f8.p
 # [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar)
 
 Scans agentic workflows for security vulnerabilities
+
+扫描Agentic工作流的安全漏洞

@@ -7,3 +7,5 @@ image: assets/tailwindlabs_heroicons_cropped.png
 # [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
 
 SVG icons for Tailwind projects
+
+Tailwind项目的SVG图标

@@ -7,3 +7,5 @@ image: assets/PaddlePaddle_PaddleOCR_20260108_035004_577_20260108_035019_f99e6f.
 # [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 Converts images and documents into structured data
+
+将图像和文档转换为结构化数据

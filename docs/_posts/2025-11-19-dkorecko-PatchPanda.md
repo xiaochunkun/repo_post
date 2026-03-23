@@ -7,3 +7,5 @@ image: assets/dkorecko_PatchPanda_20251118_103939_622_20251119_212308_a82071--20
 # [dkorecko/PatchPanda](https://github.com/dkorecko/PatchPanda/)
 
 Self-hostable Docker Compose update manager
+
+可自托管的 Docker Compose 更新管理器

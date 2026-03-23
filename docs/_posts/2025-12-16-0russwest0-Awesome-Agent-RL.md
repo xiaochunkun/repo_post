@@ -7,3 +7,5 @@ image: assets/0russwest0_Awesome_Agent_RL_20251213_132138_765_20251213_132214_c1
 # [0russwest0/Awesome-Agent-RL](https://github.com/0russwest0/Awesome-Agent-RL/)
 
 Curated papers on agent reinforcement learning
+
+关于智能体强化学习的精选论文集

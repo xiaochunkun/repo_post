@@ -7,3 +7,5 @@ image: assets/mierak_rmpc_20251201_055824_267_20251201_055848_5df1cc.png
 # [mierak/rmpc](https://github.com/mierak/rmpc/)
 
 Terminal-based Music Player Daemon client with album art support
+
+支持专辑封面的终端Music Player Daemon客户端

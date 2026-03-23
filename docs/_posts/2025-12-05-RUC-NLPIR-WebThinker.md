@@ -7,3 +7,5 @@ image: assets/RUC_NLPIR_WebThinker_20251203_000511_766_20251203_000542_abbf33.pn
 # [RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker/)
 
 Empowers reasoning models with deep research capabilities
+
+通过深度研究能力增强推理模型

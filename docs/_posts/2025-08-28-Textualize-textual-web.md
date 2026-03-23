@@ -7,3 +7,5 @@ image: assets/20250827T101024824--Textualize--textual-web--20250827T101406547--c
 # [Textualize/textual-web](https://github.com/Textualize/textual-web)
 
 run terminal apps in your browser with Python
+
+用 Python 在浏览器中运行终端应用

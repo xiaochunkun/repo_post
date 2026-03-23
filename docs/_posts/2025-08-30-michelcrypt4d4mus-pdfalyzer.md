@@ -7,3 +7,5 @@ image: assets/20250830T040800184--michelcrypt4d4mus--pdfalyzer--20250830T0413062
 # [michelcrypt4d4mus/pdfalyzer](https://github.com/michelcrypt4d4mus/pdfalyzer)
 
 PDF tree visualizer and malware scanner
+
+PDF 树形结构可视化和恶意软件扫描工具

@@ -7,3 +7,5 @@ image: assets/jwohlwend_boltz_cropped.png
 # [jwohlwend/boltz](https://github.com/jwohlwend/boltz)
 
 boltz: models for predicting biomolecular interactions
+
+boltz：预测生物分子相互作用的模型

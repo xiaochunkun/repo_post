@@ -7,3 +7,5 @@ image: assets/adrianhajdin_banking_20251111_171011_530_20251112_021812_a5a57e--2
 # [adrianhajdin/banking](https://github.com/adrianhajdin/banking/)
 
 Fintech banking application with Next.js
+
+使用Next.js的金融科技银行应用

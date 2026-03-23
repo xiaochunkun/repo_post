@@ -7,3 +7,5 @@ image: assets/killbill_killbill_20251114_202127_803_20251115_035712_b29d2b--2025
 # [killbill/killbill](https://github.com/killbill/killbill/)
 
 Open-source subscription billing platform to avoid vendor lock-in
+
+避免供应商锁定的开源订阅计费平台

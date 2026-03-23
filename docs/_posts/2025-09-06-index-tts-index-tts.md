@@ -7,3 +7,5 @@ image: assets/20250906T022628696--index-tts--index-tts--20250906T022827920--crop
 # [index-tts/index-tts](https://github.com/index-tts/index-tts)
 
 zero-shot text-to-speech with voice cloning for English and Chinese
+
+支持中英文语音克隆的零样本文字转语音

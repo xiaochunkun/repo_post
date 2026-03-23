@@ -7,3 +7,5 @@ image: assets/TigerVNC_tigervnc_cropped.png
 # [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc)
 
 Remote desktop sharing software for connecting to and controlling computers over a network
+
+用于通过网络连接和控制计算机的远程桌面共享软件

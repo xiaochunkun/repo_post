@@ -7,3 +7,5 @@ image: assets/nektos_act_cropped.png
 # [nektos/act](https://github.com/nektos/act)
 
 Run GitHub Actions locally
+
+本地运行GitHub Actions

@@ -7,3 +7,5 @@ image: assets/brandonp2412_Quitter_20260104_095234_414_20260104_095251_795fd6.pn
 # [brandonp2412/Quitter](https://github.com/brandonp2412/Quitter/)
 
 Tracks habits without internet access or data collection
+
+无需互联网或数据收集的习惯追踪器

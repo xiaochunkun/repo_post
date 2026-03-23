@@ -7,3 +7,5 @@ image: assets/20250815T012931636_lucaswalter_n8n-ai-automations--20250815T013103
 # [lucaswalter/n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations)
 
 AI-powered n8n workflow and agent templates for automation
+
+AI驱动的n8n工作流和代理模板，用于自动化

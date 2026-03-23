@@ -7,3 +7,5 @@ image: assets/20250826T033712312--juehang--vscode-mcp-server--20250826T034836394
 # [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server)
 
 lets Claude and other AI tools access VS Code features via MCP
+
+让 Claude 等 AI 工具通过 MCP 访问 VS Code 功能

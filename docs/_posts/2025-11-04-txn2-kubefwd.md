@@ -7,3 +7,5 @@ image: assets/txn2_kubefwd_20251031_165052_183_20251102_220548_48a189--20251102T
 # [txn2/kubefwd](https://github.com/txn2/kubefwd/)
 
 Port forward multiple services in Kubernetes clusters
+
+在Kubernetes集群中端口转发多个服务

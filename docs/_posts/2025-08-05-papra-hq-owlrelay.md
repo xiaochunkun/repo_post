@@ -7,3 +7,5 @@ image: assets/papra-hq_owlrelay_cropped.png
 # [papra-hq/owlrelay](https://github.com/papra-hq/owlrelay)
 
 turn emails into webhooks or API triggers
+
+将电子邮件转换为 Webhooks 或 API 触发器

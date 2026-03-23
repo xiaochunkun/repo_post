@@ -7,3 +7,5 @@ image: assets/alemem64_Noxionite_20251231_062857_605_20251231_062915_64a257.png
 # [alemem64/Noxionite](https://github.com/alemem64/Noxionite/)
 
 Blog engine for Notion pages
+
+用于Notion页面的博客引擎

@@ -7,3 +7,5 @@ image: assets/pezzolabs_pezzo_20260212_152140_110_20260212_152211_9e3be5.png
 # [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo)
 
 LLMOps platform for prompt design and observability
+
+用于提示设计和可观测性的 LLMOps 平台

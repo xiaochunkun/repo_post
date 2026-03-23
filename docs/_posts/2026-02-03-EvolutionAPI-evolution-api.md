@@ -7,3 +7,5 @@ image: assets/EvolutionAPI_evolution_api_20260202_212343_719_20260202_212411_5be
 # [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
 
 WhatsApp integration API for chatbots and automation
+
+用于聊天机器人和自动化的 WhatsApp 集成 API

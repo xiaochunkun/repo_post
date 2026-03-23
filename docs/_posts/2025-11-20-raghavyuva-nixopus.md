@@ -7,3 +7,5 @@ image: assets/raghavyuva_nixopus_20251120_042816_380_20251120_141658_57ddf8--202
 # [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus/)
 
 Self-hosted alternative to Vercel and Heroku
+
+自托管Vercel和Heroku替代方案

@@ -7,3 +7,5 @@ image: assets/fishaudio_fish_speech_20251018_062411_350_20251018_131510--2025101
 # [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech/)
 
 High-quality multilingual voice cloning
+
+高质量多语言语音克隆

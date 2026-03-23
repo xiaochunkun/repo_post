@@ -7,3 +7,5 @@ image: assets/20250820T142629873--0xERR0R--blocky--20250820T143550419--cropped.p
 # [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
 
 DNS proxy and ad-blocker for local networks
+
+本地网络 DNS 代理和广告拦截器

@@ -7,3 +7,5 @@ image: assets/deep_elegant_kavim_20260106_161156_192_20260106_161213_eb9c77.png
 # [deep-elegant/kavim](https://github.com/deep-elegant/kavim/)
 
 Canvas for brainstorming with friends and AI models locally
+
+本地与朋友和 AI 模型进行头脑风暴的画布

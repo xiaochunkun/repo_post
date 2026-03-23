@@ -7,3 +7,5 @@ image: assets/20250827T222117746--Nutlope--notesGPT--20250827T223243205--cropped
 # [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT)
 
 turn voice notes into summaries and action items with AI
+
+AI 将语音笔记转换为摘要和待办事项

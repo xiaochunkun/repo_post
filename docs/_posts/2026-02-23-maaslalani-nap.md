@@ -7,3 +7,5 @@ image: assets/maaslalani_nap_20260220_110324_304_20260220_110352_f602a3.png
 # [maaslalani/nap](https://github.com/maaslalani/nap)
 
 Code snippet manager for the terminal
+
+终端代码片段管理器

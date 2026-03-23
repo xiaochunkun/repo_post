@@ -7,3 +7,5 @@ image: assets/Zeyi_Lin_HivisionIDPhotos_20260108_033327_378_20260108_033344_db79
 # [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 
 Generates ID photos with background removal and size adjustment
+
+生成证件照，支持背景去除和尺寸调整

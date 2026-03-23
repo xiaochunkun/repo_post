@@ -7,3 +7,5 @@ image: assets/avinash201199_founders_kit_20260309_075951_095_20260309_080227_717
 # [avinash201199/founders-kit](https://github.com/avinash201199/founders-kit)
 
 Directory of resources and tools for startup development
+
+初创公司开发的资源和工具目录

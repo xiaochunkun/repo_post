@@ -7,3 +7,5 @@ image: assets/qdhenry_Claude_Command_Suite_20260301_215359_076_20260301_215525_3
 # [qdhenry/Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite)
 
 Slash commands and agents for software engineering tasks
+
+软件工程任务的斜杠命令和代理

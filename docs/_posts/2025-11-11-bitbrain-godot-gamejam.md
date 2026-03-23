@@ -7,3 +7,5 @@ image: assets/bitbrain_godot_gamejam_20251111_033100_632_20251111_145548_6c652e-
 # [bitbrain/godot-gamejam](https://github.com/bitbrain/godot-gamejam/)
 
 Game jam template with save integration and itch.io deployment
+
+集成保存功能和itch.io部署的游戏Jam模板

@@ -7,3 +7,5 @@ image: assets/ChqJourney_Photonee_Pro_20260121_202813_955_20260121_202835_b482be
 # [ChqJourney/Photonee_Pro](https://github.com/ChqJourney/Photonee_Pro)
 
 Image viewer with background removal
+
+带背景移除功能的图像查看器

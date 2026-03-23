@@ -7,3 +7,5 @@ image: assets/ClovaLink_ClovaLink_20260207_105034_377_20260207_105100_ef428c.png
 # [ClovaLink/ClovaLink](https://github.com/ClovaLink/ClovaLink)
 
 Self-hosted file management platform with Rust and React
+
+自托管的文件管理平台，使用 Rust 和 React

@@ -7,3 +7,5 @@ image: assets/ghostbyte_dev_pixelix_20251025_230629_705_20251025_230836_cb8e53--
 # [ghostbyte-dev/pixelix](https://github.com/ghostbyte-dev/pixelix/)
 
 Android client for the Pixelfed social network
+
+Pixelfed社交网络的Android客户端

@@ -7,3 +7,5 @@ image: assets/ar51an_unbound_dashboard_20251224_193511_569_20251224_193531_89975
 # [ar51an/unbound-dashboard](https://github.com/ar51an/unbound-dashboard/)
 
 Visualizes Unbound DNS metrics in Grafana
+
+在 Grafana 中可视化 Unbound DNS 指标

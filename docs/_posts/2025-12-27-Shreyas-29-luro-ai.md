@@ -7,3 +7,5 @@ image: assets/Shreyas_29_luro_ai_20251225_150039_251_20251225_150057_aaf3be.png
 # [Shreyas-29/luro-ai](https://github.com/Shreyas-29/luro-ai/)
 
 Social media marketing platform with analytics and content creation
+
+带有分析和内容创建功能的社交媒体营销平台

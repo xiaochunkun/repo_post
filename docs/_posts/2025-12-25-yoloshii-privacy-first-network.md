@@ -7,3 +7,5 @@ image: assets/yoloshii_privacy_first_network_20251224_160932_290_20251224_160950
 # [yoloshii/privacy-first-network](https://github.com/yoloshii/privacy-first-network/)
 
 VPN gateway for home networks
+
+家庭网络的 VPN 网关

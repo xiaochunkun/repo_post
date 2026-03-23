@@ -7,3 +7,5 @@ image: assets/ArtLabss_open_data_anonymizer_20260131_001206_015_20260131_001250_
 # [ArtLabss/open-data-anonymizer](https://github.com/ArtLabss/open-data-anonymizer)
 
 Anonymizes images, PDFs, and tabular data
+
+匿名化图像、PDF 和表格数据

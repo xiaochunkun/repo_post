@@ -7,3 +7,5 @@ image: assets/pierpaolo28_Awesome_Bootstrapper_Roadmap_20260113_090131_432_20260
 # [pierpaolo28/Awesome-Bootstrapper-Roadmap](https://github.com/pierpaolo28/Awesome-Bootstrapper-Roadmap)
 
 Roadmap for bootstrapping startups with open source alternatives
+
+使用开源替代方案引导初创公司的路线图

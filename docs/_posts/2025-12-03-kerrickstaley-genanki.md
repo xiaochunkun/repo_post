@@ -7,3 +7,5 @@ image: assets/kerrickstaley_genanki_20251201_070318_173_20251201_070344_3e51e0.p
 # [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki/)
 
 Library for generating Anki decks in Python
+
+Python 中生成 Anki 卡组的库

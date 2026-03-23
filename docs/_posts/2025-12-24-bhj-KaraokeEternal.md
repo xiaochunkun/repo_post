@@ -7,3 +7,5 @@ image: assets/bhj_KaraokeEternal_20251223_011511_595_20251223_011529_db8b75.png
 # [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal/)
 
 Self-hosted karaoke system with WebGL visualizations and mobile browser control
+
+自托管卡拉OK系统，支持WebGL可视化和移动浏览器控制

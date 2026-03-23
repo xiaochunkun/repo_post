@@ -7,3 +7,5 @@ image: assets/devflowinc_firecrawl_simple_20251115_065719_208_20251117_035310_d4
 # [devflowinc/firecrawl-simple](https://github.com/devflowinc/firecrawl-simple/)
 
 Self-hostable crawler that turns websites into LLM-ready markdown
+
+自托管爬虫，将网站转换为 LLM 就绪的 markdown

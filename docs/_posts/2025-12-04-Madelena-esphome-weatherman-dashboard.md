@@ -7,3 +7,5 @@ image: assets/Madelena_esphome_weatherman_dashboard_20251202_200349_590_20251202
 # [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard/)
 
 ESPHome weather and subway dashboard for e-paper displays
+
+用于电子纸显示的ESPHome天气和地铁仪表盘

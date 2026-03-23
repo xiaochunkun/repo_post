@@ -7,3 +7,5 @@ image: assets/20251014T011934660--showlab--Paper2Video--20251014T013542096--crop
 # [showlab/Paper2Video](https://github.com/showlab/Paper2Video)
 
 turns research papers into presentation videos using AI
+
+使用 AI 将研究论文转换为演示视频

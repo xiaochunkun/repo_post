@@ -7,3 +7,5 @@ image: assets/nerdylua_password_manager_web_20260121_003016_822_20260121_003033_
 # [nerdylua/password-manager-web](https://github.com/nerdylua/password-manager-web)
 
 Password manager with zero-knowledge architecture and end-to-end encryption
+
+零知识架构与端到端加密的密码管理器

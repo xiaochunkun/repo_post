@@ -7,3 +7,5 @@ image: assets/danielsaidi_SystemNotification_20260113_171647_601_20260113_171701
 # [danielsaidi/SystemNotification](https://github.com/danielsaidi/SystemNotification)
 
 SwiftUI library for native iOS system notifications
+
+iOS 原生系统通知的 SwiftUI 库

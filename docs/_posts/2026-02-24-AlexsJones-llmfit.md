@@ -7,3 +7,5 @@ image: assets/AlexsJones_llmfit_20260224_195051_525_20260224_195120_b87196.png
 # [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
 
 Matches LLM models to hardware specifications
+
+根据硬件规格匹配LLM模型

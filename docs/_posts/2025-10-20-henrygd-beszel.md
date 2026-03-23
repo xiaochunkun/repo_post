@@ -7,3 +7,5 @@ image: assets/henrygd_beszel_20251020_175447_843_20251020_203432--20251020T22343
 # [henrygd/beszel](https://github.com/henrygd/beszel/)
 
 Lightweight server, Docker stats, alerts monitor
+
+轻量级服务器、Docker 统计和警报监控器

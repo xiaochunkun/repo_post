@@ -7,3 +7,5 @@ image: assets/jackwener_opencli_20260317_062813_026_20260317_062936_aae4f9.png
 # [jackwener/opencli](https://github.com/jackwener/opencli)
 
 Turns any website into a CLI
+
+将任何网站转换为CLI

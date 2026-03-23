@@ -7,3 +7,5 @@ image: assets/perfanalytics_pose2sim_20251227_001849_697_20251227_001940_8041f0.
 # [perfanalytics/pose2sim](https://github.com/perfanalytics/pose2sim/)
 
 3D markerless kinematics from 2D videos
+
+从 2D 视频进行 3D 无标记运动学分析

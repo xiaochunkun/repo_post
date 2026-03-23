@@ -7,3 +7,5 @@ image: assets/skfolio_skfolio_20251111_194450_053_20251112_025656_ad4ad3--202511
 # [skfolio/skfolio](https://github.com/skfolio/skfolio/)
 
 Python library for portfolio optimization and risk management
+
+用于投资组合优化和风险管理的 Python 库

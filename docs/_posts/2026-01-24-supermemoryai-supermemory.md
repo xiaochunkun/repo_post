@@ -7,3 +7,5 @@ image: assets/supermemoryai_supermemory_20260122_163231_786_20260122_163249_d53f
 # [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
 
 Saves and organizes information using AI
+
+利用AI保存和组织信息

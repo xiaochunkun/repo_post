@@ -7,3 +7,5 @@ image: assets/dinoki_ai_osaurus_20260203_124730_565_20260203_124803_ae8656.png
 # [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus)
 
 Edge runtime for Apple Silicon
+
+Apple Silicon 的 Edge 运行时

@@ -7,3 +7,5 @@ image: assets/Brkgng_ScrollSnap_20251106_014011_980_20251106_133137_d7bfb8--2025
 # [Brkgng/ScrollSnap](https://github.com/Brkgng/ScrollSnap/)
 
 Open-source macOS app for scrolling screenshots
+
+用于滚动截图的 macOS 开源应用

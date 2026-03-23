@@ -7,3 +7,5 @@ image: assets/20250810T053926--NoCLin--LightMirrors--20250812T005810--cropped.pn
 # [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors)
 
 lightweight mirror server caching DockerHub, K8s, PyPI, npm, Quay, PyTorch
+
+轻量级镜像服务器，缓存DockerHub、K8s、PyPI、npm、Quay、PyTorch

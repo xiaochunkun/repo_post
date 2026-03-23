@@ -7,3 +7,5 @@ image: assets/microsoft_TRELLIS_cropped.png
 # [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
 
 Microsoft's open-source tool for generating 3D assets from images or text
+
+微软从图像或文本生成3D资产的开源工具

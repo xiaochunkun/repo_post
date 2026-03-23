@@ -7,3 +7,5 @@ image: assets/edwko_OuteTTS_20251214_230752_389_20251214_230914_86a3e3.png
 # [edwko/OuteTTS](https://github.com/edwko/OuteTTS/)
 
 Text-to-speech interface using Llama and GGUF
+
+使用Llama和GGUF的文本转语音接口

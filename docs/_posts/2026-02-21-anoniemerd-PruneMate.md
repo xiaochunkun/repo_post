@@ -7,3 +7,5 @@ image: assets/anoniemerd_PruneMate_20260220_181310_799_20260220_181335_628a78.pn
 # [anoniemerd/PruneMate](https://github.com/anoniemerd/PruneMate)
 
 Schedules cleanup of Docker resources
+
+安排 Docker 资源清理

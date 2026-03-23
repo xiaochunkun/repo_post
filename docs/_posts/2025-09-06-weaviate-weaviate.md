@@ -7,3 +7,5 @@ image: assets/20250906T023929124--weaviate--weaviate--20250906T024138458--croppe
 # [weaviate/weaviate](https://github.com/weaviate/weaviate)
 
 open-source vector database for semantic search and AI apps
+
+面向语义搜索和 AI 应用的开源向量数据库

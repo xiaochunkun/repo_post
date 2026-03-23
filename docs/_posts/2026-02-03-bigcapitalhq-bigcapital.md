@@ -7,3 +7,5 @@ image: assets/bigcapitalhq_bigcapital_20260203_174852_540_20260203_174956_45a080
 # [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)
 
 Accounting and inventory software for businesses
+
+企业会计和库存软件

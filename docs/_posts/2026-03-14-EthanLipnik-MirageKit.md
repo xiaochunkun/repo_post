@@ -7,3 +7,5 @@ image: assets/EthanLipnik_MirageKit_20260311_081012_972_20260311_081211_d581ce.p
 # [EthanLipnik/MirageKit](https://github.com/EthanLipnik/MirageKit)
 
 P2P screen sharing framework for Apple platforms
+
+Apple平台的P2P屏幕共享框架

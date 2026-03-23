@@ -7,3 +7,5 @@ image: assets/20250820T133629551_jgraph_docker-drawio--20250820T133859696--cropp
 # [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio)
 
 dockerized draw.io for self-hosted diagrams
+
+Docker 部署的 draw.io 自托管绘图工具

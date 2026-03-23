@@ -7,3 +7,5 @@ image: assets/20250822T021631500--xinnan-tech--xiaozhi-esp32-server--20250822T02
 # [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 
 backend for ESP32 smart devices, device control and voice features
+
+ESP32 智能设备后端，支持设备控制和语音功能

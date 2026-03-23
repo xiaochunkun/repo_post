@@ -7,3 +7,5 @@ image: assets/kando-menu_kando_cropped.png
 # [kando-menu/kando](https://github.com/kando-menu/kando)
 
 Pie menu tool for launching apps, running shortcuts, opening files, works on desktop platforms
+
+饼图菜单工具，用于启动应用、运行快捷方式、打开文件，适用于桌面平台

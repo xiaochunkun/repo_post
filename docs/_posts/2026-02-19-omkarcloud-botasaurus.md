@@ -7,3 +7,5 @@ image: assets/omkarcloud_botasaurus_20260209_063332_926_20260209_063408_7e8d83.p
 # [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)
 
 Framework for scrapers to bypass bot detection
+
+绕过机器人检测的爬虫框架

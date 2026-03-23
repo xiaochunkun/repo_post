@@ -7,3 +7,5 @@ image: assets/20250829T040343352--chroxify--haptic--20250905T034113367--cropped.
 # [chroxify/haptic](https://github.com/chroxify/haptic)
 
 local-first markdown notes app, privacy-focused and open source
+
+本地优先的 Markdown 笔记应用，注重隐私，开源

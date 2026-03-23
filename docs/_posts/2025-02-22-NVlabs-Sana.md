@@ -7,3 +7,5 @@ image: assets/NVlabs_Sana_cropped.png
 # [NVlabs/Sana](https://github.com/NVlabs/Sana)
 
 Text-to-image model for efficient high-res generation
+
+用于高效高分辨率生成的文本到图像模型

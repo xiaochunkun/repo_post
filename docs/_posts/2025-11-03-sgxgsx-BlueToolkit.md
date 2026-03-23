@@ -7,3 +7,5 @@ image: assets/sgxgsx_BlueToolkit_20251031_153639_071_20251102_214536_a17199--202
 # [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit/)
 
 Bluetooth Classic vulnerability testing framework
+
+蓝牙经典漏洞测试框架

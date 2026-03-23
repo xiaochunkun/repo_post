@@ -7,3 +7,5 @@ image: assets/kamranahmedse_driver_js_20260209_032152_225_20260209_032233_86ed6c
 # [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js)
 
 JavaScript engine for guiding focus across pages
+
+跨页面引导焦点的 JavaScript 引擎

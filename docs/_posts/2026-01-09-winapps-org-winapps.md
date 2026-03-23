@@ -7,3 +7,5 @@ image: assets/winapps_org_winapps_20260108_020410_428_20260108_020425_4b15fb.png
 # [winapps-org/winapps](https://github.com/winapps-org/winapps)
 
 Renders Windows applications as native Linux windows
+
+将Windows应用渲染为原生Linux窗口

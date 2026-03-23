@@ -7,3 +7,5 @@ image: assets/thoughtbot_top_secret_20251205_023127_729_20251205_023204_3555a1.p
 # [thoughtbot/top_secret](https://github.com/thoughtbot/top_secret/)
 
 Filters sensitive information from free text
+
+从自由文本中过滤敏感信息

@@ -7,3 +7,5 @@ image: assets/visioncortex_vtracer_20260208_014341_083_20260208_014410_2721ba.pn
 # [visioncortex/vtracer](https://github.com/visioncortex/vtracer)
 
 Converts raster images to vector graphics
+
+将光栅图像转换为矢量图形

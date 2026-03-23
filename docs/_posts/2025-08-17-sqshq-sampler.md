@@ -7,3 +7,5 @@ image: assets/sqshq_sampler--20250816T053405084--cropped.png
 # [sqshq/sampler](https://github.com/sqshq/sampler)
 
 terminal dashboards for any shell command
+
+适用于任何 shell 命令的终端仪表板

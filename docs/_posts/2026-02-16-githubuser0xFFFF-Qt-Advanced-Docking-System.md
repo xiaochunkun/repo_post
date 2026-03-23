@@ -7,3 +7,5 @@ image: assets/githubuser0xFFFF_Qt_Advanced_Docking_System_20260207_064226_268_20
 # [githubuser0xFFFF/Qt-Advanced-Docking-System](https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System)
 
 Docking system for Qt layouts
+
+Qt 布局的停靠系统

@@ -7,3 +7,5 @@ image: assets/tak_bro_aicommit2_20251026_230121_466_20251027_002009_5009a9--2025
 # [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2/)
 
 CLI that generates commit messages with AI
+
+使用 AI 生成提交消息的 CLI

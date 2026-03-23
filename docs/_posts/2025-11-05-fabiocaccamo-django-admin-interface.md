@@ -7,3 +7,5 @@ image: assets/fabiocaccamo_django_admin_interface_20251105_022616_497_20251105_1
 # [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface/)
 
 Customizable Django admin interface with themes
+
+可定制主题的Django管理界面

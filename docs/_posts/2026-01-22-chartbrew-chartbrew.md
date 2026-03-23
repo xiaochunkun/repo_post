@@ -7,3 +7,5 @@ image: assets/chartbrew_chartbrew_20260121_231905_248_20260121_231922_955bce.png
 # [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew)
 
 Dashboards from APIs and databases
+
+从API和数据库创建仪表板

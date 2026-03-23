@@ -7,3 +7,5 @@ image: assets/danielpetho_fancy--20250816T012926606--cropped.png
 # [danielpetho/fancy](https://github.com/danielpetho/fancy)
 
 animated react components and microinteractions library
+
+动画React组件和微交互库

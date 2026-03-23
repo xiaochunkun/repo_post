@@ -7,3 +7,5 @@ image: assets/akivacp_chatgpt_json_tree_viewer_20260201_063302_448_20260201_0633
 # [akivacp/chatgpt-json-tree-viewer](https://github.com/akivacp/chatgpt-json-tree-viewer)
 
 Visualizes AI conversation exports as branching trees
+
+将AI对话导出可视化为分支树

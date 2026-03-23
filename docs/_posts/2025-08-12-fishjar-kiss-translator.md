@@ -7,3 +7,5 @@ image: assets/fishjar_kiss-translator--20250811T235924--cropped.png
 # [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
 
 bilingual web translator extension and userscript
+
+双语网页翻译扩展和用户脚本

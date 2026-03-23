@@ -7,3 +7,5 @@ image: assets/coleam00_context-engineering-intro_cropped.png
 # [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
 
 context engineering templates for better AI prompts
+
+上下文工程模板，用于改进 AI 提示

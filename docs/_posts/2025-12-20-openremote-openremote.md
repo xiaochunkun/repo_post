@@ -7,3 +7,5 @@ image: assets/openremote_openremote_20251218_015943_455_20251218_020001_b78643.p
 # [openremote/openremote](https://github.com/openremote/openremote/)
 
 IoT platform for device management and automation
+
+用于设备管理和自动化的 IoT 平台

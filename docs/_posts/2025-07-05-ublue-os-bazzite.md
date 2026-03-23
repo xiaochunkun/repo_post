@@ -7,3 +7,5 @@ image: assets/ublue-os_bazzite_cropped.png
 # [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 
 Fedora Atomic Desktop image with Steam, gaming tweaks, and developer options
+
+带有 Steam、游戏优化和开发者选项的 Fedora Atomic Desktop 镜像

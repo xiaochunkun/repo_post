@@ -7,3 +7,5 @@ image: assets/lightmode_laboratories_nova_20260217_211606_624_20260217_211641_59
 # [lightmode-laboratories/nova](https://github.com/lightmode-laboratories/nova)
 
 Canvas for personal development with AI cards and website snippets
+
+个人发展画布，带AI卡片和网站片段

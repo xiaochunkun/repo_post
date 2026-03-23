@@ -7,3 +7,5 @@ image: assets/mattt_iMCP_20260222_165839_395_20260222_165921_b21a26.png
 # [mattt/iMCP](https://github.com/mattt/iMCP)
 
 Connects macOS apps to AI via MCP
+
+通过 MCP 连接 macOS 应用与 AI

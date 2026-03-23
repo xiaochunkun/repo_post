@@ -7,3 +7,5 @@ image: assets/hackerschoice_gsocket_20260209_094252_213_20260209_094422_1e94ca.p
 # [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket)
 
 Connects users behind firewalls through relay networks
+
+通过中继网络连接防火墙后的用户

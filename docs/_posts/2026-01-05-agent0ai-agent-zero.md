@@ -7,3 +7,5 @@ image: assets/agent0ai_agent_zero_20260104_043159_985_20260104_043217_137d89.png
 # [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero/)
 
 Framework for agents to use computers and code
+
+智能体使用计算机和代码的框架

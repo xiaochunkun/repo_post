@@ -7,3 +7,5 @@ image: assets/Michele0303_tiktok_live_recorder_20260120_051857_165_20260120_0519
 # [Michele0303/tiktok-live-recorder](https://github.com/Michele0303/tiktok-live-recorder)
 
 Records TikTok live streams automatically via Python
+
+通过 Python 自动录制 TikTok 直播

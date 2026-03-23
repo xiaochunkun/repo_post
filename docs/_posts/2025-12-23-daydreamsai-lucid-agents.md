@@ -7,3 +7,5 @@ image: assets/daydreamsai_lucid_agents_20251222_033712_111_20251222_033729_c7629
 # [daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents/)
 
 Framework for building and monetizing autonomous agents
+
+构建和货币化自主代理的框架

@@ -7,3 +7,5 @@ image: assets/20251005T002509750--dalibo--pg_activity--20251005T003003501--cropp
 # [dalibo/pg_activity](https://github.com/dalibo/pg_activity)
 
 command line tool for monitoring PostgreSQL server activity
+
+监控PostgreSQL服务器活动的命令行工具

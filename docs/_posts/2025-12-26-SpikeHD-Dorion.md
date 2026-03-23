@@ -7,3 +7,5 @@ image: assets/SpikeHD_Dorion_20251225_000900_825_20251225_000919_272b63.png
 # [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion/)
 
 Discord client for low-spec PCs
+
+适用于低配置 PC 的 Discord 客户端

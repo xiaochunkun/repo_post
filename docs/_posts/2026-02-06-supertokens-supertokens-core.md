@@ -7,3 +7,5 @@ image: assets/supertokens_supertokens_core_20260204_161118_361_20260204_161143_d
 # [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)
 
 Open-source authentication provider for applications
+
+应用的开源身份验证提供商

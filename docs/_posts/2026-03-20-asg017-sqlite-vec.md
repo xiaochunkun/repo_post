@@ -7,3 +7,5 @@ image: assets/asg017_sqlite_vec_20260317_175315_602_20260317_175426_81806e.png
 # [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec)
 
 Pure C vector search extension that runs anywhere
+
+可在任何地方运行的纯C向量搜索扩展

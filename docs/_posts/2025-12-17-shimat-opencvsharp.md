@@ -7,3 +7,5 @@ image: assets/shimat_opencvsharp_20251215_013647_754_20251215_013721_4a77c6.png
 # [shimat/opencvsharp](https://github.com/shimat/opencvsharp/)
 
 OpenCV wrapper for .NET
+
+.NET的OpenCV包装器

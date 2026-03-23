@@ -7,3 +7,5 @@ image: assets/xinyu1205_recognize_anything_20251209_021802_823_20251209_021858_a
 # [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything/)
 
 Open-source image recognition models for tagging and captioning
+
+用于标记和字幕的开源图像识别模型

@@ -7,3 +7,5 @@ image: assets/PetoiCamp_OpenCat_Quadruped_Robot_20251207_170306_851_20251207_170
 # [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot/)
 
 Framework for Arduino and Raspberry Pi quadruped robots
+
+用于 Arduino 和 Raspberry Pi 四足机器人的框架

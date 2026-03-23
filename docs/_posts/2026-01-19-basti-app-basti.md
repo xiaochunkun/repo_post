@@ -7,3 +7,5 @@ image: assets/basti_app_basti_20260116_123549_929_20260116_123606_c8ea57.png
 # [basti-app/basti](https://github.com/basti-app/basti)
 
 Connects to AWS resources in private networks without SSH keys
+
+无需SSH密钥连接到私有网络中的AWS资源

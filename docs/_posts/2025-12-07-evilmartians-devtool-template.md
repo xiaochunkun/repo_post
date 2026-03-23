@@ -7,3 +7,5 @@ image: assets/evilmartians_devtool_template_20251205_022252_750_20251205_022349_
 # [evilmartians/devtool-template](https://github.com/evilmartians/devtool-template/)
 
 HTML landing page template for developer tools
+
+开发者工具的HTML着陆页模板

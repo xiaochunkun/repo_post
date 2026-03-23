@@ -7,3 +7,5 @@ image: assets/Blaizzy_mlx-audio_cropped.png
 # [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)
 
 speech-to-text and text-to-speech tools for Apple Silicon
+
+Apple Silicon 的语音转文本和文本转语音工具

@@ -7,3 +7,5 @@ image: assets/20250915T032808998--cloudnative-pg--cloudnative-pg--20250915T03564
 # [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
 
 Kubernetes operator for managing PostgreSQL clusters with automated failover and scaling
+
+管理 PostgreSQL 集群的 Kubernetes Operator，支持自动故障转移和扩缩容

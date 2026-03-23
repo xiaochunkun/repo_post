@@ -7,3 +7,5 @@ image: assets/vitormarcal_chatvault_20251105_022000_949_20251105_123034_3bb09d--
 # [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault/)
 
 Store and view WhatsApp conversation backups
+
+存储和查看 WhatsApp 对话备份

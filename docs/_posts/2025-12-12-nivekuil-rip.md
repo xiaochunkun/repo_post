@@ -7,3 +7,5 @@ image: assets/nivekuil_rip_20251209_040336_786_20251209_040445_9a75c7.png
 # [nivekuil/rip](https://github.com/nivekuil/rip/)
 
 Command-line deletion tool with recovery
+
+支持恢复的命令行删除工具

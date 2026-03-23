@@ -7,3 +7,5 @@ image: assets/gitkraken_vscode_gitlens_20251205_022612_390_20251205_022635_afdaf
 # [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens/)
 
 Visualizes code authorship in VS Code
+
+在VS Code中可视化代码作者

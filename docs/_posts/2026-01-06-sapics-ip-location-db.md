@@ -7,3 +7,5 @@ image: assets/sapics_ip_location_db_20260105_033539_347_20260105_033555_d2d1f7.p
 # [sapics/ip-location-db](https://github.com/sapics/ip-location-db/)
 
 Aggregates IP location data from multiple providers into CSV and MMDB formats
+
+将多个提供商的 IP 位置数据聚合为 CSV 和 MMDB 格式

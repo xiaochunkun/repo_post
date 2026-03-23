@@ -7,3 +7,5 @@ image: assets/K_Dense_AI_karpathy_20260318_002202_816_20260318_002301_fc381b.png
 # [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy)
 
 Agentic ML engineer using Claude Code SDK and Google ADK
+
+使用 Claude Code SDK 和 Google ADK 的代理式 ML 工程师

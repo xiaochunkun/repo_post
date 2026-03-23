@@ -7,3 +7,5 @@ image: assets/oomol-lab_epub-translator_cropped.png
 # [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator)
 
 Tool for translating EPUB files using language models
+
+使用语言模型翻译EPUB文件的工具

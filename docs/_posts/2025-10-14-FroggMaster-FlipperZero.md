@@ -7,3 +7,5 @@ image: assets/20251013T002059232--FroggMaster--FlipperZero--20251013T002800874--
 # [FroggMaster/FlipperZero](https://github.com/FroggMaster/FlipperZero)
 
 notes, scripts, plugins, and guides for Flipper Zero
+
+Flipper Zero 的笔记、脚本、插件和指南

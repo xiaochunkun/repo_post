@@ -7,3 +7,5 @@ image: assets/aquasecurity_cloudsploit_20251225_235746_205_20251225_235812_4a52b
 # [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit/)
 
 Scans cloud accounts for security risks
+
+扫描云账户以查找安全风险

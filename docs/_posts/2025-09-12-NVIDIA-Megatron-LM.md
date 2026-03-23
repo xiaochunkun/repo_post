@@ -7,3 +7,5 @@ image: assets/20250911T024051461--NVIDIA--Megatron-LM--20250911T030951285--cropp
 # [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 
 GPU-optimized library for training massive transformer models at scale
+
+GPU 优化的大规模 Transformer 模型训练库

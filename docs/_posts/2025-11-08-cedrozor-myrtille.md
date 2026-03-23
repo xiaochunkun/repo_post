@@ -7,3 +7,5 @@ image: assets/cedrozor_myrtille_20251107_002009_612_20251107_215105_b8649a--2025
 # [cedrozor/myrtille](https://github.com/cedrozor/myrtille/)
 
 HTTP(S) gateway for RDP and SSH access in a browser
+
+在浏览器中访问RDP和SSH的HTTP(S)网关

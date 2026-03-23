@@ -7,3 +7,5 @@ image: assets/berty_berty_20251021_073510_238_20251021_185041--20251021T20504149
 # [berty/berty](https://github.com/berty/berty/)
 
 Open, secure, offline-first, peer-to-peer messaging app
+
+开放、安全、离线优先的点对点消息应用

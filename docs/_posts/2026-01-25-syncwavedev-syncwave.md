@@ -7,3 +7,5 @@ image: assets/syncwavedev_syncwave_20260125_002304_927_20260125_002342_18a3d9.pn
 # [syncwavedev/syncwave](https://github.com/syncwavedev/syncwave)
 
 Real-time kanban board for teams
+
+团队实时看板工具

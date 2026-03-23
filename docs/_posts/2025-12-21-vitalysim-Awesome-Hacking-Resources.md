@@ -7,3 +7,5 @@ image: assets/vitalysim_Awesome_Hacking_Resources_20251219_082012_226_20251219_0
 # [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources/)
 
 Collection of penetration testing resources
+
+渗透测试资源合集

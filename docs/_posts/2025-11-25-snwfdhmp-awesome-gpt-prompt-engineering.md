@@ -7,3 +7,5 @@ image: assets/snwfdhmp_awesome_gpt_prompt_engineering_20251123_180434_438_202511
 # [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering/)
 
 Roadmap and resources for prompt engineering
+
+提示工程的路线图和资源

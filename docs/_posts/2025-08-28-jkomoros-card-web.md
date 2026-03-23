@@ -7,3 +7,5 @@ image: assets/20250826T033921523--jkomoros--card-web--20250827T095901150--croppe
 # [jkomoros/card-web](https://github.com/jkomoros/card-web)
 
 web app for managing personal knowledge cards
+
+个人知识卡片管理 Web 应用

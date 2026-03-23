@@ -7,3 +7,5 @@ image: assets/DaKheera47_job_ops_20260308_202032_622_20260308_202232_893c59.png
 # [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
 
 Automates job applications by scraping boards and tailoring resumes
+
+通过爬取招聘板和定制简历自动化求职申请

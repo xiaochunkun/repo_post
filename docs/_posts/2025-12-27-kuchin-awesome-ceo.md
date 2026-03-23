@@ -7,3 +7,5 @@ image: assets/kuchin_awesome_ceo_20251225_204735_620_20251225_204824_da6750.png
 # [kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo/)
 
 Resources for founders and leaders of companies
+
+公司创始人和领导者的资源

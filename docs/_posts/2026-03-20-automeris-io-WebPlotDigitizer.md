@@ -7,3 +7,5 @@ image: assets/automeris_io_WebPlotDigitizer_20260221_191529_129_20260221_191548_
 # [automeris-io/WebPlotDigitizer](https://github.com/automeris-io/WebPlotDigitizer)
 
 Extracts numerical data from images of plots
+
+从图表图像中提取数值数据

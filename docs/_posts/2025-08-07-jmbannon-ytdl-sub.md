@@ -7,3 +7,5 @@ image: assets/jmbannon_ytdl-sub_cropped.png
 # [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub)
 
 Automate YouTube downloads and organize them
+
+自动化 YouTube 下载并组织视频

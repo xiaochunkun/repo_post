@@ -7,3 +7,5 @@ image: assets/mycoria_mycoria_cropped.png
 # [mycoria/mycoria](https://github.com/mycoria/mycoria)
 
 Open-source overlay network connecting participants
+
+开源覆盖网络，连接参与者

@@ -7,3 +7,5 @@ image: assets/timescale_pgai_20260203_122042_042_20260203_122057_f7d76c.png
 # [timescale/pgai](https://github.com/timescale/pgai)
 
 PostgreSQL extension for RAG and agentic applications
+
+RAG和代理应用的PostgreSQL扩展

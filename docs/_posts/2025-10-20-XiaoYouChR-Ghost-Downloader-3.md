@@ -7,3 +7,5 @@ image: assets/XiaoYouChR_Ghost_Downloader_3_20251020_054726_344_20251020_055508-
 # [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3/)
 
 AI cross-platform multithreaded downloader
+
+AI 跨平台多线程下载器

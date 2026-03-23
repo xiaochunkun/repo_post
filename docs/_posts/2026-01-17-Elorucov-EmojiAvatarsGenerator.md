@@ -7,3 +7,5 @@ image: assets/Elorucov_EmojiAvatarsGenerator_20260117_055113_200_20260117_055133
 # [Elorucov/EmojiAvatarsGenerator](https://github.com/Elorucov/EmojiAvatarsGenerator)
 
 Generates avatars from emojis
+
+从表情符号生成头像

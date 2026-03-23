@@ -7,3 +7,5 @@ image: assets/20251009T195134945--zhu327--gemini-openai-proxy--20251009T20040572
 # [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy)
 
 proxy for OpenAI apps to use Google Gemini
+
+让 OpenAI 应用使用 Google Gemini 的代理

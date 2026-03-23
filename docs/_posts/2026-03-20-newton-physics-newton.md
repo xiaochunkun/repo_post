@@ -7,3 +7,5 @@ image: assets/newton_physics_newton_20260319_052011_141_20260319_052507_ac0103.p
 # [newton-physics/newton](https://github.com/newton-physics/newton)
 
 GPU physics engine for robotics simulation
+
+用于机器人仿真的 GPU 物理引擎

@@ -7,3 +7,5 @@ image: assets/KeygraphHQ_shannon_20260222_075805_605_20260222_075832_81f3f2.png
 # [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 
 AI hacker for web apps
+
+用于 Web 应用的 AI 黑客

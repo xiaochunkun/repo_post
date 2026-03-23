@@ -7,3 +7,5 @@ image: assets/smallwat3r_secretapi_20251213_053059_059_20251213_053155_fbd946.pn
 # [smallwat3r/secretapi](https://github.com/smallwat3r/secretapi/)
 
 Self-hostable API for sharing short-lived secrets
+
+用于分享短期秘密的自托管 API

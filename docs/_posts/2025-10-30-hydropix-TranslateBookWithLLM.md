@@ -7,3 +7,5 @@ image: assets/hydropix_TranslateBookWithLLM_20251030_021441_563_20251030_164236_
 # [hydropix/TranslateBookWithLLM](https://github.com/hydropix/TranslateBookWithLLM/)
 
 Python application for book translation with local LLMs
+
+使用本地 LLM 进行书籍翻译的 Python 应用

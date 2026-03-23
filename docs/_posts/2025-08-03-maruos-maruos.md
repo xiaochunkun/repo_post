@@ -7,3 +7,5 @@ image: assets/maruos_maruos_cropped.png
 # [maruos/maruos](https://github.com/maruos/maruos)
 
 turns your Android phone into a desktop
+
+将Android手机转换为桌面

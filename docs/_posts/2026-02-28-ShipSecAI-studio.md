@@ -7,3 +7,5 @@ image: assets/ShipSecAI_studio_20260224_043941_900_20260224_044003_374c5d.png
 # [ShipSecAI/studio](https://github.com/ShipSecAI/studio)
 
 Orchestrates security workflows with a visual DSL
+
+使用可视化DSL编排安全工作流

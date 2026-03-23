@@ -7,3 +7,5 @@ image: assets/vhanla_winxcorners_20260214_210426_664_20260214_210518_110865.png
 # [vhanla/winxcorners](https://github.com/vhanla/winxcorners)
 
 Triggers system actions from screen corners
+
+从屏幕角落触发系统操作

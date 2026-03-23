@@ -7,3 +7,5 @@ image: assets/antopilo_Nuake_20260210_154037_703_20260210_154112_2be51d.png
 # [antopilo/Nuake](https://github.com/antopilo/Nuake)
 
 Game engine for level design with Trenchbroom integration
+
+用于关卡设计的游戏引擎，集成 Trenchbroom

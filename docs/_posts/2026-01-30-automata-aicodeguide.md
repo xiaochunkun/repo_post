@@ -7,3 +7,5 @@ image: assets/automata_aicodeguide_20260130_043113_475_20260130_043152_87dff6.pn
 # [automata/aicodeguide](https://github.com/automata/aicodeguide)
 
 Roadmap for coding with AI
+
+AI 编码路线图

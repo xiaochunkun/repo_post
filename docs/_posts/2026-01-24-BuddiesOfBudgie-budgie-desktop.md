@@ -7,3 +7,5 @@ image: assets/BuddiesOfBudgie_budgie_desktop_20260124_035543_900_20260124_035607
 # [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop)
 
 Desktop environment for Linux distributions
+
+Linux发行版桌面环境

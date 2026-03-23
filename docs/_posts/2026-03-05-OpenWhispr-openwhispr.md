@@ -7,3 +7,5 @@ image: assets/OpenWhispr_openwhispr_20260304_230625_342_20260304_230804_f50463.p
 # [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
 
 App for voice-to-text dictation using local and cloud models
+
+使用本地和云端模型的语音转文本听写应用

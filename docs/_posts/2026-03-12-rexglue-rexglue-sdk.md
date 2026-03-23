@@ -7,3 +7,5 @@ image: assets/rexglue_rexglue_sdk_20260309_082322_326_20260309_082610_ca9d5c.png
 # [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
 
 Converts Xbox 360 PowerPC code into C++
+
+将Xbox 360 PowerPC代码转换为C++

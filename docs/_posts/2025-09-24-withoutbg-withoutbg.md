@@ -7,3 +7,5 @@ image: assets/20250924T060434381--withoutbg--withoutbg--20250924T060907787--crop
 # [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg)
 
 AI tool for removing image backgrounds locally or via cloud API
+
+AI 工具，用于本地或通过云 API 移除图像背景

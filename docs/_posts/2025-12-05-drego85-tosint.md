@@ -7,3 +7,5 @@ image: assets/drego85_tosint_20251202_234821_673_20251202_234858_8b499b.png
 # [drego85/tosint](https://github.com/drego85/tosint/)
 
 Extracts information from Telegram bots and channels
+
+从 Telegram 机器人和频道提取信息

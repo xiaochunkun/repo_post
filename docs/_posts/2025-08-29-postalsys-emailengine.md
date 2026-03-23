@@ -7,3 +7,5 @@ image: assets/20250829T041340885--postalsys--emailengine--20250829T041429387--cr
 # [postalsys/emailengine](https://github.com/postalsys/emailengine)
 
 headless email client API for IMAP, SMTP, Gmail, MS Graph
+
+Headless 邮件客户端 API，支持 IMAP、SMTP、Gmail 和 MS Graph

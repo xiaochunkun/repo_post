@@ -7,3 +7,5 @@ image: assets/saihgupr_HomeAssistantTimeMachine_20251106_141718_303_20251106_174
 # [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine/)
 
 Browse and restore individual items from Home Assistant backups
+
+浏览和恢复Home Assistant备份中的单个项目

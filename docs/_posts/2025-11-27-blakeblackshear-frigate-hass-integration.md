@@ -7,3 +7,5 @@ image: assets/blakeblackshear_frigate_hass_integration_20251125_001155_554_20251
 # [blakeblackshear/frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration/)
 
 Integrates Frigate NVR into Home Assistant
+
+将 Frigate NVR 集成到 Home Assistant

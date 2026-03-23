@@ -7,3 +7,5 @@ image: assets/ntsc_rs_ntsc_rs_20260209_050936_431_20260209_051004_055151.png
 # [ntsc-rs/ntsc-rs](https://github.com/ntsc-rs/ntsc-rs)
 
 Emulates NTSC and VHS video artifacts
+
+模拟 NTSC 和 VHS 视频伪影

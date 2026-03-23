@@ -7,3 +7,5 @@ image: assets/Lissy93_all_the_countries_20260123_174709_373_20260123_174758_c968
 # [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries)
 
 Lists countries with flags and capital cities
+
+列出国家及其国旗和首都

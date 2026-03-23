@@ -7,3 +7,5 @@ image: assets/petermost_Sourcetrail_20251223_173354_078_20251223_173416_83f711.p
 # [petermost/Sourcetrail](https://github.com/petermost/Sourcetrail/)
 
 Source explorer for C/C++ and Java codebases
+
+C/C++ 和 Java 代码库的源码浏览器

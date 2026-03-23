@@ -7,3 +7,5 @@ image: assets/TenderOwl_Frog_20251217_223457_605_20251217_223514_4163cc.png
 # [TenderOwl/Frog](https://github.com/TenderOwl/Frog/)
 
 Extracts text from images and QR codes
+
+从图像和二维码中提取文本

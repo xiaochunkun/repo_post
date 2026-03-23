@@ -7,3 +7,5 @@ image: assets/qyzhg_prism_20251225_020212_684_20251225_020232_5dfe15.png
 # [qyzhg/prism](https://github.com/qyzhg/prism/)
 
 Translates text and images using AI models
+
+使用 AI 模型翻译文本和图像

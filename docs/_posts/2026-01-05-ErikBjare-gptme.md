@@ -7,3 +7,5 @@ image: assets/ErikBjare_gptme_20260104_042425_012_20260104_042443_b7b1b1.png
 # [ErikBjare/gptme](https://github.com/ErikBjare/gptme/)
 
 Terminal agent with tools to execute code and browse the web
+
+终端代理，可执行代码和浏览网页

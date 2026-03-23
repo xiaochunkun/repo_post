@@ -7,3 +7,5 @@ image: assets/0xSero_parchi_20260217_204849_375_20260217_204903_bdc12f.png
 # [0xSero/parchi](https://github.com/0xSero/parchi)
 
 Browser automation through natural language
+
+通过自然语言进行浏览器自动化

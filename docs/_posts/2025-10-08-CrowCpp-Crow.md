@@ -7,3 +7,5 @@ image: assets/20251008T181211359--CrowCpp--Crow--20251008T182024459--cropped.png
 # [CrowCpp/Crow](https://github.com/CrowCpp/Crow)
 
 C++ microframework for fast HTTP and WebSocket APIs, Flask-style routing
+
+C++ 微框架，用于快速 HTTP 和 WebSocket API，类似 Flask 风格的路由

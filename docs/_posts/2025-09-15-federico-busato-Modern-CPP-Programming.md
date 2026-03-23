@@ -7,3 +7,5 @@ image: assets/20250915T043708140--federico-busato--Modern-CPP-Programming--20250
 # [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 
 modern c++ course with slides and code examples
+
+现代 C++ 课程，包含幻灯片和代码示例

@@ -7,3 +7,5 @@ image: assets/DIYgod_DPlayer_20251123_170058_199_20251124_003623_cba2e8--2025112
 # [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer/)
 
 HTML5 video player with danmaku support
+
+支持弹幕的 HTML5 视频播放器

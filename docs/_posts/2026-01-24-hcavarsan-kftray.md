@@ -7,3 +7,5 @@ image: assets/hcavarsan_kftray_20260124_033056_193_20260124_033129_5936fe.png
 # [hcavarsan/kftray](https://github.com/hcavarsan/kftray)
 
 Port forwarding manager with reconnection and traffic inspection
+
+端口转发管理器，支持重连和流量检查

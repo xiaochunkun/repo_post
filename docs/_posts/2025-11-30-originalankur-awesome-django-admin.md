@@ -7,3 +7,5 @@ image: assets/originalankur_awesome_django_admin_20251127_200442_354_20251130_08
 # [originalankur/awesome-django-admin](https://github.com/originalankur/awesome-django-admin/)
 
 Curated list of Django admin resources
+
+精选的 Django 管理资源列表

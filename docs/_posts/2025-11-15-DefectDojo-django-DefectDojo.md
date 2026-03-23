@@ -7,3 +7,5 @@ image: assets/DefectDojo_django_DefectDojo_20251114_172821_204_20251115_034807_6
 # [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo/)
 
 Orchestrates end-to-end security testing and reporting
+
+编排端到端安全测试和报告

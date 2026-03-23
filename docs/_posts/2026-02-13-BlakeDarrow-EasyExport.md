@@ -7,3 +7,5 @@ image: assets/BlakeDarrow_EasyExport_20260115_193049_584_20260115_193103_07a5ac.
 # [BlakeDarrow/EasyExport](https://github.com/BlakeDarrow/EasyExport)
 
 Speeds up FBX exporting workflow in Blender
+
+加速 Blender 中的 FBX 导出工作流

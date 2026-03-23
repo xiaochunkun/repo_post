@@ -7,3 +7,5 @@ image: assets/sql_hkr_tiny8_20251207_194148_253_20251207_194211_701eb4.png
 # [sql-hkr/tiny8](https://github.com/sql-hkr/tiny8/)
 
 Simulates 8-bit CPU architecture with visualization toolkit
+
+模拟8位CPU架构并附带可视化工具包

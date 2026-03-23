@@ -7,3 +7,5 @@ image: assets/Integuru-AI_Integuru_cropped.png
 # [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru)
 
 AI agent that generates integration code by reverse-engineering APIs
+
+通过逆向工程 API 生成集成代码的 AI 代理

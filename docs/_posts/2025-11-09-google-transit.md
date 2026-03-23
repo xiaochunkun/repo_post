@@ -7,3 +7,5 @@ image: assets/google_transit_20251108_223600_481_20251109_000535_859a82--2025110
 # [google/transit](https://github.com/google/transit/)
 
 A data format for public transportation schedules
+
+公共交通时刻表的数据格式

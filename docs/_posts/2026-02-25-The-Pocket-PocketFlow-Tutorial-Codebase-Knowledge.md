@@ -7,3 +7,5 @@ image: assets/The_Pocket_PocketFlow_Tutorial_Codebase_Knowledge_20260222_134726_
 # [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
 
 Turns codebases into tutorials with AI
+
+使用 AI 将代码库转化为教程

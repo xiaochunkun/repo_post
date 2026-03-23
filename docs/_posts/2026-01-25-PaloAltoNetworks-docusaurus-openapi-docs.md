@@ -7,3 +7,5 @@ image: assets/PaloAltoNetworks_docusaurus_openapi_docs_20260122_094026_733_20260
 # [PaloAltoNetworks/docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs)
 
 Generates API reference documentation from OpenAPI specifications
+
+从OpenAPI规范生成API参考文档

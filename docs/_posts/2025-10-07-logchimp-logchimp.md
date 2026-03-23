@@ -7,3 +7,5 @@ image: assets/20251007T025007831--logchimp--logchimp--20251007T025932392--croppe
 # [logchimp/logchimp](https://github.com/logchimp/logchimp)
 
 Open source tool for collecting and managing customer feedback
+
+开源工具，用于收集和管理客户反馈

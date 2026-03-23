@@ -7,3 +7,5 @@ image: assets/open_mercato_open_mercato_20260303_160202_536_20260303_160358_7aea
 # [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato)
 
 Framework for CRM and ERP systems
+
+CRM和ERP系统的框架

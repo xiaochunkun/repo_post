@@ -7,3 +7,5 @@ image: assets/Vexa_ai_vexa_20260203_002107_729_20260203_002129_d37d86.png
 # [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)
 
 Meeting bots for transcription via API
+
+通过 API 进行转录的会议机器人

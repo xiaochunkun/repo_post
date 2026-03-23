@@ -7,3 +7,5 @@ image: assets/rahuldkjain_github_profile_readme_generator_20251031_043242_854_20
 # [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator/)
 
 Tool to create a GitHub profile README with add-ons
+
+创建带插件的 GitHub 个人资料 README 的工具

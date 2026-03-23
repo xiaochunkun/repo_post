@@ -7,3 +7,5 @@ image: assets/joshyattridge_smart_money_concepts_20251217_140049_449_20251217_14
 # [joshyattridge/smart-money-concepts](https://github.com/joshyattridge/smart-money-concepts/)
 
 Python indicators for algorithmic trading strategies
+
+算法交易策略的 Python 指标

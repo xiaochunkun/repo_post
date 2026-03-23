@@ -7,3 +7,5 @@ image: assets/20250920T032526823--Alibaba-NLP--DeepResearch--20250920T032613937-
 # [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 
 agentic language model for deep research and reasoning tasks
+
+用于深度研究和推理任务的代理语言模型

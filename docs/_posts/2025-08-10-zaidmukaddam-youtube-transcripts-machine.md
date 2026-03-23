@@ -7,3 +7,5 @@ image: assets/zaidmukaddam_youtube-transcripts-machine_cropped.png
 # [zaidmukaddam/youtube-transcripts-machine](https://github.com/zaidmukaddam/youtube-transcripts-machine)
 
 generate transcripts from YouTube videos automatically
+
+自动从 YouTube 视频生成转录

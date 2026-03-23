@@ -7,3 +7,5 @@ image: assets/silicondeck_shadcn_dashboard_landing_template_20260204_033048_230_
 # [silicondeck/shadcn-dashboard-landing-template](https://github.com/silicondeck/shadcn-dashboard-landing-template)
 
 Dashboard and landing page template with Vite and Next.js
+
+使用 Vite 和 Next.js 的仪表板和落地页模板

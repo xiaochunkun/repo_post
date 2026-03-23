@@ -7,3 +7,5 @@ image: assets/casbin_caswaf_20251120_043909_123_20251120_154635_2ecced--20251120
 # [casbin/caswaf](https://github.com/casbin/caswaf/)
 
 Web application firewall in Go
+
+用 Go 编写的 Web 应用防火墙

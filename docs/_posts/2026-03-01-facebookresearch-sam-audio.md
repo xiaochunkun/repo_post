@@ -7,3 +7,5 @@ image: assets/facebookresearch_sam_audio_20260222_144032_255_20260222_144049_e41
 # [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio)
 
 Isolates sounds using text, video, or time prompts
+
+使用文本、视频或时间提示隔离声音

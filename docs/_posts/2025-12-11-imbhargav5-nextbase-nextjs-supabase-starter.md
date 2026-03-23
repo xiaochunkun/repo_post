@@ -7,3 +7,5 @@ image: assets/imbhargav5_nextbase_nextjs_supabase_starter_20251208_224402_419_20
 # [imbhargav5/nextbase-nextjs-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter/)
 
 Next.js 16 and Supabase boilerplate
+
+Next.js 16和Supabase的样板项目

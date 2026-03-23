@@ -7,3 +7,5 @@ image: assets/flawiddsouza_Restfox_20260305_084153_480_20260305_084303_d5e5c4.pn
 # [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox)
 
 Client for testing HTTP and socket requests on web and desktop
+
+用于在Web和桌面上测试HTTP和socket请求的客户端

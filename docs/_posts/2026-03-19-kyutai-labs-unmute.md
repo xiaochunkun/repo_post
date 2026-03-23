@@ -7,3 +7,5 @@ image: assets/kyutai_labs_unmute_20260318_072618_151_20260318_072910_1ab967.png
 # [kyutai-labs/unmute](https://github.com/kyutai-labs/unmute)
 
 Text LLMs that listen and speak
+
+具备听力和语音能力的文本LLM

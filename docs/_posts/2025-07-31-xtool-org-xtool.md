@@ -7,3 +7,5 @@ image: assets/xtool-org_xtool_cropped.png
 # [xtool-org/xtool](https://github.com/xtool-org/xtool)
 
 build and deploy iOS apps with SwiftPM on any OS
+
+在任何操作系统上使用SwiftPM构建和部署iOS应用

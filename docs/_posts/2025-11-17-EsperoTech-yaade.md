@@ -7,3 +7,5 @@ image: assets/EsperoTech_yaade_20251115_052734_617_20251116_221654_a2231a--20251
 # [EsperoTech/yaade](https://github.com/EsperoTech/yaade/)
 
 Self-hosted collaborative API development environment
+
+自托管协作式 API 开发环境

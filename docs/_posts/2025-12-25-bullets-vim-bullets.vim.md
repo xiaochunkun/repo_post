@@ -7,3 +7,5 @@ image: assets/bullets_vim_bullets_vim_20251223_233936_538_20251223_234004_8100d4
 # [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim/)
 
 Automates bullet lists in Vim
+
+在 Vim 中自动生成项目符号列表

@@ -7,3 +7,5 @@ image: assets/raysan5_raylib_20260318_203307_994_20260318_203413_b1f436.png
 # [raysan5/raylib](https://github.com/raysan5/raylib)
 
 Simple C library for videogame programming
+
+用于视频游戏编程的简单C语言库

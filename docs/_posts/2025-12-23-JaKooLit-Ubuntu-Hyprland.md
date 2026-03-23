@@ -7,3 +7,5 @@ image: assets/JaKooLit_Ubuntu_Hyprland_20251222_135618_733_20251222_135635_b58c7
 # [JaKooLit/Ubuntu-Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland/)
 
 Installs Hyprland on Ubuntu via script
+
+通过脚本在 Ubuntu 上安装 Hyprland

@@ -7,3 +7,5 @@ image: assets/langchain_ai_open_deep_research_20260225_130915_206_20260225_13111
 # [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
 
 Agent for research across model providers and MCP servers
+
+跨模型提供商和MCP服务器的研究代理

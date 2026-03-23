@@ -7,3 +7,5 @@ image: assets/0xZee_financial_CrewAI_Agents_streamlit_20260102_071007_830_202601
 # [0xZee/financial-CrewAI-Agents-streamlit](https://github.com/0xZee/financial-CrewAI-Agents-streamlit/)
 
 Generates financial reports using multi-agent systems
+
+使用多智能体系统生成财务报告

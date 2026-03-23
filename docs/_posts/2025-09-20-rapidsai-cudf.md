@@ -7,3 +7,5 @@ image: assets/20250917T011343747--rapidsai--cudf--20250919T025452750--cropped.pn
 # [rapidsai/cudf](https://github.com/rapidsai/cudf)
 
 GPU DataFrames for fast pandas-like data processing
+
+GPU 加速的 DataFrame，实现类似 pandas 的快速数据处理

@@ -7,3 +7,5 @@ image: assets/LuanRT_YouTube_js_20260318_190118_080_20260318_190222_56ce75.png
 # [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
 
 Access YouTube private API programmatically
+
+以编程方式访问 YouTube 私有 API

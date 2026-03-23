@@ -7,3 +7,5 @@ image: assets/NVIDIA_gpu_operator_20260201_015202_580_20260201_015243_f33892.png
 # [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator)
 
 Automates management of software components for GPUs in Kubernetes
+
+自动化管理 Kubernetes 中的 GPU 软件组件

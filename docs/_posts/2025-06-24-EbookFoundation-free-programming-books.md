@@ -7,3 +7,5 @@ image: assets/EbookFoundation_free-programming-books_cropped.png
 # [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 List of free programming books, courses, and resources in many languages
+
+多种语言的免费编程书籍、课程和资源列表

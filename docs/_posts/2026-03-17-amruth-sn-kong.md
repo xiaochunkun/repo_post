@@ -7,3 +7,5 @@ image: assets/amruth_sn_kong_20260317_172930_607_20260317_173024_64632f.png
 # [amruth-sn/kong](https://github.com/amruth-sn/kong)
 
 Automates binary analysis with LLMs
+
+用LLM自动化二进制分析

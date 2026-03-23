@@ -7,3 +7,5 @@ image: assets/bgreenwell_xleak_20260204_063256_114_20260204_063310_c4b45a.png
 # [bgreenwell/xleak](https://github.com/bgreenwell/xleak)
 
 Terminal Excel viewer with a TUI
+
+终端Excel查看器，采用TUI界面

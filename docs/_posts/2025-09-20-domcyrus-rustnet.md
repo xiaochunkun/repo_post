@@ -7,3 +7,5 @@ image: assets/20250920T055849108--domcyrus--rustnet--20250920T060113548--cropped
 # [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
 
 Real-time network monitoring, connection tracking, and deep packet inspection in your terminal
+
+在终端中进行实时网络监控、连接跟踪和深度包检测

@@ -7,3 +7,5 @@ image: assets/scaleflex_js_cloudimage_360_view_20260120_054605_902_20260120_0546
 # [scaleflex/js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view)
 
 Interactive 360-degree product tours for websites
+
+网站交互式 360 度产品导览

@@ -7,3 +7,5 @@ image: assets/20250911T212516488--ashishps1--awesome-system-design-resources--20
 # [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 curated links for learning system design concepts and interview prep
+
+精选系统设计学习资源和面试准备资料

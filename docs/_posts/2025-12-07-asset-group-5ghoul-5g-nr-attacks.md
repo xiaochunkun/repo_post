@@ -7,3 +7,5 @@ image: assets/asset_group_5ghoul_5g_nr_attacks_20251205_012931_863_20251205_0129
 # [asset-group/5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks/)
 
 5G NR attacks and OTA fuzzing
+
+5G NR攻击和OTA模糊测试

@@ -7,3 +7,5 @@ image: assets/remote_android_redroid_doc_20251115_221253_177_20251117_042500_773
 # [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc/)
 
 GPU accelerated Android in the cloud
+
+云中GPU加速的Android

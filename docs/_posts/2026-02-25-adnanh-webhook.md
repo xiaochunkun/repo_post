@@ -7,3 +7,5 @@ image: assets/adnanh_webhook_20260212_061529_765_20260212_061548_9f7b84.png
 # [adnanh/webhook](https://github.com/adnanh/webhook)
 
 Triggers shell commands from HTTP requests
+
+从HTTP请求触发shell命令

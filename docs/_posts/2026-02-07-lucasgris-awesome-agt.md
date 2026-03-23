@@ -7,3 +7,5 @@ image: assets/lucasgris_awesome_agt_20260206_100125_201_20260206_100144_de8454.p
 # [lucasgris/awesome-agt](https://github.com/lucasgris/awesome-agt)
 
 Resources for automatic guitar transcription
+
+自动吉他转录的资源

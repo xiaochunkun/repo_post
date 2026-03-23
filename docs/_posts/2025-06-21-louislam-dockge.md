@@ -7,3 +7,5 @@ image: assets/louislam_dockge_cropped.png
 # [louislam/dockge](https://github.com/louislam/dockge)
 
 manage docker compose.yaml files in a web interface
+
+在 Web 界面中管理 docker compose.yaml 文件

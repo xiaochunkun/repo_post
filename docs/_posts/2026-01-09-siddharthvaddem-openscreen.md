@@ -7,3 +7,5 @@ image: assets/siddharthvaddem_openscreen_20260108_015000_375_20260108_015013_380
 # [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 
 Screen recorder for product demos
+
+用于产品演示的屏幕录制器

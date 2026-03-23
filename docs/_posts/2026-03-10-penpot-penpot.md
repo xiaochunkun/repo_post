@@ -7,3 +7,5 @@ image: assets/penpot_penpot_20260227_130310_514_20260227_130512_6a14e8.png
 # [penpot/penpot](https://github.com/penpot/penpot)
 
 Design tool for design and code collaboration
+
+用于设计与代码协作的设计工具

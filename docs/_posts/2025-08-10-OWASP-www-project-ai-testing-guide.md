@@ -7,3 +7,5 @@ image: assets/OWASP_www-project-ai-testing-guide_cropped.png
 # [OWASP/www-project-ai-testing-guide](https://github.com/OWASP/www-project-ai-testing-guide)
 
 guide for testing AI apps for security, bias, privacy, and risk
+
+测试 AI 应用安全性、偏见、隐私和风险的指南

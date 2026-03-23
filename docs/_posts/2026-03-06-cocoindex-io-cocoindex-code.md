@@ -7,3 +7,5 @@ image: assets/cocoindex_io_cocoindex_code_20260306_004159_734_20260306_004318_d2
 # [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code)
 
 Index codebases for AI assistants via AST
+
+通过 AST 为 AI 助手索引代码库

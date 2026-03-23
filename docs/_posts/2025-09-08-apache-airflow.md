@@ -7,3 +7,5 @@ image: assets/20250907T200223978--apache--airflow--20250907T200419403--cropped.p
 # [apache/airflow](https://github.com/apache/airflow)
 
 workflow automation with Python for data pipelines
+
+用 Python 自动化工作流和数据流水线

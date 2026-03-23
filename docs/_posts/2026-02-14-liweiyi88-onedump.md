@@ -7,3 +7,5 @@ image: assets/liweiyi88_onedump_20260212_053824_949_20260212_053839_f31996.png
 # [liweiyi88/onedump](https://github.com/liweiyi88/onedump)
 
 Backs up and restores databases across storage destinations
+
+跨存储目的地备份和恢复数据库

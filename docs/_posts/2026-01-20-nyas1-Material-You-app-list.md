@@ -7,3 +7,5 @@ image: assets/nyas1_Material_You_app_list_20260119_082128_683_20260119_082142_cb
 # [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
 
 List of apps with Material Design 3 and dynamic color
+
+支持Material Design 3和动态颜色的应用列表

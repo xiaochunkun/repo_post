@@ -7,3 +7,5 @@ image: assets/MoonshotAI_Kimi_VL_20251120_042956_465_20251120_141751_3f831f--202
 # [MoonshotAI/Kimi-VL](https://github.com/MoonshotAI/Kimi-VL/)
 
 Mixture-of-Experts vision-language model
+
+专家混合视觉语言模型

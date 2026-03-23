@@ -7,3 +7,5 @@ image: assets/20251001T121756228--LycheeOrg--Lychee--20251001T131919729--cropped
 # [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee)
 
 self-hosted photo management, upload and share galleries
+
+自托管的照片管理、上传和分享图库

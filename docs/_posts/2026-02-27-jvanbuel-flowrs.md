@@ -7,3 +7,5 @@ image: assets/jvanbuel_flowrs_20260227_134728_136_20260227_135006_224568.png
 # [jvanbuel/flowrs](https://github.com/jvanbuel/flowrs)
 
 TUI for monitoring and managing Airflow DAGs
+
+监控和管理Airflow DAG的TUI

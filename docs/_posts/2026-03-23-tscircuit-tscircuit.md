@@ -7,3 +7,5 @@ image: assets/tscircuit_tscircuit_20260322_084651_573_20260322_084729_07fa2f.png
 # [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
 
 Design real electronics with React
+
+使用React设计真实电子电路

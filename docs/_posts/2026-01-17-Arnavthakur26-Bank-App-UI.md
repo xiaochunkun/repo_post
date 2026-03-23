@@ -7,3 +7,5 @@ image: assets/Arnavthakur26_Bank_App_UI_20260117_043625_065_20260117_043639_cab7
 # [Arnavthakur26/Bank-App-UI](https://github.com/Arnavthakur26/Bank-App-UI)
 
 Banking UI concept with React and Tailwind CSS
+
+基于 React 和 Tailwind CSS 的银行 UI 概念

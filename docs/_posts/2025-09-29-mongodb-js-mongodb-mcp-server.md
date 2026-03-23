@@ -7,3 +7,5 @@ image: assets/20250929T013541177--mongodb-js--mongodb-mcp-server--20250929T01424
 # [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server)
 
 connects AI tools and agents to MongoDB for natural language querying and schema exploration
+
+将AI工具和代理连接到MongoDB，用于自然语言查询和模式探索

@@ -7,3 +7,5 @@ image: assets/trzsz_trzsz_ssh_20251123_205900_207_20251125_220809_8a5352--202511
 # [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh/)
 
 Drop-in OpenSSH replacement with Zmodem support
+
+支持 Zmodem 的 OpenSSH 替代方案

@@ -7,3 +7,5 @@ image: assets/20250905T015310394--deepset-ai--haystack--20250911T231351795--crop
 # [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 
 framework for building LLM and RAG apps with pipelines
+
+用流水线构建 LLM 和 RAG 应用的框架

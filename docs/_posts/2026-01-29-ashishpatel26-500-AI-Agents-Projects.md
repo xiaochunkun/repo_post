@@ -7,3 +7,5 @@ image: assets/ashishpatel26_500_AI_Agents_Projects_20260129_004155_326_20260129_
 # [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
 Collection of AI agent use cases across industries
+
+跨行业AI智能体用例合集

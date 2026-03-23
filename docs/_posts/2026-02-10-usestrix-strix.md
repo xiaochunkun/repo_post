@@ -7,3 +7,5 @@ image: assets/usestrix_strix_20260208_053252_207_20260208_053318_e2cf26.png
 # [usestrix/strix](https://github.com/usestrix/strix)
 
 AI agents for penetration testing
+
+用于渗透测试的AI代理

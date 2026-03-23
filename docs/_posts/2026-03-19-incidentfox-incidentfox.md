@@ -7,3 +7,5 @@ image: assets/incidentfox_incidentfox_20260319_061112_337_20260319_061235_f4172e
 # [incidentfox/incidentfox](https://github.com/incidentfox/incidentfox)
 
 AI platform investigates incidents automatically
+
+自动调查事件的 AI 平台

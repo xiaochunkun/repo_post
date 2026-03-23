@@ -7,3 +7,5 @@ image: assets/asbru_cm_asbru_cm_20251111_030709_336_20251111_145222_bff2ef--2025
 # [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm/)
 
 User interface for organizing and automating remote terminal sessions
+
+组织和自动化远程终端会话的用户界面

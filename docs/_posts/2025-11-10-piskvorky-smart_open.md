@@ -7,3 +7,5 @@ image: assets/piskvorky_smart_open_20251109_183504_785_20251109_185822_06d6b7--2
 # [piskvorky/smart_open](https://github.com/piskvorky/smart_open/)
 
 Stream large files from S3, GCS, and HDFS
+
+从S3、GCS和HDFS流式传输大文件

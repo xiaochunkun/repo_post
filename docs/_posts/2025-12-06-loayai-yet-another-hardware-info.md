@@ -7,3 +7,5 @@ image: assets/loayai_yet_another_hardware_info_20251204_224947_939_20251204_2250
 # [loayai/yet-another-hardware-info](https://github.com/loayai/yet-another-hardware-info/)
 
 Server hardware monitoring script for Linux
+
+Linux服务器硬件监控脚本

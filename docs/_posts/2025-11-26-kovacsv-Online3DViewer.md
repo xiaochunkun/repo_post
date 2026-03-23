@@ -7,3 +7,5 @@ image: assets/kovacsv_Online3DViewer_20251123_203857_439_20251125_215517_4e598c-
 # [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer/)
 
 Visualizes and explores 3D models in a browser
+
+在浏览器中可视化和探索 3D 模型

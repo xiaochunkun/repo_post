@@ -7,3 +7,5 @@ image: assets/explodingcamera_liwan_20260122_130203_863_20260122_130219_d2f7d3.p
 # [explodingcamera/liwan](https://github.com/explodingcamera/liwan)
 
 Analytics without cookies or tracking
+
+无 Cookie 或追踪的分析工具

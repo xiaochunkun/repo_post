@@ -7,3 +7,5 @@ image: assets/arrobalytics_django_ledger_20251213_083332_779_20251213_083355_57a
 # [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger/)
 
 Double entry accounting engine for Django
+
+Django 的双重记账引擎

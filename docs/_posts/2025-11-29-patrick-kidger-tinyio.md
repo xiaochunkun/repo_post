@@ -7,3 +7,5 @@ image: assets/patrick_kidger_tinyio_20251126_103333_443_20251129_022202_0b5dd8--
 # [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio/)
 
 Tiny 300-line event loop for Python
+
+Python的300行微型事件循环

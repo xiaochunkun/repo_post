@@ -7,3 +7,5 @@ image: assets/awesome_selfhosted_awesome_selfhosted_20260222_051713_631_20260222
 # [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 Directory of software for servers
+
+服务器软件目录

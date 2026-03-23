@@ -7,3 +7,5 @@ image: assets/Cirx08_WeddingShare--20250815T020110561--cropped.png
 # [Cirx08/WeddingShare](https://github.com/Cirx08/WeddingShare)
 
 share wedding photos with guests using QR codes
+
+使用二维码与宾客分享婚礼照片

@@ -7,3 +7,5 @@ image: assets/dvirsamuel_OmnimatteZero_20260303_181446_651_20260303_181647_27e37
 # [dvirsamuel/OmnimatteZero](https://github.com/dvirsamuel/OmnimatteZero)
 
 Extracts foreground layers from videos using diffusion models
+
+使用扩散模型从视频中提取前景层

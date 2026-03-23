@@ -7,3 +7,5 @@ image: assets/stardustai_dataset_viewer_20260320_232526_859_20260320_232627_d289
 # [stardustai/dataset-viewer](https://github.com/stardustai/dataset-viewer)
 
 High-performance dataset viewer for massive files
+
+高性能海量文件数据集查看器

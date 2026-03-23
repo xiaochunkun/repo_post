@@ -7,3 +7,5 @@ image: assets/browser_use_macOS_use_20260205_182948_437_20260205_183036_4d2d2b.p
 # [browser-use/macOS-use](https://github.com/browser-use/macOS-use)
 
 AI agents interact with macOS apps
+
+AI 代理与 macOS 应用交互

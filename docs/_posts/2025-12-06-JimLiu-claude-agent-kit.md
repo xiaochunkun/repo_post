@@ -7,3 +7,5 @@ image: assets/JimLiu_claude_agent_kit_20251204_214559_645_20251204_214621_84484c
 # [JimLiu/claude-agent-kit](https://github.com/JimLiu/claude-agent-kit/)
 
 Utilities for building Claude-powered agents
+
+构建Claude驱动代理的工具集

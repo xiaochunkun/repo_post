@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_bulk_transcribe_youtube_videos_from_playlist_202
 # [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist/)
 
 Transcribes YouTube playlists using Whisper and CUDA
+
+使用 Whisper 和 CUDA 转录 YouTube 播放列表

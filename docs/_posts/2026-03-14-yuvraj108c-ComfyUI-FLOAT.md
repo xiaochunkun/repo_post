@@ -7,3 +7,5 @@ image: assets/yuvraj108c_ComfyUI_FLOAT_20260314_012659_619_20260314_012946_5fb29
 # [yuvraj108c/ComfyUI-FLOAT](https://github.com/yuvraj108c/ComfyUI-FLOAT)
 
 Generates audio-driven talking portraits
+
+生成音频驱动的说话肖像

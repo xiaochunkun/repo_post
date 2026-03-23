@@ -7,3 +7,5 @@ image: assets/platonai_PulsarRPA_20251119_221849_798_20251120_003617_04d988--202
 # [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA/)
 
 Coroutine-safe browser for AI
+
+AI协程安全浏览器

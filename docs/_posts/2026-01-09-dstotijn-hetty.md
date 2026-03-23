@@ -7,3 +7,5 @@ image: assets/dstotijn_hetty_20260108_030308_339_20260108_030321_b71290.png
 # [dstotijn/hetty](https://github.com/dstotijn/hetty)
 
 HTTP toolkit for security research
+
+用于安全研究的HTTP工具包

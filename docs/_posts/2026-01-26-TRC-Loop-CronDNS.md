@@ -7,3 +7,5 @@ image: assets/TRC_Loop_CronDNS_20260126_001412_039_20260126_001452_df31d1.png
 # [TRC-Loop/CronDNS](https://github.com/TRC-Loop/CronDNS)
 
 Web interface for managing dynamic DNS records
+
+用于管理动态 DNS 记录的 Web 界面

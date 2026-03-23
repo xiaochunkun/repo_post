@@ -7,3 +7,5 @@ image: assets/elie222_inbox_zero_20260129_082719_167_20260129_082800_e870e2.png
 # [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
 
 AI assistant for email automation and management
+
+AI助手用于邮件自动化和管理

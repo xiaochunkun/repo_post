@@ -7,3 +7,5 @@ image: assets/mongodb_kingfisher_cropped.png
 # [mongodb/kingfisher](https://github.com/mongodb/kingfisher)
 
 open source tool to scan code for secrets
+
+扫描代码以查找秘密的开源工具

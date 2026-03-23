@@ -7,3 +7,5 @@ image: assets/Snowflake_Labs_Snowflake_AI_Toolkit_20251125_010300_081_20251126_1
 # [Snowflake-Labs/Snowflake-AI-Toolkit](https://github.com/Snowflake-Labs/Snowflake-AI-Toolkit/)
 
 Streamlit app prototypes AI solutions in Snowflake
+
+在 Snowflake 中构建 AI 解决方案原型的 Streamlit 应用

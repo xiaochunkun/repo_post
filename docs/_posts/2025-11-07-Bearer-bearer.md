@@ -7,3 +7,5 @@ image: assets/Bearer_bearer_20251106_183539_911_20251106_215855_5ade01--20251106
 # [Bearer/bearer](https://github.com/Bearer/bearer/)
 
 Static analysis tool for security and privacy risks
+
+检测安全和隐私风险的静态分析工具

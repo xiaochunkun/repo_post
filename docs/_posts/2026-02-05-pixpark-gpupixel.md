@@ -7,3 +7,5 @@ image: assets/pixpark_gpupixel_20260204_032934_592_20260204_032951_87f55f.png
 # [pixpark/gpupixel](https://github.com/pixpark/gpupixel)
 
 Image filter engine on GPU
+
+GPU上的图像滤镜引擎

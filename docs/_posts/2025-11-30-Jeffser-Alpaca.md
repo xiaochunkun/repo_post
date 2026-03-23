@@ -7,3 +7,5 @@ image: assets/Jeffser_Alpaca_20251126_152045_185_20251129_023009_f1c900--2025112
 # [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca/)
 
 Ollama client for managing and chatting with local AI models
+
+用于管理和与本地 AI 模型聊天的 Ollama 客户端

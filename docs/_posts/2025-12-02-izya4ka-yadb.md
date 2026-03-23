@@ -7,3 +7,5 @@ image: assets/izya4ka_yadb_20251201_014801_059_20251201_014825_e43afb.png
 # [izya4ka/yadb](https://github.com/izya4ka/yadb/)
 
 Directory brute-forcing tool written in Rust
+
+用Rust编写的目录暴力破解工具

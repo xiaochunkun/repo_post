@@ -7,3 +7,5 @@ image: assets/Xiaojiu_z_EasyControl_20251028_092225_100_20251029_004639_08a20a--
 # [Xiaojiu-z/EasyControl](https://github.com/Xiaojiu-z/EasyControl/)
 
 Adds control for Diffusion Transformers
+
+为 Diffusion Transformers 添加控制功能

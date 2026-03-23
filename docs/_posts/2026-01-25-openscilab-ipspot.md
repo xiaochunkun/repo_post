@@ -7,3 +7,5 @@ image: assets/openscilab_ipspot_20260121_190432_468_20260121_190504_97d9ae.png
 # [openscilab/ipspot](https://github.com/openscilab/ipspot)
 
 Retrieves IP addresses and geolocation data
+
+检索IP地址和地理位置数据

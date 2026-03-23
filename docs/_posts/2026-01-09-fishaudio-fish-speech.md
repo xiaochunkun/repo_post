@@ -7,3 +7,5 @@ image: assets/fishaudio_fish_speech_20260108_023416_298_20260108_023435_4bc38e.p
 # [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 
 Converts text to speech across languages
+
+跨语言文本转语音工具

@@ -7,3 +7,5 @@ image: assets/DangJin_awesome_social_media_downloader_20251217_221032_226_202512
 # [DangJin/awesome-social-media-downloader](https://github.com/DangJin/awesome-social-media-downloader/)
 
 Downloads videos from social platforms
+
+从社交平台下载视频

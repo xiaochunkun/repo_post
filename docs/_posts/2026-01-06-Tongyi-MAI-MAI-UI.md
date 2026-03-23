@@ -7,3 +7,5 @@ image: assets/Tongyi_MAI_MAI_UI_20260106_070805_792_20260106_070836_7ee60b.png
 # [Tongyi-MAI/MAI-UI](https://github.com/Tongyi-MAI/MAI-UI/)
 
 GUI agents for mobile navigation and grounding
+
+用于移动导航和接地的 GUI 代理

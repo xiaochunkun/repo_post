@@ -7,3 +7,5 @@ image: assets/flowsurface_rs_flowsurface_20260125_031651_726_20260125_031728_76d
 # [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface)
 
 Desktop charting for crypto markets
+
+加密货币市场的桌面图表工具

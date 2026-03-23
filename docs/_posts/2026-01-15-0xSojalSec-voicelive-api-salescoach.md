@@ -7,3 +7,5 @@ image: assets/0xSojalSec_voicelive_api_salescoach_20260113_174016_570_20260113_1
 # [0xSojalSec/voicelive-api-salescoach](https://github.com/0xSojalSec/voicelive-api-salescoach)
 
 Trains sales skills with voice agents on Azure
+
+在 Azure 上用语音代理训练销售技能

@@ -7,3 +7,5 @@ image: assets/20250826T025105523--rubickecho--n8n-deepseek--20250826T030000194--
 # [rubickecho/n8n-deepseek](https://github.com/rubickecho/n8n-deepseek)
 
 n8n node for DeepSeek AI automations
+
+用于 DeepSeek AI 自动化的 n8n 节点

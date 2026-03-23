@@ -7,3 +7,5 @@ image: assets/20250829T034836196--jinghaihan--termsnap--20250829T035405722--crop
 # [jinghaihan/termsnap](https://github.com/jinghaihan/termsnap)
 
 terminal screenshots with emoji and font support
+
+终端截图工具，支持 Emoji 和自定义字体

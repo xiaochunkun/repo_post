@@ -7,3 +7,5 @@ image: assets/Donchitos_Claude_Code_Game_Studios_20260321_054453_572_20260321_05
 # [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
 48 AI agents game studio
+
+48个AI代理的游戏工作室

@@ -7,3 +7,5 @@ image: assets/EpicenterHQ_epicenter_20260226_145445_528_20260226_145657_9b71db.p
 # [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter)
 
 Local-first apps for data ownership
+
+支持数据所有权的本地优先应用

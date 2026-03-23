@@ -7,3 +7,5 @@ image: assets/20250926T004838080--Audio-AGI--AudioSep--20250926T005543537--cropp
 # [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep)
 
 separates sounds from audio using text prompts
+
+使用文本提示从音频中分离声音

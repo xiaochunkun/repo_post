@@ -7,3 +7,5 @@ image: assets/emavgl_oinkoin_20260106_213924_549_20260106_214009_d250cc.png
 # [emavgl/oinkoin](https://github.com/emavgl/oinkoin/)
 
 Tracks expenses offline without ads or permissions
+
+离线追踪支出，无广告或权限要求

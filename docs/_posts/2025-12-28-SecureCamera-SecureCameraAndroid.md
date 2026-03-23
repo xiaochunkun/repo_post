@@ -7,3 +7,5 @@ image: assets/SecureCamera_SecureCameraAndroid_20251221_235957_233_20251226_1750
 # [SecureCamera/SecureCameraAndroid](https://github.com/SecureCamera/SecureCameraAndroid/)
 
 Camera app with encryption and no internet access
+
+具有加密功能且无需互联网访问的相机应用

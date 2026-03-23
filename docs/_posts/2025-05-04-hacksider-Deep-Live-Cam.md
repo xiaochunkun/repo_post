@@ -7,3 +7,5 @@ image: assets/hacksider_Deep-Live-Cam_cropped.png
 # [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 
 Real-time face swap tool that works with a single image
+
+实时人脸交换工具，仅需单张图像

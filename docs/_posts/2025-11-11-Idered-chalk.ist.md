@@ -7,3 +7,5 @@ image: assets/Idered_chalk_ist_20251110_133101_901_20251110_143734_b14da2--20251
 # [Idered/chalk.ist](https://github.com/Idered/chalk.ist/)
 
 Create images of source code with a visual editor
+
+用可视化编辑器创建源代码图像

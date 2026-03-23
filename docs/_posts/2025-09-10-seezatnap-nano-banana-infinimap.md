@@ -7,3 +7,5 @@ image: assets/20250910T025230206--seezatnap--nano-banana-infinimap--20250910T025
 # [seezatnap/nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)
 
 AI-powered infinite map generator with seamless tile blending and local storage
+
+AI 驱动的无限地图生成器，支持无缝拼接和本地存储

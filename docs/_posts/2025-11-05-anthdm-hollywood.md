@@ -7,3 +7,5 @@ image: assets/anthdm_hollywood_20251105_004855_932_20251105_013849_a13858--20251
 # [anthdm/hollywood](https://github.com/anthdm/hollywood/)
 
 Low latency actor engine for Golang
+
+Golang的低延迟Actor引擎

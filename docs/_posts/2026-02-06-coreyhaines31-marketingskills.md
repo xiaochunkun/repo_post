@@ -7,3 +7,5 @@ image: assets/coreyhaines31_marketingskills_20260206_071455_320_20260206_071515_
 # [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Markdown files giving AI agents marketing workflows
+
+为AI代理提供营销工作流的Markdown文件

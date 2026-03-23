@@ -7,3 +7,5 @@ image: assets/awaseem_foqos_20251231_152842_026_20251231_152922_249cd4.png
 # [awaseem/foqos](https://github.com/awaseem/foqos/)
 
 Blocks apps using NFC tags or QR codes
+
+使用NFC标签或QR码阻止应用

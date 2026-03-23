@@ -7,3 +7,5 @@ image: assets/mult1v4c_hestia_core_20251223_064154_124_20251223_064214_0bbc6e.pn
 # [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core/)
 
 Browser dashboard for homelab integrations
+
+家庭实验室集成的浏览器仪表板

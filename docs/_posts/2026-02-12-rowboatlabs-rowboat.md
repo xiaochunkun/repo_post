@@ -7,3 +7,5 @@ image: assets/rowboatlabs_rowboat_20260211_022006_697_20260211_022028_424cc8.png
 # [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
 
 Turns emails and meeting notes into a knowledge graph
+
+将电子邮件和会议笔记转化为知识图谱

@@ -7,3 +7,5 @@ image: assets/kyleturman_home_dashboard_20260227_195614_221_20260227_195812_aac3
 # [kyleturman/home-dashboard](https://github.com/kyleturman/home-dashboard)
 
 Server for e-ink weather and data displays
+
+用于电子墨水天气和数据显示的服务器

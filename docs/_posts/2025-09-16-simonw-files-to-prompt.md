@@ -7,3 +7,5 @@ image: assets/20250915T230719033--simonw--files-to-prompt--20250915T231300101--c
 # [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt)
 
 combine files from a directory into a single prompt for LLMs
+
+将目录中的文件合并为单个提示，供 LLM 使用

@@ -7,3 +7,5 @@ image: assets/Erudika_scoold_20251123_204209_997_20251125_215738_1b727d--2025112
 # [Erudika/scoold](https://github.com/Erudika/scoold/)
 
 Stack Overflow clone for teams
+
+面向团队的 Stack Overflow 克隆版

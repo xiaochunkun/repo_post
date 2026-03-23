@@ -7,3 +7,5 @@ image: assets/carbon_design_system_carbon_20260104_182520_610_20260104_182536_1d
 # [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon/)
 
 Design system with code and interface guidelines
+
+包含代码和界面指南的设计系统

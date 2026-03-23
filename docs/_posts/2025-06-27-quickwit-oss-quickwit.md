@@ -7,3 +7,5 @@ image: assets/quickwit-oss_quickwit_cropped.png
 # [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
 
 cloud search engine for logs and traces
+
+用于日志和追踪的云搜索引擎

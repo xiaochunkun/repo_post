@@ -7,3 +7,5 @@ image: assets/ds_sebastian_pricecious_20251225_054447_973_20251225_054505_a6d803
 # [ds-sebastian/pricecious](https://github.com/ds-sebastian/pricecious/)
 
 Tracks prices using vision models
+
+使用视觉模型跟踪价格

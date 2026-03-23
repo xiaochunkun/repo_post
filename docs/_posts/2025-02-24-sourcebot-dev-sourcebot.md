@@ -7,3 +7,5 @@ image: assets/sourcebot-dev_sourcebot_cropped.png
 # [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot)
 
 Fast code search tool for multiple repositories
+
+多仓库快速代码搜索工具

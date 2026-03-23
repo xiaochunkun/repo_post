@@ -7,3 +7,5 @@ image: assets/SimpleHomelab_Docker_Traefik_20251031_161656_074_20251102_220012_7
 # [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik/)
 
 Real-world Docker configurations for a homelab
+
+家庭实验室的真实Docker配置

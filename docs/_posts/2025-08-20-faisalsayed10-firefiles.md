@@ -7,3 +7,5 @@ image: assets/20250818T122622235_faisalsayed10_firefiles--20250818T123210519--cr
 # [faisalsayed10/firefiles](https://github.com/faisalsayed10/firefiles)
 
 open source cloud file manager for multiple storage providers
+
+支持多个存储提供商的开源云文件管理器

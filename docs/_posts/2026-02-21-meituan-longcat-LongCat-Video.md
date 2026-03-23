@@ -7,3 +7,5 @@ image: assets/meituan_longcat_LongCat_Video_20260220_230634_276_20260220_230652_
 # [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
 
 Generates minutes-long videos through video continuation
+
+通过视频延续生成长分钟视频

@@ -7,3 +7,5 @@ image: assets/msitarzewski_agency_agents_20260302_012639_264_20260302_012806_5e3
 # [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 
 Collection of 51 AI agent personalities for Claude Code
+
+Claude Code 的 51 个 AI 代理个性集合

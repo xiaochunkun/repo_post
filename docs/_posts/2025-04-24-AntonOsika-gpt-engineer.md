@@ -7,3 +7,5 @@ image: assets/AntonOsika_gpt-engineer_cropped.png
 # [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 
 AI tool that turns text instructions into code projects automatically
+
+将文本指令自动转换为代码项目的AI工具

@@ -7,3 +7,5 @@ image: assets/logancyang_obsidian_copilot_20260301_220251_672_20260301_220452_b6
 # [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)
 
 AI assistant for local notes with agentic capabilities
+
+具有代理能力的本地笔记 AI 助手

@@ -7,3 +7,5 @@ image: assets/supreme_gg_gg_instagram_cli_20251127_214820_005_20251130_083857_9d
 # [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/)
 
 Terminal-based Instagram client with keyboard controls
+
+基于终端的Instagram客户端，支持键盘控制

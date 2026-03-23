@@ -7,3 +7,5 @@ image: assets/ArthurBrussee_brush_20251126_011236_335_20251129_021904_7e14c7--20
 # [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush/)
 
 3D reconstruction engine using Gaussian splatting
+
+使用高斯溅射的3D重建引擎

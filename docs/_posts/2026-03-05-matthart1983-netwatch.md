@@ -7,3 +7,5 @@ image: assets/matthart1983_netwatch_20260305_083512_064_20260305_083635_58facb.p
 # [matthart1983/netwatch](https://github.com/matthart1983/netwatch)
 
 TUI for network diagnostics and packet capture
+
+用于网络诊断和数据包捕获的TUI

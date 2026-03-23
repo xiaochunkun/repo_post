@@ -7,3 +7,5 @@ image: assets/agarrharr_awesome_macos_screensavers_20251218_013107_831_20251218_
 # [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers/)
 
 List of screensavers for macOS
+
+macOS 屏幕保护程序列表

@@ -7,3 +7,5 @@ image: assets/TextGrabber2_app_TextGrabber2_20251222_001532_342_20251222_001547_
 # [TextGrabber2-app/TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2/)
 
 Extracts text from images on the clipboard via the macOS menu bar
+
+通过 macOS 菜单栏从剪贴板图像中提取文本

@@ -7,3 +7,5 @@ image: assets/20251010T210458827--kozakdenys--qr-code-styling--20251010T21193706
 # [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling)
 
 JavaScript library for creating custom QR codes with logos, colors, and shapes
+
+用于创建自定义 QR 码的 JavaScript 库，支持徽标、颜色和形状

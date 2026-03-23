@@ -7,3 +7,5 @@ image: assets/janispritzkau_obsidian-model-viewer_cropped.png
 # [janispritzkau/obsidian-model-viewer](https://github.com/janispritzkau/obsidian-model-viewer)
 
 3D model viewer for displaying glTF and GLB files in Obsidian vaults
+
+在Obsidian库中显示glTF和GLB文件的3D模型查看器

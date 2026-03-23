@@ -7,3 +7,5 @@ image: assets/ericciarla_aginews_cropped.png
 # [ericciarla/aginews](https://github.com/ericciarla/aginews)
 
 AI-powered newsletter generation with autonomous agents
+
+基于AI的自主代理生成新闻简报

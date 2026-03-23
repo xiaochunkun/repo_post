@@ -7,3 +7,5 @@ image: assets/jezweb_roo_commander_20251031_021349_998_20251031_140623_29ff0d--2
 # [jezweb/roo-commander](https://github.com/jezweb/roo-commander/)
 
 Multi-agent framework for orchestrating AI agents in VS Code
+
+在 VS Code 中编排 AI 代理的多代理框架

@@ -7,3 +7,5 @@ image: assets/EvolutionAPI_evolution_api_lite_20260126_182011_281_20260126_18204
 # [EvolutionAPI/evolution-api-lite](https://github.com/EvolutionAPI/evolution-api-lite)
 
 WhatsApp integration for microservice environments
+
+微服务环境的WhatsApp集成

@@ -7,3 +7,5 @@ image: assets/home_assistant_libs_pychromecast_20251123_195146_837_20251125_0125
 # [home-assistant-libs/pychromecast](https://github.com/home-assistant-libs/pychromecast/)
 
 Library to communicate with Google Chromecasts
+
+与 Google Chromecasts 通信的库

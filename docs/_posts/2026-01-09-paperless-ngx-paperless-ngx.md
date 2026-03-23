@@ -7,3 +7,5 @@ image: assets/paperless_ngx_paperless_ngx_20260108_015504_471_20260108_015518_4c
 # [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 
 Converts physical documents into searchable archives
+
+将物理文档转换为可搜索的存档

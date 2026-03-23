@@ -7,3 +7,5 @@ image: assets/carlos7ags_folio_20260321_081922_661_20260321_082016_9baeb2.png
 # [carlos7ags/folio](https://github.com/carlos7ags/folio)
 
 Go PDF library with layout engine and HTML conversion
+
+具有布局引擎和 HTML 转换的 Go PDF 库

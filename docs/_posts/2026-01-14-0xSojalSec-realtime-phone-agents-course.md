@@ -7,3 +7,5 @@ image: assets/0xSojalSec_realtime_phone_agents_course_20260113_174110_541_202601
 # [0xSojalSec/realtime-phone-agents-course](https://github.com/0xSojalSec/realtime-phone-agents-course)
 
 Builds voice agents for phone calls
+
+构建电话语音 agent

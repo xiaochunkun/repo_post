@@ -7,3 +7,5 @@ image: assets/xinntao_Real-ESRGAN--20250820T142510772--cropped.png
 # [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
 AI tool for upscaling and restoring images and videos
+
+AI 图像和视频超分辨率修复工具

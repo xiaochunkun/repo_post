@@ -7,3 +7,5 @@ image: assets/ading2210_shimboot_20251231_062754_953_20251231_062811_a5fdac.png
 # [ading2210/shimboot](https://github.com/ading2210/shimboot/)
 
 Boots Linux on Chromebooks without firmware modification
+
+无需修改固件即可在Chromebook上启动Linux

@@ -7,3 +7,5 @@ image: assets/fjykTec_ModernWMS_20251209_052003_888_20251209_052030_9dad2b.png
 # [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS/)
 
 Open source warehouse management system
+
+开源仓库管理系统

@@ -7,3 +7,5 @@ image: assets/Gaurav_Gosain_gollama_20251201_065650_239_20251201_065718_351661.p
 # [Gaurav-Gosain/gollama](https://github.com/Gaurav-Gosain/gollama/)
 
 Manage Ollama models in terminal
+
+在终端中管理 Ollama 模型

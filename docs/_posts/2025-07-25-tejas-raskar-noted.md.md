@@ -7,3 +7,5 @@ image: assets/tejas-raskar_noted.md_cropped.png
 # [tejas-raskar/noted.md](https://github.com/tejas-raskar/noted.md)
 
 notes app using markdown files
+
+使用Markdown文件的笔记应用

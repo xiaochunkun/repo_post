@@ -7,3 +7,5 @@ image: assets/humanlayer_humanlayer_20260213_093516_355_20260213_093606_e33e4f.p
 # [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
 
 Orchestrates coding agents on Claude Code
+
+在Claude Code上编排编码智能体

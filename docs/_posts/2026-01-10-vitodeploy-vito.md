@@ -7,3 +7,5 @@ image: assets/vitodeploy_vito_20260108_073459_822_20260108_073514_a49540.png
 # [vitodeploy/vito](https://github.com/vitodeploy/vito)
 
 Self-hosted server management and PHP deployment tool
+
+自托管服务器管理和PHP部署工具

@@ -7,3 +7,5 @@ image: assets/laravel_telescope_20251130_054625_296_20251130_084129_c2ea74--2025
 # [laravel/telescope](https://github.com/laravel/telescope/)
 
 Debug assistant for the Laravel framework
+
+Laravel框架的调试助手

@@ -7,3 +7,5 @@ image: assets/markqvist_NomadNet_20260311_140550_310_20260311_140753_3a74e9.png
 # [markqvist/NomadNet](https://github.com/markqvist/NomadNet)
 
 Mesh communication with encryption and privacy
+
+带加密和隐私的网状通信

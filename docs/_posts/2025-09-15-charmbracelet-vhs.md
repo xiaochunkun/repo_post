@@ -7,3 +7,5 @@ image: assets/20250914T191751318--charmbracelet--vhs--20250914T191959968--croppe
 # [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 
 generate terminal GIFs from code for demos or testing
+
+从代码生成终端 GIF 动图，用于演示或测试

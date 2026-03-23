@@ -7,3 +7,5 @@ image: assets/killergerbah_asbplayer_20260206_150743_482_20260206_150801_3ae3df.
 # [killergerbah/asbplayer](https://github.com/killergerbah/asbplayer)
 
 Creates flashcards from subtitled videos
+
+从带字幕的视频创建闪卡

@@ -7,3 +7,5 @@ image: assets/20250906T220527593--fluent--fluent-bit--20250906T220723818--croppe
 # [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 
 lightweight tool for collecting and forwarding logs, metrics, and traces
+
+轻量级日志、指标和链路追踪的采集与转发工具

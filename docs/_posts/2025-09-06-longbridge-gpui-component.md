@@ -7,3 +7,5 @@ image: assets/20250906T023011333--longbridge--gpui-component--20250906T023312264
 # [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
 
 cross-platform desktop UI components for GPUI apps
+
+GPUI 应用的跨平台桌面 UI 组件

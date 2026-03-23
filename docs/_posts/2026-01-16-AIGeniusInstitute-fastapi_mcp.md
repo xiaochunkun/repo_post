@@ -7,3 +7,5 @@ image: assets/AIGeniusInstitute_fastapi_mcp_20260115_153651_501_20260115_153712_
 # [AIGeniusInstitute/fastapi_mcp](https://github.com/AIGeniusInstitute/fastapi_mcp)
 
 Exposes FastAPI endpoints as MCP tools with authentication
+
+将 FastAPI 端点作为具有身份验证的 MCP 工具暴露

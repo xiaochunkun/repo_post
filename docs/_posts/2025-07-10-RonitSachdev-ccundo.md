@@ -7,3 +7,5 @@ image: assets/RonitSachdev_ccundo_cropped.png
 # [RonitSachdev/ccundo](https://github.com/RonitSachdev/ccundo)
 
 Undo and redo Claude Code changes with granular control by reading session files
+
+通过读取会话文件，细粒度控制Claude Code更改的撤销和重做

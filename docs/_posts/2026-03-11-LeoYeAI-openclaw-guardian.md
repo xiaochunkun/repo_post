@@ -7,3 +7,5 @@ image: assets/LeoYeAI_openclaw_guardian_20260308_173021_534_20260308_173230_e2be
 # [LeoYeAI/openclaw-guardian](https://github.com/LeoYeAI/openclaw-guardian)
 
 Watchdog for gateway health with auto-repair and git-based rollback
+
+网关健康监控器，支持自动修复和基于 git 的回滚

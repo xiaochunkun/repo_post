@@ -7,3 +7,5 @@ image: assets/dfir_iris_iris_web_20260227_153153_105_20260227_153342_b11a6b.png
 # [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
 
 Platform for incident responders to share technical details during investigations
+
+事件响应者在调查期间共享技术细节的平台

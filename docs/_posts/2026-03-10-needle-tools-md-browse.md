@@ -7,3 +7,5 @@ image: assets/needle_tools_md_browse_20260221_111725_286_20260221_111749_83deaa.
 # [needle-tools/md-browse](https://github.com/needle-tools/md-browse)
 
 Browser for reading the web in markdown
+
+以Markdown格式阅读网页的浏览器

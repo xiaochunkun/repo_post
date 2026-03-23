@@ -7,3 +7,5 @@ image: assets/BAndysc_AvaloniaVisualBasic6_20251109_152425_601_20251109_163518_b
 # [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6/)
 
 A recreation of the Visual Basic 6 IDE in C#
+
+用C#复现Visual Basic 6 IDE

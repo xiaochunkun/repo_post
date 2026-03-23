@@ -7,3 +7,5 @@ image: assets/20250911T014352827--icloud-photos-downloader--icloud_photos_downlo
 # [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 
 command-line tool to download and sync iCloud photos to your computer
+
+命令行工具，用于下载和同步iCloud照片到电脑

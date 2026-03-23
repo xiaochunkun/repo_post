@@ -7,3 +7,5 @@ image: assets/deepseek_ai_DeepSeek_OCR_20260222_092130_792_20260222_092157_17fe6
 # [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 
 Compresses visual text into tokens for large language models
+
+将视觉文本压缩为大型语言模型的token

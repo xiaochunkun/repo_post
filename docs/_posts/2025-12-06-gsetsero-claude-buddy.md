@@ -7,3 +7,5 @@ image: assets/gsetsero_claude_buddy_20251204_230434_587_20251204_230456_ad661c.p
 # [gsetsero/claude-buddy](https://github.com/gsetsero/claude-buddy/)
 
 Integrates domain-specific personas into Claude Code workflows
+
+将领域特定角色集成到Claude Code工作流中

@@ -7,3 +7,5 @@ image: assets/luleyleo_clapgrep_20251218_025739_173_20251218_025802_94f688.png
 # [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep/)
 
 Searches text files, PDFs, and Office documents
+
+搜索文本文件、PDF 和 Office 文档

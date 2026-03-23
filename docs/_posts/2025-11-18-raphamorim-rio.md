@@ -7,3 +7,5 @@ image: assets/raphamorim_rio_20251118_064721_324_20251118_160137_a42da9--2025111
 # [raphamorim/rio](https://github.com/raphamorim/rio/)
 
 Hardware-accelerated GPU terminal emulator
+
+硬件加速的GPU终端模拟器

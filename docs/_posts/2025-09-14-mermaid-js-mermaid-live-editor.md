@@ -7,3 +7,5 @@ image: assets/20250912T194708117--mermaid-js--mermaid-live-editor--20250912T1956
 # [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
 
 Edit and preview flowcharts and diagrams in real time
+
+实时编辑和预览流程图和图表

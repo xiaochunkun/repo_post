@@ -7,3 +7,5 @@ image: assets/20250915T231211365--LlamaFamily--Llama-Chinese--20250918T051221413
 # [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
 
 Chinese Llama models for understanding and generating Chinese text
+
+用于理解和生成中文文本的中文 Llama 模型

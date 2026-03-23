@@ -7,3 +7,5 @@ image: assets/gonicus_gonnect_20251216_074019_292_20251216_074051_198338.png
 # [gonicus/gonnect](https://github.com/gonicus/gonnect/)
 
 Desktop integrated VoIP client for Linux
+
+Linux 桌面集成 VoIP 客户端

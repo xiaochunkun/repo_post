@@ -7,3 +7,5 @@ image: assets/bracesproul_gen_ui_computer_use_20251217_180234_812_20251217_18035
 # [bracesproul/gen-ui-computer-use](https://github.com/bracesproul/gen-ui-computer-use/)
 
 Generative UI for interacting with Computer Use Agents
+
+用于与 Computer Use Agents 交互的生成式 UI

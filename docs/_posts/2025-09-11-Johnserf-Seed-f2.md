@@ -7,3 +7,5 @@ image: assets/20250911T020242644--Johnserf-Seed--f2--20250911T020613474--cropped
 # [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2)
 
 multi-platform downloader for Douyin, TikTok, Twitter, Weibo and more
+
+支持抖音、TikTok、Twitter、微博等多平台的下载工具

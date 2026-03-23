@@ -7,3 +7,5 @@ image: assets/lucasgelfond_zerobrew_20260222_025254_166_20260222_025336_a7c9ff.p
 # [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
 
 Package manager for Homebrew formulas with uv-style architecture
+
+采用 uv 风格架构的 Homebrew 公式包管理器

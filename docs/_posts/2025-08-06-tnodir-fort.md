@@ -7,3 +7,5 @@ image: assets/tnodir_fort_cropped.png
 # [tnodir/fort](https://github.com/tnodir/fort)
 
 firewall for Windows, blocks and allows apps
+
+适用于 Windows 的防火墙，阻止和允许应用

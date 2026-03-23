@@ -7,3 +7,5 @@ image: assets/20251013T000119466--lipanski--docker-static-website--20251013T0005
 # [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website)
 
 tiny Docker image for serving static sites
+
+用于托管静态网站的微型 Docker 镜像

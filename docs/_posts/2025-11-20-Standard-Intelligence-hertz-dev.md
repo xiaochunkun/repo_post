@@ -7,3 +7,5 @@ image: assets/Standard_Intelligence_hertz_dev_20251118_180737_581_20251119_23585
 # [Standard-Intelligence/hertz-dev](https://github.com/Standard-Intelligence/hertz-dev/)
 
 Base model for full-duplex conversational audio
+
+全双工会话音频基础模型

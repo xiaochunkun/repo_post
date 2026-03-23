@@ -7,3 +7,5 @@ image: assets/catppuccin_web_file_explorer_icons_20251201_062912_524_20251201_06
 # [catppuccin/web-file-explorer-icons](https://github.com/catppuccin/web-file-explorer-icons/)
 
 Applies themes to file icons on code hosting sites
+
+为代码托管网站的文件图标应用主题

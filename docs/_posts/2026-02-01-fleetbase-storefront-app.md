@@ -7,3 +7,5 @@ image: assets/fleetbase_storefront_app_20260131_131200_714_20260131_131242_94881
 # [fleetbase/storefront-app](https://github.com/fleetbase/storefront-app)
 
 Hyperlocal ecommerce app for on-demand orders
+
+按需订单的本地电商应用

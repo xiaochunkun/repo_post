@@ -7,3 +7,5 @@ image: assets/20250928T060509300--dvershinin--gixy--20250928T064323009--cropped.
 # [dvershinin/gixy](https://github.com/dvershinin/gixy)
 
 analyzes nginx configs for security flaws and misconfigurations
+
+分析nginx配置以检测安全漏洞和错误配置

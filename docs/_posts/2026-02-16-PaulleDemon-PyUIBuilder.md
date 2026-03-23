@@ -7,3 +7,5 @@ image: assets/PaulleDemon_PyUIBuilder_20260212_155309_516_20260212_155418_4fa2cf
 # [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder)
 
 Drag and drop interface for Python GUI development
+
+Python GUI 开发的拖放界面

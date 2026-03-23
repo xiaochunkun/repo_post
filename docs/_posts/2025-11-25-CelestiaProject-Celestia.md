@@ -7,3 +7,5 @@ image: assets/CelestiaProject_Celestia_20251123_194703_724_20251125_012425_679ab
 # [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia/)
 
 Real-time 3D space simulation
+
+实时 3D 空间模拟

@@ -7,3 +7,5 @@ image: assets/Attendize_Attendize_cropped.png
 # [Attendize/Attendize](https://github.com/Attendize/Attendize)
 
 Open-source platform for event ticket sales and management
+
+开源活动票务销售和管理平台

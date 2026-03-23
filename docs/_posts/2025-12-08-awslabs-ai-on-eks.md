@@ -7,3 +7,5 @@ image: assets/awslabs_ai_on_eks_20251207_172330_663_20251207_172438_2e8e4c.png
 # [awslabs/ai-on-eks](https://github.com/awslabs/ai-on-eks/)
 
 Terraform blueprints for AI workloads on Amazon EKS
+
+用于Amazon EKS上AI工作负载的Terraform蓝图

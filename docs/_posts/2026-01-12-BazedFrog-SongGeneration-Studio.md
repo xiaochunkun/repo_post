@@ -7,3 +7,5 @@ image: assets/BazedFrog_SongGeneration_Studio_20260112_114002_461_20260112_11401
 # [BazedFrog/SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio)
 
 Generates songs with vocals and instrumentals from text prompts or audio references
+
+从文本提示或音频参考生成带人声和乐器的歌曲

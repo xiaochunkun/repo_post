@@ -7,3 +7,5 @@ image: assets/gradio-app_fastrtc_cropped.png
 # [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc)
 
 python library for real-time audio and video streams withGradio and FastAPI integrations
+
+Python库，用于实时音视频流，集成Gradio和FastAPI

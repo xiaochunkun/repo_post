@@ -7,3 +7,5 @@ image: assets/dalathegreat_Battery_Emulator_20251125_034149_737_20251127_164730_
 # [dalathegreat/Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator/)
 
 Repurposes EV batteries for stationary storage
+
+将电动汽车电池重新用于固定存储

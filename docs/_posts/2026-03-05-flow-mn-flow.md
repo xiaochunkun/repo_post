@@ -7,3 +7,5 @@ image: assets/flow_mn_flow_20260222_131032_085_20260222_131051_bcaf65.png
 # [flow-mn/flow](https://github.com/flow-mn/flow)
 
 Expense tracker with offline support and automated backups
+
+支持离线和自动备份的支出追踪器

@@ -7,3 +7,5 @@ image: assets/claudeforge_marketplace_20260312_020430_117_20260312_020729_738fb7
 # [claudeforge/marketplace](https://github.com/claudeforge/marketplace)
 
 161 validated plugins for Claude Code CLI
+
+161个已验证的Claude Code CLI插件

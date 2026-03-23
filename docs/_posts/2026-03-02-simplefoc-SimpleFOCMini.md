@@ -7,3 +7,5 @@ image: assets/simplefoc_SimpleFOCMini_20260201_052740_000_20260201_052817_973e2e
 # [simplefoc/SimpleFOCMini](https://github.com/simplefoc/SimpleFOCMini)
 
 Open-source motor driver board for field oriented control
+
+用于磁场定向控制的开源电机驱动板

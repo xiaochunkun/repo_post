@@ -7,3 +7,5 @@ image: assets/terminators2025_RealMirror_20260115_104457_623_20260115_104543_726
 # [terminators2025/RealMirror](https://github.com/terminators2025/RealMirror)
 
 Embodied AI platform for robot teleoperation and training
+
+用于机器人遥操作和训练的具身AI平台

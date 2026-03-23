@@ -7,3 +7,5 @@ image: assets/Niek_obs_web_20251025_001953_712_20251025_004419_f0e4da--20251025T
 # [Niek/obs-web](https://github.com/Niek/obs-web/)
 
 Control OBS from a web browser
+
+从网页浏览器控制OBS

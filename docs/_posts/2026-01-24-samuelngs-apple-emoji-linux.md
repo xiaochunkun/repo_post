@@ -7,3 +7,5 @@ image: assets/samuelngs_apple_emoji_linux_20260122_105533_400_20260122_105549_ba
 # [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux)
 
 Brings Apple emojis to Linux
+
+将 Apple 表情符号引入 Linux

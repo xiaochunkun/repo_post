@@ -7,3 +7,5 @@ image: assets/AkashRajpurohit_git-sync_cropped.png
 # [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync)
 
 backs up all your git repos to your machine
+
+将所有git仓库备份到本地

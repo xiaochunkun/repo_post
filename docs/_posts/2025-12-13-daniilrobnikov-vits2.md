@@ -7,3 +7,5 @@ image: assets/daniilrobnikov_vits2_20251209_061031_612_20251209_061054_c274db.pn
 # [daniilrobnikov/vits2](https://github.com/daniilrobnikov/vits2/)
 
 Single-stage text-to-speech model with adversarial learning
+
+采用对抗学习的单阶段文本转语音模型

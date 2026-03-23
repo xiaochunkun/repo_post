@@ -7,3 +7,5 @@ image: assets/edneyosf_Edconv_20251221_201838_170_20251221_201855_53a3b7.png
 # [edneyosf/Edconv](https://github.com/edneyosf/Edconv/)
 
 GUI for FFmpeg video and audio conversion
+
+FFmpeg 音视频转换 GUI

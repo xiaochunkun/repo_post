@@ -7,3 +7,5 @@ image: assets/balzack_databag_cropped.png
 # [balzack/databag](https://github.com/balzack/databag)
 
 self-hosted messenger for private chats
+
+自托管私人聊天信使

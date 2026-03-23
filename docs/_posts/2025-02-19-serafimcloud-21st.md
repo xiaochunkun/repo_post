@@ -7,3 +7,5 @@ image: assets/serafimcloud_21st_cropped.png
 # [serafimcloud/21st](https://github.com/serafimcloud/21st)
 
 React UI component registry
+
+React UI组件注册表

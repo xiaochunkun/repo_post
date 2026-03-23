@@ -7,3 +7,5 @@ image: assets/Astrosp_Awesome_OSINT_For_Everything_20251125_170639_528_20251127_
 # [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything/)
 
 List of OSINT tools for penetration testing and information gathering
+
+用于渗透测试和信息收集的 OSINT 工具列表

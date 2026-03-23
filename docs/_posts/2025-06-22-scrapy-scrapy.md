@@ -7,3 +7,5 @@ image: assets/scrapy_scrapy_cropped.png
 # [scrapy/scrapy](https://github.com/scrapy/scrapy)
 
 Python framework for web crawling and scraping with customizable spiders
+
+用于网络爬取和抓取的Python框架，具备可自定义的爬虫

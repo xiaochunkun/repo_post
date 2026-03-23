@@ -7,3 +7,5 @@ image: assets/alpha_minus_twin_lore_20260308_200952_124_20260308_201121_3b21fb.p
 # [alpha-minus/twin-lore](https://github.com/alpha-minus/twin-lore)
 
 Syncs game guides and maps to second screen of handhelds
+
+将游戏指南和地图同步到手持设备的第二屏幕

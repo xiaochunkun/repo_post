@@ -7,3 +7,5 @@ image: assets/20250903T235309118--stanfordnlp--dspy--20250903T235735333--cropped
 # [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
 modular AI programming with LLMs, not just prompting
+
+模块化 AI 编程框架，不仅仅是提示词

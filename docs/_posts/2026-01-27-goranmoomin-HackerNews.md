@@ -7,3 +7,5 @@ image: assets/goranmoomin_HackerNews_20260121_013721_303_20260121_013736_983856.
 # [goranmoomin/HackerNews](https://github.com/goranmoomin/HackerNews)
 
 HackerNews client for macOS using AppKit
+
+使用AppKit的macOS版HackerNews客户端

@@ -7,3 +7,5 @@ image: assets/plankanban_planka_cropped.png
 # [plankanban/planka](https://github.com/plankanban/planka)
 
 kanban boards for team projects, open source
+
+团队项目看板工具，开源

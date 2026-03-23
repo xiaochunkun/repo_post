@@ -7,3 +7,5 @@ image: assets/upsetjs_venn.js_cropped.png
 # [upsetjs/venn.js](https://github.com/upsetjs/venn.js)
 
 JavaScript library for drawing Venn and Euler diagrams
+
+用于绘制 Venn 和 Euler 图的 JavaScript 库

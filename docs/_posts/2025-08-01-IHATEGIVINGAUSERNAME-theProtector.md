@@ -7,3 +7,5 @@ image: assets/IHATEGIVINGAUSERNAME_theProtector_cropped.png
 # [IHATEGIVINGAUSERNAME/theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector)
 
 Bash script monitors Linux in real time, blocks threats, has honeypots and malware scans
+
+Bash脚本实时监控Linux，阻止威胁，含蜜罐和恶意软件扫描

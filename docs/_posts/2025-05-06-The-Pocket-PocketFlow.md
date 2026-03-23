@@ -7,3 +7,5 @@ image: assets/The-Pocket_PocketFlow_cropped.png
 # [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow)
 
 Minimalist LLM framework for building agent-based applications
+
+简约的 LLM 框架，用于构建基于代理的应用

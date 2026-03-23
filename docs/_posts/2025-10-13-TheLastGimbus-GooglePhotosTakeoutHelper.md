@@ -7,3 +7,5 @@ image: assets/20251013T001824064--TheLastGimbus--GooglePhotosTakeoutHelper--2025
 # [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 
 organizes Google Photos Takeout zips into a single clean folder
+
+将 Google Photos Takeout 压缩包整理到单个整洁文件夹

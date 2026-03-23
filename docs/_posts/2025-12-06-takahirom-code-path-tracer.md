@@ -7,3 +7,5 @@ image: assets/takahirom_code_path_tracer_20251204_222826_504_20251204_222902_e1f
 # [takahirom/code-path-tracer](https://github.com/takahirom/code-path-tracer/)
 
 Visual method tracing for JVM and Android
+
+JVM和Android的可视化方法追踪

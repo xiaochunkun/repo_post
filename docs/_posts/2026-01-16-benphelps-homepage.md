@@ -7,3 +7,5 @@ image: assets/benphelps_homepage_20260115_211820_033_20260115_211835_f036b0.png
 # [benphelps/homepage](https://github.com/benphelps/homepage)
 
 Dashboard with service integrations and docker discovery
+
+集成服务和 Docker 发现的仪表板

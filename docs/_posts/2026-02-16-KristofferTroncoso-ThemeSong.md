@@ -7,3 +7,5 @@ image: assets/KristofferTroncoso_ThemeSong_20260213_110634_013_20260213_110737_c
 # [KristofferTroncoso/ThemeSong](https://github.com/KristofferTroncoso/ThemeSong)
 
 Visualizers and themes for YouTube Music
+
+YouTube Music 的可视化器和主题

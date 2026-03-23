@@ -7,3 +7,5 @@ image: assets/woodpecker_ci_woodpecker_20251225_144245_536_20251225_144303_d5a8a
 # [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker/)
 
 CI/CD engine with extensibility
+
+具有可扩展性的 CI/CD 引擎

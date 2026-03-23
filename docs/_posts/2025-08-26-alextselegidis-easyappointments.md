@@ -7,3 +7,5 @@ image: assets/20250826T023849210--alextselegidis--easyappointments--20250826T024
 # [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments)
 
 open source appointment booking for teams and businesses
+
+面向团队和企业的开源预约系统

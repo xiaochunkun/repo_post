@@ -7,3 +7,5 @@ image: assets/cdleon_awesome-terminals_cropped.png
 # [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals)
 
 List of terminal emulators and related tools
+
+终端模拟器及相关工具列表

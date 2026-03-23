@@ -7,3 +7,5 @@ image: assets/apexcharts_react_apexcharts_20260106_091418_701_20260106_091435_1e
 # [apexcharts/react-apexcharts](https://github.com/apexcharts/react-apexcharts/)
 
 React wrapper for interactive charts
+
+交互式图表的 React 封装

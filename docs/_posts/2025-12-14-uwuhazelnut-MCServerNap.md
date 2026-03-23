@@ -7,3 +7,5 @@ image: assets/uwuhazelnut_MCServerNap_20251213_041541_932_20251213_041653_10bc28
 # [uwuhazelnut/MCServerNap](https://github.com/uwuhazelnut/MCServerNap/)
 
 Auto-starts Minecraft servers on connection
+
+连接时自动启动 Minecraft 服务器

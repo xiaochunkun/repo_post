@@ -7,3 +7,5 @@ image: assets/shinshin86_oh-my-logo_cropped.png
 # [shinshin86/oh-my-logo](https://github.com/shinshin86/oh-my-logo)
 
 Displays giant colorful ASCII-art logos in terminal
+
+在终端中显示大型彩色ASCII艺术徽标

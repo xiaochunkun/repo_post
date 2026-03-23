@@ -7,3 +7,5 @@ image: assets/boardgameio_boardgame_io_20260206_021341_317_20260206_021356_8cf89
 # [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)
 
 Engine for turn-based games with multiplayer networking
+
+支持多人网络的回合制游戏引擎

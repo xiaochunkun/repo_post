@@ -7,3 +7,5 @@ image: assets/mark3labs_mcp-go_cropped.png
 # [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
 
 MCP Go is a Model Context Protocol implementation in Go
+
+MCP Go是Go语言实现的Model Context Protocol

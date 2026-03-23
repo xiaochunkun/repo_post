@@ -7,3 +7,5 @@ image: assets/itsManjeet_rlxos_cropped.png
 # [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos)
 
 experimental Linux distro built from scratch in Go
+
+用 Go 从头构建的实验性 Linux 发行版

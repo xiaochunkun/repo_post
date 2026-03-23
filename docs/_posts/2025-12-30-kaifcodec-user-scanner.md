@@ -7,3 +7,5 @@ image: assets/kaifcodec_user_scanner_20251229_102833_728_20251229_102930_32fbc6.
 # [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner/)
 
 Scans usernames across social and developer platforms
+
+扫描社交和开发者平台的用户名

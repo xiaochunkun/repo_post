@@ -7,3 +7,5 @@ image: assets/rezaduty_cybersecurity_career_path_20260120_021509_419_20260120_02
 # [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path)
 
 Roadmap for cybersecurity career roles
+
+网络安全职业角色路线图

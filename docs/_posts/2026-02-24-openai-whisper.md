@@ -7,3 +7,5 @@ image: assets/openai_whisper_20260209_030712_974_20260209_030807_7b17a0.png
 # [openai/whisper](https://github.com/openai/whisper)
 
 Transcribes and translates speech across languages
+
+跨语言转录和翻译语音

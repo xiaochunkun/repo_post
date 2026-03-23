@@ -7,3 +7,5 @@ image: assets/atomic14_esp32_usb_uvc_experiments_20260205_134944_826_20260205_13
 # [atomic14/esp32-usb-uvc-experiments](https://github.com/atomic14/esp32-usb-uvc-experiments)
 
 Turns ESP32-S3 into USB webcam
+
+将ESP32-S3变为USB网络摄像头

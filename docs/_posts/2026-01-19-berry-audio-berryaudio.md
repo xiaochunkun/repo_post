@@ -7,3 +7,5 @@ image: assets/berry_audio_berryaudio_20260115_211742_370_20260115_211759_126d4b.
 # [berry-audio/berryaudio](https://github.com/berry-audio/berryaudio)
 
 Audio streamer for Raspberry Pi
+
+Raspberry Pi的音频流播放器

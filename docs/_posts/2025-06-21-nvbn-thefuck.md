@@ -7,3 +7,5 @@ image: assets/nvbn_thefuck_cropped.png
 # [nvbn/thefuck](https://github.com/nvbn/thefuck)
 
 Corrects previous console command typos and mistakes
+
+纠正先前控制台命令的拼写错误和错误

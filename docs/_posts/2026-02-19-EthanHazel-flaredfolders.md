@@ -7,3 +7,5 @@ image: assets/EthanHazel_flaredfolders_20260217_004548_176_20260217_004646_40ba0
 # [EthanHazel/flaredfolders](https://github.com/EthanHazel/flaredfolders)
 
 Customizes folder icons for Windows
+
+自定义Windows文件夹图标

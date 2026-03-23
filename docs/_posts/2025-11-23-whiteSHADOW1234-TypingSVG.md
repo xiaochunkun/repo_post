@@ -7,3 +7,5 @@ image: assets/whiteSHADOW1234_TypingSVG_20251122_192548_020_20251123_001435_07e9
 # [whiteSHADOW1234/TypingSVG](https://github.com/whiteSHADOW1234/TypingSVG/)
 
 Generates multi-line typing SVG animations
+
+生成多行打字SVG动画

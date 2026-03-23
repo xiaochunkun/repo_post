@@ -7,3 +7,5 @@ image: assets/crazy_max_WindowsSpyBlocker_20260111_035209_823_20260111_035223_8a
 # [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
 
 Blocks spying and tracking on Windows systems
+
+阻止Windows系统上的间谍和跟踪

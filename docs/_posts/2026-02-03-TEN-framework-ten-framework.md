@@ -7,3 +7,5 @@ image: assets/TEN_framework_ten_framework_20260203_023248_494_20260203_023308_c5
 # [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
 
 Framework for real-time multimodal conversational AI
+
+实时多模态对话 AI 框架

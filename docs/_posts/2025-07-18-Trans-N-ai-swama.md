@@ -7,3 +7,5 @@ image: assets/Trans-N-ai_swama_cropped.png
 # [Trans-N-ai/swama](https://github.com/Trans-N-ai/swama)
 
 run local LLMs fast on your Mac with Swift and MLX
+
+使用Swift和MLX在Mac上快速运行本地LLM

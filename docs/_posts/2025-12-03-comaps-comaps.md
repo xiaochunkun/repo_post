@@ -7,3 +7,5 @@ image: assets/comaps_comaps_20251201_072259_002_20251201_072322_d35ea4.png
 # [comaps/comaps](https://github.com/comaps/comaps/)
 
 Community fork of Organic Maps for offline navigation
+
+Organic Maps 的社区分支，用于离线导航

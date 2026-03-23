@@ -7,3 +7,5 @@ image: assets/cyberbotics_webots_20260212_112342_669_20260212_112429_0f5209.png
 # [cyberbotics/webots](https://github.com/cyberbotics/webots)
 
 Simulates robots, vehicles, and mechanical systems
+
+模拟机器人、车辆和机械系统

@@ -7,3 +7,5 @@ image: assets/onebirdrocks_ebook_mcp_20251224_120350_275_20251224_120407_9b406b.
 # [onebirdrocks/ebook-mcp](https://github.com/onebirdrocks/ebook-mcp/)
 
 Connects ebooks to LLMs via MCP
+
+通过 MCP 连接电子书与 LLM

@@ -7,3 +7,5 @@ image: assets/simoninns_DomesdayDuplicator_20260227_203900_273_20260227_204055_c
 # [simoninns/DomesdayDuplicator](https://github.com/simoninns/DomesdayDuplicator)
 
 Captures LaserDisc RF data via USB 3.0
+
+通过 USB 3.0 捕获 LaserDisc RF 数据

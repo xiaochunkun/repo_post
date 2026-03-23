@@ -7,3 +7,5 @@ image: assets/d78ui98_APKDeepLens_cropped.png
 # [d78ui98/APKDeepLens](https://github.com/d78ui98/APKDeepLens)
 
 scan Android APKs for security issues and generate reports
+
+扫描Android APK的安全问题并生成报告

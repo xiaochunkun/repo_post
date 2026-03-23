@@ -6,3 +6,5 @@ image: assets/saidutt46_domain_check_20251025_035122_033_20251025_041116_0a513f-
 # [saidutt46/domain-check](https://github.com/saidutt46/domain-check/)
 
 CLI tool for checking domain availability
+
+检查域名可用性的CLI工具

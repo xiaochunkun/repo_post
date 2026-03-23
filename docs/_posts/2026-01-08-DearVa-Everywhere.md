@@ -7,3 +7,5 @@ image: assets/DearVa_Everywhere_20260108_032236_045_20260108_032255_865d7d.png
 # [DearVa/Everywhere](https://github.com/DearVa/Everywhere)
 
 Context-aware AI assistant for the desktop
+
+桌面上的上下文感知 AI 助手

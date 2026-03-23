@@ -7,3 +7,5 @@ image: assets/FaridSafi_react_native_gifted_chat_20260222_072118_332_20260222_07
 # [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
 
 Chat UI for React Native and Web
+
+React Native 和 Web 的聊天 UI

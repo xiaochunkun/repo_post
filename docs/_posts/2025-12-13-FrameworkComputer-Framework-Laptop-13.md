@@ -7,3 +7,5 @@ image: assets/FrameworkComputer_Framework_Laptop_13_20251209_053910_458_20251209
 # [FrameworkComputer/Framework-Laptop-13](https://github.com/FrameworkComputer/Framework-Laptop-13/)
 
 Documentation and CAD for modular laptop components
+
+模块化笔记本电脑组件的文档和 CAD

@@ -7,3 +7,5 @@ image: assets/Waboodoo_HTTP_Shortcuts_20251025_044356_958_20251025_085133_8ae451
 # [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts/)
 
 Create home screen shortcuts to trigger HTTP requests
+
+创建触发HTTP请求的主屏幕快捷方式

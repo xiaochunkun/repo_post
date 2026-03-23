@@ -7,3 +7,5 @@ image: assets/msasanmh_DNSveil_20251219_132727_978_20251219_132744_3a8145.png
 # [msasanmh/DNSveil](https://github.com/msasanmh/DNSveil/)
 
 Bypasses censorship through encrypted DNS protocols and SNI fragmentation
+
+通过加密 DNS 协议和 SNI 分段绕过审查

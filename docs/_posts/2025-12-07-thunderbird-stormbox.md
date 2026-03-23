@@ -7,3 +7,5 @@ image: assets/thunderbird_stormbox_20251205_023946_220_20251205_024009_3e6ee9.pn
 # [thunderbird/stormbox](https://github.com/thunderbird/stormbox/)
 
 Vue 3 email client using JMAP
+
+使用JMAP的Vue 3电子邮件客户端

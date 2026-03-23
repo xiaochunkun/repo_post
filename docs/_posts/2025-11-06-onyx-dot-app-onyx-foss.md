@@ -7,3 +7,5 @@ image: assets/onyx_dot_app_onyx_foss_20251106_031851_313_20251106_133724_c18612-
 # [onyx-dot-app/onyx-foss](https://github.com/onyx-dot-app/onyx-foss/)
 
 Self-hostable chat UI for LLMs with RAG and web search
+
+支持RAG和网络搜索的自托管LLM聊天界面

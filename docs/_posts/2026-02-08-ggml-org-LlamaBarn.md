@@ -7,3 +7,5 @@ image: assets/ggml_org_LlamaBarn_20260202_225930_242_20260202_230012_5c2507.png
 # [ggml-org/LlamaBarn](https://github.com/ggml-org/LlamaBarn)
 
 Menu bar app for local LLMs
+
+本地 LLM 的菜单栏应用

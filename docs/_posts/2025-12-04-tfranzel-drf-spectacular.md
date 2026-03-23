@@ -7,3 +7,5 @@ image: assets/tfranzel_drf_spectacular_20251201_082924_914_20251201_083002_9d294
 # [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular/)
 
 OpenAPI schema generation for Django REST framework
+
+Django REST框架的OpenAPI模式生成工具

@@ -7,3 +7,5 @@ image: assets/penberg_agentfs_20251118_041115_099_20251118_045724_e0ce2c--202511
 # [penberg/agentfs](https://github.com/penberg/agentfs/)
 
 Filesystem explicitly designed for AI agents
+
+专为AI代理设计的文件系统

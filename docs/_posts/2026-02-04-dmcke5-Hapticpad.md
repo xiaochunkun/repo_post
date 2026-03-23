@@ -7,3 +7,5 @@ image: assets/dmcke5_Hapticpad_20260202_232029_852_20260202_232053_bcd99e.png
 # [dmcke5/Hapticpad](https://github.com/dmcke5/Hapticpad)
 
 Macropad with haptic feedback wheel
+
+带触觉反馈滚轮的宏键盘

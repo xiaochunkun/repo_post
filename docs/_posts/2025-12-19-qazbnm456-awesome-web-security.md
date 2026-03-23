@@ -7,3 +7,5 @@ image: assets/qazbnm456_awesome_web_security_20251217_200429_364_20251217_200534
 # [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security/)
 
 Curated list of web security materials
+
+精选的 Web 安全资料列表

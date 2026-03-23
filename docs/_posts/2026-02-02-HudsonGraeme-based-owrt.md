@@ -7,3 +7,5 @@ image: assets/HudsonGraeme_based_owrt_20260201_052941_580_20260201_053018_551b36
 # [HudsonGraeme/based-owrt](https://github.com/HudsonGraeme/based-owrt)
 
 Interface for OpenWrt using native ubus API
+
+使用原生ubus API的OpenWrt界面

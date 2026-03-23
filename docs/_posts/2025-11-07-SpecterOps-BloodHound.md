@@ -7,3 +7,5 @@ image: assets/SpecterOps_BloodHound_20251106_220108_653_20251106_223548_41a10b--
 # [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound/)
 
 Reveals hidden relationships in Active Directory and Azure
+
+揭示Active Directory和Azure中隐藏关系的工具

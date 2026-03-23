@@ -7,3 +7,5 @@ image: assets/20250915T225223524--EFForg--rayhunter--20250915T230340166--cropped
 # [EFForg/rayhunter](https://github.com/EFForg/rayhunter)
 
 Rayhunter by EFF is an open-source tool that detects IMSI catchers and Stingray devices using an affordable mobile hotspot
+
+EFF 的 Rayhunter 是一个开源工具，使用经济实惠的移动热点检测 IMSI 捕捉器和 Stingray 设备

@@ -7,3 +7,5 @@ image: assets/ggml_org_LlamaBarn_20251025_122818_335_20251025_225107_51b5ce--202
 # [ggml-org/LlamaBarn](https://github.com/ggml-org/LlamaBarn/)
 
 Menu bar app to run local LLMs on a Mac
+
+在Mac上运行本地LLM的菜单栏应用

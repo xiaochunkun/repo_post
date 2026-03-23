@@ -7,3 +7,5 @@ image: assets/20250829T034837832--ekristen--aws-nuke--20250829T035517691--croppe
 # [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke)
 
 delete all aws resources fast
+
+快速删除所有 AWS 资源

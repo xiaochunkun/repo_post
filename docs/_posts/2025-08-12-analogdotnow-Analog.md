@@ -7,3 +7,5 @@ image: assets/20250810T070318--analogdotnow--Analog--20250811T054015--cropped.pn
 # [analogdotnow/Analog](https://github.com/analogdotnow/Analog)
 
 open-source calendar app with Google/Microsoft sync built on Bun and Postgres
+
+基于Bun和Postgres构建的、支持Google/Microsoft同步的开源日历应用

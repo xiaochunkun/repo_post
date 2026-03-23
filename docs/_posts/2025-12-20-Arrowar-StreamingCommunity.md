@@ -7,3 +7,5 @@ image: assets/Arrowar_StreamingCommunity_20251218_094121_242_20251218_094138_0c4
 # [Arrowar/StreamingCommunity](https://github.com/Arrowar/StreamingCommunity/)
 
 Downloads movies and anime from streaming sites
+
+从流媒体网站下载电影和动漫

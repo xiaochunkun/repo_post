@@ -7,3 +7,5 @@ image: assets/ryoppippi_sitemcp_cropped.png
 # [ryoppippi/sitemcp](https://github.com/ryoppippi/sitemcp)
 
 fetch a whole website and run it as an mcp server
+
+抓取整个网站并作为mcp服务器运行

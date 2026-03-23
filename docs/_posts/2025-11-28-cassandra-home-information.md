@@ -7,3 +7,5 @@ image: assets/cassandra_home_information_20251125_231609_802_20251128_212411_e58
 # [cassandra/home-information](https://github.com/cassandra/home-information/)
 
 Home management via floor plans
+
+通过平面图进行家庭管理

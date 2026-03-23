@@ -7,3 +7,5 @@ image: assets/ddean2009_MoneyPrinterPlus--20250830T050820437--cropped.png
 # [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)
 
 AI tool for batch-generating and uploading short videos
+
+AI 批量生成和上传短视频的工具

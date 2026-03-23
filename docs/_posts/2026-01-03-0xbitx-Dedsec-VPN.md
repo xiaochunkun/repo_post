@@ -7,3 +7,5 @@ image: assets/0xbitx_Dedsec_VPN_20260102_064741_302_20260102_064757_90372f.png
 # [0xbitx/Dedsec-VPN](https://github.com/0xbitx/Dedsec-VPN/)
 
 Hides IP and blocks IPv6 leaks on Linux
+
+在 Linux 上隐藏 IP 并阻止 IPv6 泄漏

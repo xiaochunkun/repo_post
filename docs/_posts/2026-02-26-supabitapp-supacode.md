@@ -7,3 +7,5 @@ image: assets/supabitapp_supacode_20260224_044804_122_20260224_044819_580c88.png
 # [supabitapp/supacode](https://github.com/supabitapp/supacode)
 
 Runs coding agents in isolated worktrees
+
+在隔离工作树中运行编码代理

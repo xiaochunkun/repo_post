@@ -7,3 +7,5 @@ image: assets/jina-ai_node-DeepResearch_cropped.png
 # [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
 
 open-source tool for automated search, reading, and reasoning
+
+自动化搜索、阅读和推理的开源工具

@@ -7,3 +7,5 @@ image: assets/brentvollebregt_auto_py_to_exe_20251023_180531_938_20251023_192231
 # [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe/)
 
 A graphical interface for PyInstaller
+
+PyInstaller的图形界面

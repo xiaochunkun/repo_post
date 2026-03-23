@@ -7,3 +7,5 @@ image: assets/Ekultek_WhatBreach_20251103_232203_373_20251103_233413_019f43--202
 # [Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach/)
 
 Finds and downloads data breaches for an email address
+
+查找并下载邮箱地址的数据泄露信息

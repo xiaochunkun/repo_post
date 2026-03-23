@@ -7,3 +7,5 @@ image: assets/obra_claude_memory_extractor_20251210_030128_589_20251210_030150_e
 # [obra/claude-memory-extractor](https://github.com/obra/claude-memory-extractor/)
 
 Extracts lessons from Claude conversations
+
+从 Claude 对话中提取经验教训

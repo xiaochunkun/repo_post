@@ -7,3 +7,5 @@ image: assets/open_edge_platform_geti_20260318_130849_366_20260318_130952_e31864
 # [open-edge-platform/geti](https://github.com/open-edge-platform/geti)
 
 Builds computer vision models fast
+
+快速构建计算机视觉模型

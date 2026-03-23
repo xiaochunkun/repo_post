@@ -7,3 +7,5 @@ image: assets/Paulie_ai_Mac_Diff_20260314_203532_996_20260314_203730_c5d430.png
 # [Paulie-ai/Mac-Diff](https://github.com/Paulie-ai/Mac-Diff)
 
 Score-based diffusion model for protein ensembles
+
+蛋白质集合的基于分数的扩散模型

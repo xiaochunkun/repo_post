@@ -7,3 +7,5 @@ image: assets/borgmatic_collective_borgmatic_20251025_184948_615_20251025_225859
 # [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic/)
 
 Backup software with client-side encryption
+
+具有客户端加密的备份软件

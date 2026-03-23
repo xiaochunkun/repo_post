@@ -7,3 +7,5 @@ image: assets/NicolaSpadari_nuxtor_20251205_035614_285_20251205_035657_b873c3.pn
 # [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor/)
 
 Template for building desktop apps with Nuxt 4 and Tauri 2
+
+使用 Nuxt 4 和 Tauri 2 构建桌面应用的模板

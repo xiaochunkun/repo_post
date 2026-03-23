@@ -7,3 +7,5 @@ image: assets/addyosmani_video_compress_20260217_181016_294_20260217_181041_eaf3
 # [addyosmani/video-compress](https://github.com/addyosmani/video-compress)
 
 Compresses video in the browser using FFMPEG.wasm
+
+使用 FFMPEG.wasm 在浏览器中压缩视频

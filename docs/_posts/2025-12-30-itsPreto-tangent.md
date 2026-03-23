@@ -7,3 +7,5 @@ image: assets/itsPreto_tangent_20251229_070137_940_20251229_070155_389621.png
 # [itsPreto/tangent](https://github.com/itsPreto/tangent/)
 
 Canvas for exploring AI conversations
+
+探索AI对话的画布

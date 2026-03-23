@@ -7,3 +7,5 @@ image: assets/Automata_Labs_team_code_sandbox_mcp_20251209_001251_909_20251209_0
 # [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp/)
 
 Executes code within Docker containers
+
+在Docker容器内执行代码

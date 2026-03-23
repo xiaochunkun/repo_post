@@ -7,3 +7,5 @@ image: assets/cssninjaStudio_fresh_20260117_112908_859_20260117_112929_edc56d.pn
 # [cssninjaStudio/fresh](https://github.com/cssninjaStudio/fresh)
 
 Landing page starter with Astro and Bulma
+
+基于Astro和Bulma的着陆页启动器

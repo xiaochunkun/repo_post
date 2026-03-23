@@ -7,3 +7,5 @@ image: assets/dmtrKovalenko_fff.nvim_cropped.png
 # [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 
 Fuzzy file finder plugin for Neovim
+
+Neovim的模糊文件查找插件

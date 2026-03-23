@@ -7,3 +7,5 @@ image: assets/epfl-dlab_aiflows--20250815T021557644--cropped.png
 # [epfl-dlab/aiflows](https://github.com/epfl-dlab/aiflows)
 
 framework for building modular collaborative AI workflows
+
+用于构建模块化协作 AI 工作流的框架

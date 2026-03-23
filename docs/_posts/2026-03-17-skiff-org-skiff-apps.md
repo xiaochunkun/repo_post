@@ -7,3 +7,5 @@ image: assets/skiff_org_skiff_apps_20260316_164443_395_20260316_164517_28e510.pn
 # [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps)
 
 Private encrypted workspace for communication and storage
+
+私密加密工作空间，用于通信和存储

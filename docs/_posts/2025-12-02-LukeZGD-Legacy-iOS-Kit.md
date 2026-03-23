@@ -7,3 +7,5 @@ image: assets/LukeZGD_Legacy_iOS_Kit_20251201_013500_203_20251201_013534_7b2ee6.
 # [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit/)
 
 Restores, downgrades, and jailbreaks iOS devices
+
+恢复、降级和越狱 iOS 设备

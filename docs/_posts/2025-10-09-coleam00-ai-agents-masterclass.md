@@ -7,3 +7,5 @@ image: assets/20251009T050518251--coleam00--ai-agents-masterclass--20251009T0513
 # [coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass)
 
 Step-by-step guide for building AI agents, with code, diagrams, and practical examples
+
+构建 AI 代理的分步指南，包含代码、图表和实际示例

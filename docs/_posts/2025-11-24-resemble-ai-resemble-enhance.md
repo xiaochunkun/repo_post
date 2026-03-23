@@ -7,3 +7,5 @@ image: assets/resemble_ai_resemble_enhance_20251123_064105_443_20251124_001841_c
 # [resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance/)
 
 Denoises speech and extends bandwidth
+
+降噪语音并扩展带宽

@@ -7,3 +7,5 @@ image: assets/AnthonyGress_lab_dash_20260210_120244_570_20260210_120302_ae7ef8.p
 # [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash)
 
 Dashboard for homelab services and system information
+
+家庭实验室服务和系统信息仪表板

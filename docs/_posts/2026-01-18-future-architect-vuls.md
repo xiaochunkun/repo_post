@@ -7,3 +7,5 @@ image: assets/future_architect_vuls_20260116_102823_381_20260116_102837_494362.p
 # [future-architect/vuls](https://github.com/future-architect/vuls)
 
 Agent-less vulnerability scanner for Linux and FreeBSD
+
+Linux和FreeBSD的无代理漏洞扫描器

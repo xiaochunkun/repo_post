@@ -7,3 +7,5 @@ image: assets/fynks_debrid_services_comparison_20251201_101026_221_20251201_1011
 # [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison/)
 
 Compares pricing and features of debrid services
+
+比较debrid服务的价格和功能

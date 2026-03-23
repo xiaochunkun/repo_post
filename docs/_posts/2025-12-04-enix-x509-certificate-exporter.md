@@ -7,3 +7,5 @@ image: assets/enix_x509_certificate_exporter_20251201_095255_221_20251201_095536
 # [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter/)
 
 Prometheus exporter for certificate expiration monitoring
+
+用于证书过期监控的Prometheus导出器

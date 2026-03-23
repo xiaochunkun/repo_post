@@ -7,3 +7,5 @@ image: assets/trimstray_nginx_admins_handbook_20251029_014811_762_20251029_02571
 # [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook/)
 
 Notes on web server administration basics, tips, and tricks
+
+关于 Web 服务器管理基础、技巧和窍门的笔记

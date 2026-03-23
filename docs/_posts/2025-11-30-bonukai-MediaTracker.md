@@ -7,3 +7,5 @@ image: assets/bonukai_MediaTracker_20251127_181256_491_20251130_041153_e03495--2
 # [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker/)
 
 Self-hosted tracker for movies, TV, games, and books
+
+自托管的电影、电视、游戏和书籍追踪器

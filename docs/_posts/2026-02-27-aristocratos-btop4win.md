@@ -7,3 +7,5 @@ image: assets/aristocratos_btop4win_20260227_142131_610_20260227_142248_885c16.p
 # [aristocratos/btop4win](https://github.com/aristocratos/btop4win)
 
 System resource monitor for Windows
+
+Windows系统资源监控器

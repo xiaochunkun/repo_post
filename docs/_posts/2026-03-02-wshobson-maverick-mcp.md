@@ -7,3 +7,5 @@ image: assets/wshobson_maverick_mcp_20260216_155046_520_20260216_155133_8d81c9.p
 # [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp)
 
 Stock analysis server for Claude Desktop
+
+Claude Desktop的股票分析服务器

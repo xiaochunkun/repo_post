@@ -7,3 +7,5 @@ image: assets/20251005T102531391--9technologygroup--patchmon.net--20251005T10384
 # [9technologygroup/patchmon.net](https://github.com/9technologygroup/patchmon.net)
 
 centralized dashboard for linux patch monitoring and inventory
+
+Linux 补丁监控和库存的集中式仪表板

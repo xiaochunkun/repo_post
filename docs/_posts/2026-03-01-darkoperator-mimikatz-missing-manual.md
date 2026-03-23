@@ -7,3 +7,5 @@ image: assets/darkoperator_mimikatz_missing_manual_20260227_203033_247_20260227_
 # [darkoperator/mimikatz-missing-manual](https://github.com/darkoperator/mimikatz-missing-manual)
 
 Guide to Windows identity and Kerberos research
+
+Windows 身份和 Kerberos 研究指南

@@ -7,3 +7,5 @@ image: assets/iamcheyan_fudoki_20251203_002134_810_20251203_002157_1e0ce0.png
 # [iamcheyan/fudoki](https://github.com/iamcheyan/fudoki/)
 
 Segments Japanese text and synthesizes speech
+
+分割日语文本并合成语音

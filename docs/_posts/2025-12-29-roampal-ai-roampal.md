@@ -7,3 +7,5 @@ image: assets/roampal_ai_roampal_20251227_161853_982_20251227_161917_930550.png
 # [roampal-ai/roampal](https://github.com/roampal-ai/roampal/)
 
 Memory system for AI agents
+
+AI 代理的记忆系统

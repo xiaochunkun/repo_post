@@ -7,3 +7,5 @@ image: assets/OpenAEC_Foundation_ERPNext_Anthropic_Claude_Development_Skill_Pack
 # [OpenAEC-Foundation/ERPNext_Anthropic_Claude_Development_Skill_Package](https://github.com/OpenAEC-Foundation/ERPNext_Anthropic_Claude_Development_Skill_Package)
 
 Claude AI skills for ERPNext development
+
+用于 ERPNext 开发的 Claude AI 技能包

@@ -7,3 +7,5 @@ image: assets/eyaltoledano_claude-task-master_cropped.png
 # [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
 
 AI-powered task management system for developers
+
+面向开发者的AI驱动任务管理系统

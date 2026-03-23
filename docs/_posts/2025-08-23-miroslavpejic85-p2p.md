@@ -7,3 +7,5 @@ image: assets/20250822T022218460--miroslavpejic85--p2p--20250822T023009542--crop
 # [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p)
 
 peer-to-peer remote desktop app, no install needed
+
+点对点远程桌面应用，无需安装

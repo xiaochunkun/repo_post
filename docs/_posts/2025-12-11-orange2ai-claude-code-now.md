@@ -7,3 +7,5 @@ image: assets/orange2ai_claude_code_now_20251208_224615_278_20251208_224650_fcc3
 # [orange2ai/claude-code-now](https://github.com/orange2ai/claude-code-now/)
 
 Launches Claude Code from any folder instantly
+
+从任意文件夹即时启动Claude Code

@@ -7,3 +7,5 @@ image: assets/breaking_brake_cc_wf_studio_20251227_042110_691_20251227_042130_b7
 # [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio/)
 
 Visual workflow editor for Claude Code automation
+
+用于 Claude Code 自动化的可视化工作流编辑器

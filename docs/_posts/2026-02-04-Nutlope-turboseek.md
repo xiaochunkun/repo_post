@@ -7,3 +7,5 @@ image: assets/Nutlope_turboseek_20260202_234410_850_20260202_234454_e23056.png
 # [Nutlope/turboseek](https://github.com/Nutlope/turboseek)
 
 AI search engine using Together AI and Llama 3.1
+
+使用 Together AI 和 Llama 3.1 的 AI 搜索引擎

@@ -7,3 +7,5 @@ image: assets/supermemoryai_llm-bridge_cropped.png
 # [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge)
 
 unifies OpenAI, Claude, Gemini APIs for LLMs
+
+统一OpenAI、Claude、Gemini的LLM API

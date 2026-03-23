@@ -7,3 +7,5 @@ image: assets/ianarawjo_ChainForge_20251031_093059_689_20251102_210900_9b7f5c--2
 # [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge/)
 
 Visually battle-test prompts across multiple LLMs
+
+跨多LLM可视化测试提示词

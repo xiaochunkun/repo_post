@@ -7,3 +7,5 @@ image: assets/4gray_iptvnator_20251018_184633_956_20251018_203056--20251018T2230
 # [4gray/iptvnator](https://github.com/4gray/iptvnator/)
 
 IPTV playlist player with EPG
+
+支持 EPG 的 IPTV 播放列表播放器

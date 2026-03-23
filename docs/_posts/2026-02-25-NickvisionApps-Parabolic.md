@@ -7,3 +7,5 @@ image: assets/NickvisionApps_Parabolic_20260212_025449_842_20260212_025502_7b74b
 # [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
 
 Frontend for yt-dlp with support for hundreds of sites
+
+yt-dlp 的前端，支持数百个网站

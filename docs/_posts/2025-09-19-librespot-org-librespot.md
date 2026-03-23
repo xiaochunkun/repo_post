@@ -7,3 +7,5 @@ image: assets/20250918T004734199--librespot-org--librespot--20250919T020505681--
 # [librespot-org/librespot](https://github.com/librespot-org/librespot)
 
 open source Spotify Connect receiver and client library
+
+开源Spotify Connect接收器和客户端库

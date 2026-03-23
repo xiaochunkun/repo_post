@@ -7,3 +7,5 @@ image: assets/bscott_subtrackr_20251112_110517_995_20251113_222429_44136b--20251
 # [bscott/subtrackr](https://github.com/bscott/subtrackr/)
 
 Self-hosted subscription management with Go and HTMX
+
+使用Go和HTMX的自托管订阅管理

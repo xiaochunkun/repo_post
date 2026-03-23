@@ -7,3 +7,5 @@ image: assets/AIGeniusInstitute_VibeWorkflowPlatform_20260115_154249_314_2026011
 # [AIGeniusInstitute/VibeWorkflowPlatform](https://github.com/AIGeniusInstitute/VibeWorkflowPlatform)
 
 AI automation workflows through prompts and a visual canvas
+
+通过提示和可视化画布实现 AI 自动化工作流

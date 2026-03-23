@@ -7,3 +7,5 @@ image: assets/PurpleAILAB_Decepticon_20260215_001804_735_20260215_001855_cdcd92.
 # [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)
 
 Autonomous multi-agent system for red team testing
+
+用于红队测试的自主多代理系统

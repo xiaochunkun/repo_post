@@ -7,3 +7,5 @@ image: assets/Blobbackup_Blobbackup_20260103_034412_543_20260103_034428_3a8281.p
 # [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup/)
 
 Backs up computer files to the cloud
+
+将计算机文件备份到云端

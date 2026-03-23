@@ -7,3 +7,5 @@ image: assets/fougue_mayo_20260318_171953_997_20260318_172041_524ad5.png
 # [fougue/mayo](https://github.com/fougue/mayo)
 
 Converts and visualizes STEP and IGES files
+
+转换和可视化 STEP 与 IGES 文件

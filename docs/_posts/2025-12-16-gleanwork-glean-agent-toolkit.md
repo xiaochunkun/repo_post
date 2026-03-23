@@ -7,3 +7,5 @@ image: assets/gleanwork_glean_agent_toolkit_20251214_215309_480_20251214_215334_
 # [gleanwork/glean-agent-toolkit](https://github.com/gleanwork/glean-agent-toolkit/)
 
 Integrates enterprise search into AI agents
+
+将企业搜索集成到AI智能体中

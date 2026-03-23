@@ -7,3 +7,5 @@ image: assets/yorukot_superfile_cropped.png
 # [yorukot/superfile](https://github.com/yorukot/superfile)
 
 Terminal file manager
+
+终端文件管理器

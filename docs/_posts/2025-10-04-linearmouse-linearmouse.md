@@ -7,3 +7,5 @@ image: assets/20251003T230100905--linearmouse--linearmouse--20251003T230802009--
 # [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)
 
 customize mouse and trackpad settings on macOS
+
+在 macOS 上自定义鼠标和触控板设置

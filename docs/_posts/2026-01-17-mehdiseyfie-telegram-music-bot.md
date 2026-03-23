@@ -7,3 +7,5 @@ image: assets/mehdiseyfie_telegram_music_bot_20260116_070513_342_20260116_070528
 # [mehdiseyfie/telegram-music-bot](https://github.com/mehdiseyfie/telegram-music-bot)
 
 Telegram bot creates Spotify playlists with MySQL and Redis
+
+Telegram机器人，使用MySQL和Redis创建Spotify播放列表

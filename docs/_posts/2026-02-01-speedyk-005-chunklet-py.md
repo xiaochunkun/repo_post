@@ -7,3 +7,5 @@ image: assets/speedyk_005_chunklet_py_20260130_125034_299_20260130_125141_179825
 # [speedyk-005/chunklet-py](https://github.com/speedyk-005/chunklet-py)
 
 Splits text while preserving structure
+
+分割文本同时保持结构

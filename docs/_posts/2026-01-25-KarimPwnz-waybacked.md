@@ -7,3 +7,5 @@ image: assets/KarimPwnz_waybacked_20260114_153432_333_20260114_153446_168a7c.png
 # [KarimPwnz/waybacked](https://github.com/KarimPwnz/waybacked)
 
 Extracts URLs from the Wayback Machine for reconnaissance
+
+从Wayback Machine提取URL用于侦察

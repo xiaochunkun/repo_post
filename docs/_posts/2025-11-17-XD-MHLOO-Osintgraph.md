@@ -7,3 +7,5 @@ image: assets/XD_MHLOO_Osintgraph_20251115_065749_287_20251117_035336_1945f0--20
 # [XD-MHLOO/Osintgraph](https://github.com/XD-MHLOO/Osintgraph/)
 
 Tool for Instagram analysis using a graph database
+
+使用图数据库进行Instagram分析的工具

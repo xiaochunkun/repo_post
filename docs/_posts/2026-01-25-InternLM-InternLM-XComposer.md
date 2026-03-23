@@ -7,3 +7,5 @@ image: assets/InternLM_InternLM_XComposer_20260111_175215_935_20260111_175230_7e
 # [InternLM/InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
 
 Multimodal system for streaming video and audio interactions
+
+流媒体视频与音频交互的多模态系统

@@ -7,3 +7,5 @@ image: assets/dnhkng_GLaDOS_cropped.png
 # [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS)
 
 Project to build a real-life GLaDOS AI using Python
+
+使用Python构建真实GLaDOS AI的项目

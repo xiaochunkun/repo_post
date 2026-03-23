@@ -7,3 +7,5 @@ image: assets/AI_App_OpenDevin_OpenDevin_20260112_123416_374_20260112_123429_851
 # [AI-App/OpenDevin.OpenDevin](https://github.com/AI-App/OpenDevin.OpenDevin)
 
 Autonomous software engineer for engineering tasks
+
+用于工程任务的自主软件工程师

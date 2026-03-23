@@ -7,3 +7,5 @@ image: assets/hamelsmu_design_research_20260309_213054_909_20260309_213254_8a97d
 # [hamelsmu/design-research](https://github.com/hamelsmu/design-research)
 
 Automates website design research using browser agents
+
+使用浏览器代理自动化网站设计研究

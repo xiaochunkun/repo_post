@@ -7,3 +7,5 @@ image: assets/jkcoxson_idevice_pair_20260317_163138_767_20260317_163235_40c90b.p
 # [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair)
 
 Cross-platform GUI for iOS device pairing and wireless debugging
+
+iOS 设备配对和无线调试的跨平台 GUI

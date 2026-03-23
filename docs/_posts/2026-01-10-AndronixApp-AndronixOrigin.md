@@ -7,3 +7,5 @@ image: assets/AndronixApp_AndronixOrigin_20260108_081404_736_20260108_081418_809
 # [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin)
 
 Installs Linux distributions on Android devices
+
+在Android设备上安装Linux发行版

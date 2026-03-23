@@ -7,3 +7,5 @@ image: assets/eigent_ai_eigent_20260209_011522_317_20260209_011605_dab1ff.png
 # [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
 
 Multi-agent workforce for desktop automation
+
+用于桌面自动化的多代理工作流

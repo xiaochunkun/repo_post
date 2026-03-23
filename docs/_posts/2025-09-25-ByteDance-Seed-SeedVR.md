@@ -7,3 +7,5 @@ image: assets/20250925T042016783--ByteDance-Seed--SeedVR--20250925T042414881--cr
 # [ByteDance-Seed/SeedVR](https://github.com/ByteDance-Seed/SeedVR)
 
 diffusion transformer models for video restoration
+
+用于视频修复的扩散Transformer模型

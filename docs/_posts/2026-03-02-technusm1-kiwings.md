@@ -7,3 +7,5 @@ image: assets/technusm1_kiwings_20260131_090534_008_20260131_090617_4f1da8.png
 # [technusm1/kiwings](https://github.com/technusm1/kiwings)
 
 Offline content reader for macOS
+
+macOS离线内容阅读器

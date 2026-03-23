@@ -7,3 +7,5 @@ image: assets/20250929T014724162--hintjen--selfhosted-gateway--20250929T01591202
 # [hintjen/selfhosted-gateway](https://github.com/hintjen/selfhosted-gateway)
 
 self-hosted reverse proxy tunnels for Docker apps using WireGuard, NGINX, and Caddy
+
+使用WireGuard、NGINX和Caddy的自托管反向代理隧道，用于Docker应用

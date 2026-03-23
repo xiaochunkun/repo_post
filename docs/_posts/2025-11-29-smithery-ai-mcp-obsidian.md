@@ -7,3 +7,5 @@ image: assets/smithery_ai_mcp_obsidian_20251126_001617_806_20251128_213445_b1088
 # [smithery-ai/mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian/)
 
 Connector allowing Claude Desktop to read Obsidian vaults
+
+允许 Claude Desktop 读取 Obsidian 知识库的连接器

@@ -7,3 +7,5 @@ image: assets/Academic_ID_sapienAI_20260111_155059_435_20260111_155113_7ccd9d.pn
 # [Academic-ID/sapienAI](https://github.com/Academic-ID/sapienAI)
 
 Self-hosted research workspace with integrated editor and academic grounding
+
+自托管的研究工作空间，集成编辑器和学术基础

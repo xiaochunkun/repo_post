@@ -7,3 +7,5 @@ image: assets/athul_archie_20251023_190444_417_20251025_013748_b3744a--20251025T
 # [athul/archie](https://github.com/athul/archie/)
 
 A minimal Hugo theme with automatic dark mode
+
+带自动暗色模式的简约Hugo主题

@@ -7,3 +7,5 @@ image: assets/marcantondahmen_automad_20251221_160445_738_20251221_160508_e2aa3b
 # [marcantondahmen/automad](https://github.com/marcantondahmen/automad/)
 
 Content management system without a database
+
+无数据库的内容管理系统

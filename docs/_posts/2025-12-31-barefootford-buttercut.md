@@ -7,3 +7,5 @@ image: assets/barefootford_buttercut_20251230_215638_884_20251230_215702_724dcb.
 # [barefootford/buttercut](https://github.com/barefootford/buttercut/)
 
 Claude Code builds video timelines for editors
+
+Claude Code 为编辑器构建视频时间线

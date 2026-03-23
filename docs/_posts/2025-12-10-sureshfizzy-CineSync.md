@@ -7,3 +7,5 @@ image: assets/sureshfizzy_CineSync_20251207_235311_628_20251207_235443_0f3207.pn
 # [sureshfizzy/CineSync](https://github.com/sureshfizzy/CineSync/)
 
 Organizes media libraries without Sonarr or Radarr
+
+无需Sonarr或Radarr即可组织媒体库

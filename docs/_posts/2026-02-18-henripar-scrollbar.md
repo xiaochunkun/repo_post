@@ -7,3 +7,5 @@ image: assets/henripar_scrollbar_20260120_144328_983_20260120_144406_4d793c.png
 # [henripar/scrollbar](https://github.com/henripar/scrollbar)
 
 Tool for designing custom scrollbars
+
+自定义滚动条设计工具

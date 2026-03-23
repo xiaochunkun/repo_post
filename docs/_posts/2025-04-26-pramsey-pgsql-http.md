@@ -7,3 +7,5 @@ image: assets/pramsey_pgsql-http_cropped.png
 # [pramsey/pgsql-http](https://github.com/pramsey/pgsql-http)
 
 Make HTTP requests from inside PostgreSQL database
+
+从PostgreSQL数据库内部发起HTTP请求

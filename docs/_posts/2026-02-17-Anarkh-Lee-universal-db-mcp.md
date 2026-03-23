@@ -7,3 +7,5 @@ image: assets/Anarkh_Lee_universal_db_mcp_20260217_140348_714_20260217_140424_97
 # [Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)
 
 Connects AI to databases via natural language
+
+通过自然语言连接AI与数据库

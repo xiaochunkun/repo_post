@@ -7,3 +7,5 @@ image: assets/Automattic_studio_20251219_160930_766_20251219_160949_7fec3b.png
 # [Automattic/studio](https://github.com/Automattic/studio/)
 
 Local WordPress development with AI assistant
+
+带 AI 助手的本地 WordPress 开发

@@ -7,3 +7,5 @@ image: assets/elamperti_OpenWebScrobbler_20251105_115718_579_20251105_123819_6f3
 # [elamperti/OpenWebScrobbler](https://github.com/elamperti/OpenWebScrobbler/)
 
 Web client to scrobble tracks to Last.fm
+
+将曲目 scrobble 到 Last.fm 的 Web 客户端

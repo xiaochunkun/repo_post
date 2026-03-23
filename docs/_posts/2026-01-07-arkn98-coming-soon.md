@@ -7,3 +7,5 @@ image: assets/arkn98_coming_soon_20260106_171715_056_20260106_171733_aa5a0f.png
 # [arkn98/coming-soon](https://github.com/arkn98/coming-soon/)
 
 React page for site launches
+
+用于网站发布的 React 页面

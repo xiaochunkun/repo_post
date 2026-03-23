@@ -7,3 +7,5 @@ image: assets/Bash_it_bash_it_20251114_205849_527_20251115_035829_52d32d--202511
 # [Bash-it/bash-it](https://github.com/Bash-it/bash-it/)
 
 Framework for Bash with autocompletion, themes, and aliases
+
+支持自动补全、主题和别名的Bash框架

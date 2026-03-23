@@ -7,3 +7,5 @@ image: assets/xenova_whisper_web_20260316_201833_097_20260316_201936_ace6a3.png
 # [xenova/whisper-web](https://github.com/xenova/whisper-web)
 
 ML-powered speech recognition in browser
+
+浏览器中的ML驱动语音识别

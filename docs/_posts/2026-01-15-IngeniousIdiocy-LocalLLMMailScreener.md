@@ -7,3 +7,5 @@ image: assets/IngeniousIdiocy_LocalLLMMailScreener_20260113_091305_405_20260113_
 # [IngeniousIdiocy/LocalLLMMailScreener](https://github.com/IngeniousIdiocy/LocalLLMMailScreener)
 
 Forwards email summaries to phones using local LLMs
+
+使用本地 LLM 将邮件摘要转发到手机

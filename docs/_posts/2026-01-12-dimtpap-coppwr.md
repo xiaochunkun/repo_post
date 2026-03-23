@@ -7,3 +7,5 @@ image: assets/dimtpap_coppwr_20260112_080733_737_20260112_080751_0e153c.png
 # [dimtpap/coppwr](https://github.com/dimtpap/coppwr)
 
 GUI for PipeWire control and node graph editing
+
+PipeWire 控制和节点图编辑的 GUI

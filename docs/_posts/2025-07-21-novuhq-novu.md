@@ -7,3 +7,5 @@ image: assets/novuhq_novu_cropped.png
 # [novuhq/novu](https://github.com/novuhq/novu)
 
 open-source tool for managing notifications across channels
+
+用于跨渠道管理通知的开源工具

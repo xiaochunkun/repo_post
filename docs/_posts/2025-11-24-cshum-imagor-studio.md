@@ -7,3 +7,5 @@ image: assets/cshum_imagor_studio_20251123_060017_397_20251123_215438_1fa1a2--20
 # [cshum/imagor-studio](https://github.com/cshum/imagor-studio/)
 
 Self-hosted image gallery and editor
+
+自托管图像库和编辑器

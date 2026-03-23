@@ -7,3 +7,5 @@ image: assets/20250822T015159683--rrweb-io--rrweb--20250826T030924488--cropped.p
 # [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)
 
 record and replay user sessions on the web
+
+录制和回放 Web 用户会话

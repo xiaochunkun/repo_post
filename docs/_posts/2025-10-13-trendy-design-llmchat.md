@@ -7,3 +7,5 @@ image: assets/20251013T000631509--trendy-design--llmchat--20251013T001444646--cr
 # [trendy-design/llmchat](https://github.com/trendy-design/llmchat)
 
 private AI chat with research tools and local data storage
+
+私有 AI 聊天，含研究工具和本地数据存储

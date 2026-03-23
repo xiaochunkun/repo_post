@@ -7,3 +7,5 @@ image: assets/20251003T230029538--eat-pray-ai--yutu--20251003T230109795--cropped
 # [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu)
 
 CLI and server for automating YouTube uploads, playlists, comments, and more
+
+CLI和服务器，用于自动化YouTube上传、播放列表、评论等

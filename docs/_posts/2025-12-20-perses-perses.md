@@ -7,3 +7,5 @@ image: assets/perses_perses_20251218_035921_902_20251218_035939_e544c0.png
 # [perses/perses](https://github.com/perses/perses/)
 
 Dashboard for observability data visualization
+
+用于可观测性数据可视化的仪表板

@@ -7,3 +7,5 @@ image: assets/flet-dev_flet_cropped.png
 # [flet-dev/flet](https://github.com/flet-dev/flet)
 
 build realtime apps in Python for web, desktop, and mobile
+
+用Python构建Web、桌面和移动端的实时应用

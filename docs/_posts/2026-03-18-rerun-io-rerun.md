@@ -7,3 +7,5 @@ image: assets/rerun_io_rerun_20260317_124637_415_20260317_124743_c988a7.png
 # [rerun-io/rerun](https://github.com/rerun-io/rerun)
 
 Logs robotics data streams for visualization
+
+记录机器人数据流以进行可视化

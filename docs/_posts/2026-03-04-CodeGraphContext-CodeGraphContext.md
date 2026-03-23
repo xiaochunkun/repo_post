@@ -7,3 +7,5 @@ image: assets/CodeGraphContext_CodeGraphContext_20260302_064612_654_20260302_064
 # [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
 
 Indexes code into graph databases for AI assistants
+
+将代码索引到图数据库中，供 AI 助手使用

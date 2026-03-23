@@ -7,3 +7,5 @@ image: assets/microsoft_TRELLIS_20260111_155051_187_20260111_155105_f6f42b.png
 # [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
 
 Generates 3D assets from text or images
+
+从文本或图像生成3D资产

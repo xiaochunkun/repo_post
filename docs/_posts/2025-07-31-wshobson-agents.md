@@ -7,3 +7,5 @@ image: assets/wshobson_agents_cropped.png
 # [wshobson/agents](https://github.com/wshobson/agents)
 
 Claude Code agents for dev automation and code review
+
+Claude Code智能体，用于开发自动化和代码审查

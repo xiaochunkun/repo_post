@@ -7,3 +7,5 @@ image: assets/glide_browser_glide_20260207_202809_371_20260207_202831_8fc2e4.png
 # [glide-browser/glide](https://github.com/glide-browser/glide)
 
 Keyboard-focused web browser built on Firefox
+
+基于 Firefox 构建的键盘聚焦 Web 浏览器

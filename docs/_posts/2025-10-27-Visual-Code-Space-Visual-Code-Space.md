@@ -7,3 +7,5 @@ image: assets/Visual_Code_Space_Visual_Code_Space_20251025_184428_522_20251025_2
 # [Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space/)
 
 Code editor for Android
+
+适用于 Android 的代码编辑器

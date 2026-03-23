@@ -7,3 +7,5 @@ image: assets/mfactory_osaka_ESPTimeCast_20251109_153210_501_20251109_163609_628
 # [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast/)
 
 WiFi-connected LED matrix clock and weather display
+
+WiFi连接的LED矩阵时钟和天气显示器

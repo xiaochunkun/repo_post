@@ -7,3 +7,5 @@ image: assets/adamff_dev_spam_call_blocker_app_20260314_094001_936_20260314_0941
 # [adamff-dev/spam-call-blocker-app](https://github.com/adamff-dev/spam-call-blocker-app)
 
 Blocks unwanted calls with real-time API checks
+
+通过实时API检查拦截骚扰电话

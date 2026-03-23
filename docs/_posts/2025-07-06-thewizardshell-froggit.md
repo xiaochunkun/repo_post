@@ -7,3 +7,5 @@ image: assets/thewizardshell_froggit_cropped.png
 # [thewizardshell/froggit](https://github.com/thewizardshell/froggit)
 
 Terminal Git client for managing repositories with keyboard commands
+
+终端Git客户端，使用键盘命令管理仓库

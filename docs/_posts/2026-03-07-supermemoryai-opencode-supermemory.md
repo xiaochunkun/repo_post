@@ -7,3 +7,5 @@ image: assets/supermemoryai_opencode_supermemory_20260306_185149_135_20260306_18
 # [supermemoryai/opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory)
 
 Store memory for agents across sessions
+
+跨会话存储智能体记忆

@@ -7,3 +7,5 @@ image: assets/karanb192_reddit_mcp_buddy_20260204_071332_677_20260204_071351_8bf
 # [karanb192/reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy)
 
 Reddit browser for Claude Desktop without API keys
+
+无需 API 密钥的 Claude Desktop Reddit 浏览器

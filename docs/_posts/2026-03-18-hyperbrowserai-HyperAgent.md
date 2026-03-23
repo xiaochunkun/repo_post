@@ -7,3 +7,5 @@ image: assets/hyperbrowserai_HyperAgent_20260317_162845_054_20260317_162943_6b0b
 # [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent)
 
 AI browser automation with natural language commands
+
+AI浏览器自动化，支持自然语言命令

@@ -7,3 +7,5 @@ image: assets/20250830T150656434--facebook--sapling--20250830T173805801--cropped
 # [facebook/sapling](https://github.com/facebook/sapling)
 
 git-compatible source control for huge codebases
+
+适用于大型代码库的 Git 兼容版本控制工具

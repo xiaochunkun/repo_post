@@ -7,3 +7,5 @@ image: assets/rustmailer_rustmailer_20251127_212143_089_20251130_083601_0eefc4--
 # [rustmailer/rustmailer](https://github.com/rustmailer/rustmailer/)
 
 Self-hosted email middleware for IMAP, SMTP, and Gmail API
+
+自托管电子邮件中间件，支持IMAP、SMTP和Gmail API

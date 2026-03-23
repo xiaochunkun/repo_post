@@ -7,3 +7,5 @@ image: assets/PhonePe_mantis_cropped.png
 # [PhonePe/mantis](https://github.com/PhonePe/mantis)
 
 automates asset discovery, recon, and scanning for security
+
+自动化资产发现、侦察和安全扫描

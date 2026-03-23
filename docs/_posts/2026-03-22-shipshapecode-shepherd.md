@@ -7,3 +7,5 @@ image: assets/shipshapecode_shepherd_20260322_090404_011_20260322_090437_15c6bb.
 # [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd)
 
 Custom user onboarding tours
+
+自定义用户引导教程

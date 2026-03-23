@@ -7,3 +7,5 @@ image: assets/browser-use_workflow-use_cropped.png
 # [browser-use/workflow-use](https://github.com/browser-use/workflow-use)
 
 Workflow creation and execution tool
+
+工作流创建和执行工具

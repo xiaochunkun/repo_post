@@ -7,3 +7,5 @@ image: assets/horilla_opensource_horilla_crm_20251226_040206_218_20251226_040223
 # [horilla-opensource/horilla-crm](https://github.com/horilla-opensource/horilla-crm/)
 
 CRM software for managing leads and opportunities
+
+管理线索和机会的 CRM 软件

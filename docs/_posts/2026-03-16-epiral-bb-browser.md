@@ -7,3 +7,5 @@ image: assets/epiral_bb_browser_20260316_061112_343_20260316_061155_74a9ad.png
 # [epiral/bb-browser](https://github.com/epiral/bb-browser)
 
 AI agent browser API using real login state
+
+使用真实登录状态的AI代理浏览器API

@@ -7,3 +7,5 @@ image: assets/ZitaoTech_HackberryPiCM5_20260202_233713_318_20260202_233743_beb56
 # [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5)
 
 Handheld Linux computer with Raspberry Pi and Blackberry keyboard
+
+手持Linux电脑，使用Raspberry Pi和Blackberry键盘

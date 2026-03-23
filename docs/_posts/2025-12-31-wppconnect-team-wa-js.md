@@ -7,3 +7,5 @@ image: assets/wppconnect_team_wa_js_20251231_041421_663_20251231_041437_d3f482.p
 # [wppconnect-team/wa-js](https://github.com/wppconnect-team/wa-js/)
 
 Exports functions from WhatsApp Web
+
+从WhatsApp Web导出功能

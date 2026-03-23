@@ -7,3 +7,5 @@ image: assets/alexpfau_calendar_card_pro_20251106_051728_264_20251106_133908_4ee
 # [alexpfau/calendar-card-pro](https://github.com/alexpfau/calendar-card-pro/)
 
 Customizable calendar card for Home Assistant
+
+Home Assistant 的可定制日历卡片

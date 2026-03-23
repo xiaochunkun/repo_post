@@ -7,3 +7,5 @@ image: assets/openspout_openspout_20251108_000744_119_20251108_000949_9b91df--20
 # [openspout/openspout](https://github.com/openspout/openspout/)
 
 PHP library for reading and writing large spreadsheet files with low memory usage
+
+低内存读写大型电子表格文件的PHP库

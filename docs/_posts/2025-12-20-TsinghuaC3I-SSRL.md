@@ -7,3 +7,5 @@ image: assets/TsinghuaC3I_SSRL_20251218_093710_515_20251218_093734_4f00f5.png
 # [TsinghuaC3I/SSRL](https://github.com/TsinghuaC3I/SSRL/)
 
 Reinforcement learning for agentic search without external engines
+
+无需外部引擎的智能体搜索强化学习

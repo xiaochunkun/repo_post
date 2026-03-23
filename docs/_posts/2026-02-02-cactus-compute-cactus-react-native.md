@@ -7,3 +7,5 @@ image: assets/cactus_compute_cactus_react_native_20260111_232419_424_20260111_23
 # [cactus-compute/cactus-react-native](https://github.com/cactus-compute/cactus-react-native)
 
 Runs AI locally in React Native apps
+
+在React Native应用中本地运行AI

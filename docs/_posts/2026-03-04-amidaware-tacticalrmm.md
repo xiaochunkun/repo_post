@@ -7,3 +7,5 @@ image: assets/amidaware_tacticalrmm_20260210_193819_046_20260210_193838_fe3e01.p
 # [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm)
 
 Remote monitoring and management tool with agent for Windows, Linux, and Mac
+
+远程监控和管理工具，支持 Windows、Linux 和 Mac 代理

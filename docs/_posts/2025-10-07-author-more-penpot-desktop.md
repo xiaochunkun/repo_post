@@ -7,3 +7,5 @@ image: assets/20251007T015104069--author-more--penpot-desktop--20251007T02395343
 # [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop)
 
 desktop app for Penpot with tabs, dark mode, offline support
+
+Penpot 桌面应用，支持标签、暗色模式和离线使用

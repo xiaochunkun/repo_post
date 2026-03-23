@@ -7,3 +7,5 @@ image: assets/SamurAIGPT_AI-Youtube-Shorts-Generator_cropped.png
 # [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator)
 
 turns videos into YouTube Shorts with AI
+
+使用AI将视频转换为YouTube Shorts

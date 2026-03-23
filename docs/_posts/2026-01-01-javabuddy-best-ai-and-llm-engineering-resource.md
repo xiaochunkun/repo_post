@@ -7,3 +7,5 @@ image: assets/javabuddy_best_ai_and_llm_engineering_resource_20251231_045844_657
 # [javabuddy/best-ai-and-llm-engineering-resource](https://github.com/javabuddy/best-ai-and-llm-engineering-resource/)
 
 Curated list of books and courses for engineering AI systems
+
+精选的AI系统工程书籍和课程列表

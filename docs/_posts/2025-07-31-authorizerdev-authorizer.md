@@ -7,3 +7,5 @@ image: assets/authorizerdev_authorizer_cropped.png
 # [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer)
 
 auth and user management for apps, open source
+
+用于应用的开源身份验证和用户管理

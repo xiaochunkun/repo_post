@@ -7,3 +7,5 @@ image: assets/20250906T022932987--shiyu-coder--Kronos--20250906T023248932--cropp
 # [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
 
 open-source model for financial candlestick data
+
+金融 K 线数据的开源模型

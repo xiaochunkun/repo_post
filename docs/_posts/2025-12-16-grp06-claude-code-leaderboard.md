@@ -7,3 +7,5 @@ image: assets/grp06_claude_code_leaderboard_20251213_131908_288_20251213_131930_
 # [grp06/claude-code-leaderboard](https://github.com/grp06/claude-code-leaderboard/)
 
 Tracks Claude Code usage for a leaderboard
+
+追踪Claude Code使用情况的排行榜

@@ -7,3 +7,5 @@ image: assets/BushidoUK_Ransomware-Tool-Matrix_cropped.png
 # [BushidoUK/Ransomware-Tool-Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix)
 
 List of tools used by ransomware gangs for defenders and threat hunters
+
+勒索软件团伙工具列表，供防御者和威胁猎手参考

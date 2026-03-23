@@ -7,3 +7,5 @@ image: assets/alex_jung_ha_departures_20260113_062244_866_20260113_062259_86ff02
 # [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures)
 
 Public transport departures for Home Assistant via EFA endpoints
+
+通过 EFA 端点为 Home Assistant 提供公共交通出发信息

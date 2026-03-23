@@ -7,3 +7,5 @@ image: assets/matrix_org_matrix_js_sdk_20251201_034725_973_20251201_034749_4662d
 # [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk/)
 
 Matrix Client-Server SDK for JavaScript and TypeScript
+
+用于 JavaScript 和 TypeScript 的 Matrix 客户端-服务器 SDK

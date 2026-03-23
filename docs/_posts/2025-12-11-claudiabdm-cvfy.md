@@ -7,3 +7,5 @@ image: assets/claudiabdm_cvfy_20251208_234000_105_20251208_234210_b862c2.png
 # [claudiabdm/cvfy](https://github.com/claudiabdm/cvfy/)
 
 Multilingual CV generator built with Nuxt
+
+使用Nuxt构建的多语言简历生成器

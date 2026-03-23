@@ -7,3 +7,5 @@ image: assets/Drewpeifer_medialytics_20251201_031431_634_20251201_031457_de71e5.
 # [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics/)
 
 Analytics tool for Plex server content
+
+Plex服务器内容分析工具

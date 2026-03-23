@@ -7,3 +7,5 @@ image: assets/hamzafarooq_building_llm_applications_from_scratch_20260111_035323
 # [hamzafarooq/building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
 
 Course on building LLM applications from scratch
+
+从零开始构建LLM应用的课程

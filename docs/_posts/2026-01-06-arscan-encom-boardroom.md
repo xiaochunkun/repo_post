@@ -7,3 +7,5 @@ image: assets/arscan_encom_boardroom_20260105_183850_727_20260105_183906_a974e4.
 # [arscan/encom-boardroom](https://github.com/arscan/encom-boardroom/)
 
 Visualizes GitHub and Wikipedia data in a Tron interface
+
+在 Tron 界面中可视化 GitHub 和 Wikipedia 数据

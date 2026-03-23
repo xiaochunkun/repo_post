@@ -7,3 +7,5 @@ image: assets/songtianlun_umami_dashboard_20260305_061118_925_20260305_061252_3f
 # [songtianlun/umami-dashboard](https://github.com/songtianlun/umami-dashboard)
 
 Dashboard for website traffic statistics and monitoring
+
+网站流量统计与监控仪表板

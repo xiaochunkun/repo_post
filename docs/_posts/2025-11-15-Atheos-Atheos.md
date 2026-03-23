@@ -7,3 +7,5 @@ image: assets/Atheos_Atheos_20251114_171159_840_20251115_034653_e6c014--20251115
 # [Atheos/Atheos](https://github.com/Atheos/Atheos/)
 
 Self-hosted IDE with a small footprint
+
+轻量级自托管IDE

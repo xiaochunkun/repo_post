@@ -7,3 +7,5 @@ image: assets/BurntSushi_ripgrep_cropped.png
 # [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
 
 search files fast with ripgrep
+
+使用 ripgrep 快速搜索文件

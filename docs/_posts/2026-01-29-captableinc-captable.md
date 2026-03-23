@@ -7,3 +7,5 @@ image: assets/captableinc_captable_20260129_140022_600_20260129_140118_5339b8.pn
 # [captableinc/captable](https://github.com/captableinc/captable)
 
 Open-source cap table management platform
+
+开源股权结构表管理平台

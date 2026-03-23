@@ -7,3 +7,5 @@ image: assets/20250906T222509848--marionebl--svg-term-cli--20250906T222615811--c
 # [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli)
 
 turn terminal recordings into animated SVGs
+
+将终端录屏转换为 SVG 动画

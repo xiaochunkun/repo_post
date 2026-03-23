@@ -7,3 +7,5 @@ image: assets/Lexaro_Software_pivor_20251227_024212_217_20251227_024308_7289ad.p
 # [Lexaro-Software/pivor](https://github.com/Lexaro-Software/pivor/)
 
 Self-hosted CRM for data ownership
+
+数据所有权的自托管 CRM

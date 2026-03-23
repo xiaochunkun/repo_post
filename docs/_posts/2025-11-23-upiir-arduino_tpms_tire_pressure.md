@@ -7,3 +7,5 @@ image: assets/upiir_arduino_tpms_tire_pressure_20251122_140645_262_20251123_0009
 # [upiir/arduino_tpms_tire_pressure](https://github.com/upiir/arduino_tpms_tire_pressure/)
 
 Monitors tire pressure via BLE
+
+通过BLE监控胎压

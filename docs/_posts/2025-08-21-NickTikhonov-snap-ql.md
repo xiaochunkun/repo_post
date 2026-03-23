@@ -7,3 +7,5 @@ image: assets/20250818T100227641_NickTikhonov_snap-ql--20250820T131255665--cropp
 # [NickTikhonov/snap-ql](https://github.com/NickTikhonov/snap-ql)
 
 AI-powered Postgres and MySQL queries with charts, runs locally
+
+AI 驱动的 Postgres 和 MySQL 查询工具，支持图表展示，本地运行

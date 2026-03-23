@@ -7,3 +7,5 @@ image: assets/zenml_io_zenml_20251122_061142_601_20251122_111144_e3be79--2025112
 # [zenml-io/zenml](https://github.com/zenml-io/zenml/)
 
 Abstracts infrastructure for ML pipelines and agents
+
+为 ML 管道和代理抽象基础设施

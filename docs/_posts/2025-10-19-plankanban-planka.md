@@ -7,3 +7,5 @@ image: assets/plankanban_planka_20251018_210856_367_20251018_231130--20251019T01
 # [plankanban/planka](https://github.com/plankanban/planka/)
 
 Collaborative Kanban board for task management
+
+用于任务管理的协作式 Kanban 看板

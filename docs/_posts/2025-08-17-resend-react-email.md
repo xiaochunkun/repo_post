@@ -7,3 +7,5 @@ image: assets/resend_react-email--20250816T205050084--cropped.png
 # [resend/react-email](https://github.com/resend/react-email)
 
 build and send emails using React components
+
+使用React组件构建和发送电子邮件

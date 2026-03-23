@@ -7,3 +7,5 @@ image: assets/20250814T035303430_Rishabh-Bajpai_Chanakya-Local-Friend--20250814T
 # [Rishabh-Bajpai/Chanakya-Local-Friend](https://github.com/Rishabh-Bajpai/Chanakya-Local-Friend)
 
 self-hostable voice assistant with privacy and local AI
+
+可自托管的语音助手，注重隐私和本地AI

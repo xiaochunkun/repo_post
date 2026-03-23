@@ -7,3 +7,5 @@ image: assets/20250914T190850111--pulumi--pulumi--20250914T191331629--cropped.pn
 # [pulumi/pulumi](https://github.com/pulumi/pulumi)
 
 infrastructure as code using real programming languages for any cloud
+
+使用真实编程语言为任何云实现基础设施即代码

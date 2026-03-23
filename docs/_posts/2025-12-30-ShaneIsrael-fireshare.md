@@ -7,3 +7,5 @@ image: assets/ShaneIsrael_fireshare_20251228_120436_724_20251228_120526_200d84.p
 # [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare/)
 
 Self host and share media via unique links
+
+通过唯一链接自托管和分享媒体

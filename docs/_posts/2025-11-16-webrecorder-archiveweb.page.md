@@ -7,3 +7,5 @@ image: assets/webrecorder_archiveweb_page_20251115_052407_461_20251116_220805_94
 # [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page/)
 
 High-fidelity, interactive web archiving in the browser
+
+浏览器中的高保真交互式网页存档

@@ -7,3 +7,5 @@ image: assets/Dokploy_mcp_20251031_211733_638_20251102_215842_c230d0--20251102T2
 # [Dokploy/mcp](https://github.com/Dokploy/mcp/)
 
 Allows AI models to interact with a Dokploy server
+
+让AI模型与Dokploy服务器交互

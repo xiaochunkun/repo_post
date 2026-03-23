@@ -7,3 +7,5 @@ image: assets/danielsaidi_SystemNotification_20251213_042729_033_20251213_042808
 # [danielsaidi/SystemNotification](https://github.com/danielsaidi/SystemNotification/)
 
 Mimics native iOS system notifications in SwiftUI
+
+在 SwiftUI 中模拟原生 iOS 系统通知

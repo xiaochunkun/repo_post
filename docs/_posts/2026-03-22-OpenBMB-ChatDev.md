@@ -7,3 +7,5 @@ image: assets/OpenBMB_ChatDev_20260322_104453_554_20260322_104528_9b1dcd.png
 # [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
 
 Zero-code multi-agent platform for development
+
+零代码多代理开发平台

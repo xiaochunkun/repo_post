@@ -7,3 +7,5 @@ image: assets/20250912T171927750--lucaslorentz--caddy-docker-proxy--20250912T172
 # [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
 
 reverse proxy for Docker containers using Caddy and labels
+
+基于 Caddy 和标签的 Docker 容器反向代理

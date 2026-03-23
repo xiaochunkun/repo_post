@@ -7,3 +7,5 @@ image: assets/modem-works_dream-recorder_cropped.png
 # [modem-works/dream-recorder](https://github.com/modem-works/dream-recorder)
 
 open-source kit that turns your spoken dreams into AI videos
+
+开源套件，将口述梦境转换为AI视频

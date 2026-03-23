@@ -7,3 +7,5 @@ image: assets/Nutlope_easyedit_cropped.png
 # [Nutlope/easyedit](https://github.com/Nutlope/easyedit)
 
 Image editing in one prompt
+
+通过单一提示进行图像编辑

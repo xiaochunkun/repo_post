@@ -7,3 +7,5 @@ image: assets/the-djmaze_snappymail--20250812T235124--cropped.png
 # [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail)
 
 self-hosted webmail client forked from RainLoop
+
+从 RainLoop 分叉的自托管 Webmail 客户端

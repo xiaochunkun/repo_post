@@ -7,3 +7,5 @@ image: assets/frappe_helpdesk_cropped.png
 # [frappe/helpdesk](https://github.com/frappe/helpdesk)
 
 open source ticketing and support system for teams
+
+团队开源工单和支持系统

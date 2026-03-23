@@ -7,3 +7,5 @@ image: assets/MarconLP_snapify_cropped.png
 # [MarconLP/snapify](https://github.com/MarconLP/snapify)
 
 open source screen recording sharing tool
+
+开源屏幕录制分享工具

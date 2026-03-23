@@ -7,3 +7,5 @@ image: assets/EuniAI_Prometheus_20260122_055200_454_20260122_055215_4a630d.png
 # [EuniAI/Prometheus](https://github.com/EuniAI/Prometheus)
 
 Autonomous agents for software engineering using knowledge graphs
+
+知识图谱软件工程自主代理

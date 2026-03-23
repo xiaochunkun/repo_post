@@ -7,3 +7,5 @@ image: assets/20251015T032922769--timothebot--lacy--20251015T033515094--cropped.
 # [timothebot/lacy](https://github.com/timothebot/lacy)
 
 terminal tool for faster directory navigation
+
+用于快速目录导航的终端工具

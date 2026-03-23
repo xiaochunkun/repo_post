@@ -7,3 +7,5 @@ image: assets/frankiefab100_Blockchain_Development_Resources_20251223_144207_807
 # [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources/)
 
 Links to tools and tutorials for blockchain development
+
+区块链开发工具和教程链接

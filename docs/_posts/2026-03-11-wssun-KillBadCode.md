@@ -7,3 +7,5 @@ image: assets/wssun_KillBadCode_20260309_152527_929_20260309_152719_c28c14.png
 # [wssun/KillBadCode](https://github.com/wssun/KillBadCode)
 
 Detects and removes code poisoning through naturalness analysis
+
+通过自然性分析检测并移除代码污染

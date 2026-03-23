@@ -7,3 +7,5 @@ image: assets/20250818T095846939_devnen_Kitten-TTS-Server--20250818T100300205--c
 # [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server)
 
 self-hosted lightweight text-to-speech server with web UI and GPU support
+
+自托管的轻量级文本转语音服务器，支持 Web UI 和 GPU

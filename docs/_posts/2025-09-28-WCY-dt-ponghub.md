@@ -7,3 +7,5 @@ image: assets/20250928T060427508--WCY-dt--ponghub--20250928T063049580--cropped.p
 # [WCY-dt/ponghub](https://github.com/WCY-dt/ponghub)
 
 open-source status monitoring with one-click deployment and real-time alerts
+
+开源状态监控，支持一键部署和实时警报

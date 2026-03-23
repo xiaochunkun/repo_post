@@ -7,3 +7,5 @@ image: assets/adrianhajdin_pricewise_20260122_122529_673_20260122_122626_152e39.
 # [adrianhajdin/pricewise](https://github.com/adrianhajdin/pricewise)
 
 Price tracker with web scraping and cron jobs
+
+网页抓取和cron作业价格追踪器

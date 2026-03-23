@@ -7,3 +7,5 @@ image: assets/microsoft_Magma_20251121_093142_968_20251121_211348_9b9a55--202511
 # [microsoft/Magma](https://github.com/microsoft/Magma/)
 
 Foundation model for multimodal agents
+
+多模态代理的基础模型

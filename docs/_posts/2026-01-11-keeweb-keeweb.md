@@ -7,3 +7,5 @@ image: assets/keeweb_keeweb_20260111_040836_885_20260111_040857_9f095e.png
 # [keeweb/keeweb](https://github.com/keeweb/keeweb)
 
 Password manager for KeePass databases in browsers and desktops
+
+浏览器和桌面的KeePass数据库密码管理器

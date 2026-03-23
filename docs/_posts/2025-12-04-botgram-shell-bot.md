@@ -7,3 +7,5 @@ image: assets/botgram_shell_bot_20251201_082202_974_20251201_082226_9bb942.png
 # [botgram/shell-bot](https://github.com/botgram/shell-bot/)
 
 Executes shell commands via Telegram bot
+
+通过Telegram机器人执行Shell命令

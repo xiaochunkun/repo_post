@@ -7,3 +7,5 @@ image: assets/dreamfactorysoftware_dreamfactory_20260209_011158_652_20260209_011
 # [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory)
 
 API access to data sources for applications and LLMs
+
+为应用和 LLM 提供数据源的 API 访问

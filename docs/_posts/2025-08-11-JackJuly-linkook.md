@@ -7,3 +7,5 @@ image: assets/JackJuly_linkook--20250811T001600--cropped.png
 # [JackJuly/linkook](https://github.com/JackJuly/linkook)
 
 find linked accounts and emails with one username
+
+通过一个用户名查找关联账户和电子邮件

@@ -7,3 +7,5 @@ image: assets/Mexit_MultiOS_USB_20251109_170508_217_20251109_184429_8cf7d8--2025
 # [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB/)
 
 Boot multiple operating systems from one USB drive
+
+从单个USB驱动器启动多个操作系统

@@ -7,3 +7,5 @@ image: assets/python_visualization_folium_20251125_002531_035_20251126_100355_a6
 # [python-visualization/folium](https://github.com/python-visualization/folium/)
 
 Visualizes Python data on Leaflet maps
+
+在 Leaflet 地图上可视化 Python 数据

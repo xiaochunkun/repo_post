@@ -7,3 +7,5 @@ image: assets/TailAdmin_free_nextjs_admin_dashboard_20251123_203036_285_20251125
 # [TailAdmin/free-nextjs-admin-dashboard](https://github.com/TailAdmin/free-nextjs-admin-dashboard/)
 
 Next.js and Tailwind CSS admin dashboard template
+
+Next.js 和 Tailwind CSS 管理仪表板模板

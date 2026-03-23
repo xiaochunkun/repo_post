@@ -7,3 +7,5 @@ image: assets/henrydaum_second_brain_20251105_134047_253_20251105_210802_69b721-
 # [henrydaum/second-brain](https://github.com/henrydaum/second-brain/)
 
 Local RAG for your files
+
+针对文件的本地 RAG

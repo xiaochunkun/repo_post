@@ -7,3 +7,5 @@ image: assets/j3ssie_osmedeus--20250817T082241491--cropped.png
 # [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)
 
 Osmedeus is an open-source engine that helps automate and organize recon tasks for offensive security
+
+Osmedeus 是一个开源引擎，帮助自动化和组织进攻性安全侦察任务

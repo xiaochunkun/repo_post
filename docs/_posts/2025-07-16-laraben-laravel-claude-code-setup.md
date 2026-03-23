@@ -7,3 +7,5 @@ image: assets/laraben_laravel-claude-code-setup_cropped.png
 # [laraben/laravel-claude-code-setup](https://github.com/laraben/laravel-claude-code-setup)
 
 one-command setup for Claude Code in Laravel projects
+
+在Laravel项目中一键设置Claude Code

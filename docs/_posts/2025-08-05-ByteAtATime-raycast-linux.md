@@ -7,3 +7,5 @@ image: assets/ByteAtATime_raycast-linux_cropped.png
 # [ByteAtATime/raycast-linux](https://github.com/ByteAtATime/raycast-linux)
 
 app launcher for Linux with Raycast extension support
+
+支持 Raycast 扩展的 Linux 应用启动器

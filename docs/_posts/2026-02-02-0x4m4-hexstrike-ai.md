@@ -7,3 +7,5 @@ image: assets/0x4m4_hexstrike_ai_20260202_111329_127_20260202_111444_6a04b4.png
 # [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
 
 MCP server for autonomous penetration testing
+
+用于自主渗透测试的 MCP 服务器

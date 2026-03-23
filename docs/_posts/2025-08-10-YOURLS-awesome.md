@@ -7,3 +7,5 @@ image: assets/YOURLS_awesome_cropped.png
 # [YOURLS/awesome](https://github.com/YOURLS/awesome)
 
 collection of YOURLS plugins, tools, integrations, themes
+
+YOURLS 插件、工具、集成和主题的集合

@@ -7,3 +7,5 @@ image: assets/vudovn_antigravity_kit_20260214_012519_292_20260214_012620_ba6e73.
 # [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)
 
 Templates for AI agents with skills and workflows
+
+带技能和工作流的AI代理模板

@@ -7,3 +7,5 @@ image: assets/olathedev_wise_spend_20260206_183019_508_20260206_183036_163191.pn
 # [olathedev/wise-spend](https://github.com/olathedev/wise-spend)
 
 Converts receipt images into financial coaching through Gemini 2.5 Flash
+
+通过Gemini 2.5 Flash将收据图像转换为财务指导

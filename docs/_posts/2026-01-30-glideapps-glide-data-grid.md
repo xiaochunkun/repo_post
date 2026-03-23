@@ -7,3 +7,5 @@ image: assets/glideapps_glide_data_grid_20260130_023134_209_20260130_023218_81e1
 # [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)
 
 Canvas data grid for millions of rows
+
+支持数百万行的Canvas数据网格

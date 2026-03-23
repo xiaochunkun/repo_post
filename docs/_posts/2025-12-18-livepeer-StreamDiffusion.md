@@ -7,3 +7,5 @@ image: assets/livepeer_StreamDiffusion_20251217_082119_722_20251217_082147_54ef7
 # [livepeer/StreamDiffusion](https://github.com/livepeer/StreamDiffusion/)
 
 Pipeline for real-time interactive image generation
+
+实时交互式图像生成管道

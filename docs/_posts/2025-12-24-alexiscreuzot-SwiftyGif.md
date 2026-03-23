@@ -7,3 +7,5 @@ image: assets/alexiscreuzot_SwiftyGif_20251223_020553_534_20251223_020614_612013
 # [alexiscreuzot/SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif/)
 
 Engine for GIF display in iOS apps
+
+iOS应用中显示GIF的引擎

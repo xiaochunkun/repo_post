@@ -7,3 +7,5 @@ image: assets/eseckel_ai_for_grant_writing_20260213_230352_100_20260213_230445_c
 # [eseckel/ai-for-grant-writing](https://github.com/eseckel/ai-for-grant-writing)
 
 Resources for grant writing with LLMs
+
+使用 LLM 进行拨款写作的资源

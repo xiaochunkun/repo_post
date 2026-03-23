@@ -7,3 +7,5 @@ image: assets/Daymychen_art_design_pro_20260108_161403_074_20260108_161426_7cbc0
 # [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro)
 
 Vue 3 admin dashboard template with Vite and TypeScript
+
+基于Vue 3、Vite和TypeScript的管理仪表板模板

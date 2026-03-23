@@ -7,3 +7,5 @@ image: assets/DigitalPlatDev_FreeDomain_cropped.png
 # [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 
 free domains registration and hosting with your chosen DNS provider
+
+免费域名注册和托管，支持自选DNS提供商

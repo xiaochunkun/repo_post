@@ -7,3 +7,5 @@ image: assets/Liquid4All_liquid_audio_20251123_182101_455_20251124_184149_044e90
 # [Liquid4All/liquid-audio](https://github.com/Liquid4All/liquid-audio/)
 
 End-to-end speech-to-speech foundation model
+
+端到端语音到语音基础模型

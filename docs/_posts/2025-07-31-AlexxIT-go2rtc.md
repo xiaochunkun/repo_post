@@ -7,3 +7,5 @@ image: assets/AlexxIT_go2rtc_cropped.png
 # [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
 
 camera streaming app supports RTSP, WebRTC, HomeKit, FFmpeg, RTMP
+
+支持 RTSP、WebRTC、HomeKit、FFmpeg、RTMP 的摄像头流媒体应用

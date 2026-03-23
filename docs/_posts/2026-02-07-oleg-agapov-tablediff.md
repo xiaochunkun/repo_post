@@ -7,3 +7,5 @@ image: assets/oleg_agapov_tablediff_20260205_142335_447_20260205_142350_bf9be2.p
 # [oleg-agapov/tablediff](https://github.com/oleg-agapov/tablediff)
 
 Diffs tables across databases via command line
+
+通过命令行比较数据库中的表格差异

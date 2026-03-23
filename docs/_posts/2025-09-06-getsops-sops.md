@@ -7,3 +7,5 @@ image: assets/20250906T025229737--getsops--sops--20250906T025457343--cropped.png
 # [getsops/sops](https://github.com/getsops/sops)
 
 tool for encrypting and editing secrets files like YAML and JSON
+
+加密和编辑 YAML、JSON 等密钥文件的工具

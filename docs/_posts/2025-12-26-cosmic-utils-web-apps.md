@@ -7,3 +7,5 @@ image: assets/cosmic_utils_web_apps_20251225_050253_525_20251225_050317_cdedc8.p
 # [cosmic-utils/web-apps](https://github.com/cosmic-utils/web-apps/)
 
 Turns websites into desktop applications for the COSMIC desktop
+
+将网站转换为 COSMIC 桌面的桌面应用

@@ -7,3 +7,5 @@ image: assets/gaogaotiantian_coredumpy_20251123_172320_624_20251124_095058_1563f
 # [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy/)
 
 Saves Python crash state for debugging
+
+保存 Python 崩溃状态以进行调试

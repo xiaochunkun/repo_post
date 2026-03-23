@@ -7,3 +7,5 @@ image: assets/nari-labs_dia_cropped.png
 # [nari-labs/dia](https://github.com/nari-labs/dia)
 
 text-to-speech model for generating dialogue with voices and sounds
+
+文本转语音模型，用于生成带声音和音效的对话

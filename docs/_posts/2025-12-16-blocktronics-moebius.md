@@ -7,3 +7,5 @@ image: assets/blocktronics_moebius_20251213_125245_387_20251213_125308_ad9120.pn
 # [blocktronics/moebius](https://github.com/blocktronics/moebius/)
 
 ANSI art editor for MacOS, Linux and Windows
+
+适用于macOS、Linux和Windows的ANSI艺术编辑器

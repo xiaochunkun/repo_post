@@ -7,3 +7,5 @@ image: assets/MacRimi_ProxMenux_20260202_130146_706_20260202_130229_217199.png
 # [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux)
 
 Interactive menu for Proxmox VE management
+
+Proxmox VE管理的交互式菜单

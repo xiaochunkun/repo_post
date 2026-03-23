@@ -7,3 +7,5 @@ image: assets/ghuntley_how_to_build_a_coding_agent_20251123_174125_884_20251124_
 # [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent/)
 
 Workshop for building AI coding agents with Claude
+
+使用 Claude 构建 AI 编码代理的研讨会

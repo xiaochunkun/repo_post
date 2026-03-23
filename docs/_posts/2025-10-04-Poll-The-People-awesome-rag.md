@@ -7,3 +7,5 @@ image: assets/20251003T230948525--Poll-The-People--awesome-rag--20251003T2313080
 # [Poll-The-People/awesome-rag](https://github.com/Poll-The-People/awesome-rag)
 
 curated list of RAG tools, papers, and resources
+
+精选的RAG工具、论文和资源列表

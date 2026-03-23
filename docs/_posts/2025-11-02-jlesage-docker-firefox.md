@@ -7,3 +7,5 @@ image: assets/jlesage_docker_firefox_20251031_060949_244_20251101_203323_0be841-
 # [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox/)
 
 Run Firefox in a Docker container, accessible via web browser
+
+在 Docker 容器中运行 Firefox，可通过网页浏览器访问

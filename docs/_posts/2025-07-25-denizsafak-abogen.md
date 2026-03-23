@@ -7,3 +7,5 @@ image: assets/denizsafak_abogen_cropped.png
 # [denizsafak/abogen](https://github.com/denizsafak/abogen)
 
 Generate audiobooks and subtitles from EPUB, PDF, or text files with text-to-speech
+
+从EPUB、PDF或文本文件生成有声书和字幕，使用文本转语音

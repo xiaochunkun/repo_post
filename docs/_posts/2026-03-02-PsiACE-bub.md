@@ -7,3 +7,5 @@ image: assets/PsiACE_bub_20260228_184909_348_20260228_185110_746753.png
 # [PsiACE/bub](https://github.com/PsiACE/bub)
 
 Coding agent CLI with predictable execution
+
+具有可预测执行的编码代理 CLI

@@ -7,3 +7,5 @@ image: assets/alextselegidis_plainpad_20251221_234552_203_20251221_234611_942632
 # [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad/)
 
 Self-hosted note taking application
+
+自托管的笔记应用

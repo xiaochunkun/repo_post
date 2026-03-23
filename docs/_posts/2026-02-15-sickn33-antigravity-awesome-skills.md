@@ -7,3 +7,5 @@ image: assets/sickn33_antigravity_awesome_skills_20260209_133026_573_20260209_13
 # [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 
 Library of skills for AI agents
+
+AI 代理技能库

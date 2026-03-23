@@ -7,3 +7,5 @@ image: assets/yamlresume_yamlresume_cropped.png
 # [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume)
 
 turning resumes into YAML, export to PDF
+
+将简历转换为 YAML，导出为 PDF

@@ -7,3 +7,5 @@ image: assets/guidewire_oss_fern_platform_20251218_042738_250_20251218_042758_3e
 # [guidewire-oss/fern-platform](https://github.com/guidewire-oss/fern-platform/)
 
 Aggregates test results into a dashboard for intelligence and analytics
+
+将测试结果聚合到仪表板以进行智能分析

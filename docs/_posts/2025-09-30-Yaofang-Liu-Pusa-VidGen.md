@@ -7,3 +7,5 @@ image: assets/20250930T030951621--Yaofang-Liu--Pusa-VidGen--20250930T031732564--
 # [Yaofang-Liu/Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen)
 
 video diffusion model for text-to-video, image-to-video, extension, and transitions
+
+用于文本转视频、图像转视频、扩展和过渡的视频扩散模型

@@ -7,3 +7,5 @@ image: assets/sqliteai_sqlite_vector_20251207_175532_210_20251207_175604_f03d4d.
 # [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector/)
 
 Cross-platform vector search extension for SQLite
+
+SQLite的跨平台向量搜索扩展

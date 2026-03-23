@@ -7,3 +7,5 @@ image: assets/Fincept_Corporation_FinceptTerminal_20260209_031515_717_20260209_0
 # [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 
 Financial intelligence platform with CFA-level analytics and AI automation
+
+金融智能平台，提供CFA级别分析和AI自动化

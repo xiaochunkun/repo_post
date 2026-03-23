@@ -7,3 +7,5 @@ image: assets/20250927T042811249--mfat--sshpilot--20250927T044435731--cropped.pn
 # [mfat/sshpilot](https://github.com/mfat/sshpilot)
 
 SSH connection manager for Linux and macOS with tabs, SFTP, and built-in terminal
+
+适用于Linux和macOS的SSH连接管理器，支持标签、SFTP和内置终端

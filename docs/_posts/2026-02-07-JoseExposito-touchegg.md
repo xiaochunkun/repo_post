@@ -7,3 +7,5 @@ image: assets/JoseExposito_touchegg_20260204_031604_850_20260204_031629_bc2988.p
 # [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg)
 
 Maps touchpad and touchscreen gestures to desktop actions on Linux
+
+在Linux上将触摸板和触摸屏手势映射到桌面操作

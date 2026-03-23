@@ -7,3 +7,5 @@ image: assets/knownsec_aipyapp_cropped.png
 # [knownsec/aipyapp](https://github.com/knownsec/aipyapp)
 
 AI tools for Python workflows and automation
+
+Python工作流与自动化的AI工具

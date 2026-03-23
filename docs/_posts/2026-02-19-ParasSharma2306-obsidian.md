@@ -7,3 +7,5 @@ image: assets/ParasSharma2306_obsidian_20260218_004254_293_20260218_004316_a5550
 # [ParasSharma2306/obsidian](https://github.com/ParasSharma2306/obsidian)
 
 Visualizes WhatsApp chat exports in a browser
+
+在浏览器中可视化WhatsApp聊天导出

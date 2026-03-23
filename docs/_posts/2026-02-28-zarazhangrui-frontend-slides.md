@@ -7,3 +7,5 @@ image: assets/zarazhangrui_frontend_slides_20260225_060725_948_20260225_060912_8
 # [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
 
 Converts PowerPoint files into HTML presentations via Claude Code
+
+通过Claude Code将PowerPoint文件转换为HTML演示文稿

@@ -7,3 +7,5 @@ image: assets/speaches-ai_speaches_cropped.png
 # [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
 
 OpenAI-compatible server for speech-to-text, translation, and text-to-speech
+
+兼容OpenAI的语音转文本、翻译和文本转语音服务器

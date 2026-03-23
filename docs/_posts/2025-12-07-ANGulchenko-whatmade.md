@@ -7,3 +7,5 @@ image: assets/ANGulchenko_whatmade_20251205_002912_516_20251205_002935_9d74f6.pn
 # [ANGulchenko/whatmade](https://github.com/ANGulchenko/whatmade/)
 
 Linux daemon records which process created files
+
+Linux守护进程记录文件创建过程

@@ -7,3 +7,5 @@ image: assets/ralsina_tocry_20251213_023932_265_20251213_023959_0151ae.png
 # [ralsina/tocry](https://github.com/ralsina/tocry/)
 
 Kanban board for task management
+
+任务管理看板工具

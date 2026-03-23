@@ -7,3 +7,5 @@ image: assets/totokunda_apex_studio_20260201_182914_763_20260201_182951_30a9fc.p
 # [totokunda/apex-studio](https://github.com/totokunda/apex-studio)
 
 Video editor for diffusion models
+
+用于扩散模型的视频编辑器

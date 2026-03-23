@@ -7,3 +7,5 @@ image: assets/isixe_LinkChecker_20251202_230453_589_20251202_230530_239367.png
 # [isixe/LinkChecker](https://github.com/isixe/LinkChecker/)
 
 Checks website URL validity and categorizes links
+
+检查网站 URL 有效性并分类链接

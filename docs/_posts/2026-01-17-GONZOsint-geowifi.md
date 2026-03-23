@@ -7,3 +7,5 @@ image: assets/GONZOsint_geowifi_20260117_033217_016_20260117_033233_b48354.png
 # [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi)
 
 Locates WiFi networks using BSSID and SSID data
+
+利用BSSID和SSID数据定位WiFi网络

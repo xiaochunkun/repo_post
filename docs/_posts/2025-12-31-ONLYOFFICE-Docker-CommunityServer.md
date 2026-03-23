@@ -7,3 +7,5 @@ image: assets/ONLYOFFICE_Docker_CommunityServer_20251231_021554_576_20251231_021
 # [ONLYOFFICE/Docker-CommunityServer](https://github.com/ONLYOFFICE/Docker-CommunityServer/)
 
 Collaborative system for managing documents, projects, and emails
+
+管理文档、项目和邮件的协作系统

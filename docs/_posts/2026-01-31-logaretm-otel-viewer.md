@@ -7,3 +7,5 @@ image: assets/logaretm_otel_viewer_20260130_145500_966_20260130_145543_872833.pn
 # [logaretm/otel-viewer](https://github.com/logaretm/otel-viewer)
 
 Visualizes OpenTelemetry traces with waterfall diagrams
+
+使用瀑布图可视化OpenTelemetry追踪

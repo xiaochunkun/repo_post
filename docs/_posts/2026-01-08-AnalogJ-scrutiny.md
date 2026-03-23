@@ -7,3 +7,5 @@ image: assets/AnalogJ_scrutiny_20260108_025434_153_20260108_025447_f880aa.png
 # [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
 
 Web interface for hard drive health monitoring
+
+硬盘健康监控的 Web 界面

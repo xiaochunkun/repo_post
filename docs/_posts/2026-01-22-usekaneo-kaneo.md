@@ -7,3 +7,5 @@ image: assets/usekaneo_kaneo_20260121_234445_855_20260121_234504_9805c2.png
 # [usekaneo/kaneo](https://github.com/usekaneo/kaneo)
 
 Self-hosted project management tool for developers
+
+面向开发者的自托管项目管理工具

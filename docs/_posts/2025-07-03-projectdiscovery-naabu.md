@@ -7,3 +7,5 @@ image: assets/projectdiscovery_naabu_cropped.png
 # [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu)
 
 port scanning enumerator for hosts
+
+主机端口扫描枚举器

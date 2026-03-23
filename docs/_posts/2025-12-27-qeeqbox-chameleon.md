@@ -7,3 +7,5 @@ image: assets/qeeqbox_chameleon_20251225_231531_341_20251225_231555_52da23.png
 # [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon/)
 
 Honeypots for monitoring network traffic and credentials
+
+用于监控网络流量和凭证的蜜罐

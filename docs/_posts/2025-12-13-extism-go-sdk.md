@@ -7,3 +7,5 @@ image: assets/extism_go_sdk_20251209_054657_342_20251209_054732_9541d3.png
 # [extism/go-sdk](https://github.com/extism/go-sdk/)
 
 Run WebAssembly plugins in Go applications
+
+在 Go 应用中运行 WebAssembly 插件

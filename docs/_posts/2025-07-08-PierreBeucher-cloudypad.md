@@ -7,3 +7,5 @@ image: assets/PierreBeucher_cloudypad_cropped.png
 # [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad)
 
 run your own cloud gaming server for Steam
+
+运行您自己的 Steam 云游戏服务器

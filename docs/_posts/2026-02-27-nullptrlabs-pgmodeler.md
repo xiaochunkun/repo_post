@@ -7,3 +7,5 @@ image: assets/nullptrlabs_pgmodeler_20260227_123542_923_20260227_123717_c968de.p
 # [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler)
 
 Generates PostgreSQL database schemas from visual models
+
+从可视化模型生成PostgreSQL数据库模式

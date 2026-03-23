@@ -7,3 +7,5 @@ image: assets/lharries_whatsapp_mcp_20260129_003001_757_20260129_003039_eb9619.p
 # [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
 Claude Desktop integration for WhatsApp messages and media
+
+Claude Desktop集成用于WhatsApp消息和媒体

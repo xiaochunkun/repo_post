@@ -7,3 +7,5 @@ image: assets/horizon_ui_horizon_ui_chakra_20260122_071321_005_20260122_071339_b
 # [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra)
 
 Admin template for Chakra UI and React
+
+Chakra UI 和 React 的管理模板

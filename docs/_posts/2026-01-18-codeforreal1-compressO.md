@@ -7,3 +7,5 @@ image: assets/codeforreal1_compressO_20260118_112158_341_20260118_112222_baf3c5.
 # [codeforreal1/compressO](https://github.com/codeforreal1/compressO)
 
 Compresses videos offline using FFmpeg
+
+使用FFmpeg离线压缩视频

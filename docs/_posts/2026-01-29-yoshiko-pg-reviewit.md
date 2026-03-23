@@ -7,3 +7,5 @@ image: assets/yoshiko_pg_reviewit_20260128_230139_611_20260128_230231_26ab6f.png
 # [yoshiko-pg/reviewit](https://github.com/yoshiko-pg/reviewit)
 
 CLI tool for viewing local git diffs in a browser
+
+在浏览器中查看本地 git 差异的 CLI 工具

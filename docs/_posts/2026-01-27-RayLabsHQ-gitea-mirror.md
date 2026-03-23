@@ -7,3 +7,5 @@ image: assets/RayLabsHQ_gitea_mirror_20260122_004552_328_20260122_004609_fbcca6.
 # [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror)
 
 Syncs GitHub repositories to Gitea instances via Docker
+
+通过Docker同步GitHub仓库到Gitea实例

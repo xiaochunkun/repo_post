@@ -7,3 +7,5 @@ image: assets/financial_datasets_mcp_server_20260217_045430_276_20260217_045520_
 # [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server)
 
 MCP server for stock market data
+
+股票市场数据的MCP服务器

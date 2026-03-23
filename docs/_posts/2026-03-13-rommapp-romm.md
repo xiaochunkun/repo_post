@@ -7,3 +7,5 @@ image: assets/rommapp_romm_20260304_031608_982_20260304_031720_d1ff26.png
 # [rommapp/romm](https://github.com/rommapp/romm)
 
 Self-hosted manager to scan and play game ROMs in a browser
+
+在浏览器中扫描和运行游戏ROM的自托管管理器

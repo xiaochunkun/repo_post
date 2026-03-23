@@ -7,3 +7,5 @@ image: assets/jofoerster_habitsync_20260108_155530_828_20260108_155547_a24baf.pn
 # [jofoerster/habitsync](https://github.com/jofoerster/habitsync)
 
 Self-hosted habit tracker with social features and OIDC support
+
+具备社交功能和OIDC支持的自托管习惯追踪器

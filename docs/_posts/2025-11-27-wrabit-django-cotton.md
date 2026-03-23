@@ -7,3 +7,5 @@ image: assets/wrabit_django_cotton_20251125_005006_375_20251126_100628_c80ae2--2
 # [wrabit/django-cotton](https://github.com/wrabit/django-cotton/)
 
 Component-based design for Django templates
+
+用于 Django 模板的基于组件的设计

@@ -7,3 +7,5 @@ image: assets/20251015T031725164--dudor--BookmarkHub--20251015T031805426--croppe
 # [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)
 
 sync bookmarks across browsers with a plugin using GitHub Gist
+
+使用 GitHub Gist 的插件跨浏览器同步书签

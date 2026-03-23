@@ -7,3 +7,5 @@ image: assets/clockworklabs_SpacetimeDB_20260122_005025_105_20260122_005040_a74e
 # [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
 
 Relational database for multiplayer games
+
+用于多人游戏的关系数据库

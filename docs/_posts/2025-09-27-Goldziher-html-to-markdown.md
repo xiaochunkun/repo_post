@@ -7,3 +7,5 @@ image: assets/20250927T040109174--Goldziher--html-to-markdown--20250927T04103111
 # [Goldziher/html-to-markdown](https://github.com/Goldziher/html-to-markdown)
 
 Python library for converting HTML to Markdown with type safety and full HTML5 support
+
+将 HTML 转换为 Markdown 的 Python 库，支持类型安全和完整 HTML5

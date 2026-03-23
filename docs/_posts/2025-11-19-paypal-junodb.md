@@ -7,3 +7,5 @@ image: assets/paypal_junodb_20251118_103807_461_20251119_191539_b71ba3--20251119
 # [paypal/junodb](https://github.com/paypal/junodb/)
 
 PayPal's key-value store with single-digit millisecond latency
+
+PayPal 的键值存储，具有个位数毫秒延迟

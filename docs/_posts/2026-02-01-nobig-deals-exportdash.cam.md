@@ -7,3 +7,5 @@ image: assets/nobig_deals_exportdash_cam_20260201_012905_495_20260201_012943_a3e
 # [nobig-deals/exportdash.cam](https://github.com/nobig-deals/exportdash.cam)
 
 Tesla dashcam viewer with telemetry overlays and video export
+
+带有遥测叠加和视频导出的 Tesla 行车记录仪查看器

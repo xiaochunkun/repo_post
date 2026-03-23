@@ -7,3 +7,5 @@ image: assets/shadcnspace_shadcnspace_20260222_165734_162_20260222_165814_a22e7b
 # [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
 
 UI blocks and components for React applications
+
+React 应用的 UI 块和组件

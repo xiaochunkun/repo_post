@@ -7,3 +7,5 @@ image: assets/databasus_databasus_20260111_200053_748_20260111_200116_92ae58.png
 # [databasus/databasus](https://github.com/databasus/databasus)
 
 Backups databases to cloud storage with progress notifications
+
+带进度通知将数据库备份到云存储

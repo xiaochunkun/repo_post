@@ -7,3 +7,5 @@ image: assets/gaheldev_Millisecond_20260112_050042_711_20260112_050101_7300ff.pn
 # [gaheldev/Millisecond](https://github.com/gaheldev/Millisecond)
 
 System diagnostics for audio production latency
+
+音频制作延迟的系统诊断工具

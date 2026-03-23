@@ -7,3 +7,5 @@ image: assets/kellyclaudeai_openclaw_deck_20260225_044049_326_20260225_044237_bc
 # [kellyclaudeai/openclaw-deck](https://github.com/kellyclaudeai/openclaw-deck)
 
 Multi-column chat interface for AI agents
+
+AI代理的多列聊天界面

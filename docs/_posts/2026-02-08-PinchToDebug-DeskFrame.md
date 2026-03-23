@@ -7,3 +7,5 @@ image: assets/PinchToDebug_DeskFrame_20260203_001813_946_20260203_001835_73e78a.
 # [PinchToDebug/DeskFrame](https://github.com/PinchToDebug/DeskFrame)
 
 Organizes desktop into frames
+
+将桌面组织成框架

@@ -7,3 +7,5 @@ image: assets/20250928T053536654--Alanrk--LazyCat-Bookmark-Cleaner--20250928T054
 # [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner)
 
 cleans up broken and duplicate bookmarks, shows stats, keeps everything local
+
+清理损坏和重复的书签，显示统计数据，所有数据本地保存

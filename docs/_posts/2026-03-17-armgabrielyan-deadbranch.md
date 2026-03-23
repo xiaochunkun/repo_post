@@ -7,3 +7,5 @@ image: assets/armgabrielyan_deadbranch_20260316_035824_950_20260316_035903_dc1a8
 # [armgabrielyan/deadbranch](https://github.com/armgabrielyan/deadbranch)
 
 Removes git branches with safety checks
+
+带安全检查地删除git分支

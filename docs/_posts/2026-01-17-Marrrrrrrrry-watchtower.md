@@ -7,3 +7,5 @@ image: assets/Marrrrrrrrry_watchtower_20260116_021042_105_20260116_021055_c88e22
 # [Marrrrrrrrry/watchtower](https://github.com/Marrrrrrrrry/watchtower)
 
 Automates Docker container image updates
+
+自动化Docker容器镜像更新

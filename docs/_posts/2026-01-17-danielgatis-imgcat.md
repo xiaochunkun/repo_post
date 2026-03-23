@@ -7,3 +7,5 @@ image: assets/danielgatis_imgcat_20260116_170426_955_20260116_170444_ad9cd7.png
 # [danielgatis/imgcat](https://github.com/danielgatis/imgcat)
 
 Displays images and gifs in the terminal
+
+在终端中显示图像和 gif

@@ -7,3 +7,5 @@ image: assets/brianluft_heirloom_20260117_223229_559_20260117_223242_3f3c22.png
 # [brianluft/heirloom](https://github.com/brianluft/heirloom)
 
 Program Manager and File Manager reimplementation for Windows
+
+Windows程序管理器和文件管理器重实现

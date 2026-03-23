@@ -7,3 +7,5 @@ image: assets/0xchocolate_flipperzero_esp_flasher_20251209_012456_804_20251209_0
 # [0xchocolate/flipperzero-esp-flasher](https://github.com/0xchocolate/flipperzero-esp-flasher/)
 
 Flashes ESP chips from Flipper Zero
+
+从Flipper Zero刷写ESP芯片

@@ -7,3 +7,5 @@ image: assets/evilsocket_nyx_20251221_170057_828_20251221_170114_25da4e.png
 # [evilsocket/nyx](https://github.com/evilsocket/nyx/)
 
 Cleans forensic traces on Linux, macOS, and Windows
+
+清理 Linux、macOS 和 Windows 取证痕迹

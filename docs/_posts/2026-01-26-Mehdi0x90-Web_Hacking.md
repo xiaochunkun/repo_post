@@ -7,3 +7,5 @@ image: assets/Mehdi0x90_Web_Hacking_20260121_221002_022_20260121_221017_0e9fa2.p
 # [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking)
 
 Notes on web security bypasses and payloads
+
+关于 Web 安全绕过和有效载荷的笔记

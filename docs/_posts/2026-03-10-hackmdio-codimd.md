@@ -7,3 +7,5 @@ image: assets/hackmdio_codimd_20260309_103644_689_20260309_103855_f30dcb.png
 # [hackmdio/codimd](https://github.com/hackmdio/codimd)
 
 Collaborative markdown notes with real-time editing and diagram support
+
+支持实时编辑和图表协作的 markdown 笔记

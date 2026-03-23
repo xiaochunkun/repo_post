@@ -7,3 +7,5 @@ image: assets/reconmap_reconmap_20251229_154121_032_20251229_154137_2e5a58.png
 # [reconmap/reconmap](https://github.com/reconmap/reconmap/)
 
 Platform for pentesting management and reporting
+
+渗透测试管理和报告平台

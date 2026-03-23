@@ -7,3 +7,5 @@ image: assets/adi1090x_dynamic_wallpaper_20260116_032220_447_20260116_032238_492
 # [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper)
 
 Sets wallpapers via cron job scheduler
+
+通过 cron 作业调度器设置壁纸

@@ -7,3 +7,5 @@ image: assets/spotify_basic_pitch_20251105_142955_833_20251105_210941_2b2b96--20
 # [spotify/basic-pitch](https://github.com/spotify/basic-pitch/)
 
 Lightweight audio to MIDI conversion with a neural network
+
+使用神经网络进行轻量级音频到MIDI转换

@@ -7,3 +7,5 @@ image: assets/20250827T100607221--chrishubert--whatsapp-api--20250827T101049305-
 # [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api)
 
 Run a REST API for WhatsApp Web with Docker support, easy integration for non-Node.js projects
+
+Docker 部署的 WhatsApp Web REST API，方便非 Node.js 项目集成

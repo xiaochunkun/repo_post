@@ -7,3 +7,5 @@ image: assets/haoheliu_versatile_audio_super_resolution_20251127_194350_579_2025
 # [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution/)
 
 Upsamples audio to 48kHz
+
+将音频上采样至 48kHz

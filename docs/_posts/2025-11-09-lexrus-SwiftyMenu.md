@@ -7,3 +7,5 @@ image: assets/lexrus_SwiftyMenu_20251109_141927_376_20251109_144343_e0dfca--2025
 # [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu/)
 
 macOS Finder extension for context menus
+
+用于上下文菜单的macOS Finder扩展

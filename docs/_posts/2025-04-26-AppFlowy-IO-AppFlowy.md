@@ -7,3 +7,5 @@ image: assets/AppFlowy-IO_AppFlowy_cropped.png
 # [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 
 Open source Notion alternative for projects, docs, and teamwork with data control
+
+用于项目、文档和团队协作的开源Notion替代品，支持数据控制

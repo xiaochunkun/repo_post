@@ -7,3 +7,5 @@ image: assets/20250911T163024921--NanoNets--docext--20250911T163359610--cropped.
 # [NanoNets/docext](https://github.com/NanoNets/docext)
 
 on-premises toolkit for extracting and benchmarking info from documents
+
+本地部署的文档信息提取和基准测试工具包

@@ -7,3 +7,5 @@ image: assets/QuivrHQ_quivr_cropped.png
 # [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
 
 Open-source RAG tool for creating a personal AI assistant
+
+开源 RAG 工具，用于创建个人 AI 助手

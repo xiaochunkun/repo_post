@@ -7,3 +7,5 @@ image: assets/linuxserver_docker_firefox_20251124_232825_359_20251125_222128_1e2
 # [linuxserver/docker-firefox](https://github.com/linuxserver/docker-firefox/)
 
 Docker container for Firefox browser
+
+Firefox 浏览器的 Docker 容器

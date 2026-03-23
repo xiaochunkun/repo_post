@@ -7,3 +7,5 @@ image: assets/turbolytics_sql_flow_20251105_050030_028_20251106_002452_a82739--2
 # [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow/)
 
 Stream processing engine using SQL, DuckDB, and Apache Arrow
+
+使用SQL、DuckDB和Apache Arrow的流处理引擎

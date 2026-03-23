@@ -7,3 +7,5 @@ image: assets/azimuttapp_azimutt_cropped.png
 # [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt)
 
 visualize and explore your database schemas
+
+可视化和探索数据库模式

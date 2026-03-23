@@ -7,3 +7,5 @@ image: assets/LongQT_sea_macos_iso_builder_20251111_214659_939_20251112_032601_2
 # [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder/)
 
 Builds macOS installer images without a Mac
+
+无需 Mac 构建 macOS 安装程序镜像

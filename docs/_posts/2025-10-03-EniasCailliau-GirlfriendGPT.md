@@ -7,3 +7,5 @@ image: assets/20251001T210812685--EniasCailliau--GirlfriendGPT--20251001T2118258
 # [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT)
 
 personalized AI companion with custom voice, Telegram chat, and selfie features
+
+个性化AI伴侣，带自定义语音、Telegram聊天和自拍功能

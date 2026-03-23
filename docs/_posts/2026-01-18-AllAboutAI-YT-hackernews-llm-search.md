@@ -7,3 +7,5 @@ image: assets/AllAboutAI_YT_hackernews_llm_search_20260117_205316_926_20260117_2
 # [AllAboutAI-YT/hackernews-llm-search](https://github.com/AllAboutAI-YT/hackernews-llm-search)
 
 RAG search for Hacker News posts using Ollama
+
+使用Ollama进行Hacker News帖子的RAG搜索

@@ -7,3 +7,5 @@ image: assets/cially_cially_20251111_053945_199_20251112_020603_c1fde4--20251112
 # [cially/cially](https://github.com/cially/cially/)
 
 Open-source dashboard for Discord server analytics
+
+用于Discord服务器分析的开源仪表板

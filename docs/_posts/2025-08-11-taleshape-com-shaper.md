@@ -7,3 +7,5 @@ image: assets/20250810T065343--taleshape-com--shaper--20250811T002547--cropped.p
 # [taleshape-com/shaper](https://github.com/taleshape-com/shaper)
 
 minimal data dashboards platform built on DuckDB and NATS
+
+基于DuckDB和NATS构建的极简数据仪表板平台

@@ -7,3 +7,5 @@ image: assets/alphacep_vosk-api_cropped.png
 # [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
 
 offline speech-to-text API for many languages, runs on lots of devices and platforms
+
+支持多种语言的离线语音转文本 API，可在多种设备和平台上运行

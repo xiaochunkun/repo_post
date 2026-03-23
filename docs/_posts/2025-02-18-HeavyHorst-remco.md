@@ -7,3 +7,5 @@ image: assets/HeavyHorst_remco_cropped.png
 # [HeavyHorst/remco](https://github.com/HeavyHorst/remco)
 
 Configuration management tool using key/value stores and templates
+
+基于键值存储和模板的配置管理工具

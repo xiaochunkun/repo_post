@@ -7,3 +7,5 @@ image: assets/Orange_OpenSource_hurl_20260228_075907_074_20260228_080108_eae66f.
 # [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
 
 Runs HTTP requests from text files
+
+从文本文件运行HTTP请求

@@ -7,3 +7,5 @@ image: assets/wmariuss_awesome-devops--20250815T022454869--cropped.png
 # [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
 
 curated list of devops tools and platforms
+
+精选的DevOps工具和平台列表

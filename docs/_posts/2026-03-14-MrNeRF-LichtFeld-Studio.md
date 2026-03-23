@@ -7,3 +7,5 @@ image: assets/MrNeRF_LichtFeld_Studio_20260314_121824_187_20260314_122519_64ca88
 # [MrNeRF/LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio)
 
 High performance 3D Gaussian Splatting
+
+高性能3D高斯泼溅

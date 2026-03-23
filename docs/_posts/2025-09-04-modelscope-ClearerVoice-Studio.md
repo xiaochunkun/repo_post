@@ -7,3 +7,5 @@ image: assets/20250903T023917075--modelscope--ClearerVoice-Studio--20250903T0249
 # [modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)
 
 AI toolkit for speech enhancement, separation, super-resolution, and speaker extraction
+
+语音增强、分离、超分辨率和说话人提取的 AI 工具包

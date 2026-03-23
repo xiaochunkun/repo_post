@@ -7,3 +7,5 @@ image: assets/20250908T093929063--InternLM--lmdeploy--20250908T094241566--croppe
 # [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
 
 toolkit for compressing and deploying large language models
+
+大语言模型压缩和部署工具包

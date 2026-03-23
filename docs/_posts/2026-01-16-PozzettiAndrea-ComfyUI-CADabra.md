@@ -7,3 +7,5 @@ image: assets/PozzettiAndrea_ComfyUI_CADabra_20260113_135356_623_20260113_135410
 # [PozzettiAndrea/ComfyUI-CADabra](https://github.com/PozzettiAndrea/ComfyUI-CADabra)
 
 Nodes for CAD file processing and surface reconstruction
+
+用于 CAD 文件处理和表面重建的节点

@@ -7,3 +7,5 @@ image: assets/cyberagiinc_DevDocs_cropped.png
 # [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs)
 
 self-hosted tool for crawling and organizing tech docs
+
+自托管工具，用于爬取和组织技术文档

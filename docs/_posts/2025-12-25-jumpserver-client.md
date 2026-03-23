@@ -7,3 +7,5 @@ image: assets/jumpserver_client_20251224_183907_185_20251224_183925_fdc81e.png
 # [jumpserver/client](https://github.com/jumpserver/client/)
 
 Manages remote servers and databases across platforms
+
+跨平台管理远程服务器和数据库

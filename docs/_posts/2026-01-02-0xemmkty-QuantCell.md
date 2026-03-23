@@ -7,3 +7,5 @@ image: assets/0xemmkty_QuantCell_20260101_225325_238_20260101_225343_63b1bd.png
 # [0xemmkty/QuantCell](https://github.com/0xemmkty/QuantCell/)
 
 Trading system with AI analysis and risk management
+
+具备AI分析和风险管理的交易系统

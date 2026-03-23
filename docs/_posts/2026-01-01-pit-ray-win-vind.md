@@ -7,3 +7,5 @@ image: assets/pit_ray_win_vind_20251231_223645_541_20251231_223700_dced66.png
 # [pit-ray/win-vind](https://github.com/pit-ray/win-vind/)
 
 Controls the Windows GUI with Vim keybindings
+
+使用Vim键绑定控制Windows GUI

@@ -7,3 +7,5 @@ image: assets/20250917T004118000--microsoft--playwright-python--20250917T0054274
 # [microsoft/playwright-python](https://github.com/microsoft/playwright-python)
 
 browser automation for Chromium, Firefox, WebKit with Python
+
+使用 Python 进行 Chromium、Firefox、WebKit 浏览器自动化

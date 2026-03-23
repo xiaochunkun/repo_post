@@ -7,3 +7,5 @@ image: assets/20250923T024614971--rendercv--rendercv--20250923T032020786--croppe
 # [rendercv/rendercv](https://github.com/rendercv/rendercv)
 
 version-control your CV as code with YAML and generate PDFs
+
+将简历作为代码进行版本控制，使用 YAML 并生成 PDF

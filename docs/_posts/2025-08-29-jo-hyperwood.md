@@ -7,3 +7,5 @@ image: assets/20250827T223431970--jo--hyperwood--20250827T223554055--cropped.png
 # [jo/hyperwood](https://github.com/jo/hyperwood)
 
 open-source furniture plans from wooden slats
+
+用木条制作家具的开源图纸

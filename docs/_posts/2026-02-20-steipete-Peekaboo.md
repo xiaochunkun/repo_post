@@ -7,3 +7,5 @@ image: assets/steipete_Peekaboo_20260206_051739_602_20260206_051802_f587a0.png
 # [steipete/Peekaboo](https://github.com/steipete/Peekaboo)
 
 Automates macOS through screen capture and AI analysis
+
+通过屏幕捕获和 AI 分析自动化 macOS

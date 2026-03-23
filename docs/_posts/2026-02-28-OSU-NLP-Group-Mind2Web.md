@@ -7,3 +7,5 @@ image: assets/OSU_NLP_Group_Mind2Web_20260228_135124_125_20260228_135310_06c5db.
 # [OSU-NLP-Group/Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web)
 
 Dataset for training agents on websites
+
+训练代理在网站上操作的数据集

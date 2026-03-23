@@ -7,3 +7,5 @@ image: assets/ibraheemdev_modern-unix_cropped.png
 # [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
 
 modern alternatives for classic unix commands
+
+经典 Unix 命令的现代替代品

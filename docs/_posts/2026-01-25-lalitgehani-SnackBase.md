@@ -7,3 +7,5 @@ image: assets/lalitgehani_SnackBase_20260116_070928_967_20260116_070949_a4cbba.p
 # [lalitgehani/SnackBase](https://github.com/lalitgehani/SnackBase)
 
 Python backend with auto-generated APIs and multi-tenancy
+
+支持自动生成API和多租户的Python后端

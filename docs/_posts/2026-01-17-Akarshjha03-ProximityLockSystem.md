@@ -7,3 +7,5 @@ image: assets/Akarshjha03_ProximityLockSystem_20260116_075451_087_20260116_07550
 # [Akarshjha03/ProximityLockSystem](https://github.com/Akarshjha03/ProximityLockSystem)
 
 Locks computer when Bluetooth device leaves range
+
+蓝牙设备离开范围时锁定计算机

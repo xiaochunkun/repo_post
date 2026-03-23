@@ -7,3 +7,5 @@ image: assets/20251010T205413869--rushter--hexora--20251010T205528459--cropped.p
 # [rushter/hexora](https://github.com/rushter/hexora)
 
 detects malicious code in Python projects
+
+检测 Python 项目中的恶意代码

@@ -7,3 +7,5 @@ image: assets/Yeachan_Heo_oh_my_claudecode_20260202_222503_258_20260202_222528_a
 # [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
 Orchestrates agents for Claude Code with five execution modes
+
+为 Claude Code 编排代理，支持五种执行模式

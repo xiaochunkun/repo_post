@@ -7,3 +7,5 @@ image: assets/supabase-community_postgres-language-server_cropped.png
 # [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server)
 
 Language Server Protocol implementation for Postgres SQL development
+
+用于 Postgres SQL 开发的 Language Server Protocol 实现

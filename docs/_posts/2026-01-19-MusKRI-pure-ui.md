@@ -7,3 +7,5 @@ image: assets/MusKRI_pure_ui_20260113_094314_608_20260113_094334_a4003c.png
 # [MusKRI/pure-ui](https://github.com/MusKRI/pure-ui)
 
 React components built with Base UI and Tailwind CSS
+
+基于 Base UI 和 Tailwind CSS 构建的 React 组件

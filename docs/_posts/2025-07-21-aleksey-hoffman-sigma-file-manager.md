@@ -7,3 +7,5 @@ image: assets/aleksey-hoffman_sigma-file-manager_cropped.png
 # [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
 modern file manager with tabs, smart search, and wireless sharing
+
+具有标签页、智能搜索和无线共享功能的现代文件管理器

@@ -7,3 +7,5 @@ image: assets/deepseek_ai_Engram_20260208_071253_070_20260208_071328_b64e8a.png
 # [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)
 
 Augments Transformers with N-gram memory for knowledge lookup
+
+为Transformer添加N-gram记忆以进行知识查找

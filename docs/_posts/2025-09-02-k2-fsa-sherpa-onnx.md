@@ -7,3 +7,5 @@ image: assets/20250831T022200366--k2-fsa--sherpa-onnx--20250831T025944790--cropp
 # [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 
 speech recognition, synthesis, and audio tools for many platforms
+
+跨平台语音识别、语音合成和音频处理工具

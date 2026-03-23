@@ -7,3 +7,5 @@ image: assets/TrustAI_laboratory_Learn_Prompt_Hacking_20260206_090653_565_202602
 # [TrustAI-laboratory/Learn-Prompt-Hacking](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking)
 
 Course on prompt engineering and security for language models
+
+语言模型提示工程与安全课程

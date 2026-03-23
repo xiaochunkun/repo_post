@@ -7,3 +7,5 @@ image: assets/wiredoor_wiredoor_20260122_071359_327_20260122_071415_ff16ce.png
 # [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor)
 
 Exposes private services through reverse VPN tunnels
+
+通过反向VPN隧道暴露私有服务

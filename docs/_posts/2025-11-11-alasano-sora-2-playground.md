@@ -7,3 +7,5 @@ image: assets/alasano_sora_2_playground_20251110_140407_241_20251110_144153_2ba0
 # [alasano/sora-2-playground](https://github.com/alasano/sora-2-playground/)
 
 Web playground for OpenAI's Sora 2 models
+
+OpenAI Sora 2模型的Web游乐场

@@ -7,3 +7,5 @@ image: assets/vnglst_stacked_game_of_life_20260308_192553_345_20260308_192710_b4
 # [vnglst/stacked-game-of-life](https://github.com/vnglst/stacked-game-of-life)
 
 3D visualization of Game of Life with history stack
+
+带历史堆栈的生命游戏3D可视化

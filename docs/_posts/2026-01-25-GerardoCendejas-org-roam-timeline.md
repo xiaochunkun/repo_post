@@ -7,3 +7,5 @@ image: assets/GerardoCendejas_org_roam_timeline_20260113_022807_266_20260113_022
 # [GerardoCendejas/org-roam-timeline](https://github.com/GerardoCendejas/org-roam-timeline)
 
 Timeline for dated nodes in a browser
+
+浏览器中日期节点的Timeline视图

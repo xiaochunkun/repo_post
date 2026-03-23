@@ -7,3 +7,5 @@ image: assets/parcel-bundler_parcel_cropped.png
 # [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)
 
 zero config tool for bundling web projects
+
+零配置的Web项目打包工具

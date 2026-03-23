@@ -7,3 +7,5 @@ image: assets/modelscope_FunClip_cropped.png
 # [modelscope/FunClip](https://github.com/modelscope/FunClip)
 
 AI video clipper with speech and text recognition
+
+具备语音和文本识别的AI视频剪辑工具

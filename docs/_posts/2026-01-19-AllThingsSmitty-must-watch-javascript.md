@@ -7,3 +7,5 @@ image: assets/AllThingsSmitty_must_watch_javascript_20260118_004243_655_20260118
 # [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
 
 Curated talks on JavaScript development
+
+JavaScript开发的精选演讲

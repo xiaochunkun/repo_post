@@ -7,3 +7,5 @@ image: assets/capcom6_android_sms_gateway_20260318_144035_540_20260318_144122_90
 # [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway)
 
 Turns Android phone into SMS gateway
+
+将 Android 手机转换为 SMS 网关

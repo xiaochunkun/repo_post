@@ -7,3 +7,5 @@ image: assets/jasonkneen_vibeclaw_20260306_022041_070_20260306_022156_3f7d6c.png
 # [jasonkneen/vibeclaw](https://github.com/jasonkneen/vibeclaw)
 
 Run agent sandboxes in browsers
+
+在浏览器中运行代理沙箱

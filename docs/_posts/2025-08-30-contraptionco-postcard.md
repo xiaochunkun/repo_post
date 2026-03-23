@@ -7,3 +7,5 @@ image: assets/20250830T040300722--contraptionco--postcard--20250830T040703057--c
 # [contraptionco/postcard](https://github.com/contraptionco/postcard)
 
 personal website and newsletter builder, open source, easy self-hosting
+
+开源个人网站和 Newsletter 构建器，易于自托管

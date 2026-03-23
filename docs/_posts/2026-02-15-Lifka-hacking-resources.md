@@ -7,3 +7,5 @@ image: assets/Lifka_hacking_resources_20260215_043019_337_20260215_043107_3127db
 # [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources)
 
 Cheat sheets and tools for security professionals
+
+安全专业人员的速查表和工具

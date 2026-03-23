@@ -7,3 +7,5 @@ image: assets/AnswerDotAI_MonsterUI_20251127_173216_220_20251129_023217_985895--
 # [AnswerDotAI/MonsterUI](https://github.com/AnswerDotAI/MonsterUI/)
 
 UI framework for FastHTML using Tailwind
+
+使用 Tailwind 的 FastHTML UI 框架

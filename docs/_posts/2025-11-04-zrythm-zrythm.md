@@ -7,3 +7,5 @@ image: assets/zrythm_zrythm_20251031_163143_741_20251102_220149_5a6e70--20251102
 # [zrythm/zrythm](https://github.com/zrythm/zrythm/)
 
 Digital audio workstation with automation features
+
+具有自动化功能的数字音频工作站

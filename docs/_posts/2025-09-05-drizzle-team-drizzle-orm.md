@@ -7,3 +7,5 @@ image: assets/20250901T033250356--drizzle-team--drizzle-orm--20250905T024705921-
 # [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 
 TypeScript ORM for SQL databases, works with Node.js and serverless
+
+支持 Node.js 和无服务器架构的 TypeScript SQL ORM

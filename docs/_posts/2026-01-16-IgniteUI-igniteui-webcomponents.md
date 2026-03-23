@@ -7,3 +7,5 @@ image: assets/IgniteUI_igniteui_webcomponents_20260113_062756_741_20260113_06284
 # [IgniteUI/igniteui-webcomponents](https://github.com/IgniteUI/igniteui-webcomponents)
 
 UI components for web applications
+
+Web 应用的 UI 组件

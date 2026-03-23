@@ -7,3 +7,5 @@ image: assets/PasarGuard_panel_20260113_064137_977_20260113_064151_ebba31.png
 # [PasarGuard/panel](https://github.com/PasarGuard/panel)
 
 Proxy management solution for censorship resistance
+
+抗审查的代理管理解决方案

@@ -7,3 +7,5 @@ image: assets/20250905T015541197--xyflow--xyflow--20250911T231229431--cropped.pn
 # [xyflow/xyflow](https://github.com/xyflow/xyflow)
 
 Node-based UI libraries for React and Svelte, ready to use and customize
+
+面向 React 和 Svelte 的节点式 UI 库，开箱即用可定制

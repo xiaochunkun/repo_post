@@ -7,3 +7,5 @@ image: assets/oraios_serena_cropped.png
 # [oraios/serena](https://github.com/oraios/serena)
 
 coding agent toolkit for code retrieval, editing, and project commands with LLM integration
+
+用于代码检索、编辑和项目命令的编码代理工具包，集成LLM

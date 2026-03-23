@@ -7,3 +7,5 @@ image: assets/craigsc_cmux_20260319_061838_728_20260319_061930_2b40d5.png
 # [craigsc/cmux](https://github.com/craigsc/cmux)
 
 Run multiple Claude agents in parallel
+
+并行运行多个 Claude 代理

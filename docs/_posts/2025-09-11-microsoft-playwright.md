@@ -7,3 +7,5 @@ image: assets/20250910T031454470--microsoft--playwright--20250910T031640461--cro
 # [microsoft/playwright](https://github.com/microsoft/playwright)
 
 Playwright is a framework for automating and testing web apps across Chromium, Firefox, and WebKit with a single API
+
+Playwright 是一个跨 Chromium、Firefox 和 WebKit 的 Web 自动化测试框架

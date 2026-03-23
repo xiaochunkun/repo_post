@@ -7,3 +7,5 @@ image: assets/rupert648_pertmux_20260319_060806_003_20260319_060930_91e88a.png
 # [rupert648/pertmux](https://github.com/rupert648/pertmux)
 
 SWE dashboard for Git and tmux
+
+Git和tmux的SWE仪表板

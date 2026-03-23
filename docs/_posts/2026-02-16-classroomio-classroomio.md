@@ -7,3 +7,5 @@ image: assets/classroomio_classroomio_20260209_133129_666_20260209_133146_7672f1
 # [classroomio/classroomio](https://github.com/classroomio/classroomio)
 
 Open source learning management system for companies
+
+企业开源学习管理系统

@@ -7,3 +7,5 @@ image: assets/tdlib_telegram_bot_api_20251027_002128_133_20251027_002511_27c404-
 # [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api/)
 
 Self-hosted server for the Telegram Bot API
+
+Telegram Bot API 的自托管服务器

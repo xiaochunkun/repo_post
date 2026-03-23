@@ -7,3 +7,5 @@ image: assets/goksan_statusnook_20260121_200221_468_20260121_200238_c71f5b.png
 # [goksan/statusnook](https://github.com/goksan/statusnook)
 
 Deploys status pages and monitors endpoints
+
+部署状态页面并监控端点

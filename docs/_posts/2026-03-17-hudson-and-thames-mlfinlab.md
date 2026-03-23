@@ -7,3 +7,5 @@ image: assets/hudson_and_thames_mlfinlab_20260317_162502_804_20260317_162618_f47
 # [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab)
 
 Python library for financial machine learning
+
+金融机器学习的 Python 库

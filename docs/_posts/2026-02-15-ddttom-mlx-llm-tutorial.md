@@ -7,3 +7,5 @@ image: assets/ddttom_mlx_llm_tutorial_20260208_021352_633_20260208_021407_3ccaff
 # [ddttom/mlx-llm-tutorial](https://github.com/ddttom/mlx-llm-tutorial)
 
 Tutorial for building LLMs on Apple Silicon
+
+在 Apple Silicon 上构建 LLM 的教程

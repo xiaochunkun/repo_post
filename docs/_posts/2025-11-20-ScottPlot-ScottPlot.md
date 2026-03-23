@@ -7,3 +7,5 @@ image: assets/ScottPlot_ScottPlot_20251118_164645_681_20251119_235623_e0835e--20
 # [ScottPlot/ScottPlot](https://github.com/ScottPlot/ScottPlot/)
 
 Interactive plotting library for .NET
+
+.NET交互式绘图库

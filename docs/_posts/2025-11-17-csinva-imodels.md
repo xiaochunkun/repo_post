@@ -7,3 +7,5 @@ image: assets/csinva_imodels_20251115_064754_963_20251117_034330_aa0a1a--2025111
 # [csinva/imodels](https://github.com/csinva/imodels/)
 
 Python package for interpretable modeling
+
+用于可解释建模的 Python 包

@@ -7,3 +7,5 @@ image: assets/kortix-ai_suna_cropped.png
 # [kortix-ai/suna](https://github.com/kortix-ai/suna)
 
 AI assistant for running tasks and projects via chat interface
+
+AI 助手，通过聊天界面运行任务和项目

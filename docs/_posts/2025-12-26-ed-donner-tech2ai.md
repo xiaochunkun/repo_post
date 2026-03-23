@@ -7,3 +7,5 @@ image: assets/ed_donner_tech2ai_20251225_014704_084_20251225_014722_b88edf.png
 # [ed-donner/tech2ai](https://github.com/ed-donner/tech2ai/)
 
 Transition from software engineering to AI data science
+
+从软件工程转向 AI 数据科学

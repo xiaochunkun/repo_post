@@ -7,3 +7,5 @@ image: assets/navidrome_navidrome_20260306_182710_679_20260306_182829_2c6a16.png
 # [navidrome/navidrome](https://github.com/navidrome/navidrome)
 
 Stream music collections to browsers and mobile devices
+
+将音乐收藏流式传输到浏览器和移动设备

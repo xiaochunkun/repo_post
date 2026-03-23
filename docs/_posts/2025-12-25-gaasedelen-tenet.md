@@ -7,3 +7,5 @@ image: assets/gaasedelen_tenet_20251224_181553_343_20251224_181644_f350ef.png
 # [gaasedelen/tenet](https://github.com/gaasedelen/tenet/)
 
 Explores execution traces for reverse engineering
+
+探索用于逆向工程的执行轨迹

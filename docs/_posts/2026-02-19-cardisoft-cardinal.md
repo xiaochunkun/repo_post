@@ -7,3 +7,5 @@ image: assets/cardisoft_cardinal_20260122_194450_189_20260122_194509_5f0471.png
 # [cardisoft/cardinal](https://github.com/cardisoft/cardinal)
 
 File search tool for macOS with Everything-compatible syntax
+
+macOS文件搜索工具，兼容Everything语法

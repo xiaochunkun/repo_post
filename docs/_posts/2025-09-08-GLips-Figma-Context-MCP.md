@@ -7,3 +7,5 @@ image: assets/20250907T195522563--GLips--Figma-Context-MCP--20250907T195735815--
 # [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)
 
 lets ai tools turn figma designs into code with context
+
+让 AI 工具带上下文将 Figma 设计转换为代码

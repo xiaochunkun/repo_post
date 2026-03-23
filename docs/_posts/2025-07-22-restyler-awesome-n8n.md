@@ -7,3 +7,5 @@ image: assets/restyler_awesome-n8n_cropped.png
 # [restyler/awesome-n8n](https://github.com/restyler/awesome-n8n)
 
 Curated list of n8n workflow automation resources
+
+精选n8n工作流自动化资源列表

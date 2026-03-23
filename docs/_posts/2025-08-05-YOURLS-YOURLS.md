@@ -7,3 +7,5 @@ image: assets/YOURLS_YOURLS_cropped.png
 # [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS)
 
 self-hosted tool for making short links
+
+用于创建短链接的自托管工具

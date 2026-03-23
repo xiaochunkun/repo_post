@@ -7,3 +7,5 @@ image: assets/viatsko_awesome-vscode_cropped.png
 # [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
 
 curated list of VS Code extensions and resources
+
+精选的VS Code扩展和资源列表

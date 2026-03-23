@@ -7,3 +7,5 @@ image: assets/Akshay090_svg_banners_20251210_015250_463_20251210_015312_72eb22.p
 # [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners/)
 
 Animated SVG banners for Readme files
+
+用于 Readme 文件的动画 SVG 横幅

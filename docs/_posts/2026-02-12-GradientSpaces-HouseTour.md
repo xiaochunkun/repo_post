@@ -7,3 +7,5 @@ image: assets/GradientSpaces_HouseTour_20260209_020605_229_20260209_020657_f7ae6
 # [GradientSpaces/HouseTour](https://github.com/GradientSpaces/HouseTour)
 
 Generates camera trajectories and descriptions from images of spaces
+
+从空间图像生成相机轨迹和描述

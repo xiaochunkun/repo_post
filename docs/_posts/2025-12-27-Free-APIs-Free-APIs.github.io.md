@@ -7,3 +7,5 @@ image: assets/Free_APIs_Free_APIs_github_io_20251225_165440_163_20251225_165457_
 # [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io/)
 
 Directory of public APIs for developers
+
+开发者的公共 API 目录

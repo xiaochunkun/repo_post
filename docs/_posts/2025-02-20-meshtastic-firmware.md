@@ -7,3 +7,5 @@ image: assets/meshtastic_firmware_cropped.png
 # [meshtastic/firmware](https://github.com/meshtastic/firmware)
 
 Meshtastic firmware repository
+
+Meshtastic固件仓库

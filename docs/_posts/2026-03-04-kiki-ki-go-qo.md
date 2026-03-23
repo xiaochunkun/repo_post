@@ -7,3 +7,5 @@ image: assets/kiki_ki_go_qo_20260205_161516_703_20260205_161613_5295ce.png
 # [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo)
 
 Queries JSON, CSV, and TSV files using SQL in a terminal
+
+在终端中使用SQL查询JSON、CSV和TSV文件

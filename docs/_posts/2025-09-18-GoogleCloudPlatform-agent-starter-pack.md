@@ -7,3 +7,5 @@ image: assets/20250915T231506176--GoogleCloudPlatform--agent-starter-pack--20250
 # [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 
 Production-ready GenAI agent templates for Google Cloud with deployment, CLI, and monitoring tools
+
+适用于 Google Cloud 的生产就绪 GenAI 智能体模板，包含部署、CLI 和监控工具

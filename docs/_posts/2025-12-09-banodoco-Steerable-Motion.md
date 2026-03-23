@@ -7,3 +7,5 @@ image: assets/banodoco_Steerable_Motion_20251207_194843_187_20251207_195024_4b03
 # [banodoco/Steerable-Motion](https://github.com/banodoco/Steerable-Motion/)
 
 ComfyUI nodes for steering videos with image batches
+
+用于通过图像批次引导视频的ComfyUI节点

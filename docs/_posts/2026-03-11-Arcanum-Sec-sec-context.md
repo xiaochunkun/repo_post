@@ -7,3 +7,5 @@ image: assets/Arcanum_Sec_sec_context_20260224_231541_050_20260224_231713_7aa7cb
 # [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context)
 
 Reference for security anti-patterns in AI code
+
+AI代码中安全反模式的参考指南

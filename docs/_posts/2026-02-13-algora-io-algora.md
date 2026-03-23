@@ -7,3 +7,5 @@ image: assets/algora_io_algora_20260209_050226_700_20260209_050324_c611ef.png
 # [algora-io/algora](https://github.com/algora-io/algora)
 
 Platform for hiring engineers through open source contributions
+
+通过开源贡献招聘工程师的平台

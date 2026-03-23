@@ -7,3 +7,5 @@ image: assets/20250925T043514876--MeiGen-AI--MultiTalk--20250925T044847476--crop
 # [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk)
 
 Create videos of multiple characters having conversations or singing together, all driven by audio input
+
+创建多个角色对话或合唱的视频，全部由音频输入驱动

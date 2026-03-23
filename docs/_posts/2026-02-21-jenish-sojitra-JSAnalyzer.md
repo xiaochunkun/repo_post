@@ -7,3 +7,5 @@ image: assets/jenish_sojitra_JSAnalyzer_20260214_140526_428_20260214_140616_a439
 # [jenish-sojitra/JSAnalyzer](https://github.com/jenish-sojitra/JSAnalyzer)
 
 Extracts endpoints and secrets from JavaScript files
+
+从 JavaScript 文件中提取端点和密钥

@@ -7,3 +7,5 @@ image: assets/Gu1llaum_3_sshm_20260122_072924_967_20260122_072950_90ec02.png
 # [Gu1llaum-3/sshm](https://github.com/Gu1llaum-3/sshm)
 
 TUI for managing SSH connections and port forwarding
+
+管理SSH连接和端口转发的TUI

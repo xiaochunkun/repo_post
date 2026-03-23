@@ -7,3 +7,5 @@ image: assets/PCrnjak_PAROL6_Desktop_robot_arm_20251208_231213_015_20251208_2312
 # [PCrnjak/PAROL6-Desktop-robot-arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/)
 
 Open-source 3D-printed desktop robotic arm
+
+开源3D打印桌面机器人手臂

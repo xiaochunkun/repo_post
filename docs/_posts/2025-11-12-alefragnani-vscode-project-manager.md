@@ -7,3 +7,5 @@ image: assets/alefragnani_vscode_project_manager_20251111_035406_375_20251111_14
 # [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager/)
 
 VS Code extension to switch between projects
+
+用于切换项目的VS Code扩展

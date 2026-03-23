@@ -7,3 +7,5 @@ image: assets/tchapi_davis_20251104_001647_293_20251104_182954_e3a2e8--20251104T
 # [tchapi/davis](https://github.com/tchapi/davis/)
 
 Self-hosted DAV server with admin dashboard
+
+带管理仪表板的自托管DAV服务器

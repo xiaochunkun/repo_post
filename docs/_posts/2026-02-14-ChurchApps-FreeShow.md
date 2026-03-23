@@ -7,3 +7,5 @@ image: assets/ChurchApps_FreeShow_20260212_085240_283_20260212_085315_f44518.png
 # [ChurchApps/FreeShow](https://github.com/ChurchApps/FreeShow)
 
 Presenter software for slideshows and stage displays
+
+用于幻灯片和舞台显示的演示软件

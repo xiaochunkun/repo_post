@@ -7,3 +7,5 @@ image: assets/rtunazzz_hidemyemail_generator_20260121_204045_391_20260121_204111
 # [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator)
 
 Generates iCloud emails via HideMyEmail
+
+通过 HideMyEmail 生成 iCloud 邮箱

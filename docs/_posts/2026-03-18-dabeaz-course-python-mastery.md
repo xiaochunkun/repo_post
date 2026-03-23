@@ -7,3 +7,5 @@ image: assets/dabeaz_course_python_mastery_20260316_070632_769_20260316_070714_c
 # [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)
 
 Exercise-driven advanced Python programming course
+
+练习驱动的高级Python编程课程

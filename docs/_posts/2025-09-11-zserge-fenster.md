@@ -7,3 +7,5 @@ image: assets/20250911T015815402--zserge--fenster--20250911T020653574--cropped.p
 # [zserge/fenster](https://github.com/zserge/fenster)
 
 single-header C library for simple cross-platform 2D graphics and input
+
+单头文件 C 库，实现简单的跨平台 2D 图形和输入

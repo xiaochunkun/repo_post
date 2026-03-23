@@ -7,3 +7,5 @@ image: assets/20250903T031738173--koalaman--shellcheck--20250903T035505195--crop
 # [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
 
 checks shell scripts for errors and suggestions
+
+检查 Shell 脚本错误并给出建议

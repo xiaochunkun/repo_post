@@ -7,3 +7,5 @@ image: assets/phiresky_sqlite-zstd_cropped.png
 # [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd)
 
 sqlite extension for dictionary-based row-level compression using zstd
+
+使用zstd进行基于字典的行级压缩的sqlite扩展

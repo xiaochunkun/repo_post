@@ -7,3 +7,5 @@ image: assets/JimLiu_baoyu_skills_20260208_214454_736_20260208_214543_724912.png
 # [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 
 Claude Code skills for content generation and processing
+
+用于内容生成和处理的 Claude Code 技能

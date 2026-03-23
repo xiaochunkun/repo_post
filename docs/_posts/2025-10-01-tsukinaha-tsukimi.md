@@ -7,3 +7,5 @@ image: assets/20251001T104134049--tsukinaha--tsukimi--20251001T105830235--croppe
 # [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi)
 
 third-party Jellyfin client for Linux, supports music and video playback
+
+Linux的第三方Jellyfin客户端，支持音乐和视频播放

@@ -7,3 +7,5 @@ image: assets/ali_master_llmpeg_20251213_095611_780_20251213_095637_4ffeaa.png
 # [ali-master/llmpeg](https://github.com/ali-master/llmpeg/)
 
 Transforms natural language into FFmpeg commands
+
+将自然语言转换为 FFmpeg 命令

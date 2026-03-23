@@ -7,3 +7,5 @@ image: assets/Bali10050_FirefoxCSS_20251218_000239_858_20251218_000304_87b96c.pn
 # [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS/)
 
 Customizes the browser interface with CSS
+
+使用 CSS 自定义浏览器界面

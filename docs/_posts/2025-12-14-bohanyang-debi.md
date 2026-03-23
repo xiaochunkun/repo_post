@@ -7,3 +7,5 @@ image: assets/bohanyang_debi_20251213_051626_795_20251213_051651_11128c.png
 # [bohanyang/debi](https://github.com/bohanyang/debi/)
 
 Reinstalls VPS to Debian via network boot
+
+通过网络启动重新安装 VPS 到 Debian

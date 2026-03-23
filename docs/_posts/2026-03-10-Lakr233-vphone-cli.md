@@ -7,3 +7,5 @@ image: assets/Lakr233_vphone_cli_20260308_211245_473_20260308_211444_1bf255.png
 # [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
 Boots iOS via Apple Virtualization framework
+
+通过Apple虚拟化框架启动iOS

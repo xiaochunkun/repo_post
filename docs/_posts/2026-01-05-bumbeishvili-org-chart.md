@@ -7,3 +7,5 @@ image: assets/bumbeishvili_org_chart_20260104_023839_182_20260104_023859_10780b.
 # [bumbeishvili/org-chart](https://github.com/bumbeishvili/org-chart/)
 
 Organization charts with D3.js
+
+使用 D3.js 的组织结构图

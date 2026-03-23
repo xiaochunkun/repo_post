@@ -7,3 +7,5 @@ image: assets/lharries_whatsapp-mcp_cropped.png
 # [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
 connect AI to WhatsApp for message search and sending
+
+将AI连接到WhatsApp以进行消息搜索和发送

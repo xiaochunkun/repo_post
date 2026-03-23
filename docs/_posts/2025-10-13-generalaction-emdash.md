@@ -7,3 +7,5 @@ image: assets/20251013T001310483--generalaction--emdash--20251013T001936665--cro
 # [generalaction/emdash](https://github.com/generalaction/emdash)
 
 Run multiple coding agents in parallel with a unified UI
+
+并行运行多个编码代理，提供统一用户界面

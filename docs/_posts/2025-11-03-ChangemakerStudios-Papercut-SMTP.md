@@ -7,3 +7,5 @@ image: assets/ChangemakerStudios_Papercut_SMTP_20251031_154419_863_20251102_2146
 # [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP/)
 
 Desktop SMTP server for development
+
+用于开发的桌面 SMTP 服务器

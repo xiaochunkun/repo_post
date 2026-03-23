@@ -7,3 +7,5 @@ image: assets/CodeGuide_dev_codeguide_starter_fullstack_20251122_195306_252_2025
 # [CodeGuide-dev/codeguide-starter-fullstack](https://github.com/CodeGuide-dev/codeguide-starter-fullstack/)
 
 Next.js 15 starter with Drizzle and Better Auth
+
+带 Drizzle 和 Better Auth 的 Next.js 15 入门模板

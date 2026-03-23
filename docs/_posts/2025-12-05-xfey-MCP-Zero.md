@@ -7,3 +7,5 @@ image: assets/xfey_MCP_Zero_20251202_213040_622_20251202_213203_b7d6f6.png
 # [xfey/MCP-Zero](https://github.com/xfey/MCP-Zero/)
 
 Active tool discovery for autonomous LLM agents
+
+用于自主 LLM 代理的主动工具发现

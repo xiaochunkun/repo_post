@@ -7,3 +7,5 @@ image: assets/20251012T023619380--astudentinearth--darkwrite--20251012T024206421
 # [astudentinearth/darkwrite](https://github.com/astudentinearth/darkwrite)
 
 note-taking app with rich editor, to-do lists, themes, offline storage, and HTML export
+
+笔记应用，具有富文本编辑器、待办事项列表、主题、离线存储和 HTML 导出

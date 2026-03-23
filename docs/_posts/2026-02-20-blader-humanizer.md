@@ -7,3 +7,5 @@ image: assets/blader_humanizer_20260206_155413_327_20260206_155443_7a3b60.png
 # [blader/humanizer](https://github.com/blader/humanizer)
 
 Removes AI patterns from text
+
+从文本中移除 AI 模式

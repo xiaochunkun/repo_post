@@ -7,3 +7,5 @@ image: assets/20250903T235112847--google--magika--20250903T235424916--cropped.pn
 # [google/magika](https://github.com/google/magika)
 
 AI-powered file type detection tool by Google
+
+Google 开发的 AI 文件类型检测工具

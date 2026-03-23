@@ -7,3 +7,5 @@ image: assets/johnbean393_Sidekick_cropped.png
 # [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick)
 
 mac app for chatting with local AI that searches your files and web
+
+与本地 AI 聊天并搜索文件和网络的 Mac 应用

@@ -7,3 +7,5 @@ image: assets/cartesiancs_nugget_app_20251221_030335_237_20251221_030354_dbbe94.
 # [cartesiancs/nugget-app](https://github.com/cartesiancs/nugget-app/)
 
 Layered video editor for motion effects
+
+支持运动特效的分层视频编辑器

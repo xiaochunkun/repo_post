@@ -7,3 +7,5 @@ image: assets/visual_layer_fastdup_20260129_192947_968_20260129_193034_0b2eba.pn
 # [visual-layer/fastdup](https://github.com/visual-layer/fastdup)
 
 Finds duplicates and label errors in image datasets
+
+在图像数据集中查找重复项和标签错误

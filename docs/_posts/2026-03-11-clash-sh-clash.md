@@ -7,3 +7,5 @@ image: assets/clash_sh_clash_20260309_145406_209_20260309_145605_621d92.png
 # [clash-sh/clash](https://github.com/clash-sh/clash)
 
 Detects merge conflicts across git worktrees for AI agents
+
+检测AI代理的git工作树合并冲突

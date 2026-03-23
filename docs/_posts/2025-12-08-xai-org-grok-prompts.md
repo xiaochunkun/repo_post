@@ -7,3 +7,5 @@ image: assets/xai_org_grok_prompts_20251205_042103_365_20251205_042125_b66c17.pn
 # [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts/)
 
 System prompts for Grok chat assistant
+
+Grok聊天助手的系统提示

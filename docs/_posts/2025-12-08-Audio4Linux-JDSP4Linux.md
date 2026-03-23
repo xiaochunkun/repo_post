@@ -7,3 +7,5 @@ image: assets/Audio4Linux_JDSP4Linux_20251205_032340_269_20251205_032438_9f4e43.
 # [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux/)
 
 Sound effects processor for PipeWire and PulseAudio
+
+用于PipeWire和PulseAudio的音效处理器

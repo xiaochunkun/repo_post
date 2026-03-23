@@ -7,3 +7,5 @@ image: assets/microsoft_RD_Agent_20260308_184649_816_20260308_184818_e57f48.png
 # [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
 
 Automates research and development processes with AI agents
+
+利用 AI 代理自动化研发流程

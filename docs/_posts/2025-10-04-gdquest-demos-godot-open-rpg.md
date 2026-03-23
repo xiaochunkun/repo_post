@@ -7,3 +7,5 @@ image: assets/20251003T232339549--gdquest-demos--godot-open-rpg--20251003T232607
 # [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg)
 
 turn-based RPG demo for Godot 4, codebase for learning and reference
+
+Godot 4 的回合制 RPG 演示，代码库用于学习和参考

@@ -7,3 +7,5 @@ image: assets/20251001T134517214--turbot--tailpipe--20251001T134646973--cropped.
 # [turbot/tailpipe](https://github.com/turbot/tailpipe)
 
 query cloud and app logs with SQL from your terminal
+
+从终端使用SQL查询云和应用日志

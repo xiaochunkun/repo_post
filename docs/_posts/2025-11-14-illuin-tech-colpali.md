@@ -7,3 +7,5 @@ image: assets/illuin_tech_colpali_20251114_030217_927_20251114_155831_94764c--20
 # [illuin-tech/colpali](https://github.com/illuin-tech/colpali/)
 
 Document retrieval with vision language models
+
+使用视觉语言模型的文档检索

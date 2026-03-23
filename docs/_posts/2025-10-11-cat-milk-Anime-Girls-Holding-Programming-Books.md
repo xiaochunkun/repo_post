@@ -7,3 +7,5 @@ image: assets/20251010T212218278--cat-milk--Anime-Girls-Holding-Programming-Book
 # [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 
 collection of anime girls holding programming books
+
+动漫女孩手持编程书籍的收藏

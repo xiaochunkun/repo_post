@@ -7,3 +7,5 @@ image: assets/FireRedTeam_FireRedChat_20251213_102734_174_20251213_102758_d3638e
 # [FireRedTeam/FireRedChat](https://github.com/FireRedTeam/FireRedChat/)
 
 Self-hosted full-duplex voice interaction solution
+
+自托管全双工语音交互解决方案

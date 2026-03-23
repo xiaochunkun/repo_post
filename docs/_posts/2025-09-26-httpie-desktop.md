@@ -7,3 +7,5 @@ image: assets/20250926T004521269--httpie--desktop--20250926T005209336--cropped.p
 # [httpie/desktop](https://github.com/httpie/desktop)
 
 cross-platform API testing client for REST and GraphQL
+
+跨平台 REST 和 GraphQL API 测试客户端

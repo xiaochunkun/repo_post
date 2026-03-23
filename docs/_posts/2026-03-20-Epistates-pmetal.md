@@ -7,3 +7,5 @@ image: assets/Epistates_pmetal_20260319_045655_924_20260319_045804_38ce57.png
 # [Epistates/pmetal](https://github.com/Epistates/pmetal)
 
 ML SDK for Apple Silicon in Rust
+
+用于 Apple Silicon 的 Rust ML SDK

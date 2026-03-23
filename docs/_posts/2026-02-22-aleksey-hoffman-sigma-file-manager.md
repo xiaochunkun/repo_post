@@ -7,3 +7,5 @@ image: assets/aleksey_hoffman_sigma_file_manager_20260208_055915_380_20260208_05
 # [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
 File manager for Windows and Linux with wireless sharing
+
+支持无线共享的Windows和Linux文件管理器

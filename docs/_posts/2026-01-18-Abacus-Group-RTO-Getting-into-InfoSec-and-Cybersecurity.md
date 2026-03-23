@@ -7,3 +7,5 @@ image: assets/Abacus_Group_RTO_Getting_into_InfoSec_and_Cybersecurity_20260118_0
 # [Abacus-Group-RTO/Getting-into-InfoSec-and-Cybersecurity](https://github.com/Abacus-Group-RTO/Getting-into-InfoSec-and-Cybersecurity)
 
 Curated list of cybersecurity resources for beginners
+
+初学者网络安全资源精选列表

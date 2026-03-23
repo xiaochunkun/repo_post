@@ -7,3 +7,5 @@ image: assets/basemulti_basemulti_20260104_101544_556_20260104_101559_0d5902.png
 # [basemulti/basemulti](https://github.com/basemulti/basemulti/)
 
 Turns databases into spreadsheets and APIs
+
+将数据库转换为电子表格和 API

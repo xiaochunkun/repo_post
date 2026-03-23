@@ -7,3 +7,5 @@ image: assets/touchHLE_touchHLE_20260302_054116_949_20260302_054236_387a81.png
 # [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE)
 
 Emulator for iPhone OS apps
+
+iPhone OS应用模拟器

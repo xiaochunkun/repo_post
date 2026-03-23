@@ -7,3 +7,5 @@ image: assets/UlionTse_translators_20251114_175332_651_20251115_034938_0e7068--2
 # [UlionTse/translators](https://github.com/UlionTse/translators/)
 
 Python library that aggregates multiple translation services
+
+聚合多个翻译服务的Python库

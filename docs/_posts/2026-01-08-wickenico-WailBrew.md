@@ -7,3 +7,5 @@ image: assets/wickenico_WailBrew_20260108_024239_533_20260108_024253_93a3f3.png
 # [wickenico/WailBrew](https://github.com/wickenico/WailBrew)
 
 GUI for Homebrew package management on macOS
+
+macOS上Homebrew包管理的GUI

@@ -7,3 +7,5 @@ image: assets/20250923T020117234--Textualize--toolong--20250923T020647521--cropp
 # [Textualize/toolong](https://github.com/Textualize/toolong)
 
 Terminal tool for viewing, tailing, merging, and searching log files
+
+用于查看、跟踪、合并和搜索日志文件的终端工具

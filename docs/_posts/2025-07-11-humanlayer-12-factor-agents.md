@@ -7,3 +7,5 @@ image: assets/humanlayer_12-factor-agents_cropped.png
 # [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 
 12-factor principles for building reliable AI agents
+
+构建可靠AI代理的12要素原则

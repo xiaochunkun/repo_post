@@ -7,3 +7,5 @@ image: assets/wenlng_go_captcha_20251125_035356_102_20251127_164929_b1d991--2025
 # [wenlng/go-captcha](https://github.com/wenlng/go-captcha/)
 
 Behavioral CAPTCHA library for Go
+
+Go语言的行为验证码库

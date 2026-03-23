@@ -7,3 +7,5 @@ image: assets/dataplane_app_dataplane_20251029_200030_637_20251029_212740_56d32a
 # [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane/)
 
 A drag-and-drop data pipeline builder compiled to machine code
+
+编译为机器码的拖放式数据管道构建器

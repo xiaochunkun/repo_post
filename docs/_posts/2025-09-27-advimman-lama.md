@@ -7,3 +7,5 @@ image: assets/20250926T174125301--advimman--lama--20250926T175526031--cropped.pn
 # [advimman/lama](https://github.com/advimman/lama)
 
 Image inpainting with Fourier convolutions for large missing areas
+
+使用傅里叶卷积进行大缺失区域图像修复

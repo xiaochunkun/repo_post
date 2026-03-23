@@ -7,3 +7,5 @@ image: assets/20250903T010617582--remotion-dev--remotion--20250903T011530362--cr
 # [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 
 make videos with React code
+
+用 React 代码制作视频

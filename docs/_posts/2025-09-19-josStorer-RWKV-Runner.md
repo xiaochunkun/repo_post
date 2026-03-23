@@ -7,3 +7,5 @@ image: assets/20250917T005643620--josStorer--RWKV-Runner--20250919T024308551--cr
 # [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner)
 
 run RWKV models locally with OpenAI API compatibility
+
+本地运行RWKV模型，兼容OpenAI API

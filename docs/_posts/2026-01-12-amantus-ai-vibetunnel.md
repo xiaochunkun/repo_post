@@ -7,3 +7,5 @@ image: assets/amantus_ai_vibetunnel_20260112_102732_587_20260112_102748_740e11.p
 # [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel)
 
 Proxies terminals to the browser
+
+将终端代理到浏览器

@@ -7,3 +7,5 @@ image: assets/pwr-Solaar_Solaar_cropped.png
 # [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 
 Manage your Logitech devices
+
+管理你的 Logitech 设备

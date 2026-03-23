@@ -7,3 +7,5 @@ image: assets/dwisiswant0_apkleaks_20260206_193503_957_20260206_193520_589301.pn
 # [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)
 
 Extracts sensitive endpoints and secrets from Android packages
+
+从Android包中提取敏感端点和密钥

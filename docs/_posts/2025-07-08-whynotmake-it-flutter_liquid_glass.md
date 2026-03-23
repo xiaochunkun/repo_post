@@ -7,3 +7,5 @@ image: assets/whynotmake-it_flutter_liquid_glass_cropped.png
 # [whynotmake-it/flutter_liquid_glass](https://github.com/whynotmake-it/flutter_liquid_glass)
 
 Flutter widget for iOS-style liquid glass blur effects
+
+Flutter 组件，实现 iOS 风格的液体玻璃模糊效果

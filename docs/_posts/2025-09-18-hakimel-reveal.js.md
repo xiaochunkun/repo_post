@@ -7,3 +7,5 @@ image: assets/20250831T020201499--hakimel--reveal.js--20250918T050207259--croppe
 # [hakimel/reveal.js](https://github.com/hakimel/reveal.js)
 
 HTML presentation slides with reveal.js
+
+使用 reveal.js 的 HTML 演示幻灯片

@@ -7,3 +7,5 @@ image: assets/LangbaseInc_langui_20251031_085858_779_20251102_154814_7c79de--202
 # [LangbaseInc/langui](https://github.com/LangbaseInc/langui/)
 
 UI components for building AI chatbots
+
+构建AI聊天机器人的UI组件

@@ -7,3 +7,5 @@ image: assets/ashishps1_learn_ai_engineering_20260205_173319_831_20260205_173336
 # [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering)
 
 Curated resources for AI engineering
+
+AI 工程精选资源

@@ -7,3 +7,5 @@ image: assets/InternRobotics_InternUtopia_20260201_033559_583_20260201_033653_ba
 # [InternRobotics/InternUtopia](https://github.com/InternRobotics/InternUtopia)
 
 Simulation platform for research on embodied AI
+
+用于具身AI研究的仿真平台

@@ -7,3 +7,5 @@ image: assets/AIGeniusInstitute_opencode_20260115_154346_038_20260115_154401_8e9
 # [AIGeniusInstitute/opencode](https://github.com/AIGeniusInstitute/opencode)
 
 AI agent for code generation
+
+代码生成的AI代理

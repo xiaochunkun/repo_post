@@ -7,3 +7,5 @@ image: assets/TetherIA_aero_hand_open_20260225_212720_677_20260225_212914_2e96fc
 # [TetherIA/aero-hand-open](https://github.com/TetherIA/aero-hand-open)
 
 Tendon-driven robotic hand with 7 DoFs
+
+具有 7 自由度的肌腱驱动机械手

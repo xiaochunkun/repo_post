@@ -7,3 +7,5 @@ image: assets/FirefoxCSS_Store_FirefoxCSS_Store_github_io_20251209_044218_930_20
 # [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io/)
 
 Collection of Firefox userchrome themes
+
+Firefox 用户界面主题合集

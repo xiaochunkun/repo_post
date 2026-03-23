@@ -7,3 +7,5 @@ image: assets/dapzer_movie_tracker_20260116_211940_104_20260116_211955_fbf93d.pn
 # [dapzer/movie-tracker](https://github.com/dapzer/movie-tracker)
 
 Tracks movies and series with personal lists
+
+追踪电影和剧集，支持个人列表

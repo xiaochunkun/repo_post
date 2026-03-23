@@ -7,3 +7,5 @@ image: assets/deepjyoti30_startpage_20260120_112958_980_20260120_113031_1a4ea8.p
 # [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage)
 
 Browser startpage with categorized links
+
+带分类链接的浏览器起始页

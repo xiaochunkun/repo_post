@@ -7,3 +7,5 @@ image: assets/davidz_yt_eink_desk_display_20260120_021414_370_20260120_021432_98
 # [davidz-yt/eink-desk-display](https://github.com/davidz-yt/eink-desk-display)
 
 E-ink display for desk telemetry via Home Assistant
+
+通过 Home Assistant 显示桌面遥测数据的 E-ink 显示屏

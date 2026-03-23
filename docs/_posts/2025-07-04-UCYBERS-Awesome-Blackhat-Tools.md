@@ -7,3 +7,5 @@ image: assets/UCYBERS_Awesome-Blackhat-Tools_cropped.png
 # [UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools)
 
 List of Black Hat tools organized by categories and regions
+
+按类别和地区组织的Black Hat工具列表

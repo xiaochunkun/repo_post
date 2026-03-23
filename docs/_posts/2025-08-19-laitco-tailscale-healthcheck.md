@@ -7,3 +7,5 @@ image: assets/20250818T114829784_laitco_tailscale-healthcheck--20250818T11535284
 # [laitco/tailscale-healthcheck](https://github.com/laitco/tailscale-healthcheck)
 
 Monitor Tailscale device health with a simple Flask app
+
+使用简单Flask应用监控Tailscale设备健康状态

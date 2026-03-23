@@ -7,3 +7,5 @@ image: assets/opgginc_opencode_bar_20260228_080338_393_20260228_080523_3923ed.pn
 # [opgginc/opencode-bar](https://github.com/opgginc/opencode-bar)
 
 Tracks AI token usage from the macOS menu bar
+
+从 macOS 菜单栏追踪 AI 令牌使用

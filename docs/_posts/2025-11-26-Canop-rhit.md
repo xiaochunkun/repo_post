@@ -7,3 +7,5 @@ image: assets/Canop_rhit_20251123_204422_550_20251125_215833_ae7455--20251125T22
 # [Canop/rhit](https://github.com/Canop/rhit/)
 
 Nginx log analyzer and explorer
+
+Nginx 日志分析器和浏览器

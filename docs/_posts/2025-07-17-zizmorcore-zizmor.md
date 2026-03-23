@@ -7,3 +7,5 @@ image: assets/zizmorcore_zizmor_cropped.png
 # [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
 
 static analysis for GitHub Actions security
+
+GitHub Actions 安全的静态分析

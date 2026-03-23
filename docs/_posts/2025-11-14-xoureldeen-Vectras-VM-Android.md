@@ -7,3 +7,5 @@ image: assets/xoureldeen_Vectras_VM_Android_20251113_055015_965_20251114_013245_
 # [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android/)
 
 Virtual machine app for Android based on QEMU
+
+基于QEMU的Android虚拟机应用

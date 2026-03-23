@@ -7,3 +7,5 @@ image: assets/20250901T033757999--flutter--flutter--20250915T232305564--cropped.
 # [flutter/flutter](https://github.com/flutter/flutter)
 
 Flutter SDK for building apps on mobile, web, and desktop
+
+用于在移动、Web 和桌面构建应用的 Flutter SDK

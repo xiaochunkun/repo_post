@@ -7,3 +7,5 @@ image: assets/DayuanJiang_next_ai_draw_io_20260127_190501_517_20260127_190551_9e
 # [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
 Integrates AI with draw.io diagrams
+
+将AI集成到draw.io图表中

@@ -7,3 +7,5 @@ image: assets/altalt_org_Lightning_SimulWhisper_20251229_135351_428_20251229_135
 # [altalt-org/Lightning-SimulWhisper](https://github.com/altalt-org/Lightning-SimulWhisper/)
 
 Transcriptions on Apple Silicon without PyTorch
+
+无需 PyTorch 在 Apple Silicon 上进行转录

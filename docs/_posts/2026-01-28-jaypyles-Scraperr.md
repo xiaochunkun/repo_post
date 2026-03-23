@@ -7,3 +7,5 @@ image: assets/jaypyles_Scraperr_20260121_231928_307_20260121_231947_195cc5.png
 # [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr)
 
 Web scraper with XPath extraction and domain spidering
+
+带XPath提取和域名爬取的网络爬虫

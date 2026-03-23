@@ -7,3 +7,5 @@ image: assets/ameya_angadi_Desk32_20260309_155916_759_20260309_160125_42a403.png
 # [ameya-angadi/Desk32](https://github.com/ameya-angadi/Desk32)
 
 Productivity hub with timer and task manager on ESP32 hardware
+
+基于ESP32硬件的带计时器和任务管理器的生产力中心

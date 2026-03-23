@@ -7,3 +7,5 @@ image: assets/mnh_jansson_open_battery_information_20251202_215007_186_20251202_
 # [mnh-jansson/open-battery-information](https://github.com/mnh-jansson/open-battery-information/)
 
 Tools to unlock battery management systems
+
+解锁电池管理系统的工具

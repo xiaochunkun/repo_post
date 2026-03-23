@@ -7,3 +7,5 @@ image: assets/karanb192_reddit_mcp_buddy_20251205_015826_296_20251205_015901_60d
 # [karanb192/reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy/)
 
 MCP server for AI Reddit browsing
+
+用于AI浏览Reddit的MCP服务器

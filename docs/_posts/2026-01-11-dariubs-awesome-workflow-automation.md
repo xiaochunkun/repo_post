@@ -7,3 +7,5 @@ image: assets/dariubs_awesome_workflow_automation_20260111_071705_966_20260111_0
 # [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation)
 
 Curated list of workflow automation software and resources
+
+工作流自动化的精选软件和资源列表

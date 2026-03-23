@@ -7,3 +7,5 @@ image: assets/dbish_DispatchMail_20260109_061527_379_20260109_061543_053e79.png
 # [dbish/DispatchMail](https://github.com/dbish/DispatchMail)
 
 AI agent manages email inbox through prompts
+
+AI代理通过提示管理电子邮件收件箱

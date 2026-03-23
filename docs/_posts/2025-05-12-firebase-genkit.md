@@ -7,3 +7,5 @@ image: assets/firebase_genkit_cropped.png
 # [firebase/genkit](https://github.com/firebase/genkit)
 
 Open source framework for building AI features with code-centric patterns
+
+开源框架，用于通过代码中心模式构建AI功能

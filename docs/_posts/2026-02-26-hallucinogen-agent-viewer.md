@@ -7,3 +7,5 @@ image: assets/hallucinogen_agent_viewer_20260225_131005_269_20260225_131148_238d
 # [hallucinogen/agent-viewer](https://github.com/hallucinogen/agent-viewer)
 
 Kanban board for Claude Code agents in tmux sessions
+
+tmux会话中Claude Code智能体的看板

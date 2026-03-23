@@ -7,3 +7,5 @@ image: assets/20251003T231000167--apache--cloudberry--20251003T231318120--croppe
 # [apache/cloudberry](https://github.com/apache/cloudberry)
 
 open-source MPP database for analytics, data warehousing, and AI workloads
+
+用于分析、数据仓库和 AI 工作负载的开源 MPP 数据库

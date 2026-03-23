@@ -7,3 +7,5 @@ image: assets/Nurysso_vanish_20260114_132313_400_20260114_132329_fc25bf.png
 # [Nurysso/vanish](https://github.com/Nurysso/vanish)
 
 Deletes files with cache and recovery
+
+带缓存和恢复功能的文件删除工具

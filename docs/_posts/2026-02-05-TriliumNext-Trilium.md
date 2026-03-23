@@ -7,3 +7,5 @@ image: assets/TriliumNext_Trilium_20260203_004407_535_20260203_004439_3fea60.png
 # [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
 
 Hierarchical note taking application for knowledge bases
+
+用于知识库的分层笔记应用

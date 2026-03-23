@@ -7,3 +7,5 @@ image: assets/fabston_TradingView-Webhook-Bot--20250820T142255479--cropped.png
 # [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot)
 
 TradingView alerts to Telegram, Discord, Slack, Twitter, or email
+
+将 TradingView 警报推送到 Telegram、Discord、Slack、Twitter 或邮箱

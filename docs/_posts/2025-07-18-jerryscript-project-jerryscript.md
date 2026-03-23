@@ -7,3 +7,5 @@ image: assets/jerryscript-project_jerryscript_cropped.png
 # [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)
 
 JavaScript engine for microcontrollers and IoT devices
+
+用于微控制器和 IoT 设备的 JavaScript 引擎

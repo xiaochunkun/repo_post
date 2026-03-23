@@ -7,3 +7,5 @@ image: assets/fastn_stack_kulfi_20251112_071124_916_20251113_040009_b18ea3--2025
 # [fastn-stack/kulfi](https://github.com/fastn-stack/kulfi/)
 
 Remote access to machines using peer-to-peer networking
+
+使用点对点网络远程访问机器

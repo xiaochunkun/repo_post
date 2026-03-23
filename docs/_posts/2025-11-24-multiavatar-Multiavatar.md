@@ -7,3 +7,5 @@ image: assets/multiavatar_Multiavatar_20251123_124922_078_20251124_003312_166080
 # [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar/)
 
 Generates 12 billion avatars from strings
+
+从字符串生成 120 亿个头像

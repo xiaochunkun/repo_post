@@ -7,3 +7,5 @@ image: assets/20250908T190811117--bitwarden--clients--20250908T191016890--croppe
 # [bitwarden/clients](https://github.com/bitwarden/clients)
 
 Bitwarden desktop, web, and browser extension apps for managing passwords
+
+Bitwarden 桌面、Web 和浏览器扩展密码管理应用

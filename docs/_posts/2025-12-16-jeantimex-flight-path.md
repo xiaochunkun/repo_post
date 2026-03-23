@@ -7,3 +7,5 @@ image: assets/jeantimex_flight_path_20251214_205925_471_20251214_205955_f939c5.p
 # [jeantimex/flight-path](https://github.com/jeantimex/flight-path/)
 
 3D flight path visualization with Three.js
+
+使用Three.js的3D飞行路径可视化

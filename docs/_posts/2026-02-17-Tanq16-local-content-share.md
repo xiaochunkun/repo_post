@@ -7,3 +7,5 @@ image: assets/Tanq16_local_content_share_20260121_212823_360_20260121_212851_271
 # [Tanq16/local-content-share](https://github.com/Tanq16/local-content-share)
 
 Self-hosted snippet and file sharing for local networks
+
+本地网络的自托管片段和文件共享

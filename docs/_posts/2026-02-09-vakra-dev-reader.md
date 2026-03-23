@@ -7,3 +7,5 @@ image: assets/vakra_dev_reader_20260208_231733_356_20260208_231807_9dcbd4.png
 # [vakra-dev/reader](https://github.com/vakra-dev/reader)
 
 Scrapes and crawls the web into markdown for agents
+
+将网页抓取并爬取为供代理使用的 markdown

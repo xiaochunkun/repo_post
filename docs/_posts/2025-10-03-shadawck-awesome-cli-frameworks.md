@@ -7,3 +7,5 @@ image: assets/20251001T205908112--shadawck--awesome-cli-frameworks--20251001T211
 # [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks)
 
 List of CLI frameworks for many languages
+
+多种语言的 CLI 框架列表

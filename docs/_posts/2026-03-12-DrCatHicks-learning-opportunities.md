@@ -7,3 +7,5 @@ image: assets/DrCatHicks_learning_opportunities_20260218_004400_105_20260218_004
 # [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities)
 
 Claude skill for skill development during agentic coding
+
+代理编码期间技能开发的Claude技能

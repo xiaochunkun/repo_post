@@ -7,3 +7,5 @@ image: assets/keshavbhatt_ColorSmith_20260309_130849_729_20260309_131058_b40978.
 # [keshavbhatt/ColorSmith](https://github.com/keshavbhatt/ColorSmith)
 
 Color picker, gradient maker, and palette manager for Linux
+
+Linux 的颜色选择器、渐变生成器和调色板管理器

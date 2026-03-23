@@ -7,3 +7,5 @@ image: assets/xiangechen_chili3d_20260203_010509_104_20260203_010526_25e146.png
 # [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
 
 CAD application in a browser via WebAssembly
+
+通过WebAssembly在浏览器中运行的CAD应用

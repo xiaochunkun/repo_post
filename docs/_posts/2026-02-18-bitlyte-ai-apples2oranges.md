@@ -7,3 +7,5 @@ image: assets/bitlyte_ai_apples2oranges_20260118_052416_289_20260118_052438_4111
 # [bitlyte-ai/apples2oranges](https://github.com/bitlyte-ai/apples2oranges)
 
 Compares language models with hardware telemetry
+
+使用硬件遥测比较语言模型

@@ -7,3 +7,5 @@ image: assets/20250822T022813774--handsontable--handsontable--20250822T023638095
 # [handsontable/handsontable](https://github.com/handsontable/handsontable)
 
 JavaScript data grid with spreadsheet features for web apps
+
+Web 应用中带电子表格功能的 JavaScript 数据表格

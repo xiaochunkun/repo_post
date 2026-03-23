@@ -7,3 +7,5 @@ image: assets/nyas1_Material_You_app_list_20251218_052429_787_20251218_052455_05
 # [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/)
 
 List of apps with Material Design 3 support
+
+支持 Material Design 3 的应用列表

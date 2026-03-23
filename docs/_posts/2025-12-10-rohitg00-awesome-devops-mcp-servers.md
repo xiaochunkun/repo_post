@@ -7,3 +7,5 @@ image: assets/rohitg00_awesome_devops_mcp_servers_20251207_235147_975_20251207_2
 # [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers/)
 
 List of Model Context Protocol servers for DevOps tools
+
+DevOps工具的Model Context Protocol服务器列表

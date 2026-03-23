@@ -7,3 +7,5 @@ image: assets/20250911T012831754--afshinea--stanford-cme-295-transformers-large-
 # [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models)
 
 cheatsheet and study guide for transformers and large language models
+
+Transformer 和大语言模型速查表与学习指南

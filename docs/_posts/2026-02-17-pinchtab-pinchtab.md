@@ -7,3 +7,5 @@ image: assets/pinchtab_pinchtab_20260216_165338_171_20260216_165426_a59c22.png
 # [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)
 
 Browser control for agents via HTTP
+
+通过HTTP控制浏览器的代理工具

@@ -7,3 +7,5 @@ image: assets/simple_login_app_20260122_012415_897_20260122_012438_39dc9b.png
 # [simple-login/app](https://github.com/simple-login/app)
 
 Generates email aliases to protect identity
+
+生成邮箱别名保护身份

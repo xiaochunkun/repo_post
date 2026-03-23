@@ -7,3 +7,5 @@ image: assets/ByteByteGoHq_system-design-101_cropped.png
 # [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 
 System design concepts and patterns explained visually
+
+可视化解释系统设计概念和模式

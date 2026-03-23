@@ -7,3 +7,5 @@ image: assets/GreatScottyMac_RooFlow_20251105_054140_446_20251105_123744_493708-
 # [GreatScottyMac/RooFlow](https://github.com/GreatScottyMac/RooFlow/)
 
 YAML-based system prompts for Roo Code to reduce token usage
+
+基于YAML的Roo Code系统提示以减少令牌使用

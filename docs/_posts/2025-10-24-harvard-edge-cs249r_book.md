@@ -7,3 +7,5 @@ image: assets/harvard_edge_cs249r_book_20251023_200348_519_20251023_201142_34d88
 # [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book/)
 
 An open-source textbook on building AI systems
+
+构建AI系统的开源教科书

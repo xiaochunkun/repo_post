@@ -7,3 +7,5 @@ image: assets/NyarchLinux_NyarchAssistant_20251123_193944_675_20251125_012346_66
 # [NyarchLinux/NyarchAssistant](https://github.com/NyarchLinux/NyarchAssistant/)
 
 Waifu AI assistant with Live2D support
+
+支持 Live2D 的 Waifu AI 助手

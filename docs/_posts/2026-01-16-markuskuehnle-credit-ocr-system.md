@@ -7,3 +7,5 @@ image: assets/markuskuehnle_credit_ocr_system_20260116_095923_667_20260116_09594
 # [markuskuehnle/credit-ocr-system](https://github.com/markuskuehnle/credit-ocr-system)
 
 OCR pipeline with local LLM field extraction
+
+带有本地 LLM 字段提取的 OCR 管道

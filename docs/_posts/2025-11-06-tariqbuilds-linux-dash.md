@@ -7,3 +7,5 @@ image: assets/tariqbuilds_linux_dash_20251106_021023_202_20251106_133340_3b71ca-
 # [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash/)
 
 Low-overhead web dashboard for Linux systems
+
+Linux系统的低开销Web仪表板

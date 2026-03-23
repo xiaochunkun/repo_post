@@ -7,3 +7,5 @@ image: assets/20250822T030112053--instantX-research--InstantID--20250822T0306317
 # [instantX-research/InstantID](https://github.com/instantX-research/InstantID)
 
 create portraits in any style from a single photo with InstantID
+
+单张照片即可生成任意风格的肖像画

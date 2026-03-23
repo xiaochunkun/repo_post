@@ -7,3 +7,5 @@ image: assets/facebookresearch_fast3r_20251225_011224_241_20251225_011248_0da61b
 # [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r/)
 
 Reconstructs 3D scenes from 1000+ images in one forward pass
+
+单次前向传播从 1000+ 图像重建 3D 场景

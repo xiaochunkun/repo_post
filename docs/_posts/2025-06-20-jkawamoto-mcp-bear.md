@@ -7,3 +7,5 @@ image: assets/jkawamoto_mcp-bear_cropped.png
 # [jkawamoto/mcp-bear](https://github.com/jkawamoto/mcp-bear)
 
 MCP server for running commands with Bear note-taking app
+
+用于在Bear笔记应用中运行命令的MCP服务器

@@ -7,3 +7,5 @@ image: assets/20250903T023738024--podman-desktop--podman-desktop--20250903T02465
 # [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
 
 visual tool for managing containers and Kubernetes
+
+容器和 Kubernetes 可视化管理工具

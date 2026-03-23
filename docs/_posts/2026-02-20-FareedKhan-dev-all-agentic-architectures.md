@@ -7,3 +7,5 @@ image: assets/FareedKhan_dev_all_agentic_architectures_20260203_201502_210_20260
 # [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures)
 
 Implementations of agentic architectures with LangChain and LangGraph
+
+使用 LangChain 和 LangGraph 实现代理式架构

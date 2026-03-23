@@ -7,3 +7,5 @@ image: assets/labex_labs_practice_c_programming_projects_20251219_132057_047_202
 # [labex-labs/practice-c-programming-projects](https://github.com/labex-labs/practice-c-programming-projects/)
 
 C programming exercises in an interactive playground
+
+交互式游乐场中的 C 编程练习

@@ -7,3 +7,5 @@ image: assets/DeepSpace2_PlugNPiN_20251114_062831_776_20251114_163121_371f27--20
 # [DeepSpace2/PlugNPiN](https://github.com/DeepSpace2/PlugNPiN/)
 
 Connects Docker containers to Pi-Hole and Nginx Proxy Manager
+
+将Docker容器连接到Pi-Hole和Nginx Proxy Manager

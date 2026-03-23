@@ -7,3 +7,5 @@ image: assets/samuelmaddock_electron_browser_shell_20260304_211010_726_20260304_
 # [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
 
 Browser shell for Chrome extensions on Electron
+
+Electron上Chrome扩展的浏览器外壳

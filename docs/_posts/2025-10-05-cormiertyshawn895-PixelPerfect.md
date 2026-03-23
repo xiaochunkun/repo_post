@@ -7,3 +7,5 @@ image: assets/20251005T001933757--cormiertyshawn895--PixelPerfect--20251005T0026
 # [cormiertyshawn895/PixelPerfect](https://github.com/cormiertyshawn895/PixelPerfect)
 
 lets you make iPhone and iPad apps on Mac look sharper with bigger text
+
+让Mac上的iPhone和iPad应用看起来更清晰，文本更大

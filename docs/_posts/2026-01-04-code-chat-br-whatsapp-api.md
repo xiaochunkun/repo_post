@@ -7,3 +7,5 @@ image: assets/code_chat_br_whatsapp_api_20260103_151356_957_20260103_151413_c10d
 # [code-chat-br/whatsapp-api](https://github.com/code-chat-br/whatsapp-api/)
 
 REST API for WhatsApp automation
+
+用于WhatsApp自动化的REST API

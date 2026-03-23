@@ -7,3 +7,5 @@ image: assets/xataio_pgroll_20260203_200921_610_20260203_200950_ceb8c5.png
 # [xataio/pgroll](https://github.com/xataio/pgroll)
 
 Zero-downtime schema migrations for Postgres
+
+Postgres零停机模式迁移工具

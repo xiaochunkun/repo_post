@@ -7,3 +7,5 @@ image: assets/20250918T040715377--papers-we-love--papers-we-love--20250918T04083
 # [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 collection of classic computer science papers and resources
+
+经典计算机科学论文和资源合集

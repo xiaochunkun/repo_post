@@ -7,3 +7,5 @@ image: assets/MaxiHuHe04_iTunes_Backup_Explorer_20260213_153615_506_20260213_153
 # [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer)
 
 Extracts and replaces files in encrypted iOS backups
+
+提取和替换加密 iOS 备份中的文件

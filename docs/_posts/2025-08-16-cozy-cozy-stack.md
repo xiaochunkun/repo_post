@@ -7,3 +7,5 @@ image: assets/cozy_cozy-stack--20250815T025707573--cropped.png
 # [cozy/cozy-stack](https://github.com/cozy/cozy-stack)
 
 personal cloud server for syncing and running web apps
+
+用于同步和运行 Web 应用的个人云服务器

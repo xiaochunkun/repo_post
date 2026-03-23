@@ -7,3 +7,5 @@ image: assets/norish_recipes_norish_20260125_033327_232_20260125_033416_58734a.p
 # [norish-recipes/norish](https://github.com/norish-recipes/norish)
 
 Self-hosted recipe app with realtime grocery synchronization
+
+具有实时杂货同步功能的自托管食谱应用

@@ -7,3 +7,5 @@ image: assets/rlxone_Equinox_20251127_213914_713_20251130_083804_53646f--2025113
 # [rlxone/Equinox](https://github.com/rlxone/Equinox/)
 
 Creates dynamic macOS wallpapers based on time or sun position
+
+基于时间或太阳位置创建动态macOS壁纸

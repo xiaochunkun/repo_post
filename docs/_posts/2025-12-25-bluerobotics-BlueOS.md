@@ -7,3 +7,5 @@ image: assets/bluerobotics_BlueOS_20251223_153345_551_20251223_153410_6d6af9.png
 # [bluerobotics/BlueOS](https://github.com/bluerobotics/BlueOS/)
 
 Operating system for marine robotics
+
+海洋机器人操作系统

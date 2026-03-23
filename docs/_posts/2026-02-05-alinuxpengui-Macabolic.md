@@ -7,3 +7,5 @@ image: assets/alinuxpengui_Macabolic_20260203_023617_030_20260203_023637_be7e0c.
 # [alinuxpengui/Macabolic](https://github.com/alinuxpengui/Macabolic)
 
 Frontend for yt-dlp on macOS
+
+macOS上yt-dlp的前端

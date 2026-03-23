@@ -7,3 +7,5 @@ image: assets/20250930T032656156--JHubi1--ollama-app--20250930T033322424--croppe
 # [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app)
 
 Modern client for running Ollama AI models locally with a simple interface
+
+用于在本地运行 Ollama AI 模型的现代客户端，界面简洁

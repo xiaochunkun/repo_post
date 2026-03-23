@@ -7,3 +7,5 @@ image: assets/Pimzino_anthropic_claude_max_proxy_20251213_104914_690_20251213_10
 # [Pimzino/anthropic-claude-max-proxy](https://github.com/Pimzino/anthropic-claude-max-proxy/)
 
 OpenAI-compatible proxy for Claude and ChatGPT
+
+用于Claude和ChatGPT的OpenAI兼容代理

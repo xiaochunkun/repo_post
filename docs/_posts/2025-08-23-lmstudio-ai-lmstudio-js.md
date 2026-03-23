@@ -7,3 +7,5 @@ image: assets/20250822T023530574--lmstudio-ai--lmstudio-js--20250822T024051714--
 # [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js)
 
 run local LLMs in JavaScript or TypeScript
+
+在 JavaScript 或 TypeScript 中运行本地大模型

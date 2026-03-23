@@ -7,3 +7,5 @@ image: assets/songquanpeng_one-api_cropped.png
 # [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
 
 LLM API key manager and dispatcher for multiple providers under one endpoint
+
+LLM API密钥管理器和分发器，支持多个提供商通过单一端点

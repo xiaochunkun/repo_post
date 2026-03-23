@@ -7,3 +7,5 @@ image: assets/roboflow_supervision_cropped.png
 # [roboflow/supervision](https://github.com/roboflow/supervision)
 
 toolkit for computer vision tasks like detection, tracking, and dataset handling
+
+计算机视觉任务工具包，包括检测、跟踪和数据集处理

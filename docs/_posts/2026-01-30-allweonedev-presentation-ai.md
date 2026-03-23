@@ -7,3 +7,5 @@ image: assets/allweonedev_presentation_ai_20260129_033134_881_20260129_033217_ea
 # [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai)
 
 Generates presentations from text prompts using AI
+
+使用 AI 从文本提示生成演示文稿

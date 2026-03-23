@@ -7,3 +7,5 @@ image: assets/robscott_kube_capacity_20251123_200416_581_20251125_012821_0667a3-
 # [robscott/kube-capacity](https://github.com/robscott/kube-capacity/)
 
 CLI for Kubernetes resource requests, limits, and utilization
+
+Kubernetes 资源请求、限制和利用率的 CLI 工具

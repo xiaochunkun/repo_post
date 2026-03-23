@@ -7,3 +7,5 @@ image: assets/kamilstanuch_codebase_digest_20251123_203705_355_20251125_215257_0
 # [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest/)
 
 Consolidates codebases into single files for LLM analysis
+
+将代码库整合为单个文件以进行 LLM 分析

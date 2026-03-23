@@ -7,3 +7,5 @@ image: assets/flyimg_flyimg_20251231_230258_375_20251231_230315_db1051.png
 # [flyimg/flyimg](https://github.com/flyimg/flyimg/)
 
 Dockerized image processing service for resizing and compression
+
+用于调整大小和压缩的Docker化图像处理服务

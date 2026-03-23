@@ -7,3 +7,5 @@ image: assets/tirrenotechnologies_tirreno_cropped.png
 # [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno)
 
 open-source platform for app security and fraud analytics
+
+开源平台，用于应用安全和欺诈分析

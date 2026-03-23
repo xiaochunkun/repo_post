@@ -7,3 +7,5 @@ image: assets/emin_ozata_lazycut_20260321_054524_378_20260321_054851_2da5bd.png
 # [emin-ozata/lazycut](https://github.com/emin-ozata/lazycut)
 
 Terminal video trimming tool with aspect ratio control
+
+终端视频剪辑工具，支持宽高比控制

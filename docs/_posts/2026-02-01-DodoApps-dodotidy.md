@@ -7,3 +7,5 @@ image: assets/DodoApps_dodotidy_20260131_181426_213_20260131_181525_5284fa.png
 # [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy)
 
 Open source system cleaner and monitor for macOS
+
+macOS 的开源系统清理器和监控器

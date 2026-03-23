@@ -7,3 +7,5 @@ image: assets/iongpt_boxarr_20251031_060247_244_20251031_210555_e854dd--20251031
 # [iongpt/boxarr](https://github.com/iongpt/boxarr/)
 
 Automatically adds trending box office movies to Radarr
+
+自动将热门票房电影添加到 Radarr

@@ -7,3 +7,5 @@ image: assets/stanfordnlp_dspy_cropped.png
 # [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 
 DSPy: Framework for programming language models
+
+编程语言模型的DSPy框架

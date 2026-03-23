@@ -7,3 +7,5 @@ image: assets/20250818T113622047_tremorlabs_template-dashboard-oss--20250818T113
 # [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss)
 
 open source SaaS dashboard template with Tremor and Next.js
+
+使用 Tremor 和 Next.js 的开源 SaaS 仪表板模板

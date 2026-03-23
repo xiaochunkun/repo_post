@@ -7,3 +7,5 @@ image: assets/WINBIGFOX_TimeScribe_20260210_083739_798_20260210_083804_ff694b.pn
 # [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe)
 
 Offline time tracker for macOS and Windows
+
+macOS 和 Windows 的离线时间追踪器

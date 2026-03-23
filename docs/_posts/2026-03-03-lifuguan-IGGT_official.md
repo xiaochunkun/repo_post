@@ -7,3 +7,5 @@ image: assets/lifuguan_IGGT_official_20260131_203127_819_20260131_203209_acca03.
 # [lifuguan/IGGT_official](https://github.com/lifuguan/IGGT_official)
 
 Reconstructs 3D scenes from images using transformers
+
+使用 Transformer 从图像重建 3D 场景

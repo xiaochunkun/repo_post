@@ -7,3 +7,5 @@ image: assets/ai_for_developers_awesome_ai_coding_tools_20251221_173256_028_2025
 # [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools/)
 
 List of AI tools for software engineering
+
+软件工程 AI 工具列表

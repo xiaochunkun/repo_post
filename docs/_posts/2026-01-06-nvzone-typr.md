@@ -7,3 +7,5 @@ image: assets/nvzone_typr_20260105_191613_890_20260105_191630_59d92c.png
 # [nvzone/typr](https://github.com/nvzone/typr/)
 
 Practice tool for text editors with dashboard
+
+带仪表板的文本编辑器练习工具

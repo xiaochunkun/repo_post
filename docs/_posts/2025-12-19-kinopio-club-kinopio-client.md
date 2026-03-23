@@ -7,3 +7,5 @@ image: assets/kinopio_club_kinopio_client_20251217_235216_067_20251217_235232_22
 # [kinopio-club/kinopio-client](https://github.com/kinopio-club/kinopio-client/)
 
 Spatial thinking canvas for ideas
+
+用于创意的空间思维画布

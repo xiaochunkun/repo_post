@@ -7,3 +7,5 @@ image: assets/namastexlabs_automagik_genie_20251204_220705_227_20251204_220729_4
 # [namastexlabs/automagik-genie](https://github.com/namastexlabs/automagik-genie/)
 
 Orchestrates AI agents locally
+
+本地编排AI代理

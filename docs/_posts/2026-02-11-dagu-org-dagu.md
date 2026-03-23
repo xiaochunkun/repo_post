@@ -7,3 +7,5 @@ image: assets/dagu_org_dagu_20260209_114105_900_20260209_114134_f76aeb.png
 # [dagu-org/dagu](https://github.com/dagu-org/dagu)
 
 Workflow engine for YAML pipelines without external databases
+
+无需外部数据库的YAML管道工作流引擎

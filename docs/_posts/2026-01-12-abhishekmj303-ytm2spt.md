@@ -7,3 +7,5 @@ image: assets/abhishekmj303_ytm2spt_20260112_044259_620_20260112_044317_7696d3.p
 # [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt)
 
 Transfers playlists from YouTube Music to Spotify
+
+将播放列表从 YouTube Music 转移到 Spotify

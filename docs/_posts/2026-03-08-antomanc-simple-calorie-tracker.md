@@ -7,3 +7,5 @@ image: assets/antomanc_simple_calorie_tracker_20260210_213817_670_20260210_21385
 # [antomanc/simple-calorie-tracker](https://github.com/antomanc/simple-calorie-tracker)
 
 React Native calorie tracker with OpenFoodFacts integration
+
+集成OpenFoodFacts的React Native卡路里追踪器

@@ -7,3 +7,5 @@ image: assets/duobaseio_forui_20260316_163714_490_20260316_163737_ec23f6.png
 # [duobaseio/forui](https://github.com/duobaseio/forui)
 
 Flutter UI library for minimal widgets
+
+Flutter UI库，用于最小化部件

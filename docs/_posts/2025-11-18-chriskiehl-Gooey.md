@@ -7,3 +7,5 @@ image: assets/chriskiehl_Gooey_20251118_054804_928_20251118_155954_2b490b--20251
 # [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey/)
 
 Turns a Python console program into a GUI application
+
+将Python控制台程序转换为GUI应用

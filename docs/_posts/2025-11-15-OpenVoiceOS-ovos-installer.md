@@ -7,3 +7,5 @@ image: assets/OpenVoiceOS_ovos_installer_20251114_171547_305_20251115_034719_df2
 # [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer/)
 
 Voice assistant platform that keeps data on device
+
+数据保留在设备上的语音助手平台

@@ -7,3 +7,5 @@ image: assets/20250911T011354715--google--mangle--20250911T011953695--cropped.pn
 # [google/mangle](https://github.com/google/mangle)
 
 deductive database programming language built on Datalog, handles data from multiple sources
+
+基于 Datalog 的演绎数据库编程语言，可处理多数据源

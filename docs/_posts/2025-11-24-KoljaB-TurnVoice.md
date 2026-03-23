@@ -7,3 +7,5 @@ image: assets/KoljaB_TurnVoice_20251123_103045_715_20251124_002733_1a58ee--20251
 # [KoljaB/TurnVoice](https://github.com/KoljaB/TurnVoice/)
 
 Transforms voices in videos with translation
+
+通过翻译转换视频中的声音

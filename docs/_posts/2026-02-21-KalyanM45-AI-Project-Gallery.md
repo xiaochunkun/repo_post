@@ -7,3 +7,5 @@ image: assets/KalyanM45_AI_Project_Gallery_20260220_133621_456_20260220_133637_6
 # [KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery)
 
 Collection of artificial intelligence projects across domains
+
+跨领域的人工智能项目集合

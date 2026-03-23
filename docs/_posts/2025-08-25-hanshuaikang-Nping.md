@@ -7,3 +7,5 @@ image: assets/20250825T015245689--hanshuaikang--Nping--20250825T020040323--cropp
 # [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping)
 
 Rust tool for concurrent ping with real-time charts
+
+Rust 编写的并发 Ping 工具，支持实时图表

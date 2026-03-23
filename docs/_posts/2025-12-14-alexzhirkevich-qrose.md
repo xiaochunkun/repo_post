@@ -7,3 +7,5 @@ image: assets/alexzhirkevich_qrose_20251210_043448_825_20251210_043514_379349.pn
 # [alexzhirkevich/qrose](https://github.com/alexzhirkevich/qrose/)
 
 Styled QR and barcode generation for Compose Multiplatform
+
+用于 Compose Multiplatform 的样式化 QR 和条形码生成

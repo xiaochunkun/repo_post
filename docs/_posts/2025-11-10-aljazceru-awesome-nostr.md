@@ -7,3 +7,5 @@ image: assets/aljazceru_awesome_nostr_20251109_181041_314_20251109_184713_5d8866
 # [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr/)
 
 A curated list of resources for the nostr protocol
+
+nostr协议的精选资源列表

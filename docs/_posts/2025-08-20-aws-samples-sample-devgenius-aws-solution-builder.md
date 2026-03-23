@@ -7,3 +7,5 @@ image: assets/20250818T120724600_aws-samples_sample-devgenius-aws-solution-build
 # [aws-samples/sample-devgenius-aws-solution-builder](https://github.com/aws-samples/sample-devgenius-aws-solution-builder)
 
 AI app that turns project ideas into ready-to-deploy AWS solutions
+
+将项目想法转化为可部署 AWS 解决方案的 AI 应用

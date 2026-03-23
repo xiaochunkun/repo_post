@@ -7,3 +7,5 @@ image: assets/google-gemini_gemma-cookbook_cropped.png
 # [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook)
 
 guides and examples for working with Gemma AI models
+
+使用 Gemma AI 模型的指南和示例

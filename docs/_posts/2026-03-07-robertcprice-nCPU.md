@@ -7,3 +7,5 @@ image: assets/robertcprice_nCPU_20260304_015120_149_20260304_015240_059671.png
 # [robertcprice/nCPU](https://github.com/robertcprice/nCPU)
 
 CPU with ALU operations through neural networks
+
+通过神经网络执行ALU操作的CPU

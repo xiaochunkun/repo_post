@@ -7,3 +7,5 @@ image: assets/kaifcodec_user_scanner_20260204_031952_899_20260204_032008_ac8c05.
 # [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)
 
 Scans platforms for email and username presence
+
+扫描平台以查找电子邮件和用户名存在

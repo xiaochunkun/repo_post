@@ -7,3 +7,5 @@ image: assets/jqssun_android_helium_browser_20251218_071928_888_20251218_072019_
 # [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser/)
 
 Chromium browser for Android with extension support
+
+支持扩展的 Android Chromium 浏览器

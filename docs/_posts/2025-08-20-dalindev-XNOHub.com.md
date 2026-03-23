@@ -7,3 +7,5 @@ image: assets/20250818T122816917_dalindev_XNOHub.com--20250818T123409446--croppe
 # [dalindev/XNOHub.com](https://github.com/dalindev/XNOHub.com)
 
 Nano network explorer with interactive 3D globe
+
+带有交互式 3D 地球的 Nano 网络浏览器

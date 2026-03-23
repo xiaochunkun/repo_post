@@ -7,3 +7,5 @@ image: assets/campwill_hal_voice_assistant_20260208_094848_251_20260208_094935_d
 # [campwill/hal-voice-assistant](https://github.com/campwill/hal-voice-assistant)
 
 Voice assistant with local processing
+
+本地处理的语音助手

@@ -7,3 +7,5 @@ image: assets/aenoshrajora_OSINTel_Dashboard_20251205_002306_551_20251205_002342
 # [aenoshrajora/OSINTel-Dashboard](https://github.com/aenoshrajora/OSINTel-Dashboard/)
 
 Centralized web interface for executing OSINT tools
+
+执行OSINT工具的集中式Web界面

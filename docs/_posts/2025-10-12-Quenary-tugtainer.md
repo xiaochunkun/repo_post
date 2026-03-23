@@ -7,3 +7,5 @@ image: assets/20251012T023822309--Quenary--tugtainer--20251012T024403854--croppe
 # [Quenary/tugtainer](https://github.com/Quenary/tugtainer)
 
 automates docker container updates with web UI, scheduling, notifications, and per-container control
+
+自动化 Docker 容器更新，提供 Web UI、调度、通知和每个容器控制

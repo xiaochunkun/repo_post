@@ -7,3 +7,5 @@ image: assets/affaan_m_everything_claude_code_20260214_040149_206_20260214_04021
 # [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 Configurations for Claude Code agents and MCPs
+
+Claude Code代理和MCP的配置

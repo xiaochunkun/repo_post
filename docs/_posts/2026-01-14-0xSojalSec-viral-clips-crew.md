@@ -7,3 +7,5 @@ image: assets/0xSojalSec_viral_clips_crew_20260113_174024_671_20260113_174038_16
 # [0xSojalSec/viral-clips-crew](https://github.com/0xSojalSec/viral-clips-crew)
 
 Extracts viral segments from videos using CrewAI agents
+
+使用 CrewAI agent 从视频中提取病毒片段

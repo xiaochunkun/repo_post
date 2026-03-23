@@ -7,3 +7,5 @@ image: assets/NaturalNode_natural_cropped.png
 # [NaturalNode/natural](https://github.com/NaturalNode/natural)
 
 natural language processing tools for Node.js
+
+用于Node.js的自然语言处理工具

@@ -7,3 +7,5 @@ image: assets/e_oj_Magic_Grid_20251121_083925_787_20251121_174320_b59e72--202511
 # [e-oj/Magic-Grid](https://github.com/e-oj/Magic-Grid/)
 
 Javascript library for masonry layouts
+
+用于砖石布局的 JavaScript 库

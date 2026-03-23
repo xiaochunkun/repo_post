@@ -7,3 +7,5 @@ image: assets/joouha_euporie_20251118_183026_980_20251120_000136_ebccc2--2025112
 # [joouha/euporie](https://github.com/joouha/euporie/)
 
 Run Jupyter notebooks entirely from the terminal
+
+终端运行Jupyter笔记本

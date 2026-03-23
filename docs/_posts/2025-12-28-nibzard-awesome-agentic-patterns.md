@@ -7,3 +7,5 @@ image: assets/nibzard_awesome_agentic_patterns_20251226_210733_270_20251226_2107
 # [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns/)
 
 Catalogue of patterns for AI agents
+
+AI 代理模式目录

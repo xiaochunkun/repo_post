@@ -7,3 +7,5 @@ image: assets/liriliri_aya_20260204_112335_139_20260204_112349_2f4674.png
 # [liriliri/aya](https://github.com/liriliri/aya)
 
 GUI wrapper for ADB
+
+ADB的GUI封装工具

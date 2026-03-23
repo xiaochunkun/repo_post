@@ -7,3 +7,5 @@ image: assets/Michaelliv_pi_generative_ui_20260316_140329_739_20260316_140440_a6
 # [Michaelliv/pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui)
 
 Generates live interactive widgets for pi
+
+为 pi 生成实时交互式小部件

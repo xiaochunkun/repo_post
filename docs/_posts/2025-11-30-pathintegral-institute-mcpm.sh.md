@@ -7,3 +7,5 @@ image: assets/pathintegral_institute_mcpm_sh_20251127_175351_761_20251130_035227
 # [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh/)
 
 CLI package manager for MCP servers
+
+MCP 服务器的 CLI 包管理器

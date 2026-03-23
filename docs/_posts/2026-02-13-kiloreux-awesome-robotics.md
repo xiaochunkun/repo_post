@@ -7,3 +7,5 @@ image: assets/kiloreux_awesome_robotics_20260209_234232_844_20260209_234248_5f8d
 # [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 
 Curated list of robotics books and courses
+
+机器人学书籍和课程的精选列表

@@ -7,3 +7,5 @@ image: assets/andrii_kryvoviaz_slink_20251020_054411_883_20251020_172858--202510
 # [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink/)
 
 Self-hosted image sharing platform with media control
+
+自托管图像分享平台，带媒体控制

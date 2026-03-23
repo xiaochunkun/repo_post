@@ -7,3 +7,5 @@ image: assets/HariSekhon_DevOps_Bash_tools_20260319_090257_557_20260319_090415_7
 # [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 1000+ shell scripts for CI automation
+
+1000+ 用于 CI 自动化的 shell 脚本

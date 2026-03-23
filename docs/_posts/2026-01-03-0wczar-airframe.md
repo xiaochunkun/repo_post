@@ -7,3 +7,5 @@ image: assets/0wczar_airframe_20260102_202536_028_20260102_202552_13e811.png
 # [0wczar/airframe](https://github.com/0wczar/airframe/)
 
 Dashboard template for web applications
+
+Web 应用的仪表板模板

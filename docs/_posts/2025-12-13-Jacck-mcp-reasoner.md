@@ -7,3 +7,5 @@ image: assets/Jacck_mcp_reasoner_20251209_071755_185_20251209_071820_ec8536.png
 # [Jacck/mcp-reasoner](https://github.com/Jacck/mcp-reasoner/)
 
 Reasoning implementation for Claude Desktop using Beam Search and MCTS
+
+使用 Beam Search 和 MCTS 的 Claude Desktop 推理实现

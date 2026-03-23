@@ -7,3 +7,5 @@ image: assets/BarutSRB_OmniWM_20260302_074232_770_20260302_074413_2fec53.png
 # [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM)
 
 Tiling window manager for macOS inspired by Niri and Hyprland
+
+受Niri和Hyprland启发的macOS平铺窗口管理器

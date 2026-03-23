@@ -7,3 +7,5 @@ image: assets/20250829T042358598--eyalzh--kanban-mcp--20250829T043056378--croppe
 # [eyalzh/kanban-mcp](https://github.com/eyalzh/kanban-mcp)
 
 A Kanban board tool for AI agents and teams to organize tasks, track progress, and manage workflows visually
+
+AI 智能体和团队可用的看板工具，可视化管理任务和进度

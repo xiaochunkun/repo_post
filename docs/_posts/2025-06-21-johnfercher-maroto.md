@@ -7,3 +7,5 @@ image: assets/johnfercher_maroto_cropped.png
 # [johnfercher/maroto](https://github.com/johnfercher/maroto)
 
 PDF creation tool for Go, uses Bootstrap concepts and gofpdf
+
+Go 的 PDF 创建工具，使用 Bootstrap 概念和 gofpdf

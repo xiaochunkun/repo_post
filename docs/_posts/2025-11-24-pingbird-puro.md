@@ -7,3 +7,5 @@ image: assets/pingbird_puro_20251123_170949_046_20251124_094647_018ee6--20251124
 # [pingbird/puro](https://github.com/pingbird/puro/)
 
 Optimizes Flutter installation and version management
+
+优化 Flutter 安装和版本管理

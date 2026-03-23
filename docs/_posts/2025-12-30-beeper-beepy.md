@@ -7,3 +7,5 @@ image: assets/beeper_beepy_20251229_090139_540_20251229_090157_e986ff.png
 # [beeper/beepy](https://github.com/beeper/beepy/)
 
 Handheld computer with a keyboard and a screen for a Raspberry Pi
+
+为 Raspberry Pi 设计的带键盘和屏幕的手持计算机

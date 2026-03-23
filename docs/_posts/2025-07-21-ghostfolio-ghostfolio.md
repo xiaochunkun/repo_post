@@ -7,3 +7,5 @@ image: assets/ghostfolio_ghostfolio_cropped.png
 # [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
 track stocks and crypto in one dashboard
+
+在一个仪表板中追踪股票和加密货币

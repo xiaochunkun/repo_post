@@ -7,3 +7,5 @@ image: assets/sagekit_magnitude_20251225_174544_231_20251225_174603_ca8e91.png
 # [sagekit/magnitude](https://github.com/sagekit/magnitude/)
 
 Browser agent using vision AI for automation
+
+使用视觉 AI 进行自动化的浏览器代理

@@ -7,3 +7,5 @@ image: assets/TecharoHQ_yeet_cropped.png
 # [TecharoHQ/yeet](https://github.com/TecharoHQ/yeet)
 
 Run build tasks with JavaScript when shell scripts aren't enough
+
+当 shell 脚本不够时，使用 JavaScript 运行构建任务

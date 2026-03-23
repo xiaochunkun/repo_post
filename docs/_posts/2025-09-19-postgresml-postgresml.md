@@ -7,3 +7,5 @@ image: assets/20250917T003133000--postgresml--postgresml--20250919T022515123--cr
 # [postgresml/postgresml](https://github.com/postgresml/postgresml)
 
 run machine learning and AI models right inside your Postgres database
+
+在Postgres数据库中直接运行机器学习和AI模型

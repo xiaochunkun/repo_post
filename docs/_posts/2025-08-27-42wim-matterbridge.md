@@ -7,3 +7,5 @@ image: assets/20250826T031222738--42wim--matterbridge--20250826T031638555--cropp
 # [42wim/matterbridge](https://github.com/42wim/matterbridge)
 
 bridge messages across chat apps
+
+跨聊天应用的消息桥接工具

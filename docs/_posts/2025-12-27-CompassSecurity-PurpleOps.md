@@ -7,3 +7,5 @@ image: assets/CompassSecurity_PurpleOps_20251226_054202_749_20251226_054222_85f5
 # [CompassSecurity/PurpleOps](https://github.com/CompassSecurity/PurpleOps/)
 
 Self-hosted purple team management web application
+
+自托管的紫队管理 Web 应用

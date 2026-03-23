@@ -7,3 +7,5 @@ image: assets/JigsawStack_insanely_fast_whisper_api_20251201_061634_265_20251201
 # [JigsawStack/insanely-fast-whisper-api](https://github.com/JigsawStack/insanely-fast-whisper-api/)
 
 API for OpenAI Whisper with diarization
+
+带说话人识别的 OpenAI Whisper API

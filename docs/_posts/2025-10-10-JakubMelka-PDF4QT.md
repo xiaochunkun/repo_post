@@ -7,3 +7,5 @@ image: assets/20251010T130009646--JakubMelka--PDF4QT--20251010T131230190--croppe
 # [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT)
 
 PDF rendering library with document viewer, command line tools, and PDF manipulation features
+
+PDF 渲染库，带文档查看器、命令行工具和 PDF 操作功能

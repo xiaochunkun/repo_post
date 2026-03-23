@@ -7,3 +7,5 @@ image: assets/microsoft_sammo_cropped.png
 # [microsoft/sammo](https://github.com/microsoft/sammo)
 
 Tool for building and optimizing prompt programs for large language models
+
+用于构建和优化大型语言模型提示程序的工具

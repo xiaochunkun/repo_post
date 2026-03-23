@@ -7,3 +7,5 @@ image: assets/Rudrabha_Wav2Lip_20251030_170418_213_20251030_170510_856b60--20251
 # [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip/)
 
 Lip-syncs any video to an audio track
+
+将任何视频与音频轨道进行口型同步

@@ -7,3 +7,5 @@ image: assets/henrypp_simplewall_20260207_075808_789_20260207_075829_c8c98e.png
 # [henrypp/simplewall](https://github.com/henrypp/simplewall)
 
 Configures Windows Filtering Platform to control network activity
+
+配置Windows Filtering Platform以控制网络活动

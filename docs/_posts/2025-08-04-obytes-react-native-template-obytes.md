@@ -7,3 +7,5 @@ image: assets/obytes_react-native-template-obytes_cropped.png
 # [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
 
 react native starter template with expo, typescript, tailwind, and more
+
+包含Expo、TypeScript、Tailwind等的React Native启动模板

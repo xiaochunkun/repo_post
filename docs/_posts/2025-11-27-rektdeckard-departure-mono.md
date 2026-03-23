@@ -7,3 +7,5 @@ image: assets/rektdeckard_departure_mono_20251125_020600_344_20251126_101529_12f
 # [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono/)
 
 Monospaced pixel font for command-line interfaces
+
+用于命令行界面的等宽像素字体

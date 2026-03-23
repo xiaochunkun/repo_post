@@ -7,3 +7,5 @@ image: assets/bagisto_bagisto_20260203_000352_719_20260203_000439_c54555.png
 # [bagisto/bagisto](https://github.com/bagisto/bagisto)
 
 Ecommerce platform built with Laravel and Vue.js
+
+使用Laravel和Vue.js构建的电商平台

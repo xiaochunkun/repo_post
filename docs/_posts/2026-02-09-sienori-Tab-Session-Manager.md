@@ -7,3 +7,5 @@ image: assets/sienori_Tab_Session_Manager_20260207_010714_371_20260207_010734_ed
 # [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager)
 
 Restores browser windows and tabs through automated state backups
+
+通过自动状态备份恢复浏览器窗口和标签页

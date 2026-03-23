@@ -7,3 +7,5 @@ image: assets/ManimCommunity_manim_cropped.png
 # [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 
 Python library for programmatically creating math animations
+
+用于编程创建数学动画的 Python 库

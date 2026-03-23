@@ -7,3 +7,5 @@ image: assets/GiovanniBaccichet_openwrt_multi_sniffer_20260210_191033_856_202602
 # [GiovanniBaccichet/openwrt-multi-sniffer](https://github.com/GiovanniBaccichet/openwrt-multi-sniffer)
 
 Sniffs WiFi probe requests across channels using OpenWrt
+
+使用OpenWrt跨通道嗅探WiFi探测请求

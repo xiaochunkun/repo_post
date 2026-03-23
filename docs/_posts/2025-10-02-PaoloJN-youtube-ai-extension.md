@@ -7,3 +7,5 @@ image: assets/20251001T134106309--PaoloJN--youtube-ai-extension--20251001T134515
 # [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension)
 
 chat with YouTube videos, ask questions, get instant summaries
+
+与YouTube视频聊天，提问并获取即时摘要

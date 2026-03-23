@@ -7,3 +7,5 @@ image: assets/20250912T001303441--huggingface--agents-course--20250912T001738862
 # [huggingface/agents-course](https://github.com/huggingface/agents-course)
 
 course on building and evaluating AI agents with Python and popular frameworks
+
+用 Python 和流行框架构建和评估 AI 智能体的课程

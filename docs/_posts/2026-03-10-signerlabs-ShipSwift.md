@@ -7,3 +7,5 @@ image: assets/signerlabs_ShipSwift_20260308_105030_032_20260308_105640_b2fa8b.pn
 # [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift)
 
 SwiftUI component library for LLMs to build apps
+
+用于LLM构建应用的SwiftUI组件库

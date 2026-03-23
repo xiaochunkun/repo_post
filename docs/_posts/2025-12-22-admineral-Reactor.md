@@ -7,3 +7,5 @@ image: assets/admineral_Reactor_20251221_174922_851_20251221_174939_5a845e.png
 # [admineral/Reactor](https://github.com/admineral/Reactor/)
 
 Chat with code editor and live preview using Sandpack and Vercel AI SDK
+
+使用 Sandpack 和 Vercel AI SDK 的代码编辑器聊天与实时预览

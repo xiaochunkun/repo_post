@@ -7,3 +7,5 @@ image: assets/kiliczsh_claude_cmd_20260302_204937_743_20260302_205123_db72a2.png
 # [kiliczsh/claude-cmd](https://github.com/kiliczsh/claude-cmd)
 
 CLI for Claude commands and MCP servers
+
+Claude 命令和 MCP 服务器的 CLI

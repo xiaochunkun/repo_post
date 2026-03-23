@@ -7,3 +7,5 @@ image: assets/jabberjabberjabber_ImageIndexer_20251207_222923_275_20251207_22294
 # [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer/)
 
 Locally labels image metadata using AI
+
+使用 AI 本地标记图像元数据

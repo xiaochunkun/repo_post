@@ -7,3 +7,5 @@ image: assets/20250928T054101324--LLaVA-VL--LLaVA-NeXT--20250928T055333707--crop
 # [LLaVA-VL/LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
 
 open large multimodal models for vision and language tasks
+
+用于视觉和语言任务的开源大型多模态模型

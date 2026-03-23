@@ -7,3 +7,5 @@ image: assets/20250922T023322662--tulir--whatsmeow--20250922T024034620--cropped.
 # [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
 
 Go library for WhatsApp web multidevice API, supports messaging, group management, and notifications
+
+用于 WhatsApp Web 多设备 API 的 Go 库，支持消息、群组管理和通知

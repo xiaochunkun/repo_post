@@ -7,3 +7,5 @@ image: assets/jhlee0409_claude_code_history_viewer_20260126_001914_645_20260126_
 # [jhlee0409/claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer)
 
 Analyzes Claude Code history with token usage and cost analytics
+
+Claude Code历史分析和代币成本工具

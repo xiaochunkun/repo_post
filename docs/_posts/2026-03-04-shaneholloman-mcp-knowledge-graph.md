@@ -7,3 +7,5 @@ image: assets/shaneholloman_mcp_knowledge_graph_20260304_144630_401_20260304_144
 # [shaneholloman/mcp-knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph)
 
 Server for memory in AI models through a knowledge graph
+
+通过知识图为AI模型提供记忆的服务器

@@ -7,3 +7,5 @@ image: assets/nab138_CrossCode_20251125_052546_958_20251127_170750_4ef854--20251
 # [nab138/CrossCode](https://github.com/nab138/CrossCode/)
 
 iOS Swift development IDE for Windows and Linux
+
+适用于 Windows 和 Linux 的 iOS Swift 开发 IDE

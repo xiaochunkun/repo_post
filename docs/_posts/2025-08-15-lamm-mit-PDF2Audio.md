@@ -7,3 +7,5 @@ image: assets/20250815T012801621_lamm-mit_PDF2Audio--20250815T013323173--cropped
 # [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio)
 
 turn PDFs into audio podcasts, lectures, or summaries
+
+将PDF转换为音频播客、讲座或摘要

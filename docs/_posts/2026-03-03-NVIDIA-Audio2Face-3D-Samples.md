@@ -7,3 +7,5 @@ image: assets/NVIDIA_Audio2Face_3D_Samples_20260213_211301_172_20260213_211408_e
 # [NVIDIA/Audio2Face-3D-Samples](https://github.com/NVIDIA/Audio2Face-3D-Samples)
 
 Converts speech into facial animation for avatars
+
+将语音转换为虚拟形象的面部动画

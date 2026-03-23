@@ -7,3 +7,5 @@ image: assets/sham00n_buster_20251125_003258_792_20251126_100451_22f78c--2025112
 # [sham00n/buster](https://github.com/sham00n/buster/)
 
 OSINT tool for email reconnaissance
+
+用于电子邮件侦察的 OSINT 工具

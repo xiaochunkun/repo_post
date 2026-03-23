@@ -7,3 +7,5 @@ image: assets/20250921T222208331--xnl-h4ck3r--waymore--20250921T222309819--cropp
 # [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore)
 
 finds and downloads archived URLs and responses from multiple sources for bug bounty and recon
+
+从多个来源查找和下载存档的 URL 和响应，用于漏洞赏金和侦察

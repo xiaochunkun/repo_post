@@ -7,3 +7,5 @@ image: assets/199_biotechnologies_claude_deep_research_skill_20260314_235159_749
 # [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill)
 
 8-phase research pipeline with auto-continuation
+
+带自动延续的8阶段研究管道

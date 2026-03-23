@@ -7,3 +7,5 @@ image: assets/20250830T185609031--btpf--Alexandria--20250830T190045926--cropped.
 # [btpf/Alexandria](https://github.com/btpf/Alexandria)
 
 cross-platform ebook reader with themes, notes, and comic support
+
+跨平台电子书阅读器，支持主题、笔记和漫画

@@ -7,3 +7,5 @@ image: assets/akutayural_APIException_20251201_080945_486_20251201_081036_ac38c7
 # [akutayural/APIException](https://github.com/akutayural/APIException/)
 
 Standardizes exception handling for FastAPI
+
+标准化 FastAPI 异常处理

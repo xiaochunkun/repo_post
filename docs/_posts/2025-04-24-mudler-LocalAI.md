@@ -7,3 +7,5 @@ image: assets/mudler_LocalAI_cropped.png
 # [mudler/LocalAI](https://github.com/mudler/LocalAI)
 
 Run AI models, agents, and tools locallywith an OpenAI-compatible API
+
+使用OpenAI兼容API本地运行AI模型、代理和工具

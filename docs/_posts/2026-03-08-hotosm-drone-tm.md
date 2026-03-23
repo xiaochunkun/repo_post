@@ -7,3 +7,5 @@ image: assets/hotosm_drone_tm_20260302_115202_252_20260302_115400_f0e486.png
 # [hotosm/drone-tm](https://github.com/hotosm/drone-tm)
 
 Coordinates drone pilots for imagery collection
+
+协调无人机飞行员收集图像

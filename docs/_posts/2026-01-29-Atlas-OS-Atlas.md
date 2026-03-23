@@ -7,3 +7,5 @@ image: assets/Atlas_OS_Atlas_20260128_232911_937_20260128_232951_e988fc.png
 # [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 
 Modifies Windows for performance and privacy
+
+优化Windows性能和隐私的修改版

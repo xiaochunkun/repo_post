@@ -7,3 +7,5 @@ image: assets/8BitMark_remarkably_organized_20260115_130221_440_20260115_130239_
 # [8BitMark/remarkably-organized](https://github.com/8BitMark/remarkably-organized)
 
 Generates planners for e-ink tablets
+
+为电子墨水平板生成规划器

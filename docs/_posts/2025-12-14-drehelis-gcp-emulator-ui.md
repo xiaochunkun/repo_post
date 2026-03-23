@@ -7,3 +7,5 @@ image: assets/drehelis_gcp_emulator_ui_20251213_023714_541_20251213_023749_6a393
 # [drehelis/gcp-emulator-ui](https://github.com/drehelis/gcp-emulator-ui/)
 
 Web interface for managing Google Cloud Platform emulator services
+
+管理 Google Cloud Platform 模拟器服务的 Web 界面

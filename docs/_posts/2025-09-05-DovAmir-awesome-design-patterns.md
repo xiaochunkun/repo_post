@@ -7,3 +7,5 @@ image: assets/20250905T022708732--DovAmir--awesome-design-patterns--20250905T022
 # [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 curated list of software and architecture design patterns
+
+精选的软件和架构设计模式列表

@@ -7,3 +7,5 @@ image: assets/Volmarg_personal_management_system_20260210_152230_868_20260210_15
 # [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system)
 
 Backend for managing personal data
+
+管理个人数据的后端

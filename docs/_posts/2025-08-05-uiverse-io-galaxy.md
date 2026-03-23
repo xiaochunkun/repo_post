@@ -7,3 +7,5 @@ image: assets/uiverse-io_galaxy_cropped.png
 # [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy)
 
 open source UI library, tons of components, CSS and Tailwind
+
+开源 UI 库，包含大量 CSS 和 Tailwind 组件

@@ -7,3 +7,5 @@ image: assets/goodroot_hyprwhspr_20260220_145540_513_20260220_145602_fd280d.png
 # [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr)
 
 System-wide speech-to-text for Linux
+
+Linux 系统范围的语音转文本

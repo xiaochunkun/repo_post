@@ -7,3 +7,5 @@ image: assets/20250830T092033257--nuta--operating-system-in-1000-lines--20250830
 # [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
 
 operating system in just 1000 lines of code
+
+仅用 1000 行代码实现的操作系统

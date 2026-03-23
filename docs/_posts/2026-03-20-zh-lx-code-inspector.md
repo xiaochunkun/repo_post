@@ -7,3 +7,5 @@ image: assets/zh_lx_code_inspector_20260318_130349_190_20260318_130503_e0c5e9.pn
 # [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
 
 Opens IDE at clicked DOM element
+
+在点击的DOM元素处打开IDE

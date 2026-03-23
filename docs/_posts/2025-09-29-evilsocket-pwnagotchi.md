@@ -7,3 +7,5 @@ image: assets/20250929T014250328--evilsocket--pwnagotchi--20250929T015334996--cr
 # [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi)
 
 AI-powered tool for capturing WiFi handshakes on a Raspberry Pi
+
+在Raspberry Pi上捕获WiFi握手信号的AI驱动工具

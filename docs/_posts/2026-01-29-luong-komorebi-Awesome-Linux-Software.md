@@ -7,3 +7,5 @@ image: assets/luong_komorebi_Awesome_Linux_Software_20260129_002518_861_20260129
 # [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
 Curated list of Linux applications and tools
+
+精选Linux应用和工具列表

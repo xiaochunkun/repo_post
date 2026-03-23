@@ -7,3 +7,5 @@ image: assets/ekwek1_soprano_factory_20260130_132358_578_20260130_132432_ae15ec.
 # [ekwek1/soprano-factory](https://github.com/ekwek1/soprano-factory)
 
 Trains text-to-speech models with 2000x realtime generation on GPU
+
+在 GPU 上训练文本转语音模型，生成速度达实时 2000 倍

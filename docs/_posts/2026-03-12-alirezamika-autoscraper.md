@@ -7,3 +7,5 @@ image: assets/alirezamika_autoscraper_20260222_191345_223_20260222_191405_95c4dc
 # [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)
 
 Learns scraping rules from sample data
+
+从样本数据学习爬取规则

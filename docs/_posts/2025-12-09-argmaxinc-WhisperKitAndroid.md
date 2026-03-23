@@ -7,3 +7,5 @@ image: assets/argmaxinc_WhisperKitAndroid_20251207_205401_536_20251207_205423_3d
 # [argmaxinc/WhisperKitAndroid](https://github.com/argmaxinc/WhisperKitAndroid/)
 
 On-device speech recognition for Android and Linux
+
+Android和Linux的本地语音识别

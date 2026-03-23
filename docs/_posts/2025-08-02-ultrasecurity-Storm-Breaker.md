@@ -7,3 +7,5 @@ image: assets/ultrasecurity_Storm-Breaker_cropped.png
 # [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 
 tool for grabbing location, webcam, mic, device info
+
+用于获取位置、摄像头、麦克风、设备信息的工具

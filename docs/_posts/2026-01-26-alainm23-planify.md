@@ -7,3 +7,5 @@ image: assets/alainm23_planify_20260121_234638_837_20260121_234655_df675a.png
 # [alainm23/planify](https://github.com/alainm23/planify)
 
 Task manager with Todoist and Nextcloud support for GNOME
+
+支持Todoist和Nextcloud的GNOME任务管理器

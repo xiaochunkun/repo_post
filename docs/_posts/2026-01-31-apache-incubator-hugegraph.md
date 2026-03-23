@@ -7,3 +7,5 @@ image: assets/apache_incubator_hugegraph_20260128_225030_560_20260128_225108_c79
 # [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph)
 
 Graph database for billions of vertices and edges
+
+支持数十亿顶点和边的图数据库

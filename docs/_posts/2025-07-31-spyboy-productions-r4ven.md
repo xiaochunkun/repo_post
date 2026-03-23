@@ -7,3 +7,5 @@ image: assets/spyboy-productions_r4ven_cropped.png
 # [spyboy-productions/r4ven](https://github.com/spyboy-productions/r4ven)
 
 track gps location, capture device info and pics
+
+追踪GPS位置、捕获设备信息和图片

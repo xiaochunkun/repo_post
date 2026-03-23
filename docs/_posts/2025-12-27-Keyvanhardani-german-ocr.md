@@ -7,3 +7,5 @@ image: assets/Keyvanhardani_german_ocr_20251226_031752_776_20251226_031809_ef6f7
 # [Keyvanhardani/german-ocr](https://github.com/Keyvanhardani/german-ocr/)
 
 Extracts text from German documents via local or cloud processing
+
+通过本地或云端处理从德语文档中提取文本

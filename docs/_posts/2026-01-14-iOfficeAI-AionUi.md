@@ -7,3 +7,5 @@ image: assets/iOfficeAI_AionUi_20260113_043912_211_20260113_043958_e54539.png
 # [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
 
 Desktop interface for command-line artificial intelligence tools
+
+命令行 AI 工具的桌面界面

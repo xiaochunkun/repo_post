@@ -7,3 +7,5 @@ image: assets/axcore_tartube_20251123_192525_427_20251125_011700_c63e88--2025112
 # [axcore/tartube](https://github.com/axcore/tartube/)
 
 GUI front-end for youtube-dl and yt-dlp
+
+youtube-dl 和 yt-dlp 的 GUI 前端

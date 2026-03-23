@@ -7,3 +7,5 @@ image: assets/20250930T001857442--law-chain-hot--websocket-devtools--20250930T00
 # [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools)
 
 Chrome DevTools extension for proxying, simulating, and blocking WebSocket messages
+
+Chrome DevTools 扩展，用于代理、模拟和拦截 WebSocket 消息

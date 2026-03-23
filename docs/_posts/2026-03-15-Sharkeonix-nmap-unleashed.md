@@ -7,3 +7,5 @@ image: assets/Sharkeonix_nmap_unleashed_20260224_060426_702_20260224_060456_eb1d
 # [Sharkeonix/nmap-unleashed](https://github.com/Sharkeonix/nmap-unleashed)
 
 Multithreaded Nmap wrapper with a dashboard
+
+带仪表盘的多线程Nmap封装工具

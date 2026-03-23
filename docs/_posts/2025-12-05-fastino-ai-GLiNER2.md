@@ -7,3 +7,5 @@ image: assets/fastino_ai_GLiNER2_20251202_234037_974_20251202_234101_1ee41a.png
 # [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2/)
 
 Unifies entity recognition, classification, and extraction
+
+统一实体识别、分类和提取

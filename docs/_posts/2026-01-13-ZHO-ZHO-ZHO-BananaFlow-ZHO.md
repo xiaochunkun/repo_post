@@ -7,3 +7,5 @@ image: assets/ZHO_ZHO_ZHO_BananaFlow_ZHO_20260112_100336_228_20260112_100351_742
 # [ZHO-ZHO-ZHO/BananaFlow-ZHO](https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO)
 
 Workflow platform for NanoBanana and Veo
+
+NanoBanana 和 Veo 的工作流平台

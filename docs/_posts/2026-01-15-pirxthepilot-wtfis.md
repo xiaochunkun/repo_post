@@ -7,3 +7,5 @@ image: assets/pirxthepilot_wtfis_20260115_115243_310_20260115_115306_1bb9d4.png
 # [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis)
 
 OSINT tool for domain and IP lookups
+
+用于域名和 IP 查询的 OSINT 工具

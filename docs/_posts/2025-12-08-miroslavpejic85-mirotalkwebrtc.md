@@ -7,3 +7,5 @@ image: assets/miroslavpejic85_mirotalkwebrtc_20251207_174920_669_20251207_174942
 # [miroslavpejic85/mirotalkwebrtc](https://github.com/miroslavpejic85/mirotalkwebrtc/)
 
 WebRTC platform for real-time video conferences
+
+用于实时视频会议的 WebRTC 平台

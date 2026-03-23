@@ -7,3 +7,5 @@ image: assets/camelot_dev_excalibur_20251031_085248_625_20251102_154657_ecbad3--
 # [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur/)
 
 Web interface for extracting tabular data from PDFs
+
+从 PDF 提取表格数据的 Web 界面

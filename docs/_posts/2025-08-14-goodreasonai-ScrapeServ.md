@@ -7,3 +7,5 @@ image: assets/goodreasonai_ScrapeServ--20250814T045121172--cropped.png
 # [goodreasonai/ScrapeServ](https://github.com/goodreasonai/ScrapeServ)
 
 turn urls into website screenshots with an api
+
+通过 API 将 URL 转换为网站截图

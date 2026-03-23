@@ -7,3 +7,5 @@ image: assets/KittenML_KittenTTS--20250812T225048--cropped.png
 # [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
 
 tiny open‑source TTS under 25MB, runs on CPU
+
+小于25MB的微型开源TTS，可在CPU上运行

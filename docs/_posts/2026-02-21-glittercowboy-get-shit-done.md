@@ -7,3 +7,5 @@ image: assets/glittercowboy_get_shit_done_20260210_110444_418_20260210_110514_c5
 # [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done)
 
 Meta-prompting and context engineering system for Claude Code
+
+Claude Code 的元提示和上下文工程系统

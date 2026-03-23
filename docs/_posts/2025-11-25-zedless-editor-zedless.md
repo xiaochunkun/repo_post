@@ -7,3 +7,5 @@ image: assets/zedless_editor_zedless_20251123_180414_412_20251124_095621_2677f0-
 # [zedless-editor/zedless](https://github.com/zedless-editor/zedless/)
 
 Fork of the Zed editor without telemetry or cloud services
+
+无遥测或云服务的 Zed 编辑器分支

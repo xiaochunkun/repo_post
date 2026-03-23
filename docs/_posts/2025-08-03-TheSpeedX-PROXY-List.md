@@ -7,3 +7,5 @@ image: assets/TheSpeedX_PROXY-List_cropped.png
 # [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List)
 
 free public proxy list, updated all the time
+
+免费公共代理列表，持续更新

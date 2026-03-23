@@ -7,3 +7,5 @@ image: assets/ehsanmok_create_your_own_lang_with_rust_20260120_010132_749_202601
 # [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust)
 
 Builds four languages from scratch in Rust
+
+使用 Rust 从零构建四种语言

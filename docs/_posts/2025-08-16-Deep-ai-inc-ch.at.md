@@ -7,3 +7,5 @@ image: assets/20250814T025617411_Deep-ai-inc_ch.at--20250815T023710712--cropped.
 # [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at)
 
 lightweight chat service for LLMs, no tracking
+
+轻量级 LLM 聊天服务，无追踪

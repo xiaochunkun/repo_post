@@ -7,3 +7,5 @@ image: assets/almarklein_timetagger_cropped.png
 # [almarklein/timetagger](https://github.com/almarklein/timetagger)
 
 track time with tags in your browser
+
+在浏览器中用标签追踪时间

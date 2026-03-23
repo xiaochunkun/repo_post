@@ -7,3 +7,5 @@ image: assets/hydra_synth_hydra_20251120_063906_206_20251121_015844_849647--2025
 # [hydra-synth/hydra](https://github.com/hydra-synth/hydra/)
 
 Livecoding networked visuals in the browser
+
+在浏览器中进行网络视觉实时编码

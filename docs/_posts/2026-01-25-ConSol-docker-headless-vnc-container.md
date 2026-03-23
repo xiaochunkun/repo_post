@@ -7,3 +7,5 @@ image: assets/ConSol_docker_headless_vnc_container_20260122_025112_810_20260122_
 # [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container)
 
 Docker images with VNC environments for browser access
+
+支持VNC环境的Docker镜像，用于浏览器访问

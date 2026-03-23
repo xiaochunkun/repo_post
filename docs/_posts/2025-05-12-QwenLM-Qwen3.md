@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen3_cropped.png
 # [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3)
 
 GitHub repository for Qwen3 language models
+
+Qwen3语言模型的GitHub仓库

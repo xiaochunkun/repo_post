@@ -7,3 +7,5 @@ image: assets/lightdash_lightdash_20260129_022100_572_20260129_022144_a943d7.png
 # [lightdash/lightdash](https://github.com/lightdash/lightdash)
 
 Open-source Looker alternative for dbt projects
+
+dbt项目的开源Looker替代品

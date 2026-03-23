@@ -7,3 +7,5 @@ image: assets/GoogleCloudPlatform_DataflowTemplates_20260311_231146_351_20260311
 # [GoogleCloudPlatform/DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates)
 
 Dataflow templates for cloud data tasks
+
+云数据任务的 Dataflow 模板

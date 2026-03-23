@@ -7,3 +7,5 @@ image: assets/20250920T042917400--cheeriojs--cheerio--20250920T043912092--croppe
 # [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
 
 parse and manipulate HTML with jQuery-like syntax in Node.js
+
+在Node.js中使用类似jQuery的语法解析和操作HTML

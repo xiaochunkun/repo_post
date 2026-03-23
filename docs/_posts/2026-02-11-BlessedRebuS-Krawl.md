@@ -7,3 +7,5 @@ image: assets/BlessedRebuS_Krawl_20260202_230004_172_20260202_230031_8101d0.png
 # [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl)
 
 Honeypot server to track attackers and crawlers
+
+追踪攻击者和爬虫的蜜罐服务器

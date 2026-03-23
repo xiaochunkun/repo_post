@@ -7,3 +7,5 @@ image: assets/sindresorhus_awesome_cropped.png
 # [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 curated lists of cool stuff on every topic
+
+各领域精选酷炫资源列表

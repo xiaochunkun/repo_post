@@ -7,3 +7,5 @@ image: assets/MiniMax_AI_MiniMax_M2_20251102_231047_188_20251103_212055_ebeb11--
 # [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2/)
 
 Mixture-of-experts model for coding and agentic workflows
+
+用于编码和智能体工作流的专家混合模型

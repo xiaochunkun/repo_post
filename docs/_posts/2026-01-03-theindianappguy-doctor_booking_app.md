@@ -7,3 +7,5 @@ image: assets/theindianappguy_doctor_booking_app_20260102_025056_438_20260102_02
 # [theindianappguy/doctor_booking_app](https://github.com/theindianappguy/doctor_booking_app/)
 
 Flutter app for booking doctors
+
+用于预约医生的 Flutter 应用

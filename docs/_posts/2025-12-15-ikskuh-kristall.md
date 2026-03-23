@@ -7,3 +7,5 @@ image: assets/ikskuh_kristall_20251213_114102_820_20251213_114125_f27350.png
 # [ikskuh/kristall](https://github.com/ikskuh/kristall/)
 
 Visual cross-platform Gemini browser
+
+可视化跨平台Gemini浏览器

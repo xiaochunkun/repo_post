@@ -7,3 +7,5 @@ image: assets/yeoman_generator_20260130_204323_519_20260130_204426_05cb01.png
 # [yeoman/generator](https://github.com/yeoman/generator)
 
 Scaffolding system for web applications
+
+Web 应用的脚手架系统

@@ -7,3 +7,5 @@ image: assets/marmelab_shadcn_admin_kit_20251208_001059_836_20251208_001121_1078
 # [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit/)
 
 Component kit for building admin apps with shadcn/ui
+
+使用 shadcn/ui 构建管理应用的组件套件

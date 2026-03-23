@@ -7,3 +7,5 @@ image: assets/chriswritescode_dev_opencode_manager_20260210_094433_762_20260210_
 # [chriswritescode-dev/opencode-manager](https://github.com/chriswritescode-dev/opencode-manager)
 
 Web interface for AI agents with Git integration
+
+AI 代理的 Web 界面，支持 Git 集成

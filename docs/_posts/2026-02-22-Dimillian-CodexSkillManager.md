@@ -7,3 +7,5 @@ image: assets/Dimillian_CodexSkillManager_20260210_071525_182_20260210_071550_63
 # [Dimillian/CodexSkillManager](https://github.com/Dimillian/CodexSkillManager)
 
 Manages skills for Codex and Claude Code
+
+管理Codex和Claude Code的技能

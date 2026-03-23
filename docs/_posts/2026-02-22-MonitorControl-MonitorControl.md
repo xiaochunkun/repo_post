@@ -7,3 +7,5 @@ image: assets/MonitorControl_MonitorControl_20260203_194040_887_20260203_194117_
 # [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 Controls external display brightness and volume with Apple keys
+
+使用 Apple 按键控制外部显示器亮度和音量

@@ -7,3 +7,5 @@ image: assets/nashaofu_shell360_20251228_074047_317_20251228_074104_7d3722.png
 # [nashaofu/shell360](https://github.com/nashaofu/shell360/)
 
 SSH and SFTP client for desktop and mobile
+
+桌面和移动端的SSH和SFTP客户端

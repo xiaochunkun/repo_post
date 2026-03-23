@@ -7,3 +7,5 @@ image: assets/github_awesome-copilot_cropped.png
 # [github/awesome-copilot](https://github.com/github/awesome-copilot)
 
 curated list of cool GitHub Copilot resources
+
+精选的GitHub Copilot资源列表

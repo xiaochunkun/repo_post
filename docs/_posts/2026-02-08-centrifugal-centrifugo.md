@@ -7,3 +7,5 @@ image: assets/centrifugal_centrifugo_20260203_072356_420_20260203_072425_f20b97.
 # [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo)
 
 Messaging server for real-time applications
+
+实时应用的消息服务器

@@ -7,3 +7,5 @@ image: assets/Mr_Sunglasses_VentoyDocker_20260115_133612_317_20260115_133627_4cd
 # [Mr-Sunglasses/VentoyDocker](https://github.com/Mr-Sunglasses/VentoyDocker)
 
 Docker container for USB drive creation on macOS
+
+用于在 macOS 上创建 USB 驱动器的 Docker 容器

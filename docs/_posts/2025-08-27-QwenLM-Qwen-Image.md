@@ -7,3 +7,5 @@ image: assets/20250826T024735187--QwenLM--Qwen-Image--20250826T025820352--croppe
 # [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image)
 
 image generation and editing with advanced text rendering
+
+高级文字渲染的图像生成和编辑

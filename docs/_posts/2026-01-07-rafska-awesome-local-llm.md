@@ -7,3 +7,5 @@ image: assets/rafska_awesome_local_llm_20251219_223735_097_20251219_223754_1562b
 # [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm/)
 
 Resources for running LLMs locally
+
+本地运行 LLMs 的资源

@@ -7,3 +7,5 @@ image: assets/20250912T195654047--bia-pain-bache--BPB-Worker-Panel--20250915T044
 # [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)
 
 Panel for managing VLESS, Trojan, and Warp configs with proxy and DNS options
+
+管理 VLESS、Trojan 和 Warp 配置的面板，支持代理和 DNS 选项

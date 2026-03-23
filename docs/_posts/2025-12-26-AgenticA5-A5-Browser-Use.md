@@ -7,3 +7,5 @@ image: assets/AgenticA5_A5_Browser_Use_20251225_140524_737_20251225_140542_6d9dc
 # [AgenticA5/A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use/)
 
 Browser automation via LLMs and Chrome extension
+
+通过 LLM 和 Chrome 扩展进行浏览器自动化

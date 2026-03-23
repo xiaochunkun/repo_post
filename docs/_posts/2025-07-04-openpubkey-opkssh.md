@@ -7,3 +7,5 @@ image: assets/openpubkey_opkssh_cropped.png
 # [openpubkey/opkssh](https://github.com/openpubkey/opkssh)
 
 SSH tool using OpenID Connect logins for access management
+
+使用OpenID Connect登录进行访问管理的SSH工具

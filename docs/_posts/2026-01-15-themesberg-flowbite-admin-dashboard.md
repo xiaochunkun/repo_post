@@ -7,3 +7,5 @@ image: assets/themesberg_flowbite_admin_dashboard_20260113_104239_051_20260113_1
 # [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard)
 
 Dashboard template with Tailwind CSS and Flowbite components
+
+采用 Tailwind CSS 和 Flowbite 组件的仪表板模板

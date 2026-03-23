@@ -7,3 +7,5 @@ image: assets/codicate_underclassmen_internships_20260106_083421_879_20260106_08
 # [codicate/underclassmen-internships](https://github.com/codicate/underclassmen-internships/)
 
 List of internships for freshmen and sophomores
+
+大一和大二学生的实习列表

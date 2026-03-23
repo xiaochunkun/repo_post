@@ -7,3 +7,5 @@ image: assets/lmarzen_esp32-weather-epd_cropped.png
 # [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd)
 
 ESP32 weather display using e-paper and OpenWeatherMap API
+
+使用电子纸和 OpenWeatherMap API 的 ESP32 天气显示器

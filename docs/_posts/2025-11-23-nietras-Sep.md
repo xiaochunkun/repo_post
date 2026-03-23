@@ -7,3 +7,5 @@ image: assets/nietras_Sep_20251122_200441_400_20251123_001506_afa6c4--20251123T0
 # [nietras/Sep](https://github.com/nietras/Sep/)
 
 Parses CSVs in .NET via SIMD
+
+通过SIMD在.NET中解析CSV

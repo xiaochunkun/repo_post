@@ -7,3 +7,5 @@ image: assets/cofob_autogenlib_cropped.png
 # [cofob/autogenlib](https://github.com/cofob/autogenlib)
 
 Python library that generates missing code modules on the fly using OpenAI
+
+使用 OpenAI 动态生成缺失代码模块的 Python 库

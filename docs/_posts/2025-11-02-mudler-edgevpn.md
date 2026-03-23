@@ -7,3 +7,5 @@ image: assets/mudler_edgevpn_20251031_062528_745_20251101_203507_d6c10a--2025110
 # [mudler/edgevpn](https://github.com/mudler/edgevpn/)
 
 Decentralized private network using libp2p
+
+使用 libp2p 的去中心化私有网络

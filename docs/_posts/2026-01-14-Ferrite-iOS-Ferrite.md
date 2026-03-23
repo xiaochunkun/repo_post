@@ -7,3 +7,5 @@ image: assets/Ferrite_iOS_Ferrite_20260112_115717_173_20260112_115737_4268a7.png
 # [Ferrite-iOS/Ferrite](https://github.com/Ferrite-iOS/Ferrite)
 
 Media search engine for iOS with debrid support
+
+支持 debrid 的 iOS 媒体搜索引擎

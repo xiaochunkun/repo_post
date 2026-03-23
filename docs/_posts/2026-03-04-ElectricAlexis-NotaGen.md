@@ -7,3 +7,5 @@ image: assets/ElectricAlexis_NotaGen_20260304_063326_807_20260304_063512_4527aa.
 # [ElectricAlexis/NotaGen](https://github.com/ElectricAlexis/NotaGen)
 
 Generates sheet music using language model training paradigms
+
+使用语言模型训练范式生成乐谱

@@ -7,3 +7,5 @@ image: assets/20250820T132528555_BlackGlory_copycat--20250820T135422865--cropped
 # [BlackGlory/copycat](https://github.com/BlackGlory/copycat)
 
 browser extension for copying web content in multiple formats
+
+浏览器扩展，支持多种格式复制网页内容

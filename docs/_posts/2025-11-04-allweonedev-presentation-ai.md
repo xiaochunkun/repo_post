@@ -7,3 +7,5 @@ image: assets/allweonedev_presentation_ai_20251102_225024_903_20251103_212006_d2
 # [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai/)
 
 Open-source AI presentation generator
+
+开源AI演示文稿生成器

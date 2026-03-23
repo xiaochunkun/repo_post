@@ -7,3 +7,5 @@ image: assets/20250822T030156297--openbao--openbao--20250822T033433358--cropped.
 # [openbao/openbao](https://github.com/openbao/openbao)
 
 OpenBao lets you securely manage, store, and control access to secrets, certificates, and keys using identity-based access
+
+OpenBao 基于身份的密钥、证书和访问控制管理平台

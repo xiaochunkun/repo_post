@@ -7,3 +7,5 @@ image: assets/CsoundQt_CsoundQt_20260128_153246_510_20260128_153341_0e980c.png
 # [CsoundQt/CsoundQt](https://github.com/CsoundQt/CsoundQt)
 
 Frontend for Csound with editor and widgets
+
+Csound前端，带编辑器和部件

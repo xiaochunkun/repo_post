@@ -7,3 +7,5 @@ image: assets/lihaoyun6_Logoer_20251123_102532_940_20251124_002603_09df8b--20251
 # [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer/)
 
 Customizes the macOS menu bar Apple logo
+
+自定义 macOS 菜单栏 Apple 徽标

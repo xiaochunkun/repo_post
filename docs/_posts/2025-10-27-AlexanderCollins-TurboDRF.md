@@ -7,3 +7,5 @@ image: assets/AlexanderCollins_TurboDRF_20251025_120420_866_20251025_224557_fc34
 # [AlexanderCollins/TurboDRF](https://github.com/AlexanderCollins/TurboDRF/)
 
 A Django REST Framework API generator with role-based permissions
+
+带有基于角色权限的Django REST Framework API生成器

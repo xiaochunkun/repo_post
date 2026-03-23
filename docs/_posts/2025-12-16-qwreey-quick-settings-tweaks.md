@@ -7,3 +7,5 @@ image: assets/qwreey_quick_settings_tweaks_20251213_124027_407_20251213_124052_e
 # [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks/)
 
 Customizes Gnome Quick Settings panel
+
+自定义Gnome快速设置面板

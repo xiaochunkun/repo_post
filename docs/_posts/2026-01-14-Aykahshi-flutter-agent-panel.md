@@ -7,3 +7,5 @@ image: assets/Aykahshi_flutter_agent_panel_20260113_215619_846_20260113_215636_7
 # [Aykahshi/flutter-agent-panel](https://github.com/Aykahshi/flutter-agent-panel)
 
 Terminal aggregator for AI agent management
+
+AI agent 管理的终端聚合器

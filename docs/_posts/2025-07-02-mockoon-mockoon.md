@@ -7,3 +7,5 @@ image: assets/mockoon_mockoon_cropped.png
 # [mockoon/mockoon](https://github.com/mockoon/mockoon)
 
 mock API servers for development and testing
+
+用于开发和测试的模拟API服务器

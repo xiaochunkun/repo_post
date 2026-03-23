@@ -7,3 +7,5 @@ image: assets/KilledByAPixel_ZzFX_20251201_023947_708_20251201_024201_df9dd4.png
 # [KilledByAPixel/ZzFX](https://github.com/KilledByAPixel/ZzFX/)
 
 Tiny sound generator under 1 kilobyte
+
+小于 1KB 的微型声音生成器

@@ -7,3 +7,5 @@ image: assets/2dogsandanerd_ClawRag_20260207_085925_298_20260207_085946_7984f3.p
 # [2dogsandanerd/ClawRag](https://github.com/2dogsandanerd/ClawRag)
 
 RAG engine for autonomous agents
+
+自主代理的 RAG 引擎

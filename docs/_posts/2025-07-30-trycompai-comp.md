@@ -7,3 +7,5 @@ image: assets/trycompai_comp_cropped.png
 # [trycompai/comp](https://github.com/trycompai/comp)
 
 open source compliance automation for SOC 2, GDPR, ISO 27001
+
+用于 SOC 2、GDPR、ISO 27001 的开源合规自动化工具

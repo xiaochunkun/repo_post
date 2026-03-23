@@ -7,3 +7,5 @@ image: assets/open_wanderer_wanderer_20260212_133911_975_20260212_133941_5f969b.
 # [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer)
 
 Self-hosted trail database for GPS data
+
+自托管 GPS 数据轨迹数据库

@@ -7,3 +7,5 @@ image: assets/coder_coder_cropped.png
 # [coder/coder](https://github.com/coder/coder)
 
 Remote development platform for running code servers in containers
+
+在容器中运行代码服务器的远程开发平台

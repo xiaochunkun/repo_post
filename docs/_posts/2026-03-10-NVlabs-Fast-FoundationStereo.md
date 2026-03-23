@@ -7,3 +7,5 @@ image: assets/NVlabs_Fast_FoundationStereo_20260303_115813_901_20260303_115955_0
 # [NVlabs/Fast-FoundationStereo](https://github.com/NVlabs/Fast-FoundationStereo)
 
 Zero-shot stereo matching at real-time frame rates
+
+实时帧率的零样本立体匹配

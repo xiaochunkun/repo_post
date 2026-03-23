@@ -7,3 +7,5 @@ image: assets/insaaniManav_prompt_forge_20260122_013418_377_20260122_013436_3cbb
 # [insaaniManav/prompt-forge](https://github.com/insaaniManav/prompt-forge)
 
 Workbench for testing and evaluating prompts
+
+用于测试和评估提示的工作台

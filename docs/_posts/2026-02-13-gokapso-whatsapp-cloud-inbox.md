@@ -7,3 +7,5 @@ image: assets/gokapso_whatsapp_cloud_inbox_20260209_010523_067_20260209_010546_5
 # [gokapso/whatsapp-cloud-inbox](https://github.com/gokapso/whatsapp-cloud-inbox)
 
 Next.js interface for WhatsApp Cloud API
+
+WhatsApp Cloud API 的 Next.js 界面

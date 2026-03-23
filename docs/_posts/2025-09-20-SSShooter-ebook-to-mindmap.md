@@ -7,3 +7,5 @@ image: assets/20250920T062045836--SSShooter--ebook-to-mindmap--20250920T06374954
 # [SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap)
 
 turn ebooks into mind maps and summaries with AI
+
+利用 AI 将电子书转换为思维导图和摘要

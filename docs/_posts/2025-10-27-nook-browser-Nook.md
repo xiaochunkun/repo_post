@@ -7,3 +7,5 @@ image: assets/nook_browser_Nook_20251025_122600_153_20251025_224945_bea0e2--2025
 # [nook-browser/Nook](https://github.com/nook-browser/Nook/)
 
 Browser for macOS with sidebar navigation
+
+带侧边栏导航的 macOS 浏览器

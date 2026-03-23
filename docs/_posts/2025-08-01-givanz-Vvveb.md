@@ -7,3 +7,5 @@ image: assets/givanz_Vvveb_cropped.png
 # [givanz/Vvveb](https://github.com/givanz/Vvveb)
 
 drag and drop website builder with cms and ecommerce
+
+拖放式网站构建器，支持CMS和电商功能

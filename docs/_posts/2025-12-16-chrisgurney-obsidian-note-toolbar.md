@@ -7,3 +7,5 @@ image: assets/chrisgurney_obsidian_note_toolbar_20251214_222715_915_20251214_222
 # [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar/)
 
 Context-aware toolbars for Obsidian notes
+
+Obsidian笔记的上下文感知工具栏

@@ -7,3 +7,5 @@ image: assets/docker_mailserver_docker_mailserver_20260213_051730_746_20260213_0
 # [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
 
 Mail server in a container without a database
+
+无数据库的容器化邮件服务器

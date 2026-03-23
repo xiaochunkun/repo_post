@@ -7,3 +7,5 @@ image: assets/DFin_Neural_Network_Visualisation_20251223_122252_943_20251223_122
 # [DFin/Neural-Network-Visualisation](https://github.com/DFin/Neural-Network-Visualisation/)
 
 Visualises neural network activations in 3D
+
+在 3D 中可视化神经网络激活

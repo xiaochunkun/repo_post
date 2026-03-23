@@ -7,3 +7,5 @@ image: assets/abarghoud_SentryGuard_20260114_081004_341_20260114_081018_e901a0.p
 # [abarghoud/SentryGuard](https://github.com/abarghoud/SentryGuard)
 
 Tesla security alerts via Telegram
+
+通过 Telegram 发送特斯拉安全警报

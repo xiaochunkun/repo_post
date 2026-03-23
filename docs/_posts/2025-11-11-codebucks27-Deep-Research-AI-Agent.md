@@ -7,3 +7,5 @@ image: assets/codebucks27_Deep_Research_AI_Agent_20251110_135220_574_20251110_14
 # [codebucks27/Deep-Research-AI-Agent](https://github.com/codebucks27/Deep-Research-AI-Agent/)
 
 AI agent for generating research reports
+
+生成研究报告的AI代理

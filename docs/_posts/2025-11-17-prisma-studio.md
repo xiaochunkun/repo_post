@@ -7,3 +7,5 @@ image: assets/prisma_studio_20251115_064144_188_20251117_034232_de7fe1--20251117
 # [prisma/studio](https://github.com/prisma/studio/)
 
 Visual editor for your database
+
+数据库的可视化编辑器

@@ -7,3 +7,5 @@ image: assets/20250930T035211108--HotCakeX--Harden-Windows-Security--20250930T04
 # [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
 
 PowerShell tools for applying and managing Windows security settings
+
+用于应用和管理Windows安全设置的PowerShell工具

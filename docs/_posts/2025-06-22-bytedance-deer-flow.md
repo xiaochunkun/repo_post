@@ -7,3 +7,5 @@ image: assets/bytedance_deer-flow_cropped.png
 # [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 
 deep research automation with language models, tools, web search, and Python execution
+
+使用语言模型、工具、网络搜索和Python执行的深度研究自动化

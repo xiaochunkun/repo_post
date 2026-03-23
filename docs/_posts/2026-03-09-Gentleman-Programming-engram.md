@@ -7,3 +7,5 @@ image: assets/Gentleman_Programming_engram_20260308_144642_855_20260308_145610_3
 # [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
 
 Gives AI coding agents persistent memory
+
+为AI编码代理提供持久记忆

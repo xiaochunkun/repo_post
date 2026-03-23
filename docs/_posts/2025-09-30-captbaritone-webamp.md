@@ -7,3 +7,5 @@ image: assets/20250930T033326069--captbaritone--webamp--20250930T034251591--crop
 # [captbaritone/webamp](https://github.com/captbaritone/webamp)
 
 Winamp 2 reimagined in your browser with full skin support
+
+在浏览器中重新构想的 Winamp 2，支持完整皮肤

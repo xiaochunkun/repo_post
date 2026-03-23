@@ -7,3 +7,5 @@ image: assets/z0ffy_vite_plugin_bundle_obfuscator_20251127_204204_930_20251130_0
 # [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator/)
 
 Obfuscates JavaScript bundles in Vite environments
+
+在Vite环境中混淆JavaScript包

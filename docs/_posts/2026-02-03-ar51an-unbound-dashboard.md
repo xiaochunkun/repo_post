@@ -7,3 +7,5 @@ image: assets/ar51an_unbound_dashboard_20260203_011449_521_20260203_011513_5d1e4
 # [ar51an/unbound-dashboard](https://github.com/ar51an/unbound-dashboard)
 
 Grafana dashboard for Unbound DNS metrics via Prometheus and Loki
+
+通过Prometheus和Loki监控Unbound DNS指标的Grafana仪表板

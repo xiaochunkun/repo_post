@@ -7,3 +7,5 @@ image: assets/johnjago_awesome_free_software_20260119_210037_822_20260119_210051
 # [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
 
 List of open-source software
+
+开源软件列表

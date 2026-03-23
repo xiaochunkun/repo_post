@@ -7,3 +7,5 @@ image: assets/davunt_app_eraser_20260120_225819_817_20260120_225847_a384bf.png
 # [davunt/app-eraser](https://github.com/davunt/app-eraser)
 
 Removes macOS applications and related files
+
+移除 macOS 应用程序及相关文件

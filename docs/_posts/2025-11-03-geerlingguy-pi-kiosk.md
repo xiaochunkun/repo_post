@@ -7,3 +7,5 @@ image: assets/geerlingguy_pi_kiosk_20251031_084727_269_20251102_154534_cc381c--2
 # [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk/)
 
 Browser kiosk for Raspberry Pi
+
+树莓派浏览器信息亭

@@ -7,3 +7,5 @@ image: assets/colanode_colanode_20260316_044329_046_20260316_044405_8c0d3a.png
 # [colanode/colanode](https://github.com/colanode/colanode)
 
 Self-hosted collaboration workspace with real-time chat
+
+自托管协作工作空间，支持实时聊天

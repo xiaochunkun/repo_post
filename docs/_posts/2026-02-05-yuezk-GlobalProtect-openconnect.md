@@ -7,3 +7,5 @@ image: assets/yuezk_GlobalProtect_openconnect_20260204_041841_067_20260204_04185
 # [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect)
 
 VPN client for Linux with SSO and MFA support
+
+支持SSO和MFA的Linux VPN客户端

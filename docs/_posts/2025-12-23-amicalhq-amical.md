@@ -7,3 +7,5 @@ image: assets/amicalhq_amical_20251221_225216_736_20251221_225234_e69485.png
 # [amicalhq/amical](https://github.com/amicalhq/amical/)
 
 Dictation and note-taking app with local speech-to-text
+
+带本地语音转文字的听写和笔记应用

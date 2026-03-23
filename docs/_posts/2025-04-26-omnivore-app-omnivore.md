@@ -7,3 +7,5 @@ image: assets/omnivore-app_omnivore_cropped.png
 # [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
 
 save articles to read later, open source tool for organizing reading
+
+开源工具，用于保存文章稍后阅读和组织阅读

@@ -7,3 +7,5 @@ image: assets/20250915T230951282--rust-embedded--awesome-embedded-rust--20250915
 # [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
 
 Curated list of Rust tools and crates for embedded systems
+
+精选的 Rust 工具和 crate 列表，适用于嵌入式系统

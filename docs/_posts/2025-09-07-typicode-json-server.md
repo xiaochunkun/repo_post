@@ -7,3 +7,5 @@ image: assets/20250822T015607717--typicode--json-server--20250906T223644124--cro
 # [typicode/json-server](https://github.com/typicode/json-server)
 
 mock REST API with a simple JSON file
+
+用简单 JSON 文件快速模拟 REST API

@@ -7,3 +7,5 @@ image: assets/RunanywhereAI_RCLI_20260308_190526_780_20260308_190646_c7afcf.png
 # [RunanywhereAI/RCLI](https://github.com/RunanywhereAI/RCLI)
 
 Voice AI and RAG for macOS on Apple Silicon
+
+Apple Silicon版macOS的语音AI和RAG工具

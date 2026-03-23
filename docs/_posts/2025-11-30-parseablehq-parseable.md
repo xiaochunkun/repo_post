@@ -7,3 +7,5 @@ image: assets/parseablehq_parseable_20251127_170024_514_20251129_023019_889374--
 # [parseablehq/parseable](https://github.com/parseablehq/parseable/)
 
 Full stack observability platform for telemetry data
+
+用于遥测数据的全栈可观测性平台

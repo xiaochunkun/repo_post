@@ -7,3 +7,5 @@ image: assets/Jon_Becker_prediction_market_analysis_20260301_011259_275_20260301
 # [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis)
 
 Framework for analyzing prediction market data from Polymarket and Kalshi
+
+分析 Polymarket 和 Kalshi 预测市场数据的框架

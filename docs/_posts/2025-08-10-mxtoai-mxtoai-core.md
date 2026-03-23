@@ -7,3 +7,5 @@ image: assets/mxtoai_mxtoai-core_cropped.png
 # [mxtoai/mxtoai-core](https://github.com/mxtoai/mxtoai-core)
 
 AI agent automates email workflows
+
+AI 代理自动执行电子邮件工作流

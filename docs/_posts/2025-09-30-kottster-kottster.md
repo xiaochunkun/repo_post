@@ -7,3 +7,5 @@ image: assets/20250930T031040633--kottster--kottster--20250930T032602425--croppe
 # [kottster/kottster](https://github.com/kottster/kottster)
 
 Node.js tool to quickly create and customize admin panels for your database
+
+Node.js 工具，用于快速为数据库创建和自定义管理面板

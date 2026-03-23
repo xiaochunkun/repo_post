@@ -7,3 +7,5 @@ image: assets/diegoholiveira_localports_20260204_042247_716_20260204_042310_718b
 # [diegoholiveira/localports](https://github.com/diegoholiveira/localports)
 
 Lists network ports and associated binaries
+
+列出网络端口及相关二进制文件

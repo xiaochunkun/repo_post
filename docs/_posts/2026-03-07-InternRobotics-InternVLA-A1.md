@@ -7,3 +7,5 @@ image: assets/InternRobotics_InternVLA_A1_20260305_144255_639_20260305_144421_e4
 # [InternRobotics/InternVLA-A1](https://github.com/InternRobotics/InternVLA-A1)
 
 Framework for robot manipulation using vision and language models
+
+使用视觉和语言模型的机器人操作框架

@@ -7,3 +7,5 @@ image: assets/NotSoSecure_NoPrompt_20251207_214432_567_20251207_214505_714f21.pn
 # [NotSoSecure/NoPrompt](https://github.com/NotSoSecure/NoPrompt/)
 
 Checks Microsoft Entra ID for password-only authentication
+
+检查Microsoft Entra ID是否仅使用密码认证

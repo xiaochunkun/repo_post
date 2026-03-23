@@ -7,3 +7,5 @@ image: assets/juliangarnier_anime_cropped.png
 # [juliangarnier/anime](https://github.com/juliangarnier/anime)
 
 JavaScript animation library for animating CSS, SVG, DOM attributes, and JS objects
+
+JavaScript动画库，用于动画CSS、SVG、DOM属性和JS对象

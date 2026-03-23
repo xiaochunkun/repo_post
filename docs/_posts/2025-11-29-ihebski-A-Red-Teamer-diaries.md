@@ -7,3 +7,5 @@ image: assets/ihebski_A_Red_Teamer_diaries_20251126_110742_373_20251129_022510_d
 # [ihebski/A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries/)
 
 Notes and experiments on pentesting and red teaming
+
+关于渗透测试和红队行动的笔记与实验

@@ -7,3 +7,5 @@ image: assets/nikoksr_notify_20251207_222712_053_20251207_222734_e10018.png
 # [nikoksr/notify](https://github.com/nikoksr/notify/)
 
 Go library for sending notifications to messaging services
+
+用于向消息服务发送通知的Go库

@@ -7,3 +7,5 @@ image: assets/SendWithSES_Drag_and_Drop_Email_Designer_20260121_232649_216_20260
 # [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
 
 Drag and drop editor for HTML email templates
+
+HTML电子邮件模板的拖放编辑器

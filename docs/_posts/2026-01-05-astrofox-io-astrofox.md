@@ -7,3 +7,5 @@ image: assets/astrofox_io_astrofox_20260103_174923_709_20260103_174939_6975a2.pn
 # [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox/)
 
 Converts audio into videos with motion graphics
+
+将音频转换为带动态图形的视频

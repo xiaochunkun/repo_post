@@ -7,3 +7,5 @@ image: assets/dialogic_godot_dialogic_20251126_104731_084_20251129_022345_c68271
 # [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic/)
 
 Creates dialogs and manages characters in Godot
+
+在Godot中创建对话和管理角色

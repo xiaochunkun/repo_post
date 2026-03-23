@@ -7,3 +7,5 @@ image: assets/Nutlope_pdftochat_20260119_205615_261_20260119_205628_bbe101.png
 # [Nutlope/pdftochat](https://github.com/Nutlope/pdftochat)
 
 Chat with PDFs using Together AI and Pinecone
+
+使用Together AI和Pinecone与PDF聊天

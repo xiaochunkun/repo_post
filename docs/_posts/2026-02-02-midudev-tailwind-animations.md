@@ -7,3 +7,5 @@ image: assets/midudev_tailwind_animations_20260201_061030_433_20260201_061107_03
 # [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)
 
 Animations with Tailwind CSS classes
+
+使用Tailwind CSS类实现动画效果

@@ -7,3 +7,5 @@ image: assets/johnlindquist_claude_hooks_20260321_113527_576_20260321_113609_ec2
 # [johnlindquist/claude-hooks](https://github.com/johnlindquist/claude-hooks)
 
 TypeScript hooks for Claude Code
+
+Claude Code的TypeScript钩子

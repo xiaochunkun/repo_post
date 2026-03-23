@@ -7,3 +7,5 @@ image: assets/JangaJones_pve_notebuddy_20260304_013815_130_20260304_013935_f402d
 # [JangaJones/pve-notebuddy](https://github.com/JangaJones/pve-notebuddy)
 
 Generates notes for Proxmox guests
+
+为Proxmox虚拟机生成笔记

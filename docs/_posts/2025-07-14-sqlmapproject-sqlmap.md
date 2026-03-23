@@ -7,3 +7,5 @@ image: assets/sqlmapproject_sqlmap_cropped.png
 # [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
 
 automates finding and exploiting SQL injection in databases
+
+自动查找和利用数据库中的 SQL 注入

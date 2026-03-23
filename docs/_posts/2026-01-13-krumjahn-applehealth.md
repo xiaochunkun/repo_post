@@ -7,3 +7,5 @@ image: assets/krumjahn_applehealth_20260112_174019_453_20260112_174033_e5ba4b.pn
 # [krumjahn/applehealth](https://github.com/krumjahn/applehealth)
 
 Analyzes Apple Health data with local LLMs
+
+使用本地LLM分析Apple Health数据

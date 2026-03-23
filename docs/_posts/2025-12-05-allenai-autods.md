@@ -7,3 +7,5 @@ image: assets/allenai_autods_20251202_213654_369_20251202_213717_6cf323.png
 # [allenai/autods](https://github.com/allenai/autods/)
 
 Open-ended scientific discovery via Bayesian surprise
+
+通过贝叶斯惊喜进行开放式科学发现

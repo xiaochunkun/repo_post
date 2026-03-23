@@ -7,3 +7,5 @@ image: assets/InvoiceShelf_InvoiceShelf_cropped.png
 # [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf)
 
 Open-source invoicing and expense tracking app
+
+开源发票和费用跟踪应用

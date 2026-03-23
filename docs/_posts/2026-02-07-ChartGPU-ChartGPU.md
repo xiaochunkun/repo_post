@@ -7,3 +7,5 @@ image: assets/ChartGPU_ChartGPU_20260202_061746_750_20260202_061837_675cd7.png
 # [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU)
 
 WebGPU charting library for datasets
+
+用于数据集的 WebGPU 图表库

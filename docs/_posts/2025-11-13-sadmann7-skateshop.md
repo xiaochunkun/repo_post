@@ -7,3 +7,5 @@ image: assets/sadmann7_skateshop_20251112_095405_637_20251113_184123_22986b--202
 # [sadmann7/skateshop](https://github.com/sadmann7/skateshop/)
 
 E-commerce skateshop built with Next.js and Drizzle ORM
+
+使用 Next.js 和 Drizzle ORM 构建的电子商务滑板店

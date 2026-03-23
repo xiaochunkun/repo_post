@@ -7,3 +7,5 @@ image: assets/Gsync_jobsync_20260313_235005_743_20260313_235219_e3de32.png
 # [Gsync/jobsync](https://github.com/Gsync/jobsync)
 
 Local job search tracker with AI resume review
+
+本地职位搜索跟踪器，带AI简历审查

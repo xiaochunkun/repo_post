@@ -7,3 +7,5 @@ image: assets/8bitbubsy_ft2_clone_20260306_014454_085_20260306_014634_5563ea.png
 # [8bitbubsy/ft2-clone](https://github.com/8bitbubsy/ft2-clone)
 
 Recreate Fasttracker II for modern systems
+
+为现代系统重建 Fasttracker II

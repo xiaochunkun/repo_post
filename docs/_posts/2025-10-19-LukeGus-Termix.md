@@ -7,3 +7,5 @@ image: assets/LukeGus_Termix_20251018_062030_169_20251019_193445--20251019T21344
 # [LukeGus/Termix](https://github.com/LukeGus/Termix/)
 
 Web-based server management with SSH and file editing
+
+基于 Web 的服务器管理，支持 SSH 和文件编辑

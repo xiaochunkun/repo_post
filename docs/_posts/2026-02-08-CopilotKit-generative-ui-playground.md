@@ -7,3 +7,5 @@ image: assets/CopilotKit_generative_ui_playground_20260207_185221_319_20260207_1
 # [CopilotKit/generative-ui-playground](https://github.com/CopilotKit/generative-ui-playground)
 
 Playground for building AI interfaces with three types of generative UI
+
+构建 AI 界面的游乐场，支持三种生成式 UI

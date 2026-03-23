@@ -7,3 +7,5 @@ image: assets/rough-stuff_rough-notation_cropped.png
 # [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation)
 
 hand-drawn style annotations for web pages with JavaScript
+
+使用JavaScript为网页添加手绘风格注释

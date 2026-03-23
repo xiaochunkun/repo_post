@@ -7,3 +7,5 @@ image: assets/aagarwal1012_Animated_Text_Kit_20260101_213313_347_20260101_213335
 # [aagarwal1012/Animated-Text-Kit](https://github.com/aagarwal1012/Animated-Text-Kit/)
 
 Collection of text animations for Flutter
+
+Flutter文本动画集合

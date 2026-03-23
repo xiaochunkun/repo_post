@@ -7,3 +7,5 @@ image: assets/mandiant_flare_vm_20260104_030751_390_20260104_030817_73bbd7.png
 # [mandiant/flare-vm](https://github.com/mandiant/flare-vm/)
 
 Scripts for reverse engineering environments on virtual machines
+
+虚拟机逆向工程环境脚本

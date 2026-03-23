@@ -7,3 +7,5 @@ image: assets/WordPress_agent_skills_20260309_083558_363_20260309_083826_72f95a.
 # [WordPress/agent-skills](https://github.com/WordPress/agent-skills)
 
 Bundles of WordPress knowledge for AI assistants
+
+AI 助手的 WordPress 知识包

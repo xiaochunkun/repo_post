@@ -7,3 +7,5 @@ image: assets/lajosdeme_watchtower_20260302_164739_652_20260302_164921_91d756.pn
 # [lajosdeme/watchtower](https://github.com/lajosdeme/watchtower)
 
 Terminal dashboard for global intelligence
+
+全球情报的终端仪表板

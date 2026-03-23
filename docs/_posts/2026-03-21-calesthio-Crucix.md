@@ -7,3 +7,5 @@ image: assets/calesthio_Crucix_20260321_060754_707_20260321_060859_41adb3.png
 # [calesthio/Crucix](https://github.com/calesthio/Crucix)
 
 Zero cloud intelligence terminal with 27 sources
+
+零云智能终端，支持27个来源

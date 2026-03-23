@@ -7,3 +7,5 @@ image: assets/20251013T000159413--wassim249--YT-Navigator--20251013T000951689--c
 # [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator)
 
 AI tool for searching and chatting with YouTube channel videos
+
+AI 工具，用于搜索 YouTube 频道视频并与之聊天

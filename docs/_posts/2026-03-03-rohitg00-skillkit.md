@@ -7,3 +7,5 @@ image: assets/rohitg00_skillkit_20260302_201117_860_20260302_201332_8ffbec.png
 # [rohitg00/skillkit](https://github.com/rohitg00/skillkit)
 
 Package manager for AI agent skills
+
+AI 代理技能的包管理器

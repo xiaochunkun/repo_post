@@ -7,3 +7,5 @@ image: assets/firecrawl_open_researcher_20251215_030718_030_20251215_030841_7d38
 # [firecrawl/open-researcher](https://github.com/firecrawl/open-researcher/)
 
 AI research assistant with real-time web scraping
+
+具备实时网页抓取功能的 AI 研究助手

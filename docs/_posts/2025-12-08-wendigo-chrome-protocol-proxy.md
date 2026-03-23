@@ -7,3 +7,5 @@ image: assets/wendigo_chrome_protocol_proxy_20251207_174533_571_20251207_174607_
 # [wendigo/chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy/)
 
 Reverse proxy for Chrome DevTools protocol
+
+Chrome DevTools协议的反向代理

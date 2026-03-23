@@ -7,3 +7,5 @@ image: assets/awcodes_filament_quick_create_20260130_185243_701_20260130_185328_
 # [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create)
 
 Dropdown menu for creating items in Filament Panels
+
+Filament Panels 中创建项目的下拉菜单

@@ -7,3 +7,5 @@ image: assets/20250822T014944011--axllent--mailpit--20250822T020318852--cropped.
 # [axllent/mailpit](https://github.com/axllent/mailpit)
 
 local email testing tool for developers
+
+开发者本地邮件测试工具

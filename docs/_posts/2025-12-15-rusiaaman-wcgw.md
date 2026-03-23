@@ -7,3 +7,5 @@ image: assets/rusiaaman_wcgw_20251213_063539_855_20251213_063708_71a670.png
 # [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/)
 
 Shell and coding agent for Claude and MCP clients
+
+用于Claude和MCP客户端的Shell和编码代理

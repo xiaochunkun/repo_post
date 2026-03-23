@@ -7,3 +7,5 @@ image: assets/boxlite_ai_boxlite_20260226_044158_015_20260226_044329_e02cdb.png
 # [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite)
 
 Micro-VM sandbox for AI agents
+
+AI代理的微虚拟机沙箱

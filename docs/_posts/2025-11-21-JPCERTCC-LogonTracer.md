@@ -7,3 +7,5 @@ image: assets/JPCERTCC_LogonTracer_20251121_075350_645_20251121_174142_75f43a--2
 # [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer/)
 
 Visualizes Windows Active Directory logons
+
+可视化 Windows Active Directory 登录

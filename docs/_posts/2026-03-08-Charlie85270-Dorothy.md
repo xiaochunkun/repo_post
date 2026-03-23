@@ -7,3 +7,5 @@ image: assets/Charlie85270_Dorothy_20260217_094850_943_20260217_094949_03b4ae.pn
 # [Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)
 
 Desktop app to orchestrate Claude Code agents
+
+用于编排 Claude Code 代理的桌面应用

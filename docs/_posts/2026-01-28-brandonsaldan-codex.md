@@ -7,3 +7,5 @@ image: assets/brandonsaldan_codex_20260127_232235_049_20260127_232311_ff3266.png
 # [brandonsaldan/codex](https://github.com/brandonsaldan/codex)
 
 Processes genetic data in the browser
+
+在浏览器中处理基因数据

@@ -7,3 +7,5 @@ image: assets/astriaai_headshots-starter_cropped.png
 # [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter)
 
 open-source template for building AI headshot apps
+
+用于构建 AI 头像应用的开源模板

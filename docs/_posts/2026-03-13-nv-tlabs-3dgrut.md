@@ -7,3 +7,5 @@ image: assets/nv_tlabs_3dgrut_20260214_012141_025_20260214_012231_68d935.png
 # [nv-tlabs/3dgrut](https://github.com/nv-tlabs/3dgrut)
 
 Ray tracing and rasterization of Gaussian particles
+
+高斯粒子的光线追踪和光栅化

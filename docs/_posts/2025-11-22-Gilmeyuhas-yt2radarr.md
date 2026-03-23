@@ -7,3 +7,5 @@ image: assets/Gilmeyuhas_yt2radarr_20251122_054245_451_20251122_111059_04b7e4--2
 # [Gilmeyuhas/yt2radarr](https://github.com/Gilmeyuhas/yt2radarr/)
 
 Imports YouTube videos into Radarr library
+
+将 YouTube 视频导入 Radarr 库

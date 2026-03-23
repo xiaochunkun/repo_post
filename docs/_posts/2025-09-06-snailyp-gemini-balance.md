@@ -7,3 +7,5 @@ image: assets/20250906T022827726--snailyp--gemini-balance--20250906T023041373--c
 # [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
 
 Gemini API proxy and load balancer with multi-key support
+
+Gemini API 代理和负载均衡器，支持多密钥

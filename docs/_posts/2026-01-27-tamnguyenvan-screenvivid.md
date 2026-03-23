@@ -7,3 +7,5 @@ image: assets/tamnguyenvan_screenvivid_20260126_145419_065_20260126_145525_92116
 # [tamnguyenvan/screenvivid](https://github.com/tamnguyenvan/screenvivid)
 
 Screen recorder with video enhancement tools
+
+带视频增强工具的屏幕录制器

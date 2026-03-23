@@ -7,3 +7,5 @@ image: assets/MarkEdit-app_MarkEdit_cropped.png
 # [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
 Markdown editor for Mac, saves plain text files, open source
+
+Mac 的 Markdown 编辑器，保存纯文本文件，开源

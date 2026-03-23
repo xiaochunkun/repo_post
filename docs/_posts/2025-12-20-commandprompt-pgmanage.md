@@ -7,3 +7,5 @@ image: assets/commandprompt_pgmanage_20251218_083936_574_20251218_083953_24c591.
 # [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage/)
 
 Database management tool for Postgres and other systems
+
+适用于 Postgres 和其他系统的数据库管理工具

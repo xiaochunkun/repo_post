@@ -7,3 +7,5 @@ image: assets/20251003T232510376--breuleux--ovld--20251003T232810049--cropped.pn
 # [breuleux/ovld](https://github.com/breuleux/ovld)
 
 Multiple dispatch for Python functions with type and value-based overloading
+
+Python函数的多重分派，支持基于类型和值的重载

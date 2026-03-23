@@ -7,3 +7,5 @@ image: assets/JerBouma_FinanceToolkit_20251111_024536_158_20251111_145124_8b81d4
 # [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit/)
 
 Open-source toolkit for transparent financial analysis
+
+用于透明财务分析的开源工具包

@@ -7,3 +7,5 @@ image: assets/HeyPuter_puter_20260209_141533_819_20260209_141617_a4299e.png
 # [HeyPuter/puter](https://github.com/HeyPuter/puter)
 
 Internet operating system in the browser
+
+浏览器中的互联网操作系统

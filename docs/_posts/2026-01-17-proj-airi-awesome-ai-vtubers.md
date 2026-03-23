@@ -7,3 +7,5 @@ image: assets/proj_airi_awesome_ai_vtubers_20260117_030702_574_20260117_030726_b
 # [proj-airi/awesome-ai-vtubers](https://github.com/proj-airi/awesome-ai-vtubers)
 
 List of open source AI VTuber projects
+
+开源AI VTuber项目列表

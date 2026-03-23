@@ -7,3 +7,5 @@ image: assets/sakethakella_Savior_of_the_Louvre_20260314_224454_649_20260314_224
 # [sakethakella/Savior-of-the-Louvre](https://github.com/sakethakella/Savior-of-the-Louvre)
 
 Simulates thieves versus police pursuit on dynamic graphs
+
+在动态图上模拟盗贼与警察的追逐

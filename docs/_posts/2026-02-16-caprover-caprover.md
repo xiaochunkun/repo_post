@@ -7,3 +7,5 @@ image: assets/caprover_caprover_20260209_172359_176_20260209_172420_9d5c90.png
 # [caprover/caprover](https://github.com/caprover/caprover)
 
 Deployment platform for applications and databases
+
+应用程序和数据库部署平台

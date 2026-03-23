@@ -7,3 +7,5 @@ image: assets/nextify_limited_libra_20260206_012803_590_20260206_012820_fe57e9.p
 # [nextify-limited/libra](https://github.com/nextify-limited/libra)
 
 Open source alternative to V0 and Lovable
+
+V0 和 Lovable 的开源替代品

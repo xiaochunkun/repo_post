@@ -7,3 +7,5 @@ image: assets/superiorlu_AITreasureBox_20251222_215055_736_20251223_014550_d32da
 # [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox/)
 
 Collection of AI repositories and tools
+
+AI仓库和工具集合

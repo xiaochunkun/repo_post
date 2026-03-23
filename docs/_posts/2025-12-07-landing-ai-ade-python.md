@@ -7,3 +7,5 @@ image: assets/landing_ai_ade_python_20251204_231304_665_20251204_231410_e6a189.p
 # [landing-ai/ade-python](https://github.com/landing-ai/ade-python/)
 
 Python library for agentic document extraction
+
+用于代理文档提取的Python库

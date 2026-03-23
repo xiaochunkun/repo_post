@@ -7,3 +7,5 @@ image: assets/FoundationAgents_OpenManus_20260223_183736_593_20260223_183802_1e0
 # [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
 
 AI agent without invite codes
+
+无需邀请码的AI智能体

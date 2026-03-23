@@ -7,3 +7,5 @@ image: assets/ollama_ollama_cropped.png
 # [ollama/ollama](https://github.com/ollama/ollama)
 
 Run large language models locally, manage and interact with different model types
+
+本地运行大语言模型，管理和交互不同模型类型

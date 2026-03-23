@@ -7,3 +7,5 @@ image: assets/groq_groq-desktop-beta_cropped.png
 # [groq/groq-desktop-beta](https://github.com/groq/groq-desktop-beta)
 
 Groq Desktop Beta local chat app with MCP server features
+
+具有 MCP 服务器功能的 Groq Desktop Beta 本地聊天应用

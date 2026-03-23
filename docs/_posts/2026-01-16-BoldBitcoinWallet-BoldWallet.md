@@ -7,3 +7,5 @@ image: assets/BoldBitcoinWallet_BoldWallet_20260115_203012_625_20260115_203030_f
 # [BoldBitcoinWallet/BoldWallet](https://github.com/BoldBitcoinWallet/BoldWallet)
 
 Bitcoin wallet using threshold signatures
+
+使用阈值签名的比特币钱包

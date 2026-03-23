@@ -7,3 +7,5 @@ image: assets/Lodestone_Team_lodestone_20251114_050342_178_20251114_162306_28ae8
 # [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone/)
 
 Open source server hosting tool for Minecraft
+
+Minecraft的开源服务器托管工具

@@ -7,3 +7,5 @@ image: assets/BLeeEZ_amperfy_20251105_003158_235_20251105_013809_420388--2025110
 # [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy/)
 
 iOS/iPadOS/macOS music player for Ampache or Subsonic servers
+
+适用于Ampache或Subsonic服务器的iOS/iPadOS/macOS音乐播放器

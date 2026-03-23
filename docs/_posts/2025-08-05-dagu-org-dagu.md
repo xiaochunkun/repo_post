@@ -7,3 +7,5 @@ image: assets/dagu-org_dagu_cropped.png
 # [dagu-org/dagu](https://github.com/dagu-org/dagu)
 
 schedule and run workflows with a web UI
+
+通过 Web 界面调度和运行工作流

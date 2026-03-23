@@ -7,3 +7,5 @@ image: assets/amir1376_ab_download_manager_browser_integration_20260101_153524_9
 # [amir1376/ab-download-manager-browser-integration](https://github.com/amir1376/ab-download-manager-browser-integration/)
 
 Captures download links from browsers
+
+从浏览器捕获下载链接

@@ -7,3 +7,5 @@ image: assets/Spr-Aachen_Easy-Voice-Toolkit_cropped.png
 # [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
 
 AI toolkit for speech recognition, transcription, and voice conversion
+
+用于语音识别、转录和语音转换的 AI 工具包

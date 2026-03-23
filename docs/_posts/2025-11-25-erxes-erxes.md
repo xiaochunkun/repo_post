@@ -7,3 +7,5 @@ image: assets/erxes_erxes_20251123_195127_686_20251125_012543_2268c5--20251125T0
 # [erxes/erxes](https://github.com/erxes/erxes/)
 
 Open source alternative to HubSpot and Zendesk
+
+HubSpot 和 Zendesk 的开源替代品

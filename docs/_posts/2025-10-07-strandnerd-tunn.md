@@ -7,3 +7,5 @@ image: assets/20251007T025831317--strandnerd--tunn--20251007T030724276--cropped.
 # [strandnerd/tunn](https://github.com/strandnerd/tunn)
 
 manage multiple ssh tunnels with simple yaml config
+
+使用简单的 YAML 配置管理多个 SSH 隧道

@@ -7,3 +7,5 @@ image: assets/nxtrace_NTrace_core_20260204_043756_642_20260204_043823_9a49cf.png
 # [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core)
 
 Visual route tracking tool in Golang
+
+Golang 中的可视化路由追踪工具

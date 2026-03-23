@@ -7,3 +7,5 @@ image: assets/dialogic_godot_dialogic_20260206_025933_433_20260206_025951_15393c
 # [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic)
 
 Creates dialogs and visual novels in Godot
+
+在 Godot 中创建对话和视觉小说

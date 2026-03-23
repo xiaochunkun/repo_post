@@ -7,3 +7,5 @@ image: assets/vxcontrol_pentagi_20260217_135116_537_20260217_135232_c4e48c.png
 # [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
 Autonomous agent for penetration testing
+
+渗透测试的自主代理

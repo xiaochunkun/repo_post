@@ -7,3 +7,5 @@ image: assets/hans_lizihan_bull_master_20260112_040702_612_20260112_040720_d6e86
 # [hans-lizihan/bull-master](https://github.com/hans-lizihan/bull-master)
 
 Dashboard for Bull and BullMQ queues
+
+Bull 和 BullMQ 队列的仪表板

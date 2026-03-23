@@ -7,3 +7,5 @@ image: assets/20250911T014704309--Arcenox-co--TickerQ--20250911T015721435--cropp
 # [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
 
 background task scheduler for .NET with cron, EF Core, dashboard, and distributed support
+
+.NET 后台任务调度器，支持 cron、EF Core、仪表盘和分布式

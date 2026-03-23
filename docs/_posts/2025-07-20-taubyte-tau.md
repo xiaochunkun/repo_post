@@ -7,3 +7,5 @@ image: assets/taubyte_tau_cropped.png
 # [taubyte/tau](https://github.com/taubyte/tau)
 
 open source platform for building your own cloud
+
+用于构建自有云的开源平台

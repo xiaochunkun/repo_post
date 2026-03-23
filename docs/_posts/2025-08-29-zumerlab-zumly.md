@@ -7,3 +7,5 @@ image: assets/20250829T035542771--zumerlab--zumly--20250829T040143951--cropped.p
 # [zumerlab/zumly](https://github.com/zumerlab/zumly)
 
 Javascript library for building zoomable user interfaces
+
+构建可缩放用户界面的 JavaScript 库

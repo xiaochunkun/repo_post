@@ -7,3 +7,5 @@ image: assets/carlmontanari_scrapli_20260128_180548_654_20260128_180630_aa2eac.p
 # [carlmontanari/scrapli](https://github.com/carlmontanari/scrapli)
 
 Connects to network devices via Telnet or SSH
+
+通过Telnet或SSH连接网络设备

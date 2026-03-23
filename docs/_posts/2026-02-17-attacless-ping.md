@@ -7,3 +7,5 @@ image: assets/attacless_ping_20260217_004107_918_20260217_004204_07a391.png
 # [attacless/ping](https://github.com/attacless/ping)
 
 Messenger with encryption over Nostr
+
+基于Nostr的加密通讯工具

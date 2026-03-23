@@ -7,3 +7,5 @@ image: assets/hristo2612_SQLNoir_cropped.png
 # [hristo2612/SQLNoir](https://github.com/hristo2612/SQLNoir)
 
 Solve crimes with SQL queries
+
+使用 SQL 查询解决犯罪

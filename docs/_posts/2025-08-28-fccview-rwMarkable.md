@@ -7,3 +7,5 @@ image: assets/20250827T221917665--fccview--rwMarkable--20250827T223040320--cropp
 # [fccview/rwMarkable](https://github.com/fccview/rwMarkable)
 
 self-hosted checklists and notes app, markdown, themes, no database
+
+自托管清单和笔记应用，Markdown 格式，多主题，无需数据库

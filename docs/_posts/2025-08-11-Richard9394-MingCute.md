@@ -7,3 +7,5 @@ image: assets/Richard9394_MingCute_cropped.png
 # [Richard9394/MingCute](https://github.com/Richard9394/MingCute)
 
 open source icon library for web and mobile projects
+
+用于Web和移动项目的开源图标库

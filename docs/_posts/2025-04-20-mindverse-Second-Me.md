@@ -7,3 +7,5 @@ image: assets/mindverse_Second-Me_cropped.png
 # [mindverse/Second-Me](https://github.com/mindverse/Second-Me)
 
 Create and train your own AI that acts as your digital self, running locally and connecting with others through a decentralized network
+
+创建和训练自己的AI，作为数字自我，本地运行并通过去中心化网络连接他人

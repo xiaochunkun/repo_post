@@ -7,3 +7,5 @@ image: assets/20250825T013436293--webrtc-sdk--libwebrtc--20250830T032617314--cro
 # [webrtc-sdk/libwebrtc](https://github.com/webrtc-sdk/libwebrtc)
 
 C++ wrapper for WebRTC, used in flutter-webrtc desktop apps
+
+WebRTC 的 C++ 封装库，用于 flutter-webrtc 桌面应用

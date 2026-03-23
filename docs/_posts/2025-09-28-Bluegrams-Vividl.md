@@ -7,3 +7,5 @@ image: assets/20250928T053749459--Bluegrams--Vividl--20250928T054957600--cropped
 # [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl)
 
 Download videos from YouTube and other sites to your PC, convert formats, extract audio, batch downloads
+
+从YouTube和其他网站下载视频到PC，支持格式转换、音频提取和批量下载

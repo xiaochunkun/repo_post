@@ -7,3 +7,5 @@ image: assets/alyssaxuu_animockup_20251029_205442_915_20251029_213211_8f5195--20
 # [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup/)
 
 Create animated mockups for product teasers
+
+为产品预告创建动画原型

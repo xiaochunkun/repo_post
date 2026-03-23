@@ -7,3 +7,5 @@ image: assets/cloudlena_s3manager_20251111_025223_405_20251111_145152_6ed27a--20
 # [cloudlena/s3manager](https://github.com/cloudlena/s3manager/)
 
 Web GUI in Go to manage S3 buckets
+
+用Go编写的管理S3桶的Web GUI

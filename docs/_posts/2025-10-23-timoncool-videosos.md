@@ -7,3 +7,5 @@ image: assets/timoncool_videosos_20251023_195221_356_20251023_195742_e81e87--202
 # [timoncool/videosos](https://github.com/timoncool/videosos/)
 
 AI video editor in the browser
+
+浏览器中的AI视频编辑器

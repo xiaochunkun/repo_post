@@ -7,3 +7,5 @@ image: assets/qodo_ai_open_aware_20251106_164537_638_20251106_174614_4b434b--202
 # [qodo-ai/open-aware](https://github.com/qodo-ai/open-aware/)
 
 Brings code intelligence to an AI assistant
+
+为AI助手带来代码智能

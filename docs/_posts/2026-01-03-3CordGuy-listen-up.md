@@ -7,3 +7,5 @@ image: assets/3CordGuy_listen_up_20260102_030219_560_20260102_030238_e9dfec.png
 # [3CordGuy/listen-up](https://github.com/3CordGuy/listen-up/)
 
 Displays webhook requests in realtime
+
+实时显示webhook请求

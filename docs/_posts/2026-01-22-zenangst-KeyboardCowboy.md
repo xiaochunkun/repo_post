@@ -7,3 +7,5 @@ image: assets/zenangst_KeyboardCowboy_20260122_000331_302_20260122_000348_fc19bc
 # [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy)
 
 Automates macOS workflows through keyboard shortcuts and triggers
+
+通过键盘快捷键和触发器自动化macOS工作流

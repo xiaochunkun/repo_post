@@ -7,3 +7,5 @@ image: assets/raghavpillai_branchlet_20251210_035330_290_20251210_035351_794571.
 # [raghavpillai/branchlet](https://github.com/raghavpillai/branchlet/)
 
 Interactive CLI tool for managing Git worktrees
+
+用于管理 Git worktrees 的交互式 CLI 工具

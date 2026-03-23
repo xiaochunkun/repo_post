@@ -7,3 +7,5 @@ image: assets/sissbruecker_linkding_cropped.png
 # [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
 
 self-hosted bookmark manager for organizing and sharing links
+
+自托管书签管理器，用于组织和分享链接

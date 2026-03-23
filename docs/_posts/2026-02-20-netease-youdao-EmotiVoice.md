@@ -7,3 +7,5 @@ image: assets/netease_youdao_EmotiVoice_20260203_020837_752_20260203_020943_292a
 # [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
 
 TTS engine with emotion synthesis and prompt control
+
+支持情感合成和提示控制的 TTS 引擎

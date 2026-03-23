@@ -7,3 +7,5 @@ image: assets/fecommunity_reactpress_20260111_144920_776_20260111_144934_a72730.
 # [fecommunity/reactpress](https://github.com/fecommunity/reactpress)
 
 Publishing platform with a backend for multiple frontends
+
+支持多前端的发布平台后端

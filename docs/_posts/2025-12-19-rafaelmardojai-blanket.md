@@ -7,3 +7,5 @@ image: assets/rafaelmardojai_blanket_20251217_235413_502_20251217_235430_d6bcd4.
 # [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket/)
 
 Plays ambient sounds to improve focus
+
+播放环境音以提高专注力

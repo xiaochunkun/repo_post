@@ -7,3 +7,5 @@ image: assets/20250823T014938033--mendel5--alternative-front-ends--20250829T0311
 # [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
 
 list of open source privacy-friendly frontends for popular sites
+
+热门网站的开源隐私前端替代方案列表

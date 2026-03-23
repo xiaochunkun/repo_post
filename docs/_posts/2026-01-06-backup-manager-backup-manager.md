@@ -7,3 +7,5 @@ image: assets/backup_manager_backup_manager_20260105_054924_816_20260105_054940_
 # [backup-manager/backup-manager](https://github.com/backup-manager/backup-manager/)
 
 Dumps and restores databases to cloud storage
+
+将数据库转储和恢复到云存储

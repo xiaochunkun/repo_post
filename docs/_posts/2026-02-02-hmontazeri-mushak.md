@@ -7,3 +7,5 @@ image: assets/hmontazeri_mushak_20260111_152208_228_20260111_152221_61ac77.png
 # [hmontazeri/mushak](https://github.com/hmontazeri/mushak)
 
 Deploys Docker applications to Linux servers via git push
+
+通过git push将Docker应用部署到Linux服务器

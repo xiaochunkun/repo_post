@@ -7,3 +7,5 @@ image: assets/keeweb_keeweb_20251208_011135_413_20251208_011159_4b6514.png
 # [keeweb/keeweb](https://github.com/keeweb/keeweb/)
 
 Browser and desktop password manager compatible with KeePass
+
+与 KeePass 兼容的浏览器和桌面密码管理器

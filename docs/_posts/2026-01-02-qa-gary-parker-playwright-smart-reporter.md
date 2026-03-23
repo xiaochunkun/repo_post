@@ -7,3 +7,5 @@ image: assets/qa_gary_parker_playwright_smart_reporter_20260101_092727_353_20260
 # [qa-gary-parker/playwright-smart-reporter](https://github.com/qa-gary-parker/playwright-smart-reporter/)
 
 HTML reporter with AI failure analysis and flakiness detection
+
+带有 AI 失败分析和不稳定性检测的 HTML 报告器

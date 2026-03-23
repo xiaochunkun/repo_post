@@ -7,3 +7,5 @@ image: assets/20250930T030951403--chunrapeepat--inscribed--20250930T031655882--c
 # [chunrapeepat/inscribed](https://github.com/chunrapeepat/inscribed)
 
 create stop motion animations and slides with drawing and export features
+
+创建定格动画和幻灯片，具备绘图和导出功能

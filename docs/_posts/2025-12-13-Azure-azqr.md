@@ -7,3 +7,5 @@ image: assets/Azure_azqr_20251210_015613_483_20251210_015706_36d2a8.png
 # [Azure/azqr](https://github.com/Azure/azqr/)
 
 CLI tool analyzes Azure resources for compliance
+
+CLI 工具分析 Azure 资源合规性

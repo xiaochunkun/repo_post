@@ -7,3 +7,5 @@ image: assets/samkhawase_kindle_dash_client_20251225_164456_038_20251225_164524_
 # [samkhawase/kindle-dash-client](https://github.com/samkhawase/kindle-dash-client/)
 
 Turns jailbroken Kindle into dashboard display
+
+将越狱 Kindle 转换为仪表盘显示器

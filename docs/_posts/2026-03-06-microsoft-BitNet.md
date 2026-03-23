@@ -7,3 +7,5 @@ image: assets/microsoft_BitNet_20260210_065543_624_20260210_065600_55001a.png
 # [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
 Inference framework for 1-bit LLMs
+
+1-bit LLM 的推理框架

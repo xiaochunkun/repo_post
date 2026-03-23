@@ -7,3 +7,5 @@ image: assets/community_scripts_ProxmoxVE_20260122_004426_145_20260122_004442_0b
 # [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
 
 Automates Proxmox VE setup with scripts
+
+使用脚本自动化 Proxmox VE 设置

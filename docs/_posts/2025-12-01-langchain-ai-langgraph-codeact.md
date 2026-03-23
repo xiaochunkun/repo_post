@@ -7,3 +7,5 @@ image: assets/langchain_ai_langgraph_codeact_20251130_072809_927_20251130_085246
 # [langchain-ai/langgraph-codeact](https://github.com/langchain-ai/langgraph-codeact/)
 
 Implements CodeAct architecture in LangGraph
+
+在LangGraph中实现CodeAct架构

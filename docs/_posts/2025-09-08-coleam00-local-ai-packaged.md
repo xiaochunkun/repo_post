@@ -7,3 +7,5 @@ image: assets/20250908T093929053--coleam00--local-ai-packaged--20250908T09411953
 # [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged)
 
 self-hosted AI stack with n8n, Ollama, Supabase, Open WebUI, more
+
+自托管 AI 技术栈，集成 n8n、Ollama、Supabase、Open WebUI 等

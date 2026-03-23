@@ -7,3 +7,5 @@ image: assets/kizuna_ai_lab_sokuji_20260203_021959_784_20260203_022023_b1ff2d.pn
 # [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji)
 
 Translates speech in real-time using AI
+
+使用AI实时翻译语音

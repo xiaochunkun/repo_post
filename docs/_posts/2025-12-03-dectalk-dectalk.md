@@ -7,3 +7,5 @@ image: assets/dectalk_dectalk_20251201_073127_949_20251201_073155_20a82c.png
 # [dectalk/dectalk](https://github.com/dectalk/dectalk/)
 
 Modern builds for 90s text-to-speech application
+
+90 年代文本转语音应用的现代构建版本

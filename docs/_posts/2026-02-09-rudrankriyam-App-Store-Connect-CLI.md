@@ -7,3 +7,5 @@ image: assets/rudrankriyam_App_Store_Connect_CLI_20260205_162818_798_20260205_16
 # [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)
 
 Automates iOS app workflows from the terminal
+
+从终端自动化iOS应用工作流程

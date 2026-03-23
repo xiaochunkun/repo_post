@@ -7,3 +7,5 @@ image: assets/blaiszik_awesome-matchem-datasets_cropped.png
 # [blaiszik/awesome-matchem-datasets](https://github.com/blaiszik/awesome-matchem-datasets)
 
 Curated list of open datasets for materials science and chemistry
+
+材料科学与化学领域的精选开源数据集列表

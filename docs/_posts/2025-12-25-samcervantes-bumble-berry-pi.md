@@ -7,3 +7,5 @@ image: assets/samcervantes_bumble_berry_pi_20251223_213156_758_20251223_213218_d
 # [samcervantes/bumble-berry-pi](https://github.com/samcervantes/bumble-berry-pi/)
 
 Raspberry Pi cyberdeck in a pocket
+
+口袋型 Raspberry Pi 网络终端

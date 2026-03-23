@@ -7,3 +7,5 @@ image: assets/umami-software_umami_cropped.png
 # [umami-software/umami](https://github.com/umami-software/umami)
 
 privacy-focused website analytics, open source, simple dashboard
+
+注重隐私的网站分析，开源，简单仪表板

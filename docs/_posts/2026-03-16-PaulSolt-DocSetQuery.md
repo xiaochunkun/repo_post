@@ -7,3 +7,5 @@ image: assets/PaulSolt_DocSetQuery_20260316_132324_047_20260316_132338_53d557.pn
 # [PaulSolt/DocSetQuery](https://github.com/PaulSolt/DocSetQuery)
 
 Apple documentation extraction and search
+
+Apple 文档提取与搜索工具

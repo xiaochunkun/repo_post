@@ -7,3 +7,5 @@ image: assets/redis_developer_redis_ai_resources_20251123_190924_105_20251124_18
 # [redis-developer/redis-ai-resources](https://github.com/redis-developer/redis-ai-resources/)
 
 Recipes for vector search and RAG
+
+向量搜索和 RAG 的配方库

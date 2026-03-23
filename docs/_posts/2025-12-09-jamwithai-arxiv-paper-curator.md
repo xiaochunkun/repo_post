@@ -7,3 +7,5 @@ image: assets/jamwithai_arxiv_paper_curator_20251207_215329_664_20251207_215355_
 # [jamwithai/arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator/)
 
 Builds production RAG systems for arXiv papers
+
+为arXiv论文构建生产级RAG系统

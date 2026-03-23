@@ -7,3 +7,5 @@ image: assets/Tanq16_ai_context_20260315_012945_834_20260315_013044_31b307.png
 # [Tanq16/ai-context](https://github.com/Tanq16/ai-context)
 
 Generates context files from code and videos
+
+从代码和视频生成上下文文件

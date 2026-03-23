@@ -7,3 +7,5 @@ image: assets/Z4nzu_hackingtool_cropped.png
 # [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
 
 all-in-one ethical hacking toolkit for pentesters
+
+渗透测试人员的一体化道德黑客工具包

@@ -7,3 +7,5 @@ image: assets/alyssaxuu_carden_20251027_192622_531_20251028_091619_c1e81b--20251
 # [alyssaxuu/carden](https://github.com/alyssaxuu/carden/)
 
 Chrome extension to turn web content into flashcards
+
+将网页内容转换为闪卡的 Chrome 扩展

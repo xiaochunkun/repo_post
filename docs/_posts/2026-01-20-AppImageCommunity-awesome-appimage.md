@@ -7,3 +7,5 @@ image: assets/AppImageCommunity_awesome_appimage_20260112_103706_511_20260112_10
 # [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage)
 
 Curated list of tools and resources for the AppImage format
+
+AppImage格式的工具和资源精选列表

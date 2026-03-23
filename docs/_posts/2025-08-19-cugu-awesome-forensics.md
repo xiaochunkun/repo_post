@@ -7,3 +7,5 @@ image: assets/20250818T115808646_cugu_awesome-forensics--20250818T120050250--cro
 # [cugu/awesome-forensics](https://github.com/cugu/awesome-forensics)
 
 curated list of free digital forensics tools and resources
+
+免费数字取证工具和资源的精选列表

@@ -7,3 +7,5 @@ image: assets/huggingface_cookbook_20251114_215840_285_20251115_201819_8cdbf1--2
 # [huggingface/cookbook](https://github.com/huggingface/cookbook/)
 
 Community-driven examples of building AI applications
+
+社区驱动的 AI 应用构建示例

@@ -7,3 +7,5 @@ image: assets/QuantConnect_Lean_20260103_201250_265_20260103_201316_8a423d.png
 # [QuantConnect/Lean](https://github.com/QuantConnect/Lean/)
 
 Algorithmic trading engine for backtesting and live trading
+
+回测和实时交易的算法交易引擎

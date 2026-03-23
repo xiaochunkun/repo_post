@@ -7,3 +7,5 @@ image: assets/buildfastwithai_gen_ai_experiments_20260210_220310_889_20260210_22
 # [buildfastwithai/gen-ai-experiments](https://github.com/buildfastwithai/gen-ai-experiments)
 
 Collection of 130 AI applications and agents
+
+130个AI应用和代理的集合

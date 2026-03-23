@@ -7,3 +7,5 @@ image: assets/jimbrig_KaaS_20260210_180621_190_20260210_180644_8cb974.png
 # [jimbrig/KaaS](https://github.com/jimbrig/KaaS)
 
 Zettelkasten knowledge base in a digital garden
+
+数字花园中的 Zettelkasten 知识库

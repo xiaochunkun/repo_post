@@ -7,3 +7,5 @@ image: assets/Tim_Maes_Facet_20251123_171615_573_20251124_094750_b28617--2025112
 # [Tim-Maes/Facet](https://github.com/Tim-Maes/Facet/)
 
 Generates DTOs and mappings at compile time
+
+在编译时生成 DTO 和映射

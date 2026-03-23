@@ -7,3 +7,5 @@ image: assets/bjesus_pipet_cropped.png
 # [bjesus/pipet](https://github.com/bjesus/pipet)
 
 Swiss-army tool for scraping and extracting data from online assets
+
+从在线资产抓取和提取数据的瑞士军刀工具

@@ -7,3 +7,5 @@ image: assets/20250925T050030631--chrieke--prettymapp--20250925T053709560--cropp
 # [chrieke/prettymapp](https://github.com/chrieke/prettymapp)
 
 generate custom maps from OpenStreetMap data with a web app or Python
+
+通过Web应用或Python从OpenStreetMap数据生成自定义地图

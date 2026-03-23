@@ -7,3 +7,5 @@ image: assets/hewliyang_office_agents_20260316_050231_490_20260316_050307_a1ba48
 # [hewliyang/office-agents](https://github.com/hewliyang/office-agents)
 
 Office add-ins with AI chat panels
+
+集成 AI 聊天面板的 Office 插件

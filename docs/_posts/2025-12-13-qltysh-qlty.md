@@ -7,3 +7,5 @@ image: assets/qltysh_qlty_20251210_021038_509_20251210_021107_c3743b.png
 # [qltysh/qlty](https://github.com/qltysh/qlty/)
 
 Universal linting and security scanning for 40+ languages
+
+支持 40 多种语言的通用代码检查和安全扫描

@@ -7,3 +7,5 @@ image: assets/coleam00_context_engineering_intro_20260225_024418_547_20260225_02
 # [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
 
 Framework for engineering context for AI coding assistants
+
+为AI编码助手设计上下文的框架

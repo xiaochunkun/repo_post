@@ -7,3 +7,5 @@ image: assets/20251005T100622940--huggingface--screenenv--20251005T101432467--cr
 # [huggingface/screenenv](https://github.com/huggingface/screenenv)
 
 Python tool for automating and testing desktop environments in Docker
+
+Python工具，用于在Docker中自动化和测试桌面环境

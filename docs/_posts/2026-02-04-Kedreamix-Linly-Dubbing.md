@@ -7,3 +7,5 @@ image: assets/Kedreamix_Linly_Dubbing_20260203_195925_047_20260203_195957_d59ab8
 # [Kedreamix/Linly-Dubbing](https://github.com/Kedreamix/Linly-Dubbing)
 
 Dubs and translates videos with lip-sync technology
+
+使用唇形同步技术配音和翻译视频

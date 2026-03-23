@@ -7,3 +7,5 @@ image: assets/20250825T024119179--triggerdotdev--jsonhero-web--20250825T02501457
 # [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web)
 
 visual JSON explorer and viewer for web and devs
+
+可视化 JSON 浏览器和查看器

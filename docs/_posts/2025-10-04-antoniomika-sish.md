@@ -7,3 +7,5 @@ image: assets/20251003T232456882--antoniomika--sish--20251003T232747479--cropped
 # [antoniomika/sish](https://github.com/antoniomika/sish)
 
 self-hosted SSH tunnels to localhost, ngrok-style
+
+自托管的 SSH 隧道到 localhost，类似 ngrok 风格

@@ -7,3 +7,5 @@ image: assets/DNSCrypt_encrypted_dns_server_20251118_053632_731_20251118_155906_
 # [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server/)
 
 Zero-maintenance proxy for an encrypted DNS server
+
+加密DNS服务器的零维护代理

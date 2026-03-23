@@ -7,3 +7,5 @@ image: assets/rotki_rotki_20260203_020728_237_20260203_020754_be7616.png
 # [rotki/rotki](https://github.com/rotki/rotki)
 
 Portfolio manager for accounting and analytics
+
+会计与分析的投资组合管理器

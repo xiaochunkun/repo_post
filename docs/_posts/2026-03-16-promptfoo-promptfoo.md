@@ -7,3 +7,5 @@ image: assets/promptfoo_promptfoo_20260311_011258_301_20260311_011507_b4f857.png
 # [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 
 Automated security testing for AI models
+
+AI 模型的自动化安全测试工具

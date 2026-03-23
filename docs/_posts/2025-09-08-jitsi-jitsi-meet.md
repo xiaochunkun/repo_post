@@ -7,3 +7,5 @@ image: assets/20250908T091653037--jitsi--jitsi-meet--20250908T092157493--cropped
 # [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
 
 open source video meetings for web and mobile
+
+面向 Web 和移动端的开源视频会议

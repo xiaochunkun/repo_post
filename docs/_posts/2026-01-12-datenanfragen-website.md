@@ -7,3 +7,5 @@ image: assets/datenanfragen_website_20260112_032313_752_20260112_032332_a7ecae.p
 # [datenanfragen/website](https://github.com/datenanfragen/website)
 
 Generates GDPR requests and provides company database
+
+生成 GDPR 请求并提供公司数据库

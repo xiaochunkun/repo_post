@@ -7,3 +7,5 @@ image: assets/SonarSource_sonarqube_mcp_server_20260321_075440_145_20260321_0756
 # [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 
 SonarQube MCP server for AI agents
+
+AI 代理的 SonarQube MCP 服务器

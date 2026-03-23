@@ -7,3 +7,5 @@ image: assets/baotlake_anything_copilot_20251223_115223_778_20251223_115244_9cac
 # [baotlake/anything-copilot](https://github.com/baotlake/anything-copilot/)
 
 Sidebar for AI tools in browsers
+
+浏览器中的 AI 工具侧边栏

@@ -7,3 +7,5 @@ image: assets/openfun_marsha_20251130_055023_395_20251130_084147_70bd98--2025113
 # [openfun/marsha](https://github.com/openfun/marsha/)
 
 Self-hosted video and document provider
+
+自托管视频和文档提供者

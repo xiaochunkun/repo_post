@@ -7,3 +7,5 @@ image: assets/Mubelotix_SimRepo_20251026_215112_996_20251027_001217_ecbf8b--2025
 # [Mubelotix/SimRepo](https://github.com/Mubelotix/SimRepo/)
 
 Shows similar projects in a GitHub repository sidebar
+
+在 GitHub 仓库侧边栏显示相似项目

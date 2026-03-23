@@ -7,3 +7,5 @@ image: assets/jittering_traefik_kop_20251124_235633_608_20251125_224827_19028f--
 # [jittering/traefik-kop](https://github.com/jittering/traefik-kop/)
 
 Dynamic discovery agent for multi-host Docker clusters
+
+多主机 Docker 集群的动态发现代理

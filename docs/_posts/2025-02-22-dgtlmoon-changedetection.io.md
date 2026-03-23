@@ -7,3 +7,5 @@ image: assets/dgtlmoon_changedetection.io_cropped.png
 # [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
 Open source tool for monitoring website changes and sending notifications
+
+用于监控网站变更并发送通知的开源工具

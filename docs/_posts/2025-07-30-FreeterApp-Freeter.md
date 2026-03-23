@@ -7,3 +7,5 @@ image: assets/FreeterApp_Freeter_cropped.png
 # [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter)
 
 dashboard app for organizing projects and workflows
+
+用于组织项目和工作流的仪表板应用

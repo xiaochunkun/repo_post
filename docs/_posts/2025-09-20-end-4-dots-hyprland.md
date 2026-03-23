@@ -7,3 +7,5 @@ image: assets/20250915T233401071--end-4--dots-hyprland--20250920T035646447--crop
 # [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
 
 Hyprland dotfiles with widgets, themes, and setup scripts for a custom Linux desktop
+
+Hyprland配置文件，包含小部件、主题和设置脚本，用于自定义Linux桌面

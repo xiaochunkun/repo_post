@@ -7,3 +7,5 @@ image: assets/mmvanheusden_SteamDepotDownloaderGUI_20260112_041541_977_20260112_
 # [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)
 
 Downloads older versions of Steam games
+
+下载旧版本Steam游戏

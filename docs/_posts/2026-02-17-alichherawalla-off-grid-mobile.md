@@ -7,3 +7,5 @@ image: assets/alichherawalla_off_grid_mobile_20260217_061801_860_20260217_061853
 # [alichherawalla/off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile)
 
 Runs AI models on mobile devices without internet
+
+在移动设备上离线运行AI模型

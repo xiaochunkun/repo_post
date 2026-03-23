@@ -7,3 +7,5 @@ image: assets/aree6_LiftShift_20260224_152931_151_20260224_153000_356db8.png
 # [aree6/LiftShift](https://github.com/aree6/LiftShift)
 
 Analyzes workout logs with heatmaps and AI breakdowns
+
+通过热图和 AI 分析锻炼日志

@@ -7,3 +7,5 @@ image: assets/linexjlin_GPTs_cropped.png
 # [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
 
 collection of leaked and user-contributed GPT prompts
+
+泄露和用户贡献的 GPT 提示集合

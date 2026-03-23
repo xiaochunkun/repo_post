@@ -7,3 +7,5 @@ image: assets/julvikramsupandi_flutter_pos_app_ui_20260121_230026_145_20260121_2
 # [julvikramsupandi/flutter-pos-app-ui](https://github.com/julvikramsupandi/flutter-pos-app-ui)
 
 Point of sale interface for restaurant management
+
+餐厅管理的销售点界面

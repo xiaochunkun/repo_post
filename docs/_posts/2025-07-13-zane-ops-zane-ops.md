@@ -7,3 +7,5 @@ image: assets/zane-ops_zane-ops_cropped.png
 # [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops)
 
 self-hosted platform for deploying web apps, databases, and cron jobs
+
+部署Web应用、数据库和定时任务的自托管平台

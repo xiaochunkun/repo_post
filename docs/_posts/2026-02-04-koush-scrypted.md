@@ -7,3 +7,5 @@ image: assets/koush_scrypted_20260203_164819_810_20260203_164846_77ccac.png
 # [koush/scrypted](https://github.com/koush/scrypted)
 
 Integrates cameras into HomeKit, Google Home, and Alexa
+
+将摄像头集成到 HomeKit、Google Home 和 Alexa

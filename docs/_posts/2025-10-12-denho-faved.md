@@ -7,3 +7,5 @@ image: assets/20251012T024758696--denho--faved--20251012T025156591--cropped.png
 # [denho/faved](https://github.com/denho/faved)
 
 self-hosted app for organizing and tagging web bookmarks, works on desktop and mobile
+
+自托管应用，用于组织和标记网页书签，支持桌面和移动设备

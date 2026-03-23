@@ -7,3 +7,5 @@ image: assets/Overv_openstreetmap_tile_server_20251025_045314_663_20251025_08541
 # [Overv/openstreetmap-tile-server](https://github.com/Overv/openstreetmap-tile-server/)
 
 Container to set up an OpenStreetMap PNG tile server
+
+设置OpenStreetMap PNG瓦片服务器的容器

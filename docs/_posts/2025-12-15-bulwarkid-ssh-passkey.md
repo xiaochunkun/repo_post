@@ -7,3 +7,5 @@ image: assets/bulwarkid_ssh_passkey_20251213_100433_705_20251213_100456_5d441e.p
 # [bulwarkid/ssh-passkey](https://github.com/bulwarkid/ssh-passkey/)
 
 Use SSH keys as passkeys for website authentication
+
+使用 SSH 密钥作为网站认证的通行密钥

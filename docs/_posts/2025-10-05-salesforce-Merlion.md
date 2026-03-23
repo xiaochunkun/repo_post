@@ -7,3 +7,5 @@ image: assets/20251005T100736301--salesforce--Merlion--20251005T101842249--cropp
 # [salesforce/Merlion](https://github.com/salesforce/Merlion)
 
 Python library for time series forecasting, anomaly detection, and benchmarking
+
+用于时间序列预测、异常检测和基准测试的 Python 库

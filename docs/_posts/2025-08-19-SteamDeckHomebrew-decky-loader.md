@@ -7,3 +7,5 @@ image: assets/20250818T115045516_SteamDeckHomebrew_decky-loader--20250818T115516
 # [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader)
 
 homebrew plugin loader for Steam Deck
+
+Steam Deck的自制插件加载器

@@ -7,3 +7,5 @@ image: assets/shadps4_emu_shadps4_qtlauncher_20251205_001628_373_20251205_001651
 # [shadps4-emu/shadps4-qtlauncher](https://github.com/shadps4-emu/shadps4-qtlauncher/)
 
 Qt launcher for shadPS4 emulator
+
+shadPS4模拟器的Qt启动器

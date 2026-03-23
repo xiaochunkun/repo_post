@@ -7,3 +7,5 @@ image: assets/20250906T224235688--build-with-groq--groq-code-cli--20250908T10081
 # [build-with-groq/groq-code-cli](https://github.com/build-with-groq/groq-code-cli)
 
 customizable coding CLI powered by Groq
+
+基于 Groq 的可定制编程 CLI 工具

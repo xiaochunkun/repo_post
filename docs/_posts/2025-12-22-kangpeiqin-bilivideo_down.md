@@ -7,3 +7,5 @@ image: assets/kangpeiqin_bilivideo_down_20251218_073327_063_20251220_000210_3996
 # [kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down/)
 
 Downloads videos from Bilibili on Windows and macOS
+
+在 Windows 和 macOS 上下载 Bilibili 视频

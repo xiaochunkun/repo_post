@@ -7,3 +7,5 @@ image: assets/kurama_dealve_tui_20260207_053331_975_20260207_053352_11330c.png
 # [kurama/dealve-tui](https://github.com/kurama/dealve-tui)
 
 Finds game deals from the terminal
+
+从终端查找游戏优惠

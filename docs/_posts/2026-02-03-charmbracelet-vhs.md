@@ -7,3 +7,5 @@ image: assets/charmbracelet_vhs_20260202_234536_195_20260202_234604_288640.png
 # [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
 
 Generates terminal GIFs from code
+
+从代码生成终端 GIF

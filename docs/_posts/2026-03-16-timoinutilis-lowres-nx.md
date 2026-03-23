@@ -7,3 +7,5 @@ image: assets/timoinutilis_lowres_nx_20260311_020829_232_20260311_021004_3e0b43.
 # [timoinutilis/lowres-nx](https://github.com/timoinutilis/lowres-nx)
 
 Program games in BASIC on virtual console
+
+在虚拟控制台上用BASIC编程游戏

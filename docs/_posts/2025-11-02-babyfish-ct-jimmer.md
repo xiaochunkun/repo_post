@@ -7,3 +7,5 @@ image: assets/babyfish_ct_jimmer_20251031_061323_421_20251101_203401_367eee--202
 # [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer/)
 
 ORM for Java and Kotlin with dynamic querying
+
+支持动态查询的 Java 和 Kotlin ORM

@@ -7,3 +7,5 @@ image: assets/microsoft_vscode_cropped.png
 # [microsoft/vscode](https://github.com/microsoft/vscode)
 
 Code editor, open source
+
+开源代码编辑器

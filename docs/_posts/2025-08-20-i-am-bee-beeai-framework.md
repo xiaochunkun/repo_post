@@ -7,3 +7,5 @@ image: assets/20250818T122606909_i-am-bee_beeai-framework--20250818T122755498--c
 # [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
 
 build AI agents in Python or TypeScript that can work together
+
+构建可协同工作的 Python 或 TypeScript AI 代理

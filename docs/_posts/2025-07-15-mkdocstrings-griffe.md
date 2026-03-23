@@ -7,3 +7,5 @@ image: assets/mkdocstrings_griffe_cropped.png
 # [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe)
 
 parses Python code to extract API signatures and docs
+
+解析Python代码以提取API签名和文档

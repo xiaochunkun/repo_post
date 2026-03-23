@@ -7,3 +7,5 @@ image: assets/rolflobker_recall_for_linux_20251106_230509_949_20251107_165501_9d
 # [rolflobker/recall-for-linux](https://github.com/rolflobker/recall-for-linux/)
 
 Satirical Linux tool that mimics Windows Recall features
+
+模仿Windows Recall功能的讽刺Linux工具

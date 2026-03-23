@@ -7,3 +7,5 @@ image: assets/Adembc_lazyssh_20260108_021736_768_20260108_021750_81626f.png
 # [Adembc/lazyssh](https://github.com/Adembc/lazyssh)
 
 Terminal SSH manager for server fleets
+
+服务器集群的终端SSH管理器

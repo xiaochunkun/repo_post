@@ -7,3 +7,5 @@ image: assets/surge_downloader_Surge_20260217_201120_091_20260217_201147_5c6449.
 # [surge-downloader/Surge](https://github.com/surge-downloader/Surge)
 
 Terminal download manager with a background server
+
+带有后台服务器的终端下载管理器

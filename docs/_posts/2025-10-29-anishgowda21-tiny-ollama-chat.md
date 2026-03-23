@@ -7,3 +7,5 @@ image: assets/anishgowda21_tiny_ollama_chat_20251029_163423_583_20251029_164238_
 # [anishgowda21/tiny-ollama-chat](https://github.com/anishgowda21/tiny-ollama-chat/)
 
 UI for chatting with local Ollama models
+
+与本地 Ollama 模型聊天的 UI

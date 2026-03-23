@@ -7,3 +7,5 @@ image: assets/0015_Sn0wfreezeDev_openhaystack_20260101_222853_065_20260101_22290
 # [0015/Sn0wfreezeDev_openhaystack](https://github.com/0015/Sn0wfreezeDev_openhaystack/)
 
 Tracks Bluetooth devices via the Find My network
+
+通过Find My网络跟踪蓝牙设备

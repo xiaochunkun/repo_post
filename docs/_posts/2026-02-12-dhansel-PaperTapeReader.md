@@ -7,3 +7,5 @@ image: assets/dhansel_PaperTapeReader_20260118_231615_213_20260118_231637_6989b3
 # [dhansel/PaperTapeReader](https://github.com/dhansel/PaperTapeReader)
 
 Reader for 8-bit paper tapes
+
+8位纸带阅读器

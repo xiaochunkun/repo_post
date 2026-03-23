@@ -7,3 +7,5 @@ image: assets/20251001T191658013--nbonamy--witsy--20251001T192548239--cropped.pn
 # [nbonamy/witsy](https://github.com/nbonamy/witsy)
 
 desktop AI assistant for any LLM, chat, generate images, automate tasks, voice and file support
+
+桌面AI助手，支持任意LLM、聊天、图像生成、任务自动化、语音和文件

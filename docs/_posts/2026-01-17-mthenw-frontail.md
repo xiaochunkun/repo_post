@@ -7,3 +7,5 @@ image: assets/mthenw_frontail_20260117_055629_408_20260117_055653_be6925.png
 # [mthenw/frontail](https://github.com/mthenw/frontail)
 
 Streams logs to the browser
+
+将日志流式传输到浏览器

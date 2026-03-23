@@ -7,3 +7,5 @@ image: assets/apache_apisix_20251111_030818_566_20251111_145406_676295--20251111
 # [apache/apisix](https://github.com/apache/apisix/)
 
 API gateway for traffic management and AI proxying
+
+用于流量管理和AI代理的API网关

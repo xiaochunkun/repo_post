@@ -7,3 +7,5 @@ image: assets/aarushthukral_liftoff_20260102_082650_204_20260102_082706_e31a37.p
 # [aarushthukral/liftoff](https://github.com/aarushthukral/liftoff/)
 
 Menu bar launcher for Deta Space apps
+
+Deta Space应用的菜单栏启动器

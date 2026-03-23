@@ -7,3 +7,5 @@ image: assets/tableflowhq_csv_import_20260128_235342_402_20260128_235427_bba837.
 # [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import)
 
 Imports CSV files into React and JavaScript applications
+
+将 CSV 文件导入 React 和 JavaScript 应用

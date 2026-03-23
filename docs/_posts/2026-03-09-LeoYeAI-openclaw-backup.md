@@ -7,3 +7,5 @@ image: assets/LeoYeAI_openclaw_backup_20260308_193438_827_20260308_193601_a41a33
 # [LeoYeAI/openclaw-backup](https://github.com/LeoYeAI/openclaw-backup)
 
 Backs up and restores OpenClaw instances
+
+备份和恢复OpenClaw实例

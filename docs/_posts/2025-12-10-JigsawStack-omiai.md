@@ -7,3 +7,5 @@ image: assets/JigsawStack_omiai_20251207_224732_820_20251207_224754_d1bc2d.png
 # [JigsawStack/omiai](https://github.com/JigsawStack/omiai/)
 
 TypeScript SDK auto-selects best AI models
+
+TypeScript SDK 自动选择最佳 AI 模型

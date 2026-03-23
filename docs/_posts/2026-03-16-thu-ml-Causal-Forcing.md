@@ -7,3 +7,5 @@ image: assets/thu_ml_Causal_Forcing_20260311_033557_508_20260311_033739_ff9bfd.p
 # [thu-ml/Causal-Forcing](https://github.com/thu-ml/Causal-Forcing)
 
 Real-time interactive video generation
+
+实时交互式视频生成

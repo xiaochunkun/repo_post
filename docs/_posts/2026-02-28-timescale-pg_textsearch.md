@@ -7,3 +7,5 @@ image: assets/timescale_pg_textsearch_20260225_120013_510_20260225_120152_c418a2
 # [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch)
 
 BM25 search for Postgres with WAND optimization
+
+带有WAND优化的Postgres BM25搜索

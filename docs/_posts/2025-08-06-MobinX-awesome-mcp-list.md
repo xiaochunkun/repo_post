@@ -7,3 +7,5 @@ image: assets/MobinX_awesome-mcp-list_cropped.png
 # [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
 
 curated list of mcp servers for automation and integration
+
+用于自动化和集成的 MCP 服务器精选列表

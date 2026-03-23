@@ -7,3 +7,5 @@ image: assets/obsidian_tasks_group_obsidian_tasks_20260309_134642_083_20260309_1
 # [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
 
 Task management for Obsidian knowledge base
+
+Obsidian知识库的任务管理工具

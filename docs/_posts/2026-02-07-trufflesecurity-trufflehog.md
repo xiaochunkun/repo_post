@@ -7,3 +7,5 @@ image: assets/trufflesecurity_trufflehog_20260205_101637_557_20260205_101656_e73
 # [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
 Scans platforms for leaked credentials
+
+扫描平台以查找泄露的凭据

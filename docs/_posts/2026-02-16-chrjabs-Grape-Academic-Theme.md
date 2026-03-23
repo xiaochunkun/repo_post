@@ -7,3 +7,5 @@ image: assets/chrjabs_Grape_Academic_Theme_20260208_171037_446_20260208_171126_e
 # [chrjabs/Grape-Academic-Theme](https://github.com/chrjabs/Grape-Academic-Theme)
 
 Jekyll theme for academic portfolios
+
+学术作品集的 Jekyll 主题

@@ -7,3 +7,5 @@ image: assets/Seeed_Studio_wiki_documents_20260212_143911_119_20260212_143934_cc
 # [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents)
 
 Source files for hardware wikis
+
+硬件维基的源文件

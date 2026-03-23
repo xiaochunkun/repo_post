@@ -7,3 +7,5 @@ image: assets/zereight_gitlab_mcp_20260316_070919_875_20260316_070947_b4fded.png
 # [zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp)
 
 GitLab server with OAuth2 and connection pooling
+
+具有OAuth2和连接池的GitLab服务器

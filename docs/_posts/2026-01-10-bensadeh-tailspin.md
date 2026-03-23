@@ -7,3 +7,5 @@ image: assets/bensadeh_tailspin_20260108_054805_519_20260108_054819_445c61.png
 # [bensadeh/tailspin](https://github.com/bensadeh/tailspin)
 
 Highlights log files in the terminal
+
+在终端中高亮显示日志文件

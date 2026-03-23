@@ -7,3 +7,5 @@ image: assets/dathere_qsv_20260317_225533_879_20260317_225728_2e28c5.png
 # [dathere/qsv](https://github.com/dathere/qsv)
 
 Command line program for tabular data
+
+用于表格数据的命令行程序

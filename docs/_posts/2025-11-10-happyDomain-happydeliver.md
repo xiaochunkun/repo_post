@@ -7,3 +7,5 @@ image: assets/happyDomain_happydeliver_20251109_180318_750_20251109_184535_7eac3
 # [happyDomain/happydeliver](https://github.com/happyDomain/happydeliver/)
 
 Self-hosted email deliverability testing platform
+
+自托管邮件送达率测试平台

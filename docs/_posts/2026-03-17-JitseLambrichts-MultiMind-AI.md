@@ -7,3 +7,5 @@ image: assets/JitseLambrichts_MultiMind_AI_20260316_194422_678_20260316_194510_3
 # [JitseLambrichts/MultiMind-AI](https://github.com/JitseLambrichts/MultiMind-AI)
 
 Web UI for reasoning pipelines and expert councils
+
+推理管道和专家委员会的 Web UI

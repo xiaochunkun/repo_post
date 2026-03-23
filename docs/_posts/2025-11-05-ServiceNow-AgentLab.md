@@ -7,3 +7,5 @@ image: assets/ServiceNow_AgentLab_20251105_044606_211_20251105_123152_57dbc0--20
 # [ServiceNow/AgentLab](https://github.com/ServiceNow/AgentLab/)
 
 Framework for reproducible benchmarking of web agents
+
+Web 代理可重复基准测试框架

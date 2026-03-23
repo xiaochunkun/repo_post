@@ -7,3 +7,5 @@ image: assets/danielpaulus_go_ios_20260212_084030_335_20260212_084049_a76e75.png
 # [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios)
 
 Automates iOS devices on Linux, Windows, and macOS
+
+在 Linux、Windows 和 macOS 上自动化 iOS 设备

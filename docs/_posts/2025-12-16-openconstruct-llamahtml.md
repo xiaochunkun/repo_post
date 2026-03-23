@@ -7,3 +7,5 @@ image: assets/openconstruct_llamahtml_20251213_133213_494_20251213_133240_2741de
 # [openconstruct/llamahtml](https://github.com/openconstruct/llamahtml/)
 
 Single HTML file interface for llama.cpp server
+
+llama.cpp服务器的单HTML文件界面

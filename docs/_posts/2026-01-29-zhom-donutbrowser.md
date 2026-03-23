@@ -7,3 +7,5 @@ image: assets/zhom_donutbrowser_20260129_173246_121_20260129_173325_89c85b.png
 # [zhom/donutbrowser](https://github.com/zhom/donutbrowser)
 
 Anti-detect browser for managing multiple identities
+
+用于管理多个身份的反检测浏览器

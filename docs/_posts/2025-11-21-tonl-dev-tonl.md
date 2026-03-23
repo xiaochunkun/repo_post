@@ -7,3 +7,5 @@ image: assets/tonl_dev_tonl_20251120_061341_861_20251121_011534_88c1d4--20251121
 # [tonl-dev/tonl](https://github.com/tonl-dev/tonl/)
 
 Reduces LLM token usage compared to JSON
+
+相比 JSON 减少 LLM 令牌使用

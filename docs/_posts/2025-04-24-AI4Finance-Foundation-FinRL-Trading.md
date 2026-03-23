@@ -7,3 +7,5 @@ image: assets/AI4Finance-Foundation_FinRL-Trading_cropped.png
 # [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading)
 
 AI trading library for stock selection and strategy using supervised and reinforcement learning
+
+使用监督和强化学习进行股票选择和策略的AI交易库

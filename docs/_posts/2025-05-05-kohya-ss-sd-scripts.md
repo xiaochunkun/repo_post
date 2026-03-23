@@ -7,3 +7,5 @@ image: assets/kohya-ss_sd-scripts_cropped.png
 # [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
 
 Training scripts for Stable Diffusion models
+
+Stable Diffusion模型的训练脚本

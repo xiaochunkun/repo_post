@@ -7,3 +7,5 @@ image: assets/rohankishore_ZenNotes_20251216_082359_964_20251216_082426_9a25a5.p
 # [rohankishore/ZenNotes](https://github.com/rohankishore/ZenNotes/)
 
 Notepad replacement with translation and TTS
+
+具有翻译和TTS功能的记事本替代品

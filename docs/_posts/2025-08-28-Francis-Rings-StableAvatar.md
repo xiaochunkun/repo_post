@@ -7,3 +7,5 @@ image: assets/20250827T100445330--Francis-Rings--StableAvatar--20250827T10080985
 # [Francis-Rings/StableAvatar](https://github.com/Francis-Rings/StableAvatar)
 
 infinite-length audio-driven avatar video generation with StableAvatar
+
+StableAvatar 音频驱动的无限时长数字人视频生成

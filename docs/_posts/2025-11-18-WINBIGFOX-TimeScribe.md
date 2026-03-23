@@ -7,3 +7,5 @@ image: assets/WINBIGFOX_TimeScribe_20251118_052806_854_20251118_155852_418fef--2
 # [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe/)
 
 Private time tracking app for macOS and Windows
+
+macOS 和 Windows 的私有时间追踪应用

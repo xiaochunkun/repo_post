@@ -7,3 +7,5 @@ image: assets/badlogic_pi_skills_20260316_073524_090_20260316_073555_30cc78.png
 # [badlogic/pi-skills](https://github.com/badlogic/pi-skills)
 
 Skills collection for pi-coding-agent
+
+pi-coding-agent技能集合

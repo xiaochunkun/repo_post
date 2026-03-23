@@ -7,3 +7,5 @@ image: assets/FreedomIntelligence_HuatuoGPT_o1_20251109_001936_382_20251109_1412
 # [FreedomIntelligence/HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1/)
 
 Medical LLM that uses a verifier to refine reasoning
+
+使用验证器优化推理的医疗LLM

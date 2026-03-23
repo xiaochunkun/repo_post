@@ -7,3 +7,5 @@ image: assets/2boom_ua_watchdigest_20251215_005128_499_20251215_005155_7ba441.pn
 # [2boom-ua/watchdigest](https://github.com/2boom-ua/watchdigest/)
 
 Monitors and updates Docker containers
+
+监控和更新Docker容器

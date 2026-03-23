@@ -7,3 +7,5 @@ image: assets/flexpilot_ai_flexpilot_ide_20251207_230826_071_20251207_230848_12f
 # [flexpilot-ai/flexpilot-ide](https://github.com/flexpilot-ai/flexpilot-ide/)
 
 Fork of VS Code with BYO-key AI integration
+
+VS Code 的分支，支持自带密钥的 AI 集成

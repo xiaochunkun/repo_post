@@ -7,3 +7,5 @@ image: assets/chartbrew_chartbrew_cropped.png
 # [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew)
 
 Open-source tool for making dashboards from databases and APIs
+
+开源工具，用于从数据库和API制作仪表板

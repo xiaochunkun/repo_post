@@ -7,3 +7,5 @@ image: assets/Techlm77_LinuxPlay_20251201_095634_923_20251201_095718_b87c04.png
 # [Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay/)
 
 Low latency remote desktop and game streaming stack for Linux
+
+适用于Linux的低延迟远程桌面和游戏流媒体栈

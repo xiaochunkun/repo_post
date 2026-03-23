@@ -7,3 +7,5 @@ image: assets/opensumi_core_20251127_172522_153_20251129_023113_ebe652--20251129
 # [opensumi/core](https://github.com/opensumi/core/)
 
 Framework for building AI native IDEs
+
+构建 AI 原生 IDE 的框架

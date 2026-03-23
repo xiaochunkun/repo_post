@@ -7,3 +7,5 @@ image: assets/SquirrelCorporation_SquirrelServersManager_20260122_081503_539_202
 # [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager)
 
 Configuration and container management tool powered by Ansible and Docker
+
+由 Ansible 和 Docker 驱动的配置和容器管理工具

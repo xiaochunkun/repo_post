@@ -7,3 +7,5 @@ image: assets/TransformerLensOrg_TransformerLens_20260311_064801_521_20260311_06
 # [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
 
 Reverse engineers trained language models
+
+逆向工程训练好的语言模型

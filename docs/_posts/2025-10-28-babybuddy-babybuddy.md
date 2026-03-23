@@ -7,3 +7,5 @@ image: assets/babybuddy_babybuddy_20251027_181209_263_20251028_085854_03b16b--20
 # [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy/)
 
 Helps caregivers track and predict a baby's needs
+
+帮助看护者追踪和预测婴儿需求

@@ -7,3 +7,5 @@ image: assets/jarodise_pdf2epub_paddle_20260213_100557_938_20260213_100652_6da9b
 # [jarodise/pdf2epub-paddle](https://github.com/jarodise/pdf2epub-paddle)
 
 Converts scanned PDF books to EPUB using layout analysis
+
+通过布局分析将扫描的 PDF 书籍转换为 EPUB

@@ -7,3 +7,5 @@ image: assets/simstudioai_sim_cropped.png
 # [simstudioai/sim](https://github.com/simstudioai/sim)
 
 open-source tool for building AI agent workflows
+
+用于构建 AI 代理工作流的开源工具

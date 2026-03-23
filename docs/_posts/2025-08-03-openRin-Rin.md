@@ -7,3 +7,5 @@ image: assets/openRin_Rin_cropped.png
 # [openRin/Rin](https://github.com/openRin/Rin)
 
 serverless blog runs on Cloudflare Pages, Workers, D1 and R2
+
+基于Cloudflare Pages、Workers、D1和R2的无服务器博客

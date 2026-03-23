@@ -7,3 +7,5 @@ image: assets/20250919T023202229--toeverything--blocksuite--20250919T024128751--
 # [toeverything/blocksuite](https://github.com/toeverything/blocksuite)
 
 toolkit for building collaborative editors and custom content editing apps
+
+用于构建协作编辑器和自定义内容编辑应用的工具包

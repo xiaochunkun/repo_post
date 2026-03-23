@@ -7,3 +7,5 @@ image: assets/jamesplotts_simpleide_20251229_114839_848_20251229_114900_52a2ac.p
 # [jamesplotts/simpleide](https://github.com/jamesplotts/simpleide/)
 
 IDE for VB.NET on Linux
+
+Linux上的VB.NET IDE

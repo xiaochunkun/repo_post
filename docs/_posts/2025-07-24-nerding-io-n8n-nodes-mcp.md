@@ -7,3 +7,5 @@ image: assets/nerding-io_n8n-nodes-mcp_cropped.png
 # [nerding-io/n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp)
 
 n8n node for connecting to MCP servers and running AI tools
+
+n8n节点，用于连接MCP服务器并运行AI工具

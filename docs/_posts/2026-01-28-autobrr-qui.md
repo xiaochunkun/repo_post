@@ -7,3 +7,5 @@ image: assets/autobrr_qui_20260121_232132_973_20260121_232151_765ee1.png
 # [autobrr/qui](https://github.com/autobrr/qui)
 
 Web interface for managing multiple qBittorrent instances
+
+管理多个qBittorrent实例的Web界面

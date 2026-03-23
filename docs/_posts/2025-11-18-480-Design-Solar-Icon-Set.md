@@ -7,3 +7,5 @@ image: assets/480_Design_Solar_Icon_Set_20251118_045828_921_20251118_050425_3249
 # [480-Design/Solar-Icon-Set](https://github.com/480-Design/Solar-Icon-Set/)
 
 Icon pack with over 7,000 icons in 6 styles
+
+包含6种风格超过7000个图标的图标包

@@ -7,3 +7,5 @@ image: assets/peterjthomson_marktext_20260131_190547_877_20260131_190624_b72a6d.
 # [peterjthomson/marktext](https://github.com/peterjthomson/marktext)
 
 Markdown editor with live preview
+
+带有实时预览的 Markdown 编辑器

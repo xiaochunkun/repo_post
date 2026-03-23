@@ -7,3 +7,5 @@ image: assets/alexeyraspopov_picocolors_20251125_232912_031_20251128_212912_0a3a
 # [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors/)
 
 Library for terminal output formatting with ANSI colors
+
+使用ANSI颜色格式化终端输出的库

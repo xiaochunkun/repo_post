@@ -7,3 +7,5 @@ image: assets/RoyalCities_RC-Home-Assistant-Low-VRAM--20250812T002704--cropped.p
 # [RoyalCities/RC-Home-Assistant-Low-VRAM](https://github.com/RoyalCities/RC-Home-Assistant-Low-VRAM)
 
 local ai voice assistant stack with home assistant, whisper, piper, and wake word, gpu-ready, low vram
+
+本地AI语音助手堆栈，集成Home Assistant、Whisper、Piper和唤醒词，支持GPU，低VRAM

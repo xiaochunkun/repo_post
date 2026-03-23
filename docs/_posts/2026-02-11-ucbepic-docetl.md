@@ -7,3 +7,5 @@ image: assets/ucbepic_docetl_20260203_023249_918_20260203_023306_538052.png
 # [ucbepic/docetl](https://github.com/ucbepic/docetl)
 
 Optimizes agentic pipelines for document processing
+
+优化文档处理的代理式管道

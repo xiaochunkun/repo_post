@@ -7,3 +7,5 @@ image: assets/qoery_com_pmxt_20260116_100213_441_20260116_100239_ad4524.png
 # [qoery-com/pmxt](https://github.com/qoery-com/pmxt)
 
 API for trading across prediction markets
+
+跨预测市场交易的 API

@@ -7,3 +7,5 @@ image: assets/felix068_LinuxGate_20260113_065836_909_20260113_065849_cdd228.png
 # [felix068/LinuxGate](https://github.com/felix068/LinuxGate)
 
 Installer for Linux on Windows machines
+
+Windows机器上的Linux安装器

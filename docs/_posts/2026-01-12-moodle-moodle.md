@@ -7,3 +7,5 @@ image: assets/moodle_moodle_20260112_081145_068_20260112_081209_f621e5.png
 # [moodle/moodle](https://github.com/moodle/moodle)
 
 Open source learning platform
+
+开源学习平台

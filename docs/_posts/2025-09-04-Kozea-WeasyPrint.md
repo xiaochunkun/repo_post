@@ -7,3 +7,5 @@ image: assets/20250903T030335540--Kozea--WeasyPrint--20250903T030933104--cropped
 # [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)
 
 turn html and css into pdfs with python
+
+用 Python 将 HTML 和 CSS 转换为 PDF

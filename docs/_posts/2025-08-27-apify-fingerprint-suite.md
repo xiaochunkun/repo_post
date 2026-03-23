@@ -7,3 +7,5 @@ image: assets/20250826T031124511--apify--fingerprint-suite--20250826T031523441--
 # [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite)
 
 browser fingerprint generation and injection tools for web scraping
+
+Web 爬虫用的浏览器指纹生成和注入工具

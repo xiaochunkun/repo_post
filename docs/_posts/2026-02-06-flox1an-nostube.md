@@ -7,3 +7,5 @@ image: assets/flox1an_nostube_20260202_062327_116_20260202_062406_642ec8.png
 # [flox1an/nostube](https://github.com/flox1an/nostube)
 
 Video sharing platform on Nostr protocol
+
+基于Nostr协议的视频分享平台

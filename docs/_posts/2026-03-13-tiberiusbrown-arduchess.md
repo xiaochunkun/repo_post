@@ -7,3 +7,5 @@ image: assets/tiberiusbrown_arduchess_20260308_191606_816_20260308_191719_4fb42c
 # [tiberiusbrown/arduchess](https://github.com/tiberiusbrown/arduchess)
 
 Chess engine with AI for Arduboy
+
+为Arduboy设计的带AI的象棋引擎

@@ -7,3 +7,5 @@ image: assets/20250818T110357214_David-patrick-chuks_Riona-AI-Agent--20250823T01
 # [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)
 
 AI tool for automating Instagram posts, likes, and comments
+
+AI 自动化 Instagram 发帖、点赞和评论

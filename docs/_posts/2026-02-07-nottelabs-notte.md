@@ -7,3 +7,5 @@ image: assets/nottelabs_notte_20260203_095214_929_20260203_095233_b22274.png
 # [nottelabs/notte](https://github.com/nottelabs/notte)
 
 Framework for web automation agents
+
+Web自动化代理的框架

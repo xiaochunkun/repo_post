@@ -7,3 +7,5 @@ image: assets/messkan_prompt_cache_20251222_040608_015_20251222_040624_dccc8d.pn
 # [messkan/prompt-cache](https://github.com/messkan/prompt-cache/)
 
 Proxy for caching LLM prompts
+
+用于缓存 LLM 提示的代理

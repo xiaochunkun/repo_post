@@ -7,3 +7,5 @@ image: assets/agentkits_agentkits_marketing_20260131_163610_828_20260131_163711_
 # [agentkits/agentkits-marketing](https://github.com/agentkits/agentkits-marketing)
 
 Marketing automation for AI assistants
+
+AI 助手的营销自动化

@@ -7,3 +7,5 @@ image: assets/adityaprasad_sudo_Explore_Singapore_20260212_165010_976_20260212_1
 # [adityaprasad-sudo/Explore-Singapore](https://github.com/adityaprasad-sudo/Explore-Singapore)
 
 RAG engine for Singaporean laws and history
+
+新加坡法律与历史的RAG引擎

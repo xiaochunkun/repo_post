@@ -7,3 +7,5 @@ image: assets/Yuliang-Liu_MonkeyOCR_cropped.png
 # [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 
 turns documents into structured data with OCR and layout analysis
+
+通过OCR和布局分析将文档转换为结构化数据

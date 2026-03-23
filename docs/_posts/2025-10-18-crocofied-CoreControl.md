@@ -7,3 +7,5 @@ image: assets/crocofied_CoreControl_20251018_140646_677_20251018_155354--2025101
 # [crocofied/CoreControl](https://github.com/crocofied/CoreControl/)
 
 Manages server infrastructure and self-hosted setups
+
+管理服务器基础设施和自托管设置

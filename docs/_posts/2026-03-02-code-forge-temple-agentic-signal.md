@@ -7,3 +7,5 @@ image: assets/code_forge_temple_agentic_signal_20260228_022950_246_20260228_0231
 # [code-forge-temple/agentic-signal](https://github.com/code-forge-temple/agentic-signal)
 
 Visual workflow automation platform with local intelligence
+
+具有本地智能的可视化工作流自动化平台

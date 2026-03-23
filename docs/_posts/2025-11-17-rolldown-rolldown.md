@@ -7,3 +7,5 @@ image: assets/rolldown_rolldown_20251115_220120_325_20251117_042403_beb11e--2025
 # [rolldown/rolldown](https://github.com/rolldown/rolldown/)
 
 Rust-based JavaScript bundler with a Rollup-compatible API
+
+基于Rust的JavaScript打包器，兼容Rollup API

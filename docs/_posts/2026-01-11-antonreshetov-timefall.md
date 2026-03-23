@@ -7,3 +7,5 @@ image: assets/antonreshetov_timefall_20260111_024937_084_20260111_024950_d47082.
 # [antonreshetov/timefall](https://github.com/antonreshetov/timefall)
 
 Tracks work hours via Electron
+
+通过Electron跟踪工作时间

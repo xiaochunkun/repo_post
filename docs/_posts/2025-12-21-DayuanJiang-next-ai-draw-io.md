@@ -7,3 +7,5 @@ image: assets/DayuanJiang_next_ai_draw_io_20251219_213110_837_20251219_213136_9b
 # [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io/)
 
 Diagrams from natural language commands via AI and draw.io
+
+通过 AI 和 draw.io 从自然语言指令生成图表

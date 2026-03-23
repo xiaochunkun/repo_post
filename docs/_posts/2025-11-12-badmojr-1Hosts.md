@@ -7,3 +7,5 @@ image: assets/badmojr_1Hosts_20251111_184058_376_20251112_023545_931d0c--2025111
 # [badmojr/1Hosts](https://github.com/badmojr/1Hosts/)
 
 Blocklists for ads, trackers, and malware
+
+用于广告、跟踪器和恶意软件的阻止列表

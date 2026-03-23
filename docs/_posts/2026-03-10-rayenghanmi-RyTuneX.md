@@ -7,3 +7,5 @@ image: assets/rayenghanmi_RyTuneX_20260225_014825_432_20260225_014949_a78ab0.png
 # [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX)
 
 Optimizes Windows performance and removes pre-installed apps
+
+优化Windows性能并移除预装应用

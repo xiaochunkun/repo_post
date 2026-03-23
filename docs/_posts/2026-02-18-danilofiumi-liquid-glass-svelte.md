@@ -7,3 +7,5 @@ image: assets/danilofiumi_liquid_glass_svelte_20260117_222403_722_20260117_22242
 # [danilofiumi/liquid-glass-svelte](https://github.com/danilofiumi/liquid-glass-svelte)
 
 Web component for Apple Liquid Glass UI effects
+
+Apple Liquid Glass UI 效果的 Web 组件

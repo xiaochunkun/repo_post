@@ -7,3 +7,5 @@ image: assets/net4people_bbs_20251123_204015_877_20251125_215701_060daf--2025112
 # [net4people/bbs](https://github.com/net4people/bbs/)
 
 Forum for discussing internet censorship circumvention
+
+讨论互联网审查规避的论坛

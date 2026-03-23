@@ -7,3 +7,5 @@ image: assets/jaywcjlove_awesome_swift_macos_apps_20260206_060216_475_20260206_0
 # [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
 
 Collection of macOS software in Swift
+
+Swift 编写的 macOS 软件集合

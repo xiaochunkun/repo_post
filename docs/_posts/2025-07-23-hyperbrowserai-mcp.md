@@ -7,3 +7,5 @@ image: assets/hyperbrowserai_mcp_cropped.png
 # [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp)
 
 web scraping and automation server for Hyperbrowser
+
+用于Hyperbrowser的网页抓取和自动化服务器

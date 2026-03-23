@@ -7,3 +7,5 @@ image: assets/ise_uiuc_magicoder_20251122_152305_938_20251123_001113_1d9bf2--202
 # [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder/)
 
 Generates instruction data from source code
+
+从源代码生成指令数据

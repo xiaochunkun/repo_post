@@ -7,3 +7,5 @@ image: assets/20250822T022649253--vitabaks--autobase--20250822T023627349--croppe
 # [vitabaks/autobase](https://github.com/vitabaks/autobase)
 
 automates PostgreSQL cluster deployment and management
+
+自动化 PostgreSQL 集群部署和管理

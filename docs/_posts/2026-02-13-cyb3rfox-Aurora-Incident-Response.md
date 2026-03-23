@@ -7,3 +7,5 @@ image: assets/cyb3rfox_Aurora_Incident_Response_20260117_233907_407_20260117_233
 # [cyb3rfox/Aurora-Incident-Response](https://github.com/cyb3rfox/Aurora-Incident-Response)
 
 Visualizes incident response timelines and lateral movement
+
+可视化事件响应时间线和横向移动

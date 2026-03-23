@@ -7,3 +7,5 @@ image: assets/photon_hq_advanced_imessage_kit_20260101_110023_668_20260101_11003
 # [photon-hq/advanced-imessage-kit](https://github.com/photon-hq/advanced-imessage-kit/)
 
 TypeScript SDK for iMessage automation on macOS
+
+用于 macOS 上 iMessage 自动化的 TypeScript SDK

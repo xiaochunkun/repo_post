@@ -7,3 +7,5 @@ image: assets/josean_dev_dev_environment_files_20260221_112354_085_20260221_1124
 # [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files)
 
 Configuration files for terminal and window manager setup
+
+终端和窗口管理器设置的配置文件

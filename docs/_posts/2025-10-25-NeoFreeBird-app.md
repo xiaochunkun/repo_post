@@ -7,3 +7,5 @@ image: assets/NeoFreeBird_app_20251023_215858_745_20251025_021738_3dcef3--202510
 # [NeoFreeBird/app](https://github.com/NeoFreeBird/app/)
 
 Modified Twitter app for iOS with branding reverts
+
+iOS版Twitter修改应用，恢复品牌标识

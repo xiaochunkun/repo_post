@@ -7,3 +7,5 @@ image: assets/crocofied_CoreControl_cropped.png
 # [crocofied/CoreControl](https://github.com/crocofied/CoreControl)
 
 Dashboard for managing server infrastructure
+
+管理服务器基础设施的仪表板

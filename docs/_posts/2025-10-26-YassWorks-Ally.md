@@ -7,3 +7,5 @@ image: assets/YassWorks_Ally_20251025_053539_971_20251025_102109_2f57f4--2025102
 # [YassWorks/Ally](https://github.com/YassWorks/Ally/)
 
 Private, local AI assistant for your terminal
+
+终端专用的私有本地AI助手

@@ -7,3 +7,5 @@ image: assets/nfoert_cardie_20260120_050245_273_20260120_050308_14c605.png
 # [nfoert/cardie](https://github.com/nfoert/cardie)
 
 Generates business cards with analytics and QR codes
+
+生成带有分析和二维码的名片

@@ -7,3 +7,5 @@ image: assets/dailenson_One_DM_20251216_182113_131_20251216_182137_168b60.png
 # [dailenson/One-DM](https://github.com/dailenson/One-DM/)
 
 Generates handwritten text from a single reference sample
+
+从单个参考样本生成手写文本

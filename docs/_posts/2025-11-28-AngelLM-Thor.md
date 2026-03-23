@@ -7,3 +7,5 @@ image: assets/AngelLM_Thor_20251125_050535_953_20251127_170516_4e296b--20251127T
 # [AngelLM/Thor](https://github.com/AngelLM/Thor/)
 
 Open source 3D printed 6-DOF robotic arm
+
+开源 3D 打印 6-DOF 机械臂

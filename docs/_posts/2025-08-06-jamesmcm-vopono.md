@@ -7,3 +7,5 @@ image: assets/jamesmcm_vopono_cropped.png
 # [jamesmcm/vopono](https://github.com/jamesmcm/vopono)
 
 run apps through different VPNs at once
+
+同时通过不同 VPN 运行应用

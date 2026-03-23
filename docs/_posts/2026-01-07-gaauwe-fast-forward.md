@@ -7,3 +7,5 @@ image: assets/gaauwe_fast_forward_20251201_082055_705_20251202_195256_9f1445.png
 # [gaauwe/fast-forward](https://github.com/gaauwe/fast-forward/)
 
 macOS window switcher built in Rust
+
+用 Rust 构建的 macOS 窗口切换器

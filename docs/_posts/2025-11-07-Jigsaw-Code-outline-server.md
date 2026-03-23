@@ -7,3 +7,5 @@ image: assets/Jigsaw_Code_outline_server_20251106_192113_853_20251106_220803_863
 # [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server/)
 
 Shadowsocks proxy server with a REST API
+
+带REST API的Shadowsocks代理服务器

@@ -7,3 +7,5 @@ image: assets/cycloidio_inframap_20251201_022008_611_20251201_022031_eef0a7.png
 # [cycloidio/inframap](https://github.com/cycloidio/inframap/)
 
 Generates graphs from Terraform state or HCL
+
+从Terraform状态或HCL生成图

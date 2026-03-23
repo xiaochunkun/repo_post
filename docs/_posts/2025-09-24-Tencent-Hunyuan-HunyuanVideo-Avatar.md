@@ -7,3 +7,5 @@ image: assets/20250924T052253100--Tencent-Hunyuan--HunyuanVideo-Avatar--20250924
 # [Tencent-Hunyuan/HunyuanVideo-Avatar](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar)
 
 turn photos and audio into animated talking avatar videos, supports multiple styles and emotions
+
+将照片和音频转换为动画说话头像视频，支持多种风格和情感

@@ -7,3 +7,5 @@ image: assets/DioxusLabs_awesome_dioxus_20251207_170030_549_20251207_170053_0ab1
 # [DioxusLabs/awesome-dioxus](https://github.com/DioxusLabs/awesome-dioxus/)
 
 Collection of resources for a Rust GUI library
+
+Rust GUI 库的资源集合

@@ -7,3 +7,5 @@ image: assets/wilsonfreitas_awesome_quant_20260223_072729_543_20260223_072752_b2
 # [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 
 Resources for quantitative finance
+
+量化金融资源

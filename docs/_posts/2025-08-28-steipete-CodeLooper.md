@@ -7,3 +7,5 @@ image: assets/20250827T221252096--steipete--CodeLooper--20250827T221734417--crop
 # [steipete/CodeLooper](https://github.com/steipete/CodeLooper)
 
 macOS menu bar app that keeps Cursor agents running smoothly
+
+macOS 菜单栏应用，保持 Cursor 智能体持续运行

@@ -7,3 +7,5 @@ image: assets/websitebutlers_codefire_app_20260318_071544_463_20260318_071642_fc
 # [websitebutlers/codefire-app](https://github.com/websitebutlers/codefire-app)
 
 Adds persistent memory layer to AI coding agents
+
+为AI编码Agent添加持久内存层

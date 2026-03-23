@@ -7,3 +7,5 @@ image: assets/adafruit_circuitpython_20251127_175813_432_20251130_035448_098668-
 # [adafruit/circuitpython](https://github.com/adafruit/circuitpython/)
 
 Python implementation for microcontrollers
+
+用于微控制器的 Python 实现

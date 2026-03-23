@@ -7,3 +7,5 @@ image: assets/Schlaubischlump_LocationSimulator_20260117_072224_957_20260117_072
 # [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator)
 
 Spoofs GPS coordinates for iOS devices from macOS
+
+从macOS伪造iOS设备的GPS坐标

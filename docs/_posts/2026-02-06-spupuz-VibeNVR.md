@@ -7,3 +7,5 @@ image: assets/spupuz_VibeNVR_20260203_020116_856_20260203_020205_6c9f97.png
 # [spupuz/VibeNVR](https://github.com/spupuz/VibeNVR)
 
 Video surveillance system for IP cameras with motion detection
+
+用于IP摄像头的视频监控系统，支持运动检测

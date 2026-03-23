@@ -7,3 +7,5 @@ image: assets/berylliumsec_nebula_20251107_020217_081_20251107_165810_aa953d--20
 # [berylliumsec/nebula](https://github.com/berylliumsec/nebula/)
 
 Penetration testing assistant that integrates AI models into the command-line
+
+将AI模型集成到命令行的渗透测试助手

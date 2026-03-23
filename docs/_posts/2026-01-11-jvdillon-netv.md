@@ -7,3 +7,5 @@ image: assets/jvdillon_netv_20260111_040853_451_20260111_040907_bbb8d3.png
 # [jvdillon/netv](https://github.com/jvdillon/netv)
 
 Self-hosted web interface for IPTV streams with server-side transcoding
+
+带服务器端转码的自托管IPTV流Web界面

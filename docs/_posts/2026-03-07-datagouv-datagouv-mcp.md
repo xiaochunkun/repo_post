@@ -7,3 +7,5 @@ image: assets/datagouv_datagouv_mcp_20260306_190405_619_20260306_190528_a0f156.p
 # [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp)
 
 Connect AI assistants to datasets via Model Context Protocol
+
+通过 Model Context Protocol 连接 AI 助手到数据集

@@ -7,3 +7,5 @@ image: assets/wazuh_wazuh_20260318_165132_747_20260318_165239_8b72a7.png
 # [wazuh/wazuh](https://github.com/wazuh/wazuh)
 
 Open source threat prevention and detection platform
+
+开源威胁预防和检测平台

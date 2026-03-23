@@ -7,3 +7,5 @@ image: assets/CCOSTAN_Home_AssistantConfig_20260111_041727_748_20260111_041741_f
 # [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig)
 
 Home Assistant configuration with Docker and Proxmox network diagrams
+
+Home Assistant配置，包含Docker和Proxmox网络图

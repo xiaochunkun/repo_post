@@ -7,3 +7,5 @@ image: assets/RackulaLives_Rackula_20260206_211754_230_20260206_211821_4bfc29.pn
 # [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula)
 
 Visualizes server racks with drag and drop interface
+
+拖放界面可视化服务器机架

@@ -7,3 +7,5 @@ image: assets/gohyuhan_gitti_20260115_112945_440_20260115_113008_8b8705.png
 # [gohyuhan/gitti](https://github.com/gohyuhan/gitti)
 
 Terminal interface for git operations
+
+git 操作的终端界面

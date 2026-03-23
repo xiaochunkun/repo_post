@@ -7,3 +7,5 @@ image: assets/milvus_io_bootcamp_20251224_155414_038_20251224_155432_e34e3e.png
 # [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp/)
 
 Tutorials for building AI applications with vector databases
+
+使用向量数据库构建 AI 应用的教程

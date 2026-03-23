@@ -7,3 +7,5 @@ image: assets/trustedsec_social_engineer_toolkit_20260213_182951_142_20260213_18
 # [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 
 Framework for penetration testing via social engineering
+
+通过社会工程进行渗透测试的框架

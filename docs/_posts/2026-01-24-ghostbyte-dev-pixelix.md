@@ -7,3 +7,5 @@ image: assets/ghostbyte_dev_pixelix_20260122_231401_236_20260122_231418_59aa93.p
 # [ghostbyte-dev/pixelix](https://github.com/ghostbyte-dev/pixelix)
 
 Client for the Pixelfed network
+
+Pixelfed 网络的客户端

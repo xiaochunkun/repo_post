@@ -7,3 +7,5 @@ image: assets/20251007T032231160--typpo--quickchart--20251007T034139952--cropped
 # [typpo/quickchart](https://github.com/typpo/quickchart)
 
 generate chart images or QR codes from a simple URL
+
+从简单 URL 生成图表图像或二维码

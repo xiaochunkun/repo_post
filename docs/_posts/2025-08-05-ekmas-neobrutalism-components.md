@@ -7,3 +7,5 @@ image: assets/ekmas_neobrutalism-components_cropped.png
 # [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components)
 
 ui components with a neo-brutalist look
+
+采用新粗野主义风格的 UI 组件

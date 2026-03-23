@@ -7,3 +7,5 @@ image: assets/alexbudure_queuedash_20260111_033632_378_20260111_033645_7d80d0.pn
 # [alexbudure/queuedash](https://github.com/alexbudure/queuedash)
 
 Dashboard for Bull and BullMQ queues
+
+Bull和BullMQ队列的仪表板

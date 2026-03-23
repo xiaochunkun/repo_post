@@ -7,3 +7,5 @@ image: assets/20251005T100708790--creativetimofficial--material-tailwind--202510
 # [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
 
 Tailwind CSS components inspired by Material Design for React and HTML projects
+
+受Material Design启发的Tailwind CSS组件，适用于React和HTML项目

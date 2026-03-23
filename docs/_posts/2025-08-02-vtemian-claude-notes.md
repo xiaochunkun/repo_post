@@ -7,3 +7,5 @@ image: assets/vtemian_claude-notes_cropped.png
 # [vtemian/claude-notes](https://github.com/vtemian/claude-notes)
 
 simple notes for Claude projects
+
+用于 Claude 项目的简单笔记

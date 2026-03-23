@@ -7,3 +7,5 @@ image: assets/cruip_open_react_template_20251130_064000_949_20251130_084746_aaa1
 # [cruip/open-react-template](https://github.com/cruip/open-react-template/)
 
 React and Next.js landing page template with Tailwind CSS
+
+使用 Tailwind CSS 的 React 和 Next.js 着陆页模板

@@ -7,3 +7,5 @@ image: assets/CyberAgentAILab_TANGO_20251209_061825_923_20251209_062012_bce7e0.p
 # [CyberAgentAILab/TANGO](https://github.com/CyberAgentAILab/TANGO/)
 
 Co-speech gesture video reenactment with diffusion interpolation
+
+使用扩散插值的协同语音手势视频重演

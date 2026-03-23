@@ -7,3 +7,5 @@ image: assets/CelaDaniel_free_ai_resources_x_20251226_225310_197_20251226_225327
 # [CelaDaniel/free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x/)
 
 Collection of tools and datasets for machine learning
+
+机器学习工具和数据集合集

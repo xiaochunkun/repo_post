@@ -7,3 +7,5 @@ image: assets/disler_claude_code_damage_control_20260311_111506_611_20260311_111
 # [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control)
 
 Blocks dangerous commands for Claude Code
+
+阻止 Claude Code 的危险命令

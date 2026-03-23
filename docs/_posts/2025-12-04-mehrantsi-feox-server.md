@@ -7,3 +7,5 @@ image: assets/mehrantsi_feox_server_20251201_090117_236_20251201_090216_bf692b.p
 # [mehrantsi/feox-server](https://github.com/mehrantsi/feox-server/)
 
 Redis-compatible server with thread-per-core architecture
+
+采用线程每核架构的Redis兼容服务器

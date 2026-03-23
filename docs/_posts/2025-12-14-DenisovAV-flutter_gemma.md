@@ -7,3 +7,5 @@ image: assets/DenisovAV_flutter_gemma_20251213_032723_936_20251213_032750_125892
 # [DenisovAV/flutter_gemma](https://github.com/DenisovAV/flutter_gemma/)
 
 Runs Gemma AI models locally on Flutter devices
+
+在 Flutter 设备上本地运行 Gemma AI 模型

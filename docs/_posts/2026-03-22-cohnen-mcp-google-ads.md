@@ -7,3 +7,5 @@ image: assets/cohnen_mcp_google_ads_20260321_104904_745_20260321_104930_5bbb79.p
 # [cohnen/mcp-google-ads](https://github.com/cohnen/mcp-google-ads)
 
 Google Ads analysis via Claude AI chat
+
+通过 Claude AI 聊天分析 Google Ads

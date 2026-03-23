@@ -7,3 +7,5 @@ image: assets/LooLzzz_docking_station_20251118_104915_829_20251119_212418_c7280d
 # [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station/)
 
 Manage and update Docker containers through a web interface
+
+通过 Web 界面管理和更新 Docker 容器

@@ -7,3 +7,5 @@ image: assets/doraemonkeys_claude_code_debug_mode_20260315_021811_739_20260315_0
 # [doraemonkeys/claude-code-debug-mode](https://github.com/doraemonkeys/claude-code-debug-mode)
 
 Hypothesis-driven debugging skill for AI agents
+
+AI代理的假设驱动调试技能

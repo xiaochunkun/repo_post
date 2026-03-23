@@ -7,3 +7,5 @@ image: assets/Farzad_R_LLM_Zero_to_Hundred_20260205_175017_157_20260205_175035_7
 # [Farzad-R/LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
 
 RAG and fine-tuning projects for LLMs
+
+LLM 的 RAG 和微调项目

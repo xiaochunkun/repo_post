@@ -7,3 +7,5 @@ image: assets/rahulnyk_hathi_db_20260204_204734_181_20260204_204756_0901fa.png
 # [rahulnyk/hathi-db](https://github.com/rahulnyk/hathi-db)
 
 Local-first note-taking with AI organization
+
+本地优先的笔记应用，支持AI组织

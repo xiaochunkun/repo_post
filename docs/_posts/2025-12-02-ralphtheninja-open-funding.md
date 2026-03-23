@@ -7,3 +7,5 @@ image: assets/ralphtheninja_open_funding_20251201_020608_231_20251201_020647_991
 # [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding/)
 
 Guide for funding open source projects
+
+开源项目资助指南

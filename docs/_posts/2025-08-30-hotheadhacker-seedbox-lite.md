@@ -7,3 +7,5 @@ image: assets/20250830T030835643--hotheadhacker--seedbox-lite--20250830T03230102
 # [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)
 
 stream torrents instantly with a Netflix-style web app
+
+Netflix 风格的 Web 应用，即时串流种子下载内容

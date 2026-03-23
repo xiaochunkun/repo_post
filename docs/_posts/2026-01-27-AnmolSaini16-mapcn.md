@@ -7,3 +7,5 @@ image: assets/AnmolSaini16_mapcn_20260122_001855_909_20260122_001926_c3366f.png
 # [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)
 
 Map components for MapLibre GL and Tailwind
+
+MapLibre GL和Tailwind的地图组件

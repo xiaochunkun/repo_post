@@ -7,3 +7,5 @@ image: assets/webhookx_io_webhookx_20260224_073008_917_20260224_073109_1fecf2.pn
 # [webhookx-io/webhookx](https://github.com/webhookx-io/webhookx)
 
 Gateway for receiving and delivering webhooks at scale
+
+大规模接收和交付 webhook 的网关

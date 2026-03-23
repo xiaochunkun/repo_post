@@ -7,3 +7,5 @@ image: assets/brufdev_many-notes_cropped.png
 # [brufdev/many-notes](https://github.com/brufdev/many-notes)
 
 markdown notes app with vaults and collaboration
+
+支持保险库和协作的Markdown笔记应用

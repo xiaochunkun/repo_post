@@ -7,3 +7,5 @@ image: assets/spicetify_cli_20260108_081220_720_20260108_081235_1924b0.png
 # [spicetify/cli](https://github.com/spicetify/cli)
 
 Customizes the Spotify client with CSS and extensions
+
+使用CSS和扩展自定义Spotify客户端

@@ -7,3 +7,5 @@ image: assets/Open_Source_Legal_OpenContracts_20260211_060542_369_20260211_06060
 # [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)
 
 Extracts data from documents for LLM workflows
+
+从文档中提取数据用于 LLM 工作流

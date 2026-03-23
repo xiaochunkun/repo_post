@@ -7,3 +7,5 @@ image: assets/terrastruct_d2_cropped.png
 # [terrastruct/d2](https://github.com/terrastruct/d2)
 
 text-to-diagram scripting language for making diagrams from plain text
+
+文本到图表的脚本语言，用于从纯文本制作图表

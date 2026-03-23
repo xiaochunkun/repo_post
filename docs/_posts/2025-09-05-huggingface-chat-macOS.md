@@ -7,3 +7,5 @@ image: assets/20250905T025819422--huggingface--chat-macOS--20250905T030152266--c
 # [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS)
 
 native AI chat app for macOS using HuggingFace models
+
+使用 HuggingFace 模型的 macOS 原生 AI 聊天应用

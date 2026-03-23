@@ -7,3 +7,5 @@ image: assets/20250829T023139160--byawitz--ggh--20250829T023754574--cropped.png
 # [byawitz/ggh](https://github.com/byawitz/ggh)
 
 recall and manage SSH sessions from the terminal
+
+在终端中回溯和管理 SSH 会话

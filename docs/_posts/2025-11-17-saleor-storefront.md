@@ -7,3 +7,5 @@ image: assets/saleor_storefront_20251115_221401_952_20251117_214218_78f4bb--2025
 # [saleor/storefront](https://github.com/saleor/storefront/)
 
 Starter kit for e-commerce with Next.js 13
+
+使用Next.js 13的电子商务入门套件

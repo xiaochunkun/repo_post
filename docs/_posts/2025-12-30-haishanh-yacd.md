@@ -7,3 +7,5 @@ image: assets/haishanh_yacd_20251228_214849_808_20251228_214906_5f74ae.png
 # [haishanh/yacd](https://github.com/haishanh/yacd/)
 
 Web dashboard for Clash with traffic monitoring
+
+具备流量监控功能的 Clash Web 仪表盘

@@ -7,3 +7,5 @@ image: assets/AgentEra_Agently_20251025_033123_478_20251025_040511_099be2--20251
 # [AgentEra/Agently](https://github.com/AgentEra/Agently/)
 
 A framework for building event-driven GenAI applications
+
+构建事件驱动GenAI应用的框架

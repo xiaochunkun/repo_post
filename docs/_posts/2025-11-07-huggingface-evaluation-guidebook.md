@@ -7,3 +7,5 @@ image: assets/huggingface_evaluation_guidebook_20251106_153532_663_20251106_1744
 # [huggingface/evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook/)
 
 Guide to LLM evaluation with tips and tricks
+
+LLM评估指南，包含技巧和建议

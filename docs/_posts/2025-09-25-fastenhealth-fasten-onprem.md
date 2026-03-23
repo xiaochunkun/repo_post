@@ -7,3 +7,5 @@ image: assets/20250925T043525127--fastenhealth--fasten-onprem--20250925T04493178
 # [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem)
 
 self-hosted app to organize and sync your family’s medical records in one place
+
+自托管应用，用于在一个地方组织和同步家庭医疗记录

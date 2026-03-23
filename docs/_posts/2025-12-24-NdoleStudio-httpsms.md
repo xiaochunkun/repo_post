@@ -7,3 +7,5 @@ image: assets/NdoleStudio_httpsms_20251223_093928_034_20251223_093946_736a61.png
 # [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms/)
 
 Turns an Android phone into an SMS gateway
+
+将Android手机转换为SMS网关

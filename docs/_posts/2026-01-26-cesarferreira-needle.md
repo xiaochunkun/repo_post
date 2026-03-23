@@ -7,3 +7,5 @@ image: assets/cesarferreira_needle_20260118_072539_275_20260118_072552_0f9cc7.pn
 # [cesarferreira/needle](https://github.com/cesarferreira/needle)
 
 TUI for tracking GitHub PRs
+
+GitHub PR追踪TUI

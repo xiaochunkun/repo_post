@@ -7,3 +7,5 @@ image: assets/20250929T215417369--AcademySoftwareFoundation--OpenTimelineIO--202
 # [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)
 
 API and format for exchanging editorial timeline data in film and TV production
+
+用于电影和电视制作中交换编辑时间线数据的API和格式

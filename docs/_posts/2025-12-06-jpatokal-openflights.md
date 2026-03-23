@@ -7,3 +7,5 @@ image: assets/jpatokal_openflights_20251203_003325_356_20251203_003348_01bd2c.pn
 # [jpatokal/openflights](https://github.com/jpatokal/openflights/)
 
 Maps flights and calculates statistics
+
+映射航班并计算统计数据

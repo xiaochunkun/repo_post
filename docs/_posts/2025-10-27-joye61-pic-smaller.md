@@ -7,3 +7,5 @@ image: assets/joye61_pic_smaller_20251025_120155_499_20251025_224502_1dfec8--202
 # [joye61/pic-smaller](https://github.com/joye61/pic-smaller/)
 
 An online image compression tool with local processing
+
+本地处理的在线图像压缩工具

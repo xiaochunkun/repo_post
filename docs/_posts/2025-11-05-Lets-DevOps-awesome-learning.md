@@ -7,3 +7,5 @@ image: assets/Lets_DevOps_awesome_learning_20251105_042755_049_20251105_123525_6
 # [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning/)
 
 List of resources for learning DevOps
+
+DevOps学习资源列表

@@ -7,3 +7,5 @@ image: assets/20251015T010746013--psalias2006--gpu-hot--20251015T011015254--crop
 # [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)
 
 real-time dashboard for monitoring NVIDIA GPUs in your browser
+
+浏览器中实时监控 NVIDIA GPU 的仪表板

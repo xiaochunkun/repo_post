@@ -7,3 +7,5 @@ image: assets/DevEmperor_Dictate_20260227_114337_728_20260227_114558_37d15f.png
 # [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate)
 
 Keyboard for transcription and rewording with OpenAI Whisper and GPT-4 Omni
+
+使用 OpenAI Whisper 和 GPT-4 Omni 进行转录和重写的键盘工具

@@ -7,3 +7,5 @@ image: assets/rupeshs_fastsdcpu_20260122_073902_250_20260122_073918_a9c970.png
 # [rupeshs/fastsdcpu](https://github.com/rupeshs/fastsdcpu)
 
 Generates images on CPUs using OpenVINO
+
+使用OpenVINO在CPU上生成图像

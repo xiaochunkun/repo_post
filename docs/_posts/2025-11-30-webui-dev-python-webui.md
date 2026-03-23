@@ -7,3 +7,5 @@ image: assets/webui_dev_python_webui_20251127_174049_024_20251129_023315_435803-
 # [webui-dev/python-webui](https://github.com/webui-dev/python-webui/)
 
 Use any web browser as a GUI for Python
+
+使用任何网页浏览器作为 Python 的 GUI

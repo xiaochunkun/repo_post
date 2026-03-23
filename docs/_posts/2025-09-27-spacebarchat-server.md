@@ -7,3 +7,5 @@ image: assets/20250927T042601422--spacebarchat--server--20250927T043610982--crop
 # [spacebarchat/server](https://github.com/spacebarchat/server)
 
 Discord backend re-implementation with extra features
+
+重新实现的Discord后端，附带额外功能

@@ -7,3 +7,5 @@ image: assets/versatica_mediasoup_20251123_193139_989_20251125_012106_878dc7--20
 # [versatica/mediasoup](https://github.com/versatica/mediasoup/)
 
 WebRTC video conferencing SFU library
+
+WebRTC 视频会议 SFU 库

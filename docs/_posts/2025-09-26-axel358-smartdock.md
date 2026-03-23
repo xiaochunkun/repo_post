@@ -7,3 +7,5 @@ image: assets/20250925T214317588--axel358--smartdock--20250925T214705921--croppe
 # [axel358/smartdock](https://github.com/axel358/smartdock)
 
 customizable Android desktop mode launcher with multi-window and keyboard shortcut support
+
+可定制的Android桌面模式启动器，支持多窗口和键盘快捷键

@@ -7,3 +7,5 @@ image: assets/martianlantern_ThinkMesh_20251207_225826_751_20251207_225859_ef77e
 # [martianlantern/ThinkMesh](https://github.com/martianlantern/ThinkMesh/)
 
 Executes reasoning paths in parallel with language models
+
+并行执行语言模型的推理路径

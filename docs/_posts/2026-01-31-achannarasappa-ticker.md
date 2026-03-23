@@ -7,3 +7,5 @@ image: assets/achannarasappa_ticker_20260130_170532_342_20260130_170611_cecec3.p
 # [achannarasappa/ticker](https://github.com/achannarasappa/ticker)
 
 Terminal stock and crypto price watcher
+
+终端股票和加密货币价格监视器

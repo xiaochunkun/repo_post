@@ -7,3 +7,5 @@ image: assets/atisawd_boxicons_20251025_112314_504_20251025_113358_14c305--20251
 # [atisawd/boxicons](https://github.com/atisawd/boxicons/)
 
 Icon set with 1500+ icons
+
+包含1500多个图标的图标集

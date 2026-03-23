@@ -7,3 +7,5 @@ image: assets/jacobamobin_AppleIntelligenceGlowEffect_20251213_132602_584_202512
 # [jacobamobin/AppleIntelligenceGlowEffect](https://github.com/jacobamobin/AppleIntelligenceGlowEffect/)
 
 SwiftUI implementation of Apple Intelligence glow effect
+
+Apple Intelligence发光效果的SwiftUI实现

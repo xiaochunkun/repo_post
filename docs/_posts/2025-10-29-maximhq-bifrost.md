@@ -7,3 +7,5 @@ image: assets/maximhq_bifrost_20251029_070431_508_20251029_083414_e1cb82--202510
 # [maximhq/bifrost](https://github.com/maximhq/bifrost/)
 
 AI gateway unifying 12+ providers through one API
+
+通过单一 API 统一 12+ 个提供商的 AI 网关

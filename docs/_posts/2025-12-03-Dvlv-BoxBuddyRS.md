@@ -7,3 +7,5 @@ image: assets/Dvlv_BoxBuddyRS_20251201_051544_728_20251201_051622_462eb2.png
 # [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS/)
 
 GUI for managing Distroboxes with GTK4
+
+使用 GTK4 管理 Distroboxes 的 GUI

@@ -7,3 +7,5 @@ image: assets/1rgs_nanocode_20260212_053348_938_20260212_053405_5a5a35.png
 # [1rgs/nanocode](https://github.com/1rgs/nanocode)
 
 Coding assistant in 250 lines of Python
+
+250行Python编写的编码助手

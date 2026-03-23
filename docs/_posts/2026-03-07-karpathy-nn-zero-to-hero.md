@@ -7,3 +7,5 @@ image: assets/karpathy_nn_zero_to_hero_20260306_192030_130_20260306_192148_6ddb7
 # [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 
 Build neural networks from scratch via video lectures
+
+通过视频讲座从零构建神经网络

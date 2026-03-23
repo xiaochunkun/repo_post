@@ -7,3 +7,5 @@ image: assets/qosf_awesome_quantum_software_20260311_185032_449_20260311_185412_
 # [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
 
 List of quantum software projects
+
+量子软件项目列表

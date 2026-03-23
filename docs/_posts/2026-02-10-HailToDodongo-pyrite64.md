@@ -7,3 +7,5 @@ image: assets/HailToDodongo_pyrite64_20260205_142547_590_20260205_142602_2bd752.
 # [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64)
 
 N64 game engine and editor using libdragon and tiny3d
+
+使用libdragon和tiny3d的N64游戏引擎和编辑器

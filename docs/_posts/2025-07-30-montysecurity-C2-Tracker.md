@@ -7,3 +7,5 @@ image: assets/montysecurity_C2-Tracker_cropped.png
 # [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker)
 
 tracks malware and C2 server IPs for threat intel
+
+跟踪恶意软件和C2服务器IP以获取威胁情报

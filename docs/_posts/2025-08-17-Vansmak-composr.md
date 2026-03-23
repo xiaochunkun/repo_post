@@ -7,3 +7,5 @@ image: assets/Vansmak_composr--20250816T051346903--cropped.png
 # [Vansmak/composr](https://github.com/Vansmak/composr)
 
 web dashboard for managing docker compose projects and backups
+
+用于管理 Docker Compose 项目和备份的 Web 仪表板

@@ -7,3 +7,5 @@ image: assets/fioncat_otree_20251125_002214_263_20251126_100330_ac3b3e--20251126
 # [fioncat/otree](https://github.com/fioncat/otree/)
 
 TUI viewer for JSON, YAML, TOML, and XML objects
+
+JSON、YAML、TOML 和 XML 对象的 TUI 查看器

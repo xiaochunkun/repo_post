@@ -7,3 +7,5 @@ image: assets/alibaba_page_agent_20251122_110621_613_20251122_111543_ace8a2--202
 # [alibaba/page-agent](https://github.com/alibaba/page-agent/)
 
 Automates browser interactions via text
+
+通过文本自动化浏览器交互

@@ -7,3 +7,5 @@ image: assets/RevoltSecurities_ShodanX_20260209_194919_835_20260209_194939_99841
 # [RevoltSecurities/ShodanX](https://github.com/RevoltSecurities/ShodanX)
 
 Recon and OSINT tool for Shodan in the terminal
+
+终端中的 Shodan 侦察和 OSINT 工具

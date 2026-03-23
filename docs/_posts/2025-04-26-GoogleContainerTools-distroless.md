@@ -7,3 +7,5 @@ image: assets/GoogleContainerTools_distroless_cropped.png
 # [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless)
 
 Container images for deploying apps without a package manager or shell
+
+用于部署应用的无包管理器或shell的容器镜像

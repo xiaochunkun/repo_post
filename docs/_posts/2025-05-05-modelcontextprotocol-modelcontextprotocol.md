@@ -7,3 +7,5 @@ image: assets/modelcontextprotocol_modelcontextprotocol_cropped.png
 # [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
 
 Spec and docs for Model Context Protocol
+
+Model Context Protocol 的规范和文档

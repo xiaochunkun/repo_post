@@ -7,3 +7,5 @@ image: assets/om_ai_lab_OmAgent_20251107_220704_313_20251107_235601_3ac023--2025
 # [om-ai-lab/OmAgent](https://github.com/om-ai-lab/OmAgent/)
 
 Builds multimodal agents with graph-based workflows
+
+使用基于图的工作流构建多模态代理

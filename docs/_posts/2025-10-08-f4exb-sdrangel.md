@@ -7,3 +7,5 @@ image: assets/20251007T051334429--f4exb--sdrangel--20251007T052146326--cropped.p
 # [f4exb/sdrangel](https://github.com/f4exb/sdrangel)
 
 software defined radio frontend for signal analysis and hardware control
+
+软件定义无线电前端，用于信号分析和硬件控制

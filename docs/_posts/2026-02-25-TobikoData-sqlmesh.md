@@ -7,3 +7,5 @@ image: assets/TobikoData_sqlmesh_20260203_170051_649_20260203_170136_d9764b.png
 # [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh)
 
 Data transformation framework for SQL and Python
+
+SQL 和 Python 的数据转换框架

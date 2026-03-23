@@ -7,3 +7,5 @@ image: assets/rh1tech_frankos_20260217_123833_074_20260217_123929_08eccd.png
 # [rh1tech/frankos](https://github.com/rh1tech/frankos)
 
 FreeRTOS operating system for the RP2350 microcontroller
+
+RP2350 微控制器的 FreeRTOS 操作系统

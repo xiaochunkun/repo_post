@@ -7,3 +7,5 @@ image: assets/20250906T025229727--caorushizi--mediago--20250906T025958164--cropp
 # [caorushizi/mediago](https://github.com/caorushizi/mediago)
 
 download m3u8 streaming videos to your desktop with mediago
+
+用 mediago 将 m3u8 流媒体视频下载到本地

@@ -7,3 +7,5 @@ image: assets/Cookee24_PairTranslate_20251203_000059_670_20251203_000135_31cb4c.
 # [Cookee24/PairTranslate](https://github.com/Cookee24/PairTranslate/)
 
 Browser extension displays translations alongside original text
+
+在原文旁显示翻译的浏览器扩展

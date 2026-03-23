@@ -7,3 +7,5 @@ image: assets/20251001T191602017--G-Ray--pikatorrent--20251001T192254280--croppe
 # [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent)
 
 stream and download torrents on any device
+
+在任何设备上流式传输和下载种子

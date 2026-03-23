@@ -7,3 +7,5 @@ image: assets/chatwoot_chatwoot_cropped.png
 # [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 
 Open-source customer support platform for chat and email
+
+开源客户支持平台，用于聊天和邮件

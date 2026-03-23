@@ -7,3 +7,5 @@ image: assets/makerever_rever_20260116_035353_944_20260116_035408_43fd9e.png
 # [makerever/rever](https://github.com/makerever/rever)
 
 Automates finance workflows for CFOs
+
+为 CFO 自动化财务工作流

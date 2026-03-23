@@ -7,3 +7,5 @@ image: assets/streetwriters_notesnook_20260203_003634_221_20260203_003651_234d1c
 # [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
 
 Encrypted note taking alternative to Evernote
+
+加密笔记应用，替代Evernote

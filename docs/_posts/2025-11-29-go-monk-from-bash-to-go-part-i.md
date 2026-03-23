@@ -7,3 +7,5 @@ image: assets/go_monk_from_bash_to_go_part_i_20251126_002426_695_20251128_213821
 # [go-monk/from-bash-to-go-part-i](https://github.com/go-monk/from-bash-to-go-part-i/)
 
 Introduction to Go for Bash programmers
+
+面向Bash程序员的Go语言入门

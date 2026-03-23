@@ -7,3 +7,5 @@ image: assets/LinkStackOrg_linkstack_docker_20260122_100616_032_20260122_100640_
 # [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker)
 
 Self-hosted link sharing platform for personal profile pages
+
+用于个人资料页面的自托管链接分享平台

@@ -7,3 +7,5 @@ image: assets/coaidev_coai--20250815T013514011--cropped.png
 # [coaidev/coai](https://github.com/coaidev/coai)
 
 AI chat platform with multi-model support, rich UI, and business tools
+
+AI聊天平台，支持多模型、丰富UI和商业工具

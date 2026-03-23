@@ -7,3 +7,5 @@ image: assets/tdurieux_anonymous_github_20251127_173338_468_20251129_023230_2db9
 # [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github/)
 
 Anonymizes repositories for double-blind paper submissions
+
+为双盲论文提交匿名化仓库

@@ -7,3 +7,5 @@ image: assets/dchest_tweetnacl_js_20251208_225716_686_20251208_225823_9e2d6a.png
 # [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js/)
 
 Port of TweetNaCl cryptography library to JavaScript
+
+TweetNaCl加密库的JavaScript移植版

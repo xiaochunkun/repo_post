@@ -7,3 +7,5 @@ image: assets/git_up_GitUp_20260210_161256_451_20260210_161333_e1bd76.png
 # [git-up/GitUp](https://github.com/git-up/GitUp)
 
 Git client with live repo graph and undo functionality
+
+带有实时仓库图和撤销功能的Git客户端

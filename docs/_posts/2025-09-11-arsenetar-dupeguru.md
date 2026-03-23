@@ -7,3 +7,5 @@ image: assets/20250911T022647045--arsenetar--dupeguru--20250911T023147050--cropp
 # [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru)
 
 cross-platform tool to find and manage duplicate files
+
+跨平台查找和管理重复文件的工具

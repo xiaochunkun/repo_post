@@ -7,3 +7,5 @@ image: assets/20250904T000026907--alufers--mitmproxy2swagger--20250904T000702105
 # [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger)
 
 turn mitmproxy traffic into OpenAPI specs automatically
+
+自动将 mitmproxy 流量转换为 OpenAPI 规范

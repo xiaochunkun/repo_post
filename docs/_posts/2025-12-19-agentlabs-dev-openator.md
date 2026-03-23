@@ -7,3 +7,5 @@ image: assets/agentlabs_dev_openator_20251218_013805_155_20251218_013857_24539f.
 # [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator/)
 
 Browser agent for planning and executing tasks via natural language
+
+通过自然语言规划和执行任务的浏览器代理

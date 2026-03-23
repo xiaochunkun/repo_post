@@ -7,3 +7,5 @@ image: assets/elebumm_RedditVideoMakerBot_cropped.png
 # [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 
 Makes Reddit posts into videos with one command
+
+一键将Reddit帖子转换为视频

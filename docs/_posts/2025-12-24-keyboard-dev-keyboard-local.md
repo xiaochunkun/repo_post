@@ -7,3 +7,5 @@ image: assets/keyboard_dev_keyboard_local_20251222_232201_063_20251222_232229_46
 # [keyboard-dev/keyboard-local](https://github.com/keyboard-dev/keyboard-local/)
 
 Connects AI clients to APIs through MCP
+
+通过MCP连接AI客户端到API

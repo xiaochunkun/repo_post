@@ -7,3 +7,5 @@ image: assets/microsoft_Foundry_Local_20260209_223611_189_20260209_223630_644f15
 # [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
 
 Runs Azure AI models on local hardware
+
+在本地硬件上运行 Azure AI 模型

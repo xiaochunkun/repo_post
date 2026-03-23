@@ -7,3 +7,5 @@ image: assets/dataform_co_dataform_20260112_095610_067_20260112_095628_40c599.pn
 # [dataform-co/dataform](https://github.com/dataform-co/dataform)
 
 Framework for managing SQL data operations in BigQuery
+
+用于管理BigQuery中SQL数据操作的框架

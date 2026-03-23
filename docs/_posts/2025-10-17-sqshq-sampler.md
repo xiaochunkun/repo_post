@@ -7,3 +7,5 @@ image: assets/screenshot_20251017_180444--20251017T200444510--cropped.png
 # [sqshq/sampler](https://github.com/sqshq/sampler/)
 
 Turns shell command output into terminal dashboards
+
+将shell命令输出转换为终端仪表板

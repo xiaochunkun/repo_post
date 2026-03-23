@@ -7,3 +7,5 @@ image: assets/ntk148v_clicklens_20260212_183110_261_20260212_183234_e96cb5.png
 # [ntk148v/clicklens](https://github.com/ntk148v/clicklens)
 
 Web interface for managing and monitoring ClickHouse databases
+
+管理和监控 ClickHouse 数据库的 Web 界面

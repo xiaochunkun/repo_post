@@ -7,3 +7,5 @@ image: assets/juliangarnier_anime_20260227_045124_694_20260227_045302_66e07f.png
 # [juliangarnier/anime](https://github.com/juliangarnier/anime)
 
 JavaScript animation engine for CSS and SVG
+
+用于 CSS 和 SVG 的 JavaScript 动画引擎

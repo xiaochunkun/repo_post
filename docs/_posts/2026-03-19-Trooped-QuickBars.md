@@ -7,3 +7,5 @@ image: assets/Trooped_QuickBars_20260310_170102_898_20260310_170541_fad3a5.png
 # [Trooped/QuickBars](https://github.com/Trooped/QuickBars)
 
 Home Assistant control overlay for Android TV
+
+Android TV的Home Assistant控制覆盖层

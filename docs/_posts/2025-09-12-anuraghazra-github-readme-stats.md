@@ -7,3 +7,5 @@ image: assets/20250901T033422923--anuraghazra--github-readme-stats--20250911T233
 # [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 dynamic GitHub stats cards for your profile readme
+
+为你的 GitHub 个人主页动态生成统计卡片

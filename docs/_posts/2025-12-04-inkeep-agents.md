@@ -7,3 +7,5 @@ image: assets/inkeep_agents_20251201_094402_078_20251201_094514_772fbd.png
 # [inkeep/agents](https://github.com/inkeep/agents/)
 
 Builds AI agents with 2-way sync between visual builder and code
+
+构建AI代理，支持可视化构建器与代码双向同步

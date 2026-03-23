@@ -7,3 +7,5 @@ image: assets/opengeos_qgis_maxar_plugin_20260115_113803_289_20260115_113844_938
 # [opengeos/qgis-maxar-plugin](https://github.com/opengeos/qgis-maxar-plugin)
 
 Downloads satellite imagery for disaster events
+
+下载灾害事件的卫星图像

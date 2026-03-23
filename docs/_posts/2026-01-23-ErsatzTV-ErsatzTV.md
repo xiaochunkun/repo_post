@@ -7,3 +7,5 @@ image: assets/ErsatzTV_ErsatzTV_20260122_052451_277_20260122_052520_a9f76d.png
 # [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV)
 
 Transforms media libraries into TV channels
+
+将媒体库转换为电视频道

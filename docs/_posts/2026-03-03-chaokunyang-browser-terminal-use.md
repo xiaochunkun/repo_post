@@ -7,3 +7,5 @@ image: assets/chaokunyang_browser_terminal_use_20260212_155113_288_20260212_1552
 # [chaokunyang/browser-terminal-use](https://github.com/chaokunyang/browser-terminal-use)
 
 Streams commands from local terminals to browser-hosted shells
+
+将本地终端命令流式传输到浏览器托管的shell

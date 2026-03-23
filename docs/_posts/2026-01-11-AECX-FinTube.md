@@ -7,3 +7,5 @@ image: assets/AECX_FinTube_20260111_050717_096_20260111_050730_3e705d.png
 # [AECX/FinTube](https://github.com/AECX/FinTube)
 
 Imports YouTube content into Jellyfin
+
+将YouTube内容导入Jellyfin

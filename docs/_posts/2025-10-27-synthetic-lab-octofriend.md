@@ -7,3 +7,5 @@ image: assets/synthetic_lab_octofriend_20251026_223041_360_20251027_001623_7f9a2
 # [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend/)
 
 Zero-telemetry coding assistant
+
+零遥测的编码助手

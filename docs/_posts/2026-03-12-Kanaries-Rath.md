@@ -7,3 +7,5 @@ image: assets/Kanaries_Rath_20260309_081224_492_20260309_081510_55e79d.png
 # [Kanaries/Rath](https://github.com/Kanaries/Rath)
 
 Automates data analysis and visualization with augmented analytics
+
+通过增强分析自动化数据分析和可视化

@@ -7,3 +7,5 @@ image: assets/jesseduffield_lazydocker_20260203_012910_649_20260203_012938_ddfe3
 # [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 
 Terminal UI for Docker and Docker Compose
+
+Docker和Docker Compose的终端UI

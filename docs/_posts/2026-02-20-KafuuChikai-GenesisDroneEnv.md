@@ -7,3 +7,5 @@ image: assets/KafuuChikai_GenesisDroneEnv_20260207_012418_743_20260207_012437_ff
 # [KafuuChikai/GenesisDroneEnv](https://github.com/KafuuChikai/GenesisDroneEnv)
 
 Drone simulation environment for reinforcement learning and geometric control
+
+用于强化学习和几何控制的无人机模拟环境

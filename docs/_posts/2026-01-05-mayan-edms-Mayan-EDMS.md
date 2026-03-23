@@ -7,3 +7,5 @@ image: assets/mayan_edms_Mayan_EDMS_20260104_084057_961_20260104_084114_eb15f5.p
 # [mayan-edms/Mayan-EDMS](https://github.com/mayan-edms/Mayan-EDMS/)
 
 Document management system with OCR and REST API
+
+支持OCR和REST API的文档管理系统

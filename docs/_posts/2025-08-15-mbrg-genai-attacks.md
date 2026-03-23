@@ -7,3 +7,5 @@ image: assets/20250815T010436190_mbrg_genai-attacks--20250815T011253651--cropped
 # [mbrg/genai-attacks](https://github.com/mbrg/genai-attacks)
 
 A matrix listing attack techniques and tactics used against AI agents, copilots, and autonomous systems
+
+针对 AI 代理、Copilot 和自主系统的攻击技术与战术矩阵列表

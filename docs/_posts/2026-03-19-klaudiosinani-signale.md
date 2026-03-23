@@ -7,3 +7,5 @@ image: assets/klaudiosinani_signale_20260319_085050_688_20260319_085427_806aae.p
 # [klaudiosinani/signale](https://github.com/klaudiosinani/signale)
 
 Library with 19 loggers
+
+包含 19 个日志记录器的库

@@ -7,3 +7,5 @@ image: assets/seriousm4x_UpSnap_cropped.png
 # [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap)
 
 wake on lan web app with SvelteKit and Go
+
+基于SvelteKit和Go的网络唤醒应用

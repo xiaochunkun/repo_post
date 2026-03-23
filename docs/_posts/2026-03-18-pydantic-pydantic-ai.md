@@ -7,3 +7,5 @@ image: assets/pydantic_pydantic_ai_20260317_212540_111_20260317_212728_c488aa.pn
 # [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
 Agent framework for Generative AI
+
+生成式AI的Agent框架

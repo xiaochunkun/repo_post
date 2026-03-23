@@ -7,3 +7,5 @@ image: assets/VAST_AI_Research_UniRig_20251209_013012_079_20251209_013037_65d437
 # [VAST-AI-Research/UniRig](https://github.com/VAST-AI-Research/UniRig/)
 
 Unified solution for automatic 3D model rigging
+
+自动3D模型绑定的统一解决方案

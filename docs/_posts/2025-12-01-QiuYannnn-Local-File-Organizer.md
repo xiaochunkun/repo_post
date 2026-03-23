@@ -7,3 +7,5 @@ image: assets/QiuYannnn_Local_File_Organizer_20251130_075412_334_20251201_004330
 # [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer/)
 
 AI file organizer runs locally
+
+本地运行的AI文件整理工具

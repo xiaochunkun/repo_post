@@ -7,3 +7,5 @@ image: assets/Ghiles1010_Cratos_UI_20260308_170757_233_20260308_170907_9b3027.pn
 # [Ghiles1010/Cratos-UI](https://github.com/Ghiles1010/Cratos-UI)
 
 Interface for managing and monitoring tasks in Cratos scheduler
+
+Cratos 调度器中管理和监控任务的界面

@@ -7,3 +7,5 @@ image: assets/darkreader_darkreader_20260210_003317_202_20260210_003337_cd0ce0.p
 # [darkreader/darkreader](https://github.com/darkreader/darkreader)
 
 Generates dark mode for websites
+
+为网站生成深色模式

@@ -7,3 +7,5 @@ image: assets/gitalexcampos_koreader_Highlight_Sync_20251204_212745_897_20251204
 # [gitalexcampos/koreader-Highlight-Sync](https://github.com/gitalexcampos/koreader-Highlight-Sync/)
 
 Syncs KOReader highlights via WebDAV or Dropbox
+
+通过WebDAV或Dropbox同步KOReader高亮

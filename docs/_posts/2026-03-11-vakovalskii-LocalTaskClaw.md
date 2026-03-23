@@ -7,3 +7,5 @@ image: assets/vakovalskii_LocalTaskClaw_20260309_122717_199_20260309_122859_4cfe
 # [vakovalskii/LocalTaskClaw](https://github.com/vakovalskii/LocalTaskClaw)
 
 AI agent with Telegram interface and MCP support
+
+具有 Telegram 界面和 MCP 支持的 AI 代理

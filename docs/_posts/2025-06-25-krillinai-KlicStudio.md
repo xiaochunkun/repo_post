@@ -7,3 +7,5 @@ image: assets/krillinai_KlicStudio_cropped.png
 # [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio)
 
 video translation and dubbing tool using language models
+
+使用语言模型的视频翻译和配音工具

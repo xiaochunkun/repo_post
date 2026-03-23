@@ -7,3 +7,5 @@ image: assets/under_Peter_OMEinsum_jl_20260208_012132_231_20260208_012151_ffe1ce
 # [under-Peter/OMEinsum.jl](https://github.com/under-Peter/OMEinsum.jl)
 
 Einstein summation with automatic differentiation for Julia
+
+Julia 的自动微分爱因斯坦求和

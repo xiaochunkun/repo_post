@@ -7,3 +7,5 @@ image: assets/MCPJam_inspector_cropped.png
 # [MCPJam/inspector](https://github.com/MCPJam/inspector)
 
 Postman-style tool for testing and debugging MCP servers
+
+Postman风格工具，用于测试和调试MCP服务器

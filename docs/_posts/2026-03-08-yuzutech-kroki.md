@@ -7,3 +7,5 @@ image: assets/yuzutech_kroki_20260305_045909_256_20260305_050022_c91e0f.png
 # [yuzutech/kroki](https://github.com/yuzutech/kroki)
 
 API for generation of diagrams from text
+
+从文本生成图表的API

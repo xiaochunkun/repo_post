@@ -7,3 +7,5 @@ image: assets/langwatch_langwatch_20260203_002517_998_20260203_002539_8d9f0c.png
 # [langwatch/langwatch](https://github.com/langwatch/langwatch)
 
 Platform for LLM analytics and prompt optimization
+
+用于 LLM 分析和提示优化的平台

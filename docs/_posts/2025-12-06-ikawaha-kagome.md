@@ -7,3 +7,5 @@ image: assets/ikawaha_kagome_20251204_211848_651_20251204_211911_19599f.png
 # [ikawaha/kagome](https://github.com/ikawaha/kagome/)
 
 Japanese morphological analyzer written in pure Go
+
+纯Go编写的日语形态分析器

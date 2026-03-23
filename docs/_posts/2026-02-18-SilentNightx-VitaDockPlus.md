@@ -7,3 +7,5 @@ image: assets/SilentNightx_VitaDockPlus_20260205_131028_019_20260205_131057_28f1
 # [SilentNightx/VitaDockPlus](https://github.com/SilentNightx/VitaDockPlus)
 
 Linux distribution for Raspberry Pi to dock a PlayStation Vita to a TV
+
+用于将 PlayStation Vita 连接到电视的 Raspberry Pi Linux 发行版

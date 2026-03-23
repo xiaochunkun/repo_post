@@ -7,3 +7,5 @@ image: assets/kimdre_doco_cd_20251118_100359_186_20251118_161510_b378d3--2025111
 # [kimdre/doco-cd](https://github.com/kimdre/doco-cd/)
 
 GitOps tool for Docker Compose
+
+用于 Docker Compose 的 GitOps 工具

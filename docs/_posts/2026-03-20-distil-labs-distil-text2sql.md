@@ -7,3 +7,5 @@ image: assets/distil_labs_distil_text2sql_20260316_185545_308_20260316_185610_3a
 # [distil-labs/distil-text2sql](https://github.com/distil-labs/distil-text2sql)
 
 Converts plain English questions to SQL queries
+
+将普通英语问题转换为 SQL 查询

@@ -7,3 +7,5 @@ image: assets/rothgar_awesome_tuis_20260221_212339_808_20260221_212413_fa2ca2.pn
 # [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
 
 List of terminal user interfaces
+
+终端用户界面列表

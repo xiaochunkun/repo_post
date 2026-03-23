@@ -7,3 +7,5 @@ image: assets/thomasbrueggemann_paperless_desktop_20260119_211624_242_20260119_2
 # [thomasbrueggemann/paperless-desktop](https://github.com/thomasbrueggemann/paperless-desktop)
 
 Desktop app for managing document scans via the paperless API
+
+通过paperless API管理文档扫描的桌面应用

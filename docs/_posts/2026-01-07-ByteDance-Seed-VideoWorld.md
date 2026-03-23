@@ -7,3 +7,5 @@ image: assets/ByteDance_Seed_VideoWorld_20251219_101153_026_20251219_101211_92f2
 # [ByteDance-Seed/VideoWorld](https://github.com/ByteDance-Seed/VideoWorld/)
 
 Learns knowledge from unlabeled videos through generative modeling
+
+通过生成式建模从未标记视频中学习知识

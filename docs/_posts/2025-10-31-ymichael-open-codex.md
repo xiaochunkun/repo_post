@@ -7,3 +7,5 @@ image: assets/ymichael_open_codex_20251030_234334_735_20251031_000705_5e2433--20
 # [ymichael/open-codex](https://github.com/ymichael/open-codex/)
 
 Coding agent in the terminal with multi-provider support
+
+终端中的编码代理，支持多提供商

@@ -7,3 +7,5 @@ image: assets/20250903T024957014--starfederation--datastar--20250903T030318989--
 # [starfederation/datastar](https://github.com/starfederation/datastar)
 
 hypermedia framework for reactive web apps
+
+用于构建响应式 Web 应用的超媒体框架

@@ -7,3 +7,5 @@ image: assets/20250823T013930355--hydralauncher--hydra--20250823T014230247--crop
 # [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
 
 open-source game launcher for managing your library and cloud saves
+
+开源游戏启动器，管理游戏库和云存档

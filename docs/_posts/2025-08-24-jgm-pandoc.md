@@ -7,3 +7,5 @@ image: assets/20250822T025629261--jgm--pandoc--20250822T030247729--cropped.png
 # [jgm/pandoc](https://github.com/jgm/pandoc)
 
 convert files between markdown, docx, pdf, html, and more with pandoc
+
+使用 Pandoc 在 Markdown、Word、PDF、HTML 等格式间自由转换

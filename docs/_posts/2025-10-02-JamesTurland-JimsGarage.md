@@ -7,3 +7,5 @@ image: assets/20251001T203458668--JamesTurland--JimsGarage--20251001T204003149--
 # [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage)
 
 Collection of Docker Compose and config file examples for self-hosting apps, easy to tweak and deploy for your own setup
+
+自托管应用的Docker Compose和配置文件示例集合，易于调整和部署到您的设置中

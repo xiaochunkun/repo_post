@@ -7,3 +7,5 @@ image: assets/vaginessa_qrcp_WinGUI_github_io_20260120_160806_921_20260120_16082
 # [vaginessa/qrcp_WinGUI.github.io](https://github.com/vaginessa/qrcp_WinGUI.github.io)
 
 Transfers files over Wi-Fi via QR codes
+
+通过 QR 码在 Wi-Fi 上传输文件

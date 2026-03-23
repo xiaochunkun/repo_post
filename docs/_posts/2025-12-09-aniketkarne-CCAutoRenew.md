@@ -7,3 +7,5 @@ image: assets/aniketkarne_CCAutoRenew_20251207_210334_789_20251207_210357_578e6f
 # [aniketkarne/CCAutoRenew](https://github.com/aniketkarne/CCAutoRenew/)
 
 Automates Claude Code session renewal
+
+自动化Claude Code会话续期

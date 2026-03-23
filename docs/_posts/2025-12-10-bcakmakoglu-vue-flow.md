@@ -7,3 +7,5 @@ image: assets/bcakmakoglu_vue_flow_20251207_233637_293_20251207_233709_2bd752.pn
 # [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow/)
 
 Customizable Vue 3 flowchart component
+
+可定制的Vue 3流程图组件

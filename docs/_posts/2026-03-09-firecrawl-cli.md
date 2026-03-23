@@ -7,3 +7,5 @@ image: assets/firecrawl_cli_20260303_030913_055_20260303_031044_e1a36b.png
 # [firecrawl/cli](https://github.com/firecrawl/cli)
 
 Scrapes websites into data from the terminal
+
+从终端抓取网站数据

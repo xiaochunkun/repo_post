@@ -7,3 +7,5 @@ image: assets/Lightricks_LTX-Video_cropped.png
 # [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
 
 LTX-Video, open source code for a model that generates videos from prompts or images using diffusion transformers
+
+LTX-Video，使用扩散变换器从提示或图像生成视频的模型开源代码

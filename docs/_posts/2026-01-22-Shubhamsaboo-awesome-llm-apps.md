@@ -7,3 +7,5 @@ image: assets/Shubhamsaboo_awesome_llm_apps_20260122_024359_563_20260122_024417_
 # [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 LLM apps with RAG and AI agents
+
+具有RAG和AI智能体的LLM应用

@@ -7,3 +7,5 @@ image: assets/standardagents_dmux_20260222_100619_301_20260222_100635_96504e.png
 # [standardagents/dmux](https://github.com/standardagents/dmux)
 
 Parallel AI agents in git worktrees
+
+在git工作树中运行的并行AI代理

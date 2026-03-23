@@ -7,3 +7,5 @@ image: assets/chathub-dev_chathub_cropped.png
 # [chathub-dev/chathub](https://github.com/chathub-dev/chathub)
 
 All-in-one app for chatting with multiple AI models simultaneously
+
+一体化应用，可同时与多个 AI 模型聊天

@@ -7,3 +7,5 @@ image: assets/microsoft_autogen_20260319_060718_027_20260319_060801_d59d5e.png
 # [microsoft/autogen](https://github.com/microsoft/autogen)
 
 Framework for multi-agent AI applications
+
+多智能体AI应用框架

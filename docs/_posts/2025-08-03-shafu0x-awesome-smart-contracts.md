@@ -7,3 +7,5 @@ image: assets/shafu0x_awesome-smart-contracts_cropped.png
 # [shafu0x/awesome-smart-contracts](https://github.com/shafu0x/awesome-smart-contracts)
 
 curated list of popular smart contracts
+
+热门智能合约精选列表

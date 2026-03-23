@@ -7,3 +7,5 @@ image: assets/slackhq_nebula_cropped.png
 # [slackhq/nebula](https://github.com/slackhq/nebula)
 
 peer-to-peer overlay network for secure connections
+
+用于安全连接的点对点覆盖网络

@@ -7,3 +7,5 @@ image: assets/LedFx_LedFx_20260223_171248_772_20260223_171305_5d2f6a.png
 # [LedFx/LedFx](https://github.com/LedFx/LedFx)
 
 Syncs LED strips to audio in real time
+
+实时将LED灯带与音频同步

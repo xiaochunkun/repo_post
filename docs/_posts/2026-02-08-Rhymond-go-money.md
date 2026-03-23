@@ -7,3 +7,5 @@ image: assets/Rhymond_go_money_20260205_154936_643_20260205_154952_31634b.png
 # [Rhymond/go-money](https://github.com/Rhymond/go-money)
 
 Handles monetary values as integers to avoid rounding errors
+
+以整数处理货币值避免舍入错误

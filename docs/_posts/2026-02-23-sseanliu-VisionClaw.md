@@ -7,3 +7,5 @@ image: assets/sseanliu_VisionClaw_20260222_042830_085_20260222_042922_238520.png
 # [sseanliu/VisionClaw](https://github.com/sseanliu/VisionClaw)
 
 Voice assistant for smart glasses using Gemini Live and OpenClaw
+
+使用Gemini Live和OpenClaw的智能眼镜语音助手

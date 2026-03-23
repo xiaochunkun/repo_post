@@ -7,3 +7,5 @@ image: assets/20250911T233454263--tracel-ai--burn--20250911T234511973--cropped.p
 # [tracel-ai/burn](https://github.com/tracel-ai/burn)
 
 deep learning and tensor library in Rust with flexible backend support
+
+Rust 深度学习和张量库，支持灵活后端

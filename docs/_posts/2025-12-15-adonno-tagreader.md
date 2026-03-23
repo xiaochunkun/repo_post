@@ -7,3 +7,5 @@ image: assets/adonno_tagreader_20251213_091312_115_20251213_091338_19d936.png
 # [adonno/tagreader](https://github.com/adonno/tagreader/)
 
 NFC tag reader for Home Assistant
+
+Home Assistant 的 NFC 标签读取器

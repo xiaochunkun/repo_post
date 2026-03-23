@@ -7,3 +7,5 @@ image: assets/bijomaru78_eccm_20251123_061502_937_20251124_001658_c0b55d--202511
 # [bijomaru78/eccm](https://github.com/bijomaru78/eccm/)
 
 Maps Ethernet connections in a browser
+
+在浏览器中映射以太网连接

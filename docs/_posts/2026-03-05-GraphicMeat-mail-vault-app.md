@@ -7,3 +7,5 @@ image: assets/GraphicMeat_mail_vault_app_20260305_050303_362_20260305_050434_25c
 # [GraphicMeat/mail-vault-app](https://github.com/GraphicMeat/mail-vault-app)
 
 Email client for local backup of messages
+
+本地备份邮件的电子邮件客户端

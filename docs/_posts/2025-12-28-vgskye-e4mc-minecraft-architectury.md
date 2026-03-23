@@ -7,3 +7,5 @@ image: assets/vgskye_e4mc_minecraft_architectury_20251226_193309_046_20251226_19
 # [vgskye/e4mc-minecraft-architectury](https://github.com/vgskye/e4mc-minecraft-architectury/)
 
 Exposes LAN servers to the internet without port forwarding
+
+无需端口转发即可将 LAN 服务器暴露到互联网

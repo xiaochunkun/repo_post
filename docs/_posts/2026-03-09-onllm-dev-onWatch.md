@@ -7,3 +7,5 @@ image: assets/onllm_dev_onWatch_20260208_211147_652_20260208_211234_c1edac.png
 # [onllm-dev/onWatch](https://github.com/onllm-dev/onWatch)
 
 Tracks API quota usage for LLMs in real time
+
+实时跟踪LLM的API配额使用情况

@@ -7,3 +7,5 @@ image: assets/callstackincubator_cali--20250814T051022410--cropped.png
 # [callstackincubator/cali](https://github.com/callstackincubator/cali)
 
 AI agent for building React Native apps in your terminal
+
+在终端中构建React Native应用的AI代理

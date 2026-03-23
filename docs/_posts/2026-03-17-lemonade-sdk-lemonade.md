@@ -7,3 +7,5 @@ image: assets/lemonade_sdk_lemonade_20260316_065550_037_20260316_065702_e5e171.p
 # [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade)
 
 Local AI app server for GPUs and NPUs
+
+面向 GPU 和 NPU 的本地 AI 应用服务器

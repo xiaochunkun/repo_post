@@ -7,3 +7,5 @@ image: assets/nginx_nginx_cropped.png
 # [nginx/nginx](https://github.com/nginx/nginx)
 
 Web server, reverse proxy, load balancer, caching, API gateway
+
+Web服务器、反向代理、负载均衡器、缓存、API网关

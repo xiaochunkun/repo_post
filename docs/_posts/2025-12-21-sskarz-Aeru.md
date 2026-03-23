@@ -7,3 +7,5 @@ image: assets/sskarz_Aeru_20251219_040302_759_20251219_040320_187a58.png
 # [sskarz/Aeru](https://github.com/sskarz/Aeru/)
 
 iOS app with RAG and web search for Apple Intelligence
+
+集成 RAG 和网页搜索的 iOS Apple Intelligence 应用

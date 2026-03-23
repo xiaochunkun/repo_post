@@ -7,3 +7,5 @@ image: assets/pure_fish_pure_20260115_084101_185_20260115_084116_90ad13.png
 # [pure-fish/pure](https://github.com/pure-fish/pure)
 
 Fish shell prompt ported from zsh
+
+从zsh移植的Fish shell提示符

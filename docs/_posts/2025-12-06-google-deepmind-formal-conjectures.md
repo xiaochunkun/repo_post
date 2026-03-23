@@ -7,3 +7,5 @@ image: assets/google_deepmind_formal_conjectures_20251203_010926_880_20251203_01
 # [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures/)
 
 Collection of formalized conjecture statements in Lean
+
+Lean中形式化猜想语句的集合

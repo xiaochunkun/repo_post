@@ -7,3 +7,5 @@ image: assets/20250818T115454354_glpi-project_glpi--20250822T024111861--cropped.
 # [glpi-project/glpi](https://github.com/glpi-project/glpi)
 
 open source IT asset and service management platform
+
+开源 IT 资产和服务管理平台

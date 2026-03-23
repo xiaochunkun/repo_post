@@ -7,3 +7,5 @@ image: assets/davila7_claude_code_templates_20260228_022718_207_20260228_022919_
 # [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 
 Configurations for Anthropic Claude Code
+
+Anthropic Claude Code的配置

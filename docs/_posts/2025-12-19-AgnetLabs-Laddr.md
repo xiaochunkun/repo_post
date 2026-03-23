@@ -7,3 +7,5 @@ image: assets/AgnetLabs_Laddr_20251217_220529_434_20251217_220547_60a87b.png
 # [AgnetLabs/Laddr](https://github.com/AgnetLabs/Laddr/)
 
 Framework for multi-agent systems with a dashboard
+
+带仪表板的多代理系统框架

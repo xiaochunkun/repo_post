@@ -7,3 +7,5 @@ image: assets/pouriyajamshidi_tcping_20251031_053854_664_20251031_210411_2e9faa-
 # [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping/)
 
 Cross-platform ping program using TCP instead of ICMP
+
+使用 TCP 而非 ICMP 的跨平台 ping 程序

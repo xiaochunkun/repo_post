@@ -7,3 +7,5 @@ image: assets/style-dictionary_style-dictionary_cropped.png
 # [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary)
 
 tool for managing and exporting design tokens across platforms
+
+跨平台管理和导出设计令牌的工具

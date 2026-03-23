@@ -7,3 +7,5 @@ image: assets/kellyjonbrazil_jc_cropped.png
 # [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc)
 
 convert command-line tool output to JSON or YAML for scripts
+
+将命令行工具输出转换为 JSON 或 YAML 以供脚本使用

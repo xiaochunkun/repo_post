@@ -7,3 +7,5 @@ image: assets/Buddie_AI_Buddie_20260122_080028_592_20260122_080052_712d48.png
 # [Buddie-AI/Buddie](https://github.com/Buddie-AI/Buddie)
 
 Open-source AI voice interaction system from hardware to software
+
+从硬件到软件的开源AI语音交互系统

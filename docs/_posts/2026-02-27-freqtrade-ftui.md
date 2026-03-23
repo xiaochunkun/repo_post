@@ -7,3 +7,5 @@ image: assets/freqtrade_ftui_20260225_060951_819_20260225_061154_68c1c7.png
 # [freqtrade/ftui](https://github.com/freqtrade/ftui)
 
 Terminal interface for monitoring Freqtrade bots
+
+监控Freqtrade机器人的终端界面

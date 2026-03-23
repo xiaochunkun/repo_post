@@ -7,3 +7,5 @@ image: assets/speechbrain_speechbrain_20260112_010401_394_20260112_010414_d68834
 # [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
 
 PyTorch toolkit for conversational AI
+
+对话AI的PyTorch工具包

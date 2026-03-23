@@ -7,3 +7,5 @@ image: assets/AppFlowy_IO_AppFlowy_Web_20251225_043638_546_20251225_043658_0f4d2
 # [AppFlowy-IO/AppFlowy-Web](https://github.com/AppFlowy-IO/AppFlowy-Web/)
 
 Open source workspace with AI
+
+带 AI 的开源工作空间

@@ -7,3 +7,5 @@ image: assets/nophead_NopSCADlib_20260209_171302_295_20260209_171345_ba1967.png
 # [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 
 Library of parts for OpenSCAD
+
+OpenSCAD的零件库

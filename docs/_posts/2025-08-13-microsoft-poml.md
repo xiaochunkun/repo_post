@@ -7,3 +7,5 @@ image: assets/microsoft_poml--20250812T232300--cropped.png
 # [microsoft/poml](https://github.com/microsoft/poml)
 
 markup language for structuring LLM prompts
+
+用于结构化 LLM 提示的标记语言

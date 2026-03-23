@@ -7,3 +7,5 @@ image: assets/vladko312_SSTImap_20251107_213733_246_20251107_214943_1b0420--2025
 # [vladko312/SSTImap](https://github.com/vladko312/SSTImap/)
 
 A penetration testing tool for SSTI vulnerabilities
+
+用于SSTI漏洞的渗透测试工具

@@ -7,3 +7,5 @@ image: assets/20251012T023738175--TencentARC--GFPGAN--20251012T024306227--croppe
 # [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
 
 restore degraded faces using pretrained GAN priors
+
+使用预训练 GAN 先验恢复退化的人脸

@@ -7,3 +7,5 @@ image: assets/20250914T191805338--ziglang--zig--20250914T192023656--cropped.png
 # [ziglang/zig](https://github.com/ziglang/zig)
 
 general-purpose programming language and toolchain for robust and reusable software
+
+用于健壮和可重用软件的通用编程语言和工具链

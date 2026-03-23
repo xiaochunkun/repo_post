@@ -7,3 +7,5 @@ image: assets/zoidsh_meru_20260126_000943_014_20260126_001031_99cbb4.png
 # [zoidsh/meru](https://github.com/zoidsh/meru)
 
 Gmail client for the desktop
+
+桌面版 Gmail 客户端

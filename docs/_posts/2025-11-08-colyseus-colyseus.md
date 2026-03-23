@@ -7,3 +7,5 @@ image: assets/colyseus_colyseus_20251107_184047_585_20251107_220359_0ce2ec--2025
 # [colyseus/colyseus](https://github.com/colyseus/colyseus/)
 
 Multiplayer framework for Node.js with SDKs for Web, Unity, and more
+
+适用于Node.js的多玩家框架，支持Web、Unity等SDK

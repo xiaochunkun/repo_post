@@ -7,3 +7,5 @@ image: assets/phoenixframework_phoenix_cropped.png
 # [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix)
 
 Web framework for Elixir programming language
+
+用于 Elixir 编程语言的 Web 框架

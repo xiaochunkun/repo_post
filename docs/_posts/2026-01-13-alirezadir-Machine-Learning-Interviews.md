@@ -7,3 +7,5 @@ image: assets/alirezadir_Machine_Learning_Interviews_20260112_075437_562_2026011
 # [alirezadir/Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews)
 
 Guide for machine learning interviews
+
+机器学习面试指南

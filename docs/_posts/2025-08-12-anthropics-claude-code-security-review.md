@@ -7,3 +7,5 @@ image: assets/20250810T213816--anthropics--claude-code-security-review--20250811
 # [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)
 
 AI-powered code security reviews for pull requests
+
+用于拉取请求的AI驱动代码安全审查

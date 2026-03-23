@@ -7,3 +7,5 @@ image: assets/20250924T060721138--DanielSWolf--rhubarb-lip-sync--20250924T061235
 # [DanielSWolf/rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
 automates 2D lip sync animation from audio for games and cartoons
+
+从音频自动生成 2D 唇形同步动画，适用于游戏和卡通

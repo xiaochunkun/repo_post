@@ -7,3 +7,5 @@ image: assets/tomnomnom_gron_20251114_172536_774_20251115_034747_040765--2025111
 # [tomnomnom/gron](https://github.com/tomnomnom/gron/)
 
 Makes JSON greppable by transforming it into discrete assignments
+
+通过将JSON转换为离散赋值使其可grep

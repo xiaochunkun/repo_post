@@ -7,3 +7,5 @@ image: assets/JimLiu_claude_agent_kit_20260321_153058_164_20260321_153130_4f173d
 # [JimLiu/claude-agent-kit](https://github.com/JimLiu/claude-agent-kit)
 
 Utilities for Claude agents
+
+Claude代理的实用工具

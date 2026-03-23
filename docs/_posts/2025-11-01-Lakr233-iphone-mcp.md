@@ -7,3 +7,5 @@ image: assets/Lakr233_iphone_mcp_20251031_052544_895_20251031_210310_7b7517--202
 # [Lakr233/iphone-mcp](https://github.com/Lakr233/iphone-mcp/)
 
 Server for automating iPhone tasks with Appium via streamable HTTP
+
+通过流式 HTTP 使用 Appium 自动化 iPhone 任务的服务器

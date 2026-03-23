@@ -7,3 +7,5 @@ image: assets/paperless-ngx_paperless-ngx_cropped.png
 # [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 
 turn paper piles into a searchable digital archive
+
+将纸质文件转为可搜索的数字档案

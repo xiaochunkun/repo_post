@@ -7,3 +7,5 @@ image: assets/20250826T025609276--dataelement--bisheng--20250826T030119285--crop
 # [dataelement/bisheng](https://github.com/dataelement/bisheng)
 
 open source LLM devops platform for enterprise AI apps
+
+企业级 AI 应用的开源 LLM DevOps 平台

@@ -7,3 +7,5 @@ image: assets/20250903T035027853--varunshenoy--GraphGPT--20250903T035555107--cro
 # [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT)
 
 turns text into knowledge graphs
+
+将文本转换为知识图谱

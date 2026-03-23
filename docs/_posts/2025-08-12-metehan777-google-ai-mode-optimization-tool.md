@@ -7,3 +7,5 @@ image: assets/20250810T061147--metehan777--google-ai-mode-optimization-tool--202
 # [metehan777/google-ai-mode-optimization-tool](https://github.com/metehan777/google-ai-mode-optimization-tool)
 
 WordPress SEO analyzer for Google AI Mode fan-out, crawls content, builds graphs, and suggests optimizations
+
+WordPress SEO分析器，用于Google AI Mode扇出，爬取内容、构建图表并提供优化建议

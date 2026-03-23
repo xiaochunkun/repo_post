@@ -7,3 +7,5 @@ image: assets/4nuxd_wavetune_20260102_091707_902_20260102_091724_01d67f.png
 # [4nuxd/wavetune](https://github.com/4nuxd/wavetune/)
 
 Telegram music bot with a web interface
+
+带Web界面的Telegram音乐机器人

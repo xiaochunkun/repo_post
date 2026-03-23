@@ -7,3 +7,5 @@ image: assets/imthenachoman_How_To_Secure_A_Linux_Server_20251018_233602_727_202
 # [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server/)
 
 Guide to securing a Linux server
+
+保护 Linux 服务器的指南

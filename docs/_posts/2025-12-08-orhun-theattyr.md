@@ -7,3 +7,5 @@ image: assets/orhun_theattyr_20251207_185230_076_20251207_185305_67d8b0.png
 # [orhun/theattyr](https://github.com/orhun/theattyr/)
 
 Terminal theater for playing VT100 art and animations
+
+用于播放 VT100 艺术和动画的终端剧院

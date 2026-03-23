@@ -7,3 +7,5 @@ image: assets/The_Vibe_Company_companion_20260220_201854_691_20260220_201910_aab
 # [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)
 
 Web interface for Claude Code and Codex sessions
+
+Claude Code和Codex会话的Web界面

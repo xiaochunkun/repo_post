@@ -7,3 +7,5 @@ image: assets/karimz1_imgcompress_20251221_030814_146_20251221_030839_cea371.png
 # [karimz1/imgcompress](https://github.com/karimz1/imgcompress/)
 
 Compresses and converts images on Docker infrastructure
+
+在 Docker 基础设施上压缩和转换图像

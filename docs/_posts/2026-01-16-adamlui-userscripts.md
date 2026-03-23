@@ -7,3 +7,5 @@ image: assets/adamlui_userscripts_20260115_150431_245_20260115_150447_15a2dd.png
 # [adamlui/userscripts](https://github.com/adamlui/userscripts)
 
 Collection of scripts for browsers
+
+浏览器脚本集合

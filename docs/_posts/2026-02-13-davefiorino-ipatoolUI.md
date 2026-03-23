@@ -7,3 +7,5 @@ image: assets/davefiorino_ipatoolUI_20260210_170904_712_20260210_170952_07e17b.p
 # [davefiorino/ipatoolUI](https://github.com/davefiorino/ipatoolUI)
 
 GUI for ipatool to search and download IPA files
+
+用于搜索和下载 IPA 文件的 ipatool GUI

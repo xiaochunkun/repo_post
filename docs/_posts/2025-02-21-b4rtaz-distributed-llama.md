@@ -7,3 +7,5 @@ image: assets/b4rtaz_distributed-llama_cropped.png
 # [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama)
 
 Run LLMs across multiple devices
+
+在多个设备上运行 LLM

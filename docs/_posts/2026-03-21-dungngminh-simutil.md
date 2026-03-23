@@ -7,3 +7,5 @@ image: assets/dungngminh_simutil_20260320_225812_685_20260320_225929_86b394.png
 # [dungngminh/simutil](https://github.com/dungngminh/simutil)
 
 Terminal UI for Android and iOS simulators
+
+Android和iOS模拟器的终端UI

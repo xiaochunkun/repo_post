@@ -7,3 +7,5 @@ image: assets/FujiwaraChoki_MoneyPrinterV2_20260227_164002_651_20260227_164149_1
 # [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)
 
 Automates content creation for social media platforms
+
+自动化社交媒体平台内容创作

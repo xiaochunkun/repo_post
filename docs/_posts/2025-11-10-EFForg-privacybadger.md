@@ -7,3 +7,5 @@ image: assets/EFForg_privacybadger_20251109_180434_589_20251109_184550_32c87d--2
 # [EFForg/privacybadger](https://github.com/EFForg/privacybadger/)
 
 Browser extension that learns to block trackers
+
+学习屏蔽追踪器的浏览器扩展

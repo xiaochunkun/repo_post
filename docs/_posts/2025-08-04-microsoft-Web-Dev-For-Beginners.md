@@ -7,3 +7,5 @@ image: assets/microsoft_Web-Dev-For-Beginners_cropped.png
 # [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 learn web dev basics with hands-on lessons
+
+通过实践课程学习Web开发基础

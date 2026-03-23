@@ -7,3 +7,5 @@ image: assets/20250915T232308659--gfx-rs--wgpu--20250915T232626505--cropped.png
 # [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
 
 cross-platform Rust graphics API for Vulkan, Metal, D3D12, OpenGL, WebGPU
+
+跨平台 Rust 图形 API，支持 Vulkan、Metal、D3D12、OpenGL 和 WebGPU

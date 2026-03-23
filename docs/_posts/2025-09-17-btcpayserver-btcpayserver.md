@@ -7,3 +7,5 @@ image: assets/20250917T002932087--btcpayserver--btcpayserver--20250917T004016047
 # [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
 self-hosted bitcoin payment processor, no middleman
+
+自托管比特币支付处理器，无中间商

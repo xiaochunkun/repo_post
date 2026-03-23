@@ -7,3 +7,5 @@ image: assets/muchobien_pocketbase_docker_20251111_171441_048_20251112_022829_f1
 # [muchobien/pocketbase-docker](https://github.com/muchobien/pocketbase-docker/)
 
 Docker image for PocketBase with auto superuser creation
+
+带自动超级用户创建的 PocketBase Docker 镜像

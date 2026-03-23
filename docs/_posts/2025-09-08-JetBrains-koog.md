@@ -7,3 +7,5 @@ image: assets/20250908T014403397--JetBrains--koog--20250908T021255911--cropped.p
 # [JetBrains/koog](https://github.com/JetBrains/koog)
 
 Kotlin framework for building AI agents and tools
+
+用于构建 AI 智能体和工具的 Kotlin 框架

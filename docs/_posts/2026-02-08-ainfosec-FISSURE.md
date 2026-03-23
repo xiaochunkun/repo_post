@@ -7,3 +7,5 @@ image: assets/ainfosec_FISSURE_20260204_053345_213_20260204_053401_b2a045.png
 # [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE)
 
 SDR framework for signal understanding and reverse engineering
+
+用于信号理解和逆向工程的 SDR 框架

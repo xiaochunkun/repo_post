@@ -7,3 +7,5 @@ image: assets/cassler_awesome_claude_code_setup_20251231_192455_657_20251231_192
 # [cassler/awesome-claude-code-setup](https://github.com/cassler/awesome-claude-code-setup/)
 
 Slash commands and shell tools for Claude Code
+
+用于Claude Code的斜杠命令和Shell工具

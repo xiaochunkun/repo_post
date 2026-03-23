@@ -7,3 +7,5 @@ image: assets/Royal_lobster_InstallKit_20260212_054005_816_20260212_054020_f290d
 # [Royal-lobster/InstallKit](https://github.com/Royal-lobster/InstallKit)
 
 Generates Homebrew commands to install Mac apps
+
+生成 Homebrew 命令以安装 Mac 应用

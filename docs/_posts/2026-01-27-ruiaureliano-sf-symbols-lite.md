@@ -7,3 +7,5 @@ image: assets/ruiaureliano_sf_symbols_lite_20260113_044015_892_20260113_044029_3
 # [ruiaureliano/sf-symbols-lite](https://github.com/ruiaureliano/sf-symbols-lite)
 
 Search and preview icons with custom tags
+
+使用自定义标签搜索和预览图标

@@ -7,3 +7,5 @@ image: assets/Kazhnuz_awesome_gnome_20251125_001807_712_20251126_100307_d9973d--
 # [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome/)
 
 Curated list of GNOME apps and tools
+
+GNOME 应用和工具的精选列表

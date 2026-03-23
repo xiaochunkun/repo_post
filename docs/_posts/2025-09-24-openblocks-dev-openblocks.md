@@ -7,3 +7,5 @@ image: assets/20250924T061238881--openblocks-dev--openblocks--20250924T062009600
 # [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks)
 
 Low-code platform for building internal tools and custom apps
+
+低代码平台，用于构建内部工具和自定义应用

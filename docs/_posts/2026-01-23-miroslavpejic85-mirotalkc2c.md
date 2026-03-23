@@ -7,3 +7,5 @@ image: assets/miroslavpejic85_mirotalkc2c_20260122_030306_692_20260122_030324_c0
 # [miroslavpejic85/mirotalkc2c](https://github.com/miroslavpejic85/mirotalkc2c)
 
 WebRTC video calls and screen sharing via iframe
+
+通过 iframe 进行 WebRTC 视频通话和屏幕共享

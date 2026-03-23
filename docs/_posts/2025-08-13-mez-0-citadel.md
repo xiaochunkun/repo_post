@@ -7,3 +7,5 @@ image: assets/mez-0_citadel--20250812T230016--cropped.png
 # [mez-0/citadel](https://github.com/mez-0/citadel)
 
 binary static analysis for malware payloads with remote API and web UI
+
+用于恶意软件载荷的二进制静态分析工具，支持远程 API 和 Web UI

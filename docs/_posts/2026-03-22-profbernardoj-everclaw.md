@@ -7,3 +7,5 @@ image: assets/profbernardoj_everclaw_20260221_213606_223_20260221_213622_78d49f.
 # [profbernardoj/everclaw](https://github.com/profbernardoj/everclaw)
 
 Connects agents to decentralized inference networks
+
+将智能体连接到去中心化推理网络

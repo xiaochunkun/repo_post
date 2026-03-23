@@ -7,3 +7,5 @@ image: assets/binaricat_Netcatty_20260114_063515_468_20260114_063529_305505.png
 # [binaricat/Netcatty](https://github.com/binaricat/Netcatty)
 
 SSH workspace with SFTP and terminals
+
+带SFTP和终端的SSH工作空间

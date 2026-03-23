@@ -7,3 +7,5 @@ image: assets/20251010T130732612--ChenxinAn-fdu--POLARIS--20251010T132150439--cr
 # [ChenxinAn-fdu/POLARIS](https://github.com/ChenxinAn-fdu/POLARIS)
 
 post-training recipe using RL to boost reasoning in language models
+
+使用 RL 的后训练配方，提升语言模型的推理能力

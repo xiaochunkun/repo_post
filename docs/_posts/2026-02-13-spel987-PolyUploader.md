@@ -7,3 +7,5 @@ image: assets/spel987_PolyUploader_20260206_200533_524_20260206_200613_81737d.pn
 # [spel987/PolyUploader](https://github.com/spel987/PolyUploader)
 
 Uploads files to multiple hosts at once
+
+同时上传文件到多个主机

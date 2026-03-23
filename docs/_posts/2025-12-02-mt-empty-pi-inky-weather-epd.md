@@ -7,3 +7,5 @@ image: assets/mt_empty_pi_inky_weather_epd_20251201_020211_499_20251201_020236_a
 # [mt-empty/pi-inky-weather-epd](https://github.com/mt-empty/pi-inky-weather-epd/)
 
 Weather display for Raspberry Pi and E-Paper
+
+用于树莓派和电子纸的天气显示

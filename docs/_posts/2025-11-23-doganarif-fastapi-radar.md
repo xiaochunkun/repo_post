@@ -7,3 +7,5 @@ image: assets/doganarif_fastapi_radar_20251123_032636_684_20251123_213425_8c7c57
 # [doganarif/fastapi-radar](https://github.com/doganarif/fastapi-radar/)
 
 Monitors FastAPI requests and SQL queries
+
+监控 FastAPI 请求和 SQL 查询

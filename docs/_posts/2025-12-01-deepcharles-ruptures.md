@@ -7,3 +7,5 @@ image: assets/deepcharles_ruptures_20251130_074022_984_20251130_085424_a9b80f--2
 # [deepcharles/ruptures](https://github.com/deepcharles/ruptures/)
 
 Python library for off-line change point detection
+
+离线变化点检测的 Python 库

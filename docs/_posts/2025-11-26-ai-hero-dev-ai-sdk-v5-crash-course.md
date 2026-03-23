@@ -7,3 +7,5 @@ image: assets/ai_hero_dev_ai_sdk_v5_crash_course_20251123_200845_329_20251125_01
 # [ai-hero-dev/ai-sdk-v5-crash-course](https://github.com/ai-hero-dev/ai-sdk-v5-crash-course/)
 
 Exercises to master Vercel's AI SDK v5
+
+掌握 Vercel AI SDK v5 的练习

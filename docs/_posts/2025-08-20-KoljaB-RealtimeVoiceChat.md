@@ -7,3 +7,5 @@ image: assets/20250818T100525664_KoljaB_RealtimeVoiceChat--20250820T130020108--c
 # [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
 
 real-time AI voice chat with LLMs using your browser
+
+使用浏览器与 LLMs 进行实时 AI 语音聊天

@@ -7,3 +7,5 @@ image: assets/log_forge_logforge_20251105_053311_519_20251105_123707_90535b--202
 # [log-forge/logforge](https://github.com/log-forge/logforge/)
 
 Self-hosted monitoring and remediation for Docker containers
+
+Docker 容器的自托管监控与修复工具

@@ -7,3 +7,5 @@ image: assets/kmaasrud_awesome-obsidian_cropped.png
 # [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
 
 Curated list of Obsidian plugins, themes, and tools
+
+Obsidian 插件、主题和工具的精选列表

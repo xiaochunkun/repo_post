@@ -7,3 +7,5 @@ image: assets/UbiquitousLearning_mllm_20251208_013237_975_20251208_013301_04b29c
 # [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm/)
 
 Multimodal LLM inference engine for mobile devices
+
+适用于移动设备的多模态LLM推理引擎

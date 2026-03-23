@@ -7,3 +7,5 @@ image: assets/psviderski_uncloud_20260122_012206_723_20260122_012222_fa0363.png
 # [psviderski/uncloud](https://github.com/psviderski/uncloud)
 
 Deploys containerised apps across servers without Kubernetes
+
+无需Kubernetes跨服务器部署容器化应用

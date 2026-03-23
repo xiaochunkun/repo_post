@@ -7,3 +7,5 @@ image: assets/vikhyat_moondream--20250815T015258706--cropped.png
 # [vikhyat/moondream](https://github.com/vikhyat/moondream)
 
 tiny vision language model for image understanding
+
+用于图像理解的微型视觉语言模型

@@ -7,3 +7,5 @@ image: assets/gotoailab_modern_mermaid_20260120_025022_756_20260120_025047_b98dc
 # [gotoailab/modern_mermaid](https://github.com/gotoailab/modern_mermaid)
 
 Diagram editor with live preview and export options
+
+具备实时预览和导出功能的图表编辑器

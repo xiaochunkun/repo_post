@@ -7,3 +7,5 @@ image: assets/Barty_Bart_ai_voice_assistant_openai_deepgram_20260113_230704_324_
 # [Barty-Bart/ai-voice-assistant-openai-deepgram](https://github.com/Barty-Bart/ai-voice-assistant-openai-deepgram)
 
 Voice assistant for phone calls at one cent per minute
+
+每分钟一美分的电话语音助手

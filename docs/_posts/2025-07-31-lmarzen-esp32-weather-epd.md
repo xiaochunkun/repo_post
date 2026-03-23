@@ -7,3 +7,5 @@ image: assets/lmarzen_esp32-weather-epd_cropped.png
 # [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd)
 
 ESP32 project shows weather data on an e-ink screen
+
+在电子墨水屏上显示天气数据的 ESP32 项目

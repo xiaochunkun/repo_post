@@ -7,3 +7,5 @@ image: assets/CodeUpdaterBot_ClickUi_cropped.png
 # [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi)
 
 AI assistant desktop app with voice, text, and web search
+
+AI助手桌面应用，支持语音、文本和网络搜索

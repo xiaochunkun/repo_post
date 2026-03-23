@@ -7,3 +7,5 @@ image: assets/dakshshah96_awesome_startup_credits_20251218_081059_832_20251218_0
 # [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits/)
 
 List of credits and plans for startups
+
+初创公司积分和计划列表

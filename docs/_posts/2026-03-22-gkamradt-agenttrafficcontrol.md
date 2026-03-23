@@ -7,3 +7,5 @@ image: assets/gkamradt_agenttrafficcontrol_20260322_130153_441_20260322_130226_9
 # [gkamradt/agenttrafficcontrol](https://github.com/gkamradt/agenttrafficcontrol)
 
 Radar dashboard for AI agents
+
+AI代理的雷达仪表板

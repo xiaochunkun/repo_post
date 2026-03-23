@@ -7,3 +7,5 @@ image: assets/pablo_s_passes_20260112_030323_784_20260112_030337_f90fe9.png
 # [pablo-s/passes](https://github.com/pablo-s/passes)
 
 Manages digital passes on the GNOME desktop
+
+在GNOME桌面管理数字通行证

@@ -7,3 +7,5 @@ image: assets/AXeL_dev_distract_me_not_20260106_143054_103_20260106_143110_b8b8a
 # [AXeL-dev/distract-me-not](https://github.com/AXeL-dev/distract-me-not/)
 
 Blocks websites with password protection and schedules
+
+带密码保护和计划功能的网站屏蔽工具

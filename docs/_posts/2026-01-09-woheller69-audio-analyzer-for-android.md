@@ -7,3 +7,5 @@ image: assets/woheller69_audio_analyzer_for_android_20260109_025039_685_20260109
 # [woheller69/audio-analyzer-for-android](https://github.com/woheller69/audio-analyzer-for-android)
 
 Visualizes sound frequency spectrum on Android devices
+
+在Android设备上可视化声音频谱

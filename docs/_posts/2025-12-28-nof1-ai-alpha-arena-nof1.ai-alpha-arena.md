@@ -7,3 +7,5 @@ image: assets/nof1_ai_alpha_arena_nof1_ai_alpha_arena_20251226_181324_226_202512
 # [nof1-ai-alpha-arena/nof1.ai-alpha-arena](https://github.com/nof1-ai-alpha-arena/nof1.ai-alpha-arena/)
 
 Autonomous trading bot on Hyperliquid using reinforcement learning
+
+使用强化学习在 Hyperliquid 上的自主交易机器人

@@ -7,3 +7,5 @@ image: assets/mermaid_js_mermaid_20260203_001804_876_20260203_001844_2979db.png
 # [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
 
 Diagrams from text via markdown
+
+通过 Markdown 从文本生成图表

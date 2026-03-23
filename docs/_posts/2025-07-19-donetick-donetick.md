@@ -7,3 +7,5 @@ image: assets/donetick_donetick_cropped.png
 # [donetick/donetick](https://github.com/donetick/donetick)
 
 open-source app for managing tasks and chores with smart scheduling
+
+开源应用，用于通过智能调度管理任务和杂务

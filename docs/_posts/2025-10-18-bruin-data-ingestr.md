@@ -7,3 +7,5 @@ image: assets/bruin_data_ingestr_20251018_141942_298_20251018_155847--20251018T1
 # [bruin-data/ingestr](https://github.com/bruin-data/ingestr/)
 
 Moves data without code
+
+无需代码即可移动数据

@@ -7,3 +7,5 @@ image: assets/marilari88_zod_playground_20251201_064339_943_20251201_064428_47da
 # [marilari88/zod-playground](https://github.com/marilari88/zod-playground/)
 
 Web app for testing Zod schema validation
+
+测试 Zod 模式验证的 Web 应用

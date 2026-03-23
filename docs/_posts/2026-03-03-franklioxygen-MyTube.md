@@ -7,3 +7,5 @@ image: assets/franklioxygen_MyTube_20260302_132302_402_20260302_132426_cb6406.pn
 # [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube)
 
 Self-hosted media player built with prompt engineering
+
+基于提示工程构建的自托管媒体播放器

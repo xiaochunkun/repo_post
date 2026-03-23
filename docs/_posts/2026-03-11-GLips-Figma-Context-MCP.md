@@ -7,3 +7,5 @@ image: assets/GLips_Figma_Context_MCP_20260211_075705_605_20260211_075731_65b160
 # [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)
 
 Figma layout information for AI coding agents
+
+为AI编程代理提供Figma布局信息

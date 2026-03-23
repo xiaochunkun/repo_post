@@ -7,3 +7,5 @@ image: assets/markfulton_NanoBananaEditor_20260316_031606_503_20260316_031701_0f
 # [markfulton/NanoBananaEditor](https://github.com/markfulton/NanoBananaEditor)
 
 AI image generation and conversational editing
+
+AI 图像生成与对话式编辑工具

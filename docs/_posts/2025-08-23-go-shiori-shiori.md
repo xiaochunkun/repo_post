@@ -7,3 +7,5 @@ image: assets/20250822T024500747--go-shiori--shiori--20250822T025134781--cropped
 # [go-shiori/shiori](https://github.com/go-shiori/shiori)
 
 self-hosted bookmark manager with offline archiving
+
+自托管书签管理器，支持离线存档

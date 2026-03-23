@@ -7,3 +7,5 @@ image: assets/20250914T190629471--electronicarts--CnC_Red_Alert--20250914T191101
 # [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert)
 
 original Command & Conquer Red Alert source code for preservation and modding
+
+命令与征服：红色警戒原始源代码，用于保存和模组开发

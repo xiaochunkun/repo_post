@@ -7,3 +7,5 @@ image: assets/Martichou_rquickshare_20260103_032005_622_20260103_032020_29ab61.p
 # [Martichou/rquickshare](https://github.com/Martichou/rquickshare/)
 
 Transfers files between Android and Linux or macOS
+
+在 Android 与 Linux 或 macOS 间传输文件

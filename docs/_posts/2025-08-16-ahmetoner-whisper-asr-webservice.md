@@ -7,3 +7,5 @@ image: assets/ahmetoner_whisper-asr-webservice--20250816T012138082--cropped.png
 # [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice)
 
 Run speech-to-text and translation with a Whisper-powered API that supports multiple engines and formats
+
+运行语音转文本和翻译，使用支持多引擎和格式的 Whisper API

@@ -7,3 +7,5 @@ image: assets/20250908T093741386--uutils--coreutils--20250908T093928708--cropped
 # [uutils/coreutils](https://github.com/uutils/coreutils)
 
 cross-platform Rust version of GNU coreutils
+
+GNU coreutils 的 Rust 跨平台实现

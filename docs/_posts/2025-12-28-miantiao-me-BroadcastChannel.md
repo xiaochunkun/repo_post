@@ -7,3 +7,5 @@ image: assets/miantiao_me_BroadcastChannel_20251226_210906_226_20251226_210923_a
 # [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel/)
 
 Turns Telegram channels into microblogs
+
+将 Telegram 频道转为微博

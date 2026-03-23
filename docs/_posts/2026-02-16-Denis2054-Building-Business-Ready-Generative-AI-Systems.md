@@ -7,3 +7,5 @@ image: assets/Denis2054_Building_Business_Ready_Generative_AI_Systems_20260210_2
 # [Denis2054/Building-Business-Ready-Generative-AI-Systems](https://github.com/Denis2054/Building-Business-Ready-Generative-AI-Systems)
 
 Architects agents and RAG systems for enterprise
+
+为企业架构代理和 RAG 系统

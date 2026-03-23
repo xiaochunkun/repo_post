@@ -7,3 +7,5 @@ image: assets/ChrisTitusTech_linutil--20250830T150358603--cropped.png
 # [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 
 Linux toolbox for automating system setup and tweaks
+
+Linux 系统设置和调优自动化工具箱

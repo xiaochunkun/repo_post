@@ -7,3 +7,5 @@ image: assets/liriliri_chii_20260106_182454_678_20260106_182510_e99dfd.png
 # [liriliri/chii](https://github.com/liriliri/chii/)
 
 Remote debugging tool for mobile web pages
+
+移动网页的远程调试工具

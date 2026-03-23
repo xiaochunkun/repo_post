@@ -7,3 +7,5 @@ image: assets/konvajs_konva_cropped.png
 # [konvajs/konva](https://github.com/konvajs/konva)
 
 JavaScript library for drawing on HTML5 canvas with shapes, layers, and events
+
+JavaScript库，用于在HTML5画布上绘制形状、图层和事件

@@ -7,3 +7,5 @@ image: assets/rockorager_prise_20260321_011735_476_20260321_011813_481ad9.png
 # [rockorager/prise](https://github.com/rockorager/prise)
 
 Terminal multiplexer for modern terminals
+
+现代终端的终端复用器

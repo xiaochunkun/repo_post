@@ -7,3 +7,5 @@ image: assets/Kaliiiiiiiiii_Vinyzu_patchright_python_20260318_145409_476_2026031
 # [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python)
 
 Undetected Playwright testing framework
+
+未被检测的 Playwright 测试框架

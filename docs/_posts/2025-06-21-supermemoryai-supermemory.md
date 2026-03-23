@@ -7,3 +7,5 @@ image: assets/supermemoryai_supermemory_cropped.png
 # [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
 
 memory API for saving, searching, and integrating data into AI apps
+
+用于保存、搜索并将数据集成到AI应用中的memory API

@@ -7,3 +7,5 @@ image: assets/shridarpatil_frappe_whatsapp_chatbot_20260115_110003_115_20260115_
 # [shridarpatil/frappe_whatsapp_chatbot](https://github.com/shridarpatil/frappe_whatsapp_chatbot)
 
 Chatbot for WhatsApp with conversation flows and AI integration
+
+具有对话流程和 AI 集成的 WhatsApp 聊天机器人

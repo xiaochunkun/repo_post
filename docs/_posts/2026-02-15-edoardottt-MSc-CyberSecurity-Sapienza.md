@@ -7,3 +7,5 @@ image: assets/edoardottt_MSc_CyberSecurity_Sapienza_20260213_235801_218_20260213
 # [edoardottt/MSc-CyberSecurity-Sapienza](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza)
 
 Notes and code for cybersecurity degree courses
+
+网络安全学位课程的笔记和代码

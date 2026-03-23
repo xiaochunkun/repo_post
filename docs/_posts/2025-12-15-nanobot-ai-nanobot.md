@@ -7,3 +7,5 @@ image: assets/nanobot_ai_nanobot_20251213_072402_661_20251213_072425_7b71f2.png
 # [nanobot-ai/nanobot](https://github.com/nanobot-ai/nanobot/)
 
 Standalone host for building MCP agents
+
+用于构建MCP代理的独立主机

@@ -7,3 +7,5 @@ image: assets/Paymenter_Paymenter_20251218_005920_579_20251218_005938_2be839.png
 # [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter/)
 
 Billing solution for hosting companies
+
+托管公司的计费解决方案

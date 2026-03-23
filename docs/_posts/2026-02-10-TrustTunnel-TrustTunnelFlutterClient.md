@@ -7,3 +7,5 @@ image: assets/TrustTunnel_TrustTunnelFlutterClient_20260206_094028_471_20260206_
 # [TrustTunnel/TrustTunnelFlutterClient](https://github.com/TrustTunnel/TrustTunnelFlutterClient)
 
 VPN client for self-hosted servers
+
+自托管服务器的VPN客户端

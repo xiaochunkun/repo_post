@@ -7,3 +7,5 @@ image: assets/cvzi_Spotify_Genius_Lyrics_userscript_20260123_070635_040_20260123
 # [cvzi/Spotify-Genius-Lyrics-userscript](https://github.com/cvzi/Spotify-Genius-Lyrics-userscript)
 
 Displays Genius lyrics on Spotify web player
+
+在 Spotify 网页播放器上显示 Genius 歌词

@@ -7,3 +7,5 @@ image: assets/20251015T031754210--synctv-org--synctv--20251015T032258630--croppe
 # [synctv-org/synctv](https://github.com/synctv-org/synctv)
 
 watch movies or live streams together online, synced playback and chat
+
+在线同步观看电影或直播流，支持同步播放和聊天

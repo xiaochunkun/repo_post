@@ -7,3 +7,5 @@ image: assets/itsnitinr_driwwwle_20260119_224619_055_20260119_224634_be560a.png
 # [itsnitinr/driwwwle](https://github.com/itsnitinr/driwwwle)
 
 Social network for developers with real-time chat
+
+开发者社交网络，带实时聊天功能

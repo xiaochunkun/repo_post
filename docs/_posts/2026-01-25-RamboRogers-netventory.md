@@ -7,3 +7,5 @@ image: assets/RamboRogers_netventory_20260121_192921_602_20260121_193005_f4d221.
 # [RamboRogers/netventory](https://github.com/RamboRogers/netventory)
 
 Network scanner with terminal and web interfaces
+
+支持终端和Web界面的网络扫描器

@@ -7,3 +7,5 @@ image: assets/upstash_context7_20260202_120447_940_20260202_120537_945ffd.png
 # [upstash/context7](https://github.com/upstash/context7)
 
 Injects documentation into LLM prompts
+
+将文档注入 LLM 提示

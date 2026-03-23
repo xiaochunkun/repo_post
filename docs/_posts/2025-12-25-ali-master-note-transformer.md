@@ -7,3 +7,5 @@ image: assets/ali_master_note_transformer_20251223_194214_150_20251223_194236_ec
 # [ali-master/note-transformer](https://github.com/ali-master/note-transformer/)
 
 Converts notes to summaries using Gemini AI
+
+使用 Gemini AI 将笔记转换为摘要

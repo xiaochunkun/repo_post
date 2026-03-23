@@ -7,3 +7,5 @@ image: assets/GitJournal_GitJournal_cropped.png
 # [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal)
 
 note-taking app storing markdown in your git repo
+
+笔记应用，将Markdown存储在Git仓库中

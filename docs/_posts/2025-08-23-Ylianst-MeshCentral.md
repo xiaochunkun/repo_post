@@ -7,3 +7,5 @@ image: assets/20250822T022317965--Ylianst--MeshCentral--20250822T023115684--crop
 # [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral)
 
 self-hosted remote desktop and device management
+
+自托管远程桌面和设备管理平台

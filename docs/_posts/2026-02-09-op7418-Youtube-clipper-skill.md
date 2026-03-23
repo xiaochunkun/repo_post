@@ -7,3 +7,5 @@ image: assets/op7418_Youtube_clipper_skill_20260204_035027_638_20260204_035044_e
 # [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)
 
 Clips YouTube videos using AI for Claude Code
+
+使用AI为Claude Code剪辑YouTube视频

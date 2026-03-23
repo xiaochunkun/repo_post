@@ -7,3 +7,5 @@ image: assets/joshuaboniface_rffmpeg_20251127_210041_381_20251130_083341_35fb46-
 # [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg/)
 
 Executes FFmpeg commands remotely via SSH
+
+通过SSH远程执行FFmpeg命令

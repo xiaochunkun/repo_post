@@ -7,3 +7,5 @@ image: assets/pocketbase_pocketbase_cropped.png
 # [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 
 open source backend with realtime database and user management
+
+带实时数据库和用户管理的开源后端

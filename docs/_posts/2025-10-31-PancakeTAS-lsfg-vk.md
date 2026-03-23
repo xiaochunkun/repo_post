@@ -7,3 +7,5 @@ image: assets/PancakeTAS_lsfg_vk_20251031_025548_519_20251031_140845_f85dce--202
 # [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk/)
 
 Brings frame generation to Linux games
+
+为 Linux 游戏带来帧生成功能

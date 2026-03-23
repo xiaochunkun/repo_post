@@ -7,3 +7,5 @@ image: assets/outerbase_studio_cropped.png
 # [outerbase/studio](https://github.com/outerbase/studio)
 
 Browser-based SQL database manager
+
+基于浏览器的SQL数据库管理器

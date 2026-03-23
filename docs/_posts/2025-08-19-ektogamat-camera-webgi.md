@@ -7,3 +7,5 @@ image: assets/20250818T115418773_ektogamat_camera-webgi--20250818T115949409--cro
 # [ektogamat/camera-webgi](https://github.com/ektogamat/camera-webgi)
 
 scrollable landing page template with webgi, gsap, and typescript
+
+使用webgi、gsap和typescript构建的可滚动落地页模板

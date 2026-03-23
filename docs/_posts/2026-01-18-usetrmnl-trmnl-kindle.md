@@ -7,3 +7,5 @@ image: assets/usetrmnl_trmnl_kindle_20260117_205433_042_20260117_205448_390e70.p
 # [usetrmnl/trmnl-kindle](https://github.com/usetrmnl/trmnl-kindle)
 
 Converts Kindle into dashboard via jailbreak
+
+通过越狱将Kindle转换为仪表板

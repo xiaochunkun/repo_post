@@ -7,3 +7,5 @@ image: assets/Mindgard_ai_ide_skills_20260309_161254_399_20260309_161449_700f3b.
 # [Mindgard/ai-ide-skills](https://github.com/Mindgard/ai-ide-skills)
 
 Security testing plugin for AI coding agents
+
+AI 编码代理的安全测试插件

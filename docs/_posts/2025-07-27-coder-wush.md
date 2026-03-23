@@ -7,3 +7,5 @@ image: assets/coder_wush_cropped.png
 # [coder/wush](https://github.com/coder/wush)
 
 transfer files between computers using WireGuard
+
+使用 WireGuard 在计算机间传输文件

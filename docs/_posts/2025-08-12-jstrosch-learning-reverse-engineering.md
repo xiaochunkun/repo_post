@@ -7,3 +7,5 @@ image: assets/jstrosch_learning-reverse-engineering--20250812T005542--cropped.pn
 # [jstrosch/learning-reverse-engineering](https://github.com/jstrosch/learning-reverse-engineering)
 
 sample programs for learning reverse engineering and malware analysis
+
+用于学习逆向工程和恶意软件分析的示例程序

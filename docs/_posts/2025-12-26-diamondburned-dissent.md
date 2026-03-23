@@ -7,3 +7,5 @@ image: assets/diamondburned_dissent_20251225_084501_510_20251225_084518_e01065.p
 # [diamondburned/dissent](https://github.com/diamondburned/dissent/)
 
 Discord client for Linux desktops
+
+Linux 桌面的 Discord 客户端

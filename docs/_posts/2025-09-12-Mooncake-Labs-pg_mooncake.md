@@ -7,3 +7,5 @@ image: assets/20250911T023824160--Mooncake-Labs--pg_mooncake--20250911T030932110
 # [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake)
 
 columnstore analytics for Postgres tables with real-time sync
+
+PostgreSQL 表的列存分析引擎，支持实时同步

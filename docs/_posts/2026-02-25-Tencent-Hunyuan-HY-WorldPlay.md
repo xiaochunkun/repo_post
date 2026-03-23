@@ -7,3 +7,5 @@ image: assets/Tencent_Hunyuan_HY_WorldPlay_20260224_211936_458_20260224_212010_a
 # [Tencent-Hunyuan/HY-WorldPlay](https://github.com/Tencent-Hunyuan/HY-WorldPlay)
 
 Interactive world modeling with real-time latency
+
+交互式世界建模，具有实时延迟

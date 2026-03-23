@@ -7,3 +7,5 @@ image: assets/Xfennec_progress_20251105_215442_298_20251106_001113_647e4a--20251
 # [Xfennec/progress](https://github.com/Xfennec/progress/)
 
 C command that shows progress for coreutils commands
+
+显示coreutils命令进度的C命令

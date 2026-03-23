@@ -7,3 +7,5 @@ image: assets/spr_networks_super_20260113_071045_349_20260113_071058_32c629.png
 # [spr-networks/super](https://github.com/spr-networks/super)
 
 Wifi router firmware with per-device passwords and network segmentation
+
+具有每设备密码和网络分段的 WiFi 路由器固件

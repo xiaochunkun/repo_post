@@ -7,3 +7,5 @@ image: assets/polygon_io_mcp_polygon_20251126_105707_366_20251129_022430_288a76-
 # [polygon-io/mcp_polygon](https://github.com/polygon-io/mcp_polygon/)
 
 MCP server for financial market data
+
+金融市场数据的MCP服务器

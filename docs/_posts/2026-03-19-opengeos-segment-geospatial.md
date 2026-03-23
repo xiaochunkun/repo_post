@@ -7,3 +7,5 @@ image: assets/opengeos_segment_geospatial_20260319_114244_384_20260319_114459_c1
 # [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial)
 
 Segments geospatial data with Segment Anything Model
+
+使用Segment Anything Model分割地理空间数据

@@ -7,3 +7,5 @@ image: assets/jyguyomarch_awesome_productivity_20251228_174945_499_20251228_1750
 # [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity/)
 
 Resources for productivity and time management
+
+生产力和时间管理资源

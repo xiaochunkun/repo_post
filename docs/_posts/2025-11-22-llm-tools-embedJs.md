@@ -7,3 +7,5 @@ image: assets/llm_tools_embedJs_20251121_125614_102_20251121_223936_70fd50--2025
 # [llm-tools/embedJs](https://github.com/llm-tools/embedJs/)
 
 Node.js framework for RAG applications
+
+RAG 应用的 Node.js 框架

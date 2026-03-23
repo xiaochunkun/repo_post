@@ -7,3 +7,5 @@ image: assets/wojciech_kulik_FlashSpace_20260129_084242_478_20260129_084322_c096
 # [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace)
 
 Workspace manager for macOS without animations
+
+无动画的 macOS 工作区管理器

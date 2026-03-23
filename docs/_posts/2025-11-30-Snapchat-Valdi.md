@@ -7,3 +7,5 @@ image: assets/Snapchat_Valdi_20251127_185805_324_20251130_052413_0e9a8d--2025113
 # [Snapchat/Valdi](https://github.com/Snapchat/Valdi/)
 
 Cross-platform UI framework compiling TypeScript to native views
+
+将 TypeScript 编译为原生视图的跨平台 UI 框架

@@ -7,3 +7,5 @@ image: assets/TechUnRestricted_WinDiskWriter_20251125_222526_898_20251127_171430
 # [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter/)
 
 Creates bootable Windows USBs on macOS
+
+在macOS上创建可启动Windows USB的工具

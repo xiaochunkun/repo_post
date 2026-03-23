@@ -7,3 +7,5 @@ image: assets/darrenburns_dunk_20251125_233515_864_20251128_212952_52241f--20251
 # [darrenburns/dunk](https://github.com/darrenburns/dunk/)
 
 Prettifies git diff output in terminal
+
+美化终端中的git diff输出

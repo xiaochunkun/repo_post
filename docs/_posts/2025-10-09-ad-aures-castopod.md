@@ -7,3 +7,5 @@ image: assets/20251009T061441616--ad-aures--castopod--20251009T062206468--croppe
 # [ad-aures/castopod](https://github.com/ad-aures/castopod)
 
 open-source podcast hosting with fediverse and analytics features
+
+具备联邦宇宙和分析功能的开源播客托管平台

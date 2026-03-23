@@ -7,3 +7,5 @@ image: assets/facebookresearch_eb_jepa_20260306_050510_126_20260306_050646_07e7b
 # [facebookresearch/eb_jepa](https://github.com/facebookresearch/eb_jepa)
 
 Train world models for prediction and planning
+
+训练用于预测和规划的世界模型

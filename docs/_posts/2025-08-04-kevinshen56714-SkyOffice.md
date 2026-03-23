@@ -7,3 +7,5 @@ image: assets/kevinshen56714_SkyOffice_cropped.png
 # [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice)
 
 virtual office space with proximity chat and screen sharing
+
+支持邻近聊天和屏幕共享的虚拟办公空间

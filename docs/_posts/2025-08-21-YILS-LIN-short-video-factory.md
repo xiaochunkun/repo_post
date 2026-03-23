@@ -7,3 +7,5 @@ image: assets/20250820T132240281_YILS-LIN_short-video-factory--20250820T13252937
 # [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory)
 
 AI tool for batch short video creation and editing
+
+AI 批量短视频创作和编辑工具

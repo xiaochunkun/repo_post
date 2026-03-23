@@ -7,3 +7,5 @@ image: assets/mhaeuser_Battery_Toolkit_20251201_044127_617_20251201_044151_98591
 # [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit/)
 
 Controls power state of Apple Silicon Macs
+
+控制Apple Silicon Mac的电源状态

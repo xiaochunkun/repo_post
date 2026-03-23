@@ -7,3 +7,5 @@ image: assets/beekeeper-studio_beekeeper-studio_cropped.png
 # [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
 SQL client for multiple databases across platforms
+
+跨平台多数据库SQL客户端

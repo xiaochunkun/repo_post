@@ -7,3 +7,5 @@ image: assets/rhulha_StreamingKokoroJS_cropped.png
 # [rhulha/StreamingKokoroJS](https://github.com/rhulha/StreamingKokoroJS)
 
 browser text-to-speech with local JS
+
+基于本地JS的浏览器文本转语音

@@ -7,3 +7,5 @@ image: assets/TencentARC_ToonComposer_20251124_233414_067_20251125_224233_03efc5
 # [TencentARC/ToonComposer](https://github.com/TencentARC/ToonComposer/)
 
 Generative post-keyframing for cartoon production
+
+用于卡通制作的生成式后关键帧技术

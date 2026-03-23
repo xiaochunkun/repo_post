@@ -7,3 +7,5 @@ image: assets/deanpeters_Product_Manager_Skills_20260214_215609_128_20260214_215
 # [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
 
 Frameworks for training AI agents in product management
+
+产品管理中训练AI智能体的框架

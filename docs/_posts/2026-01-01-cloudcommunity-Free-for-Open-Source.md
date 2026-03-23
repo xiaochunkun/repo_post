@@ -7,3 +7,5 @@ image: assets/cloudcommunity_Free_for_Open_Source_20251231_204202_604_20251231_2
 # [cloudcommunity/Free-for-Open-Source](https://github.com/cloudcommunity/Free-for-Open-Source/)
 
 Lists resources for open source projects
+
+列出开源项目的资源

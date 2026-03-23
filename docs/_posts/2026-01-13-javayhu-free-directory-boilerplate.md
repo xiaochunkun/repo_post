@@ -7,3 +7,5 @@ image: assets/javayhu_free_directory_boilerplate_20260111_134820_275_20260111_13
 # [javayhu/free-directory-boilerplate](https://github.com/javayhu/free-directory-boilerplate)
 
 Template for directory websites with a CMS
+
+带CMS的目录网站模板

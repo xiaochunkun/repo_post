@@ -7,3 +7,5 @@ image: assets/PapirusDevelopmentTeam_papirus_icon_theme_20251202_210929_016_2025
 # [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/)
 
 SVG icon theme for Linux
+
+Linux 的 SVG 图标主题

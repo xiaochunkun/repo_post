@@ -7,3 +7,5 @@ image: assets/yuyou_dev_screen_master_20260116_095418_165_20260116_095432_62c62e
 # [yuyou-dev/screen-master](https://github.com/yuyou-dev/screen-master)
 
 Deploys AI Studio apps locally with Gemini API
+
+使用Gemini API本地部署AI Studio应用

@@ -7,3 +7,5 @@ image: assets/cfgnunes_nautilus_scripts_20251215_020322_307_20251215_020346_8ea5
 # [cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts/)
 
 Extends Linux file manager functionality
+
+扩展 Linux 文件管理器功能

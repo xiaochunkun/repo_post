@@ -7,3 +7,5 @@ image: assets/danielwestendorf_specwrk_20251201_094157_813_20251201_094234_11e22
 # [danielwestendorf/specwrk](https://github.com/danielwestendorf/specwrk/)
 
 Parallel test runner for RSpec
+
+RSpec的并行测试运行器

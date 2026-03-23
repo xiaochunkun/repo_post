@@ -7,3 +7,5 @@ image: assets/cowtoolz_webcamize_cropped.png
 # [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize)
 
 Tool to use cameras as webcams on Linux
+
+在Linux上将相机用作网络摄像头的工具

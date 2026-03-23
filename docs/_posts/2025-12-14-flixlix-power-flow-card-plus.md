@@ -7,3 +7,5 @@ image: assets/flixlix_power_flow_card_plus_20251210_051958_844_20251210_052033_b
 # [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus/)
 
 Visualizes power distribution for Home Assistant
+
+Home Assistant 电力分布可视化工具

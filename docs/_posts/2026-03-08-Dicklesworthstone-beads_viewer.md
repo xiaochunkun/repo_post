@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_beads_viewer_20260305_011358_428_20260305_011558
 # [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer)
 
 Terminal interface for issue tracking with dependency visualization
+
+带依赖可视化的终端问题跟踪界面

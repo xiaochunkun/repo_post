@@ -7,3 +7,5 @@ image: assets/basemulti_basemulti_20260318_185006_586_20260318_185337_170f97.png
 # [basemulti/basemulti](https://github.com/basemulti/basemulti)
 
 No-code database with instant API
+
+无代码数据库，提供即时 API

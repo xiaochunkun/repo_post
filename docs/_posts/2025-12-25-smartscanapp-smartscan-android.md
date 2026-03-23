@@ -7,3 +7,5 @@ image: assets/smartscanapp_smartscan_android_20251223_164047_500_20251223_164104
 # [smartscanapp/smartscan-android](https://github.com/smartscanapp/smartscan-android/)
 
 Search images and videos offline with on-device AI
+
+使用设备端 AI 离线搜索图像和视频

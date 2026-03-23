@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_pi_agent_rust_20260205_130242_264_20260205_13030
 # [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust)
 
 CLI agent with startup under 100ms
+
+启动时间低于 100ms 的 CLI 代理

@@ -7,3 +7,5 @@ image: assets/20250908T230740266--ajeetdsouza--zoxide--20250908T231857184--cropp
 # [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 
 smarter cd command that lets you jump to frequently used directories
+
+更智能的 cd 命令，快速跳转到常用目录

@@ -7,3 +7,5 @@ image: assets/awesome-foss_awesome-sysadmin_cropped.png
 # [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
 Curated list of free and open source sysadmin tools and resources
+
+精选免费开源系统管理工具和资源列表

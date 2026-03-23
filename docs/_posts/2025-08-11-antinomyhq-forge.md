@@ -7,3 +7,5 @@ image: assets/20250810T065919--antinomyhq--forge--20250811T004019--cropped.png
 # [antinomyhq/forge](https://github.com/antinomyhq/forge)
 
 AI coding agent for your terminal
+
+终端中的 AI 编码代理

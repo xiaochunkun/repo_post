@@ -7,3 +7,5 @@ image: assets/HelgeSverre_ollama_gui_20260204_031701_491_20260204_031715_a560ad.
 # [HelgeSverre/ollama-gui](https://github.com/HelgeSverre/ollama-gui)
 
 Web interface for local language models
+
+本地语言模型的Web界面

@@ -7,3 +7,5 @@ image: assets/Prosono_Drag_And_Drop_Card_20251217_143813_452_20251217_143910_5c2
 # [Prosono/Drag-And-Drop-Card](https://github.com/Prosono/Drag-And-Drop-Card/)
 
 Drag and drop card for Home Assistant dashboards
+
+Home Assistant 仪表板的拖放卡片

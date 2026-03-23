@@ -7,3 +7,5 @@ image: assets/bats-core_bats-core_cropped.png
 # [bats-core/bats-core](https://github.com/bats-core/bats-core)
 
 bash test framework for scripts and unix tools
+
+用于脚本和 Unix 工具的 Bash 测试框架

@@ -7,3 +7,5 @@ image: assets/20250810T080026--bruin-data--ingestr--20250811T002122--cropped.png
 # [bruin-data/ingestr](https://github.com/bruin-data/ingestr)
 
 copy data from any source to any destination without code
+
+无需代码即可从任何来源复制数据到任何目的地

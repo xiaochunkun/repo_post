@@ -7,3 +7,5 @@ image: assets/vercel_labs_ai_sdk_computer_use_20251207_192328_113_20251207_19244
 # [vercel-labs/ai-sdk-computer-use](https://github.com/vercel-labs/ai-sdk-computer-use/)
 
 Demonstrates Claude 3.7 Sonnet computer use capabilities
+
+展示Claude 3.7 Sonnet的计算机使用能力

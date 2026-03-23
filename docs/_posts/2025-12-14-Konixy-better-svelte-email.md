@@ -7,3 +7,5 @@ image: assets/Konixy_better_svelte_email_20251210_054307_392_20251210_054329_3a1
 # [Konixy/better-svelte-email](https://github.com/Konixy/better-svelte-email/)
 
 Creates Svelte emails with Tailwind support
+
+支持 Tailwind 的 Svelte 邮件生成器

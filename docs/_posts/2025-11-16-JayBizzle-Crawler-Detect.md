@@ -7,3 +7,5 @@ image: assets/JayBizzle_Crawler_Detect_20251115_051810_707_20251116_150349_2ef19
 # [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect/)
 
 PHP class for detecting thousands of bots and crawlers
+
+用于检测数千种机器人和爬虫的 PHP 类

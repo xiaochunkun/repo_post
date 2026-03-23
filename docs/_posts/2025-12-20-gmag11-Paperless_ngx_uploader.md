@@ -7,3 +7,5 @@ image: assets/gmag11_Paperless_ngx_uploader_20251218_050146_124_20251218_050204_
 # [gmag11/Paperless_ngx_uploader](https://github.com/gmag11/Paperless_ngx_uploader/)
 
 Uploads documents to Paperless-NGX from the Android share menu
+
+从 Android 分享菜单上传文档至 Paperless-NGX

@@ -7,3 +7,5 @@ image: assets/marketingjuliancongdanh79_pixel_skill_generator_20260311_112449_44
 # [marketingjuliancongdanh79-pixel/skill-generator](https://github.com/marketingjuliancongdanh79-pixel/skill-generator)
 
 Generates AI skills for chatbots
+
+为聊天机器人生成AI技能

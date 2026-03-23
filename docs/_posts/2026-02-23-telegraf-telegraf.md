@@ -7,3 +7,5 @@ image: assets/telegraf_telegraf_20260202_232632_161_20260202_232702_79c561.png
 # [telegraf/telegraf](https://github.com/telegraf/telegraf)
 
 Framework for Telegram Bot API
+
+Telegram Bot API框架

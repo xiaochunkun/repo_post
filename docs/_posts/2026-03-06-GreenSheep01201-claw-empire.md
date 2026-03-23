@@ -7,3 +7,5 @@ image: assets/GreenSheep01201_claw_empire_20260305_031850_578_20260305_032015_f1
 # [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire)
 
 Simulator for orchestration of AI agents in a virtual office
+
+虚拟办公室中 AI 智能体编排的模拟器

@@ -7,3 +7,5 @@ image: assets/rohitg00_manim_video_generator_20251225_081321_669_20251225_081341
 # [rohitg00/manim-video-generator](https://github.com/rohitg00/manim-video-generator/)
 
 Generates mathematical animations from text prompts
+
+从文本提示生成数学动画

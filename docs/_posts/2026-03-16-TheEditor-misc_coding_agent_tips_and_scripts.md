@@ -7,3 +7,5 @@ image: assets/TheEditor_misc_coding_agent_tips_and_scripts_20260311_030621_122_2
 # [TheEditor/misc_coding_agent_tips_and_scripts](https://github.com/TheEditor/misc_coding_agent_tips_and_scripts)
 
 Teaches AI agents how to use tools thoughtfully
+
+教导AI代理如何深思熟虑地使用工具

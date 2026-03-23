@@ -7,3 +7,5 @@ image: assets/slidevjs_slidev_20260203_165029_126_20260203_165055_429fec.png
 # [slidevjs/slidev](https://github.com/slidevjs/slidev)
 
 Markdown presentation slides for developers
+
+面向开发者的Markdown演示幻灯片

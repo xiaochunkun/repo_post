@@ -7,3 +7,5 @@ image: assets/barry-ran_QtScrcpy_cropped.png
 # [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 
 mirror and control Android devices on your computer
+
+在计算机上镜像和控制Android设备

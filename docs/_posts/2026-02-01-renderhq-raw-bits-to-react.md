@@ -7,3 +7,5 @@ image: assets/renderhq_raw_bits_to_react_20260113_032737_589_20260113_032751_111
 # [renderhq/raw-bits-to-react](https://github.com/renderhq/raw-bits-to-react)
 
 Builds browsers and engines from scratch
+
+从零开始构建浏览器和引擎

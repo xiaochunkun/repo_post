@@ -7,3 +7,5 @@ image: assets/Crosstalk_Solutions_project_nomad_20260317_191735_548_20260317_191
 # [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 Self-contained offline knowledge server
+
+自包含的离线知识服务器

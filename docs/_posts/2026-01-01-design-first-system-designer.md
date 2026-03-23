@@ -7,3 +7,5 @@ image: assets/design_first_system_designer_20251231_204751_775_20251231_204806_f
 # [design-first/system-designer](https://github.com/design-first/system-designer/)
 
 Low-code platform for creating systems with UML and MSON
+
+用于创建系统的低代码平台，支持UML和MSON

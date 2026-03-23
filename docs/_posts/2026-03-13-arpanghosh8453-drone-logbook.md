@@ -7,3 +7,5 @@ image: assets/arpanghosh8453_drone_logbook_20260222_094309_896_20260222_094335_6
 # [arpanghosh8453/drone-logbook](https://github.com/arpanghosh8453/drone-logbook)
 
 Analyzes drone flight logs with DuckDB and React
+
+使用 DuckDB 和 React 分析无人机飞行日志

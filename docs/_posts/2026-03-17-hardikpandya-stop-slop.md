@@ -7,3 +7,5 @@ image: assets/hardikpandya_stop_slop_20260316_062550_737_20260316_062642_34ea84.
 # [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
 
 Removes AI writing patterns from prose
+
+移除散文中的 AI 写作模式

@@ -7,3 +7,5 @@ image: assets/simoninns_DomesdayDuplicator_20260101_033909_833_20260101_033937_9
 # [simoninns/DomesdayDuplicator](https://github.com/simoninns/DomesdayDuplicator/)
 
 Samples LaserDisc RF data via USB
+
+通过USB采样LaserDisc RF数据

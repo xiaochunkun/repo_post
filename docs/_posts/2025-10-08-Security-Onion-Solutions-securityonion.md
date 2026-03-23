@@ -7,3 +7,5 @@ image: assets/20251007T032354033--Security-Onion-Solutions--securityonion--20251
 # [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion)
 
 open-source platform for threat hunting and security monitoring
+
+开源威胁狩猎和安全监控平台

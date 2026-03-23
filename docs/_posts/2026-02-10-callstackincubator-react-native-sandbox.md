@@ -7,3 +7,5 @@ image: assets/callstackincubator_react_native_sandbox_20260205_141020_754_202602
 # [callstackincubator/react-native-sandbox](https://github.com/callstackincubator/react-native-sandbox)
 
 Runs multiple React Native instances in one application
+
+在一个应用中运行多个 React Native 实例

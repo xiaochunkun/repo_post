@@ -7,3 +7,5 @@ image: assets/linuxmobile_hyprland_dots_20260117_075746_859_20260117_075809_cff5
 # [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots)
 
 Configuration files for an anime themed desktop environment
+
+动漫主题桌面环境的配置文件

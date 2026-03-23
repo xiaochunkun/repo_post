@@ -7,3 +7,5 @@ image: assets/yoeven_ai_video_search_engine_20260203_003356_556_20260203_003423_
 # [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
 
 Indexes video content for semantic search
+
+为语义搜索索引视频内容

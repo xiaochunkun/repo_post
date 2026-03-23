@@ -7,3 +7,5 @@ image: assets/ethersync_ethersync_20251120_054724_394_20251121_011303_db4878--20
 # [ethersync/ethersync](https://github.com/ethersync/ethersync/)
 
 Syncs text files across editors
+
+跨编辑器同步文本文件

@@ -7,3 +7,5 @@ image: assets/20250918T040951933--janeczku--calibre-web--20250920T033407741--cro
 # [janeczku/calibre-web](https://github.com/janeczku/calibre-web)
 
 Web app for browsing, reading, and managing eBooks with your Calibre library
+
+用于浏览、阅读和管理Calibre库中电子书的Web应用

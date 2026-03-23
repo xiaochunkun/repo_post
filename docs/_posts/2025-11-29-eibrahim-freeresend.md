@@ -7,3 +7,5 @@ image: assets/eibrahim_freeresend_20251126_105319_411_20251129_022356_afd9e1--20
 # [eibrahim/freeresend](https://github.com/eibrahim/freeresend/)
 
 Self-hosted Resend alternative using Amazon SES
+
+使用Amazon SES的自托管Resend替代方案

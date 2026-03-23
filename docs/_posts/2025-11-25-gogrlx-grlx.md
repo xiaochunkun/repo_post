@@ -7,3 +7,5 @@ image: assets/gogrlx_grlx_20251123_185437_767_20251124_184537_4c6f03--20251124T1
 # [gogrlx/grlx](https://github.com/gogrlx/grlx/)
 
 Fleet configuration management in Go
+
+Go 中的舰队配置管理

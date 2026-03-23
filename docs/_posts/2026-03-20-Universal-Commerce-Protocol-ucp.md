@@ -7,3 +7,5 @@ image: assets/Universal_Commerce_Protocol_ucp_20260319_063436_662_20260319_06361
 # [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp)
 
 Standardizes commerce interoperability for AI agents
+
+标准化AI代理的商务互操作性

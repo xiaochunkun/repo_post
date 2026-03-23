@@ -7,3 +7,5 @@ image: assets/mewmix_nabu_20251205_000012_058_20251205_000034_737d4a.png
 # [mewmix/nabu](https://github.com/mewmix/nabu/)
 
 On-device Android TTS and chat application
+
+设备端Android TTS和聊天应用

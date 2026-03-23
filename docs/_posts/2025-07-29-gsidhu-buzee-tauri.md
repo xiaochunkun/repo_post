@@ -7,3 +7,5 @@ image: assets/gsidhu_buzee-tauri_cropped.png
 # [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri)
 
 full-text search app for files and notes on your desktop
+
+桌面文件和笔记的全文搜索应用

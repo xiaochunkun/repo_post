@@ -7,3 +7,5 @@ image: assets/20250930T033740116--rennf93--fastapi-guard--20250930T035109246--cr
 # [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard)
 
 middleware for IP control, rate limiting, and security headers in FastAPI
+
+FastAPI 的中间件，用于 IP 控制、速率限制和安全标头

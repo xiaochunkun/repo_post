@@ -7,3 +7,5 @@ image: assets/Soul_AILab_SoulX_Singer_20260304_221226_351_20260304_221416_803895
 # [Soul-AILab/SoulX-Singer](https://github.com/Soul-AILab/SoulX-Singer)
 
 Model for singing voice synthesis with zero-shot capabilities
+
+具有零样本能力的歌声合成模型

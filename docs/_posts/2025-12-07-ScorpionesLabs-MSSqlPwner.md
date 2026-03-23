@@ -7,3 +7,5 @@ image: assets/ScorpionesLabs_MSSqlPwner_20251205_005654_353_20251205_005804_1867
 # [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner/)
 
 Pentesting tool for MSSQL servers
+
+用于MSSQL服务器的渗透测试工具

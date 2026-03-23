@@ -7,3 +7,5 @@ image: assets/denizsafak_abogen_20260305_113409_170_20260305_113559_de7457.png
 # [denizsafak/abogen](https://github.com/denizsafak/abogen)
 
 Tool for conversion of text to audio with subtitles
+
+带字幕的文本转音频工具

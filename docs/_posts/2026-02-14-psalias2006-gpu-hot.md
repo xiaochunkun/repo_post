@@ -7,3 +7,5 @@ image: assets/psalias2006_gpu_hot_20260209_142550_411_20260209_142633_06c12d.png
 # [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)
 
 NVIDIA GPU dashboard without SSH
+
+无需 SSH 的 NVIDIA GPU 仪表板

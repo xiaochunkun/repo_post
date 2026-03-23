@@ -7,3 +7,5 @@ image: assets/hanzili_llm_in_chrome_20260205_014012_217_20260205_014033_ad5bbf.p
 # [hanzili/llm-in-chrome](https://github.com/hanzili/llm-in-chrome)
 
 Browser agent for LLM automation
+
+用于LLM自动化的浏览器代理

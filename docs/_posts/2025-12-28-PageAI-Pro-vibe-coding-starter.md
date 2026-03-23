@@ -7,3 +7,5 @@ image: assets/PageAI_Pro_vibe_coding_starter_20251226_203847_841_20251226_203911
 # [PageAI-Pro/vibe-coding-starter](https://github.com/PageAI-Pro/vibe-coding-starter/)
 
 Starter for AI-generated websites
+
+AI 生成网站的入门模板

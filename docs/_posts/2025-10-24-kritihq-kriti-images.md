@@ -7,3 +7,5 @@ image: assets/kritihq_kriti_images_20251023_002831_299_20251023_222350_41173f--2
 # [kritihq/kriti-images](https://github.com/kritihq/kriti-images/)
 
 URL-based API for real-time image transformation
+
+基于URL的实时图像变换API

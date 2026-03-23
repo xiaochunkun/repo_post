@@ -7,3 +7,5 @@ image: assets/yeyushengfan258_Win11_icon_theme_20251207_224826_598_20251207_2250
 # [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme/)
 
 Windows 11 icon theme for Linux desktops
+
+适用于Linux桌面的Windows 11图标主题

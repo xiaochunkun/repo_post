@@ -7,3 +7,5 @@ image: assets/attacksurge_ax--20250814T050232591--cropped.png
 # [attacksurge/ax](https://github.com/attacksurge/ax)
 
 cloud scanning automation for bug hunters and pentesters
+
+面向漏洞猎人和渗透测试人员的云扫描自动化工具

@@ -7,3 +7,5 @@ image: assets/ProxymanApp_Tiny_Shield_20260112_004653_168_20260112_004706_bf99ec
 # [ProxymanApp/Tiny-Shield](https://github.com/ProxymanApp/Tiny-Shield)
 
 Monitors and blocks network connections on macOS
+
+在macOS上监控和阻止网络连接

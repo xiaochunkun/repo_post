@@ -7,3 +7,5 @@ image: assets/ant_design_x_20260108_050306_144_20260108_050321_c48c40.png
 # [ant-design/x](https://github.com/ant-design/x)
 
 Components for building LLM interfaces
+
+用于构建 LLM 界面的组件库

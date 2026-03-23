@@ -7,3 +7,5 @@ image: assets/TechnitiumSoftware_DnsServer_20260223_213729_529_20260223_213756_5
 # [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
 
 DNS server for network privacy
+
+用于网络隐私的DNS服务器

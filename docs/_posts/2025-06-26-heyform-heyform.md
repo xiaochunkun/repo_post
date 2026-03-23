@@ -7,3 +7,5 @@ image: assets/heyform_heyform_cropped.png
 # [heyform/heyform](https://github.com/heyform/heyform)
 
 form builder for making surveys, quizzes, polls
+
+用于制作调查、测验、投票的表单构建器

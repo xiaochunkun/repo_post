@@ -7,3 +7,5 @@ image: assets/K2SOsint_Legendary_Crypto_20251111_052339_639_20251112_020145_a9f7
 # [K2SOsint/Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto/)
 
 List of OSINT and blockchain investigation resources
+
+OSINT和区块链调查资源列表

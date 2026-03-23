@@ -7,3 +7,5 @@ image: assets/therealFoxster_DontEatMyContent_20260121_003306_883_20260121_00332
 # [therealFoxster/DontEatMyContent](https://github.com/therealFoxster/DontEatMyContent)
 
 Prevents notch from obscuring video content
+
+防止刘海遮挡视频内容

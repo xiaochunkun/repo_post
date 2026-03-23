@@ -7,3 +7,5 @@ image: assets/lylo_pagecord_20251215_014632_881_20251215_014702_8ee7ce.png
 # [lylo/pagecord](https://github.com/lylo/pagecord/)
 
 Publish blogs by sending emails
+
+通过发送邮件发布博客

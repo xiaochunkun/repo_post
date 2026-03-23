@@ -7,3 +7,5 @@ image: assets/jellyfin_jellyfin_20260228_064548_669_20260228_064742_edac21.png
 # [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
 Media system for the management and streaming of personal media
+
+用于管理和流式传输个人媒体的媒体系统

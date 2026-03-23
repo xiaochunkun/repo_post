@@ -7,3 +7,5 @@ image: assets/catppuccin_tmux_20251126_012950_095_20251129_022037_82cb4d--202511
 # [catppuccin/tmux](https://github.com/catppuccin/tmux/)
 
 Theme configuration for Tmux
+
+Tmux主题配置

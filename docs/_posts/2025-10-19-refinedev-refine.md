@@ -7,3 +7,5 @@ image: assets/refinedev_refine_20251019_003243_976_20251019_015629--20251019T035
 # [refinedev/refine](https://github.com/refinedev/refine/)
 
 React framework for headless internal tools, dashboards, B2B apps
+
+用于无头内部工具、仪表盘和 B2B 应用的 React 框架

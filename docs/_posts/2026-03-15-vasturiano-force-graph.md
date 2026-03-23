@@ -7,3 +7,5 @@ image: assets/vasturiano_force_graph_20260304_185228_913_20260304_185411_79da4e.
 # [vasturiano/force-graph](https://github.com/vasturiano/force-graph)
 
 Web component for graph data visualization on canvas
+
+画布上的图数据可视化Web组件

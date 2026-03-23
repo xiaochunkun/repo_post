@@ -7,3 +7,5 @@ image: assets/piashcse_kmp_movie_20251125_003508_856_20251126_100457_85278c--202
 # [piashcse/kmp-movie](https://github.com/piashcse/kmp-movie/)
 
 Movie app built with Compose Multiplatform
+
+使用 Compose Multiplatform 构建的电影应用

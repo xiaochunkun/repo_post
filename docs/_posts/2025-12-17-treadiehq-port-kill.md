@@ -7,3 +7,5 @@ image: assets/treadiehq_port_kill_20251216_092331_954_20251216_092433_5f17de.png
 # [treadiehq/port-kill](https://github.com/treadiehq/port-kill/)
 
 Finds and frees blocking ports
+
+查找并释放阻塞端口

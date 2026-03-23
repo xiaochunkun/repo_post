@@ -7,3 +7,5 @@ image: assets/rozniak_xfce_winxp_tc_20260115_233442_129_20260115_233455_361869.p
 # [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc)
 
 Converts XFCE into Windows XP
+
+将XFCE转换为Windows XP

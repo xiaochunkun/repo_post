@@ -7,3 +7,5 @@ image: assets/Tib3rius_Hallucinet_Explorer_20260315_122322_810_20260315_122431_5
 # [Tib3rius/Hallucinet-Explorer](https://github.com/Tib3rius/Hallucinet-Explorer)
 
 LLM-generated web browser with zero real HTTP requests
+
+LLM生成的网页浏览器，无需真实HTTP请求

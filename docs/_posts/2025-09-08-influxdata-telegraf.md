@@ -7,3 +7,5 @@ image: assets/20250908T094016180--influxdata--telegraf--20250908T094412654--crop
 # [influxdata/telegraf](https://github.com/influxdata/telegraf)
 
 collects and ships system metrics with plugins
+
+通过插件采集和发送系统指标

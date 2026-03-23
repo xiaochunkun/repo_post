@@ -7,3 +7,5 @@ image: assets/Screenly_Anthias--20250812T001951--cropped.png
 # [Screenly/Anthias](https://github.com/Screenly/Anthias)
 
 open‑source digital signage for Raspberry Pi and PC
+
+适用于Raspberry Pi和PC的开源数字标牌

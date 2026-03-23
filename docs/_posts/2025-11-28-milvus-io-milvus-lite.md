@@ -7,3 +7,5 @@ image: assets/milvus_io_milvus_lite_20251125_034640_194_20251127_164848_c6b6d9--
 # [milvus-io/milvus-lite](https://github.com/milvus-io/milvus-lite/)
 
 Embeds vector search functionality into Python applications
+
+将向量搜索功能嵌入 Python 应用

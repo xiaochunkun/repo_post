@@ -7,3 +7,5 @@ image: assets/harumiWeb_exstruct_20251227_153318_307_20251227_153335_7939a0.png
 # [harumiWeb/exstruct](https://github.com/harumiWeb/exstruct/)
 
 Extracts structured data from Excel for LLM pipelines
+
+从 Excel 提取结构化数据用于 LLM 管道

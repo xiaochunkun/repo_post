@@ -7,3 +7,5 @@ image: assets/aakashadesara_notion_google_sheets_sync_20260102_053547_219_202601
 # [aakashadesara/notion-google-sheets-sync](https://github.com/aakashadesara/notion-google-sheets-sync/)
 
 Syncs Google Sheets with Notion collections
+
+同步Google Sheets与Notion集合

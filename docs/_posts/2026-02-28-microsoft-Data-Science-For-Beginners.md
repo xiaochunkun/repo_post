@@ -7,3 +7,5 @@ image: assets/microsoft_Data_Science_For_Beginners_20260227_161055_913_20260227_
 # [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
 Curriculum for data science in fifty languages
+
+五十种语言的数据科学课程

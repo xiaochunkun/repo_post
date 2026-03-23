@@ -7,3 +7,5 @@ image: assets/investbrainapp_investbrain_cropped.png
 # [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain)
 
 ai-powered investing tools for smarter portfolio management
+
+用于智能投资组合管理的AI驱动投资工具

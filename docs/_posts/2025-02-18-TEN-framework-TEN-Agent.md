@@ -7,3 +7,5 @@ image: assets/TEN-framework_TEN-Agent_cropped.png
 # [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent)
 
 Real-time multimodal AI agent framework
+
+实时多模态 AI 代理框架

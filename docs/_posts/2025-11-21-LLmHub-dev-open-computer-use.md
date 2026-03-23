@@ -7,3 +7,5 @@ image: assets/LLmHub_dev_open_computer_use_20251120_072125_432_20251121_174008_8
 # [LLmHub-dev/open-computer-use](https://github.com/LLmHub-dev/open-computer-use/)
 
 Gives AI agents computer control
+
+赋予 AI 代理计算机控制权

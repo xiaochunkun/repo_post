@@ -7,3 +7,5 @@ image: assets/frappe_hrms_cropped.png
 # [frappe/hrms](https://github.com/frappe/hrms)
 
 open source HR and payroll tools for teams
+
+面向团队的开源人力资源和薪资工具

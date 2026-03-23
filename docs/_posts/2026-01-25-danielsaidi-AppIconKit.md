@@ -7,3 +7,5 @@ image: assets/danielsaidi_AppIconKit_20260120_021547_079_20260120_021611_df1c06.
 # [danielsaidi/AppIconKit](https://github.com/danielsaidi/AppIconKit)
 
 Swift SDK for managing alternate app icons on macOS and iOS
+
+管理macOS和iOS应用图标的Swift SDK

@@ -7,3 +7,5 @@ image: assets/302ai_302_ai_card_generation_20260102_072847_736_20260102_072905_2
 # [302ai/302_ai_card_generation](https://github.com/302ai/302_ai_card_generation/)
 
 Generates cards and posters with AI
+
+使用AI生成卡片和海报

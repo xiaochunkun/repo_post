@@ -7,3 +7,5 @@ image: assets/KartoffelToby_better_thermostat_20251123_210107_311_20251125_22121
 # [KartoffelToby/better_thermostat](https://github.com/KartoffelToby/better_thermostat/)
 
 Smart radiator thermostat integration for Home Assistant
+
+用于 Home Assistant 的智能散热器恒温器集成

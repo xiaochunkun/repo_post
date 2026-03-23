@@ -7,3 +7,5 @@ image: assets/FavioVazquez_ds_cheatsheets_20260204_165020_986_20260204_165042_ce
 # [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
 
 Collection of data science cheatsheets
+
+数据科学速查表集合

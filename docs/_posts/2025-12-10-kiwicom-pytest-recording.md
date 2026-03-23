@@ -7,3 +7,5 @@ image: assets/kiwicom_pytest_recording_20251208_012604_713_20251208_012653_40407
 # [kiwicom/pytest-recording](https://github.com/kiwicom/pytest-recording/)
 
 Pytest plugin records and replays HTTP traffic
+
+Pytest 插件记录和重放 HTTP 流量

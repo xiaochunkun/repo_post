@@ -7,3 +7,5 @@ image: assets/hedge_dev_XenonRecomp_20251125_041913_701_20251127_165258_ddfd58--
 # [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp/)
 
 Converts Xbox 360 executables to C++
+
+将 Xbox 360 可执行文件转换为 C++

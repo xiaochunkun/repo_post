@@ -7,3 +7,5 @@ image: assets/sysadminsmedia_homebox_20260221_025050_045_20260221_025111_d8f592.
 # [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)
 
 Inventory and organization system for home users
+
+家庭用户的库存和组织系统

@@ -7,3 +7,5 @@ image: assets/DialmasterOrg_Youtarr_20251026_232539_603_20251027_001226_3eb208--
 # [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr/)
 
 Self-hosted app for downloading YouTube content
+
+用于下载YouTube内容的自托管应用

@@ -7,3 +7,5 @@ image: assets/thepersonalaicompany_amurex_cropped.png
 # [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex)
 
 AI meeting copilot for real-time suggestions, summaries, and transcripts
+
+AI会议助手，提供实时建议、摘要和转录

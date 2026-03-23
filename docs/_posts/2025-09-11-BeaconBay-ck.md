@@ -7,3 +7,5 @@ image: assets/20250911T011725344--BeaconBay--ck--20250911T012145218--cropped.png
 # [BeaconBay/ck](https://github.com/BeaconBay/ck)
 
 semantic code search by meaning, not just keywords
+
+按语义搜索代码，不只是关键词

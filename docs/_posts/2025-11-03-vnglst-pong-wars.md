@@ -7,3 +7,5 @@ image: assets/vnglst_pong_wars_20251031_085427_324_20251102_154712_02ace9--20251
 # [vnglst/pong-wars](https://github.com/vnglst/pong-wars/)
 
 Pong where the score changes the play area
+
+分数改变游戏区域的乒乓球游戏

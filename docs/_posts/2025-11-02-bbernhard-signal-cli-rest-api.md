@@ -7,3 +7,5 @@ image: assets/bbernhard_signal_cli_rest_api_20251031_072314_934_20251101_205701_
 # [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api/)
 
 Dockerized REST API for the Signal protocol
+
+Signal 协议的 Docker 化 REST API

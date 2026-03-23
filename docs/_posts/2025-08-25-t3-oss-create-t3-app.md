@@ -7,3 +7,5 @@ image: assets/20250825T024041645--t3-oss--create-t3-app--20250825T024930427--cro
 # [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
 
 CLI to quickly start a typesafe Next.js app with the T3 Stack
+
+快速创建类型安全 Next.js 应用的 T3 Stack CLI

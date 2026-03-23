@@ -7,3 +7,5 @@ image: assets/peckphp_peck_20251207_213235_858_20251207_213335_27a106.png
 # [peckphp/peck](https://github.com/peckphp/peck/)
 
 CLI tool identifies spelling mistakes in codebases
+
+CLI工具识别代码库中的拼写错误

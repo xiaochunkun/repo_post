@@ -7,3 +7,5 @@ image: assets/pipecat_ai_voice_ui_kit_20260112_163724_359_20260112_163738_ff61a2
 # [pipecat-ai/voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit)
 
 React components for voice AI applications
+
+语音AI应用的React组件

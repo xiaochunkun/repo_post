@@ -7,3 +7,5 @@ image: assets/gdraheim_docker_systemctl_replacement_20251201_042851_577_20251201
 # [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement/)
 
 Executes systemctl commands without SystemD
+
+无需 SystemD 执行 systemctl 命令

@@ -7,3 +7,5 @@ image: assets/20250904T000839629--huggingface--transformers.js--20250911T2320292
 # [huggingface/transformers.js](https://github.com/huggingface/transformers.js)
 
 run Hugging Face Transformers models in your browser with JavaScript
+
+在浏览器中用 JavaScript 运行 Hugging Face Transformers 模型

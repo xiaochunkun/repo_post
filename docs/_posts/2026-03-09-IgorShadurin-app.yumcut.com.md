@@ -7,3 +7,5 @@ image: assets/IgorShadurin_app_yumcut_com_20260309_082943_261_20260309_083221_e6
 # [IgorShadurin/app.yumcut.com](https://github.com/IgorShadurin/app.yumcut.com)
 
 Generates vertical videos from prompts with scripts and voiceovers
+
+从提示生成带脚本和旁白的垂直视频

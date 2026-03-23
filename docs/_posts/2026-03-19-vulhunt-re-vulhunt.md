@@ -7,3 +7,5 @@ image: assets/vulhunt_re_vulhunt_20260314_215854_215_20260314_215951_4c721c.png
 # [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt)
 
 Open-source vulnerability hunting framework for binaries and UEFI firmware
+
+面向二进制文件和UEFI固件的开源漏洞挖掘框架

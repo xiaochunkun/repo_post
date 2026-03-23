@@ -7,3 +7,5 @@ image: assets/cometchat_cometchat_uikit_react_20260112_013758_471_20260112_01381
 # [cometchat/cometchat-uikit-react](https://github.com/cometchat/cometchat-uikit-react)
 
 React components for chat and calling
+
+用于聊天和通话的React组件

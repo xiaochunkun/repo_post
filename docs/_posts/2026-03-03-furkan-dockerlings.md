@@ -7,3 +7,5 @@ image: assets/furkan_dockerlings_20260302_030459_800_20260302_030618_b14c5b.png
 # [furkan/dockerlings](https://github.com/furkan/dockerlings)
 
 Terminal interface for learning Docker through exercises
+
+通过练习学习 Docker 的终端界面

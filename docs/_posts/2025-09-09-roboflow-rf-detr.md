@@ -7,3 +7,5 @@ image: assets/20250908T223913966--roboflow--rf-detr--20250908T224050387--cropped
 # [roboflow/rf-detr](https://github.com/roboflow/rf-detr)
 
 real-time transformer object detection model with strong benchmark results
+
+实时 Transformer 目标检测模型，基准测试表现优秀

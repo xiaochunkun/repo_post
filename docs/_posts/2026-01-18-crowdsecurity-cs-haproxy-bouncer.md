@@ -7,3 +7,5 @@ image: assets/crowdsecurity_cs_haproxy_bouncer_20260118_050348_541_20260118_0504
 # [crowdsecurity/cs-haproxy-bouncer](https://github.com/crowdsecurity/cs-haproxy-bouncer)
 
 Blocks IPs using the HAProxy Lua API
+
+使用HAProxy Lua API阻止IP地址

@@ -7,3 +7,5 @@ image: assets/AkashRajpurohit_howtoprofessionallysay_20260113_190857_670_2026011
 # [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay)
 
 Translates workplace phrases into professional language
+
+职场用语专业翻译工具

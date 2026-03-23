@@ -7,3 +7,5 @@ image: assets/20250912T194351622--home-assistant--operating-system--20250912T195
 # [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
 
 Linux OS for running Home Assistant on Raspberry Pi, NUC, and more
+
+在树莓派、NUC 等设备上运行 Home Assistant 的 Linux 系统

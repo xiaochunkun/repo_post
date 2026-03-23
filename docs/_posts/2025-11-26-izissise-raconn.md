@@ -7,3 +7,5 @@ image: assets/izissise_raconn_20251124_232340_690_20251125_221307_2ea3f4--202511
 # [izissise/raconn](https://github.com/izissise/raconn/)
 
 Concurrent connection tool piping first success to stdout
+
+将首次成功输出到 stdout 的并发连接工具

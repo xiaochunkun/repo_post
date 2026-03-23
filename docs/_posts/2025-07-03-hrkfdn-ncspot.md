@@ -7,3 +7,5 @@ image: assets/hrkfdn_ncspot_cropped.png
 # [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot)
 
 Spotify client for the terminal using ncurses and Rust
+
+使用ncurses和Rust构建的终端Spotify客户端

@@ -7,3 +7,5 @@ image: assets/DIYgod_RSSHub_cropped.png
 # [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
 
 generate RSS feeds from any website
+
+从任何网站生成 RSS 源

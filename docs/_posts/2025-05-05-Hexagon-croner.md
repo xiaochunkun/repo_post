@@ -7,3 +7,5 @@ image: assets/Hexagon_croner_cropped.png
 # [Hexagon/croner](https://github.com/Hexagon/croner)
 
 Schedule or trigger JavaScript or TypeScript functions using cron expressions
+
+使用cron表达式调度或触发JavaScript或TypeScript函数

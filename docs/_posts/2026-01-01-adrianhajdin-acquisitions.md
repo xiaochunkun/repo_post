@@ -7,3 +7,5 @@ image: assets/adrianhajdin_acquisitions_20251231_182131_220_20251231_182151_ed45
 # [adrianhajdin/acquisitions](https://github.com/adrianhajdin/acquisitions/)
 
 API with Docker and CI/CD
+
+包含Docker和CI/CD的API

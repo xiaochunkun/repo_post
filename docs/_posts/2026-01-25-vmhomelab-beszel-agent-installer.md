@@ -7,3 +7,5 @@ image: assets/vmhomelab_beszel_agent_installer_20260111_064956_761_20260111_0650
 # [vmhomelab/beszel-agent-installer](https://github.com/vmhomelab/beszel-agent-installer)
 
 Installer and management GUI for monitoring agents on Windows
+
+Windows监控代理安装管理GUI

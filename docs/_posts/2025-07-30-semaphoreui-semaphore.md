@@ -7,3 +7,5 @@ image: assets/semaphoreui_semaphore_cropped.png
 # [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)
 
 web UI for running Ansible, Terraform, and scripts
+
+用于运行 Ansible、Terraform 和脚本的 Web UI

@@ -7,3 +7,5 @@ image: assets/neural_maze_realtime_phone_agents_course_20251222_043057_176_20251
 # [neural-maze/realtime-phone-agents-course](https://github.com/neural-maze/realtime-phone-agents-course/)
 
 Builds voice agents for phone calls with FastRTC and Twilio
+
+使用 FastRTC 和 Twilio 构建电话语音智能体

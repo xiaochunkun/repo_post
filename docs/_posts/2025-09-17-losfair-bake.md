@@ -7,3 +7,5 @@ image: assets/20250917T005643382--losfair--bake--20250917T005930343--cropped.png
 # [losfair/bake](https://github.com/losfair/bake)
 
 Linux CLI tool that embeds Firecracker microVM resources into standalone executables for simpler deployment
+
+Linux CLI 工具，将 Firecracker 微虚拟机资源嵌入独立可执行文件，简化部署

@@ -7,3 +7,5 @@ image: assets/20251015T031756959--ruucm--shadergradient--20251015T032502228--cro
 # [ruucm/shadergradient](https://github.com/ruucm/shadergradient)
 
 customizable 3D gradients for React, Figma, and Framer
+
+适用于 React、Figma 和 Framer 的可定制 3D 渐变

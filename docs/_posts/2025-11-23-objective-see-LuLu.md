@@ -7,3 +7,5 @@ image: assets/objective_see_LuLu_20251122_155106_172_20251123_001132_14f20b--202
 # [objective-see/LuLu](https://github.com/objective-see/LuLu/)
 
 Open-source firewall for macOS
+
+macOS开源防火墙

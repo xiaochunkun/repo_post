@@ -7,3 +7,5 @@ image: assets/connorgallopo_Tracearr_20260130_225140_628_20260130_225222_4e77a6.
 # [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
 
 Monitors media servers and detects account sharing
+
+监控媒体服务器并检测账户共享

@@ -7,3 +7,5 @@ image: assets/bytewax_bytewax_20251209_045100_903_20251209_045330_2c3f74.png
 # [bytewax/bytewax](https://github.com/bytewax/bytewax/)
 
 Python framework for stateful stream processing
+
+用于有状态流处理的Python框架

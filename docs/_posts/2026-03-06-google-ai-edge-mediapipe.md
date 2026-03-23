@@ -7,3 +7,5 @@ image: assets/google_ai_edge_mediapipe_20260305_070301_108_20260305_070430_2730c
 # [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
 
 Framework for machine learning on devices
+
+设备端机器学习框架

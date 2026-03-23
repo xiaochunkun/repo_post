@@ -7,3 +7,5 @@ image: assets/bodaay_HuggingFaceModelDownloader_20260122_121505_345_20260122_121
 # [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)
 
 Downloads models and datasets from Hugging Face via terminal or web interface
+
+通过终端或Web界面从Hugging Face下载模型和数据集

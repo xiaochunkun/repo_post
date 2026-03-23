@@ -7,3 +7,5 @@ image: assets/AnthonyGress_Android_Toolkit_20260113_203850_787_20260113_203904_d
 # [AnthonyGress/Android-Toolkit](https://github.com/AnthonyGress/Android-Toolkit)
 
 GUI for adb to modify android devices
+
+用于修改 Android 设备的 adb GUI

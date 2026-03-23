@@ -7,3 +7,5 @@ image: assets/KwaiVGI_ReCamMaster_20251123_030642_315_20251123_213331_205281--20
 # [KwaiVGI/ReCamMaster](https://github.com/KwaiVGI/ReCamMaster/)
 
 Synthesize video with camera control from one input
+
+从单一输入合成带相机控制的视频

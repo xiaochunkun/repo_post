@@ -7,3 +7,5 @@ image: assets/SnapXL_SnapX_20260209_024051_241_20260209_024137_9e6d14.png
 # [SnapXL/SnapX](https://github.com/SnapXL/SnapX)
 
 Cross-platform fork of ShareX with OCR
+
+具有 OCR 功能的 ShareX 跨平台分支

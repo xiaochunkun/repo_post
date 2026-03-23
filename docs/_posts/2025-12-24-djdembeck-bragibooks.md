@@ -7,3 +7,5 @@ image: assets/djdembeck_bragibooks_20251222_214618_033_20251222_214635_74f282.pn
 # [djdembeck/bragibooks](https://github.com/djdembeck/bragibooks/)
 
 Web interface for audiobook library management and file merging
+
+有声书库管理和文件合并的Web界面

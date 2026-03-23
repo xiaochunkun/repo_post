@@ -7,3 +7,5 @@ image: assets/20250903T012345748--ratatui--ratatui--20250903T012902823--cropped.
 # [ratatui/ratatui](https://github.com/ratatui/ratatui)
 
 Rust library for building terminal user interfaces
+
+用 Rust 构建终端用户界面的库

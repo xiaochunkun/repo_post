@@ -7,3 +7,5 @@ image: assets/TheHive-Project_TheHive_cropped.png
 # [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive)
 
 open source platform for managing and responding to security incidents
+
+用于管理和响应安全事件的开源平台

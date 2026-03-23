@@ -7,3 +7,5 @@ image: assets/autokitteh_autokitteh_cropped.png
 # [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh)
 
 code-based workflow automation platform for developers
+
+基于代码的工作流自动化平台，面向开发者

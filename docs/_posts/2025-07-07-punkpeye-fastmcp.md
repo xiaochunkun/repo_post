@@ -7,3 +7,5 @@ image: assets/punkpeye_fastmcp_cropped.png
 # [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp)
 
 TypeScript framework for building MCP servers
+
+用于构建 MCP 服务器的 TypeScript 框架

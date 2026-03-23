@@ -7,3 +7,5 @@ image: assets/20250906T222616201--openai--openai-go--20250906T222802511--cropped
 # [openai/openai-go](https://github.com/openai/openai-go)
 
 Official Go library for using the OpenAI API in your Go projects
+
+在 Go 项目中使用 OpenAI API 的官方 Go 库

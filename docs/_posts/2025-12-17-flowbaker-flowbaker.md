@@ -7,3 +7,5 @@ image: assets/flowbaker_flowbaker_20251216_055800_167_20251216_055837_4288ae.png
 # [flowbaker/flowbaker](https://github.com/flowbaker/flowbaker/)
 
 Self-hosted workflow automation executor
+
+自托管工作流自动化执行器

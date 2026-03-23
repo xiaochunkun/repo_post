@@ -7,3 +7,5 @@ image: assets/browser_use_web_ui_20260302_190126_958_20260302_190311_e5daf3.png
 # [browser-use/web-ui](https://github.com/browser-use/web-ui)
 
 Interface for AI agents to control browsers
+
+AI代理控制浏览器的界面

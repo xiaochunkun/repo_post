@@ -7,3 +7,5 @@ image: assets/rsyncOSX_RsyncUI--20250906T221452092--cropped.png
 # [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI)
 
 macOS app with a GUI for rsync backups
+
+带图形界面的 macOS rsync 备份应用

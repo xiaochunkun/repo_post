@@ -7,3 +7,5 @@ image: assets/sangrokjung_claude_forge_20260321_132021_681_20260321_132100_8b40e
 # [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)
 
 Open-source development environment for Claude Code
+
+Claude Code 的开源开发环境

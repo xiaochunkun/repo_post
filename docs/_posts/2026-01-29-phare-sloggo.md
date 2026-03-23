@@ -7,3 +7,5 @@ image: assets/phare_sloggo_20260125_032952_588_20260125_033031_d89463.png
 # [phare/sloggo](https://github.com/phare/sloggo)
 
 Syslog collector and viewer using DuckDB
+
+使用DuckDB的Syslog收集器和查看器

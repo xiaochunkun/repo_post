@@ -7,3 +7,5 @@ image: assets/mltframework_shotcut_20260122_012955_599_20260122_013012_b9daa7.pn
 # [mltframework/shotcut](https://github.com/mltframework/shotcut)
 
 Video editor for the desktop
+
+桌面视频编辑器

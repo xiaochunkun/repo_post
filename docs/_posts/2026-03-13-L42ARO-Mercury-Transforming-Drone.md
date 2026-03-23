@@ -7,3 +7,5 @@ image: assets/L42ARO_Mercury_Transforming_Drone_20260309_130959_922_20260309_131
 # [L42ARO/Mercury-Transforming-Drone](https://github.com/L42ARO/Mercury-Transforming-Drone)
 
 Drone with transformation mechanism and payload bay
+
+带变形机制和有效载荷舱的无人机

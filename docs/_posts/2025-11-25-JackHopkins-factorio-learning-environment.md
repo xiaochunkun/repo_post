@@ -7,3 +7,5 @@ image: assets/JackHopkins_factorio_learning_environment_20251123_192329_234_2025
 # [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment/)
 
 Framework for evaluating LLM agents in Factorio
+
+在 Factorio 中评估 LLM 代理的框架

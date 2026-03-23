@@ -7,3 +7,5 @@ image: assets/DouglasFreshHabian_AndroidForensics_20260116_072815_614_20260116_0
 # [DouglasFreshHabian/AndroidForensics](https://github.com/DouglasFreshHabian/AndroidForensics)
 
 Extracts artifacts from Android devices via ADB
+
+通过 ADB 从 Android 设备提取数据

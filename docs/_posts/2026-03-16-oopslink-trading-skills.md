@@ -7,3 +7,5 @@ image: assets/oopslink_trading_skills_20260310_125505_763_20260310_125914_f09e37
 # [oopslink/trading-skills](https://github.com/oopslink/trading-skills)
 
 Financial data CLI with trading skill modules
+
+集成交易技能模块的金融数据 CLI

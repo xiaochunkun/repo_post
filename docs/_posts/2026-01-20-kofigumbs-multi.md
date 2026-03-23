@@ -7,3 +7,5 @@ image: assets/kofigumbs_multi_20260119_213158_128_20260119_213211_a73b59.png
 # [kofigumbs/multi](https://github.com/kofigumbs/multi)
 
 Turns websites into macOS apps
+
+将网站转换为macOS应用

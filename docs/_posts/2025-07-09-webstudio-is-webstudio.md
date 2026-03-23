@@ -7,3 +7,5 @@ image: assets/webstudio-is_webstudio_cropped.png
 # [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)
 
 open source visual web builder for designers and devs
+
+开源可视化网页构建器，面向设计师和开发者

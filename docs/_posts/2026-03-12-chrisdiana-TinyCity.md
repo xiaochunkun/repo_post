@@ -7,3 +7,5 @@ image: assets/chrisdiana_TinyCity_20260312_212705_132_20260312_212846_9e5733.png
 # [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity)
 
 City simulation for Raspberry Pi RP2040
+
+Raspberry Pi RP2040的城市模拟

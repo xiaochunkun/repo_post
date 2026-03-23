@@ -7,3 +7,5 @@ image: assets/web_infra_dev_midscene_20260203_004945_545_20260203_005001_9060e3.
 # [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
 
 UI automation with vision-based models
+
+基于视觉模型的 UI 自动化

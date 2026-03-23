@@ -7,3 +7,5 @@ image: assets/kubenav_kubenav--20250816T011911491--cropped.png
 # [kubenav/kubenav](https://github.com/kubenav/kubenav)
 
 mobile app for managing Kubernetes clusters
+
+用于管理 Kubernetes 集群的移动应用

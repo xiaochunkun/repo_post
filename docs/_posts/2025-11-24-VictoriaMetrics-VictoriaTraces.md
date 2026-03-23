@@ -7,3 +7,5 @@ image: assets/VictoriaMetrics_VictoriaTraces_20251123_060516_552_20251124_001644
 # [VictoriaMetrics/VictoriaTraces](https://github.com/VictoriaMetrics/VictoriaTraces/)
 
 Database for terabytes of trace spans
+
+用于太字节级跟踪跨度的数据库

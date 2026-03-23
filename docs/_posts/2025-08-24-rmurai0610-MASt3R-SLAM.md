@@ -7,3 +7,5 @@ image: assets/20250823T012247594--rmurai0610--MASt3R-SLAM--20250823T013750252--c
 # [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM)
 
 Real-time dense SLAM from a single camera using 3D reconstruction priors, with global pose and geometry estimation at 15 FPS
+
+利用 3D 重建先验的单目实时稠密 SLAM，15 FPS 全局位姿和几何估计

@@ -7,3 +7,5 @@ image: assets/frappe_builder_20251108_204904_443_20251108_220129_ff2c96--2025110
 # [frappe/builder](https://github.com/frappe/builder/)
 
 Low-code website builder with a Figma-like editor
+
+具有类Figma编辑器的低代码网站构建器

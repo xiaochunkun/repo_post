@@ -7,3 +7,5 @@ image: assets/laylavish_uBlockOrigin_HUGE_AI_Blocklist_20251025_052222_860_20251
 # [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/)
 
 A blocklist for removing AI-generated content from image search results
+
+从图像搜索结果中移除AI生成内容的阻止列表

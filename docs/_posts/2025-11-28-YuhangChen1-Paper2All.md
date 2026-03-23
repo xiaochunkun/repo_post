@@ -7,3 +7,5 @@ image: assets/YuhangChen1_Paper2All_20251125_053141_513_20251127_170833_aef6d0--
 # [YuhangChen1/Paper2All](https://github.com/YuhangChen1/Paper2All/)
 
 Autonomous pipeline converts papers into academic homepages
+
+将论文自动转换为学术主页的自主流程

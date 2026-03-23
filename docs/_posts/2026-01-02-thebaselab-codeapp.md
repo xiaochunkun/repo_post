@@ -7,3 +7,5 @@ image: assets/thebaselab_codeapp_20260101_055501_175_20260101_055515_6c891c.png
 # [thebaselab/codeapp](https://github.com/thebaselab/codeapp/)
 
 Code editor for iPad with terminal and runtimes
+
+适用于 iPad 的代码编辑器，带有终端和运行时

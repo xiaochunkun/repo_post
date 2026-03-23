@@ -7,3 +7,5 @@ image: assets/domcyrus_rustnet_20260108_022717_242_20260108_022733_cd0d23.png
 # [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
 
 Network monitor with deep packet inspection
+
+具备深度包检测功能的网络监控器

@@ -7,3 +7,5 @@ image: assets/Ttanasart_pt_Pixel_Composer_20251230_052858_574_20251230_052920_b5
 # [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer/)
 
 Node based VFX editor for pixel art
+
+基于节点的像素艺术VFX编辑器

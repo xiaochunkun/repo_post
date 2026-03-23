@@ -7,3 +7,5 @@ image: assets/Mirix_AI_MIRIX_20260302_061721_108_20260302_061855_a609b0.png
 # [Mirix-AI/MIRIX](https://github.com/Mirix-AI/MIRIX)
 
 Memory system for agents through screen observation
+
+通过屏幕观察为代理提供记忆系统

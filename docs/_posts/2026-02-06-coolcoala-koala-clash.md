@@ -7,3 +7,5 @@ image: assets/coolcoala_koala_clash_20260204_031304_572_20260204_031326_d63868.p
 # [coolcoala/koala-clash](https://github.com/coolcoala/koala-clash)
 
 Proxy client for desktop platforms based on Tauri
+
+基于Tauri的桌面平台代理客户端

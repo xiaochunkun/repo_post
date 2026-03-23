@@ -7,3 +7,5 @@ image: assets/20251009T195316834--prodrigestivill--docker-postgres-backup-local-
 # [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local)
 
 automated postgres backups to local filesystem with rotation
+
+自动化 PostgreSQL 备份到本地文件系统，支持轮转

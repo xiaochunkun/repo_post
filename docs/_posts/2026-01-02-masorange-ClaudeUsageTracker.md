@@ -7,3 +7,5 @@ image: assets/masorange_ClaudeUsageTracker_20260101_064216_076_20260101_064231_9
 # [masorange/ClaudeUsageTracker](https://github.com/masorange/ClaudeUsageTracker/)
 
 Monitors API costs from the macOS menu bar
+
+从 macOS 菜单栏监控 API 成本

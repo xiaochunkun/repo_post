@@ -7,3 +7,5 @@ image: assets/giuliacassara_awesome_social_engineering_20260111_190030_175_20260
 # [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering)
 
 Resources for cybersecurity professionals to study human manipulation
+
+网络安全专业人员研究人为操纵的资源

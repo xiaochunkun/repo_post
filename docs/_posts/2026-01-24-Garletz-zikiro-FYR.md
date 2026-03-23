@@ -7,3 +7,5 @@ image: assets/Garletz_zikiro_FYR_20260122_072219_529_20260122_072247_9a1140.png
 # [Garletz/zikiro-FYR](https://github.com/Garletz/zikiro-FYR)
 
 Restaurant management system with menu analysis and SMS communication
+
+餐厅管理系统，支持菜单分析和短信通信

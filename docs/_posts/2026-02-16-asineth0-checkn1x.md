@@ -7,3 +7,5 @@ image: assets/asineth0_checkn1x_20260212_063612_973_20260212_063645_c30b65.png
 # [asineth0/checkn1x](https://github.com/asineth0/checkn1x)
 
 Linux distribution for jailbreaking iOS devices
+
+用于越狱 iOS 设备的 Linux 发行版

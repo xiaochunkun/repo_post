@@ -7,3 +7,5 @@ image: assets/rz1989s_claude_code_statusline_20251029_232349_819_20251030_003045
 # [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline/)
 
 Terminal statusline with 18 atomic components
+
+具有 18 个原子组件的终端状态栏

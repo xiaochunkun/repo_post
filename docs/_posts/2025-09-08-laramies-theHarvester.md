@@ -7,3 +7,5 @@ image: assets/20250906T215906163--laramies--theHarvester--20250908T043058506--cr
 # [laramies/theHarvester](https://github.com/laramies/theHarvester)
 
 OSINT tool for gathering emails, subdomains, and more
+
+收集邮箱、子域名等信息的开源情报工具

@@ -7,3 +7,5 @@ image: assets/20250930T033028986--graphdeco-inria--gaussian-splatting--20250930T
 # [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
 
 real-time 3D scene rendering using gaussian splatting
+
+使用高斯泼溅进行实时 3D 场景渲染

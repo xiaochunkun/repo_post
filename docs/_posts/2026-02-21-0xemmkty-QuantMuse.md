@@ -7,3 +7,5 @@ image: assets/0xemmkty_QuantMuse_20260220_133506_967_20260220_133522_5ecb03.png
 # [0xemmkty/QuantMuse](https://github.com/0xemmkty/QuantMuse)
 
 Trading system with AI analysis and risk management
+
+具有 AI 分析和风险管理的交易系统

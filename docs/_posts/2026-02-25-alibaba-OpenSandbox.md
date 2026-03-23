@@ -7,3 +7,5 @@ image: assets/alibaba_OpenSandbox_20260207_112704_133_20260207_112719_91bf77.png
 # [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
 
 Sandbox platform for AI agents and code execution
+
+AI智能体和代码执行的沙箱平台

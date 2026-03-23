@@ -7,3 +7,5 @@ image: assets/aelassas_bookcars_20260114_043234_168_20260114_043247_61433a.png
 # [aelassas/bookcars](https://github.com/aelassas/bookcars)
 
 Car rental platform with Stripe and PayPal support
+
+支持Stripe和PayPal的租车平台

@@ -7,3 +7,5 @@ image: assets/CursorTouch_Web_Agent_20251126_102721_762_20251129_022150_4c811e--
 # [CursorTouch/Web-Agent](https://github.com/CursorTouch/Web-Agent/)
 
 LLM-powered web browsing agent
+
+基于LLM的网页浏览代理

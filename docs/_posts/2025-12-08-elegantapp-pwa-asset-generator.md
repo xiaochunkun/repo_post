@@ -7,3 +7,5 @@ image: assets/elegantapp_pwa_asset_generator_20251205_042202_349_20251205_042224
 # [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator/)
 
 Generates icons and splash screens for PWAs
+
+为 PWA 生成图标和启动画面

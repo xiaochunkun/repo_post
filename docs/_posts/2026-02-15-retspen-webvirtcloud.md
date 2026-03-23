@@ -7,3 +7,5 @@ image: assets/retspen_webvirtcloud_20260117_075113_152_20260117_075129_eed730.pn
 # [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud)
 
 Web interface for QEMU/KVM virtualization management
+
+QEMU/KVM虚拟化管理的Web界面

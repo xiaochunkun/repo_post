@@ -7,3 +7,5 @@ image: assets/20250822T022828611--rcourtman--Pulse--20250822T023714598--cropped.
 # [rcourtman/Pulse](https://github.com/rcourtman/Pulse)
 
 real-time Proxmox monitoring with alerts and webhooks
+
+Proxmox 实时监控，支持告警和 Webhook

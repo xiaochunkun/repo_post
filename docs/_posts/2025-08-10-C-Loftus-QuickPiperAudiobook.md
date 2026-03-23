@@ -7,3 +7,5 @@ image: assets/C-Loftus_QuickPiperAudiobook_cropped.png
 # [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook)
 
 turn books into audiobooks with one command
+
+一键将书籍转换为有声书

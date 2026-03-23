@@ -7,3 +7,5 @@ image: assets/horilla_opensource_horilla_20260209_050312_951_20260209_050336_1b0
 # [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla)
 
 HRMS and CRM software for streamlining HR processes
+
+简化HR流程的HRMS和CRM软件

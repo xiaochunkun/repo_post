@@ -7,3 +7,5 @@ image: assets/ReScienceLab_opc_skills_20260210_061202_995_20260210_061217_2af06e
 # [ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills)
 
 Automation skills for AI agents
+
+AI 代理的自动化技能

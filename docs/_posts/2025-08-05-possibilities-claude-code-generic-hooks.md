@@ -7,3 +7,5 @@ image: assets/possibilities_claude-code-generic-hooks_cropped.png
 # [possibilities/claude-code-generic-hooks](https://github.com/possibilities/claude-code-generic-hooks)
 
 customizable hooks for Claude Code workflows
+
+可自定义的 Claude Code 工作流钩子

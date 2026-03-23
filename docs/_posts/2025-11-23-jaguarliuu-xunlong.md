@@ -7,3 +7,5 @@ image: assets/jaguarliuu_xunlong_20251122_120154_467_20251122_221900_3a7ba5--202
 # [jaguarliuu/xunlong](https://github.com/jaguarliuu/xunlong/)
 
 Generates research reports, novels, and presentations
+
+生成研究报告、小说和演示文稿

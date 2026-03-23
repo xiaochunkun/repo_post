@@ -7,3 +7,5 @@ image: assets/mainsail_crew_MainsailOS_20251202_221035_236_20251202_221108_8729b
 # [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS/)
 
 Raspberry Pi distribution for managing Klipper 3D printers
+
+用于管理 Klipper 3D 打印机的 Raspberry Pi 发行版

@@ -7,3 +7,5 @@ image: assets/blitzbrowser_blitzbrowser_20260205_110425_736_20260205_110506_0d3b
 # [blitzbrowser/blitzbrowser](https://github.com/blitzbrowser/blitzbrowser)
 
 Manages headful browsers in Docker
+
+在Docker中管理有头浏览器

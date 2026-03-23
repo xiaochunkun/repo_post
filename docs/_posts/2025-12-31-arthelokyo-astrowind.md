@@ -7,3 +7,5 @@ image: assets/arthelokyo_astrowind_20251230_223740_276_20251230_223804_312db9.pn
 # [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind/)
 
 Template for websites using Astro and Tailwind CSS
+
+使用 Astro 和 Tailwind CSS 的网站模板

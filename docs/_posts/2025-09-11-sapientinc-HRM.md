@@ -7,3 +7,5 @@ image: assets/20250910T031454504--sapientinc--HRM--20250910T031609908--cropped.p
 # [sapientinc/HRM](https://github.com/sapientinc/HRM)
 
 AI model for solving complex reasoning tasks with efficient architecture
+
+高效架构的 AI 模型，解决复杂推理任务

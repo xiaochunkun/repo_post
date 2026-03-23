@@ -7,3 +7,5 @@ image: assets/Rapsssito_react_native_background_actions_20251210_054016_697_2025
 # [Rapsssito/react-native-background-actions](https://github.com/Rapsssito/react-native-background-actions/)
 
 Runs React Native background tasks forever
+
+React Native 后台任务持续运行工具

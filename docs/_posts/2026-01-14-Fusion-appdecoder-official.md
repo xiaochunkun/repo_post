@@ -7,3 +7,5 @@ image: assets/Fusion_appdecoder_official_20260112_054842_261_20260112_054859_e8b
 # [Fusion/appdecoder-official](https://github.com/Fusion/appdecoder-official)
 
 Maps macOS software landscape with metadata and LLM summaries
+
+用元数据和 LLM 摘要映射 macOS 软件生态

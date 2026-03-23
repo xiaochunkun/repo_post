@@ -7,3 +7,5 @@ image: assets/LeaVerou_style-observer_cropped.png
 # [LeaVerou/style-observer](https://github.com/LeaVerou/style-observer)
 
 Observe CSS property changes
+
+观察 CSS 属性变化

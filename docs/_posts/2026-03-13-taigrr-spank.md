@@ -7,3 +7,5 @@ image: assets/taigrr_spank_20260308_165543_491_20260308_165713_dc056c.png
 # [taigrr/spank](https://github.com/taigrr/spank)
 
 Plays audio when MacBook accelerometer detects hits
+
+当MacBook加速度计检测到敲击时播放音频

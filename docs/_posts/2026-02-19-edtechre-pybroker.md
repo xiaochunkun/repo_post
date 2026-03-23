@@ -7,3 +7,5 @@ image: assets/edtechre_pybroker_20260209_055320_209_20260209_055401_8024eb.png
 # [edtechre/pybroker](https://github.com/edtechre/pybroker)
 
 Backtests trading strategies with machine learning
+
+使用机器学习回测交易策略

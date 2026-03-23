@@ -7,3 +7,5 @@ image: assets/20250910T030249139--alexellis--k3sup--20250910T030415906--cropped.
 # [alexellis/k3sup](https://github.com/alexellis/k3sup)
 
 bootstrap k3s clusters over ssh in seconds
+
+通过 SSH 几秒内引导启动 k3s 集群

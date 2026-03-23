@@ -7,3 +7,5 @@ image: assets/mudler_LocalAI_20260108_024805_875_20260108_024819_16d600.png
 # [mudler/LocalAI](https://github.com/mudler/LocalAI)
 
 OpenAI alternative for local hardware
+
+本地硬件的OpenAI替代方案

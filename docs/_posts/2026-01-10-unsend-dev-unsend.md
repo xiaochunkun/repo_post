@@ -7,3 +7,5 @@ image: assets/unsend_dev_unsend_20260108_030223_390_20260108_030237_054986.png
 # [unsend-dev/unsend](https://github.com/unsend-dev/unsend)
 
 Infrastructure for sending emails via Amazon SES
+
+通过Amazon SES发送电子邮件的基础设施

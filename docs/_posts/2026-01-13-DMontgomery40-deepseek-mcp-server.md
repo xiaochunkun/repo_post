@@ -7,3 +7,5 @@ image: assets/DMontgomery40_deepseek_mcp_server_20260111_193658_935_20260111_193
 # [DMontgomery40/deepseek-mcp-server](https://github.com/DMontgomery40/deepseek-mcp-server)
 
 Connects models to Claude Desktop via proxy
+
+通过代理将模型连接到Claude Desktop

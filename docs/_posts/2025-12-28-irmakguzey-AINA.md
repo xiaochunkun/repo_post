@@ -7,3 +7,5 @@ image: assets/irmakguzey_AINA_20251226_181937_742_20251226_182003_098866.png
 # [irmakguzey/AINA](https://github.com/irmakguzey/AINA/)
 
 Robot manipulation from human demonstrations via smart lenses
+
+通过智能镜头从人类演示进行机器人操作

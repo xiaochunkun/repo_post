@@ -7,3 +7,5 @@ image: assets/Beingpax_VoiceInk_cropped.png
 # [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)
 
 voice-to-text app for macOS
+
+macOS 语音转文本应用

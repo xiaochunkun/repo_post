@@ -7,3 +7,5 @@ image: assets/staghado_better_live_text_20260213_230952_486_20260213_231057_5fc9
 # [staghado/better-live-text](https://github.com/staghado/better-live-text)
 
 OCR for LaTeX and tables
+
+用于 LaTeX 和表格的 OCR

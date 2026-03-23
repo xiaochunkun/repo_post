@@ -7,3 +7,5 @@ image: assets/KryptXBSA_FormBuilder--20250814T050541282--cropped.png
 # [KryptXBSA/FormBuilder](https://github.com/KryptXBSA/FormBuilder)
 
 UI tool for generating shadcn/ui forms
+
+UI工具，用于生成shadcn/ui表单

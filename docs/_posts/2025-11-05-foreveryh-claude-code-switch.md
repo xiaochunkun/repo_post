@@ -7,3 +7,5 @@ image: assets/foreveryh_claude_code_switch_20251104_185912_809_20251104_223359_0
 # [foreveryh/claude-code-switch](https://github.com/foreveryh/claude-code-switch/)
 
 Tool for switching Claude Code models with fallback
+
+切换Claude Code模型并支持回退的工具

@@ -7,3 +7,5 @@ image: assets/daniyalmaster693_SuperCorners_20251225_212931_061_20251225_212952_
 # [daniyalmaster693/SuperCorners](https://github.com/daniyalmaster693/SuperCorners/)
 
 Triggers actions from screen corners and edges
+
+从屏幕角落和边缘触发操作

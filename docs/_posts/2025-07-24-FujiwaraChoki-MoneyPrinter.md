@@ -7,3 +7,5 @@ image: assets/FujiwaraChoki_MoneyPrinter_cropped.png
 # [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)
 
 auto-generates YouTube Shorts from a topic
+
+根据主题自动生成YouTube Shorts

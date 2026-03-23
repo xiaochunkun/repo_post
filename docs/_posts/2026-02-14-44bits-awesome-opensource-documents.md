@@ -7,3 +7,5 @@ image: assets/44bits_awesome_opensource_documents_20260213_200613_222_20260213_2
 # [44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents)
 
 Curated list of open source documents and books
+
+精选的开源文档和书籍列表

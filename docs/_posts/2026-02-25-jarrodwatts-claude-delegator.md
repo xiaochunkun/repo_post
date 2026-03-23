@@ -7,3 +7,5 @@ image: assets/jarrodwatts_claude_delegator_20260224_235411_208_20260224_235531_9
 # [jarrodwatts/claude-delegator](https://github.com/jarrodwatts/claude-delegator)
 
 Subagents for Claude Code to analyze and implement tasks
+
+Claude Code子智能体，用于分析和执行任务

@@ -7,3 +7,5 @@ image: assets/hewliyang_open_excel_20260309_193355_787_20260309_193555_46a743.pn
 # [hewliyang/open-excel](https://github.com/hewliyang/open-excel)
 
 Microsoft Office add-ins with integrated AI chat panels
+
+集成 AI 聊天面板的 Microsoft Office 插件

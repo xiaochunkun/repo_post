@@ -7,3 +7,5 @@ image: assets/jonocodes_savr_20251201_014311_196_20251201_014334_eb73a8.png
 # [jonocodes/savr](https://github.com/jonocodes/savr/)
 
 Offline-first read-it-later app
+
+离线优先的稍后阅读应用

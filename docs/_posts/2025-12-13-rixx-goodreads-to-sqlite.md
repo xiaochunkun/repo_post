@@ -7,3 +7,5 @@ image: assets/rixx_goodreads_to_sqlite_20251209_062848_740_20251209_062922_be347
 # [rixx/goodreads-to-sqlite](https://github.com/rixx/goodreads-to-sqlite/)
 
 Saves Goodreads data to SQLite
+
+将 Goodreads 数据保存到 SQLite

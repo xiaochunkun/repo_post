@@ -7,3 +7,5 @@ image: assets/blurred_machine_awesome_llm_apps_20251226_061003_978_20251226_0610
 # [blurred-machine/awesome-llm-apps](https://github.com/blurred-machine/awesome-llm-apps/)
 
 Tutorials for LLM apps with RAG and AI agents
+
+带有 RAG 和 AI 代理的 LLM 应用教程

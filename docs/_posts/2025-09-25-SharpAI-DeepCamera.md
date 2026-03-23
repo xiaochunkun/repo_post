@@ -7,3 +7,5 @@ image: assets/20250925T042702163--SharpAI--DeepCamera--20250925T214252449--cropp
 # [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera)
 
 AI tools for face recognition, fall detection, and smart monitoring on any camera
+
+用于在任何摄像头上进行人脸识别、跌倒检测和智能监控的AI工具

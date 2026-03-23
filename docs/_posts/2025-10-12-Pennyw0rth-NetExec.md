@@ -7,3 +7,5 @@ image: assets/20251012T024354888--Pennyw0rth--NetExec--20251012T025019077--cropp
 # [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)
 
 network exploitation tool for automating security assessments and lateral movement
+
+用于自动化安全评估和横向移动的网络利用工具

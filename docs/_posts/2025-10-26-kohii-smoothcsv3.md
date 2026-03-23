@@ -7,3 +7,5 @@ image: assets/kohii_smoothcsv3_20251025_052637_333_20251025_101757_7afed3--20251
 # [kohii/smoothcsv3](https://github.com/kohii/smoothcsv3/)
 
 Cross-platform CSV editor with SQL-like queries
+
+支持类SQL查询的跨平台CSV编辑器

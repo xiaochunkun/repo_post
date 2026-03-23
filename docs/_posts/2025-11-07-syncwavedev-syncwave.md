@@ -7,3 +7,5 @@ image: assets/syncwavedev_syncwave_20251107_004159_422_20251107_165750_295452--2
 # [syncwavedev/syncwave](https://github.com/syncwavedev/syncwave/)
 
 Self-hosted kanban board with a minimal feature set
+
+功能极简的自托管看板

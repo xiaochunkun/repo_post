@@ -7,3 +7,5 @@ image: assets/EvotecIT_PSWriteOffice_20260313_114905_461_20260313_115100_732a95.
 # [EvotecIT/PSWriteOffice](https://github.com/EvotecIT/PSWriteOffice)
 
 Create Office documents without Microsoft Office
+
+无需Microsoft Office即可创建Office文档

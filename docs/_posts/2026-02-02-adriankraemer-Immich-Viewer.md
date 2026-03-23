@@ -7,3 +7,5 @@ image: assets/adriankraemer_Immich_Viewer_20260201_072655_849_20260201_072733_1f
 # [adriankraemer/Immich-Viewer](https://github.com/adriankraemer/Immich-Viewer)
 
 Photo and video viewer for Apple TV
+
+Apple TV 的照片和视频查看器

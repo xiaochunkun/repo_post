@@ -7,3 +7,5 @@ image: assets/magenta_the_infinite_crate_20260314_005949_062_20260314_010138_5e6
 # [magenta/the-infinite-crate](https://github.com/magenta/the-infinite-crate)
 
 DAW plugin steers live music with text prompts
+
+DAW插件通过文本提示引导现场音乐

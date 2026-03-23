@@ -7,3 +7,5 @@ image: assets/immich_app_immich_20260130_175841_050_20260130_175919_f676ce.png
 # [immich-app/immich](https://github.com/immich-app/immich)
 
 Manages photos and videos on personal servers
+
+在个人服务器上管理照片和视频

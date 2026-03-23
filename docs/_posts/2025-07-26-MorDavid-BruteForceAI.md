@@ -7,3 +7,5 @@ image: assets/MorDavid_BruteForceAI_cropped.png
 # [MorDavid/BruteForceAI](https://github.com/MorDavid/BruteForceAI)
 
 AI that cracks passwords with brute force
+
+通过暴力破解密码的AI

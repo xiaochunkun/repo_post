@@ -7,3 +7,5 @@ image: assets/SeakMengs_WindowPet_20251221_215010_065_20251221_215027_bb01a3.png
 # [SeakMengs/WindowPet](https://github.com/SeakMengs/WindowPet/)
 
 Overlays pets and characters on the screen
+
+在屏幕上叠加宠物和角色

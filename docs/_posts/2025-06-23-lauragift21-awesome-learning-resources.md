@@ -7,3 +7,5 @@ image: assets/lauragift21_awesome-learning-resources_cropped.png
 # [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
 
 Collection of web development and programming resource links from the community
+
+社区提供的 Web 开发和编程资源链接集合

@@ -7,3 +7,5 @@ image: assets/arkworks_rs_algebra_20251030_213026_234_20251030_222009_90322b--20
 # [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra/)
 
 Rust libraries for designing zk-SNARKs
+
+用于设计 zk-SNARKs 的 Rust 库

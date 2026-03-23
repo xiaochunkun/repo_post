@@ -7,3 +7,5 @@ image: assets/20250917T003854321--WooooDyy--LLM-Agent-Paper-List--20250917T00464
 # [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
 Papers and resources for LLM-based agent research, including surveys and key developments
+
+基于 LLM 的智能体研究的论文和资源，包括综述和关键进展

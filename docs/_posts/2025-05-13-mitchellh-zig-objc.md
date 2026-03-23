@@ -7,3 +7,5 @@ image: assets/mitchellh_zig-objc_cropped.png
 # [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc)
 
 Zig library for calling Objective-C code on macOS
+
+用于在macOS上调用Objective-C代码的Zig库

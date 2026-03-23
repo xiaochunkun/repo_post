@@ -7,3 +7,5 @@ image: assets/JasonHonKL_spy-search_cropped.png
 # [JasonHonKL/spy-search](https://github.com/JasonHonKL/spy-search)
 
 Agentic search tool for faster, smarter web results
+
+代理式搜索工具，提供更快、更智能的网页结果

@@ -7,3 +7,5 @@ image: assets/DarkWebInformer_telegram_scraper_20260207_120904_090_20260207_1209
 # [DarkWebInformer/telegram-scraper](https://github.com/DarkWebInformer/telegram-scraper)
 
 Scrapes Telegram messages and media with real-time updates
+
+实时更新地抓取 Telegram 消息和媒体

@@ -7,3 +7,5 @@ image: assets/osirislab_awesome_rust_security_20251221_191203_072_20251221_19122
 # [osirislab/awesome-rust-security](https://github.com/osirislab/awesome-rust-security/)
 
 Curated list of Rust security projects
+
+精选的 Rust 安全项目列表

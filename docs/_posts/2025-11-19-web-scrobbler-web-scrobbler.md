@@ -7,3 +7,5 @@ image: assets/web_scrobbler_web_scrobbler_20251118_100553_880_20251118_161629_b3
 # [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler/)
 
 Scrobbles music playback history from online services
+
+从在线服务中记录音乐播放历史

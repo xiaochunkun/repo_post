@@ -7,3 +7,5 @@ image: assets/kraxarn_spotify_qt_20251123_081502_981_20251124_002056_51bc7e--202
 # [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt/)
 
 Spotify client using Qt
+
+使用 Qt 的 Spotify 客户端

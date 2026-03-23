@@ -7,3 +7,5 @@ image: assets/nisrulz_app_privacy_policy_generator_20260130_032119_233_20260130_
 # [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)
 
 Generates privacy policies for mobile apps
+
+为移动应用生成隐私政策

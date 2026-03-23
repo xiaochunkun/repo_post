@@ -7,3 +7,5 @@ image: assets/DVDTSB_hexhog_20260309_074704_637_20260309_074942_c6c4cf.png
 # [DVDTSB/hexhog](https://github.com/DVDTSB/hexhog)
 
 Hex viewer and editor with configuration options
+
+带配置选项的十六进制查看器和编辑器

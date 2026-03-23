@@ -7,3 +7,5 @@ image: assets/PeramatoG_Perastage_20260131_214339_091_20260131_214417_68bcf6.png
 # [PeramatoG/Perastage](https://github.com/PeramatoG/Perastage)
 
 Stage planning tool for lighting professionals
+
+灯光专业人员的舞台规划工具

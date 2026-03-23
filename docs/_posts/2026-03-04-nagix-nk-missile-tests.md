@@ -7,3 +7,5 @@ image: assets/nagix_nk_missile_tests_20260304_053129_147_20260304_053302_26c28b.
 # [nagix/nk-missile-tests](https://github.com/nagix/nk-missile-tests)
 
 Visualizes North Korea missile tests and satellite orbits on a globe
+
+在地球上可视化朝鲜导弹测试和卫星轨道

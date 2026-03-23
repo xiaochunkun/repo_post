@@ -7,3 +7,5 @@ image: assets/20251007T190918668--jellydeck--moocup--20251007T192359347--cropped
 # [jellydeck/moocup](https://github.com/jellydeck/moocup)
 
 visual editor for styling screenshots
+
+截图样式可视化编辑器

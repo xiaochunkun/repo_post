@@ -7,3 +7,5 @@ image: assets/20251001T204336604--LukeGus--Dashix--20251001T205149569--cropped.p
 # [LukeGus/Dashix](https://github.com/LukeGus/Dashix)
 
 Tools for managing Docker Compose, configs, and scheduled tasks for self-hosters
+
+自托管工具，用于管理Docker Compose、配置和定时任务

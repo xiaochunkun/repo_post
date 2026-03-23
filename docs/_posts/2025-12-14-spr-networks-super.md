@@ -7,3 +7,5 @@ image: assets/spr_networks_super_20251210_061455_935_20251210_061518_470a20.png
 # [spr-networks/super](https://github.com/spr-networks/super/)
 
 Micro-segmentation for WiFi routers
+
+WiFi 路由器的微隔离方案

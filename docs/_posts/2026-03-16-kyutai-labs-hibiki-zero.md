@@ -7,3 +7,5 @@ image: assets/kyutai_labs_hibiki_zero_20260224_000056_582_20260224_000114_56316e
 # [kyutai-labs/hibiki-zero](https://github.com/kyutai-labs/hibiki-zero)
 
 Translates speech across languages with voice transfer
+
+支持语音转换的跨语言语音翻译

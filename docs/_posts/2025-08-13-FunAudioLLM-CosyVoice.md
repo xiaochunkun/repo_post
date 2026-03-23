@@ -7,3 +7,5 @@ image: assets/20250810T053925--FunAudioLLM--CosyVoice--20250812T011030--cropped.
 # [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)
 
 multilingual zero-shot text-to-speech with real-time streaming
+
+支持实时流的多语言零样本文本转语音

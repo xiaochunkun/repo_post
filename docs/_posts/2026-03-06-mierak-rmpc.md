@@ -7,3 +7,5 @@ image: assets/mierak_rmpc_20260223_192151_628_20260223_192207_4de627.png
 # [mierak/rmpc](https://github.com/mierak/rmpc)
 
 Terminal music player with album art and lyrics
+
+具有专辑封面和歌词的终端音乐播放器

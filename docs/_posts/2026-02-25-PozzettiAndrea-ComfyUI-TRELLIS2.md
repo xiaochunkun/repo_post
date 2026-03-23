@@ -7,3 +7,5 @@ image: assets/PozzettiAndrea_ComfyUI_TRELLIS2_20260225_002825_689_20260225_00295
 # [PozzettiAndrea/ComfyUI-TRELLIS2](https://github.com/PozzettiAndrea/ComfyUI-TRELLIS2)
 
 Generates 3D meshes from images
+
+从图像生成 3D 网格

@@ -7,3 +7,5 @@ image: assets/20250912T195450349--VSCodium--vscodium--20250915T043954808--croppe
 # [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
 
 open source builds of VS Code without telemetry
+
+无遥测的 VS Code 开源构建版本

@@ -7,3 +7,5 @@ image: assets/20251010T205504387--DP-Hridayan--Driftly--20251010T210729329--crop
 # [DP-Hridayan/Driftly](https://github.com/DP-Hridayan/Driftly)
 
 track attendance by subject with calendar browsing and Material You theming
+
+按科目跟踪出勤，支持日历浏览和 Material You 主题

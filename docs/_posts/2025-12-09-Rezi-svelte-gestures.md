@@ -7,3 +7,5 @@ image: assets/Rezi_svelte_gestures_20251207_200842_950_20251207_200914_0294b2.pn
 # [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures/)
 
 Collection of gesture recognizers for Svelte
+
+Svelte的手势识别器集合

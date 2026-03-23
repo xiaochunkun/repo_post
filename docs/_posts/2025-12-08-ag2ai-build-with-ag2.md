@@ -7,3 +7,5 @@ image: assets/ag2ai_build_with_ag2_20251207_191740_529_20251207_191834_7474f4.pn
 # [ag2ai/build-with-ag2](https://github.com/ag2ai/build-with-ag2/)
 
 Collection of agentic applications built with AG2
+
+使用AG2构建的智能体应用集合

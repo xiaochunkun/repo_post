@@ -7,3 +7,5 @@ image: assets/ghostsecurity_skills_20260217_232737_683_20260217_232838_e9a3ce.pn
 # [ghostsecurity/skills](https://github.com/ghostsecurity/skills)
 
 Security skills for Claude Code
+
+Claude Code 的安全技能

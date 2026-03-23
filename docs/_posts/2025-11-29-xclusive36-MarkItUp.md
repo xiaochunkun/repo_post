@@ -7,3 +7,5 @@ image: assets/xclusive36_MarkItUp_20251125_232038_707_20251128_212748_eab2de--20
 # [xclusive36/MarkItUp](https://github.com/xclusive36/MarkItUp/)
 
 Self-hosted markdown knowledge management system
+
+自托管的 Markdown 知识管理系统

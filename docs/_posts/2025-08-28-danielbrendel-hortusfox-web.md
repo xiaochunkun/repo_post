@@ -7,3 +7,5 @@ image: assets/20250827T221039605--danielbrendel--hortusfox-web--20250827T2214557
 # [danielbrendel/hortusfox-web](https://github.com/danielbrendel/hortusfox-web)
 
 self-hosted app for managing and tracking your plants with friends
+
+自托管植物管理和追踪应用，支持好友协作

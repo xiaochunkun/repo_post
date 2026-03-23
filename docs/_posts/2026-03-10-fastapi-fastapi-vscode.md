@@ -7,3 +7,5 @@ image: assets/fastapi_fastapi_vscode_20260303_171933_901_20260303_172132_2f29be.
 # [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode)
 
 Visual Studio Code extension for FastAPI development
+
+FastAPI 开发的 Visual Studio Code 扩展

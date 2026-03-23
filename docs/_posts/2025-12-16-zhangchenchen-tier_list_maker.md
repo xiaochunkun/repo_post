@@ -7,3 +7,5 @@ image: assets/zhangchenchen_tier_list_maker_20251215_005022_660_20251215_005047_
 # [zhangchenchen/tier_list_maker](https://github.com/zhangchenchen/tier_list_maker/)
 
 Drag-and-drop tier list creator with export support
+
+支持拖拽和导出的分级列表创建工具

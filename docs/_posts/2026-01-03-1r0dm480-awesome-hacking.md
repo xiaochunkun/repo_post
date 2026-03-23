@@ -7,3 +7,5 @@ image: assets/1r0dm480_awesome_hacking_20260102_081724_323_20260102_081741_45568
 # [1r0dm480/awesome-hacking](https://github.com/1r0dm480/awesome-hacking/)
 
 List of hacking tutorials and tools
+
+黑客教程和工具列表

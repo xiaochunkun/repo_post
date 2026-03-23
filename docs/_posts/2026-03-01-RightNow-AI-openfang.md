@@ -7,3 +7,5 @@ image: assets/RightNow_AI_openfang_20260228_103526_316_20260228_103657_d5d9c7.pn
 # [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)
 
 Agent operating system in Rust
+
+Rust 编写的代理操作系统

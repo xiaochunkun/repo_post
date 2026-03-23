@@ -7,3 +7,5 @@ image: assets/ayn2op_discordo_20260202_125900_781_20260202_125940_d921fb.png
 # [ayn2op/discordo](https://github.com/ayn2op/discordo)
 
 Discord terminal client in Go
+
+Go语言编写的Discord终端客户端

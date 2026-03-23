@@ -7,3 +7,5 @@ image: assets/kohii_smoothcsv3_20260122_060244_746_20260122_060259_fa6a38.png
 # [kohii/smoothcsv3](https://github.com/kohii/smoothcsv3)
 
 CSV editor with SQL console and multi-cell editing
+
+带SQL控制台和多单元格编辑的CSV编辑器

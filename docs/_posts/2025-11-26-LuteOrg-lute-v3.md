@@ -7,3 +7,5 @@ image: assets/LuteOrg_lute_v3_20251123_205013_092_20251125_220448_d32573--202511
 # [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3/)
 
 Python tool for learning languages through reading
+
+通过阅读学习语言的 Python 工具

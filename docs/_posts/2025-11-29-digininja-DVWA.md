@@ -7,3 +7,5 @@ image: assets/digininja_DVWA_20251126_002855_853_20251128_213852_c2516c--2025112
 # [digininja/DVWA](https://github.com/digininja/DVWA/)
 
 Vulnerable PHP/MariaDB web application for security testing
+
+用于安全测试的易受攻击PHP/MariaDB Web应用

@@ -7,3 +7,5 @@ image: assets/robertdigital_rdio_scanner_20260120_171519_456_20260120_171606_6e5
 # [robertdigital/rdio-scanner](https://github.com/robertdigital/rdio-scanner)
 
 Distributes audio from radio recorders to browsers
+
+将录音机音频分发到浏览器

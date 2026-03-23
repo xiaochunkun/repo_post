@@ -7,3 +7,5 @@ image: assets/heliomarpm_udemy_downloader_gui_20251217_235928_034_20251217_23594
 # [heliomarpm/udemy-downloader-gui](https://github.com/heliomarpm/udemy-downloader-gui/)
 
 Downloads Udemy courses for offline use
+
+下载 Udemy 课程供离线使用

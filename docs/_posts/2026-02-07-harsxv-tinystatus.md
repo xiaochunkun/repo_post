@@ -7,3 +7,5 @@ image: assets/harsxv_tinystatus_20260203_071410_330_20260203_071430_7c6f48.png
 # [harsxv/tinystatus](https://github.com/harsxv/tinystatus)
 
 Generates status pages from Python scripts
+
+从 Python 脚本生成状态页面

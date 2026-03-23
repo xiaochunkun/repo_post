@@ -7,3 +7,5 @@ image: assets/SleepyCatHey_CozyPixels_20260203_000304_720_20260203_000345_d41f99
 # [SleepyCatHey/CozyPixels](https://github.com/SleepyCatHey/CozyPixels)
 
 Wallpaper collection with color themes
+
+带颜色主题的壁纸收藏

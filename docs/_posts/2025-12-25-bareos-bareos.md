@@ -7,3 +7,5 @@ image: assets/bareos_bareos_20251223_182229_178_20251223_182249_6b22b2.png
 # [bareos/bareos](https://github.com/bareos/bareos/)
 
 Backup solution for data protection across networks
+
+跨网络数据保护的备份解决方案

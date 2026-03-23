@@ -7,3 +7,5 @@ image: assets/AIT_Assistive_Autonomous_Systems_led_strip_hmi_demo_workspace_2026
 # [AIT-Assistive-Autonomous-Systems/led_strip_hmi_demo_workspace](https://github.com/AIT-Assistive-Autonomous-Systems/led_strip_hmi_demo_workspace)
 
 Maps 3D perception data onto LED strips for robot situational awareness
+
+将3D感知数据映射到LED条上，用于机器人态势感知

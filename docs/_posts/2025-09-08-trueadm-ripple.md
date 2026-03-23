@@ -7,3 +7,5 @@ image: assets/20250907T201219100--trueadm--ripple--20250908T014402862--cropped.p
 # [trueadm/ripple](https://github.com/trueadm/ripple)
 
 TypeScript UI framework inspired by React, Solid, and Svelte
+
+受 React、Solid 和 Svelte 启发的 TypeScript UI 框架

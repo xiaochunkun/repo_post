@@ -7,3 +7,5 @@ image: assets/20250825T015041162--DeanWard--CaddyGen--20250825T015329173--croppe
 # [DeanWard/CaddyGen](https://github.com/DeanWard/CaddyGen)
 
 Caddy server config generator with SSL, reverse proxy, and file server options
+
+Caddy 服务器配置生成器，支持 SSL、反向代理和文件服务

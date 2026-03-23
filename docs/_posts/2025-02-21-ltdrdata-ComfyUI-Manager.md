@@ -7,3 +7,5 @@ image: assets/ltdrdata_ComfyUI-Manager_cropped.png
 # [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 
 Manages ComfyUI custom nodes and models
+
+管理 ComfyUI 自定义节点和模型

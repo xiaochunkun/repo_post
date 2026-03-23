@@ -7,3 +7,5 @@ image: assets/ZeyueT_AudioX_20260317_083416_195_20260317_083528_306130.png
 # [ZeyueT/AudioX](https://github.com/ZeyueT/AudioX)
 
 Generates audio from text video and signals
+
+从文本、视频和信号生成音频

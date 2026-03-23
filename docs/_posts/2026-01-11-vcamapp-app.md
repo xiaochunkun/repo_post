@@ -7,3 +7,5 @@ image: assets/vcamapp_app_20260111_024155_975_20260111_024209_b619f6.png
 # [vcamapp/app](https://github.com/vcamapp/app)
 
 Displays avatars through a virtual camera on macOS
+
+在 macOS 上通过虚拟摄像头显示头像

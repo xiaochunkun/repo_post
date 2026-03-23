@@ -7,3 +7,5 @@ image: assets/riok_mapperly_20251202_221927_212_20251202_221951_9c6079.png
 # [riok/mapperly](https://github.com/riok/mapperly/)
 
 .NET source generator for object mappings
+
+用于对象映射的 .NET 源生成器

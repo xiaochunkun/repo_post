@@ -7,3 +7,5 @@ image: assets/educlopez_thegridcn_ui_20260213_215826_288_20260213_215851_ed5815.
 # [educlopez/thegridcn-ui](https://github.com/educlopez/thegridcn-ui)
 
 Theme system for shadcn/ui with movie-accurate UI elements and 3D effects
+
+shadcn/ui的主题系统，包含电影级UI元素和3D效果

@@ -7,3 +7,5 @@ image: assets/samuelgursky_davinci_resolve_mcp_20251031_083018_052_20251101_2111
 # [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp/)
 
 Control DaVinci Resolve with natural language
+
+用自然语言控制DaVinci Resolve

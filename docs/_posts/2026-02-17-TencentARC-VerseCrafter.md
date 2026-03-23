@@ -7,3 +7,5 @@ image: assets/TencentARC_VerseCrafter_20260201_053606_416_20260201_053645_5fd439
 # [TencentARC/VerseCrafter](https://github.com/TencentARC/VerseCrafter)
 
 Video world model with 4D geometric control over camera and motion
+
+具备相机和运动4D几何控制的视频世界模型

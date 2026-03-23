@@ -7,3 +7,5 @@ image: assets/stormerino78_seanime_20260120_034623_495_20260120_034645_a02b49.pn
 # [stormerino78/seanime](https://github.com/stormerino78/seanime)
 
 Media server for anime and manga
+
+用于动漫和漫画的媒体服务器

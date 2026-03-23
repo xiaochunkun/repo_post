@@ -7,3 +7,5 @@ image: assets/PragmaticMachineLearning_probly_cropped.png
 # [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly)
 
 AI-powered spreadsheet with Python and chat features
+
+AI 驱动的电子表格，具有 Python 和聊天功能

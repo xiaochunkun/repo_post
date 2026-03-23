@@ -7,3 +7,5 @@ image: assets/linuxserver_docker_baseimage_kasmvnc_20251127_190351_167_20251130_
 # [linuxserver/docker-baseimage-kasmvnc](https://github.com/linuxserver/docker-baseimage-kasmvnc/)
 
 Web-native Linux desktop base images
+
+Web 原生 Linux 桌面基础镜像

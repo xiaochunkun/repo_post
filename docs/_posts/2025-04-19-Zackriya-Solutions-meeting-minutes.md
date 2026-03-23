@@ -7,3 +7,5 @@ image: assets/Zackriya-Solutions_meeting-minutes_cropped.png
 # [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
 
 AI tool for live meeting notes, transcripts, summaries on your device
+
+在设备上生成实时会议笔记、转录和摘要的 AI 工具

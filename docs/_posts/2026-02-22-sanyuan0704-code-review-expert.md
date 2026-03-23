@@ -7,3 +7,5 @@ image: assets/sanyuan0704_code_review_expert_20260220_151247_325_20260220_151309
 # [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert)
 
 AI agent for code reviews using SOLID principles
+
+使用SOLID原则进行代码审查的AI代理

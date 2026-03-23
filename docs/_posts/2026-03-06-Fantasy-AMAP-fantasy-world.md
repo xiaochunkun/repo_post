@@ -7,3 +7,5 @@ image: assets/Fantasy_AMAP_fantasy_world_20260306_010956_410_20260306_011129_ee1
 # [Fantasy-AMAP/fantasy-world](https://github.com/Fantasy-AMAP/fantasy-world)
 
 Generate video and 3D scenes via unified world modeling
+
+通过统一世界建模生成视频和 3D 场景

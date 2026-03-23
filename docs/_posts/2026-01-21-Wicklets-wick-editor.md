@@ -7,3 +7,5 @@ image: assets/Wicklets_wick_editor_20260120_044646_302_20260120_044708_950ec1.pn
 # [Wicklets/wick-editor](https://github.com/Wicklets/wick-editor)
 
 Tool for creating games and animations in a browser
+
+在浏览器中创建游戏和动画的工具

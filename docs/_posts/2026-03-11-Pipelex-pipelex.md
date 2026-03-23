@@ -7,3 +7,5 @@ image: assets/Pipelex_pipelex_20260213_075522_664_20260213_075621_911eb6.png
 # [Pipelex/pipelex](https://github.com/Pipelex/pipelex)
 
 Language for AI workflows and agents
+
+用于 AI 工作流和代理的语言

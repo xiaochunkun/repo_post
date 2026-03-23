@@ -7,3 +7,5 @@ image: assets/patx_pickledb_20251201_011806_299_20251201_012315_75403b.png
 # [patx/pickledb](https://github.com/patx/pickledb/)
 
 In-memory key-value store using Python's orjson
+
+使用 Python orjson 的内存键值存储

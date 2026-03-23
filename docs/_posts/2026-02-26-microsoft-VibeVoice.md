@@ -7,3 +7,5 @@ image: assets/microsoft_VibeVoice_20260216_060827_206_20260216_060923_33c040.png
 # [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 
 Transcribes and streams speech across languages
+
+跨语言转录和流式传输语音

@@ -7,3 +7,5 @@ image: assets/shm11C3_HardwareVisualizer_20251227_171910_389_20251227_171930_61a
 # [shm11C3/HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer/)
 
 Monitors hardware performance with a dashboard and usage graphs
+
+通过仪表盘和使用图表监控硬件性能

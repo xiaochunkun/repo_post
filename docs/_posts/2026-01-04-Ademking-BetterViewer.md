@@ -7,3 +7,5 @@ image: assets/Ademking_BetterViewer_20260103_023728_088_20260103_023746_29b9e9.p
 # [Ademking/BetterViewer](https://github.com/Ademking/BetterViewer/)
 
 Browser extension for viewing and editing images
+
+用于查看和编辑图像的浏览器扩展

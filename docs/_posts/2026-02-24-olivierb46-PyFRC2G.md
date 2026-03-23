@@ -7,3 +7,5 @@ image: assets/olivierb46_PyFRC2G_20260224_184250_439_20260224_184309_8f9d91.png
 # [olivierb46/PyFRC2G](https://github.com/olivierb46/PyFRC2G)
 
 Converts pfSense and OPNsense firewall rules into flow diagrams
+
+将 pfSense 和 OPNsense 防火墙规则转换为流程图

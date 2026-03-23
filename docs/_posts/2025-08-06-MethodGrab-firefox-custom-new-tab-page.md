@@ -7,3 +7,5 @@ image: assets/MethodGrab_firefox-custom-new-tab-page_cropped.png
 # [MethodGrab/firefox-custom-new-tab-page](https://github.com/MethodGrab/firefox-custom-new-tab-page)
 
 set a custom url for new tabs in firefox
+
+为 Firefox 新标签页设置自定义 URL

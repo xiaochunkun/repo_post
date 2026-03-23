@@ -7,3 +7,5 @@ image: assets/timothymiller_cloudflare_ddns_20260122_001325_342_20260122_001341_
 # [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns)
 
 Updates DNS records via Cloudflare
+
+通过Cloudflare更新DNS记录

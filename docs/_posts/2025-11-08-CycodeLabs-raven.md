@@ -7,3 +7,5 @@ image: assets/CycodeLabs_raven_20251107_002220_840_20251107_215135_a97854--20251
 # [CycodeLabs/raven](https://github.com/CycodeLabs/raven/)
 
 Security analysis for GitHub Actions CI workflows
+
+GitHub Actions CI工作流的安全分析工具

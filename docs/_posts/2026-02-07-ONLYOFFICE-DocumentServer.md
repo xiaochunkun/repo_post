@@ -7,3 +7,5 @@ image: assets/ONLYOFFICE_DocumentServer_20260204_033557_603_20260204_033628_3c99
 # [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)
 
 Office suite with AI capabilities
+
+具备AI功能的办公套件

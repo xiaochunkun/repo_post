@@ -7,3 +7,5 @@ image: assets/JamsusMaximus_codemap_20260121_193409_760_20260121_193425_abb32e.p
 # [JamsusMaximus/codemap](https://github.com/JamsusMaximus/codemap)
 
 Visualizes AI agents as pixel-art characters in a hotel
+
+将 AI 代理可视化为酒店中的像素艺术角色

@@ -7,3 +7,5 @@ image: assets/sidebase_nuxt_auth_20251209_023503_485_20251209_023541_b4303e.png
 # [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth/)
 
 Authentication module for Nuxt 3 applications
+
+Nuxt 3 应用的身份验证模块

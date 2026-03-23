@@ -7,3 +7,5 @@ image: assets/apple_ml_ferret_20260228_104138_647_20260228_104324_9ee762.png
 # [apple/ml-ferret](https://github.com/apple/ml-ferret)
 
 Multimodal model for referring and grounding at any granularity
+
+用于任意粒度引用和定位的多模态模型

@@ -7,3 +7,5 @@ image: assets/ccplugins_awesome_claude_code_plugins_20260227_145216_388_20260227
 # [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins)
 
 List of slash commands, subagents, and MCP servers for Claude Code
+
+Claude Code的斜杠命令、子代理和MCP服务器列表

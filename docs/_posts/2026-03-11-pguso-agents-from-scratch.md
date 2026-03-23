@@ -7,3 +7,5 @@ image: assets/pguso_agents_from_scratch_20260303_161621_351_20260303_161808_4257
 # [pguso/agents-from-scratch](https://github.com/pguso/agents-from-scratch)
 
 Builds AI agents from first principles using local LLMs
+
+使用本地 LLM 从基本原理构建 AI 代理

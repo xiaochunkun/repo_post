@@ -7,3 +7,5 @@ image: assets/alptugan_icns_creator_20260113_194750_061_20260113_194804_ff67ab.p
 # [alptugan/icns-creator](https://github.com/alptugan/icns-creator)
 
 Converts images to iconset or icns files
+
+将图像转换为 iconset 或 icns 文件

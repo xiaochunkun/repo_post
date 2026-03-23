@@ -7,3 +7,5 @@ image: assets/20251015T010915353--phpk--godoos--20251015T011545087--cropped.png
 # [phpk/godoos](https://github.com/phpk/godoos)
 
 intranet office suite with chat, file sharing, mind mapping, and whiteboard
+
+内网办公套件，包含聊天、文件共享、思维导图和白板功能

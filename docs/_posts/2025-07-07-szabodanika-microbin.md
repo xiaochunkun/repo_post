@@ -7,3 +7,5 @@ image: assets/szabodanika_microbin_cropped.png
 # [szabodanika/microbin](https://github.com/szabodanika/microbin)
 
 Pastebin and URL shortener for sharing text and files, self-hosted
+
+自托管的 Pastebin 和 URL 缩短器，用于共享文本和文件

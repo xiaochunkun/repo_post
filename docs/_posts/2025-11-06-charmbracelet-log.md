@@ -7,3 +7,5 @@ image: assets/charmbracelet_log_20251105_132943_757_20251105_210712_6e0a1e--2025
 # [charmbracelet/log](https://github.com/charmbracelet/log/)
 
 Go logging library with structured output
+
+具有结构化输出的 Go 日志库

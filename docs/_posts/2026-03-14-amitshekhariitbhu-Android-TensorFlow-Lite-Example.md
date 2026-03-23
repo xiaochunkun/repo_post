@@ -7,3 +7,5 @@ image: assets/amitshekhariitbhu_Android_TensorFlow_Lite_Example_20260313_210258_
 # [amitshekhariitbhu/Android-TensorFlow-Lite-Example](https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example)
 
 Real-time object detection on Android camera
+
+Android摄像头的实时物体检测

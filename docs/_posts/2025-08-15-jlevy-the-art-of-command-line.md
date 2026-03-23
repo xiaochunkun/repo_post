@@ -7,3 +7,5 @@ image: assets/jlevy_the-art-of-command-line--20250815T015407196--cropped.png
 # [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
 tips and tricks for mastering the command line
+
+掌握命令行的技巧和窍门

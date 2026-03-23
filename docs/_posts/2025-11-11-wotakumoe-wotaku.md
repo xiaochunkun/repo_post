@@ -7,3 +7,5 @@ image: assets/wotakumoe_wotaku_20251110_153752_892_20251111_014532_019629--20251
 # [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku/)
 
 Index of resources for anime, manga, and Japanese culture
+
+动漫、漫画和日本文化资源索引

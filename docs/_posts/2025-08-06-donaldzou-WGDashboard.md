@@ -7,3 +7,5 @@ image: assets/donaldzou_WGDashboard_cropped.png
 # [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard)
 
 See your WireGuard VPN activity
+
+查看你的 WireGuard VPN 活动

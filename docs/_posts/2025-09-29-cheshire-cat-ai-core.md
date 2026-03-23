@@ -7,3 +7,5 @@ image: assets/20250929T014427044--cheshire-cat-ai--core--20250929T015721158--cro
 # [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core)
 
 framework for building custom AI agents with plugins, REST API, and admin panel
+
+构建自定义AI代理的框架，支持插件、REST API和管理面板

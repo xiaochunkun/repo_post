@@ -7,3 +7,5 @@ image: assets/00_Evan_shattered_pixel_dungeon_20251122_181931_774_20251123_00133
 # [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon/)
 
 Roguelike dungeon crawler with level randomization
+
+具有关卡随机化的 Roguelike 地牢爬行游戏

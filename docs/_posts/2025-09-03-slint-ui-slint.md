@@ -7,3 +7,5 @@ image: assets/20250903T012812128--slint-ui--slint--20250903T014144694--cropped.p
 # [slint-ui/slint](https://github.com/slint-ui/slint)
 
 declarative GUI toolkit for building native apps with Rust, C++, JS, or Python
+
+声明式 GUI 工具包，支持 Rust、C++、JS 或 Python 构建原生应用

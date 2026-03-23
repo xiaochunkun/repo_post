@@ -7,3 +7,5 @@ image: assets/augmentedstartups_Roomey_AI_Voice_Agent_20260121_224340_105_202601
 # [augmentedstartups/Roomey_AI_Voice_Agent](https://github.com/augmentedstartups/Roomey_AI_Voice_Agent)
 
 Voice agent for home automation and web searches
+
+用于家庭自动化和网络搜索的语音代理

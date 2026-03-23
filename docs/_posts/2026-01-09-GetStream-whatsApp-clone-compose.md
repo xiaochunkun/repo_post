@@ -7,3 +7,5 @@ image: assets/GetStream_whatsApp_clone_compose_20260109_045832_727_20260109_0458
 # [GetStream/whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose)
 
 Messaging app with Jetpack Compose and Stream SDK
+
+使用Jetpack Compose和Stream SDK的即时通讯应用

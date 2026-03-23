@@ -7,3 +7,5 @@ image: assets/duckdb_duckdb_20260212_125337_707_20260212_125355_fd0424.png
 # [duckdb/duckdb](https://github.com/duckdb/duckdb)
 
 In-process SQL database for analytics
+
+用于分析的内置SQL数据库

@@ -7,3 +7,5 @@ image: assets/cporter202_vibe_coding_for_dummies_20260212_053458_768_20260212_05
 # [cporter202/vibe-coding-for-dummies](https://github.com/cporter202/vibe-coding-for-dummies)
 
 Guide to building software with AI tools
+
+使用AI工具构建软件的指南

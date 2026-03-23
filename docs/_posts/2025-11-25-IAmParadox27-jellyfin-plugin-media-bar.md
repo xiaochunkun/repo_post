@@ -7,3 +7,5 @@ image: assets/IAmParadox27_jellyfin_plugin_media_bar_20251123_192807_402_2025112
 # [IAmParadox27/jellyfin-plugin-media-bar](https://github.com/IAmParadox27/jellyfin-plugin-media-bar/)
 
 Featured content bar plugin for Jellyfin
+
+Jellyfin 的特色内容栏插件

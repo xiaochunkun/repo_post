@@ -7,3 +7,5 @@ image: assets/20250906T031803403--coderamp-labs--gitingest--20250906T044143932--
 # [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest)
 
 turn any Git repo into LLM-ready text digest
+
+将任意 Git 仓库转换为适合 LLM 处理的文本摘要

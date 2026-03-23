@@ -7,3 +7,5 @@ image: assets/willwulfken_MidJourney_Styles_and_Keywords_Reference_20251105_0343
 # [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/)
 
 Reference for AI art styles and keywords
+
+AI 艺术风格和关键词参考

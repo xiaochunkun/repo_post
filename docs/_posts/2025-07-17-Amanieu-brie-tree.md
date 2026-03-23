@@ -7,3 +7,5 @@ image: assets/Amanieu_brie-tree_cropped.png
 # [Amanieu/brie-tree](https://github.com/Amanieu/brie-tree)
 
 brie-tree for efficient data structure operations in Rust
+
+用于 Rust 中高效数据结构操作的 brie-tree

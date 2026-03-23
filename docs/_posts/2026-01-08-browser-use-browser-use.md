@@ -7,3 +7,5 @@ image: assets/browser_use_browser_use_20260108_044917_110_20260108_044931_1cf06c
 # [browser-use/browser-use](https://github.com/browser-use/browser-use)
 
 Automates tasks in a browser with agents
+
+使用智能体在浏览器中自动化任务

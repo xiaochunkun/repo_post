@@ -7,3 +7,5 @@ image: assets/upscayl_upscayl_20260108_021204_709_20260108_021227_4c29c8.png
 # [upscayl/upscayl](https://github.com/upscayl/upscayl)
 
 Upscales images with AI algorithms
+
+使用AI算法放大图像

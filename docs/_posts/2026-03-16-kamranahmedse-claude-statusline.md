@@ -7,3 +7,5 @@ image: assets/kamranahmedse_claude_statusline_20260313_125410_338_20260313_12555
 # [kamranahmedse/claude-statusline](https://github.com/kamranahmedse/claude-statusline)
 
 Shows Claude Code usage limits and git info
+
+显示 Claude Code 使用限制和 git 信息

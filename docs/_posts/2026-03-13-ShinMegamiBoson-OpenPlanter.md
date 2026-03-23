@@ -7,3 +7,5 @@ image: assets/ShinMegamiBoson_OpenPlanter_20260308_204539_104_20260308_204651_d2
 # [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)
 
 Investigation agent for datasets with recursive sub-agent delegation
+
+通过递归子代理委派调查数据集的代理

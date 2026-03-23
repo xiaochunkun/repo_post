@@ -7,3 +7,5 @@ image: assets/EliteQuant_EliteQuant_cropped.png
 # [EliteQuant/EliteQuant](https://github.com/EliteQuant/EliteQuant)
 
 quantitative trading platform for backtesting and live trading
+
+用于回测和实盘交易的量化交易平台

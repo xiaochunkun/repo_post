@@ -7,3 +7,5 @@ image: assets/terauss_Polymarket_Copy_Trading_Bot_20260111_165325_632_20260111_1
 # [terauss/Polymarket-Copy-Trading-Bot](https://github.com/terauss/Polymarket-Copy-Trading-Bot)
 
 Copies trades from whales in real-time
+
+实时复制鲸鱼交易

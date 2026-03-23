@@ -7,3 +7,5 @@ image: assets/HelgeSverre_extractor_20251213_110322_170_20251213_110345_b6937c.p
 # [HelgeSverre/extractor](https://github.com/HelgeSverre/extractor/)
 
 Extracts structured data using OpenAI in Laravel
+
+在Laravel中使用OpenAI提取结构化数据

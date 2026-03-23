@@ -7,3 +7,5 @@ image: assets/AdrienPoupa_docker-compose-nas--20250815T015512749--cropped.png
 # [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas)
 
 docker-compose setup for NAS with media apps, VPN, and remote access
+
+用于NAS的docker-compose设置，包含媒体应用、VPN和远程访问

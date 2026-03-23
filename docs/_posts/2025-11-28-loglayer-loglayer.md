@@ -7,3 +7,5 @@ image: assets/loglayer_loglayer_20251125_032714_279_20251127_164416_5c3c70--2025
 # [loglayer/loglayer](https://github.com/loglayer/loglayer/)
 
 Unified logging wrapper for JavaScript libraries
+
+JavaScript 库的统一日志包装器

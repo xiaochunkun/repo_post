@@ -7,3 +7,5 @@ image: assets/KRTirtho_flemozi_20251209_060613_009_20251209_060649_46708d.png
 # [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi/)
 
 Cross-platform desktop emoji picker
+
+跨平台桌面表情符号选择器

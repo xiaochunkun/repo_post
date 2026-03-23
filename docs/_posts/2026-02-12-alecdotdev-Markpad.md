@@ -7,3 +7,5 @@ image: assets/alecdotdev_Markpad_20260209_020136_253_20260209_020205_7ef8e9.png
 # [alecdotdev/Markpad](https://github.com/alecdotdev/Markpad)
 
 Markdown editor with Vim mode and LaTeX support
+
+支持Vim模式和LaTeX的Markdown编辑器

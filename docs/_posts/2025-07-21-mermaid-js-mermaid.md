@@ -7,3 +7,5 @@ image: assets/mermaid-js_mermaid_cropped.png
 # [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
 
 turn text into diagrams and flowcharts
+
+将文本转换为图表和流程图

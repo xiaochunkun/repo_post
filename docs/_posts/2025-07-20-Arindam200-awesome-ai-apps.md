@@ -7,3 +7,5 @@ image: assets/Arindam200_awesome-ai-apps_cropped.png
 # [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
 
 collection of AI app examples, agents, and RAG demos
+
+AI应用示例、代理和RAG演示集合

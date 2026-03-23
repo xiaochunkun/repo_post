@@ -7,3 +7,5 @@ image: assets/River_Zhang_ICEdit_20251110_171309_787_20251111_015311_e96b33--202
 # [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit/)
 
 Instructional image editing with a diffusion transformer
+
+使用扩散变换器进行指令式图像编辑

@@ -7,3 +7,5 @@ image: assets/gavinkhung_machine-learning-visualized_cropped.png
 # [gavinkhung/machine-learning-visualized](https://github.com/gavinkhung/machine-learning-visualized)
 
 ML algorithms from scratch in Jupyter Notebooks with visualizations
+
+在Jupyter Notebook中从头实现并可视化ML算法

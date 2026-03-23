@@ -7,3 +7,5 @@ image: assets/podman_desktop_podman_desktop_20260202_091914_784_20260202_092000_
 # [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
 
 Interface for containers and Kubernetes
+
+容器和 Kubernetes 的界面

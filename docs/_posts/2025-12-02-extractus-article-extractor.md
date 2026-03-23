@@ -7,3 +7,5 @@ image: assets/extractus_article_extractor_20251201_034631_365_20251201_034655_90
 # [extractus/article-extractor](https://github.com/extractus/article-extractor/)
 
 Extracts main article content from URLs
+
+从URL提取主要文章内容

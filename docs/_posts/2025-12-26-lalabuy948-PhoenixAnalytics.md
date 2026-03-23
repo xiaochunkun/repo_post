@@ -7,3 +7,5 @@ image: assets/lalabuy948_PhoenixAnalytics_20251224_194328_553_20251224_194348_dd
 # [lalabuy948/PhoenixAnalytics](https://github.com/lalabuy948/PhoenixAnalytics/)
 
 Analytics for Phoenix applications with database support
+
+支持数据库的 Phoenix 应用分析

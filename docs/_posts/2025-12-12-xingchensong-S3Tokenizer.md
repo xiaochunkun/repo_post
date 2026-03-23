@@ -7,3 +7,5 @@ image: assets/xingchensong_S3Tokenizer_20251209_044007_950_20251209_044030_f0cce
 # [xingchensong/S3Tokenizer](https://github.com/xingchensong/S3Tokenizer/)
 
 Reverse engineering of supervised semantic speech tokenizer
+
+监督语义语音分词器的逆向工程

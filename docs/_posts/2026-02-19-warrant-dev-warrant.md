@@ -7,3 +7,5 @@ image: assets/warrant_dev_warrant_20260121_193941_237_20260121_193959_47df7d.png
 # [warrant-dev/warrant](https://github.com/warrant-dev/warrant)
 
 Authorization service based on Google Zanzibar
+
+基于Google Zanzibar的授权服务

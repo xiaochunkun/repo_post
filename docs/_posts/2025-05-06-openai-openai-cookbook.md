@@ -7,3 +7,5 @@ image: assets/openai_openai-cookbook_cropped.png
 # [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 
 OpenAI API code examples and guides
+
+OpenAI API 代码示例和指南

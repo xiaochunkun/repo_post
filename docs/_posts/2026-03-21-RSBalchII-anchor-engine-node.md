@@ -7,3 +7,5 @@ image: assets/RSBalchII_anchor_engine_node_20260308_190229_032_20260308_190346_c
 # [RSBalchII/anchor-engine-node](https://github.com/RSBalchII/anchor-engine-node)
 
 Memory layer for LLMs using graph traversal
+
+使用图遍历的LLM内存层

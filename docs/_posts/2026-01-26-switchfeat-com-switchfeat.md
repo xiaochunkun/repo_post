@@ -7,3 +7,5 @@ image: assets/switchfeat_com_switchfeat_20260120_045441_697_20260120_045505_90f5
 # [switchfeat-com/switchfeat](https://github.com/switchfeat-com/switchfeat)
 
 Feature flags and A/B testing from your infrastructure
+
+从您的基础设施进行功能标志和 A/B 测试

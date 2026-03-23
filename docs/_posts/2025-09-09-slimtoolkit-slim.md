@@ -7,3 +7,5 @@ image: assets/20250908T190816501--slimtoolkit--slim--20250908T191235441--cropped
 # [slimtoolkit/slim](https://github.com/slimtoolkit/slim)
 
 make container images smaller and more secure with slimtoolkit
+
+用 slimtoolkit 让容器镜像更小更安全

@@ -7,3 +7,5 @@ image: assets/langchain_ai_agent_inbox_20260209_125514_920_20260209_125545_77732
 # [langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox)
 
 Interface for human-in-the-loop interactions with agents
+
+人机交互的代理界面

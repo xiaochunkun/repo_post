@@ -7,3 +7,5 @@ image: assets/TheAgenticAI_TheAgenticBrowser_20251114_082202_876_20251115_034226
 # [TheAgenticAI/TheAgenticBrowser](https://github.com/TheAgenticAI/TheAgenticBrowser/)
 
 Browser automation using a planner, executor, and critique agent system
+
+使用规划器、执行器和批评代理系统的浏览器自动化

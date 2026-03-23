@@ -7,3 +7,5 @@ image: assets/20251015T031725094--jackluson--sync-your-cookie--20251015T03220094
 # [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie)
 
 sync browser cookies to Cloudflare across devices
+
+跨设备将浏览器 cookie 同步到 Cloudflare

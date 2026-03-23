@@ -7,3 +7,5 @@ image: assets/20250903T023737988--google-ai-edge--mediapipe--20250903T024447790-
 # [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
 
 open-source ML tools for real-time media processing
+
+用于实时媒体处理的开源 ML 工具

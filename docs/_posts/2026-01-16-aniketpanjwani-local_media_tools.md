@@ -7,3 +7,5 @@ image: assets/aniketpanjwani_local_media_tools_20260114_014551_343_20260114_0146
 # [aniketpanjwani/local_media_tools](https://github.com/aniketpanjwani/local_media_tools)
 
 Scrapes events from Instagram and Facebook into newsletters
+
+将 Instagram 和 Facebook 的事件抓取到新闻通讯中

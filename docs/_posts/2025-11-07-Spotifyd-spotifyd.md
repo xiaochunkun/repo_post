@@ -7,3 +7,5 @@ image: assets/Spotifyd_spotifyd_20251106_153249_158_20251106_174359_4dc2fe--2025
 # [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd/)
 
 Spotify client that runs as a daemon and supports Spotify Connect
+
+作为守护进程运行并支持Spotify Connect的Spotify客户端

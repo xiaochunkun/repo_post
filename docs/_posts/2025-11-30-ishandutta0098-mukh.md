@@ -7,3 +7,5 @@ image: assets/ishandutta0098_mukh_20251127_202035_156_20251130_083030_b282d0--20
 # [ishandutta0098/mukh](https://github.com/ishandutta0098/mukh/)
 
 Unified API for face analysis and deepfake detection
+
+面部分析和深度伪造检测的统一 API

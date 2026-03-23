@@ -7,3 +7,5 @@ image: assets/casdoor_casdoor_20260205_043836_535_20260205_043924_c04ba5.png
 # [casdoor/casdoor](https://github.com/casdoor/casdoor)
 
 Identity and access management platform supporting many protocols
+
+支持多种协议的身份和访问管理平台

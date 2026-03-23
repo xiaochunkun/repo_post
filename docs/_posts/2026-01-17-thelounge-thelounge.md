@@ -7,3 +7,5 @@ image: assets/thelounge_thelounge_20260116_193348_103_20260116_193403_476005.png
 # [thelounge/thelounge](https://github.com/thelounge/thelounge)
 
 IRC client for self-hosting in a browser
+
+浏览器自托管IRC客户端

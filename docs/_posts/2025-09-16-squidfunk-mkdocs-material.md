@@ -7,3 +7,5 @@ image: assets/20250915T223221274--squidfunk--mkdocs-material--20250915T225203330
 # [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
 Material theme for MkDocs, makes docs sites searchable and customizable
+
+MkDocs 的 Material 主题，使文档站点可搜索和可自定义

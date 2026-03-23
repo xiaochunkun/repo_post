@@ -7,3 +7,5 @@ image: assets/lakshaybhushan_vecto3d_cropped.png
 # [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d)
 
 convert svg logos to 3d models in your browser
+
+在浏览器中将SVG徽标转换为3D模型

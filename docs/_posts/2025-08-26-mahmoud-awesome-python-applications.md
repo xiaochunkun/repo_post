@@ -7,3 +7,5 @@ image: assets/20250825T032636758--mahmoud--awesome-python-applications--20250825
 # [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)
 
 huge list of real open-source Python apps
+
+大量真实开源 Python 应用项目列表

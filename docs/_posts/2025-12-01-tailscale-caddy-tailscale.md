@@ -7,3 +7,5 @@ image: assets/tailscale_caddy_tailscale_20251127_212035_697_20251130_083550_a8a6
 # [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale/)
 
 Runs a Tailscale node inside Caddy
+
+在Caddy内部运行Tailscale节点

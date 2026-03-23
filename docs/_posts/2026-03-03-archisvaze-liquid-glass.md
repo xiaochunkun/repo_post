@@ -7,3 +7,5 @@ image: assets/archisvaze_liquid_glass_20260205_031456_525_20260205_031527_f0213b
 # [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass)
 
 Glass distortion effect for the web
+
+网页玻璃扭曲效果

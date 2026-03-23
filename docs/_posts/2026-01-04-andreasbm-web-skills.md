@@ -7,3 +7,5 @@ image: assets/andreasbm_web_skills_20260103_025227_775_20260103_025256_8681af.pn
 # [andreasbm/web-skills](https://github.com/andreasbm/web-skills/)
 
 Visual overview of skills for web developers
+
+Web 开发者技能的可视化概览

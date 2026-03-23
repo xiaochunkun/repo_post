@@ -7,3 +7,5 @@ image: assets/20250812T232317--LichAmnesia--GPT-Prompt-Hub--20250812T233217--cro
 # [LichAmnesia/GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub)
 
 community hub for sharing and refining GPT prompts
+
+分享和优化GPT提示的社区中心

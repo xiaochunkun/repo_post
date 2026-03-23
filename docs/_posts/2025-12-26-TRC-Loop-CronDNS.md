@@ -7,3 +7,5 @@ image: assets/TRC_Loop_CronDNS_20251225_060824_119_20251225_060841_1107a8.png
 # [TRC-Loop/CronDNS](https://github.com/TRC-Loop/CronDNS/)
 
 Webinterface for management of DynDNS domains
+
+管理 DynDNS 域的 Web 界面

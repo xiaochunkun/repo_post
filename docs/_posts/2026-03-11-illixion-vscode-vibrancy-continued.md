@@ -7,3 +7,5 @@ image: assets/illixion_vscode_vibrancy_continued_20260305_064520_177_20260305_06
 # [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued)
 
 Extension for transparency effects in Visual Studio Code
+
+Visual Studio Code 的透明度效果扩展

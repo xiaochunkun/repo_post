@@ -7,3 +7,5 @@ image: assets/tannerhelland_PhotoDemon_20251218_014804_126_20251218_014822_0d269
 # [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon/)
 
 Portable photo editor for Windows
+
+适用于 Windows 的便携式照片编辑器

@@ -7,3 +7,5 @@ image: assets/infiniV_VoiceFlow_20251226_215925_888_20251226_215944_6a3619.png
 # [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow/)
 
 Transcribes speech locally with OpenAI Whisper
+
+使用 OpenAI Whisper 本地转录语音

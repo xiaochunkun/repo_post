@@ -7,3 +7,5 @@ image: assets/mgood_tuisage_20260316_051027_391_20260316_051103_0fa94d.png
 # [mgood/tuisage](https://github.com/mgood/tuisage)
 
 Interactive terminal UI for mise tasks
+
+mise 任务的交互式终端 UI

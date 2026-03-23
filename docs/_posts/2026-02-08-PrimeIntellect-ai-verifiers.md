@@ -7,3 +7,5 @@ image: assets/PrimeIntellect_ai_verifiers_20260206_162131_368_20260206_162159_f4
 # [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
 
 Environments for reinforcement learning with LLMs
+
+LLM强化学习环境

@@ -7,3 +7,5 @@ image: assets/probberechts_hexo_theme_cactus_20260111_075441_704_20260111_075459
 # [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus)
 
 Theme for Hexo personal websites
+
+Hexo个人网站主题

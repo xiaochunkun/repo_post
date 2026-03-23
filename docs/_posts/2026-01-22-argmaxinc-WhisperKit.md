@@ -7,3 +7,5 @@ image: assets/argmaxinc_WhisperKit_20260111_172839_371_20260111_172926_e8e76f.pn
 # [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)
 
 Speech recognition on Apple Silicon
+
+Apple Silicon上的语音识别

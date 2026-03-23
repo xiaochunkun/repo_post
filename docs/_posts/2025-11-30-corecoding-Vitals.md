@@ -7,3 +7,5 @@ image: assets/corecoding_Vitals_20251127_185706_671_20251130_052402_e5f9bc--2025
 # [corecoding/Vitals](https://github.com/corecoding/Vitals/)
 
 GNOME Shell extension displays system stats
+
+显示系统统计信息的 GNOME Shell 扩展

@@ -7,3 +7,5 @@ image: assets/20250903T024411288--promptslab--Promptify--20250903T025612403--cro
 # [promptslab/Promptify](https://github.com/promptslab/Promptify)
 
 prompt engineering toolkit for NLP tasks with LLMs
+
+面向 LLM NLP 任务的提示词工程工具包

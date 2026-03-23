@@ -7,3 +7,5 @@ image: assets/kszpxxzmc_ViSAudio_20251231_201133_889_20251231_201154_e7f052.png
 # [kszpxxzmc/ViSAudio](https://github.com/kszpxxzmc/ViSAudio/)
 
 Generates binaural audio from video and text
+
+从视频和文本生成双耳音频

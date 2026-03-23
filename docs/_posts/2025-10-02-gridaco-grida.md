@@ -7,3 +7,5 @@ image: assets/20251001T205227657--gridaco--grida--20251001T205732430--cropped.pn
 # [gridaco/grida](https://github.com/gridaco/grida)
 
 Canvas platform for managing databases, designing websites, and creating forms
+
+Canvas平台，用于管理数据库、设计网站和创建表单

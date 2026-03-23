@@ -7,3 +7,5 @@ image: assets/gsd_build_gsd_2_20260315_233226_528_20260315_233321_8e30c4.png
 # [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
 
 Standalone CLI coding agent with crash recovery
+
+具备崩溃恢复功能的独立 CLI 编码代理

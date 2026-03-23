@@ -7,3 +7,5 @@ image: assets/gabotechs_MusicGPT_20251025_194327_161_20251025_230611_8b9f10--202
 # [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT/)
 
 Generate music from text prompts locally
+
+本地从文本提示生成音乐

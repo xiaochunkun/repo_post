@@ -7,3 +7,5 @@ image: assets/bastienwirtz_homer--20250811T002528--cropped.png
 # [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
 
 self-hosted homepage dashboard for your services
+
+自托管服务主页仪表板

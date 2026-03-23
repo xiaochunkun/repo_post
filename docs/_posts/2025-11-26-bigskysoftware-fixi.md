@@ -7,3 +7,5 @@ image: assets/bigskysoftware_fixi_20251123_204307_403_20251125_215817_682dd4--20
 # [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi/)
 
 Minimalist implementation of generalized hypermedia controls
+
+通用超媒体控件的最小化实现

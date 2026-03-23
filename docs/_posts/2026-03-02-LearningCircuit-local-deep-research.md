@@ -7,3 +7,5 @@ image: assets/LearningCircuit_local_deep_research_20260227_172015_383_20260227_1
 # [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
 
 Searches sources for local LLM research
+
+为本地 LLM 研究搜索源

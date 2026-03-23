@@ -7,3 +7,5 @@ image: assets/burakorkmez_slack_clone_20260106_115129_259_20260106_115150_cc3e5b
 # [burakorkmez/slack-clone](https://github.com/burakorkmez/slack-clone/)
 
 Messaging platform with video calls and polls
+
+支持视频通话和投票的消息平台

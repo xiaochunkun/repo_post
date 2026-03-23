@@ -7,3 +7,5 @@ image: assets/Haleclipse_ipatoolUI_20260128_135155_098_20260128_135229_c85e93.pn
 # [Haleclipse/ipatoolUI](https://github.com/Haleclipse/ipatoolUI)
 
 macOS GUI for ipatool to download IPA files
+
+用于下载IPA文件的macOS图形界面工具

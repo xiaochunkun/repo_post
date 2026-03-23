@@ -7,3 +7,5 @@ image: assets/feedbin_feedbin_20251107_001745_964_20251107_165708_09e494--202511
 # [feedbin/feedbin](https://github.com/feedbin/feedbin/)
 
 Self-hosted RSS reader with a web interface
+
+带Web界面的自托管RSS阅读器

@@ -7,3 +7,5 @@ image: assets/zitadel_zitadel_cropped.png
 # [zitadel/zitadel](https://github.com/zitadel/zitadel)
 
 Open source identity platform for user management and authentication
+
+开源身份平台，用于用户管理与认证

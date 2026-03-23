@@ -7,3 +7,5 @@ image: assets/20250812T211711--NevaMind-AI--memU--20250812T211914--cropped.png
 # [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
 
 memory framework for AI companions
+
+AI 伴侣的记忆框架

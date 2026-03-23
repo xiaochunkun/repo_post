@@ -7,3 +7,5 @@ image: assets/aminueza_terraform_provider_minio_20251114_050143_943_20251114_162
 # [aminueza/terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio/)
 
 Manage S3-compatible object storage with Terraform
+
+使用Terraform管理S3兼容对象存储

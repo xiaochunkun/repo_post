@@ -7,3 +7,5 @@ image: assets/mindee_doctr_20260129_021759_107_20260129_021839_81f8c5.png
 # [mindee/doctr](https://github.com/mindee/doctr)
 
 OCR for documents using PyTorch
+
+使用PyTorch进行文档OCR

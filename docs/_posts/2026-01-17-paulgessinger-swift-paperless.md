@@ -7,3 +7,5 @@ image: assets/paulgessinger_swift_paperless_20260117_041459_051_20260117_041520_
 # [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless)
 
 iOS client for Paperless-ngx
+
+Paperless-ngx的iOS客户端

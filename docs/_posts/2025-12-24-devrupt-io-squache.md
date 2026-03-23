@@ -7,3 +7,5 @@ image: assets/devrupt_io_squache_20251222_200957_859_20251222_201015_239d73.png
 # [devrupt-io/squache](https://github.com/devrupt-io/squache/)
 
 Caches HTTPS requests to reduce scraping bandwidth
+
+缓存HTTPS请求以减少爬虫带宽

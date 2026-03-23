@@ -7,3 +7,5 @@ image: assets/khalildh_garment_notation_20260306_011208_833_20260306_011341_7e81
 # [khalildh/garment-notation](https://github.com/khalildh/garment-notation)
 
 Code language for clothing construction
+
+服装构造的代码语言

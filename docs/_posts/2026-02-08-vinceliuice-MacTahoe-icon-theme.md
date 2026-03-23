@@ -7,3 +7,5 @@ image: assets/vinceliuice_MacTahoe_icon_theme_20260204_035727_587_20260204_03575
 # [vinceliuice/MacTahoe-icon-theme](https://github.com/vinceliuice/MacTahoe-icon-theme)
 
 MacOS Tahoe icons for Linux
+
+Linux的MacOS Tahoe图标主题

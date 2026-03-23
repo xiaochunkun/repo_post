@@ -7,3 +7,5 @@ image: assets/facebook_openzl_20251108_020942_166_20251108_182128_69659d--202511
 # [facebook/openzl](https://github.com/facebook/openzl/)
 
 Data compression framework with high speed and high ratios
+
+高速高压缩比的数据压缩框架

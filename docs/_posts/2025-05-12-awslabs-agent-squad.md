@@ -7,3 +7,5 @@ image: assets/awslabs_agent-squad_cropped.png
 # [awslabs/agent-squad](https://github.com/awslabs/agent-squad)
 
 Framework for managing multiple AI agents in complex conversations
+
+用于在复杂对话中管理多个AI代理的框架

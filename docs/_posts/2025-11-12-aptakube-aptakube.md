@@ -7,3 +7,5 @@ image: assets/aptakube_aptakube_20251111_043634_274_20251111_150932_d3ce27--2025
 # [aptakube/aptakube](https://github.com/aptakube/aptakube/)
 
 Multi-cluster Kubernetes desktop client
+
+多集群Kubernetes桌面客户端

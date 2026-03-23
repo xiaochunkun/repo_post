@@ -7,3 +7,5 @@ image: assets/mshumer_OpenDeepResearcher_cropped.png
 # [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher)
 
 AI tool for automated deep research and info gathering
+
+自动化深度研究和信息收集的 AI 工具

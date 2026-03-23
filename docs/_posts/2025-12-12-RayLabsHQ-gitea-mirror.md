@@ -7,3 +7,5 @@ image: assets/RayLabsHQ_gitea_mirror_20251209_021507_197_20251209_021543_2c238f.
 # [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror/)
 
 Auto-syncs GitHub repos to self-hosted Gitea
+
+自动同步 GitHub 仓库到自托管 Gitea

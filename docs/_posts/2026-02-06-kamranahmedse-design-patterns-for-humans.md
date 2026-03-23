@@ -7,3 +7,5 @@ image: assets/kamranahmedse_design_patterns_for_humans_20260204_185519_127_20260
 # [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 Explanations of software design patterns
+
+软件设计模式的解释

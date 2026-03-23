@@ -7,3 +7,5 @@ image: assets/boardgameio_boardgame.io--20250814T025614412--cropped.png
 # [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)
 
 engine for turn-based multiplayer games in JavaScript
+
+用于 JavaScript 回合制多人游戏的引擎

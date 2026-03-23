@@ -7,3 +7,5 @@ image: assets/OpenAEV_Platform_openaev_20260112_161026_132_20260112_161040_84e99
 # [OpenAEV-Platform/openaev](https://github.com/OpenAEV-Platform/openaev)
 
 Platform for cyber adversary simulation campaigns
+
+网络对手模拟活动平台

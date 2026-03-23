@@ -7,3 +7,5 @@ image: assets/oramasearch_orama_20260303_074724_721_20260303_074901_31164d.png
 # [oramasearch/orama](https://github.com/oramasearch/orama)
 
 Search engine and RAG pipeline for browsers and edge networks
+
+面向浏览器和边缘网络的搜索引擎与RAG管道

@@ -7,3 +7,5 @@ image: assets/advplyr_audiobookshelf_app_20260104_061750_651_20260104_061807_600
 # [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app/)
 
 Self-hosted server for audiobooks and podcasts
+
+自托管的有声书和播客服务器

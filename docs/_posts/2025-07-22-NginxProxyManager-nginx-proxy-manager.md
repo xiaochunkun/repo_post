@@ -7,3 +7,5 @@ image: assets/NginxProxyManager_nginx-proxy-manager_cropped.png
 # [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
 manage nginx reverse proxies with a simple web interface
+
+通过简洁网页界面管理nginx反向代理

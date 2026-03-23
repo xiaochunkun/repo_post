@@ -7,3 +7,5 @@ image: assets/20251005T100554050--ClemensElflein--OpenMower--20251005T101102009-
 # [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower)
 
 DIY robot lawn mower project with RTK GPS and open source hardware
+
+DIY机器人割草机项目，采用RTK GPS和开源硬件

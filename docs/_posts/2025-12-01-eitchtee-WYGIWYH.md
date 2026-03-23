@@ -7,3 +7,5 @@ image: assets/eitchtee_WYGIWYH_20251130_061035_297_20251130_084336_ed8431--20251
 # [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH/)
 
 Self-hosted finance tracker with multi-currency support
+
+支持多货币的自托管财务追踪器

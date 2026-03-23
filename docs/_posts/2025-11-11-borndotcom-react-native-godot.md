@@ -7,3 +7,5 @@ image: assets/borndotcom_react_native_godot_20251110_160555_962_20251111_014817_
 # [borndotcom/react-native-godot](https://github.com/borndotcom/react-native-godot/)
 
 Embed the Godot Engine into React Native apps
+
+将Godot引擎嵌入React Native应用

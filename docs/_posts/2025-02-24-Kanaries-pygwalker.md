@@ -7,3 +7,5 @@ image: assets/Kanaries_pygwalker_cropped.png
 # [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)
 
 Python library for interactive data visualization and exploration
+
+交互式数据可视化和探索的Python库

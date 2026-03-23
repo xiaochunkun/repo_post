@@ -7,3 +7,5 @@ image: assets/BoostIO_BoostNote_App_20251222_184928_610_20251222_185021_167810.p
 # [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App/)
 
 Project management tool for DevOps teams
+
+DevOps团队的项目管理工具

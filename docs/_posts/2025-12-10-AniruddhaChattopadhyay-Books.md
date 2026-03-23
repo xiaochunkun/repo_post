@@ -7,3 +7,5 @@ image: assets/AniruddhaChattopadhyay_Books_20251208_011527_021_20251208_011643_5
 # [AniruddhaChattopadhyay/Books](https://github.com/AniruddhaChattopadhyay/Books/)
 
 Collection of machine learning and AI PDFs
+
+机器学习和AI PDF合集

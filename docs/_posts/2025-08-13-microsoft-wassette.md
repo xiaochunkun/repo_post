@@ -7,3 +7,5 @@ image: assets/microsoft_wassette--20250812T010950--cropped.png
 # [microsoft/wassette](https://github.com/microsoft/wassette)
 
 WebAssembly tools for AI agents via MCP
+
+通过 MCP 为 AI 代理提供 WebAssembly 工具

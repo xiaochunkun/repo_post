@@ -7,3 +7,5 @@ image: assets/yoopta-editor_Yoopta-Editor_cropped.png
 # [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor)
 
 Notion-like editor for building rich text content
+
+类似Notion的富文本编辑器

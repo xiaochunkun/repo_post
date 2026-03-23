@@ -7,3 +7,5 @@ image: assets/romankurnovskii_homebrew_awesome_brew_20260122_203120_900_20260122
 # [romankurnovskii/homebrew-awesome-brew](https://github.com/romankurnovskii/homebrew-awesome-brew)
 
 Catalog of Homebrew casks and formulas from developers
+
+来自开发者的 Homebrew casks 和 formulas 目录

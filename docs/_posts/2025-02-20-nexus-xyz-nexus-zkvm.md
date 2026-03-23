@@ -7,3 +7,5 @@ image: assets/nexus-xyz_nexus-zkvm_cropped.png
 # [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm)
 
 Nexus zkVM for verifiable computation
+
+Nexus zkVM，用于可验证计算

@@ -7,3 +7,5 @@ image: assets/20251012T023346170--ShiqiYu--libfacedetection--20251012T023729653-
 # [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 
 CNN-based face detection with no external dependencies
+
+基于 CNN 的人脸检测，无外部依赖

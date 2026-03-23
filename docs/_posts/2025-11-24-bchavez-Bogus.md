@@ -7,3 +7,5 @@ image: assets/bchavez_Bogus_20251123_214021_953_20251124_094627_d41b3a--20251124
 # [bchavez/Bogus](https://github.com/bchavez/Bogus/)
 
 Fake data generator for .NET
+
+.NET 的假数据生成器

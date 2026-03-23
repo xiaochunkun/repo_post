@@ -7,3 +7,5 @@ image: assets/buckket_twtxt_20260101_055840_200_20260101_055854_e9cfac.png
 # [buckket/twtxt](https://github.com/buckket/twtxt/)
 
 Microblogging via text files
+
+通过文本文件进行微博客

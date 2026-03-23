@@ -7,3 +7,5 @@ image: assets/repohistory_repohistory_20251225_182654_102_20251225_182716_5271d0
 # [repohistory/repohistory](https://github.com/repohistory/repohistory/)
 
 Tracks GitHub traffic history beyond the 14 day limit
+
+追踪 GitHub 流量历史，突破 14 天限制

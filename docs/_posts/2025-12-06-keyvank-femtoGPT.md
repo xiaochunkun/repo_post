@@ -7,3 +7,5 @@ image: assets/keyvank_femtoGPT_20251204_210740_133_20251204_210843_25c49d.png
 # [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT/)
 
 Pure Rust implementation of a minimal GPT
+
+纯Rust实现的最小GPT

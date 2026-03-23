@@ -7,3 +7,5 @@ image: assets/awtkns_fastapi_crudrouter_20251216_115215_289_20251216_115240_8603
 # [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter/)
 
 Automatically creates CRUD routes for FastAPI models
+
+为 FastAPI 模型自动创建 CRUD 路由

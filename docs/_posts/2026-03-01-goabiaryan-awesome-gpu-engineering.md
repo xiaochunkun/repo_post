@@ -7,3 +7,5 @@ image: assets/goabiaryan_awesome_gpu_engineering_20260217_163324_494_20260217_16
 # [goabiaryan/awesome-gpu-engineering](https://github.com/goabiaryan/awesome-gpu-engineering)
 
 Resources for GPU engineering and AI acceleration
+
+GPU 工程和 AI 加速资源

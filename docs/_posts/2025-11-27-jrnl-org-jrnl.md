@@ -7,3 +7,5 @@ image: assets/jrnl_org_jrnl_20251125_022101_898_20251127_161257_699949--20251127
 # [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl/)
 
 Collect thoughts and notes on the command line
+
+在命令行收集想法和笔记

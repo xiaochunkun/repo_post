@@ -7,3 +7,5 @@ image: assets/philschmid_gemini-samples_cropped.png
 # [philschmid/gemini-samples](https://github.com/philschmid/gemini-samples)
 
 tiny code samples for Google Gemini
+
+Google Gemini的微型代码示例

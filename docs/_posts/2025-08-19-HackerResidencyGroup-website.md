@@ -7,3 +7,5 @@ image: assets/20250818T111954543_HackerResidencyGroup_website--20250818T11211787
 # [HackerResidencyGroup/website](https://github.com/HackerResidencyGroup/website)
 
 experimental hacker residency in Da Nang November 2025
+
+2025年11月岘港的实验性黑客驻留项目

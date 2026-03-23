@@ -7,3 +7,5 @@ image: assets/20250910T030224754--mahseema--awesome-ai-tools--20250910T030350506
 # [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)
 
 curated list of top AI tools and resources
+
+精选顶级 AI 工具和资源列表

@@ -7,3 +7,5 @@ image: assets/axiaoge2_apple_hig_designer_20260101_102018_300_20260101_102032_7b
 # [axiaoge2/apple-hig-designer](https://github.com/axiaoge2/apple-hig-designer/)
 
 Claude skill for designing interfaces following Apple Human Interface Guidelines
+
+遵循Apple人机界面指南设计界面的Claude技能

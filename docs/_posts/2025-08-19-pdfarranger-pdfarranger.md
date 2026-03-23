@@ -7,3 +7,5 @@ image: assets/20250818T114143100_pdfarranger_pdfarranger--20250818T114712982--cr
 # [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
 
 merge, split, and rearrange PDF pages with a simple tool
+
+使用简单工具合并、拆分和重新排列PDF页面

@@ -7,3 +7,5 @@ image: assets/benjie_git_CardStock_20260106_040240_018_20260106_040256_c51029.pn
 # [benjie-git/CardStock](https://github.com/benjie-git/CardStock/)
 
 Builds graphical programs with python
+
+使用 Python 构建图形程序

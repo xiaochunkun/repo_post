@@ -7,3 +7,5 @@ image: assets/sickcodes_dock_droid_20251030_223108_735_20251030_234937_64b895--2
 # [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid/)
 
 Run Android x86 and ARM in a Docker container
+
+在 Docker 容器中运行 Android x86 和 ARM

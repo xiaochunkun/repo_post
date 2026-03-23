@@ -7,3 +7,5 @@ image: assets/BogdanTheGeek_semihost_ip_20251125_005958_912_20251126_100916_9d9c
 # [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip/)
 
 Runs TCP/IP over SWD debug interface
+
+通过 SWD 调试接口运行 TCP/IP

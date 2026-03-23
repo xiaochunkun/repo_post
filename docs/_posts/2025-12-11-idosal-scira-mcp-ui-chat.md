@@ -7,3 +7,5 @@ image: assets/idosal_scira_mcp_ui_chat_20251208_231502_579_20251208_231523_927cc
 # [idosal/scira-mcp-ui-chat](https://github.com/idosal/scira-mcp-ui-chat/)
 
 Playground for chats with UI-rendered tool calls
+
+UI渲染工具调用的聊天实验场

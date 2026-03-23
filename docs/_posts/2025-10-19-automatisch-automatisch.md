@@ -7,3 +7,5 @@ image: assets/automatisch_automatisch_20251018_185733_801_20251018_203318--20251
 # [automatisch/automatisch](https://github.com/automatisch/automatisch/)
 
 Open source alternative for workflow automation and app integration
+
+工作流自动化和应用集成的开源替代方案

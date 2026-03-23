@@ -7,3 +7,5 @@ image: assets/20251012T025359097--bregman-arie--sre-checklist--20251012T03011447
 # [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)
 
 site reliability engineering checklist for teams and individuals
+
+面向团队和个人的站点可靠性工程检查清单

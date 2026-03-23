@@ -7,3 +7,5 @@ image: assets/Hugo_Dz_spritefusion_pixel_snapper_20260301_223024_716_20260301_22
 # [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 
 Snaps pixels to a grid
+
+将像素对齐到网格

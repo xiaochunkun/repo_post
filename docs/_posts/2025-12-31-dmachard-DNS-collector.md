@@ -7,3 +7,5 @@ image: assets/dmachard_DNS_collector_20251229_162649_227_20251229_162707_40a096.
 # [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector/)
 
 Captures and processes DNS logs for monitoring systems
+
+捕获和处理 DNS 日志以用于监控系统

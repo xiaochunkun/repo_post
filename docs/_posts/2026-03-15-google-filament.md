@@ -7,3 +7,5 @@ image: assets/google_filament_20260309_083356_684_20260309_083611_7cf32a.png
 # [google/filament](https://github.com/google/filament)
 
 Rendering engine for 3D graphics on mobile and web
+
+移动端和网页的 3D 图形渲染引擎

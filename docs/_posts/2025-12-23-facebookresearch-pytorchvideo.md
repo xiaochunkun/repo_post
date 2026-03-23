@@ -7,3 +7,5 @@ image: assets/facebookresearch_pytorchvideo_20251222_161623_769_20251222_161641_
 # [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo/)
 
 Library for video understanding research
+
+视频理解研究库

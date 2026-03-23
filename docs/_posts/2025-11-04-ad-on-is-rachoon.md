@@ -7,3 +7,5 @@ image: assets/ad_on_is_rachoon_20251103_213202_311_20251103_213911_81e5a7--20251
 # [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon/)
 
 Self-hosted invoicing platform for freelancers
+
+自由职业者自托管发票平台

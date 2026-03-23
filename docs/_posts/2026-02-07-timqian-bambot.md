@@ -7,3 +7,5 @@ image: assets/timqian_bambot_20260204_031133_802_20260204_031155_5b0f6d.png
 # [timqian/bambot](https://github.com/timqian/bambot)
 
 Open source AI robots
+
+开源AI机器人

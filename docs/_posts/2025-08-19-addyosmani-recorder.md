@@ -7,3 +7,5 @@ image: assets/20250818T115813641_addyosmani_recorder--20250818T120249381--croppe
 # [addyosmani/recorder](https://github.com/addyosmani/recorder)
 
 privacy-friendly screen and camera recorder for Chrome browsers
+
+Chrome浏览器隐私友好的屏幕和摄像头录制工具

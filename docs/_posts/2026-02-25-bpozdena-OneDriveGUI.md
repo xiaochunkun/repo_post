@@ -7,3 +7,5 @@ image: assets/bpozdena_OneDriveGUI_20260223_051808_760_20260223_051823_5f52f2.pn
 # [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI)
 
 Interface for OneDrive on Linux with multi-account support
+
+Linux上支持多账户的OneDrive界面

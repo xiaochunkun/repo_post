@@ -7,3 +7,5 @@ image: assets/coder_code-server_cropped.png
 # [coder/code-server](https://github.com/coder/code-server)
 
 Run VS Code in your browser from any device using a remote server
+
+使用远程服务器在任何设备的浏览器中运行VS Code

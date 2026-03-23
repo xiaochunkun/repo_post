@@ -7,3 +7,5 @@ image: assets/myshell_ai_OpenVoice_20251017_215220_815_20251017_215928--20251017
 # [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice/)
 
 Clones voices across languages with style control
+
+跨语言克隆声音并控制风格

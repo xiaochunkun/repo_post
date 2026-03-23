@@ -7,3 +7,5 @@ image: assets/fal_ai_community_video_starter_kit_20260108_034432_768_20260108_03
 # [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit)
 
 Video production in the browser with AI models
+
+在浏览器中使用AI模型进行视频制作

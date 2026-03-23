@@ -7,3 +7,5 @@ image: assets/AbdullahGhanem_quran_database_20260113_180853_440_20260113_180909_
 # [AbdullahGhanem/quran-database](https://github.com/AbdullahGhanem/quran-database)
 
 MySQL database of the Quran
+
+古兰经 MySQL 数据库

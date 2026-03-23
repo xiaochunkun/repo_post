@@ -7,3 +7,5 @@ image: assets/blinko_space_blinko_20260103_003820_847_20260103_003839_8e455e.png
 # [blinko-space/blinko](https://github.com/blinko-space/blinko/)
 
 Self-hosted note tool with AI retrieval
+
+具备 AI 检索功能的自托管笔记工具

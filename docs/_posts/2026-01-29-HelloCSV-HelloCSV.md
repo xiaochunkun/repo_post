@@ -7,3 +7,5 @@ image: assets/HelloCSV_HelloCSV_20260129_095227_531_20260129_095308_9af4cf.png
 # [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV)
 
 Frontend CSV importer with data validation
+
+前端CSV导入器，带数据验证

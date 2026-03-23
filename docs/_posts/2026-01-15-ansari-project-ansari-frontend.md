@@ -7,3 +7,5 @@ image: assets/ansari_project_ansari_frontend_20260113_202818_128_20260113_202832
 # [ansari-project/ansari-frontend](https://github.com/ansari-project/ansari-frontend)
 
 Chat interface for Islamic knowledge
+
+伊斯兰知识聊天界面

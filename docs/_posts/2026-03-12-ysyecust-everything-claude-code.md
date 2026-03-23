@@ -7,3 +7,5 @@ image: assets/ysyecust_everything_claude_code_20260312_004501_810_20260312_00472
 # [ysyecust/everything-claude-code](https://github.com/ysyecust/everything-claude-code)
 
 System for AI agent harnesses
+
+AI智能体控制系统

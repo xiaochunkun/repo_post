@@ -7,3 +7,5 @@ image: assets/doxx_darkflare_cropped.png
 # [doxx/darkflare](https://github.com/doxx/darkflare)
 
 TCP tunneling over CDN for firewall bypass
+
+通过 CDN 进行 TCP 隧道以绕过防火墙

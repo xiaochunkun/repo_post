@@ -7,3 +7,5 @@ image: assets/20251001T104741437--mwilliamson--python-mammoth--20251001T11004478
 # [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth)
 
 converts Word docs to clean HTML using semantic structure
+
+使用语义结构将Word文档转换为干净的HTML

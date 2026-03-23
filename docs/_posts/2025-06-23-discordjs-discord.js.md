@@ -7,3 +7,5 @@ image: assets/discordjs_discord.js_cropped.png
 # [discordjs/discord.js](https://github.com/discordjs/discord.js)
 
 Node.js library for working with the DiscordAPI
+
+用于处理 Discord API 的 Node.js 库

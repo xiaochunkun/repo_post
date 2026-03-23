@@ -7,3 +7,5 @@ image: assets/creativetimofficial_david-ai--20250815T013612193--cropped.png
 # [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai)
 
 open-source Tailwind CSS UI components for quick web interfaces
+
+开源Tailwind CSS UI组件，用于快速构建Web界面

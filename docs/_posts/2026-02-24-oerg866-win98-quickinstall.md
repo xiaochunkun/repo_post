@@ -7,3 +7,5 @@ image: assets/oerg866_win98_quickinstall_20260222_105406_634_20260222_105427_4ce
 # [oerg866/win98-quickinstall](https://github.com/oerg866/win98-quickinstall)
 
 Installs Windows 98 on hardware from 486 to modern systems
+
+在从 486 到现代系统的硬件上安装 Windows 98

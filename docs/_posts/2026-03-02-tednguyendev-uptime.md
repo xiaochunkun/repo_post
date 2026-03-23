@@ -7,3 +7,5 @@ image: assets/tednguyendev_uptime_20260213_212744_531_20260213_212851_d210ce.png
 # [tednguyendev/uptime](https://github.com/tednguyendev/uptime)
 
 Timer for the macOS menu bar
+
+macOS菜单栏计时器

@@ -7,3 +7,5 @@ image: assets/wppconnect_team_wppconnect_20260121_232243_502_20260121_232300_bc0
 # [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect)
 
 Exports WhatsApp Web functions to Node.js
+
+将WhatsApp Web功能导出到Node.js

@@ -7,3 +7,5 @@ image: assets/OpenModelica_OpenModelica_20251208_233041_464_20251208_233104_b2b2
 # [OpenModelica/OpenModelica](https://github.com/OpenModelica/OpenModelica/)
 
 Modelica-based modeling and simulation environment
+
+基于Modelica的建模与仿真环境

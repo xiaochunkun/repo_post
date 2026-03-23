@@ -7,3 +7,5 @@ image: assets/20250810T070336--claude-did-this--claude-hub--20250811T004258--cro
 # [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub)
 
 Claude AI webhook for GitHub code reviews and automation
+
+用于GitHub代码审查和自动化的Claude AI webhook

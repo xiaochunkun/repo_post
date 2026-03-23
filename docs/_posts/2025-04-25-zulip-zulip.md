@@ -7,3 +7,5 @@ image: assets/zulip_zulip_cropped.png
 # [zulip/zulip](https://github.com/zulip/zulip)
 
 team chat and collaboration app with topic-based threads
+
+基于主题线程的团队聊天和协作应用

@@ -7,3 +7,5 @@ image: assets/man_group_dtale_20251229_184510_681_20251229_184543_f0148c.png
 # [man-group/dtale](https://github.com/man-group/dtale/)
 
 Visualizer for pandas data structures in the browser
+
+浏览器中pandas数据结构的可视化工具

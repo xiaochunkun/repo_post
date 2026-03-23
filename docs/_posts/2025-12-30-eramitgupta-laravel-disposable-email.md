@@ -7,3 +7,5 @@ image: assets/eramitgupta_laravel_disposable_email_20251228_230614_759_20251228_
 # [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email/)
 
 Blocks disposable email addresses using 110k+ known domains
+
+使用 11 万+已知域名屏蔽一次性邮箱地址

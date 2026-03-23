@@ -7,3 +7,5 @@ image: assets/timescale_pg_aiguide_20260311_105238_904_20260311_105424_37923d.pn
 # [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide)
 
 PostgreSQL expertise for AI coding agents
+
+为 AI 编码代理提供 PostgreSQL 专业知识

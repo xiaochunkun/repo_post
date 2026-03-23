@@ -7,3 +7,5 @@ image: assets/iAnonymous3000_iOS_Hardening_Guide_20251224_163915_482_20251224_16
 # [iAnonymous3000/iOS-Hardening-Guide](https://github.com/iAnonymous3000/iOS-Hardening-Guide/)
 
 Guide for security and privacy on iOS devices
+
+iOS 设备安全和隐私指南

@@ -7,3 +7,5 @@ image: assets/awesomelistsio_awesome_prompt_engineering_20260115_181643_870_2026
 # [awesomelistsio/awesome-prompt-engineering](https://github.com/awesomelistsio/awesome-prompt-engineering)
 
 Resources for prompt engineering in LLMs
+
+LLM 提示工程的资源

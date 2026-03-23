@@ -7,3 +7,5 @@ image: assets/leandrocp_mdex_20251213_083740_212_20251213_083804_64d100.png
 # [leandrocp/mdex](https://github.com/leandrocp/mdex/)
 
 Markdown parser and formatter for Elixir
+
+Elixir的Markdown解析器和格式化工具

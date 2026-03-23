@@ -7,3 +7,5 @@ image: assets/darlinghq_darling_20260317_121251_883_20260317_121333_4ed681.png
 # [darlinghq/darling](https://github.com/darlinghq/darling)
 
 Runs macOS apps on Linux
+
+在 Linux 上运行 macOS 应用

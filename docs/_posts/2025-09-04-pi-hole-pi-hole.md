@@ -7,3 +7,5 @@ image: assets/20250903T235109755--pi-hole--pi-hole--20250903T235411799--cropped.
 # [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
 
 network-wide ad blocker using your own hardware
+
+利用自有硬件实现全网广告拦截

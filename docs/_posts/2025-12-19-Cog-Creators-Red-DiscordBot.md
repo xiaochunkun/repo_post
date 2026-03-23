@@ -7,3 +7,5 @@ image: assets/Cog_Creators_Red_DiscordBot_20251217_220612_944_20251217_220631_22
 # [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/)
 
 Modular bot for Discord servers
+
+用于 Discord 服务器的模块化机器人

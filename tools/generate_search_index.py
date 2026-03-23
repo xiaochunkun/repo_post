@@ -29,6 +29,19 @@ def _desc(md: str) -> str:
     m = re.search(r"^#\s+.+$(?:\r?\n)+([^#\n][^\n]+)", md, re.M)
     return (m.group(1).strip() if m else "")[:160]
 
+def _desc_zh(md: str) -> str:
+    """Chinese translation line after English description (if present)."""
+    m = re.search(r"^#\s+.+$", md, re.M)
+    if not m:
+        return ""
+    after = md[m.end():]
+    lines = [l.strip() for l in after.split('\n')
+             if l.strip() and not l.strip().startswith('[') and not l.strip().startswith('#')]
+    for line in lines[1:]:
+        if re.search(r'[\u4e00-\u9fff]', line):
+            return line[:160]
+    return ""
+
 def _image(md: str) -> str:
     m = re.search(r"(?m)^image:\s*([^\n]+)\s*$", md)
     if not m:
@@ -50,12 +63,16 @@ def main() -> None:
         title = _extract(md) or stem
         owner_repo = stem.split('-', 3)[-1]
         desc = _desc(md)
+        zh = _desc_zh(md)
+        search_text = title + ' ' + owner_repo + ' ' + desc
+        if zh:
+            search_text += ' ' + zh
         row = {
-            't': (title + ' ' + owner_repo + ' ' + desc).lower(),
+            't': search_text.lower(),
             'u': _url(stem),
             'd': '-'.join(stem.split('-', 3)[:3]),
             'title': title,
-            's': desc,
+            's': (desc + '\n' + zh) if zh else desc,
         }
         img = _image(md)
         if img:

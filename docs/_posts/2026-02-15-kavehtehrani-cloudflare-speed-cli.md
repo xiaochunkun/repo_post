@@ -7,3 +7,5 @@ image: assets/kavehtehrani_cloudflare_speed_cli_20260122_122053_350_20260122_122
 # [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)
 
 Network speed tests with a terminal interface
+
+带有终端界面的网络速度测试

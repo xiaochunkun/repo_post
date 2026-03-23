@@ -7,3 +7,5 @@ image: assets/Aetherinox_ntfy_desktop_20251222_102244_056_20251222_102300_a2928d
 # [Aetherinox/ntfy-desktop](https://github.com/Aetherinox/ntfy-desktop/)
 
 Desktop client for push notifications
+
+推送通知的桌面客户端

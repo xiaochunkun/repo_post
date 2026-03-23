@@ -7,3 +7,5 @@ image: assets/netbirdio_netbird_20260207_134402_130_20260207_134419_b993d6.png
 # [netbirdio/netbird](https://github.com/netbirdio/netbird)
 
 Overlay network with WireGuard and access controls
+
+使用 WireGuard 和访问控制的覆盖网络

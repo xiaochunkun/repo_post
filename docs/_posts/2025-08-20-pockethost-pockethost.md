@@ -7,3 +7,5 @@ image: assets/20250818T123727480_pockethost_pockethost--20250818T124304498--crop
 # [pockethost/pockethost](https://github.com/pockethost/pockethost)
 
 multi-tenant PocketBase hosting with CLI and scaling tools
+
+具有 CLI 和扩展工具的多租户 PocketBase 托管

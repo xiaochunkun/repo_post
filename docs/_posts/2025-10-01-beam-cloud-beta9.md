@@ -7,3 +7,5 @@ image: assets/20251001T103456601--beam-cloud--beta9--20251001T105225245--cropped
 # [beam-cloud/beta9](https://github.com/beam-cloud/beta9)
 
 serverless AI workloads with fast container launch and GPU support
+
+支持快速容器启动和GPU的无服务器AI工作负载

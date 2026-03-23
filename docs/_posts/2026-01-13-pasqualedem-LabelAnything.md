@@ -7,3 +7,5 @@ image: assets/pasqualedem_LabelAnything_20260112_051809_032_20260112_051826_fcbb
 # [pasqualedem/LabelAnything](https://github.com/pasqualedem/LabelAnything)
 
 Semantic segmentation with visual prompts
+
+基于视觉提示的语义分割

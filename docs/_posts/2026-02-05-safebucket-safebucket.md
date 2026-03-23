@@ -7,3 +7,5 @@ image: assets/safebucket_safebucket_20260202_222943_631_20260202_223019_a35b8f.p
 # [safebucket/safebucket](https://github.com/safebucket/safebucket)
 
 File sharing across cloud providers
+
+跨云提供商的文件共享

@@ -7,3 +7,5 @@ image: assets/OminousIndustries_PhoneDriver_20260305_115921_661_20260305_120104_
 # [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver)
 
 Automation of mobile interfaces using vision-language models
+
+使用视觉语言模型自动化移动界面

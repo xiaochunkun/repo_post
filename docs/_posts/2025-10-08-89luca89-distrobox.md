@@ -7,3 +7,5 @@ image: assets/20251008T181236027--89luca89--distrobox--20251008T182105689--cropp
 # [89luca89/distrobox](https://github.com/89luca89/distrobox)
 
 run any linux distro in your terminal with container integration
+
+在终端中通过容器集成运行任何 Linux 发行版

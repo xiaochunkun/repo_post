@@ -7,3 +7,5 @@ image: assets/TanStack_pacer_20260116_120012_069_20260116_120027_967bec.png
 # [TanStack/pacer](https://github.com/TanStack/pacer)
 
 Utilities for timing and scheduling
+
+计时与调度工具集

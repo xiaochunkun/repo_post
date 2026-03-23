@@ -7,3 +7,5 @@ image: assets/Azure_Samples_mcp_agent_langchainjs_20251214_213214_339_20251214_2
 # [Azure-Samples/mcp-agent-langchainjs](https://github.com/Azure-Samples/mcp-agent-langchainjs/)
 
 Serverless AI agent using Model Context Protocol
+
+使用Model Context Protocol的无服务器AI智能体

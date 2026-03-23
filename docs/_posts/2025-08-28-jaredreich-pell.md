@@ -7,3 +7,5 @@ image: assets/20250827T100644805--jaredreich--pell--20250827T101122563--cropped.
 # [jaredreich/pell](https://github.com/jaredreich/pell)
 
 tiny web wysiwyg text editor with no dependencies
+
+无依赖的超小型 Web 所见即所得文本编辑器

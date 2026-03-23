@@ -7,3 +7,5 @@ image: assets/vinceliuice_WhiteSur_gtk_theme_20260222_172741_782_20260222_172759
 # [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
 GTK theme for Linux desktops
+
+Linux桌面GTK主题

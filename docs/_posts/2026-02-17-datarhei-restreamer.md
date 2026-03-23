@@ -7,3 +7,5 @@ image: assets/datarhei_restreamer_20260216_094854_615_20260216_094955_513a73.png
 # [datarhei/restreamer](https://github.com/datarhei/restreamer)
 
 Self-hosting solution to stream live to multiple platforms
+
+自托管解决方案，向多个平台直播

@@ -7,3 +7,5 @@ image: assets/blacklanternsecurity_bbot_20260108_044744_652_20260108_044800_7474
 # [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)
 
 Automates recon and attack surface management
+
+自动化侦察和攻击面管理

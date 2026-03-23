@@ -7,3 +7,5 @@ image: assets/20250820T132533860_Certora_CertoraProver--20250820T135523825--crop
 # [Certora/CertoraProver](https://github.com/Certora/CertoraProver)
 
 formally verifies smart contracts for security
+
+智能合约形式化验证工具

@@ -7,3 +7,5 @@ image: assets/louislva_claude_peers_mcp_20260322_212022_065_20260322_212445_cdaf
 # [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)
 
 Enables instant messaging between Claude Code instances
+
+实现Claude Code实例间的即时通讯

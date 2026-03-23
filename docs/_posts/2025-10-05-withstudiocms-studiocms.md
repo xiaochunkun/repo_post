@@ -7,3 +7,5 @@ image: assets/20251005T101758666--withstudiocms--studiocms--20251005T102819608--
 # [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms)
 
 Astro-native headless CMS with plugins and integrations
+
+基于 Astro 的无头 CMS，支持插件和集成

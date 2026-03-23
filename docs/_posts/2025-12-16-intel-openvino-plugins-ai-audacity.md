@@ -7,3 +7,5 @@ image: assets/intel_openvino_plugins_ai_audacity_20251213_124141_614_20251213_12
 # [intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity/)
 
 Runs AI effects locally in Audacity
+
+在Audacity中本地运行AI效果

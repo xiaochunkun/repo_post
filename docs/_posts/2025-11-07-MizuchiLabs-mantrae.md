@@ -7,3 +7,5 @@ image: assets/MizuchiLabs_mantrae_20251106_221056_652_20251106_223713_23ee76--20
 # [MizuchiLabs/mantrae](https://github.com/MizuchiLabs/mantrae/)
 
 Web UI for managing Traefik configurations
+
+管理Traefik配置的Web界面

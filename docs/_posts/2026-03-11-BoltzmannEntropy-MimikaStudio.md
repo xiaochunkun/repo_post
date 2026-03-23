@@ -7,3 +7,5 @@ image: assets/BoltzmannEntropy_MimikaStudio_20260226_061530_291_20260226_061716_
 # [BoltzmannEntropy/MimikaStudio](https://github.com/BoltzmannEntropy/MimikaStudio)
 
 Clones voices and creates audiobooks on Apple Silicon
+
+在Apple Silicon上克隆声音并创建有声读物

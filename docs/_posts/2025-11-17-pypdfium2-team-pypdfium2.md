@@ -7,3 +7,5 @@ image: assets/pypdfium2_team_pypdfium2_20251115_052539_832_20251116_221352_cc6e8
 # [pypdfium2-team/pypdfium2](https://github.com/pypdfium2-team/pypdfium2/)
 
 Python binding for PDF rendering and manipulation
+
+用于PDF渲染和操作的Python绑定

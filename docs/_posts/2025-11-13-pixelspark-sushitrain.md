@@ -7,3 +7,5 @@ image: assets/pixelspark_sushitrain_20251111_212808_173_20251112_032430_d345b9--
 # [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain/)
 
 Synchronize files on-demand on iOS and macOS using Syncthing
+
+使用 Syncthing 在 iOS 和 macOS 上按需同步文件

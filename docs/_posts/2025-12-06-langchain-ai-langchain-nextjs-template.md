@@ -7,3 +7,5 @@ image: assets/langchain_ai_langchain_nextjs_template_20251204_211946_235_2025120
 # [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template/)
 
 Scaffolds LangChain and Next.js apps
+
+搭建LangChain和Next.js应用

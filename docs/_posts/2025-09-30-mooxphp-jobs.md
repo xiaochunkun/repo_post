@@ -7,3 +7,5 @@ image: assets/20250930T033249617--mooxphp--jobs--20250930T033852753--cropped.png
 # [mooxphp/jobs](https://github.com/mooxphp/jobs)
 
 Manage Laravel job queues and failed jobs with a Filament dashboard
+
+使用 Filament 仪表板管理 Laravel 作业队列和失败作业

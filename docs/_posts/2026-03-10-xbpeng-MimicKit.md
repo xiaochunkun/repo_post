@@ -7,3 +7,5 @@ image: assets/xbpeng_MimicKit_20260309_103640_684_20260309_103849_4a385a.png
 # [xbpeng/MimicKit](https://github.com/xbpeng/MimicKit)
 
 Motion imitation methods for training motion controllers
+
+用于训练运动控制器的运动模仿方法

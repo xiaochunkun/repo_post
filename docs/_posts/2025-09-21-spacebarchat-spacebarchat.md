@@ -7,3 +7,5 @@ image: assets/20250921T024323689--spacebarchat--spacebarchat--20250921T030126620
 # [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat)
 
 self-hostable discord-compatible chat and voice platform
+
+自托管的兼容 Discord 的聊天和语音平台

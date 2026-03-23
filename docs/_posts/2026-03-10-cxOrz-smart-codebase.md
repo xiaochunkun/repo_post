@@ -7,3 +7,5 @@ image: assets/cxOrz_smart_codebase_20260309_115234_627_20260309_115438_789e08.pn
 # [cxOrz/smart-codebase](https://github.com/cxOrz/smart-codebase)
 
 Captures knowledge from coding sessions for AI agents
+
+从编码会话中捕获知识供 AI 代理使用

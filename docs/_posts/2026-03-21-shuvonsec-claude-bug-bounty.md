@@ -7,3 +7,5 @@ image: assets/shuvonsec_claude_bug_bounty_20260317_070313_947_20260317_070406_a7
 # [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
 
 AI co-pilot for bug bounty hunting
+
+漏洞赏金狩猎的 AI 副驾驶

@@ -7,3 +7,5 @@ image: assets/Datalore_ai_datalore_deepresearch_cli_20260118_045757_171_20260118
 # [Datalore-ai/datalore-deepresearch-cli](https://github.com/Datalore-ai/datalore-deepresearch-cli)
 
 Generates structured datasets from web research
+
+从 Web 研究生成结构化数据集

@@ -7,3 +7,5 @@ image: assets/agmmnn_awesome_blender_20260313_004126_359_20260313_004329_f094b2.
 # [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender)
 
 List of Blender add-ons and resources
+
+Blender 插件和资源列表

@@ -7,3 +7,5 @@ image: assets/20251014T005450763--FriesI23--mhabit--20251014T011351322--cropped.
 # [FriesI23/mhabit](https://github.com/FriesI23/mhabit)
 
 open source micro habit tracker with charts, sync, no ads
+
+开源微习惯追踪器，含图表、同步功能，无广告

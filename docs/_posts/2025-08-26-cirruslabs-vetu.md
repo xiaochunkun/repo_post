@@ -7,3 +7,5 @@ image: assets/20250825T031530286--cirruslabs--vetu--20250825T032308960--cropped.
 # [cirruslabs/vetu](https://github.com/cirruslabs/vetu)
 
 run cloud hypervisor vms on linux like containers
+
+在 Linux 上像容器一样运行云虚拟机

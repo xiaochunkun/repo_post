@@ -7,3 +7,5 @@ image: assets/michael_andreuzza_astrosaas_20251031_044910_322_20251031_205901_0d
 # [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas/)
 
 Starter kit for Astro and Tailwind CSS V4
+
+Astro 和 Tailwind CSS V4 的入门套件

@@ -7,3 +7,5 @@ image: assets/portapack_mayhem_mayhem_firmware_20251221_184907_994_20251221_1849
 # [portapack-mayhem/mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware/)
 
 Firmware for the HackRF and PortaPack
+
+HackRF 和 PortaPack 的固件

@@ -7,3 +7,5 @@ image: assets/ognjengt_founder_skills_20260212_161510_695_20260212_161647_9dded5
 # [ognjengt/founder-skills](https://github.com/ognjengt/founder-skills)
 
 Claude Code skills for business growth
+
+用于业务增长的 Claude Code 技能

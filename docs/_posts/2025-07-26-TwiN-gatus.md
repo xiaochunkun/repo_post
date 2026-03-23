@@ -7,3 +7,5 @@ image: assets/TwiN_gatus_cropped.png
 # [TwiN/gatus](https://github.com/TwiN/gatus)
 
 monitors your services and shows status
+
+监控服务并显示状态

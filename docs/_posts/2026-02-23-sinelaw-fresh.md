@@ -7,3 +7,5 @@ image: assets/sinelaw_fresh_20260210_204611_027_20260210_204627_1a496d.png
 # [sinelaw/fresh](https://github.com/sinelaw/fresh)
 
 Terminal text editor with mouse support and menus
+
+支持鼠标和菜单的终端文本编辑器

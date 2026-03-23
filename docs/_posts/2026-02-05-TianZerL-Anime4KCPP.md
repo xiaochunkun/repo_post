@@ -7,3 +7,5 @@ image: assets/TianZerL_Anime4KCPP_20260202_231746_753_20260202_231839_6a8e7e.png
 # [TianZerL/Anime4KCPP](https://github.com/TianZerL/Anime4KCPP)
 
 Upscales anime with CNN algorithms
+
+使用CNN算法提升动漫画质

@@ -7,3 +7,5 @@ image: assets/ARYPROGRAMMER_Video_Generator_AI_20260126_000803_218_20260126_0008
 # [ARYPROGRAMMER/Video-Generator-AI](https://github.com/ARYPROGRAMMER/Video-Generator-AI)
 
 Generates videos from text queries using Next.js and AI
+
+使用Next.js和AI从文本生成视频

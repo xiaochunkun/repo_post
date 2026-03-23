@@ -7,3 +7,5 @@ image: assets/yorkeccak_finance_20260116_131319_762_20260116_131334_576fd8.png
 # [yorkeccak/finance](https://github.com/yorkeccak/finance)
 
 Financial assistant with access to institutional data
+
+可访问机构数据的财务助手

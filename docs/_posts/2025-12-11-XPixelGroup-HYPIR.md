@@ -7,3 +7,5 @@ image: assets/XPixelGroup_HYPIR_20251209_001544_335_20251209_001609_89ec6a.png
 # [XPixelGroup/HYPIR](https://github.com/XPixelGroup/HYPIR/)
 
 Image restoration using diffusion-yielded score priors
+
+使用扩散生成分数先验的图像修复

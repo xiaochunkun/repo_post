@@ -7,3 +7,5 @@ image: assets/arabcoders_watchstate_20251120_044318_919_20251120_154701_4bbaec--
 # [arabcoders/watchstate](https://github.com/arabcoders/watchstate/)
 
 Syncs play state across media servers
+
+跨媒体服务器同步播放状态

@@ -7,3 +7,5 @@ image: assets/zidoro_pomatez_20260108_120835_611_20260108_120850_e8ce03.png
 # [zidoro/pomatez](https://github.com/zidoro/pomatez)
 
 Timer with task lists and screen breaks
+
+带有任务列表和屏幕休息的计时器

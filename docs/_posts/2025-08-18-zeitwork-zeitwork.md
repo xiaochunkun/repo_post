@@ -7,3 +7,5 @@ image: assets/zeitwork_zeitwork--20250817T082210653--cropped.png
 # [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)
 
 deploy apps from GitHub with every push using Zeitwork
+
+每次推送时通过Zeitwork从GitHub部署应用

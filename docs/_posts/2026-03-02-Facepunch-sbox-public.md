@@ -7,3 +7,5 @@ image: assets/Facepunch_sbox_public_20260228_062933_230_20260228_063104_b67eb3.p
 # [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
 
 Game engine on Source 2 and .NET
+
+基于 Source 2 和 .NET 的游戏引擎

@@ -7,3 +7,5 @@ image: assets/gustavosett_Windows_11_Clipboard_History_For_Linux_20260203_000018
 # [gustavosett/Windows-11-Clipboard-History-For-Linux](https://github.com/gustavosett/Windows-11-Clipboard-History-For-Linux)
 
 Clipboard manager for Wayland and X11
+
+适用于Wayland和X11的剪贴板管理器

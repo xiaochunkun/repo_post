@@ -7,3 +7,5 @@ image: assets/dotnetcore_EasyCaching_20251213_025327_274_20251213_025351_9e224f.
 # [dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching/)
 
 Open source caching library for .NET
+
+.NET 的开源缓存库

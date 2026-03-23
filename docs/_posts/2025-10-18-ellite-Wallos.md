@@ -7,3 +7,5 @@ image: assets/ellite_Wallos_20251017_222536_340_20251017_222723--20251018T002723
 # [ellite/Wallos](https://github.com/ellite/Wallos/)
 
 Tracks personal subscriptions
+
+跟踪个人订阅

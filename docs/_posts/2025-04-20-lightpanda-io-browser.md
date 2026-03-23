@@ -7,3 +7,5 @@ image: assets/lightpanda-io_browser_cropped.png
 # [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 
 lightweight headless browser for automating web tasks, AIagents, scraping, runs without GUI
+
+轻量级无头浏览器，用于自动化网页任务、AI代理、爬取，无GUI运行

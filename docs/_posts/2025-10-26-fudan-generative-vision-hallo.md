@@ -7,3 +7,5 @@ image: assets/fudan_generative_vision_hallo_20251025_111812_832_20251025_113240_
 # [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo/)
 
 Audio-driven synthesis for portrait image animation
+
+音频驱动的肖像图像动画合成

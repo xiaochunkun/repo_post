@@ -7,3 +7,5 @@ image: assets/jeremehancock_Posteria_20251125_033935_860_20251127_164708_43ec18-
 # [jeremehancock/Posteria](https://github.com/jeremehancock/Posteria/)
 
 Web-based Plex media poster management system
+
+基于 Web 的 Plex 媒体海报管理系统

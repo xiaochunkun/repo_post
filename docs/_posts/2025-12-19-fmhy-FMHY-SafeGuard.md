@@ -7,3 +7,5 @@ image: assets/fmhy_FMHY_SafeGuard_20251218_001907_003_20251218_001924_93637d.png
 # [fmhy/FMHY-SafeGuard](https://github.com/fmhy/FMHY-SafeGuard/)
 
 Checks websites against filterlists for safety
+
+根据过滤列表检查网站安全性

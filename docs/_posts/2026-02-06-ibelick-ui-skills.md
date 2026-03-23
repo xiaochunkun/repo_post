@@ -7,3 +7,5 @@ image: assets/ibelick_ui_skills_20260206_111948_484_20260206_112029_c670fe.png
 # [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
 
 Refines interfaces for AI agents
+
+优化AI代理的界面

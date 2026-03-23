@@ -7,3 +7,5 @@ image: assets/browserless_browserless_cropped.png
 # [browserless/browserless](https://github.com/browserless/browserless)
 
 headless browser automation in Docker
+
+Docker中的无头浏览器自动化

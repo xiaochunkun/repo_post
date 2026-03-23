@@ -7,3 +7,5 @@ image: assets/lhndo_LH_Stinger_20260101_061058_987_20260101_061113_54d379.png
 # [lhndo/LH-Stinger](https://github.com/lhndo/LH-Stinger/)
 
 Cartesian 3D printer for speed and precision
+
+高速高精度的笛卡尔 3D 打印机

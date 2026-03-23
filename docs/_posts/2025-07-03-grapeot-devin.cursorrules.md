@@ -7,3 +7,5 @@ image: assets/grapeot_devin.cursorrules_cropped.png
 # [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules)
 
 devin.cursorrules: tools for making Cursor work like Devin, with planning and self-evolving features
+
+devin.cursorrules：使Cursor像Devin一样工作的工具，具有规划和自进化功能

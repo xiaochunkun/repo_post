@@ -7,3 +7,5 @@ image: assets/openinframap_openinframap_20251221_025349_442_20251221_025406_ba35
 # [openinframap/openinframap](https://github.com/openinframap/openinframap/)
 
 Map of world infrastructure from OpenStreetMap
+
+基于 OpenStreetMap 的世界基础设施地图

@@ -7,3 +7,5 @@ image: assets/filebrowser_filebrowser_cropped.png
 # [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
 
 web app for browsing and managing files with multi-user support
+
+支持多用户的文件浏览和管理Web应用

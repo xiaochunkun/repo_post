@@ -7,3 +7,5 @@ image: assets/bRAGAI_bRAG_langchain_20260103_221127_215_20260103_221149_13f07d.p
 # [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain/)
 
 Notebooks for building RAG applications
+
+构建 RAG 应用的笔记本

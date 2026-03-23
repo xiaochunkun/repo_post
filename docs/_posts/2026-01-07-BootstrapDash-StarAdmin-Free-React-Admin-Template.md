@@ -7,3 +7,5 @@ image: assets/BootstrapDash_StarAdmin_Free_React_Admin_Template_20260106_171557_
 # [BootstrapDash/StarAdmin-Free-React-Admin-Template](https://github.com/BootstrapDash/StarAdmin-Free-React-Admin-Template/)
 
 React admin template with Bootstrap components
+
+使用 Bootstrap 组件的 React 管理模板

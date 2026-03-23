@@ -7,3 +7,5 @@ image: assets/20251012T025631455--MinhasKamal--DownGit--20251012T030318435--crop
 # [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit)
 
 download specific folders or files from any GitHub repo without cloning the whole thing
+
+从 GitHub 仓库下载特定文件夹或文件，无需克隆整个仓库

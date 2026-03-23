@@ -7,3 +7,5 @@ image: assets/BAI_LAB_Survey_on_AI_Memory_20260308_202834_446_20260308_203007_0d
 # [BAI-LAB/Survey-on-AI-Memory](https://github.com/BAI-LAB/Survey-on-AI-Memory)
 
 Framework for AI memory mechanisms and taxonomies
+
+AI记忆机制和分类学的框架

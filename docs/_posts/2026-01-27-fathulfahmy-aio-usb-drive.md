@@ -7,3 +7,5 @@ image: assets/fathulfahmy_aio_usb_drive_20260122_001233_509_20260122_001257_1be3
 # [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive)
 
 Multiboot USB drive with diagnostic and rescue tools
+
+包含诊断和救援工具的多启动USB驱动器

@@ -7,3 +7,5 @@ image: assets/ProxymanApp_Proxyman_20260123_111109_473_20260123_111146_b0dbfd.pn
 # [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman)
 
 Captures and inspects network traffic on macOS
+
+在 macOS 上捕获和检查网络流量

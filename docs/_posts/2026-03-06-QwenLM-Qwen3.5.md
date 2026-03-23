@@ -7,3 +7,5 @@ image: assets/QwenLM_Qwen3_5_20260305_030333_693_20260305_030506_af09f7.png
 # [QwenLM/Qwen3.5](https://github.com/QwenLM/Qwen3.5)
 
 Series of language models for multimodal learning and reasoning
+
+用于多模态学习和推理的语言模型系列

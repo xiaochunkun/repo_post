@@ -7,3 +7,5 @@ image: assets/RomRider_apexcharts_card_20251109_160139_169_20251109_163624_a26ce
 # [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card/)
 
 Customizable graph card for Home Assistant
+
+Home Assistant的可定制图表卡片

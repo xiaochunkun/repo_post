@@ -7,3 +7,5 @@ image: assets/bloom42_markdown_ninja_20251226_001041_306_20251226_001058_ebacb3.
 # [bloom42/markdown-ninja](https://github.com/bloom42/markdown-ninja/)
 
 CMS for blogs and newsletters
+
+用于博客和新闻通讯的内容管理系统

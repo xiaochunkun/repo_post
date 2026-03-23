@@ -7,3 +7,5 @@ image: assets/20250910T025901607--temporalio--temporal--20250910T030217582--crop
 # [temporalio/temporal](https://github.com/temporalio/temporal)
 
 open source platform for building fault-tolerant, scalable workflows
+
+构建容错可扩展工作流的开源平台

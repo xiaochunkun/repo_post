@@ -7,3 +7,5 @@ image: assets/kgretzky_evilginx2_20251018_163046_506_20251018_180941--20251018T2
 # [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2/)
 
 Man-in-the-middle framework for phishing credentials and 2FA bypass
+
+中间人框架，用于钓鱼凭证和绕过2FA

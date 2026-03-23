@@ -7,3 +7,5 @@ image: assets/cloudquery_cloudquery_20260305_141722_639_20260305_141841_291f03.p
 # [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)
 
 Tool for syncing cloud infrastructure metadata into data warehouses
+
+将云基础设施元数据同步到数据仓库的工具

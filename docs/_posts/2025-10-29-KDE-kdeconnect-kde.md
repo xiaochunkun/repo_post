@@ -7,3 +7,5 @@ image: assets/KDE_kdeconnect_kde_20251029_082333_049_20251029_093248_e12895--202
 # [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde/)
 
 Sync notifications and clipboard between phone and computer
+
+在手机和电脑之间同步通知和剪贴板

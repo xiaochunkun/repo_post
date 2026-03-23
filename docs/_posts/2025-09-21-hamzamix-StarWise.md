@@ -7,3 +7,5 @@ image: assets/20250920T065540381--hamzamix--StarWise--20250920T070931872--croppe
 # [hamzamix/StarWise](https://github.com/hamzamix/StarWise)
 
 organize GitHub stars with AI tagging and smart lists
+
+通过 AI 标签和智能列表组织 GitHub stars

@@ -7,3 +7,5 @@ image: assets/20250927T041716345--microsoft--fluentui-emoji--20250927T042655178-
 # [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
 modern emoji collection from Microsoft
+
+微软提供的现代表情符号集合

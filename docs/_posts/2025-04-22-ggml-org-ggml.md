@@ -7,3 +7,5 @@ image: assets/ggml-org_ggml_cropped.png
 # [ggml-org/ggml](https://github.com/ggml-org/ggml)
 
 tensor library for machine learning with support for hardware acceleration and model inference
+
+用于机器学习的张量库，支持硬件加速和模型推理

@@ -7,3 +7,5 @@ image: assets/ariga_atlas_20251110_115902_800_20251110_120640_a5cd0d--20251110T1
 # [ariga/atlas](https://github.com/ariga/atlas/)
 
 Declarative, language-agnostic database schema management
+
+声明式、语言无关的数据库模式管理

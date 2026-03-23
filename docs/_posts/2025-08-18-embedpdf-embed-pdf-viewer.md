@@ -7,3 +7,5 @@ image: assets/20250817T081146952_embedpdf_embed-pdf-viewer--20250817T081400165--
 # [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer)
 
 open source JavaScript PDF viewer with annotations and redaction
+
+支持注释和编辑的开源 JavaScript PDF 查看器

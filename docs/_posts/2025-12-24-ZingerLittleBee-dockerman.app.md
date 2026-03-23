@@ -7,3 +7,5 @@ image: assets/ZingerLittleBee_dockerman_app_20251222_173304_964_20251222_173323_
 # [ZingerLittleBee/dockerman.app](https://github.com/ZingerLittleBee/dockerman.app/)
 
 Docker management interface built with Tauri and Rust
+
+使用Tauri和Rust构建的Docker管理界面

@@ -7,3 +7,5 @@ image: assets/oxia_db_oxia_20260115_220502_831_20260115_220551_3ece14.png
 # [oxia-db/oxia](https://github.com/oxia-db/oxia)
 
 Metadata store with sharding for high-throughput systems
+
+用于高吞吐量系统的分片元数据存储

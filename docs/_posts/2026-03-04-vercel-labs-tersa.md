@@ -7,3 +7,5 @@ image: assets/vercel_labs_tersa_20260303_082035_313_20260303_082219_5c825c.png
 # [vercel-labs/tersa](https://github.com/vercel-labs/tersa)
 
 Canvas for building AI workflows
+
+构建 AI 工作流的画布

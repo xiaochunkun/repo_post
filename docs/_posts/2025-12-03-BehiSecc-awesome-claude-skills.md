@@ -7,3 +7,5 @@ image: assets/BehiSecc_awesome_claude_skills_20251201_072759_713_20251201_072838
 # [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills/)
 
 Curated list of tools extending Claude capabilities
+
+扩展 Claude 功能的工具精选列表

@@ -7,3 +7,5 @@ image: assets/invertase_docs_page_20251201_020315_276_20251201_020338_06ee93.png
 # [invertase/docs.page](https://github.com/invertase/docs.page/)
 
 Instant documentation websites with zero configuration
+
+零配置即时文档网站

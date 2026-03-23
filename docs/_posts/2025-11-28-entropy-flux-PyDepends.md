@@ -7,3 +7,5 @@ image: assets/entropy_flux_PyDepends_20251125_053945_733_20251127_170914_e5ab01-
 # [entropy-flux/PyDepends](https://github.com/entropy-flux/PyDepends/)
 
 Dependency injection library for Python
+
+Python 依赖注入库

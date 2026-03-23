@@ -7,3 +7,5 @@ image: assets/h9_tec_Intelligent_Customer_Agents_20251122_121126_909_20251122_22
 # [h9-tec/Intelligent_Customer_Agents](https://github.com/h9-tec/Intelligent_Customer_Agents/)
 
 WhatsApp commerce backend with AI recommendations
+
+带 AI 推荐的 WhatsApp 商务后端

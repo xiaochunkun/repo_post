@@ -7,3 +7,5 @@ image: assets/Quanta_Naut_peargent_20251225_100030_519_20251225_100048_8aff00.pn
 # [Quanta-Naut/peargent](https://github.com/Quanta-Naut/peargent/)
 
 Python framework for building AI agents
+
+用于构建 AI 代理的 Python 框架

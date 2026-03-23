@@ -7,3 +7,5 @@ image: assets/tryemerge_vibe_factory_20260202_010823_391_20260202_010906_4e5be9.
 # [tryemerge/vibe-factory](https://github.com/tryemerge/vibe-factory)
 
 Kanban board for managing AI coding agents
+
+管理AI编码代理的看板

@@ -7,3 +7,5 @@ image: assets/20250901T033758101--espeak-ng--espeak-ng--20250901T034109127--crop
 # [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
 
 open source text-to-speech engine for 100+ languages
+
+支持 100+ 种语言的开源文本转语音引擎

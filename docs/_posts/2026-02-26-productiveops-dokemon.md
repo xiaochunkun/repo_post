@@ -7,3 +7,5 @@ image: assets/productiveops_dokemon_20260130_024508_029_20260130_024541_160c1b.p
 # [productiveops/dokemon](https://github.com/productiveops/dokemon)
 
 GUI for managing Docker containers across multiple servers
+
+跨多服务器管理Docker容器的GUI

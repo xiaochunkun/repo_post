@@ -7,3 +7,5 @@ image: assets/axtrur_awesome_ai_system_prompts_20251222_010921_514_20251222_0109
 # [axtrur/awesome-ai-system-prompts](https://github.com/axtrur/awesome-ai-system-prompts/)
 
 System prompts for AI agents
+
+AI 代理的系统提示

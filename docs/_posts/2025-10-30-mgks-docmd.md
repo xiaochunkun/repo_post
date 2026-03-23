@@ -7,3 +7,5 @@ image: assets/mgks_docmd_20251029_231721_540_20251030_001909_47addb--20251030T01
 # [mgks/docmd](https://github.com/mgks/docmd/)
 
 Generates static documentation sites from Markdown with a focus on zero clutter
+
+从 Markdown 生成静态文档站点，专注于零杂乱

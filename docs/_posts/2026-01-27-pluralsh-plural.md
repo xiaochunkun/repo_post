@@ -7,3 +7,5 @@ image: assets/pluralsh_plural_20260127_001356_721_20260127_001447_85f720.png
 # [pluralsh/plural](https://github.com/pluralsh/plural)
 
 Deploys applications to Kubernetes using GitOps and AI insights
+
+使用GitOps和AI洞察部署应用到Kubernetes

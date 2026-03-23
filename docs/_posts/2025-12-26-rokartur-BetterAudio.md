@@ -7,3 +7,5 @@ image: assets/rokartur_BetterAudio_20251225_015832_944_20251225_015851_08e209.pn
 # [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio/)
 
 Manages audio devices from the macOS menu bar
+
+从 macOS 菜单栏管理音频设备

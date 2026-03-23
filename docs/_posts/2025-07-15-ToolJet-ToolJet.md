@@ -7,3 +7,5 @@ image: assets/ToolJet_ToolJet_cropped.png
 # [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 
 open-source low-code platform for building internal tools
+
+用于构建内部工具的开源低代码平台

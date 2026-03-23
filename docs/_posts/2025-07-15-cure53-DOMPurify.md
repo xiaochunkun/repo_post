@@ -7,3 +7,5 @@ image: assets/cure53_DOMPurify_cropped.png
 # [cure53/DOMPurify](https://github.com/cure53/DOMPurify)
 
 sanitize user HTML in the browser
+
+在浏览器中清理用户HTML

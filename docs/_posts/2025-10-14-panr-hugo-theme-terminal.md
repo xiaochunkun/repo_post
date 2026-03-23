@@ -7,3 +7,5 @@ image: assets/20251014T011007852--panr--hugo-theme-terminal--20251014T012006154-
 # [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal)
 
 retro terminal-inspired Hugo theme with color scheme customization
+
+复古终端风格的 Hugo 主题，支持颜色方案自定义

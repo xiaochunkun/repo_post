@@ -7,3 +7,5 @@ image: assets/vaibhavpandeyvpz_apkstudio_20260213_215813_087_20260213_215854_4db
 # [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)
 
 IDE for reverse-engineering Android packages
+
+用于逆向工程Android包的IDE

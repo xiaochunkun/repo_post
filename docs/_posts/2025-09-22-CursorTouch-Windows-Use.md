@@ -7,3 +7,5 @@ image: assets/20250922T025537544--CursorTouch--Windows-Use--20250922T030251728--
 # [CursorTouch/Windows-Use](https://github.com/CursorTouch/Windows-Use)
 
 lets AI agents control Windows apps and UI directly
+
+让 AI 代理直接控制 Windows 应用和 UI

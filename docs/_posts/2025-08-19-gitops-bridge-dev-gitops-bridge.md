@@ -7,3 +7,5 @@ image: assets/20250818T113815317_gitops-bridge-dev_gitops-bridge--20250818T11410
 # [gitops-bridge-dev/gitops-bridge](https://github.com/gitops-bridge-dev/gitops-bridge)
 
 connects IaC tools like Terraform with GitOps for Kubernetes cluster management
+
+连接Terraform等IaC工具与GitOps，用于Kubernetes集群管理

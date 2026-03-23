@@ -7,3 +7,5 @@ image: assets/20251001T202729479--samuelmaddock--metastream--20251001T202919714-
 # [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream)
 
 sync streaming videos with friends
+
+与朋友同步流媒体视频

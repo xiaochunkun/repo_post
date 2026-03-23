@@ -7,3 +7,5 @@ image: assets/Turbo1123_LauncherTurbo_20260130_165746_666_20260130_165844_67bfe3
 # [Turbo1123/LauncherTurbo](https://github.com/Turbo1123/LauncherTurbo)
 
 Launchpad with Core Animation for macOS Tahoe
+
+适用于macOS Tahoe的带Core Animation的启动板

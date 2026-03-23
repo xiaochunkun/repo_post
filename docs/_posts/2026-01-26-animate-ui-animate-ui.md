@@ -7,3 +7,5 @@ image: assets/animate_ui_animate_ui_20260116_105416_436_20260116_105431_a0ccd3.p
 # [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui)
 
 Component distribution with React and Motion
+
+React和Motion组件分发库

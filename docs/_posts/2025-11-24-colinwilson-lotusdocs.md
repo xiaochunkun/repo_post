@@ -7,3 +7,5 @@ image: assets/colinwilson_lotusdocs_20251123_092251_042_20251124_002313_35e3e5--
 # [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs/)
 
 Hugo theme for documentation sites
+
+文档站点的 Hugo 主题

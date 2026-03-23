@@ -7,3 +7,5 @@ image: assets/PrivateBin_PrivateBin_cropped.png
 # [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
 
 minimalist pastebin for private, encrypted sharing
+
+简约的粘贴板，用于私密加密分享

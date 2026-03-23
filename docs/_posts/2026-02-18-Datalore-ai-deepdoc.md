@@ -7,3 +7,5 @@ image: assets/Datalore_ai_deepdoc_20260121_224302_031_20260121_224323_5be4a7.png
 # [Datalore-ai/deepdoc](https://github.com/Datalore-ai/deepdoc)
 
 Generates research reports from local files using agents
+
+使用代理从本地文件生成研究报告

@@ -7,3 +7,5 @@ image: assets/kevinwatt_yt_dlp_mcp_20251127_191241_158_20251130_082314_86636b--2
 # [kevinwatt/yt-dlp-mcp](https://github.com/kevinwatt/yt-dlp-mcp/)
 
 MCP server bringing video platform capabilities to AI agents
+
+为 AI 代理提供视频平台功能的 MCP 服务器

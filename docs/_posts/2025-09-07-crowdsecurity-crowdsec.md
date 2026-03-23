@@ -7,3 +7,5 @@ image: assets/20250906T223740157--crowdsecurity--crowdsec--20250906T223839073--c
 # [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
 
 open-source tool for crowdsourced server protection
+
+众包式服务器保护的开源工具

@@ -7,3 +7,5 @@ image: assets/TrustTunnel_TrustTunnel_20260207_031004_548_20260207_031049_42a214
 # [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel)
 
 VPN protocol mimicking HTTPS traffic to bypass deep-packet inspection
+
+模拟HTTPS流量以绕过深度包检测的VPN协议

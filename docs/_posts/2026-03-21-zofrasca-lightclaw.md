@@ -7,3 +7,5 @@ image: assets/zofrasca_lightclaw_20260321_061934_495_20260321_062057_a62389.png
 # [zofrasca/lightclaw](https://github.com/zofrasca/lightclaw)
 
 Rust single binary local-first AI agent
+
+Rust 单二进制本地优先 AI 代理

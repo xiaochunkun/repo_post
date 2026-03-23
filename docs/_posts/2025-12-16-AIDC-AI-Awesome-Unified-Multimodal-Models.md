@@ -7,3 +7,5 @@ image: assets/AIDC_AI_Awesome_Unified_Multimodal_Models_20251213_133311_324_2025
 # [AIDC-AI/Awesome-Unified-Multimodal-Models](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models/)
 
 Survey of unified multimodal models
+
+统一多模态模型综述

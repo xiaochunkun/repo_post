@@ -7,3 +7,5 @@ image: assets/TypingMind_typingmind_20260311_105337_294_20260311_105448_0c0a26.p
 # [TypingMind/typingmind](https://github.com/TypingMind/typingmind)
 
 Chat UI for multiple AI models
+
+多AI模型的聊天界面

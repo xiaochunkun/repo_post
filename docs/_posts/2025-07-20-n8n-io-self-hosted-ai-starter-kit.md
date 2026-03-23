@@ -7,3 +7,5 @@ image: assets/n8n-io_self-hosted-ai-starter-kit_cropped.png
 # [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 
 self-hosted AI workflows with n8n, Ollama, Qdrant, and Postgres
+
+使用n8n、Ollama、Qdrant和Postgres的自托管AI工作流工具包

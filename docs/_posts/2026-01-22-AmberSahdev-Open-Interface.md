@@ -7,3 +7,5 @@ image: assets/AmberSahdev_Open_Interface_20260122_002113_043_20260122_002141_fcf
 # [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)
 
 Autopilot for computers using LLMs
+
+使用 LLMs 的计算机自动驾驶仪

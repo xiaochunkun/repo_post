@@ -7,3 +7,5 @@ image: assets/rebornix_Agmente_20260305_160626_405_20260305_160821_96aebb.png
 # [rebornix/Agmente](https://github.com/rebornix/Agmente)
 
 Connect to coding agents via iOS
+
+通过 iOS 连接编码智能体

@@ -7,3 +7,5 @@ image: assets/yusing_godoxy_cropped.png
 # [yusing/godoxy](https://github.com/yusing/godoxy)
 
 Lightweight reverse proxy with WebUI and Docker integration
+
+集成WebUI和Docker的轻量级反向代理

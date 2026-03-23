@@ -7,3 +7,5 @@ image: assets/20250818T124548062_bugbakery_audapolis--20250818T125151847--croppe
 # [bugbakery/audapolis](https://github.com/bugbakery/audapolis)
 
 edit spoken-word audio with automatic transcription
+
+使用自动转录编辑口语音频

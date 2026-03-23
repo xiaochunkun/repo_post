@@ -7,3 +7,5 @@ image: assets/lnbits_lnbits_20251216_051809_276_20251216_051903_bc7c95.png
 # [lnbits/lnbits](https://github.com/lnbits/lnbits/)
 
 Lightweight Python server for Bitcoin and Lightning wallets
+
+轻量级Python服务器，用于Bitcoin和Lightning钱包

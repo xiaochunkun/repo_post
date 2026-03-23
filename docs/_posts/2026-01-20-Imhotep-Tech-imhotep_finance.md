@@ -7,3 +7,5 @@ image: assets/Imhotep_Tech_imhotep_finance_20260111_211123_275_20260111_211137_4
 # [Imhotep-Tech/imhotep_finance](https://github.com/Imhotep-Tech/imhotep_finance)
 
 Finance manager with automated transactions and budget tracking
+
+财务管理工具，带自动化交易和预算跟踪

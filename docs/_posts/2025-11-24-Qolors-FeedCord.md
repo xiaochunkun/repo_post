@@ -7,3 +7,5 @@ image: assets/Qolors_FeedCord_20251123_090404_760_20251124_002225_cd9e9b--202511
 # [Qolors/FeedCord](https://github.com/Qolors/FeedCord/)
 
 Self-hosted RSS reader for Discord
+
+Discord 的自托管 RSS 阅读器

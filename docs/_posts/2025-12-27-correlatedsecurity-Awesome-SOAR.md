@@ -7,3 +7,5 @@ image: assets/correlatedsecurity_Awesome_SOAR_20251225_214318_896_20251225_21433
 # [correlatedsecurity/Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR/)
 
 Resources for security orchestration, automation, and response
+
+安全编排、自动化和响应资源

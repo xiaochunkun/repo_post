@@ -7,3 +7,5 @@ image: assets/sbrin_lopaka_20260204_042415_478_20260204_042430_233c53.png
 # [sbrin/lopaka](https://github.com/sbrin/lopaka)
 
 Generates C++ code for embedded displays
+
+为嵌入式显示器生成C++代码

@@ -7,3 +7,5 @@ image: assets/dunglas_frankenphp_queue_20251123_183210_000_20251124_184255_34f67
 # [dunglas/frankenphp-queue](https://github.com/dunglas/frankenphp-queue/)
 
 In-process replacement for message queues
+
+消息队列的进程内替代方案

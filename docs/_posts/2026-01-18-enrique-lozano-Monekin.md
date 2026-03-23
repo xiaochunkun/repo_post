@@ -7,3 +7,5 @@ image: assets/enrique_lozano_Monekin_20260117_232801_111_20260117_232820_5fe852.
 # [enrique-lozano/Monekin](https://github.com/enrique-lozano/Monekin)
 
 Open source finance manager without internet requirements
+
+无需互联网的开源财务管理器

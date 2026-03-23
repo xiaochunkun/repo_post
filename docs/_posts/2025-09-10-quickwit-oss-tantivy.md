@@ -7,3 +7,5 @@ image: assets/20250910T024745593--quickwit-oss--tantivy--20250910T025101798--cro
 # [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy)
 
 full-text search engine library for Rust apps
+
+Rust 应用的全文搜索引擎库

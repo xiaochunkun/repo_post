@@ -7,3 +7,5 @@ image: assets/luigifcruz_pisdr_image_20251030_022213_477_20251030_164304_62ae1f-
 # [luigifcruz/pisdr-image](https://github.com/luigifcruz/pisdr-image/)
 
 Raspbian image with SDR software pre-installed
+
+预装 SDR 软件的 Raspbian 镜像

@@ -7,3 +7,5 @@ image: assets/WeChatCV_Stand_In_20251126_115003_566_20251129_022847_2887a8--2025
 # [WeChatCV/Stand-In](https://github.com/WeChatCV/Stand-In/)
 
 Identity-preserving video generation framework
+
+身份保持视频生成框架

@@ -7,3 +7,5 @@ image: assets/ading2210_linuxpdf_20260309_102931_630_20260309_103109_b91244.png
 # [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)
 
 Linux kernel execution inside a PDF file
+
+在PDF文件内执行Linux内核

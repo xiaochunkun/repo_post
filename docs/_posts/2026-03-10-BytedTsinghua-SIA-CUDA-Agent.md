@@ -7,3 +7,5 @@ image: assets/BytedTsinghua_SIA_CUDA_Agent_20260308_174920_137_20260308_175143_8
 # [BytedTsinghua-SIA/CUDA-Agent](https://github.com/BytedTsinghua-SIA/CUDA-Agent)
 
 Reinforcement learning model for CUDA kernel generation
+
+用于 CUDA 内核生成的强化学习模型

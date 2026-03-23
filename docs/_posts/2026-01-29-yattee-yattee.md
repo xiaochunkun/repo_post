@@ -7,3 +7,5 @@ image: assets/yattee_yattee_20260128_081558_231_20260128_081632_f37a70.png
 # [yattee/yattee](https://github.com/yattee/yattee)
 
 Video player for iOS, tvOS and macOS
+
+适用于 iOS、tvOS 和 macOS 的视频播放器

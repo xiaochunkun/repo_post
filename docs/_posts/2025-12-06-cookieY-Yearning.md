@@ -7,3 +7,5 @@ image: assets/cookieY_Yearning_20251203_013533_704_20251203_013559_1a2358.png
 # [cookieY/Yearning](https://github.com/cookieY/Yearning/)
 
 SQL audit platform for MySQL
+
+MySQL的SQL审计平台

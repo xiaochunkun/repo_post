@@ -7,3 +7,5 @@ image: assets/tysonthomas9_browser-operator-devtools-frontend_cropped.png
 # [tysonthomas9/browser-operator-devtools-frontend](https://github.com/tysonthomas9/browser-operator-devtools-frontend)
 
 Browser Operator frontend for automating browser tasks like navigation, clicks, and form filling using AI providers
+
+Browser Operator 前端，用于使用 AI 提供商自动化浏览器任务，如导航、点击和表单填写

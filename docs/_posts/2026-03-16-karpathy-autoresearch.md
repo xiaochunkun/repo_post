@@ -7,3 +7,5 @@ image: assets/karpathy_autoresearch_20260316_054657_873_20260316_054736_3da33f.p
 # [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
 
 Autonomous AI agent LLM training system
+
+自主 AI 代理 LLM 训练系统

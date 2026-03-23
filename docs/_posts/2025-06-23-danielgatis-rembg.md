@@ -7,3 +7,5 @@ image: assets/danielgatis_rembg_cropped.png
 # [danielgatis/rembg](https://github.com/danielgatis/rembg)
 
 removes backgrounds from images
+
+从图像中移除背景

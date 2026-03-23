@@ -7,3 +7,5 @@ image: assets/nirbar1985_ai_travel_agent_20251027_183742_809_20251028_090655_218
 # [nirbar1985/ai-travel-agent](https://github.com/nirbar1985/ai-travel-agent/)
 
 A travel agent built with LangGraph
+
+使用 LangGraph 构建的旅行代理

@@ -7,3 +7,5 @@ image: assets/jeremylongshore_claude_code_plugins_plus_20260116_103353_098_20260
 # [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)
 
 Plugins and agent skills with tutorials for Claude Code
+
+Claude Code的插件和代理技能教程

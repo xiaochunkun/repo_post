@@ -7,3 +7,5 @@ image: assets/nuxt_devtools_20260111_031917_937_20260111_031932_4a2450.png
 # [nuxt/devtools](https://github.com/nuxt/devtools)
 
 Visual tools for Nuxt applications
+
+Nuxt应用的可视化工具

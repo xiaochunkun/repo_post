@@ -7,3 +7,5 @@ image: assets/bjesus_pipet_20251018_204036_965_20251018_225824--20251019T0058249
 # [bjesus/pipet](https://github.com/bjesus/pipet/)
 
 Scrapes and extracts online data
+
+抓取和提取在线数据

@@ -7,3 +7,5 @@ image: assets/20251009T050518484--firecow--gitlab-ci-local--20251009T051158674--
 # [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)
 
 run GitLab CI pipelines on your machine without pushing commits
+
+无需推送提交即可在本地运行 GitLab CI 流水线

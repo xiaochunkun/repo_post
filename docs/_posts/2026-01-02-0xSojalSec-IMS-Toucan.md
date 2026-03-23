@@ -7,3 +7,5 @@ image: assets/0xSojalSec_IMS_Toucan_20260101_105545_020_20260101_105600_1266e8.p
 # [0xSojalSec/IMS-Toucan](https://github.com/0xSojalSec/IMS-Toucan/)
 
 Synthesizes speech in 7000 languages
+
+支持7000种语言的语音合成

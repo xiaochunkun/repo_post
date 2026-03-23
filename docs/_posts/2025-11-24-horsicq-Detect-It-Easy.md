@@ -7,3 +7,5 @@ image: assets/horsicq_Detect_It_Easy_20251123_170118_509_20251124_003631_d2f095-
 # [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy/)
 
 Identifies file types via signatures and heuristics
+
+通过签名和启发式方法识别文件类型

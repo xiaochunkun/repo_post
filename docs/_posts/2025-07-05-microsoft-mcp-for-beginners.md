@@ -7,3 +7,5 @@ image: assets/microsoft_mcp-for-beginners_cropped.png
 # [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 
 Model Context Protocol basics and code samples for learning and practice
+
+Model Context Protocol 基础知识和用于学习实践的代码示例

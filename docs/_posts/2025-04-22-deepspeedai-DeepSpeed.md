@@ -7,3 +7,5 @@ image: assets/deepspeedai_DeepSpeed_cropped.png
 # [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)
 
 DeepSpeed: library for scaling and optimizing deep learning training and inference
+
+DeepSpeed：用于扩展和优化深度学习训练和推理的库

@@ -7,3 +7,5 @@ image: assets/martenframework_marten_cropped.png
 # [martenframework/marten](https://github.com/martenframework/marten)
 
 Crystal web framework for building web apps and APIs
+
+用于构建Web应用和API的Crystal Web框架

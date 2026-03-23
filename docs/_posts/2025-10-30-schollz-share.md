@@ -7,3 +7,5 @@ image: assets/schollz_share_20251029_212257_816_20251029_213416_9feb26--20251029
 # [schollz/share](https://github.com/schollz/share/)
 
 End-to-end encrypted file transfer via web or CLI
+
+通过 Web 或 CLI 的端到端加密文件传输

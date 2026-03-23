@@ -7,3 +7,5 @@ image: assets/ramokz_phantom_camera_20251210_050935_417_20251210_051054_b9f6e3.p
 # [ramokz/phantom-camera](https://github.com/ramokz/phantom-camera/)
 
 Control and tween 2D & 3D cameras in Godot 4
+
+Godot 4 中 2D 与 3D 相机控制与补间工具

@@ -7,3 +7,5 @@ image: assets/mathesar-foundation_mathesar_cropped.png
 # [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)
 
 open source spreadsheet UI for Postgres databases
+
+Postgres数据库的开源电子表格UI

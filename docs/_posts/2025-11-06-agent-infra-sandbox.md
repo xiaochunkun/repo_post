@@ -7,3 +7,5 @@ image: assets/agent_infra_sandbox_20251106_020859_291_20251106_133237_c9074a--20
 # [agent-infra/sandbox](https://github.com/agent-infra/sandbox/)
 
 Agent sandbox environment with browser, shell, and file access
+
+具有浏览器、shell 和文件访问权限的代理沙箱环境

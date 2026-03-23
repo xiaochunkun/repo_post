@@ -7,3 +7,5 @@ image: assets/dbish_DispatchMail--20250818T111142580--cropped.png
 # [dbish/DispatchMail](https://github.com/dbish/DispatchMail)
 
 AI-powered email inbox you run locally
+
+本地运行的AI驱动电子邮件收件箱

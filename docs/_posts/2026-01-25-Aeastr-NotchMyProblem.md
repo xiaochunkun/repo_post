@@ -7,3 +7,5 @@ image: assets/Aeastr_NotchMyProblem_20260112_004439_095_20260112_004452_e350d0.p
 # [Aeastr/NotchMyProblem](https://github.com/Aeastr/NotchMyProblem)
 
 Positions UI elements around the iPhone notch or Dynamic Island
+
+围绕iPhone刘海屏或灵动岛定位UI元素

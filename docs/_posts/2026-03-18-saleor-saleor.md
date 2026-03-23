@@ -7,3 +7,5 @@ image: assets/saleor_saleor_20260317_155854_408_20260317_155941_5ceb94.png
 # [saleor/saleor](https://github.com/saleor/saleor)
 
 GraphQL API platform for commerce
+
+用于商业的GraphQL API平台

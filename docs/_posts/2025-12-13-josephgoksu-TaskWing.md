@@ -7,3 +7,5 @@ image: assets/josephgoksu_TaskWing_20251210_022721_944_20251210_022745_25f879.pn
 # [josephgoksu/TaskWing](https://github.com/josephgoksu/TaskWing/)
 
 AI-powered CLI task manager with MCP integration
+
+集成 MCP 的 AI 驱动 CLI 任务管理器

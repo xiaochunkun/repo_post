@@ -7,3 +7,5 @@ image: assets/pydantic_pydantic_ai_gateway_20251130_074307_061_20251201_003950_9
 # [pydantic/pydantic-ai-gateway](https://github.com/pydantic/pydantic-ai-gateway/)
 
 Open source AI gateway without API harmonization
+
+无需API协调的开源AI网关

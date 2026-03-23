@@ -7,3 +7,5 @@ image: assets/orbitersim_orbiter_20260202_223450_438_20260202_223518_6db815.png
 # [orbitersim/orbiter](https://github.com/orbitersim/orbiter)
 
 Spaceflight simulator based on Newtonian mechanics
+
+基于牛顿力学的太空飞行模拟器

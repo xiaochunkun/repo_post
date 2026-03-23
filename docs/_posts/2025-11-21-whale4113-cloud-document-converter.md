@@ -7,3 +7,5 @@ image: assets/whale4113_cloud_document_converter_20251120_060500_224_20251121_01
 # [whale4113/cloud-document-converter](https://github.com/whale4113/cloud-document-converter/)
 
 Browser extension converts Lark Docs to Markdown
+
+浏览器扩展将 Lark Docs 转换为 Markdown

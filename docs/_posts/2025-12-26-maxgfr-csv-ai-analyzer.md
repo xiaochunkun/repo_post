@@ -7,3 +7,5 @@ image: assets/maxgfr_csv_ai_analyzer_20251225_095713_627_20251225_095733_74230b.
 # [maxgfr/csv-ai-analyzer](https://github.com/maxgfr/csv-ai-analyzer/)
 
 Analyzes CSV files with AI providers in the browser
+
+在浏览器中使用 AI 提供商分析 CSV 文件

@@ -7,3 +7,5 @@ image: assets/gridstack_gridstack_js_20260320_013914_478_20260320_014752_de54ec.
 # [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js)
 
 Drag-and-drop responsive dashboard library
+
+拖放式响应式仪表板库

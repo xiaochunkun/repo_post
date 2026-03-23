@@ -7,3 +7,5 @@ image: assets/arfct_itty_bitty_20251031_025807_147_20251031_141009_fd99ac--20251
 # [arfct/itty-bitty](https://github.com/arfct/itty-bitty/)
 
 Compresses data into a shareable URL fragment
+
+将数据压缩成可分享的 URL 片段

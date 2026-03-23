@@ -7,3 +7,5 @@ image: assets/20250908T094119490--TypeCellOS--BlockNote--20250908T094625374--cro
 # [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
 
 block-based rich text editor for React apps
+
+面向 React 应用的块级富文本编辑器

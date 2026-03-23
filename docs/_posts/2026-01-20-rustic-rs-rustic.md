@@ -7,3 +7,5 @@ image: assets/rustic_rs_rustic_20260119_024051_146_20260119_024105_f3b384.png
 # [rustic-rs/rustic](https://github.com/rustic-rs/rustic)
 
 Deduplicated backups in Rust
+
+用Rust实现的去重备份

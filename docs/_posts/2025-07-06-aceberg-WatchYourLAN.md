@@ -7,3 +7,5 @@ image: assets/aceberg_WatchYourLAN_cropped.png
 # [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 
 Network IP scanner with web dashboard, tracks devices and notifies on new connections
+
+带有 Web 仪表板的网络 IP 扫描器，跟踪设备并在新连接时通知

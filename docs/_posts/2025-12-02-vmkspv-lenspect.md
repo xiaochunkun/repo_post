@@ -7,3 +7,5 @@ image: assets/vmkspv_lenspect_20251201_034912_671_20251201_035034_785b40.png
 # [vmkspv/lenspect](https://github.com/vmkspv/lenspect/)
 
 VirusTotal-powered security threat scanner
+
+基于 VirusTotal 的安全威胁扫描器

@@ -7,3 +7,5 @@ image: assets/shallowdream204_BitDance_20260309_081305_650_20260309_081817_eee16
 # [shallowdream204/BitDance](https://github.com/shallowdream204/BitDance)
 
 Generates images using autoregressive model with binary tokens
+
+使用二进制令牌的自回归模型生成图像

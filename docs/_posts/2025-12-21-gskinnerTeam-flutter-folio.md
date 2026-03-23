@@ -7,3 +7,5 @@ image: assets/gskinnerTeam_flutter_folio_20251218_103034_910_20251218_103050_1f7
 # [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio/)
 
 Multi-platform app for desktop, mobile, and web
+
+跨平台应用，支持桌面、移动和网页

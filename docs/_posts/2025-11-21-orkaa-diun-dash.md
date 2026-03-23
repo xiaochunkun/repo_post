@@ -7,3 +7,5 @@ image: assets/orkaa_diun_dash_20251120_065531_397_20251121_055012_af88da--202511
 # [orkaa/diun-dash](https://github.com/orkaa/diun-dash/)
 
 Dashboard for Docker update notifications
+
+Docker 更新通知的仪表板

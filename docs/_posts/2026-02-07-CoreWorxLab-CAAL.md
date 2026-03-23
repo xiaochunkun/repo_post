@@ -7,3 +7,5 @@ image: assets/CoreWorxLab_CAAL_20260205_132428_017_20260205_132451_75f133.png
 # [CoreWorxLab/CAAL](https://github.com/CoreWorxLab/CAAL)
 
 Voice assistant with n8n and Home Assistant integrations
+
+集成 n8n 和 Home Assistant 的语音助手

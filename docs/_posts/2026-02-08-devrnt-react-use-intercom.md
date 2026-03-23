@@ -7,3 +7,5 @@ image: assets/devrnt_react_use_intercom_20260206_180734_212_20260206_180753_39a4
 # [devrnt/react-use-intercom](https://github.com/devrnt/react-use-intercom)
 
 Integrates Intercom into React with hooks
+
+使用钩子将 Intercom 集成到 React 中

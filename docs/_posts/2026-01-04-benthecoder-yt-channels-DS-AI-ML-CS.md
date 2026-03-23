@@ -7,3 +7,5 @@ image: assets/benthecoder_yt_channels_DS_AI_ML_CS_20260103_122729_446_20260103_1
 # [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS/)
 
 List of YouTube channels for computer science and data science
+
+计算机科学和数据科学相关的 YouTube 频道列表

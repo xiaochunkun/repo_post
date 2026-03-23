@@ -7,3 +7,5 @@ image: assets/CaviraOSS_OpenMemory_20251122_065142_818_20251122_111222_3e378c--2
 # [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory/)
 
 Self-hosted long-term memory for AI
+
+AI 的自托管长期记忆系统

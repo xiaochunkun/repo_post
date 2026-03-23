@@ -7,3 +7,5 @@ image: assets/open_gitagent_gitagent_20260316_235424_148_20260316_235515_e436ae.
 # [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)
 
 Portable AI agent definition standard
+
+可移植的AI Agent定义标准

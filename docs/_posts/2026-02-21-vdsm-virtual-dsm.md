@@ -7,3 +7,5 @@ image: assets/vdsm_virtual_dsm_20260220_150306_182_20260220_150325_dce7cd.png
 # [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm)
 
 Synology DiskStation Manager in a Docker container
+
+Docker容器中的Synology DiskStation Manager

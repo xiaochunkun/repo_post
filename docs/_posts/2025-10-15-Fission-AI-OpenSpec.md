@@ -7,3 +7,5 @@ image: assets/20251015T011022884--Fission-AI--OpenSpec--20251015T011711914--crop
 # [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
 spec-driven workflow for AI coding assistants, no API keys needed
+
+AI 编码助手的规范驱动工作流，无需 API 密钥

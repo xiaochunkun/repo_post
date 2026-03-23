@@ -7,3 +7,5 @@ image: assets/librespeed_speedtest_rust_20260319_092601_693_20260319_092733_04f4
 # [librespeed/speedtest-rust](https://github.com/librespeed/speedtest-rust)
 
 Speed test backend without Flash or Java
+
+无需Flash或Java的速度测试后端

@@ -7,3 +7,5 @@ image: assets/automazeio_vibeproxy_20260204_031401_107_20260204_031423_d431a4.pn
 # [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy)
 
 Connects AI subscriptions to coding tools without API keys
+
+无需API密钥即可将AI订阅连接到编码工具

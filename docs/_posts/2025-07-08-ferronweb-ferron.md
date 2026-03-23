@@ -7,3 +7,5 @@ image: assets/ferronweb_ferron_cropped.png
 # [ferronweb/ferron](https://github.com/ferronweb/ferron)
 
 fast Rust web server with memory safety
+
+具有内存安全性的快速 Rust Web 服务器

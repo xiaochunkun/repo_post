@@ -7,3 +7,5 @@ image: assets/Beast12_who_rang_20260122_210754_235_20260122_210809_c800c6.png
 # [Beast12/who-rang](https://github.com/Beast12/who-rang)
 
 Identifies doorbell visitors with face recognition and local AI
+
+通过人脸识别和本地AI识别门铃访客

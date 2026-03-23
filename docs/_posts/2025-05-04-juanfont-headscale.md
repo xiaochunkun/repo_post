@@ -7,3 +7,5 @@ image: assets/juanfont_headscale_cropped.png
 # [juanfont/headscale](https://github.com/juanfont/headscale)
 
 Self-hosted open source alternative to Tailscale control server
+
+自托管的开源Tailscale控制服务器替代方案

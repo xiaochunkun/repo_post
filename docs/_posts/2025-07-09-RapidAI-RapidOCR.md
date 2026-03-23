@@ -7,3 +7,5 @@ image: assets/RapidAI_RapidOCR_cropped.png
 # [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR)
 
 multi-language OCR tool for fast offline text recognition
+
+多语言 OCR 工具，用于快速离线文本识别

@@ -7,3 +7,5 @@ image: assets/haga_rak_fluxzy_core_20251207_183900_596_20251207_183954_450583.pn
 # [haga-rak/fluxzy.core](https://github.com/haga-rak/fluxzy.core/)
 
 Streamed MITM tool for HTTP and WebSocket traffic
+
+用于 HTTP 和 WebSocket 流量的流式 MITM 工具

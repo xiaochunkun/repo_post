@@ -7,3 +7,5 @@ image: assets/ABausG_home_widget_20260101_232446_066_20260101_232503_ee1fb9.png
 # [ABausG/home_widget](https://github.com/ABausG/home_widget/)
 
 Unified interface for home screen widgets on Android and iOS
+
+Android和iOS主屏幕小部件的统一界面

@@ -7,3 +7,5 @@ image: assets/DumbWareio_DumbWhoIs_20251107_204058_968_20251108_000408_41fb33--2
 # [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs/)
 
 Web application for WHOIS, IP, and ASN lookups
+
+用于WHOIS、IP和ASN查询的Web应用

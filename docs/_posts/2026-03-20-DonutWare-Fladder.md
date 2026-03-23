@@ -7,3 +7,5 @@ image: assets/DonutWare_Fladder_20260316_013205_021_20260316_013330_262b9d.png
 # [DonutWare/Fladder](https://github.com/DonutWare/Fladder)
 
 Cross-platform Jellyfin frontend with comic book support
+
+跨平台 Jellyfin 前端，支持漫画书

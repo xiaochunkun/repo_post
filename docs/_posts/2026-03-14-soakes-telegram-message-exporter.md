@@ -7,3 +7,5 @@ image: assets/soakes_telegram_message_exporter_20260311_030821_154_20260311_0309
 # [soakes/telegram-message-exporter](https://github.com/soakes/telegram-message-exporter)
 
 Decrypts and exports native app messages
+
+解密并导出原生应用消息

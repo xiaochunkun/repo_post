@@ -7,3 +7,5 @@ image: assets/CodeBoarding_CodeBoarding_20260203_012825_370_20260203_012914_70e1
 # [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding)
 
 Interactive diagrams for codebases
+
+代码库的交互式图表

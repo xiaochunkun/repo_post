@@ -7,3 +7,5 @@ image: assets/adolfousier_ratifact_20251213_092026_198_20251213_092051_b2b57f.pn
 # [adolfousier/ratifact](https://github.com/adolfousier/ratifact/)
 
 TUI for managing build artifacts
+
+管理构建产物的 TUI

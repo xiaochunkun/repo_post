@@ -7,3 +7,5 @@ image: assets/20251007T015359524--huggingface--parler-tts--20251007T021045689--c
 # [huggingface/parler-tts](https://github.com/huggingface/parler-tts)
 
 text-to-speech library for generating voices with controllable style and speaker traits
+
+文本转语音库，用于生成可控风格和说话人特征的语音

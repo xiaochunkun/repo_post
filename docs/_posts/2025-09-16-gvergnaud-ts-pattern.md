@@ -7,3 +7,5 @@ image: assets/20250915T232308599--gvergnaud--ts-pattern--20250915T232531020--cro
 # [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
 
 TypeScript pattern matching library with smart type inference
+
+TypeScript 模式匹配库，具备智能类型推断

@@ -7,3 +7,5 @@ image: assets/ByteWelder_Decktility_20260107_002802_903_20260107_002818_6af7e4.p
 # [ByteWelder/Decktility](https://github.com/ByteWelder/Decktility/)
 
 Handheld PC with Raspberry Pi CM4
+
+基于 Raspberry Pi CM4 的手持 PC

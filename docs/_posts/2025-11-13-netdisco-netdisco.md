@@ -7,3 +7,5 @@ image: assets/netdisco_netdisco_20251112_024932_849_20251112_033409_0a6aa4--2025
 # [netdisco/netdisco](https://github.com/netdisco/netdisco/)
 
 Web-based network management tool for locating devices and managing switch ports
+
+用于定位设备和管理交换机端口的基于 Web 的网络管理工具

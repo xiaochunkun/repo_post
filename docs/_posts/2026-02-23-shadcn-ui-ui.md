@@ -7,3 +7,5 @@ image: assets/shadcn_ui_ui_20260220_231124_723_20260220_231156_a5e047.png
 # [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 
 Components for building a library
+
+用于构建库的组件

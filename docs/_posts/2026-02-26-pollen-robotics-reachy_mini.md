@@ -7,3 +7,5 @@ image: assets/pollen_robotics_reachy_mini_20260222_074650_723_20260222_074718_87
 # [pollen-robotics/reachy_mini](https://github.com/pollen-robotics/reachy_mini)
 
 Robot for hackers and builders
+
+面向黑客和创客的机器人

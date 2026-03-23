@@ -7,3 +7,5 @@ image: assets/alexk111_awesome_bitcoin_payment_processors_20260117_004755_860_20
 # [alexk111/awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors)
 
 List of Bitcoin payment processors for merchants
+
+面向商家的比特币支付处理器列表

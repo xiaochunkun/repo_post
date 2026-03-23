@@ -7,3 +7,5 @@ image: assets/jakemor_kanna_20260321_062517_093_20260321_062646_03cc60.png
 # [jakemor/kanna](https://github.com/jakemor/kanna)
 
 Web UI for Claude Code and Codex CLIs
+
+Claude Code和Codex CLI的Web界面

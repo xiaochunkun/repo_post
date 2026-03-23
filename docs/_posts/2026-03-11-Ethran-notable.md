@@ -7,3 +7,5 @@ image: assets/Ethran_notable_20260213_224948_745_20260213_225045_613f65.png
 # [Ethran/notable](https://github.com/Ethran/notable)
 
 Note-taking app for BOOX e-ink devices
+
+用于BOOX电子墨水设备的笔记应用

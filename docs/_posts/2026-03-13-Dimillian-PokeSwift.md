@@ -7,3 +7,5 @@ image: assets/Dimillian_PokeSwift_20260312_221118_091_20260312_221315_8761c5.png
 # [Dimillian/PokeSwift](https://github.com/Dimillian/PokeSwift)
 
 Native macOS Pokemon Red engine in Swift
+
+用 Swift 编写的原生 macOS Pokemon Red 引擎

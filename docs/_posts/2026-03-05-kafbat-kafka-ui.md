@@ -7,3 +7,5 @@ image: assets/kafbat_kafka_ui_20260213_201055_787_20260213_201155_da2e7a.png
 # [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui)
 
 Web interface for monitoring and managing Kafka clusters
+
+监控和管理 Kafka 集群的 Web 界面

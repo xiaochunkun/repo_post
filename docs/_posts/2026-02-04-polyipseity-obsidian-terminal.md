@@ -7,3 +7,5 @@ image: assets/polyipseity_obsidian_terminal_20260203_002922_321_20260203_002937_
 # [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal)
 
 Integrates terminals and shells into Obsidian
+
+将终端和 shell 集成到 Obsidian

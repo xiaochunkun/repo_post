@@ -7,3 +7,5 @@ image: assets/DatafyingTech_Claude_Agent_Team_Manager_20260302_123704_692_202603
 # [DatafyingTech/Claude-Agent-Team-Manager](https://github.com/DatafyingTech/Claude-Agent-Team-Manager)
 
 Visual org chart for managing Claude Code agent teams
+
+可视化组织图，用于管理Claude Code代理团队

@@ -7,3 +7,5 @@ image: assets/sayanarijit_sqla_fancy_core_20251203_002744_721_20251203_002807_30
 # [sayanarijit/sqla-fancy-core](https://github.com/sayanarijit/sqla-fancy-core/)
 
 Type-safe enhancements for SQLAlchemy Core
+
+SQLAlchemy Core的类型安全增强

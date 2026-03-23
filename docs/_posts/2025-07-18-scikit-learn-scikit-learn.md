@@ -7,3 +7,5 @@ image: assets/scikit-learn_scikit-learn_cropped.png
 # [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 machine learning in python with easy-to-use tools
+
+Python中易于使用的机器学习工具

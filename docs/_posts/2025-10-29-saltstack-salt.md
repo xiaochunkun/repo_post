@@ -7,3 +7,5 @@ image: assets/saltstack_salt_20251027_192811_336_20251028_091637_ebcd27--2025102
 # [saltstack/salt](https://github.com/saltstack/salt/)
 
 Event-driven automation for managing IT systems
+
+用于管理 IT 系统的事件驱动自动化

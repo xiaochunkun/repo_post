@@ -7,3 +7,5 @@ image: assets/TalEliyahu_Awesome_AI_Security_20260210_213822_303_20260210_213840
 # [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security)
 
 Resources for securing AI systems
+
+保护 AI 系统的资源

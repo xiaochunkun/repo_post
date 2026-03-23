@@ -7,3 +7,5 @@ image: assets/AbdelStark_bitcoin_mcp_20260102_190253_522_20260102_190311_fa525d.
 # [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp/)
 
 Connects AI models to Bitcoin and Lightning Network
+
+将AI模型连接到比特币和闪电网络

@@ -7,3 +7,5 @@ image: assets/Julien_cpsn_desktop_tui_20251029_183730_755_20251030_010049_0bde4a
 # [Julien-cpsn/desktop-tui](https://github.com/Julien-cpsn/desktop-tui/)
 
 Tmux-like desktop environment without graphics
+
+类似 Tmux 的无图形桌面环境

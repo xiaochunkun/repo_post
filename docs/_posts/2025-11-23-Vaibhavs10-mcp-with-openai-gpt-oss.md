@@ -7,3 +7,5 @@ image: assets/Vaibhavs10_mcp_with_openai_gpt_oss_20251122_214122_890_20251123_00
 # [Vaibhavs10/mcp-with-openai-gpt-oss](https://github.com/Vaibhavs10/mcp-with-openai-gpt-oss/)
 
 Builds agents with gpt-oss and MCP
+
+使用gpt-oss和MCP构建智能体

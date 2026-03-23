@@ -7,3 +7,5 @@ image: assets/20250917T011415655--alacritty--alacritty--20250920T045110157--crop
 # [alacritty/alacritty](https://github.com/alacritty/alacritty)
 
 GPU-accelerated terminal emulator with fast performance and lots of config options
+
+GPU加速的终端模拟器，性能快速，配置选项丰富

@@ -7,3 +7,5 @@ image: assets/ghostwright_ghost_os_20260318_160906_946_20260318_161025_81d694.pn
 # [ghostwright/ghost-os](https://github.com/ghostwright/ghost-os)
 
 AI agents operate every app on Mac
+
+AI代理操作Mac上的每个应用

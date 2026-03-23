@@ -7,3 +7,5 @@ image: assets/deepseek_ai_DeepSeek_V3_2_Exp_20251031_132013_136_20251031_205749_
 # [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/)
 
 Model with sparse attention for long-context scenarios
+
+适用于长上下文场景的稀疏注意力模型

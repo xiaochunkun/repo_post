@@ -7,3 +7,5 @@ image: assets/webiny_webiny_js_20260202_160528_031_20260202_160647_91c0c6.png
 # [webiny/webiny-js](https://github.com/webiny/webiny-js)
 
 Serverless CMS for AWS
+
+适用于AWS的无服务器CMS

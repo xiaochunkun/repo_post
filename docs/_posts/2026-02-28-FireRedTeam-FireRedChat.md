@@ -7,3 +7,5 @@ image: assets/FireRedTeam_FireRedChat_20260226_055023_878_20260226_055204_1599a6
 # [FireRedTeam/FireRedChat](https://github.com/FireRedTeam/FireRedChat)
 
 Voice AI agents with local deployment
+
+本地部署的语音AI代理

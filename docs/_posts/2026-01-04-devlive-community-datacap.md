@@ -7,3 +7,5 @@ image: assets/devlive_community_datacap_20260103_155738_813_20260103_155759_c698
 # [devlive-community/datacap](https://github.com/devlive-community/datacap/)
 
 Integrates data sources for transformation and visualization
+
+集成数据源进行转换和可视化

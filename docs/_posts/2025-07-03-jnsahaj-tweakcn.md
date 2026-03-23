@@ -7,3 +7,5 @@ image: assets/jnsahaj_tweakcn_cropped.png
 # [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
 
 visual theme editor for shadcn/ui and tailwind CSS components
+
+用于shadcn/ui和tailwind CSS组件的可视化主题编辑器

@@ -7,3 +7,5 @@ image: assets/20250826T031640964--James-Yu--external-file-card--20250826T0322130
 # [James-Yu/external-file-card](https://github.com/James-Yu/external-file-card)
 
 shows file info cards for Obsidian notes
+
+Obsidian 笔记中显示文件信息卡片

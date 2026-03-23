@@ -7,3 +7,5 @@ image: assets/leiweibau_Pi_Alert_20260202_234432_711_20260202_234505_b236e4.png
 # [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert)
 
 Monitors networks for unknown devices and service availability
+
+监控网络中的未知设备和服务可用性

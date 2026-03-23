@@ -7,3 +7,5 @@ image: assets/cabal_club_cabal_desktop_20260117_005108_272_20260117_005122_501ec
 # [cabal-club/cabal-desktop](https://github.com/cabal-club/cabal-desktop)
 
 P2P chat client for decentralized communication
+
+去中心化通信的P2P聊天客户端

@@ -7,3 +7,5 @@ image: assets/megh-bari_pattern-craft_cropped.png
 # [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft)
 
 background patterns and gradients for web projects
+
+用于 Web 项目的背景图案和渐变

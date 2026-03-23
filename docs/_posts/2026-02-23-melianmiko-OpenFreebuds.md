@@ -7,3 +7,5 @@ image: assets/melianmiko_OpenFreebuds_20260222_105018_163_20260222_105111_e7500e
 # [melianmiko/OpenFreebuds](https://github.com/melianmiko/OpenFreebuds)
 
 Controls HUAWEI headphones from PC
+
+从 PC 控制 HUAWEI 耳机

@@ -7,3 +7,5 @@ image: assets/bytewax_hacking_hacker_news_20260106_160206_886_20260106_160224_f1
 # [bytewax/hacking-hacker-news](https://github.com/bytewax/hacking-hacker-news/)
 
 Streams Hacker News data into Grafana dashboards
+
+将 Hacker News 数据流式传输到 Grafana 仪表板

@@ -7,3 +7,5 @@ image: assets/appwrite_appwrite_20260122_031625_404_20260122_031703_7fbe1a.png
 # [appwrite/appwrite](https://github.com/appwrite/appwrite)
 
 Backend platform for web and mobile apps
+
+Web和移动应用的后端平台

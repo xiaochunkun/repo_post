@@ -7,3 +7,5 @@ image: assets/trizen_youtube_viewer_20260111_131727_092_20260111_131740_13a49b.p
 # [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer)
 
 Search and play videos from the command line or GTK interface
+
+通过命令行或GTK界面搜索和播放视频

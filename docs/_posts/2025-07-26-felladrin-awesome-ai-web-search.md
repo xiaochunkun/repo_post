@@ -7,3 +7,5 @@ image: assets/felladrin_awesome-ai-web-search_cropped.png
 # [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)
 
 list of tools for searching the web using AI
+
+使用AI进行网络搜索的工具列表

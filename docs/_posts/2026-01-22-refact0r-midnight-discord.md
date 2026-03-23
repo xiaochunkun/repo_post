@@ -7,3 +7,5 @@ image: assets/refact0r_midnight_discord_20260120_225934_719_20260120_230022_048e
 # [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord)
 
 Customizable theme for Discord
+
+可自定义的Discord主题

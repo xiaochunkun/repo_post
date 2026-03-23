@@ -7,3 +7,5 @@ image: assets/plandex_ai_plandex_20260316_013050_164_20260316_013123_af8a60.png
 # [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
 
 Terminal AI agent for large coding tasks
+
+终端 AI 代理，用于大型编码任务

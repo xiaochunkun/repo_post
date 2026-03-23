@@ -7,3 +7,5 @@ image: assets/CoderGamester_mcp_unity_20260322_152656_018_20260322_152736_b68a82
 # [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)
 
 MCP Unity Editor for AI assistants
+
+AI 助手的 MCP Unity 编辑器

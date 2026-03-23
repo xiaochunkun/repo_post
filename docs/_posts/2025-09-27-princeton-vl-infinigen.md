@@ -7,3 +7,5 @@ image: assets/20250927T041641855--princeton-vl--infinigen--20250927T042641067--c
 # [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen)
 
 procedural 3D scene generator for computer vision and AI training
+
+用于计算机视觉和AI训练的程序化3D场景生成器

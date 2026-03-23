@@ -7,3 +7,5 @@ image: assets/rahulnyk_knowledge_graph_20260204_204732_368_20260204_204747_eab80
 # [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph)
 
 Converts text into knowledge graphs for Graph RAG
+
+将文本转换为知识图谱用于Graph RAG

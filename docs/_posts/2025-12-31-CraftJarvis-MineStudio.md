@@ -7,3 +7,5 @@ image: assets/CraftJarvis_MineStudio_20251230_042559_189_20251230_042623_f4bb5b.
 # [CraftJarvis/MineStudio](https://github.com/CraftJarvis/MineStudio/)
 
 Tools for Minecraft agent development
+
+Minecraft 智能体开发工具

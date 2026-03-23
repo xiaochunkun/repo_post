@@ -7,3 +7,5 @@ image: assets/RIP_Comm_sossoldi_20260122_101052_758_20260122_101120_72da00.png
 # [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi)
 
 Wealth management app for net worth tracking
+
+净资产追踪的财富管理应用

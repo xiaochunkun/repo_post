@@ -7,3 +7,5 @@ image: assets/20250820T132720796_Maikefee_linux-persistence--20250820T133108432-
 # [Maikefee/linux-persistence](https://github.com/Maikefee/linux-persistence)
 
 Linux persistence tool with reverse shells, SSH and cron backdoors, kernel and PAM modules
+
+Linux 持久化工具，支持反向 Shell、SSH 和 Cron 后门、内核和 PAM 模块

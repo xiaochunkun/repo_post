@@ -7,3 +7,5 @@ image: assets/nyanko3141592_ScreenSeal_20260216_183739_617_20260216_183835_ee079
 # [nyanko3141592/ScreenSeal](https://github.com/nyanko3141592/ScreenSeal)
 
 Mosaic overlays for screen recordings
+
+屏幕录制的马赛克覆盖

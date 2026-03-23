@@ -7,3 +7,5 @@ image: assets/hotheadhacker_awesome-selfhost-docker_cropped.png
 # [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)
 
 Curated list of open-source self-hosted apps that run with Docker and docker-compose
+
+精选开源自托管应用列表，使用Docker和docker-compose运行

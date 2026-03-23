@@ -7,3 +7,5 @@ image: assets/volfpeter_fasthx_20251123_161907_677_20251124_003542_0520fa--20251
 # [volfpeter/fasthx](https://github.com/volfpeter/fasthx/)
 
 FastAPI server-side rendering with HTMX
+
+使用 HTMX 的 FastAPI 服务器端渲染

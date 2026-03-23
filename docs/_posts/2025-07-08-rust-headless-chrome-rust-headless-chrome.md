@@ -7,3 +7,5 @@ image: assets/rust-headless-chrome_rust-headless-chrome_cropped.png
 # [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome)
 
 control Chrome with Rust, like Puppeteer
+
+使用 Rust 控制 Chrome，类似 Puppeteer

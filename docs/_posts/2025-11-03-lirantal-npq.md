@@ -7,3 +7,5 @@ image: assets/lirantal_npq_20251031_092711_890_20251102_210708_420c09--20251102T
 # [lirantal/npq](https://github.com/lirantal/npq/)
 
 Audit npm packages before installation
+
+安装前审计npm包

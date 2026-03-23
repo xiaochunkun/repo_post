@@ -7,3 +7,5 @@ image: assets/NVlabs_Jet_Nemotron_20251125_031456_753_20251127_163751_4c5a1b--20
 # [NVlabs/Jet-Nemotron](https://github.com/NVlabs/Jet-Nemotron/)
 
 Hybrid-architecture language model with post-training architecture search
+
+采用后训练架构搜索的混合架构语言模型

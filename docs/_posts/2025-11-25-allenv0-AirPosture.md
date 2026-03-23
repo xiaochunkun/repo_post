@@ -7,3 +7,5 @@ image: assets/allenv0_AirPosture_20251123_200024_053_20251125_012739_77b95a--202
 # [allenv0/AirPosture](https://github.com/allenv0/AirPosture/)
 
 Turns AirPods into a real-time AI posture coach
+
+将 AirPods 变为实时 AI 姿势教练

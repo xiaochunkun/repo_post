@@ -7,3 +7,5 @@ image: assets/NotAnyoneMe_ProxyChecker_20251231_173203_993_20251231_173223_c8ffb
 # [NotAnyoneMe/ProxyChecker](https://github.com/NotAnyoneMe/ProxyChecker/)
 
 Tests proxy speed and location via a GUI
+
+通过GUI测试代理速度和位置

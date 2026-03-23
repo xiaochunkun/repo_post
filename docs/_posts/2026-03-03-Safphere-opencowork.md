@@ -7,3 +7,5 @@ image: assets/Safphere_opencowork_20260213_165129_612_20260213_165227_a76d39.png
 # [Safphere/opencowork](https://github.com/Safphere/opencowork)
 
 Desktop AI assistant with terminal and file system access
+
+桌面 AI 助手，支持终端和文件系统访问

@@ -7,3 +7,5 @@ image: assets/rdev_liquid_glass_react_20260203_024502_327_20260203_024530_e50d50
 # [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)
 
 Glass refraction effect for React components
+
+React 组件的玻璃折射效果

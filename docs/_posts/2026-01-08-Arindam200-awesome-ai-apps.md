@@ -7,3 +7,5 @@ image: assets/Arindam200_awesome_ai_apps_20260108_031203_379_20260108_031216_aae
 # [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
 
 Collection of tutorials for building agents and RAG applications
+
+构建智能体和 RAG 应用的教程集合

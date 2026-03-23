@@ -7,3 +7,5 @@ image: assets/neural_maze_ava_whatsapp_agent_course_20251222_113053_412_20251222
 # [neural-maze/ava-whatsapp-agent-course](https://github.com/neural-maze/ava-whatsapp-agent-course/)
 
 WhatsApp agent with voice and image recognition
+
+具有语音和图像识别功能的 WhatsApp 智能体

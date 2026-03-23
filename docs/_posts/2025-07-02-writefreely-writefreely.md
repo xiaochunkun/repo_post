@@ -7,3 +7,5 @@ image: assets/writefreely_writefreely_cropped.png
 # [writefreely/writefreely](https://github.com/writefreely/writefreely)
 
 Self-hosted blogging platform for writers using Markdown, supports multiple blogs, ActivityPub, minimal interface
+
+使用Markdown的自托管博客平台，支持多博客、ActivityPub和极简界面

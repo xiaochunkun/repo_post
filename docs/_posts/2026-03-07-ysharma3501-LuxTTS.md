@@ -7,3 +7,5 @@ image: assets/ysharma3501_LuxTTS_20260206_113640_850_20260206_113703_b392ba.png
 # [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS)
 
 Clones voices at 150x realtime speed
+
+以150倍实时速度克隆语音

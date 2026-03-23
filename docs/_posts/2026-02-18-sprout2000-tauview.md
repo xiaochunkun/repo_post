@@ -7,3 +7,5 @@ image: assets/sprout2000_tauview_20260121_013832_849_20260121_013849_8c7fdd.png
 # [sprout2000/tauview](https://github.com/sprout2000/tauview)
 
 Image viewer with pan, zoom, and grid view
+
+具有平移、缩放和网格视图的图像查看器

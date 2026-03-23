@@ -7,3 +7,5 @@ image: assets/popcorntime_popcorntime_20251223_213328_047_20251223_213350_0b5f6c
 # [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime/)
 
 Streams movies and shows from torrents
+
+从种子流式传输电影和剧集

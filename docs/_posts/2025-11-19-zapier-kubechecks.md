@@ -7,3 +7,5 @@ image: assets/zapier_kubechecks_20251118_102925_573_20251119_191502_1f76e0--2025
 # [zapier/kubechecks](https://github.com/zapier/kubechecks/)
 
 Shows how pull requests affect ArgoCD deployments
+
+显示拉取请求如何影响 ArgoCD 部署

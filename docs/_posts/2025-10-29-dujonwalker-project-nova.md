@@ -7,3 +7,5 @@ image: assets/dujonwalker_project_nova_20251029_021125_019_20251029_030134_ce3eb
 # [dujonwalker/project-nova](https://github.com/dujonwalker/project-nova/)
 
 An AI assistant ecosystem with 25+ specialized agents
+
+包含 25+ 个专业代理的 AI 助手生态系统

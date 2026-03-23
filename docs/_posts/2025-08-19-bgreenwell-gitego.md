@@ -7,3 +7,5 @@ image: assets/20250818T103633624_bgreenwell_gitego--20250818T103751858--cropped.
 # [bgreenwell/gitego](https://github.com/bgreenwell/gitego)
 
 switch git identities and profiles automatically
+
+自动切换git身份和配置文件

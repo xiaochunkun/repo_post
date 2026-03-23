@@ -7,3 +7,5 @@ image: assets/binhnguyennus_awesome_scalability_20260226_134820_557_20260226_135
 # [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 Reading list for system design
+
+系统设计阅读清单

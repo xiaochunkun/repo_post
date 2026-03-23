@@ -7,3 +7,5 @@ image: assets/20250830T185806550--TomWright--dasel--20250830T190116847--cropped.
 # [TomWright/dasel](https://github.com/TomWright/dasel)
 
 cli tool for editing and converting JSON, YAML, TOML, XML, CSV
+
+CLI 工具，编辑和转换 JSON、YAML、TOML、XML、CSV

@@ -7,3 +7,5 @@ image: assets/macadmins_sofa_20251228_214737_938_20251228_214754_4d7a6a.png
 # [macadmins/sofa](https://github.com/macadmins/sofa/)
 
 Tracks macOS and iOS software updates via machine-readable feeds
+
+通过机器可读源跟踪macOS和iOS软件更新

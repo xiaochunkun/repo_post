@@ -7,3 +7,5 @@ image: assets/aurelio_labs_semantic_router_20260225_230715_195_20260225_230914_a
 # [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router)
 
 Routes LLM requests using semantic vector space
+
+使用语义向量空间路由LLM请求

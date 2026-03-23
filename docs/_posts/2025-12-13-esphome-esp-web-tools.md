@@ -7,3 +7,5 @@ image: assets/esphome_esp_web_tools_20251209_065138_812_20251209_065223_4e8797.p
 # [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools/)
 
 Flash ESP-based firmware via browser
+
+通过浏览器刷写基于 ESP 的固件

@@ -7,3 +7,5 @@ image: assets/dsebastien_whatsapp_claude_agent_20251226_050052_303_20251226_0501
 # [dsebastien/whatsapp-claude-agent](https://github.com/dsebastien/whatsapp-claude-agent/)
 
 Bridges WhatsApp with Claude Code
+
+连接 WhatsApp 与 Claude Code

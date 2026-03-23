@@ -7,3 +7,5 @@ image: assets/kaiban-ai_KaibanJS--20250817T073355189--cropped.png
 # [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS)
 
 Kanban board for managing AI agents and workflows in JavaScript
+
+用于管理 JavaScript 中 AI 代理和工作流的看板

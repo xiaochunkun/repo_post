@@ -7,3 +7,5 @@ image: assets/autoscrape_labs_pydoll_20251018_235436_603_20251019_002158--202510
 # [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll/)
 
 Web scraping via Chrome DevTools Protocol
+
+通过 Chrome DevTools Protocol 进行网页抓取

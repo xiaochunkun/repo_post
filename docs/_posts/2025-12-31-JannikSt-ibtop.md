@@ -7,3 +7,5 @@ image: assets/JannikSt_ibtop_20251230_225206_590_20251230_225238_0b84a4.png
 # [JannikSt/ibtop](https://github.com/JannikSt/ibtop/)
 
 Terminal monitor for InfiniBand networks
+
+InfiniBand网络的终端监控器

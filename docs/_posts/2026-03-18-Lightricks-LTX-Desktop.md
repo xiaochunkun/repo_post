@@ -7,3 +7,5 @@ image: assets/Lightricks_LTX_Desktop_20260313_185911_789_20260313_190136_815329.
 # [Lightricks/LTX-Desktop](https://github.com/Lightricks/LTX-Desktop)
 
 Generate and edit videos locally with LTX models
+
+使用LTX模型本地生成和编辑视频

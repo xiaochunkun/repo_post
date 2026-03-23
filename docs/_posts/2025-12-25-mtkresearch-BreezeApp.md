@@ -7,3 +7,5 @@ image: assets/mtkresearch_BreezeApp_20251224_184454_976_20251224_184545_8fcbc7.p
 # [mtkresearch/BreezeApp](https://github.com/mtkresearch/BreezeApp/)
 
 Runs AI models on phones offline
+
+在手机上离线运行 AI 模型

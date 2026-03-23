@@ -7,3 +7,5 @@ image: assets/RAIT_09_obsidian_agent_client_20260211_031445_449_20260211_031536_
 # [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client)
 
 Integrates AI agents into Obsidian via Agent Client Protocol
+
+通过Agent Client Protocol将AI智能体集成到Obsidian中

@@ -7,3 +7,5 @@ image: assets/SYSTRAN_faster_whisper_20260211_004112_172_20260211_004128_a7b840.
 # [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)
 
 Transcription engine with CTranslate2 for inference speed
+
+使用CTranslate2提升推理速度的转录引擎

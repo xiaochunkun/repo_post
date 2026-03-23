@@ -7,3 +7,5 @@ image: assets/20250927T043537612--alpha-liu-01--SpeedyNote--20250927T044857751--
 # [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
 
 note-taking app with stylus support, pressure-sensitive inking, and low-spec device compatibility
+
+支持手写笔、压感墨水和低配设备的笔记应用

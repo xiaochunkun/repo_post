@@ -7,3 +7,5 @@ image: assets/Spl0itable_NYM_20260309_153824_044_20260309_154047_4a4000.png
 # [Spl0itable/NYM](https://github.com/Spl0itable/NYM)
 
 Chat client for Nostr with geohash channels and Lightning zaps
+
+Nostr聊天客户端，支持地理哈希频道和Lightning打赏

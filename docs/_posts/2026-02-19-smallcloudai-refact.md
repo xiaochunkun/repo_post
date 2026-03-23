@@ -7,3 +7,5 @@ image: assets/smallcloudai_refact_20260213_235038_882_20260213_235146_b02171.png
 # [smallcloudai/refact](https://github.com/smallcloudai/refact)
 
 AI agent for software engineering tasks
+
+软件工程任务的AI代理

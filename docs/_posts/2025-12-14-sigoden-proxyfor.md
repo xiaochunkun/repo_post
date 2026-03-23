@@ -7,3 +7,5 @@ image: assets/sigoden_proxyfor_20251213_032822_425_20251213_032858_dc8b69.png
 # [sigoden/proxyfor](https://github.com/sigoden/proxyfor/)
 
 CLI proxy for capturing and inspecting HTTP and WebSocket traffic
+
+用于捕获和检查 HTTP 与 WebSocket 流量的 CLI 代理

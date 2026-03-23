@@ -7,3 +7,5 @@ image: assets/alexandregpereira_Monster_Compendium_20251118_072624_896_20251118_
 # [alexandregpereira/Monster-Compendium](https://github.com/alexandregpereira/Monster-Compendium/)
 
 D&D bestiary for Android, iOS, Mac, Windows, and Linux
+
+适用于Android、iOS、Mac、Windows和Linux的D&D怪物图鉴

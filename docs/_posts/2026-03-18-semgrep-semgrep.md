@@ -7,3 +7,5 @@ image: assets/semgrep_semgrep_20260226_172757_047_20260226_172944_55ca75.png
 # [semgrep/semgrep](https://github.com/semgrep/semgrep)
 
 Static analysis tool for code patterns
+
+代码模式的静态分析工具

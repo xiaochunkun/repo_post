@@ -7,3 +7,5 @@ image: assets/LizardByte_awesome_sunshine_20251208_000942_342_20251208_001014_70
 # [LizardByte/awesome-sunshine](https://github.com/LizardByte/awesome-sunshine/)
 
 Collection of scripts and tools for Sunshine game streaming
+
+用于 Sunshine 游戏流媒体的脚本和工具集合

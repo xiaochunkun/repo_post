@@ -7,3 +7,5 @@ image: assets/20250905T025758178--facebookresearch--audio2photoreal--20250905T03
 # [facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal)
 
 turns audio into realistic talking avatars
+
+将音频转换为逼真的说话头像

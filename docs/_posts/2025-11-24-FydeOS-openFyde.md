@@ -7,3 +7,5 @@ image: assets/FydeOS_openFyde_20251123_170506_786_20251124_094552_04e660--202511
 # [FydeOS/openFyde](https://github.com/FydeOS/openFyde/)
 
 Chromium OS with or without Google services
+
+带或不带 Google 服务的 Chromium OS

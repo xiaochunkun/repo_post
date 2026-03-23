@@ -7,3 +7,5 @@ image: assets/jarulraj_periodic-table_cropped.png
 # [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table)
 
 system design principles laid out like a periodic table
+
+系统设计原则，布局类似元素周期表

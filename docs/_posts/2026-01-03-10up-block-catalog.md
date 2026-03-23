@@ -7,3 +7,5 @@ image: assets/10up_block_catalog_20260102_062856_292_20260102_062912_3a7650.png
 # [10up/block-catalog](https://github.com/10up/block-catalog/)
 
 Tracks Gutenberg block usage across WordPress sites
+
+跟踪 WordPress 站点间的 Gutenberg 区块使用情况

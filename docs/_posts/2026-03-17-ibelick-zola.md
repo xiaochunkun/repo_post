@@ -7,3 +7,5 @@ image: assets/ibelick_zola_20260316_130204_695_20260316_130246_9938aa.png
 # [ibelick/zola](https://github.com/ibelick/zola)
 
 Open chat interface for all models
+
+面向所有模型的开放聊天界面

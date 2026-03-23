@@ -7,3 +7,5 @@ image: assets/openai_Video_Pre_Training_20260309_080726_183_20260309_081013_b9a6
 # [openai/Video-Pre-Training](https://github.com/openai/Video-Pre-Training)
 
 Trains agents to play Minecraft by watching videos
+
+通过观看视频训练代理玩Minecraft

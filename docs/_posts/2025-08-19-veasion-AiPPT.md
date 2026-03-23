@@ -7,3 +7,5 @@ image: assets/20250818T103053540_veasion_AiPPT--20250818T103601638--cropped.png
 # [veasion/AiPPT](https://github.com/veasion/AiPPT)
 
 AI tool for generating and editing PowerPoint slides
+
+生成和编辑 PowerPoint 幻灯片的 AI 工具

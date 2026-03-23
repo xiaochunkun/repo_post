@@ -7,3 +7,5 @@ image: assets/20250924T055522745--debauchee--barrier--20250924T060111357--croppe
 # [debauchee/barrier](https://github.com/debauchee/barrier)
 
 share keyboard and mouse across multiple computers and operating systems
+
+跨多台计算机和操作系统共享键盘和鼠标

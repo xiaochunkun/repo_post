@@ -7,3 +7,5 @@ image: assets/zcaceres_markdownify_mcp_20260315_013712_572_20260315_013808_a424d
 # [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)
 
 Converts PDFs, images, audio to Markdown
+
+将PDF、图像、音频转换为Markdown

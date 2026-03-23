@@ -7,3 +7,5 @@ image: assets/cmang_durdraw_20251122_054700_908_20251122_111106_df6182--20251122
 # [cmang/durdraw](https://github.com/cmang/durdraw/)
 
 ASCII and ANSI art editor with animation
+
+支持动画的 ASCII 和 ANSI 艺术编辑器

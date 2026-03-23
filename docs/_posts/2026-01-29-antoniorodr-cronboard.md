@@ -7,3 +7,5 @@ image: assets/antoniorodr_cronboard_20260128_233343_780_20260128_233421_de1c19.p
 # [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard)
 
 Dashboard for managing cron jobs on servers
+
+服务器cron任务管理面板

@@ -7,3 +7,5 @@ image: assets/openprose_prose_20260309_083927_319_20260309_084137_1cc4e0.png
 # [openprose/prose](https://github.com/openprose/prose)
 
 Programming language for AI sessions
+
+用于 AI 会话的编程语言

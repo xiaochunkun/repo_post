@@ -7,3 +7,5 @@ image: assets/Semper_Viventem_MetaRadar_20251222_124341_122_20251222_124359_59da
 # [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar/)
 
 Monitors Bluetooth signals to prevent tracking
+
+监控蓝牙信号以防止追踪

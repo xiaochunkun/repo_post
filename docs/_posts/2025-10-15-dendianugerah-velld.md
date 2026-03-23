@@ -7,3 +7,5 @@ image: assets/20251015T032152218--dendianugerah--velld--20251015T032958240--crop
 # [dendianugerah/velld](https://github.com/dendianugerah/velld)
 
 manage automated database backups and restores from one dashboard
+
+从一个仪表板管理自动化数据库备份和恢复

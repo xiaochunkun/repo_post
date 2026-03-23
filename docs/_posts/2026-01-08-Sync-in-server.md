@@ -7,3 +7,5 @@ image: assets/Sync_in_server_20260108_044426_294_20260108_044512_bf95cf.png
 # [Sync-in/server](https://github.com/Sync-in/server)
 
 Self-hosted platform for file storage and collaboration
+
+文件存储和协作的自托管平台

@@ -7,3 +7,5 @@ image: assets/axeII_home_ops_20260121_181218_974_20260121_181241_ffce50.png
 # [axeII/home-ops](https://github.com/axeII/home-ops)
 
 Infrastructure as code for home servers using Kubernetes and GitOps
+
+使用 Kubernetes 和 GitOps 的家庭服务器基础设施即代码

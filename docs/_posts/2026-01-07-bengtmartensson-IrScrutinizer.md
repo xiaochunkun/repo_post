@@ -7,3 +7,5 @@ image: assets/bengtmartensson_IrScrutinizer_20260106_161719_313_20260106_161738_
 # [bengtmartensson/IrScrutinizer](https://github.com/bengtmartensson/IrScrutinizer/)
 
 Captures, analyzes, and exports infrared signals
+
+捕获、分析和导出红外信号

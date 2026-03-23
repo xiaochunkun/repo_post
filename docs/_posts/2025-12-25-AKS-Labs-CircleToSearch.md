@@ -7,3 +7,5 @@ image: assets/AKS_Labs_CircleToSearch_20251223_161434_813_20251223_161528_494c74
 # [AKS-Labs/CircleToSearch](https://github.com/AKS-Labs/CircleToSearch/)
 
 Reverse image search across engines by drawing on the screen
+
+通过在屏幕上绘制进行跨引擎反向图像搜索

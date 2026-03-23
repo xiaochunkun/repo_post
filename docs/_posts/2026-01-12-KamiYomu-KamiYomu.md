@@ -7,3 +7,5 @@ image: assets/KamiYomu_KamiYomu_20260111_085049_033_20260111_085102_a47a46.png
 # [KamiYomu/KamiYomu](https://github.com/KamiYomu/KamiYomu)
 
 Downloads manga from websites to local storage
+
+从网站下载漫画到本地存储

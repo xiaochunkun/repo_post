@@ -7,3 +7,5 @@ image: assets/AnswerDotAI_llms-txt_cropped.png
 # [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt)
 
 llms-txt adds a /llms.txt file to sites for language model access
+
+llms-txt为网站添加/llms.txt文件，供语言模型访问

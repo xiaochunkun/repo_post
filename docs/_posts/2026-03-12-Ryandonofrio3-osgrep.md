@@ -7,3 +7,5 @@ image: assets/Ryandonofrio3_osgrep_20260221_212608_235_20260221_212648_a1559a.pn
 # [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)
 
 Semantic search for coding agents
+
+编程智能体的语义搜索工具

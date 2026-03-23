@@ -7,3 +7,5 @@ image: assets/kelroy1990_Homelabs_Pi_Storage_20251209_014326_098_20251209_014353
 # [kelroy1990/Homelabs-Pi-Storage](https://github.com/kelroy1990/Homelabs-Pi-Storage/)
 
 Raspberry Pi CM5 expansion board for NAS servers
+
+用于 NAS 服务器的 Raspberry Pi CM5 扩展板

@@ -7,3 +7,5 @@ image: assets/presenton_presenton_cropped.png
 # [presenton/presenton](https://github.com/presenton/presenton)
 
 presentation creator with markdown and code support
+
+演示文稿创建工具，支持Markdown和代码

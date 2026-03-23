@@ -7,3 +7,5 @@ image: assets/alwaysnomads_better_hono_20251105_131822_283_20251105_210632_18766
 # [alwaysnomads/better-hono](https://github.com/alwaysnomads/better-hono/)
 
 Starter template for Hono on Cloudflare Workers with auth and an ORM
+
+在 Cloudflare Workers 上使用 auth 和 ORM 的 Hono 启动模板

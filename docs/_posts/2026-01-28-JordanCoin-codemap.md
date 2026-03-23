@@ -7,3 +7,5 @@ image: assets/JordanCoin_codemap_20260111_120145_621_20260111_120158_935a17.png
 # [JordanCoin/codemap](https://github.com/JordanCoin/codemap)
 
 Maps project architecture for LLMs
+
+为LLM映射项目架构

@@ -7,3 +7,5 @@ image: assets/pkolaczk_fclones_20251122_204634_147_20251123_001556_bb1e3c--20251
 # [pkolaczk/fclones](https://github.com/pkolaczk/fclones/)
 
 Finds and removes file duplicates
+
+查找并删除重复文件

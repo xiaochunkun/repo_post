@@ -7,3 +7,5 @@ image: assets/IGLICT_SketchVideo_20260131_162449_357_20260131_162538_5d9b40.png
 # [IGLICT/SketchVideo](https://github.com/IGLICT/SketchVideo)
 
 Generates and edits videos from sketches
+
+从草图生成和编辑视频

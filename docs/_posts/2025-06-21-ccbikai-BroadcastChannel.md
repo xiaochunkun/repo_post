@@ -7,3 +7,5 @@ image: assets/ccbikai_BroadcastChannel_cropped.png
 # [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
 
 Self-host your Telegram channel as a web page using serverless or Docker
+
+使用无服务器或 Docker 将 Telegram 频道自托管为网页

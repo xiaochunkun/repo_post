@@ -7,3 +7,5 @@ image: assets/IceWhaleTech_CasaOS_20251019_002802_932_20251019_015440--20251019T
 # [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS/)
 
 Personal cloud for autonomy and copilot potential
+
+用于自主性和副驾驶潜力的个人云

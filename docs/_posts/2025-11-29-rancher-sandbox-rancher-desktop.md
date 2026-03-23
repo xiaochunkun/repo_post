@@ -7,3 +7,5 @@ image: assets/rancher_sandbox_rancher_desktop_20251126_013824_059_20251129_02211
 # [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop/)
 
 Kubernetes and container management on the desktop
+
+桌面上的Kubernetes和容器管理

@@ -7,3 +7,5 @@ image: assets/freema_openclaw_mcp_20260316_024841_073_20260316_024956_d015bb.png
 # [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp)
 
 MCP server for OpenClaw AI assistant integration
+
+MCP服务器，用于集成OpenClaw AI助手

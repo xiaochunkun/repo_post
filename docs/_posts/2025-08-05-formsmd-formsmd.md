@@ -7,3 +7,5 @@ image: assets/formsmd_formsmd_cropped.png
 # [formsmd/formsmd](https://github.com/formsmd/formsmd)
 
 build forms and surveys with minimal code
+
+用最少的代码构建表单和调查

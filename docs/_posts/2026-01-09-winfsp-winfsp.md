@@ -7,3 +7,5 @@ image: assets/winfsp_winfsp_20260109_043448_207_20260109_043501_d0d6c1.png
 # [winfsp/winfsp](https://github.com/winfsp/winfsp)
 
 FUSE for Windows to build file systems in user mode
+
+适用于Windows的FUSE，用于在用户模式下构建文件系统

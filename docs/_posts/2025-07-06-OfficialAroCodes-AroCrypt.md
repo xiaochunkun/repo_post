@@ -7,3 +7,5 @@ image: assets/OfficialAroCodes_AroCrypt_cropped.png
 # [OfficialAroCodes/AroCrypt](https://github.com/OfficialAroCodes/AroCrypt)
 
 encryption and decryption scripts for files and text
+
+文件和文本的加密解密脚本

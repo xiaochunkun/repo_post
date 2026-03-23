@@ -7,3 +7,5 @@ image: assets/GreenmaskIO_greenmask_cropped.png
 # [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask)
 
 tool for anonymizing and generating database dumps
+
+用于匿名化和生成数据库转储的工具

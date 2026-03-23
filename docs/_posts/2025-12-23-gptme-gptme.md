@@ -7,3 +7,5 @@ image: assets/gptme_gptme_20251222_071031_048_20251222_071102_afb325.png
 # [gptme/gptme](https://github.com/gptme/gptme/)
 
 AI agent with terminal tools
+
+带终端工具的AI代理

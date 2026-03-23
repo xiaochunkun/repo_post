@@ -7,3 +7,5 @@ image: assets/owncast_owncast_20260129_023638_092_20260129_023734_ddfbcd.png
 # [owncast/owncast](https://github.com/owncast/owncast)
 
 Self-hosted live video streaming and chat server
+
+自托管实时视频流和聊天服务器

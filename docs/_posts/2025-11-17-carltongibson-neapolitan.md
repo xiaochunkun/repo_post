@@ -7,3 +7,5 @@ image: assets/carltongibson_neapolitan_20251115_054147_765_20251117_031153_7f306
 # [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan/)
 
 CRUD views for Django
+
+Django 的 CRUD 视图

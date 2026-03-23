@@ -7,3 +7,5 @@ image: assets/LibrePCB_LibrePCB_20260305_113623_628_20260305_113809_850902.png
 # [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB)
 
 EDA suite for development of printed circuit boards
+
+用于印刷电路板开发的EDA套件

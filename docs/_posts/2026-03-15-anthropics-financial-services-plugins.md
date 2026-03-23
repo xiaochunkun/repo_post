@@ -7,3 +7,5 @@ image: assets/anthropics_financial_services_plugins_20260303_112259_790_20260303
 # [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins)
 
 Plugins for financial workflows via Claude
+
+通过Claude进行金融工作流的插件

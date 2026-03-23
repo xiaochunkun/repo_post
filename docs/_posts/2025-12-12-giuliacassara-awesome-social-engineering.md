@@ -7,3 +7,5 @@ image: assets/giuliacassara_awesome_social_engineering_20251209_045751_268_20251
 # [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering/)
 
 Curated list of social engineering resources
+
+精选的社会工程学资源列表

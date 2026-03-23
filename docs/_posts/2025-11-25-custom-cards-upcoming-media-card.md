@@ -7,3 +7,5 @@ image: assets/custom_cards_upcoming_media_card_20251123_195000_341_20251125_0125
 # [custom-cards/upcoming-media-card](https://github.com/custom-cards/upcoming-media-card/)
 
 Displays upcoming media in Home Assistant
+
+在 Home Assistant 中显示即将播放的媒体

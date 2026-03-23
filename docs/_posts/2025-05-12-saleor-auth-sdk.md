@@ -7,3 +7,5 @@ image: assets/saleor_auth-sdk_cropped.png
 # [saleor/auth-sdk](https://github.com/saleor/auth-sdk)
 
 Authentication library for Saleor e-commerce applications
+
+用于Saleor电子商务应用的身份验证库

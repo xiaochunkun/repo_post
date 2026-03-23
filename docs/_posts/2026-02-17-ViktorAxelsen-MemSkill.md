@@ -7,3 +7,5 @@ image: assets/ViktorAxelsen_MemSkill_20260207_124526_671_20260207_124541_591c42.
 # [ViktorAxelsen/MemSkill](https://github.com/ViktorAxelsen/MemSkill)
 
 Framework for agents to learn and evolve memory skills from feedback
+
+代理从反馈中学习和进化记忆技能的框架

@@ -7,3 +7,5 @@ image: assets/danvergara_dblab_20260129_203601_724_20260129_203655_caa6d4.png
 # [danvergara/dblab](https://github.com/danvergara/dblab)
 
 Terminal UI for database management
+
+数据库管理的终端 UI

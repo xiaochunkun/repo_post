@@ -7,3 +7,5 @@ image: assets/ds_horizon_datagen_20260118_044353_198_20260118_044408_ed9ad1.png
 # [ds-horizon/datagen](https://github.com/ds-horizon/datagen)
 
 Generates synthetic data from models in a DSL
+
+从 DSL 模型生成合成数据

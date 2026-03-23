@@ -7,3 +7,5 @@ image: assets/slidevjs_slidev_cropped.png
 # [slidevjs/slidev](https://github.com/slidevjs/slidev)
 
 Markdown-based presentation slides for developers
+
+基于 Markdown 的开发者演示幻灯片

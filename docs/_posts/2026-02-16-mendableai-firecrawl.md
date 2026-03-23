@@ -7,3 +7,5 @@ image: assets/mendableai_firecrawl_20260119_204110_519_20260119_204124_1e5b00.pn
 # [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 
 Turns websites into markdown for LLMs
+
+将网站转换为 Markdown 供 LLM 使用

@@ -7,3 +7,5 @@ image: assets/codse_animata_20251127_182307_775_20251130_052003_3584c2--20251130
 # [codse/animata](https://github.com/codse/animata/)
 
 Handcrafted interaction animations and visual effects
+
+手工制作的交互动画和视觉效果

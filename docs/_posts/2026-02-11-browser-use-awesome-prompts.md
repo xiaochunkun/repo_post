@@ -7,3 +7,5 @@ image: assets/browser_use_awesome_prompts_20260204_142030_320_20260204_142046_23
 # [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts)
 
 Prompts for browser agents
+
+浏览器代理提示词

@@ -7,3 +7,5 @@ image: assets/khanhduytran0_LiveContainer_20260120_064507_724_20260120_064522_1e
 # [khanhduytran0/LiveContainer](https://github.com/khanhduytran0/LiveContainer)
 
 Runs iOS apps without installation
+
+无需安装即可运行 iOS 应用

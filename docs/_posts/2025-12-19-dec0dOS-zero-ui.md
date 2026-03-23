@@ -7,3 +7,5 @@ image: assets/dec0dOS_zero_ui_20251218_013019_164_20251218_013036_fb098c.png
 # [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui/)
 
 Web interface for a self-hosted ZeroTier network controller
+
+自托管 ZeroTier 网络控制器的 Web 界面

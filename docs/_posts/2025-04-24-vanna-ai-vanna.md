@@ -7,3 +7,5 @@ image: assets/vanna-ai_vanna_cropped.png
 # [vanna-ai/vanna](https://github.com/vanna-ai/vanna)
 
 Chat with your SQL databaseusing Python and LLMs
+
+使用Python和LLM与SQL数据库聊天

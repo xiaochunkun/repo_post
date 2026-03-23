@@ -7,3 +7,5 @@ image: assets/pydio_cells_cropped.png
 # [pydio/cells](https://github.com/pydio/cells)
 
 self-hosted file sharing and collaboration for teams
+
+用于团队的自托管文件共享和协作

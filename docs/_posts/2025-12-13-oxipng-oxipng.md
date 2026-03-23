@@ -7,3 +7,5 @@ image: assets/oxipng_oxipng_20251209_062953_629_20251209_063109_3b3075.png
 # [oxipng/oxipng](https://github.com/oxipng/oxipng/)
 
 Optimizer for PNG compression via multithreading
+
+通过多线程优化 PNG 压缩

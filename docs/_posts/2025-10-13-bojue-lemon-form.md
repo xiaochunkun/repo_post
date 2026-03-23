@@ -7,3 +7,5 @@ image: assets/20251013T000855743--bojue--lemon-form--20251013T001551320--cropped
 # [bojue/lemon-form](https://github.com/bojue/lemon-form)
 
 form management library for Vue and TypeScript with dynamic rendering and validation
+
+用于 Vue 和 TypeScript 的表单管理库，支持动态渲染和验证

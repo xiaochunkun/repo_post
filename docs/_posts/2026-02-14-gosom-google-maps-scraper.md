@@ -7,3 +7,5 @@ image: assets/gosom_google_maps_scraper_20260209_010112_218_20260209_010149_494c
 # [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
 
 Extracts business data from Google Maps via CLI or API
+
+通过 CLI 或 API 从 Google Maps 提取业务数据

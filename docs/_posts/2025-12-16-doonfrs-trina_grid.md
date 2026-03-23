@@ -7,3 +7,5 @@ image: assets/doonfrs_trina_grid_20251214_214457_258_20251214_214540_9a2c1d.png
 # [doonfrs/trina_grid](https://github.com/doonfrs/trina_grid/)
 
 Data grid for Flutter with editing and tabular data management
+
+支持编辑和表格数据管理的Flutter数据网格

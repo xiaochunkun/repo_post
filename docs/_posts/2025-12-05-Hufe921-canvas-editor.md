@@ -7,3 +7,5 @@ image: assets/Hufe921_canvas_editor_20251202_213233_388_20251202_213427_2849cd.p
 # [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor/)
 
 Rich text editor built with Canvas and SVG
+
+基于 Canvas 和 SVG 构建的富文本编辑器

@@ -7,3 +7,5 @@ image: assets/neural_maze_ava_whatsapp_agent_course_20260227_153513_758_20260227
 # [neural-maze/ava-whatsapp-agent-course](https://github.com/neural-maze/ava-whatsapp-agent-course)
 
 WhatsApp agent course using LangGraph and Groq
+
+使用LangGraph和Groq的WhatsApp代理课程

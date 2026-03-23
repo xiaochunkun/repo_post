@@ -7,3 +7,5 @@ image: assets/isamert_scli_20251105_234938_551_20251106_001858_220a0d--20251106T
 # [isamert/scli](https://github.com/isamert/scli/)
 
 Terminal user interface for Signal with Vim-like navigation
+
+具有 Vim 风格导航的 Signal 终端用户界面

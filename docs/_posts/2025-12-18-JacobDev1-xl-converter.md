@@ -7,3 +7,5 @@ image: assets/JacobDev1_xl_converter_20251216_165339_825_20251216_165404_bb3306.
 # [JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter/)
 
 Converts images to modern formats like JPEG XL and AVIF
+
+将图像转换为 JPEG XL 和 AVIF 等现代格式

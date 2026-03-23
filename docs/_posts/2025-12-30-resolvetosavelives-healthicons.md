@@ -7,3 +7,5 @@ image: assets/resolvetosavelives_healthicons_20251228_024628_692_20251228_024646
 # [resolvetosavelives/healthicons](https://github.com/resolvetosavelives/healthicons/)
 
 Open source health icons in SVG and PNG formats
+
+SVG和PNG格式的开源健康图标

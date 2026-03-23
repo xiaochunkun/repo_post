@@ -7,3 +7,5 @@ image: assets/luckjiawei_frpc-desktop_cropped.png
 # [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
 FRP desktop client for proxy configuration
+
+用于代理配置的FRP桌面客户端

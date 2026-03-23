@@ -7,3 +7,5 @@ image: assets/th-ch_youtube-music_cropped.png
 # [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
 
 Electron app for running YouTube Music on desktop with plugin support
+
+Electron应用，在桌面上运行YouTube Music，支持插件

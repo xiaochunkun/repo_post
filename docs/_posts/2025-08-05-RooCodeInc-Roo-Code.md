@@ -7,3 +7,5 @@ image: assets/RooCodeInc_Roo-Code_cropped.png
 # [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 
 AI coding agent in your editor
+
+编辑器中的 AI 编码智能体

@@ -7,3 +7,5 @@ image: assets/20250906T220452077--sharkdp--bat--20250908T094927614--cropped.png
 # [sharkdp/bat](https://github.com/sharkdp/bat)
 
 bat is like cat but adds syntax highlighting and git integration for viewing files in your terminal
+
+bat 类似 cat 但增加了语法高亮和 Git 集成，方便终端查看文件

@@ -7,3 +7,5 @@ image: assets/wilsonfreitas_awesome-quant_cropped.png
 # [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 
 list of libraries, packages, and resources for quantitative finance
+
+量化金融的库、包和资源列表

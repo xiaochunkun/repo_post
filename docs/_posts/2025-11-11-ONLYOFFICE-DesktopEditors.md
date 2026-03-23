@@ -7,3 +7,5 @@ image: assets/ONLYOFFICE_DesktopEditors_20251111_031523_137_20251111_145435_b93a
 # [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors/)
 
 Desktop office suite for document editing and collaboration
+
+用于文档编辑和协作的桌面办公套件

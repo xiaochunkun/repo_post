@@ -7,3 +7,5 @@ image: assets/kaythomas0_noisedash_20251121_122819_794_20251121_211618_df61e4--2
 # [kaythomas0/noisedash](https://github.com/kaythomas0/noisedash/)
 
 Generates soundscapes in a browser
+
+在浏览器中生成音景

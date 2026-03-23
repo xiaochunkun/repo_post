@@ -7,3 +7,5 @@ image: assets/googleapis_genai_toolbox_20260227_190527_637_20260227_190720_a70b2
 # [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
 
 Server for database tools via MCP
+
+通过 MCP 提供数据库工具的服务器

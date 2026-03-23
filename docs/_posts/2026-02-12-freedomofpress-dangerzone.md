@@ -7,3 +7,5 @@ image: assets/freedomofpress_dangerzone_20260208_190456_602_20260208_190615_e049
 # [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone)
 
 Converts documents into pixels to remove malware
+
+将文档转换为像素以移除恶意软件

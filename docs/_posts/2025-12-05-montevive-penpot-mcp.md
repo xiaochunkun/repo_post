@@ -7,3 +7,5 @@ image: assets/montevive_penpot_mcp_20251202_220502_867_20251202_220527_cd704b.pn
 # [montevive/penpot-mcp](https://github.com/montevive/penpot-mcp/)
 
 Connects LLMs to Penpot designs via Model Context Protocol
+
+通过 Model Context Protocol 连接 LLM 到 Penpot 设计

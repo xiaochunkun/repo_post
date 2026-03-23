@@ -7,3 +7,5 @@ image: assets/Nekmo_dirhunt_20260129_182015_042_20260129_182101_842469.png
 # [Nekmo/dirhunt](https://github.com/Nekmo/dirhunt)
 
 Finds web directories without brute force
+
+无需暴力破解即可查找Web目录

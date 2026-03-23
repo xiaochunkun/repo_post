@@ -7,3 +7,5 @@ image: assets/20250929T015654485--Kanaries--graphic-walker--20250929T020326348--
 # [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker)
 
 drag-and-drop data visualization and analysis for React apps
+
+React应用的拖放数据可视化和分析

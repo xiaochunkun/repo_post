@@ -7,3 +7,5 @@ image: assets/lovisdotio_SpriteSwap_Studio_20260115_103722_738_20260115_103749_d
 # [lovisdotio/SpriteSwap-Studio](https://github.com/lovisdotio/SpriteSwap-Studio)
 
 Generates Game Boy ROMs from photos using AI
+
+使用AI从照片生成Game Boy ROM

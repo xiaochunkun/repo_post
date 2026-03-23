@@ -7,3 +7,5 @@ image: assets/dockur_casa_20260130_162148_931_20260130_162226_4ed834.png
 # [dockur/casa](https://github.com/dockur/casa)
 
 Self-hosting operating system in a Docker container
+
+Docker 容器中的自托管操作系统

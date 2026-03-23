@@ -7,3 +7,5 @@ image: assets/automatisch_automatisch_cropped.png
 # [automatisch/automatisch](https://github.com/automatisch/automatisch)
 
 Automate workflows and tasks
+
+自动化工作流和任务

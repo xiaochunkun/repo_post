@@ -7,3 +7,5 @@ image: assets/LuanRT_YouTube_js_20260104_162355_612_20260104_162411_b04353.png
 # [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js/)
 
 Interacts with YouTube via InnerTube
+
+通过InnerTube与YouTube交互

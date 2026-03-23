@@ -7,3 +7,5 @@ image: assets/BuilderIO_gpt-crawler_cropped.png
 # [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
 
 crawls websites to collect data for AI and custom GPTs
+
+爬取网站以收集 AI 和自定义 GPT 数据

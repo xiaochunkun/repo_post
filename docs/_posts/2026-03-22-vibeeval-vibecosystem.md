@@ -7,3 +7,5 @@ image: assets/vibeeval_vibecosystem_20260321_210314_341_20260321_212038_0c800d.p
 # [vibeeval/vibecosystem](https://github.com/vibeeval/vibecosystem)
 
 119 agent AI software team
+
+119个智能体的AI软件团队

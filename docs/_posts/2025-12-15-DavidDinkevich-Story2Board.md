@@ -7,3 +7,5 @@ image: assets/DavidDinkevich_Story2Board_20251213_084807_081_20251213_084844_196
 # [DavidDinkevich/Story2Board](https://github.com/DavidDinkevich/Story2Board/)
 
 Generates storyboards from text without training
+
+无需训练即可从文本生成故事板

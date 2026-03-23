@@ -7,3 +7,5 @@ image: assets/gershwin_desktop_gershwin_desktop_20251201_051047_700_20251201_051
 # [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop/)
 
 GNUstep desktop environment with Mac OS X UX
+
+具有 Mac OS X UX 的 GNUstep 桌面环境

@@ -7,3 +7,5 @@ image: assets/0xsyr0_Awesome_Cybersecurity_Handbooks_20251113_203057_884_2025111
 # [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/)
 
 Collection of notes for CTFs and red teaming
+
+CTF和红队笔记合集

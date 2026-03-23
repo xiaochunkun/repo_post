@@ -7,3 +7,5 @@ image: assets/HKU_MMLab_OmniX_20251120_014246_404_20251120_020749_759bb8--202511
 # [HKU-MMLab/OmniX](https://github.com/HKU-MMLab/OmniX/)
 
 Generates 3D scenes from panoramas
+
+全景图生成3D场景

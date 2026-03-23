@@ -7,3 +7,5 @@ image: assets/bitwarden_clients_20260205_231249_765_20260205_231307_0db770.png
 # [bitwarden/clients](https://github.com/bitwarden/clients)
 
 Password manager for web, browser, desktop, and CLI
+
+适用于Web、浏览器、桌面和CLI的密码管理器

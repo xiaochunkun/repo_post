@@ -7,3 +7,5 @@ image: assets/0xbitx_DEDSEC_LINX2WIN_20260102_064852_595_20260102_064908_373f6e.
 # [0xbitx/DEDSEC_LINX2WIN](https://github.com/0xbitx/DEDSEC_LINX2WIN/)
 
 Converts Python scripts to Windows executables on Linux
+
+在 Linux 上将 Python 脚本转换为 Windows 可执行文件

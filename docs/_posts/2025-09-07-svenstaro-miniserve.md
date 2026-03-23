@@ -7,3 +7,5 @@ image: assets/20250906T222730753--svenstaro--miniserve--20250906T223008607--crop
 # [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
 
 serve files over http from the command line
+
+通过命令行以 HTTP 方式提供文件服务

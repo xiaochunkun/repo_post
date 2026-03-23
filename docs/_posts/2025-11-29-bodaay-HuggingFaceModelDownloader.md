@@ -7,3 +7,5 @@ image: assets/bodaay_HuggingFaceModelDownloader_20251126_012100_838_20251129_021
 # [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader/)
 
 Downloads Hugging Face models and datasets
+
+下载Hugging Face模型和数据集

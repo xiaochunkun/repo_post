@@ -7,3 +7,5 @@ image: assets/mr_karan_awesome_investing_20251231_230116_196_20251231_230132_b44
 # [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing/)
 
 Curated list of investment and finance resources
+
+精选的投资和金融资源列表

@@ -7,3 +7,5 @@ image: assets/thalesgroup_cert_Watcher_20260120_143942_051_20260120_144039_87bd6
 # [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher)
 
 Automates threat intelligence analysis and monitoring
+
+自动化威胁情报分析和监控

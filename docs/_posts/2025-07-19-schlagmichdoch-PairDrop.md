@@ -7,3 +7,5 @@ image: assets/schlagmichdoch_PairDrop_cropped.png
 # [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
 
 airdrop-style file sharing for any device
+
+适用于任何设备的AirDrop风格文件共享

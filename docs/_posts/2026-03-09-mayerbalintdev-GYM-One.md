@@ -7,3 +7,5 @@ image: assets/mayerbalintdev_GYM_One_20260309_084002_728_20260309_084222_2540d3.
 # [mayerbalintdev/GYM-One](https://github.com/mayerbalintdev/GYM-One)
 
 Gym management platform with member tracking and class scheduling
+
+带会员跟踪和课程安排的健身房管理平台

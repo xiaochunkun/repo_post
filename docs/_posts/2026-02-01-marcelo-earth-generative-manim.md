@@ -7,3 +7,5 @@ image: assets/marcelo_earth_generative_manim_20260128_091934_210_20260128_092019
 # [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim)
 
 Generates Manim animations from text prompts
+
+从文本提示生成 Manim 动画

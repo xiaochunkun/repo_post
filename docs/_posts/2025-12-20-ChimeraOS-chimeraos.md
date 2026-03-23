@@ -7,3 +7,5 @@ image: assets/ChimeraOS_chimeraos_20251218_095451_896_20251218_095508_c098f2.png
 # [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos/)
 
 Steam Big Picture based couch gaming OS
+
+基于 Steam Big Picture 的沙发游戏操作系统

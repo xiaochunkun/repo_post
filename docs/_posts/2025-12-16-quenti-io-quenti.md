@@ -7,3 +7,5 @@ image: assets/quenti_io_quenti_20251214_224732_427_20251214_224836_b8ec92.png
 # [quenti-io/quenti](https://github.com/quenti-io/quenti/)
 
 Open-source Quizlet alternative
+
+开源Quizlet替代品

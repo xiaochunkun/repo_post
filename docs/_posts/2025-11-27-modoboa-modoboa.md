@@ -7,3 +7,5 @@ image: assets/modoboa_modoboa_20251125_025439_840_20251127_163314_a4717e--202511
 # [modoboa/modoboa](https://github.com/modoboa/modoboa/)
 
 Mail hosting and management platform
+
+邮件托管和管理平台

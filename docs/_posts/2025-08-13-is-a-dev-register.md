@@ -7,3 +7,5 @@ image: assets/is-a-dev_register--20250812T233050--cropped.png
 # [is-a-dev/register](https://github.com/is-a-dev/register)
 
 free .is-a.dev subdomains for developers via pull request
+
+通过pull request为开发者提供免费的.is-a.dev子域名

@@ -7,3 +7,5 @@ image: assets/nggit_tremolo_20251031_020439_414_20251031_140559_932db2--20251031
 # [nggit/tremolo](https://github.com/nggit/tremolo/)
 
 Python HTTP server with no dependencies
+
+无依赖的 Python HTTP 服务器

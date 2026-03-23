@@ -7,3 +7,5 @@ image: assets/20250924T060637265--Kanba-co--kanba--20250924T061139943--cropped.p
 # [Kanba-co/kanba](https://github.com/Kanba-co/kanba)
 
 Guide for deploying Next.js API routes with Stripe and Supabase integration
+
+部署 Next.js API 路由的指南，集成 Stripe 和 Supabase

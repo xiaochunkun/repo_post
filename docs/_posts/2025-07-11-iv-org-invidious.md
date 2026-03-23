@@ -7,3 +7,5 @@ image: assets/iv-org_invidious_cropped.png
 # [iv-org/invidious](https://github.com/iv-org/invidious)
 
 privacy-focused YouTube front-end
+
+注重隐私的YouTube前端

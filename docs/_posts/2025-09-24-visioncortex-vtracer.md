@@ -7,3 +7,5 @@ image: assets/20250924T061423943--visioncortex--vtracer--20250924T062233836--cro
 # [visioncortex/vtracer](https://github.com/visioncortex/vtracer)
 
 convert raster images like jpg and png to compact svg vector graphics
+
+将 JPG 和 PNG 等栅格图像转换为紧凑的 SVG 矢量图形

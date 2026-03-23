@@ -7,3 +7,5 @@ image: assets/jktrn_astro_erudite_20251108_200316_466_20251108_215706_aeba02--20
 # [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite/)
 
 Static blogging template built with Astro, Tailwind, and shadcn/ui
+
+使用Astro、Tailwind和shadcn/ui构建的静态博客模板

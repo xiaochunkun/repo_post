@@ -7,3 +7,5 @@ image: assets/rustmailer_bichon_20260211_071258_075_20260211_071323_4ce820.png
 # [rustmailer/bichon](https://github.com/rustmailer/bichon)
 
 Email archiver with full-text search and WebUI
+
+电子邮件归档器，支持全文搜索和 WebUI

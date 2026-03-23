@@ -7,3 +7,5 @@ image: assets/sindresorhus_fkill_20260224_194040_201_20260224_194128_0191b2.png
 # [sindresorhus/fkill](https://github.com/sindresorhus/fkill)
 
 Terminates processes across platforms by name or port
+
+按名称或端口跨平台终止进程

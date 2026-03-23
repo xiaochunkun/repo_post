@@ -7,3 +7,5 @@ image: assets/proyecto26_awesome_jsgames_20251217_191013_789_20251217_191036_602
 # [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames/)
 
 Curated list of open source JavaScript games
+
+精选的开源 JavaScript 游戏列表

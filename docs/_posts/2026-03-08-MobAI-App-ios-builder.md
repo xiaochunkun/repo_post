@@ -7,3 +7,5 @@ image: assets/MobAI_App_ios_builder_20260206_235111_690_20260206_235132_930f1e.p
 # [MobAI-App/ios-builder](https://github.com/MobAI-App/ios-builder)
 
 Builds iOS apps from Windows or Linux via GitHub Actions
+
+通过 GitHub Actions 从 Windows 或 Linux 构建 iOS 应用

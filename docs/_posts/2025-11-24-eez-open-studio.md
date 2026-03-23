@@ -7,3 +7,5 @@ image: assets/eez_open_studio_20251123_171654_955_20251124_094801_6d0e99--202511
 # [eez-open/studio](https://github.com/eez-open/studio/)
 
 Visual tool for embedded GUIs and automation
+
+嵌入式 GUI 和自动化的可视化工具

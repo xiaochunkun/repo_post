@@ -7,3 +7,5 @@ image: assets/Hankanman_Area_Occupancy_Detection_20251123_192310_553_20251125_01
 # [Hankanman/Area-Occupancy-Detection](https://github.com/Hankanman/Area-Occupancy-Detection/)
 
 Bayesian probability occupancy detection for Home Assistant
+
+Home Assistant 的贝叶斯概率占用检测

@@ -7,3 +7,5 @@ image: assets/itskovacs_wingfit_20251125_003115_833_20251126_100439_5d798c--2025
 # [itskovacs/wingfit](https://github.com/itskovacs/wingfit/)
 
 Self-hosted fitness app for planning workouts and tracking records
+
+自托管的健身应用，用于规划锻炼和跟踪记录

@@ -7,3 +7,5 @@ image: assets/Tencent_Hunyuan_HY_WU_20260311_010750_594_20260311_010952_15a405.p
 # [Tencent-Hunyuan/HY-WU](https://github.com/Tencent-Hunyuan/HY-WU)
 
 Generates image edits via neural memory
+
+通过神经记忆生成图像编辑

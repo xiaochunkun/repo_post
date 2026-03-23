@@ -7,3 +7,5 @@ image: assets/V33RU_awesome_connected_things_sec_20260121_001618_935_20260121_00
 # [V33RU/awesome-connected-things-sec](https://github.com/V33RU/awesome-connected-things-sec)
 
 Security resources for IoT, embedded, and industrial systems
+
+IoT、嵌入式和工业系统安全资源

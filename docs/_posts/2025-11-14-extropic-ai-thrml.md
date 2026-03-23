@@ -7,3 +7,5 @@ image: assets/extropic_ai_thrml_20251113_183824_352_20251114_015236_b8a99e--2025
 # [extropic-ai/thrml](https://github.com/extropic-ai/thrml/)
 
 JAX library for efficient block Gibbs sampling
+
+用于高效块Gibbs采样的JAX库

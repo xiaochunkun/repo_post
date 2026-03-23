@@ -7,3 +7,5 @@ image: assets/rlancemartin_llmstxt_architect_20251210_015744_284_20251210_015810
 # [rlancemartin/llmstxt_architect](https://github.com/rlancemartin/llmstxt_architect/)
 
 Uses LLMs to generate llms.txt files
+
+使用 LLMs 生成 llms.txt 文件

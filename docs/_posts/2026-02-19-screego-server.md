@@ -7,3 +7,5 @@ image: assets/screego_server_20260209_175136_206_20260209_175212_6a9619.png
 # [screego/server](https://github.com/screego/server)
 
 Screen sharing via WebRTC
+
+通过WebRTC进行屏幕共享

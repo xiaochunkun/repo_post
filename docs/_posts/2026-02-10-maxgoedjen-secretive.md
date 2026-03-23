@@ -7,3 +7,5 @@ image: assets/maxgoedjen_secretive_20260204_101853_652_20260204_101950_3ddfec.pn
 # [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
 
 Stores SSH keys in the Secure Enclave
+
+在Secure Enclave中存储SSH密钥

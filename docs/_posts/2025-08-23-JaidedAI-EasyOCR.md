@@ -7,3 +7,5 @@ image: assets/20250822T023354717--JaidedAI--EasyOCR--20250822T023834830--cropped
 # [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
 
 extracts text from images in 80+ languages using Python
+
+Python 图像文字识别工具，支持 80+ 种语言

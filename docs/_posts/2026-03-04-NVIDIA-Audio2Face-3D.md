@@ -7,3 +7,5 @@ image: assets/NVIDIA_Audio2Face_3D_20260205_142706_732_20260205_142722_67564a.pn
 # [NVIDIA/Audio2Face-3D](https://github.com/NVIDIA/Audio2Face-3D)
 
 Generates facial animation from audio
+
+从音频生成面部动画

@@ -7,3 +7,5 @@ image: assets/camenduru_ComfyUI_20260119_101851_187_20260119_101906_e5048d.png
 # [camenduru/ComfyUI](https://github.com/camenduru/ComfyUI)
 
 Graph interface for stable diffusion pipelines
+
+稳定扩散管线的图形界面

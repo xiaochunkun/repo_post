@@ -7,3 +7,5 @@ image: assets/20251015T010745908--maurodesouza--profile-readme-generator--202510
 # [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
 
 generate a custom GitHub profile README in minutes
+
+在几分钟内生成自定义的 GitHub 个人资料 README

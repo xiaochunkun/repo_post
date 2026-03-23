@@ -7,3 +7,5 @@ image: assets/ashvardanian_StringWa_rs_20251123_112304_078_20251124_003207_22d20
 # [ashvardanian/StringWa.rs](https://github.com/ashvardanian/StringWa.rs/)
 
 Benchmarks string processing on CPUs and GPUs
+
+CPU 和 GPU 上的字符串处理基准测试

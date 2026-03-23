@@ -7,3 +7,5 @@ image: assets/friction2d_friction_20260122_090736_529_20260122_090827_a06f2f.png
 # [friction2d/friction](https://github.com/friction2d/friction)
 
 Creates vector and raster animations for web and video
+
+为网页和视频创建矢量与光栅动画

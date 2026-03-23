@@ -7,3 +7,5 @@ image: assets/MiniZinc_minizinc_python_20251126_112301_297_20251129_022654_c5ee5
 # [MiniZinc/minizinc-python](https://github.com/MiniZinc/minizinc-python/)
 
 Access MiniZinc functionalities directly from Python
+
+直接从Python访问MiniZinc功能

@@ -7,3 +7,5 @@ image: assets/20250829T043652903--javabuddy--best-system-design-resources--20250
 # [javabuddy/best-system-design-resources](https://github.com/javabuddy/best-system-design-resources)
 
 Curated list of system design interview resources, courses, books, and cheat sheets for easy prep
+
+精选的系统设计面试资源、课程、书籍和速查表，便于准备

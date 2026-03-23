@@ -7,3 +7,5 @@ image: assets/b7leung_MLE_Flashcards_20260213_064804_940_20260213_064913_0d04b1.
 # [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards)
 
 Flashcards for machine learning interviews and research
+
+机器学习面试和研究的闪卡

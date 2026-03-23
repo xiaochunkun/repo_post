@@ -7,3 +7,5 @@ image: assets/microsandbox_microsandbox_20260130_022616_714_20260130_022707_63b0
 # [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)
 
 Runs untrusted code in hardware-isolated microVMs
+
+在硬件隔离的microVMs中运行不受信任的代码

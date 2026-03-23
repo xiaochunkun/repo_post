@@ -7,3 +7,5 @@ image: assets/secureCodeBox_secureCodeBox_20260120_035736_868_20260120_035753_81
 # [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox)
 
 Orchestrates security scanners in Kubernetes clusters
+
+在 Kubernetes 集群中编排安全扫描器

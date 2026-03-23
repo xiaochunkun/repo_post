@@ -7,3 +7,5 @@ image: assets/crshdn_mission_control_20260221_102221_754_20260221_102329_209fb9.
 # [crshdn/mission-control](https://github.com/crshdn/mission-control)
 
 Dashboard to orchestrate AI agents via OpenClaw Gateway
+
+通过OpenClaw Gateway编排AI代理的仪表板

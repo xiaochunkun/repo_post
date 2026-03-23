@@ -7,3 +7,5 @@ image: assets/Snapchat_KeyDB--20250903T022559412--cropped.png
 # [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB)
 
 multithreaded Redis fork focused on high performance
+
+专注高性能的多线程 Redis 分支

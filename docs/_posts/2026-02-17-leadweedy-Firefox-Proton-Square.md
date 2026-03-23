@@ -7,3 +7,5 @@ image: assets/leadweedy_Firefox_Proton_Square_20260120_212941_976_20260120_21300
 # [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square)
 
 CSS theme for square tabs and menus in Firefox
+
+Firefox方形标签和菜单的CSS主题

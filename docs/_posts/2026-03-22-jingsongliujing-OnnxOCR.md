@@ -7,3 +7,5 @@ image: assets/jingsongliujing_OnnxOCR_20260322_075014_714_20260322_075111_a4e3e7
 # [jingsongliujing/OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
 OCR engine based on ONNX
+
+基于ONNX的OCR引擎

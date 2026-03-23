@@ -7,3 +7,5 @@ image: assets/20250818T110545332_jianchang512_clone-voice--20250901T033217571--c
 # [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice)
 
 simple voice cloning tool with multi-language support
+
+简单好用的声音克隆工具，支持多语言

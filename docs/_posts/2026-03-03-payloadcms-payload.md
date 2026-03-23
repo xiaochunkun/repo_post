@@ -7,3 +7,5 @@ image: assets/payloadcms_payload_20260302_083457_485_20260302_083620_1a4fbf.png
 # [payloadcms/payload](https://github.com/payloadcms/payload)
 
 Headless CMS inside Next.js app folder
+
+Next.js 应用文件夹内的无头 CMS

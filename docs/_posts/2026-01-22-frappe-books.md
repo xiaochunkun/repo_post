@@ -7,3 +7,5 @@ image: assets/frappe_books_20260121_233803_924_20260121_233822_1c51fd.png
 # [frappe/books](https://github.com/frappe/books)
 
 Accounting software for small businesses
+
+面向小企业的会计软件

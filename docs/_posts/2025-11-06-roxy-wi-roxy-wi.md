@@ -7,3 +7,5 @@ image: assets/roxy_wi_roxy_wi_20251105_142317_822_20251105_210928_fc9b73--202511
 # [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi/)
 
 Web GUI for managing HAProxy, Nginx, and Keepalived
+
+管理HAProxy、Nginx和Keepalived的Web图形界面

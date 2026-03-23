@@ -7,3 +7,5 @@ image: assets/20250915T044842163--electron--electron--20250915T045157577--croppe
 # [electron/electron](https://github.com/electron/electron)
 
 build desktop apps using JavaScript, HTML, and CSS
+
+用 JavaScript、HTML 和 CSS 构建桌面应用

@@ -7,3 +7,5 @@ image: assets/protongraph_protongraph_20251209_063446_983_20251209_063525_6ebacc
 # [protongraph/protongraph](https://github.com/protongraph/protongraph/)
 
 Node-based software for procedural 3D content creation
+
+用于程序化 3D 内容创建的节点软件

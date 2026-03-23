@@ -7,3 +7,5 @@ image: assets/xCuri0_ReBarUEFI_20251123_194843_208_20251125_012438_117675--20251
 # [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI/)
 
 Enables Resizable BAR on unsupported systems
+
+在不支持的系统上启用 Resizable BAR

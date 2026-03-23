@@ -7,3 +7,5 @@ image: assets/0xSojalSec_stealth_browser_mcp_20260111_074212_640_20260111_074226
 # [0xSojalSec/stealth-browser-mcp](https://github.com/0xSojalSec/stealth-browser-mcp)
 
 Bypasses bot detection for AI agents
+
+绕过AI代理的机器人检测

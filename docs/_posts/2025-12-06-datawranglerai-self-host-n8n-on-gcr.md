@@ -7,3 +7,5 @@ image: assets/datawranglerai_self_host_n8n_on_gcr_20251203_014431_223_20251203_0
 # [datawranglerai/self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr/)
 
 Self-hosts n8n on Google Cloud Run
+
+在Google Cloud Run上自托管n8n

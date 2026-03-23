@@ -7,3 +7,5 @@ image: assets/homebridge_docker_homebridge_20260130_071750_888_20260130_071826_2
 # [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge)
 
 Emulates iOS HomeKit API on network via Docker
+
+通过 Docker 在网络中模拟 iOS HomeKit API

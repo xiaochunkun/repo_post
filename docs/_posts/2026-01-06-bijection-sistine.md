@@ -7,3 +7,5 @@ image: assets/bijection_sistine_20260104_172224_491_20260104_172243_93b849.png
 # [bijection/sistine](https://github.com/bijection/sistine/)
 
 Turns a MacBook into a touchscreen with a mirror and computer vision
+
+通过镜子和计算机视觉将 MacBook 变为触摸屏

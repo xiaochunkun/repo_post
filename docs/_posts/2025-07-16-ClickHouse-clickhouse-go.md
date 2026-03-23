@@ -7,3 +7,5 @@ image: assets/ClickHouse_clickhouse-go_cropped.png
 # [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go)
 
 Go driver for ClickHouse database
+
+ClickHouse数据库的Go驱动

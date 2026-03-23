@@ -7,3 +7,5 @@ image: assets/cassandra_home_information_20260122_010837_982_20260122_010901_87b
 # [cassandra/home-information](https://github.com/cassandra/home-information)
 
 Maps home data onto floor plans
+
+将家庭数据映射到平面图

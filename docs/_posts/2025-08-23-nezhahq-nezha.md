@@ -7,3 +7,5 @@ image: assets/20250822T023639476--nezhahq--nezha--20250822T024230819--cropped.pn
 # [nezhahq/nezha](https://github.com/nezhahq/nezha)
 
 self-hosted server and website monitoring tool
+
+自托管服务器和网站监控工具

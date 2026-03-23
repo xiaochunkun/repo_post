@@ -7,3 +7,5 @@ image: assets/mufeedvh_pdfrip_cropped.png
 # [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip)
 
 multi-threaded PDF password cracker
+
+多线程 PDF 密码破解器

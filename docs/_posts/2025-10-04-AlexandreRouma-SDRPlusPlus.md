@@ -7,3 +7,5 @@ image: assets/20251003T231630746--AlexandreRouma--SDRPlusPlus--20251003T23190805
 # [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)
 
 Cross-platform SDR software with waterfall display and multi-VFO support
+
+带瀑布显示和多 VFO 支持的跨平台 SDR 软件

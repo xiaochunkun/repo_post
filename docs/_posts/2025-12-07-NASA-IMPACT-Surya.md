@@ -7,3 +7,5 @@ image: assets/NASA_IMPACT_Surya_20251205_010722_946_20251205_010745_e8ac51.png
 # [NASA-IMPACT/Surya](https://github.com/NASA-IMPACT/Surya/)
 
 Foundation model for heliophysics
+
+太阳物理学基础模型

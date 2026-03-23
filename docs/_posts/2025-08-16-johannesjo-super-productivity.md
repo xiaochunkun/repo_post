@@ -7,3 +7,5 @@ image: assets/johannesjo_super-productivity--20250815T021116495--cropped.png
 # [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
 
 advanced todo list app with time tracking and integrations
+
+具有时间跟踪和集成功能的高级待办事项应用

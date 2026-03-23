@@ -7,3 +7,5 @@ image: assets/binwiederhier_ntfy_20260108_014459_291_20260108_014513_c774cf.png
 # [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 
 Sends push notifications via HTTP requests
+
+通过 HTTP 请求发送推送通知

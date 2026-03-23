@@ -7,3 +7,5 @@ image: assets/formbricks_formbricks_20260227_094456_643_20260227_094635_103eec.p
 # [formbricks/formbricks](https://github.com/formbricks/formbricks)
 
 Open source Qualtrics alternative for surveys
+
+开源的 Qualtrics 替代品，用于调查

@@ -7,3 +7,5 @@ image: assets/nfcgate_nfcgate_cropped.png
 # [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate)
 
 Android app for capturing and analyzing NFC traffic
+
+用于捕获和分析NFC流量的Android应用

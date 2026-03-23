@@ -7,3 +7,5 @@ image: assets/hrishioa_lumentis_20260205_123045_407_20260205_123124_fad62e.png
 # [hrishioa/lumentis](https://github.com/hrishioa/lumentis)
 
 Generates documentation from transcripts and unstructured data
+
+从转录和非结构化数据生成文档

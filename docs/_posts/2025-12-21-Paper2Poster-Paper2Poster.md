@@ -7,3 +7,5 @@ image: assets/Paper2Poster_Paper2Poster_20251219_031710_643_20251219_031727_256a
 # [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster/)
 
 Generates posters from scientific papers using agents
+
+使用代理从科学论文生成海报

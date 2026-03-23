@@ -7,3 +7,5 @@ image: assets/agentica-project_rllm--20250905T031735677--cropped.png
 # [agentica-project/rllm](https://github.com/agentica-project/rllm)
 
 open-source reinforcement learning for language models
+
+用于语言模型的开源强化学习框架

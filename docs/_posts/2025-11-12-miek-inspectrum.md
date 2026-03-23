@@ -7,3 +7,5 @@ image: assets/miek_inspectrum_20251111_193923_906_20251112_025204_f4edc5--202511
 # [miek/inspectrum](https://github.com/miek/inspectrum/)
 
 Tool for analysing captured signals from software-defined radio receivers
+
+用于分析软件定义无线电接收器捕获信号的工具

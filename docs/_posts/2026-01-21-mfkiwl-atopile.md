@@ -7,3 +7,5 @@ image: assets/mfkiwl_atopile_20260120_162352_948_20260120_162414_fd0490.png
 # [mfkiwl/atopile](https://github.com/mfkiwl/atopile)
 
 Builds circuit boards with code
+
+用代码构建电路板

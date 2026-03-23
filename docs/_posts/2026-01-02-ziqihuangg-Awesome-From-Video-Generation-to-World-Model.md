@@ -7,3 +7,5 @@ image: assets/ziqihuangg_Awesome_From_Video_Generation_to_World_Model_20260101_1
 # [ziqihuangg/Awesome-From-Video-Generation-to-World-Model](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model/)
 
 Curates research on video generation for world modeling
+
+整理视频生成用于世界建模的研究

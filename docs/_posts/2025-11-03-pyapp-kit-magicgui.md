@@ -7,3 +7,5 @@ image: assets/pyapp_kit_magicgui_20251031_090010_235_20251102_154831_edddf0--202
 # [pyapp-kit/magicgui](https://github.com/pyapp-kit/magicgui/)
 
 Generates a GUI from a function's type annotations
+
+根据函数类型注解生成GUI

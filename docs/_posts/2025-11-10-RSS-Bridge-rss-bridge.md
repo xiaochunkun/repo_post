@@ -7,3 +7,5 @@ image: assets/RSS_Bridge_rss_bridge_20251110_130923_177_20251110_131413_477060--
 # [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge/)
 
 Generates RSS feeds for websites without one
+
+为无RSS的网站生成RSS源

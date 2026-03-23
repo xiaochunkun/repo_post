@@ -7,3 +7,5 @@ image: assets/KyleAMathews_hegelian_dialectic_skill_20260308_192751_459_20260308
 # [KyleAMathews/hegelian-dialectic-skill](https://github.com/KyleAMathews/hegelian-dialectic-skill)
 
 Orchestrates AI subagents to automate reasoning through dialectic synthesis
+
+通过辩证合成协调AI子代理以自动化推理

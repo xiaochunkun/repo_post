@@ -7,3 +7,5 @@ image: assets/dashingsoft_pyarmor_20251201_010607_740_20251201_012308_698656.png
 # [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor/)
 
 Obfuscates Python scripts and binds them to machines
+
+混淆Python脚本并将其绑定到机器

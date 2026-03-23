@@ -7,3 +7,5 @@ image: assets/medusajs_b2b_starter_medusa_20251225_094218_707_20251225_094238_34
 # [medusajs/b2b-starter-medusa](https://github.com/medusajs/b2b-starter-medusa/)
 
 B2B ecommerce starter with quote management and company accounts
+
+B2B 电商入门模板，支持报价管理和公司账户

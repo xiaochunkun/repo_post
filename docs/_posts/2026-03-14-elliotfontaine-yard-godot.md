@@ -7,3 +7,5 @@ image: assets/elliotfontaine_yard_godot_20260302_123322_136_20260302_123521_fbcb
 # [elliotfontaine/yard-godot](https://github.com/elliotfontaine/yard-godot)
 
 Spreadsheet editor and runtime API for Godot resources
+
+Godot资源的电子表格编辑器和运行时API

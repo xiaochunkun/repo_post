@@ -7,3 +7,5 @@ image: assets/0x0be_yesitsme_20260104_045151_855_20260104_045209_b3b98e.png
 # [0x0be/yesitsme](https://github.com/0x0be/yesitsme/)
 
 Finds Instagram profiles by name and email or phone
+
+通过姓名、邮箱或电话查找 Instagram 个人资料

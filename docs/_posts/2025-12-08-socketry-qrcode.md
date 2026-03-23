@@ -7,3 +7,5 @@ image: assets/socketry_qrcode_20251205_031137_854_20251205_031214_b4763d.png
 # [socketry/qrcode](https://github.com/socketry/qrcode/)
 
 Pure Ruby library for generating QR codes
+
+用于生成QR码的纯Ruby库

@@ -7,3 +7,5 @@ image: assets/airbytehq_airbyte_cropped.png
 # [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
 
 open-source tool for syncing data from lots of sources
+
+从多源同步数据的开源工具

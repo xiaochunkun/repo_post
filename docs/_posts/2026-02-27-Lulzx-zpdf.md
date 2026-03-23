@@ -7,3 +7,5 @@ image: assets/Lulzx_zpdf_20260222_214005_797_20260222_214024_e2421f.png
 # [Lulzx/zpdf](https://github.com/Lulzx/zpdf)
 
 PDF text extraction with SIMD acceleration
+
+SIMD加速的PDF文本提取

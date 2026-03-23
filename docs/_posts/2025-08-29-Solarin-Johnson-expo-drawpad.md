@@ -7,3 +7,5 @@ image: assets/20250829T040222342--Solarin-Johnson--expo-drawpad--20250829T040845
 # [Solarin-Johnson/expo-drawpad](https://github.com/Solarin-Johnson/expo-drawpad)
 
 Animated drawing pad for React Native and Expo, supports signatures, sketches, undo, and cross-platform use
+
+React Native 和 Expo 动画绘图板，支持签名、草图和撤销

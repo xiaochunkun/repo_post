@@ -7,3 +7,5 @@ image: assets/20250825T034053453--supermemoryai--opensearch-ai--20250829T0418513
 # [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai)
 
 personalized AI search engine that learns your interests
+
+个性化 AI 搜索引擎，学习你的兴趣偏好

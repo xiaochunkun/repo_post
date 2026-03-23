@@ -7,3 +7,5 @@ image: assets/joreilly_PeopleInSpace_20251205_020138_714_20251205_020202_49b35a.
 # [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace/)
 
 Kotlin Multiplatform sample with SwiftUI and Compose
+
+包含SwiftUI和Compose的Kotlin多平台示例

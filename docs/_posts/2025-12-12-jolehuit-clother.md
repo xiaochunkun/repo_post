@@ -7,3 +7,5 @@ image: assets/jolehuit_clother_20251209_040032_148_20251209_040146_d64669.png
 # [jolehuit/clother](https://github.com/jolehuit/clother/)
 
 Switch between Claude Code providers instantly
+
+即时切换 Claude Code 提供商

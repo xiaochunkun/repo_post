@@ -7,3 +7,5 @@ image: assets/20251005T101706094--mpaepper--vibevoice--20251005T102529186--cropp
 # [mpaepper/vibevoice](https://github.com/mpaepper/vibevoice)
 
 voice-to-text coding tool using local whisper and LLMs
+
+使用本地 Whisper 和 LLM 的语音转代码工具

@@ -7,3 +7,5 @@ image: assets/Seeed_Projects_reBot_DevArm_20260206_070305_782_20260206_070332_e5
 # [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm)
 
 Robotic arm with hardware blueprints and software for embodied AI
+
+具身AI的机械臂硬件蓝图与软件

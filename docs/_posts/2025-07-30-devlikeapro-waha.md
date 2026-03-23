@@ -7,3 +7,5 @@ image: assets/devlikeapro_waha_cropped.png
 # [devlikeapro/waha](https://github.com/devlikeapro/waha)
 
 self-hosted WhatsApp REST API for quick integration
+
+用于快速集成的自托管WhatsApp REST API

@@ -7,3 +7,5 @@ image: assets/fastapi_fastapi_20260204_032807_130_20260204_032822_7efaa1.png
 # [fastapi/fastapi](https://github.com/fastapi/fastapi)
 
 Web framework for APIs with Python type hints
+
+基于Python类型提示的API Web框架

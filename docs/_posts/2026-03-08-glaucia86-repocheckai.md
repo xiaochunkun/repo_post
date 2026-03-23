@@ -7,3 +7,5 @@ image: assets/glaucia86_repocheckai_20260217_201305_883_20260217_201327_432e8d.p
 # [glaucia86/repocheckai](https://github.com/glaucia86/repocheckai)
 
 AI agent for repository health analysis
+
+用于仓库健康分析的 AI 代理

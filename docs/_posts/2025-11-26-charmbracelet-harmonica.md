@@ -7,3 +7,5 @@ image: assets/charmbracelet_harmonica_20251123_210515_510_20251125_221245_d7f5d5
 # [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica/)
 
 Physics-based spring animation library for Go
+
+基于物理的 Go 弹簧动画库

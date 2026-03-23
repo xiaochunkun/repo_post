@@ -7,3 +7,5 @@ image: assets/netvisor_io_netvisor_20251224_163312_390_20251224_163329_6fefc7.pn
 # [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor/)
 
 Generates network diagrams through automatic discovery
+
+通过自动发现生成网络图

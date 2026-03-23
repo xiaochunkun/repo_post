@@ -7,3 +7,5 @@ image: assets/TheRobotStudio_SO_ARM100_20251025_190122_994_20251025_230050_ba861
 # [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100/)
 
 Open source robot arm for end-to-end AI
+
+用于端到端 AI 的开源机器人手臂

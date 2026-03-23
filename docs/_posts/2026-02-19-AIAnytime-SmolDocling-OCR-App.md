@@ -7,3 +7,5 @@ image: assets/AIAnytime_SmolDocling_OCR_App_20260126_145528_297_20260126_145608_
 # [AIAnytime/SmolDocling-OCR-App](https://github.com/AIAnytime/SmolDocling-OCR-App)
 
 Extracts text from documents into DocTags and Markdown
+
+从文档中提取文本到DocTags和Markdown

@@ -7,3 +7,5 @@ image: assets/healenium_healenium_web_20251118_173435_270_20251119_235815_954707
 # [healenium/healenium-web](https://github.com/healenium/healenium-web/)
 
 Library for Selenium tests that heals locators
+
+Selenium测试定位器自愈库

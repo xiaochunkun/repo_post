@@ -7,3 +7,5 @@ image: assets/aiXander_Realtime_PyAudio_FFT_20260111_034455_267_20260111_034509_
 # [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT)
 
 Visualizes audio frequencies in real time
+
+实时可视化音频频率

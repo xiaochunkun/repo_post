@@ -7,3 +7,5 @@ image: assets/sendrec_sendrec_20260210_044132_950_20260210_044154_5f8582.png
 # [sendrec/sendrec](https://github.com/sendrec/sendrec)
 
 Self-hosted video messaging platform with data residency in Europe
+
+自托管视频消息平台，数据驻留在欧洲

@@ -7,3 +7,5 @@ image: assets/biolds_sosse_cropped.png
 # [biolds/sosse](https://github.com/biolds/sosse)
 
 selenium-powered web crawler and search engine
+
+基于 Selenium 的网络爬虫和搜索引擎

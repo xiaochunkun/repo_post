@@ -7,3 +7,5 @@ image: assets/jarvis2f_telegram_files_20260122_001737_265_20260122_001825_39a646
 # [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files)
 
 Downloads files from Telegram channels and groups automatically
+
+自动从 Telegram 频道和群组下载文件

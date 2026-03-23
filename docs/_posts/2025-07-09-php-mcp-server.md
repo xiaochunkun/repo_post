@@ -7,3 +7,5 @@ image: assets/php-mcp_server_cropped.png
 # [php-mcp/server](https://github.com/php-mcp/server)
 
 PHP server for Model Context Protocol, lets AI tools talk to your backend
+
+PHP 服务器，用于 Model Context Protocol，让 AI 工具与后端通信

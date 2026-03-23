@@ -7,3 +7,5 @@ image: assets/evansiroky_timezone_boundary_builder_20251208_003303_372_20251208_
 # [evansiroky/timezone-boundary-builder](https://github.com/evansiroky/timezone-boundary-builder/)
 
 Builds timezone boundary shapefiles from OpenStreetMap data
+
+从 OpenStreetMap 数据构建时区边界 shapefile

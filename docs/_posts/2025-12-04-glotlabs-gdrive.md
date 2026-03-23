@@ -7,3 +7,5 @@ image: assets/glotlabs_gdrive_20251202_195441_837_20251202_195521_e0823e.png
 # [glotlabs/gdrive](https://github.com/glotlabs/gdrive/)
 
 Command line application for interacting with Google Drive
+
+用于与Google Drive交互的命令行应用

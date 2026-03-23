@@ -7,3 +7,5 @@ image: assets/myshell_ai_MeloTTS_20260204_092239_354_20260204_092253_1e0c0c.png
 # [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS)
 
 Text-to-speech library with CPU inference
+
+支持 CPU 推理的文本转语音库

@@ -7,3 +7,5 @@ image: assets/achimmihca_DedoMouse_20260115_093808_461_20260115_093825_4e9c20.pn
 # [achimmihca/DedoMouse](https://github.com/achimmihca/DedoMouse)
 
 Controls a mouse with hand tracking via a webcam
+
+通过摄像头用手势追踪控制鼠标

@@ -7,3 +7,5 @@ image: assets/hrishioa_lumentis_20251031_154219_783_20251102_214603_96f012--2025
 # [hrishioa/lumentis](https://github.com/hrishioa/lumentis/)
 
 Generate docs from transcripts with one command
+
+一键从转录文本生成文档

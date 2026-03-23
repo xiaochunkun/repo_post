@@ -7,3 +7,5 @@ image: assets/langchain_ai_local_deep_researcher_20260306_042855_280_20260306_04
 # [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)
 
 Automate web research via local LLMs
+
+通过本地 LLM 自动化网络研究

@@ -7,3 +7,5 @@ image: assets/VERT_sh_VERT_20251020_031810_673_20251020_042611--20251020T0626112
 # [VERT-sh/VERT](https://github.com/VERT-sh/VERT/)
 
 On-device file conversion with WebAssembly
+
+使用 WebAssembly 进行设备端文件转换

@@ -7,3 +7,5 @@ image: assets/facebookresearch_sam2--20250905T023751301--cropped.png
 # [facebookresearch/sam2](https://github.com/facebookresearch/sam2)
 
 segment anything in images and videos with sam2
+
+用 SAM2 分割图像和视频中的任何物体

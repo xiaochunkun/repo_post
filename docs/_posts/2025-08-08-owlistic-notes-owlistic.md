@@ -7,3 +7,5 @@ image: assets/owlistic-notes_owlistic_cropped.png
 # [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic)
 
 open source notes and todo app with real-time sync
+
+开源笔记和待办应用，支持实时同步

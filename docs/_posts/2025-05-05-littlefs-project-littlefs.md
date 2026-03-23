@@ -7,3 +7,5 @@ image: assets/littlefs-project_littlefs_cropped.png
 # [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs)
 
 littlefs: filesystem for microcontroller flash storage
+
+littlefs：用于微控制器闪存存储的文件系统

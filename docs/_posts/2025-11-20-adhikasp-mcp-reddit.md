@@ -7,3 +7,5 @@ image: assets/adhikasp_mcp_reddit_20251119_222803_186_20251120_003643_f40644--20
 # [adhikasp/mcp-reddit](https://github.com/adhikasp/mcp-reddit/)
 
 Fetches and analyzes Reddit content via the Model Context Protocol
+
+通过 Model Context Protocol 获取和分析 Reddit 内容

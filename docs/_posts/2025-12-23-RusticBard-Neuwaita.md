@@ -7,3 +7,5 @@ image: assets/RusticBard_Neuwaita_20251222_104559_109_20251222_104617_138400.png
 # [RusticBard/Neuwaita](https://github.com/RusticBard/Neuwaita/)
 
 Icon theme for Linux desktops
+
+Linux 桌面的图标主题

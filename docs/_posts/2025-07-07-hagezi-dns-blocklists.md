@@ -7,3 +7,5 @@ image: assets/hagezi_dns-blocklists_cropped.png
 # [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
 
 dns blocklists for ads, trackers, malware, scam, and fake sites
+
+用于广告、跟踪器、恶意软件、诈骗和虚假网站的DNS阻止列表

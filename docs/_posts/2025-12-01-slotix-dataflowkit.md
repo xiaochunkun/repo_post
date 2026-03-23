@@ -7,3 +7,5 @@ image: assets/slotix_dataflowkit_20251127_212716_845_20251130_083656_4d2e82--202
 # [slotix/dataflowkit](https://github.com/slotix/dataflowkit/)
 
 Web scraping framework for Go
+
+Go语言的网页抓取框架

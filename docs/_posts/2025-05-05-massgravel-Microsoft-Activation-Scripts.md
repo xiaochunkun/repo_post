@@ -7,3 +7,5 @@ image: assets/massgravel_Microsoft-Activation-Scripts_cropped.png
 # [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 Open-source Windows and Office activator with multiple activation methods
+
+开源Windows和Office激活工具，支持多种激活方法

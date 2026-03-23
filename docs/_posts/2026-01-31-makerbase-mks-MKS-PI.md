@@ -7,3 +7,5 @@ image: assets/makerbase_mks_MKS_PI_20260130_222341_900_20260130_222420_21c14a.pn
 # [makerbase-mks/MKS-PI](https://github.com/makerbase-mks/MKS-PI)
 
 Microcomputer board for Klipper firmware
+
+用于Klipper固件的微电脑板

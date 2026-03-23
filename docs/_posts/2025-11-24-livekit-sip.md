@@ -7,3 +7,5 @@ image: assets/livekit_sip_20251123_180137_916_20251124_095603_4281e7--20251124T1
 # [livekit/sip](https://github.com/livekit/sip/)
 
 Bridges SIP telephony with WebRTC
+
+将 SIP 电话与 WebRTC 桥接

@@ -7,3 +7,5 @@ image: assets/drkpxl_QuickMark_20251217_110403_756_20251217_110438_6e9d06.png
 # [drkpxl/QuickMark](https://github.com/drkpxl/QuickMark/)
 
 Self-hosted bookmarking service for new tabs
+
+新标签页的自托管书签服务

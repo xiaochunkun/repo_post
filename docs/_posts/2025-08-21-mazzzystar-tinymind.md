@@ -7,3 +7,5 @@ image: assets/20250818T110545334_mazzzystar_tinymind--20250820T132123312--croppe
 # [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind)
 
 turn your GitHub into a blog and notes hub in seconds
+
+秒速将 GitHub 变成个人博客和笔记中心

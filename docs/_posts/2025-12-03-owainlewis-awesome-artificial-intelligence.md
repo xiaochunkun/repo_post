@@ -7,3 +7,5 @@ image: assets/owainlewis_awesome_artificial_intelligence_20251201_045309_704_202
 # [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence/)
 
 Curated resources for building AI systems
+
+构建AI系统的精选资源

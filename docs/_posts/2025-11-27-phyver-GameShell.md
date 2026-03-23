@@ -7,3 +7,5 @@ image: assets/phyver_GameShell_20251125_000252_384_20251125_224920_2e811e--20251
 # [phyver/GameShell](https://github.com/phyver/GameShell/)
 
 Teaches Unix shell commands via missions
+
+通过任务教授 Unix shell 命令

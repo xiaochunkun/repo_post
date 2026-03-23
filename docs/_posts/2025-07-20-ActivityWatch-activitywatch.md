@@ -7,3 +7,5 @@ image: assets/ActivityWatch_activitywatch_cropped.png
 # [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
 
 tracks your device activity and time use automatically
+
+自动跟踪设备活动和时间使用

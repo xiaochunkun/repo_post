@@ -7,3 +7,5 @@ image: assets/vapor_autos_ecu_20260316_075540_737_20260316_075656_f06831.png
 # [vapor-autos/ecu](https://github.com/vapor-autos/ecu)
 
 Bridges CAN and I2C for self-driving RC cars
+
+为自动驾驶遥控车桥接CAN和I2C

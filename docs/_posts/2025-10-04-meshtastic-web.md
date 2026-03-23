@@ -7,3 +7,5 @@ image: assets/20251003T231702718--meshtastic--web--20251003T231956300--cropped.p
 # [meshtastic/web](https://github.com/meshtastic/web)
 
 Web client for mesh networks that runs in your browser
+
+在浏览器中运行的Mesh网络Web客户端

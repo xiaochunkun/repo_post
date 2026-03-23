@@ -7,3 +7,5 @@ image: assets/thiswillbeyourgithub_AnkiAIUtils_cropped.png
 # [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
 
 AI tools for Anki flashcards
+
+Anki 闪卡 AI 工具

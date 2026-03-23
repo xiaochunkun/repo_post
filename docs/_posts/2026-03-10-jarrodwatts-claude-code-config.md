@@ -7,3 +7,5 @@ image: assets/jarrodwatts_claude_code_config_20260224_092053_505_20260224_092117
 # [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config)
 
 Configures rules and skills for Claude Code
+
+配置Claude Code的规则与技能

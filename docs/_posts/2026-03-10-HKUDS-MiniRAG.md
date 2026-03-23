@@ -7,3 +7,5 @@ image: assets/HKUDS_MiniRAG_20260306_004749_026_20260306_004905_aa77b5.png
 # [HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG)
 
 Index graphs for retrieval with language models
+
+为语言模型检索构建索引图

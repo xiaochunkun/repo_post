@@ -7,3 +7,5 @@ image: assets/Botspot_pi_apps_20251202_204622_619_20251202_204648_3fc072.png
 # [Botspot/pi-apps](https://github.com/Botspot/pi-apps/)
 
 App store for Raspberry Pi computers
+
+Raspberry Pi 计算机的应用商店

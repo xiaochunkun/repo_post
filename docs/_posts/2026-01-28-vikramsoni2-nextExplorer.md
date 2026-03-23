@@ -7,3 +7,5 @@ image: assets/vikramsoni2_nextExplorer_20260122_002027_662_20260122_002043_cbae8
 # [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)
 
 Self-hosted file explorer with OIDC and Docker deployment
+
+支持OIDC和Docker部署的自托管文件管理器

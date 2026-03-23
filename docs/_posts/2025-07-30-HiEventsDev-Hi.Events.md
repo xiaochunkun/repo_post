@@ -7,3 +7,5 @@ image: assets/HiEventsDev_Hi.Events_cropped.png
 # [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)
 
 open source event management and ticketing platform
+
+开源事件管理和票务平台

@@ -7,3 +7,5 @@ image: assets/20250915T044731324--NVIDIA--garak--20250915T045128058--cropped.png
 # [NVIDIA/garak](https://github.com/NVIDIA/garak)
 
 scans LLMs for vulnerabilities like prompt injection, hallucination, and data leaks
+
+扫描 LLM 的漏洞，如提示注入、幻觉和数据泄露

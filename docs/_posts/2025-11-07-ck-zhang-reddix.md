@@ -7,3 +7,5 @@ image: assets/ck_zhang_reddix_20251106_211050_802_20251106_223401_f23a72--202511
 # [ck-zhang/reddix](https://github.com/ck-zhang/reddix/)
 
 Reddit client for the terminal with image and video previews
+
+支持图像和视频预览的终端Reddit客户端

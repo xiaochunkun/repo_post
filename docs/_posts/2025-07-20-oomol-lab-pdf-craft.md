@@ -7,3 +7,5 @@ image: assets/oomol-lab_pdf-craft_cropped.png
 # [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft)
 
 convert scanned PDFs to markdown or epub with OCR and AI
+
+使用OCR和AI将扫描PDF转换为markdown或epub

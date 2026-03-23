@@ -7,3 +7,5 @@ image: assets/aitytech_agentkits_marketing_20260202_014130_290_20260202_014213_6
 # [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing)
 
 Marketing automation agents for AI assistants
+
+AI 助手的营销自动化智能体

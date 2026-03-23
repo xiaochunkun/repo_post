@@ -7,3 +7,5 @@ image: assets/code_yeongyu_oh_my_openagent_20260308_180532_607_20260308_180719_a
 # [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
 
 Orchestrates AI agents for coding and production tasks
+
+编排 AI 代理进行编码和生产任务

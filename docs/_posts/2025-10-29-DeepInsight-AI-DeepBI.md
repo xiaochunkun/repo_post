@@ -7,3 +7,5 @@ image: assets/DeepInsight_AI_DeepBI_20251028_100030_603_20251029_004847_331f13--
 # [DeepInsight-AI/DeepBI](https://github.com/DeepInsight-AI/DeepBI/)
 
 Data analysis platform using large language models
+
+使用大型语言模型的数据分析平台

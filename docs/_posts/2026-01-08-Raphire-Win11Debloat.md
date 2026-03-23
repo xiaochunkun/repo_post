@@ -7,3 +7,5 @@ image: assets/Raphire_Win11Debloat_20260108_030741_722_20260108_030754_063d1e.pn
 # [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 
 Removes bloatware and disables telemetry
+
+移除预装软件并禁用遥测

@@ -7,3 +7,5 @@ image: assets/athre0z_color_backtrace_20251202_203719_065_20251202_203745_e5ab58
 # [athre0z/color-backtrace](https://github.com/athre0z/color-backtrace/)
 
 Colorizes Rust panics with source snippets
+
+用源代码片段为Rust恐慌着色

@@ -7,3 +7,5 @@ image: assets/rtCamp_frappe_appointment_20260130_125618_295_20260130_125652_ab32
 # [rtCamp/frappe-appointment](https://github.com/rtCamp/frappe-appointment)
 
 Schedules meetings with calendar and video integrations
+
+集成日历和视频的会议安排

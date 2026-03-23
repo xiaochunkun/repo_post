@@ -7,3 +7,5 @@ image: assets/abi_screenshot-to-code_cropped.png
 # [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
 Turn a UI screenshot into code using AI
+
+使用AI将UI截图转换为代码

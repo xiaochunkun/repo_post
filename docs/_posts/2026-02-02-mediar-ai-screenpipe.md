@@ -7,3 +7,5 @@ image: assets/mediar_ai_screenpipe_20260202_182900_037_20260202_183042_02831b.pn
 # [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)
 
 Records screen and microphone for local search
+
+录制屏幕和麦克风用于本地搜索

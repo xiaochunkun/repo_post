@@ -7,3 +7,5 @@ image: assets/rohaquinlop_robinzhon--20250817T081529376--cropped.png
 # [rohaquinlop/robinzhon](https://github.com/rohaquinlop/robinzhon)
 
 python library for fast concurrent s3 downloads
+
+用于快速并发 S3 下载的 Python 库

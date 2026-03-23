@@ -7,3 +7,5 @@ image: assets/itskovacs_trip_cropped.png
 # [itskovacs/trip](https://github.com/itskovacs/trip)
 
 minimalist map tracker and trip planner for points of interest
+
+极简地图追踪器和兴趣点行程规划器

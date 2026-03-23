@@ -7,3 +7,5 @@ image: assets/sindresorhus_Copy_URL_20251218_064527_035_20251218_064544_df39c4.p
 # [sindresorhus/Copy-URL](https://github.com/sindresorhus/Copy-URL/)
 
 Copies URLs from browser picker apps
+
+从浏览器选择器应用复制 URL

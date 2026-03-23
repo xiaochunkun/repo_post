@@ -7,3 +7,5 @@ image: assets/hoophq_hoop_20251225_033809_553_20251225_033830_885a97.png
 # [hoophq/hoop](https://github.com/hoophq/hoop/)
 
 Access proxy masking database outputs and blocking linux commands
+
+访问代理，屏蔽数据库输出并阻止 Linux 命令

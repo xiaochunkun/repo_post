@@ -7,3 +7,5 @@ image: assets/zapprosite_JARVIS_REFRIMIX_ENTERPRISE_20260311_142313_875_20260311
 # [zapprosite/JARVIS-REFRIMIX-ENTERPRISE](https://github.com/zapprosite/JARVIS-REFRIMIX-ENTERPRISE)
 
 HVAC technical support cognitive architecture
+
+HVAC技术支持认知架构

@@ -7,3 +7,5 @@ image: assets/sqldelight_sqldelight_20251124_234200_413_20251125_224712_20aea4--
 # [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight/)
 
 Generates typesafe Kotlin APIs from SQL
+
+从 SQL 生成类型安全的 Kotlin API

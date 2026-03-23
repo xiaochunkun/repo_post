@@ -7,3 +7,5 @@ image: assets/20250822T025444191--huggingface--smolagents--20250822T030118943--c
 # [huggingface/smolagents](https://github.com/huggingface/smolagents)
 
 minimalist Python AI agents that write and run code
+
+极简 Python AI 智能体，能编写和运行代码

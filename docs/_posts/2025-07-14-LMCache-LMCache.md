@@ -7,3 +7,5 @@ image: assets/LMCache_LMCache_cropped.png
 # [LMCache/LMCache](https://github.com/LMCache/LMCache)
 
 speeds up LLMs with fast key-value caching
+
+通过快速键值缓存加速 LLM

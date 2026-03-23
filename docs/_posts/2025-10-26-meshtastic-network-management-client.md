@@ -7,3 +7,5 @@ image: assets/meshtastic_network_management_client_20251025_050906_725_20251025_
 # [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client/)
 
 A desktop client for managing large-scale mesh networks
+
+用于管理大规模Mesh网络的桌面客户端

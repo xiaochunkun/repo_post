@@ -7,3 +7,5 @@ image: assets/flash131307_multi_agent_investment_20251105_133210_023_20251105_21
 # [flash131307/multi-agent-investment](https://github.com/flash131307/multi-agent-investment/)
 
 AI platform for investment reports using multi-agent orchestration
+
+使用多代理编排的 AI 投资报告平台

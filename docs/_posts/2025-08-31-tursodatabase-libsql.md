@@ -7,3 +7,5 @@ image: assets/20250830T091844766--tursodatabase--libsql--20250830T093713177--cro
 # [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
 
 open source SQLite fork with replication and multi-language support
+
+开源 SQLite 分支，支持复制和多语言

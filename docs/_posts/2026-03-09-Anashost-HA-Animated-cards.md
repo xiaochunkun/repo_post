@@ -7,3 +7,5 @@ image: assets/Anashost_HA_Animated_cards_20260308_171050_697_20260308_171247_f5f
 # [Anashost/HA-Animated-cards](https://github.com/Anashost/HA-Animated-cards)
 
 Animations for Home Assistant dashboards
+
+Home Assistant仪表板的动画效果

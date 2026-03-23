@@ -7,3 +7,5 @@ image: assets/XTLS_Xray_install_20251120_001723_914_20251120_003727_b14e09--2025
 # [XTLS/Xray-install](https://github.com/XTLS/Xray-install/)
 
 Bash script for installing Xray on systemd-based Linux
+
+systemd Linux安装Xray的Bash脚本

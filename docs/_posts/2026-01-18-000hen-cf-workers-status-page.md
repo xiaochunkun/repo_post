@@ -7,3 +7,5 @@ image: assets/000hen_cf_workers_status_page_20260118_033954_661_20260118_034009_
 # [000hen/cf-workers-status-page](https://github.com/000hen/cf-workers-status-page)
 
 Status page using Cloudflare Workers and CRON Triggers
+
+使用Cloudflare Workers和CRON Triggers的状态页面

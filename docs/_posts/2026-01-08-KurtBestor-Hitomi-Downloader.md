@@ -7,3 +7,5 @@ image: assets/KurtBestor_Hitomi_Downloader_20260108_023616_020_20260108_023629_2
 # [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
 Downloads media from various websites
+
+从多个网站下载媒体

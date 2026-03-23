@@ -7,3 +7,5 @@ image: assets/20250926T175128759--box-project--box--20250926T175930851--cropped.
 # [box-project/box](https://github.com/box-project/box)
 
 Tool for building and managing PHP PHAR archives
+
+用于构建和管理 PHP PHAR 归档的工具

@@ -7,3 +7,5 @@ image: assets/mlapaglia_Borgitory_20251122_101346_543_20251122_111508_c7f539--20
 # [mlapaglia/Borgitory](https://github.com/mlapaglia/Borgitory/)
 
 BorgBackup management UI with cloud sync
+
+带云同步的 BorgBackup 管理界面

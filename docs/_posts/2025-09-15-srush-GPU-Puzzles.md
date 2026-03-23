@@ -7,3 +7,5 @@ image: assets/20250914T191644986--srush--GPU-Puzzles--20250914T191912040--croppe
 # [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)
 
 interactive GPU programming puzzles using Python and Numba
+
+使用 Python 和 Numba 的交互式 GPU 编程谜题

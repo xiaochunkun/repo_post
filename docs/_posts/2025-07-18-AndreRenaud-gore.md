@@ -7,3 +7,5 @@ image: assets/AndreRenaud_gore_cropped.png
 # [AndreRenaud/gore](https://github.com/AndreRenaud/gore)
 
 minimal Doom in Go
+
+Go 中的极简 Doom 游戏

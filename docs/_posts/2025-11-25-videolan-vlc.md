@@ -7,3 +7,5 @@ image: assets/videolan_vlc_20251123_185300_683_20251124_184528_e86b3c--20251124T
 # [videolan/vlc](https://github.com/videolan/vlc/)
 
 Plays, encodes, and streams media
+
+播放、编码和流媒体

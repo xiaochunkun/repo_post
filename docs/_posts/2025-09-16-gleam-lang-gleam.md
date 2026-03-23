@@ -7,3 +7,5 @@ image: assets/20250915T223238189--gleam-lang--gleam--20250915T225331478--cropped
 # [gleam-lang/gleam](https://github.com/gleam-lang/gleam)
 
 type-safe functional language for scalable systems
+
+类型安全的函数式语言，适用于可扩展系统

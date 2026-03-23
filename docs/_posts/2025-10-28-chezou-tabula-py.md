@@ -7,3 +7,5 @@ image: assets/chezou_tabula_py_20251027_180015_190_20251028_085154_a2232f--20251
 # [chezou/tabula-py](https://github.com/chezou/tabula-py/)
 
 A Python wrapper for tabula-java to read tables from a PDF
+
+用于从 PDF 读取表格的 tabula-java Python 封装器

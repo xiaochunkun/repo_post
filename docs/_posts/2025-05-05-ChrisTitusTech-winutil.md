@@ -7,3 +7,5 @@ image: assets/ChrisTitusTech_winutil_cropped.png
 # [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 
 Windows tool for installing apps, tweaking settings, removing bloat, and updating stuff
+
+Windows工具，用于安装应用、调整设置、移除冗余和更新内容

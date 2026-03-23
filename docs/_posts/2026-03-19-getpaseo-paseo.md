@@ -7,3 +7,5 @@ image: assets/getpaseo_paseo_20260318_003905_749_20260318_003958_cd801e.png
 # [getpaseo/paseo](https://github.com/getpaseo/paseo)
 
 Self-hosted coding agents with voice control
+
+自托管编码代理，支持语音控制

@@ -7,3 +7,5 @@ image: assets/ClusterM_wg_obfuscator_20260209_014645_422_20260209_014723_d974a2.
 # [ClusterM/wg-obfuscator](https://github.com/ClusterM/wg-obfuscator)
 
 Disguises traffic as data to bypass inspection
+
+将流量伪装成数据以绕过检查

@@ -7,3 +7,5 @@ image: assets/cyanfish_naps2_20260111_224933_795_20260111_224946_7b5acd.png
 # [cyanfish/naps2](https://github.com/cyanfish/naps2)
 
 Scans documents to PDF with OCR
+
+使用 OCR 扫描文档为 PDF

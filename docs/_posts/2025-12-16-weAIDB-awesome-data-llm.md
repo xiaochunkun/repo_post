@@ -7,3 +7,5 @@ image: assets/weAIDB_awesome_data_llm_20251213_131002_030_20251213_131028_91584d
 # [weAIDB/awesome-data-llm](https://github.com/weAIDB/awesome-data-llm/)
 
 Survey of data-centric methods for LLMs
+
+LLM数据中心方法的综述

@@ -7,3 +7,5 @@ image: assets/20250908T121103352--loro-dev--loro--20250908T193242789--cropped.pn
 # [loro-dev/loro](https://github.com/loro-dev/loro)
 
 collaborative JSON data with CRDTs, version control, and sync
+
+基于 CRDT 的协作式 JSON 数据，支持版本控制和同步

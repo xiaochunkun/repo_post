@@ -7,3 +7,5 @@ image: assets/bcicen_ctop_cropped.png
 # [bcicen/ctop](https://github.com/bcicen/ctop)
 
 monitor docker containers in terminal
+
+在终端中监控 Docker 容器

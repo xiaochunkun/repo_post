@@ -7,3 +7,5 @@ image: assets/20250912T194147836--huggingface--speech-to-speech--20250912T194633
 # [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
 
 speech-to-speech pipeline using open models for voice detection, transcription, language modeling, and speech synthesis
+
+使用开放模型的语音对语音流水线，涵盖语音检测、转录、语言建模和语音合成

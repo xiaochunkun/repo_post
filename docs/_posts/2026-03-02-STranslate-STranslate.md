@@ -7,3 +7,5 @@ image: assets/STranslate_STranslate_20260226_102904_911_20260226_103031_f26f42.p
 # [STranslate/STranslate](https://github.com/STranslate/STranslate)
 
 Translation and OCR tool with WPF
+
+基于WPF的翻译和OCR工具

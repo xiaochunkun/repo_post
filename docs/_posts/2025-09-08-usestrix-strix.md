@@ -7,3 +7,5 @@ image: assets/20250908T094720577--usestrix--strix--20250908T094948014--cropped.p
 # [usestrix/strix](https://github.com/usestrix/strix)
 
 AI agents that hack your app to find real security bugs
+
+AI 智能体攻击你的应用以发现真实安全漏洞

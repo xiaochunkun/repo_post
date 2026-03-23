@@ -7,3 +7,5 @@ image: assets/run_llama_semtools_20260316_014303_316_20260316_014425_876150.png
 # [run-llama/semtools](https://github.com/run-llama/semtools)
 
 Rust CLI for semantic search and document parsing
+
+Rust CLI，用于语义搜索和文档解析

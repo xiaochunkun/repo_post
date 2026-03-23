@@ -7,3 +7,5 @@ image: assets/jfro_fuzzy_catalog_20251218_071600_330_20251218_071616_8d31fc.png
 # [jfro/fuzzy_catalog](https://github.com/jfro/fuzzy_catalog/)
 
 Catalogs books and syncs with digital libraries
+
+编目书籍并与数字图书馆同步

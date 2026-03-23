@@ -7,3 +7,5 @@ image: assets/20250926T174004287--atopile--atopile--20250926T175352996--cropped.
 # [atopile/atopile](https://github.com/atopile/atopile)
 
 write circuit boards using code, automate design and validation
+
+使用代码编写电路板，自动化设计和验证

@@ -7,3 +7,5 @@ image: assets/goauthentik_terraform_provider_authentik_20251222_103433_039_20251
 # [goauthentik/terraform-provider-authentik](https://github.com/goauthentik/terraform-provider-authentik/)
 
 Terraform provider for identity management
+
+身份管理的Terraform提供程序

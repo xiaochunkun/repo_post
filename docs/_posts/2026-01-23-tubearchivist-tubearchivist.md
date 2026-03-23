@@ -7,3 +7,5 @@ image: assets/tubearchivist_tubearchivist_20260122_063917_204_20260122_063933_a1
 # [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist)
 
 Self hosted YouTube media server
+
+自托管YouTube媒体服务器

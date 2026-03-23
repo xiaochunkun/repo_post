@@ -7,3 +7,5 @@ image: assets/microsoft_github_copilot_for_data_science_20251209_040814_013_2025
 # [microsoft/github-copilot-for-data-science](https://github.com/microsoft/github-copilot-for-data-science/)
 
 Workshop on using AI coding assistants for data science workflows
+
+数据科学工作流中使用 AI 编码助手的研讨会

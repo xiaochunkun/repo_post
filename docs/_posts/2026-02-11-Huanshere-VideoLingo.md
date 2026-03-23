@@ -7,3 +7,5 @@ image: assets/Huanshere_VideoLingo_20260207_140427_579_20260207_140448_adbc76.pn
 # [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 
 Translates and dubs videos with subtitle alignment
+
+翻译和配音视频并同步字幕

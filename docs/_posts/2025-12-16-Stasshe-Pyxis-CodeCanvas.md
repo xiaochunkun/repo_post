@@ -7,3 +7,5 @@ image: assets/Stasshe_Pyxis_CodeCanvas_20251215_001647_359_20251215_001722_b8de5
 # [Stasshe/Pyxis-CodeCanvas](https://github.com/Stasshe/Pyxis-CodeCanvas/)
 
 Client-side IDE with Node.js emulator
+
+具有Node.js模拟器的客户端IDE

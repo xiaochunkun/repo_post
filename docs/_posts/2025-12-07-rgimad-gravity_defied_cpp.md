@@ -7,3 +7,5 @@ image: assets/rgimad_gravity_defied_cpp_20251205_001257_779_20251205_001333_5b8d
 # [rgimad/gravity_defied_cpp](https://github.com/rgimad/gravity_defied_cpp/)
 
 Port of J2ME mototrial game to C++ and SDL2
+
+J2ME摩托越野游戏到C++和SDL2的移植

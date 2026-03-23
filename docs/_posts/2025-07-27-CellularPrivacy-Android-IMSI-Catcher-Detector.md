@@ -7,3 +7,5 @@ image: assets/CellularPrivacy_Android-IMSI-Catcher-Detector_cropped.png
 # [CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
 
 detects fake cell towers on Android
+
+检测 Android 上的虚假基站

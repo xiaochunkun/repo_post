@@ -7,3 +7,5 @@ image: assets/Goldziher_kreuzberg_cropped.png
 # [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg)
 
 python library for extracting text from PDFs, images, and docs
+
+Python库，从PDF、图像和文档中提取文本

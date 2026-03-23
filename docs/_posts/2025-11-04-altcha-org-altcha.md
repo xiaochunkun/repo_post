@@ -7,3 +7,5 @@ image: assets/altcha_org_altcha_20251031_165434_796_20251102_220726_bdd3a1--2025
 # [altcha-org/altcha](https://github.com/altcha-org/altcha/)
 
 Self-hosted CAPTCHA alternative using proof-of-work
+
+使用工作量证明的自托管验证码替代方案

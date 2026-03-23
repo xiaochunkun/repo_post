@@ -7,3 +7,5 @@ image: assets/MooseGoose0701_skill_compose_20260216_131010_413_20260216_131108_7
 # [MooseGoose0701/skill-compose](https://github.com/MooseGoose0701/skill-compose)
 
 Builds agents with skills instead of workflow graphs
+
+使用技能而非工作流图构建代理

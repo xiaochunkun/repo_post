@@ -7,3 +7,5 @@ image: assets/alpkeskin_gotoon_20251209_010943_131_20251209_011016_4c9481.png
 # [alpkeskin/gotoon](https://github.com/alpkeskin/gotoon/)
 
 Token-oriented object notation for Go
+
+Go的面向令牌对象表示法

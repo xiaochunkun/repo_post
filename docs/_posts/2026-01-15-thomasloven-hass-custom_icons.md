@@ -7,3 +7,5 @@ image: assets/thomasloven_hass_custom_icons_20260113_165732_719_20260113_165745_
 # [thomasloven/hass-custom_icons](https://github.com/thomasloven/hass-custom_icons)
 
 Custom SVG icons for Home Assistant
+
+Home Assistant 的自定义 SVG 图标

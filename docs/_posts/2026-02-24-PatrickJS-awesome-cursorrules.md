@@ -7,3 +7,5 @@ image: assets/PatrickJS_awesome_cursorrules_20260202_212616_050_20260202_212652_
 # [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 
 Configuration files for Cursor AI editor behaviors
+
+Cursor AI 编辑器行为的配置文件

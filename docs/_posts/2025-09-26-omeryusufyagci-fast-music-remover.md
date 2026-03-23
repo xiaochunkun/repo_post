@@ -7,3 +7,5 @@ image: assets/20250926T173103581--omeryusufyagci--fast-music-remover--20250926T1
 # [omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover)
 
 removes background music and noise from videos or audio
+
+从视频或音频中移除背景音乐和噪音

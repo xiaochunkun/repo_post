@@ -7,3 +7,5 @@ image: assets/jesseduffield_lazygit_cropped.png
 # [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 
 terminal UI for git commands
+
+git命令的终端UI

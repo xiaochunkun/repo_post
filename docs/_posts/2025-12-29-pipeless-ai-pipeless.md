@@ -7,3 +7,5 @@ image: assets/pipeless_ai_pipeless_20251228_015824_786_20251228_015900_165a21.pn
 # [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless/)
 
 Framework for computer vision streams
+
+用于计算机视觉流的框架

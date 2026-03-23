@@ -7,3 +7,5 @@ image: assets/karan842_stock_agent_ops_20260222_143942_494_20260222_144000_1c003
 # [karan842/stock-agent-ops](https://github.com/karan842/stock-agent-ops)
 
 Automates stock reports with LSTM and Agentic AI
+
+使用LSTM和智能AI自动化股票报告

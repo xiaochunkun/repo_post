@@ -7,3 +7,5 @@ image: assets/dolanmiu_docx_20260103_010104_184_20260103_010119_b96277.png
 # [dolanmiu/docx](https://github.com/dolanmiu/docx/)
 
 Manipulates .docx files using JavaScript or TypeScript
+
+使用JavaScript或TypeScript操作.docx文件

@@ -7,3 +7,5 @@ image: assets/daledesilva_obsidian_ink_20251127_200804_780_20251130_082942_94c31
 # [daledesilva/obsidian_ink](https://github.com/daledesilva/obsidian_ink/)
 
 Handwriting and drawing plugin for Obsidian
+
+Obsidian 的手写和绘图插件

@@ -7,3 +7,5 @@ image: assets/mihail_pop_media_journal_20251126_002706_697_20251128_213837_68c6f
 # [mihail-pop/media-journal](https://github.com/mihail-pop/media-journal/)
 
 Self-hosted tracker for movies, shows, games, and books
+
+自托管的电影、剧集、游戏和书籍追踪器

@@ -7,3 +7,5 @@ image: assets/Cysharp_MemoryPack_20251201_021800_973_20251201_021835_e29126.png
 # [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack/)
 
 Zero-encoding binary serializer for C# and Unity
+
+C#和Unity的零编码二进制序列化器

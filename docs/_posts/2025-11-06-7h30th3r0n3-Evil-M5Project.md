@@ -7,3 +7,5 @@ image: assets/7h30th3r0n3_Evil_M5Project_20251105_231909_732_20251106_001731_b32
 # [7h30th3r0n3/Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project/)
 
 Tool for WiFi network testing with an M5Core2 device
+
+使用 M5Core2 设备进行 WiFi 网络测试的工具

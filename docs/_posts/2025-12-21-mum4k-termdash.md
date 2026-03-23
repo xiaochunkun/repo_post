@@ -7,3 +7,5 @@ image: assets/mum4k_termdash_20251219_114953_392_20251219_115014_b95e6e.png
 # [mum4k/termdash](https://github.com/mum4k/termdash/)
 
 Terminal dashboard with customizable layouts and widgets
+
+终端仪表板，支持自定义布局和小部件

@@ -7,3 +7,5 @@ image: assets/20251001T105832612--Sonarr--Sonarr--20251001T110804874--cropped.pn
 # [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
 
 automates TV show downloads and organizes episodes for usenet and bittorrent users
+
+自动化TV节目下载并为Usenet和BitTorrent用户组织剧集

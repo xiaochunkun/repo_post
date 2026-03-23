@@ -7,3 +7,5 @@ image: assets/20250905T022603609--typst--typst--20250905T022844559--cropped.png
 # [typst/typst](https://github.com/typst/typst)
 
 markup-based typesetting tool like LaTeX but simpler
+
+基于标记语言的排版工具，比 LaTeX 更简单

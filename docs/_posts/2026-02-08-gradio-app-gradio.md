@@ -7,3 +7,5 @@ image: assets/gradio_app_gradio_20260202_230721_284_20260202_230754_6668a9.png
 # [gradio-app/gradio](https://github.com/gradio-app/gradio)
 
 Builds machine learning web apps in Python
+
+用 Python 构建机器学习 Web 应用

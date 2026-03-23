@@ -7,3 +7,5 @@ image: assets/raygan_mam_audiofinder_20251127_213042_736_20251130_083707_a8902e-
 # [raygan/mam-audiofinder](https://github.com/raygan/mam-audiofinder/)
 
 Searches MyAnonamouse and imports audiobooks to Audiobookshelf
+
+搜索MyAnonamouse并将有声书导入Audiobookshelf

@@ -7,3 +7,5 @@ image: assets/20250903T014247338--redpanda-data--redpanda--20250903T015133551--c
 # [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)
 
 Kafka-compatible streaming platform, fast and simple, no JVM
+
+兼容 Kafka 的流数据平台，快速简单，无需 JVM

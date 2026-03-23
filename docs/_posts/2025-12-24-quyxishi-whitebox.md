@@ -7,3 +7,5 @@ image: assets/quyxishi_whitebox_20251222_204610_768_20251222_204626_243eaf.png
 # [quyxishi/whitebox](https://github.com/quyxishi/whitebox/)
 
 Prometheus exporter for VPN availability monitoring
+
+用于VPN可用性监控的Prometheus导出器

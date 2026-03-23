@@ -7,3 +7,5 @@ image: assets/sprout2000_leafview_20260120_014913_651_20260120_014927_cc75da.png
 # [sprout2000/leafview](https://github.com/sprout2000/leafview)
 
 Image viewer using Leaflet.js and Electron
+
+使用Leaflet.js和Electron的图像查看器

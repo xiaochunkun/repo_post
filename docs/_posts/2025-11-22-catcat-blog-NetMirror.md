@@ -7,3 +7,5 @@ image: assets/catcat_blog_NetMirror_20251122_062511_024_20251122_111152_5ce0ed--
 # [catcat-blog/NetMirror](https://github.com/catcat-blog/NetMirror/)
 
 Looking-glass server for network diagnostics
+
+网络诊断的 Looking-glass 服务器

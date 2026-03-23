@@ -7,3 +7,5 @@ image: assets/stack-auth_stack-auth--20250815T013443591--cropped.png
 # [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth)
 
 open-source auth platform for web apps
+
+Web 应用的开源认证平台

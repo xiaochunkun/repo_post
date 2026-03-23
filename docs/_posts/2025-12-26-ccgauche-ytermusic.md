@@ -7,3 +7,5 @@ image: assets/ccgauche_ytermusic_20251225_124507_226_20251225_124551_4b6b53.png
 # [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic/)
 
 Terminal YouTube Music player
+
+终端 YouTube Music 播放器

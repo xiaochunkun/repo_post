@@ -7,3 +7,5 @@ image: assets/ui-layouts_cursify_cropped.png
 # [ui-layouts/cursify](https://github.com/ui-layouts/cursify)
 
 react cursor animation library for custom effects
+
+用于自定义效果的 React 光标动画库

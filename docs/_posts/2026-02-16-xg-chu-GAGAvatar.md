@@ -7,3 +7,5 @@ image: assets/xg_chu_GAGAvatar_20260128_181300_455_20260128_181357_6f5c3a.png
 # [xg-chu/GAGAvatar](https://github.com/xg-chu/GAGAvatar)
 
 Reconstructs 3D head avatars from single images
+
+从单张图像重建3D头部头像

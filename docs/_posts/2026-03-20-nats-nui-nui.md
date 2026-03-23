@@ -7,3 +7,5 @@ image: assets/nats_nui_nui_20260226_172327_668_20260226_172508_e9aab8.png
 # [nats-nui/nui](https://github.com/nats-nui/nui)
 
 GUI for NATS management
+
+NATS 管理的 GUI

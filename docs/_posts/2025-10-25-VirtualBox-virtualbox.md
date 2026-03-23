@@ -7,3 +7,5 @@ image: assets/VirtualBox_virtualbox_20251023_003027_041_20251024_235621_3119a0--
 # [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox/)
 
 Creates x86 and Arm virtual machines
+
+创建x86和Arm虚拟机

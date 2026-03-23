@@ -7,3 +7,5 @@ image: assets/sonocotta_esparagus_media_center_20260112_110846_236_20260112_1109
 # [sonocotta/esparagus-media-center](https://github.com/sonocotta/esparagus-media-center)
 
 ESP32 media center with aluminum case
+
+带铝制外壳的ESP32媒体中心

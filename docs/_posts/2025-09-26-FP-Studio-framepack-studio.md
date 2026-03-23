@@ -7,3 +7,5 @@ image: assets/20250926T004302309--FP-Studio--framepack-studio--20250926T00480958
 # [FP-Studio/framepack-studio](https://github.com/FP-Studio/framepack-studio)
 
 AI-powered tool for generating high quality videos from prompts
+
+基于 AI 的提示生成高质量视频工具

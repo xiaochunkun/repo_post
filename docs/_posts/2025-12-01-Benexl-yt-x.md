@@ -7,3 +7,5 @@ image: assets/Benexl_yt_x_20251127_204053_064_20251130_083217_16621d--20251130T0
 # [Benexl/yt-x](https://github.com/Benexl/yt-x/)
 
 Browse YouTube from a terminal
+
+从终端浏览 YouTube

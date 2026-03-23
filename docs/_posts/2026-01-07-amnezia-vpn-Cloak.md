@@ -7,3 +7,5 @@ image: assets/amnezia_vpn_Cloak_20260106_184714_176_20260106_184730_cc19ad.png
 # [amnezia-vpn/Cloak](https://github.com/amnezia-vpn/Cloak/)
 
 Disguises proxy traffic as web browsing
+
+将代理流量伪装成网页浏览

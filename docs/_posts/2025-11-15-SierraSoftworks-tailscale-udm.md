@@ -7,3 +7,5 @@ image: assets/SierraSoftworks_tailscale_udm_20251114_062115_400_20251114_163012_
 # [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm/)
 
 Scripts to run Tailscale on a UniFi Dream Machine
+
+在UniFi Dream Machine上运行Tailscale的脚本

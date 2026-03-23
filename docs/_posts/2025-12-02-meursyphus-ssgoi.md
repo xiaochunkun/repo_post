@@ -7,3 +7,5 @@ image: assets/meursyphus_ssgoi_20251201_013926_261_20251201_014037_cfb93c.png
 # [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi/)
 
 Native app-like page transitions for the web
+
+为网页提供类原生应用的页面过渡效果

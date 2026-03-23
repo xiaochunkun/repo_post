@@ -7,3 +7,5 @@ image: assets/20250906T023929059--daveebbelaar--ai-cookbook--20250907T200522805-
 # [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
 
 AI code snippets and tutorials for developers
+
+面向开发者的 AI 代码片段和教程

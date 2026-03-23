@@ -7,3 +7,5 @@ image: assets/chrisbenincasa_tunarr_20251106_171124_275_20251106_175018_907d66--
 # [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr/)
 
 Create TV channels from media on Plex, Jellyfin, or Emby
+
+从Plex、Jellyfin或Emby媒体创建电视频道

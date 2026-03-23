@@ -7,3 +7,5 @@ image: assets/browserbase_mcp_server_browserbase_20260111_083514_590_20260111_08
 # [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase)
 
 Connects LLMs to browsers for automation
+
+将LLM连接到浏览器以实现自动化

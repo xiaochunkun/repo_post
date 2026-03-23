@@ -7,3 +7,5 @@ image: assets/20250826T030510192--gto76--python-cheatsheet--20250826T031017645--
 # [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)
 
 Quick Python cheatsheet with code examples for lists, dictionaries, syntax, and more
+
+Python 快速备忘录，含列表、字典、语法等代码示例

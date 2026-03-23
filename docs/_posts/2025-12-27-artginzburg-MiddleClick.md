@@ -7,3 +7,5 @@ image: assets/artginzburg_MiddleClick_20251225_145938_050_20251225_145955_beef89
 # [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick/)
 
 Emulates scroll wheel clicks on trackpads
+
+在触控板上模拟滚轮点击

@@ -7,3 +7,5 @@ image: assets/hiteshchoudhary_apihub_cropped.png
 # [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)
 
 API playground for learning and testing in any language
+
+支持任何语言的 API 学习和测试平台

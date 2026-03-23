@@ -7,3 +7,5 @@ image: assets/miru_project_miru_app_20260103_053316_597_20260103_053337_ecebda.p
 # [miru-project/miru-app](https://github.com/miru-project/miru-app/)
 
 Streams video, comics, and novels via extensions
+
+通过扩展流式传输视频、漫画和小说

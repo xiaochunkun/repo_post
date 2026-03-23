@@ -7,3 +7,5 @@ image: assets/Mailu_Mailu_cropped.png
 # [Mailu/Mailu](https://github.com/Mailu/Mailu)
 
 docker mail server setup with web and admin
+
+带有 Web 和管理界面的 Docker 邮件服务器设置

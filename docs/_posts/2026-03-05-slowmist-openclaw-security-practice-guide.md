@@ -7,3 +7,5 @@ image: assets/slowmist_openclaw_security_practice_guide_20260304_123257_062_2026
 # [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide)
 
 Security guide for autonomous AI agents
+
+自主AI代理安全指南

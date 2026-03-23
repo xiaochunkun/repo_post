@@ -7,3 +7,5 @@ image: assets/antflydb_antfly_20260321_065759_341_20260321_065908_d48b16.png
 # [antflydb/antfly](https://github.com/antflydb/antfly)
 
 Distributed search engine with RAG agents
+
+带RAG代理的分布式搜索引擎

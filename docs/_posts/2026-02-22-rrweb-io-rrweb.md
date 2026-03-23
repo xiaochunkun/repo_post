@@ -7,3 +7,5 @@ image: assets/rrweb_io_rrweb_20260204_081052_937_20260204_081112_a3dce8.png
 # [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)
 
 Records and replays user interactions on the web
+
+记录和回放 Web 用户交互

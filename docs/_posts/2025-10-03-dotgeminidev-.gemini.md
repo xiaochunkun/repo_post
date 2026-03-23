@@ -7,3 +7,5 @@ image: assets/20251001T210653961--dotgeminidev--.gemini--20251001T211630978--cro
 # [dotgeminidev/.gemini](https://github.com/dotgeminidev/.gemini)
 
 AI-powered commands for Gemini CLI to automate your workflow
+
+Gemini CLI的AI驱动命令，用于自动化工作流

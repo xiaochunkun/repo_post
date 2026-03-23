@@ -7,3 +7,5 @@ image: assets/zilliztech_memsearch_20260212_173832_767_20260212_173941_77a5ea.pn
 # [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
 Indexes markdown files into vector databases for agent memory
+
+将 Markdown 文件索引到向量数据库以用于智能体记忆

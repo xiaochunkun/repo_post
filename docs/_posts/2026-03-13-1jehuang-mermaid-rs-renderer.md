@@ -7,3 +7,5 @@ image: assets/1jehuang_mermaid_rs_renderer_20260302_042415_285_20260302_042543_d
 # [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer)
 
 Renders Mermaid diagrams without browser dependencies
+
+无需浏览器依赖的Mermaid图表渲染器

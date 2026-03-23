@@ -7,3 +7,5 @@ image: assets/1rgs_claude_code_proxy_20260306_183253_960_20260306_183411_209770.
 # [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy)
 
 Run Claude Code on OpenAI models
+
+在OpenAI模型上运行Claude Code

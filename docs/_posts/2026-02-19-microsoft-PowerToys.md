@@ -7,3 +7,5 @@ image: assets/microsoft_PowerToys_20260211_030624_016_20260211_030653_cfee68.png
 # [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
 Utilities to customize and optimize Windows
+
+自定义和优化Windows的实用工具

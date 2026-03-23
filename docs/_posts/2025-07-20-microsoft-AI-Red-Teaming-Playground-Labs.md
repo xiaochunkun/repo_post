@@ -7,3 +7,5 @@ image: assets/microsoft_AI-Red-Teaming-Playground-Labs_cropped.png
 # [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs)
 
 AI red teaming labs and challenges for security pros
+
+AI红队实验室和挑战，面向安全专业人士

@@ -7,3 +7,5 @@ image: assets/AntoineW_AW-2025-Portfolio_cropped.png
 # [AntoineW/AW-2025-Portfolio](https://github.com/AntoineW/AW-2025-Portfolio)
 
 open-source portfolio site for devs to learn and get inspired
+
+开源开发者作品集网站，供学习和灵感获取

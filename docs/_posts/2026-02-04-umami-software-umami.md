@@ -7,3 +7,5 @@ image: assets/umami_software_umami_20260202_084541_637_20260202_084616_3dfb4b.pn
 # [umami-software/umami](https://github.com/umami-software/umami)
 
 Analytics without cookies or tracking
+
+无需Cookie或跟踪的分析工具

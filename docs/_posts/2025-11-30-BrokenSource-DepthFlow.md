@@ -7,4 +7,6 @@ image: assets/BrokenSource_DepthFlow_20251127_185936_253_20251130_052433_7284d1-
 # [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow/)
 
 Converts images into 3D parallax videos[[ ## post_text ## ]]
+
+将图像转换为 3D 视差视频
 Converts images into 3D parallax videos

@@ -7,3 +7,5 @@ image: assets/20250901T034555330--openai--openai-cs-agents-demo--20250901T034929
 # [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)
 
 airline customer service AI demo with agent handoffs
+
+航空公司客服 AI 演示，支持智能体间转接

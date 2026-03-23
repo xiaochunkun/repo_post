@@ -7,3 +7,5 @@ image: assets/dankeg_KestrelAI_20251225_224131_098_20251225_224153_b980c6.png
 # [dankeg/KestrelAI](https://github.com/dankeg/KestrelAI/)
 
 Research assistant for local LLMs
+
+本地 LLM 的研究助手

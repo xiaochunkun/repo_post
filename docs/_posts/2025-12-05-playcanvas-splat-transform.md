@@ -7,3 +7,5 @@ image: assets/playcanvas_splat_transform_20251202_232739_537_20251202_232817_832
 # [playcanvas/splat-transform](https://github.com/playcanvas/splat-transform/)
 
 CLI tool for converting and editing 3D Gaussian splats
+
+用于转换和编辑 3D 高斯泼溅的 CLI 工具

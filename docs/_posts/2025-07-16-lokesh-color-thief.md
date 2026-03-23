@@ -7,3 +7,5 @@ image: assets/lokesh_color-thief_cropped.png
 # [lokesh/color-thief](https://github.com/lokesh/color-thief)
 
 extracts color palette from images using JavaScript
+
+使用JavaScript从图像中提取调色板

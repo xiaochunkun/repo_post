@@ -7,3 +7,5 @@ image: assets/20250911T020615354--CodebuffAI--codebuff--20250911T022142334--crop
 # [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)
 
 AI coding assistant that edits code with natural language and multi-agent teamwork
+
+用自然语言编辑代码的 AI 编程助手，支持多智能体协作

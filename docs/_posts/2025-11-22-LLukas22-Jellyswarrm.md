@@ -7,3 +7,5 @@ image: assets/LLukas22_Jellyswarrm_20251122_053352_478_20251122_111046_b9140f--2
 # [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm/)
 
 Combines multiple Jellyfin servers into one interface
+
+将多个 Jellyfin 服务器合并到一个界面

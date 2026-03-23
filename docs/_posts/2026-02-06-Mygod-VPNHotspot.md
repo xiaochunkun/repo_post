@@ -7,3 +7,5 @@ image: assets/Mygod_VPNHotspot_20260203_023259_882_20260203_023328_8bc311.png
 # [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot)
 
 Shares VPN connections over hotspots or repeaters
+
+通过热点或中继器共享VPN连接

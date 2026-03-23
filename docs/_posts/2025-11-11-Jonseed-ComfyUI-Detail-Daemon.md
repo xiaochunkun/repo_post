@@ -7,3 +7,5 @@ image: assets/Jonseed_ComfyUI_Detail_Daemon_20251110_171438_878_20251111_015336_
 # [Jonseed/ComfyUI-Detail-Daemon](https://github.com/Jonseed/ComfyUI-Detail-Daemon/)
 
 ComfyUI node to enhance image details
+
+用于增强图像细节的ComfyUI节点

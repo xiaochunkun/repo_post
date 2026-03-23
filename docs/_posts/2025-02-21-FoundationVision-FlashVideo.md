@@ -7,3 +7,5 @@ image: assets/FoundationVision_FlashVideo_cropped.png
 # [FoundationVision/FlashVideo](https://github.com/FoundationVision/FlashVideo)
 
 High-resolution video generation model
+
+高分辨率视频生成模型

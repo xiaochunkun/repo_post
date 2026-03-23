@@ -7,3 +7,5 @@ image: assets/DrewThomasson_ebook2audiobook_20260206_095126_741_20260206_095147_
 # [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 
 Converts ebooks to audiobooks with voice cloning
+
+通过语音克隆将电子书转换为有声书

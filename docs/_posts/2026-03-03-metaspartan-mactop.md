@@ -7,3 +7,5 @@ image: assets/metaspartan_mactop_20260302_080810_854_20260302_080946_e7a7cf.png
 # [metaspartan/mactop](https://github.com/metaspartan/mactop)
 
 Terminal monitor for Apple Silicon metrics
+
+Apple Silicon 指标的终端监控器

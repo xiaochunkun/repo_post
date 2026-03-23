@@ -7,3 +7,5 @@ image: assets/shareAI_lab_learn_claude_code_20260224_213647_958_20260224_213706_
 # [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
 
 Builds autonomous coding agents through twelve sessions
+
+通过十二个会话构建自主编码代理

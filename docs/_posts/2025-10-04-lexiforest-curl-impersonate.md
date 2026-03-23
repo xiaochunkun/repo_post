@@ -7,3 +7,5 @@ image: assets/20251003T231652166--lexiforest--curl-impersonate--20251003T2319309
 # [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate)
 
 A curl fork that mimics Chrome, Edge, Safari, and Firefox for web requests
+
+模仿 Chrome、Edge、Safari 和 Firefox 进行网络请求的 curl 分支

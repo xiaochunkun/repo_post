@@ -7,3 +7,5 @@ image: assets/kuvasz_uptime_kuvasz_20251122_130622_380_20251122_222026_c40f6f--2
 # [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz/)
 
 Self-hosted uptime and SSL monitor
+
+自托管正常运行时间和SSL监控器

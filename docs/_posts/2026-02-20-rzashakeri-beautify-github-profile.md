@@ -7,3 +7,5 @@ image: assets/rzashakeri_beautify_github_profile_20260209_011830_116_20260209_01
 # [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 
 Tools and tutorials for GitHub profile customization
+
+GitHub 个人资料自定义的工具和教程

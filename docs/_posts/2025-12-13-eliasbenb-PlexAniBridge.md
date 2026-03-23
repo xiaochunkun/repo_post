@@ -7,3 +7,5 @@ image: assets/eliasbenb_PlexAniBridge_20251209_053234_512_20251209_053504_5bd7bd
 # [eliasbenb/PlexAniBridge](https://github.com/eliasbenb/PlexAniBridge/)
 
 Synchronizes Plex library with AniList profile
+
+同步 Plex 库与 AniList 个人资料

@@ -7,3 +7,5 @@ image: assets/20251003T230523753--DennisBauer--RecurringExpenseTracker--20251003
 # [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker)
 
 track recurring bills and subscriptions across devices
+
+跨设备跟踪定期账单和订阅

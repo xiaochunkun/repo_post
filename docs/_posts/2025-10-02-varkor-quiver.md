@@ -7,3 +7,5 @@ image: assets/20251001T203557314--varkor--quiver--20251001T204227238--cropped.pn
 # [varkor/quiver](https://github.com/varkor/quiver)
 
 web-based editor for commutative diagrams with LaTeX export
+
+基于Web的交换图编辑器，支持LaTeX导出

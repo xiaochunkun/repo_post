@@ -7,3 +7,5 @@ image: assets/20251012T025145829--owntone--owntone-server--20251012T025821978--c
 # [owntone/owntone-server](https://github.com/owntone/owntone-server)
 
 media server for streaming music to AirPlay, Chromecast, Roku, and more
+
+流媒体音乐服务器，支持 AirPlay、Chromecast、Roku 等

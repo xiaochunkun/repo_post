@@ -7,3 +7,5 @@ image: assets/itsmostafa_aws_agent_skills_20260318_003548_084_20260318_003636_97
 # [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills)
 
 Supercharges Claude Code with AWS engineering skills
+
+用 AWS 工程技能增强 Claude Code

@@ -7,3 +7,5 @@ image: assets/Broderick_Westrope_tetrigo_20260111_024717_564_20260111_024731_88e
 # [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo)
 
 Terminal block game in Go
+
+Go语言编写的终端方块游戏

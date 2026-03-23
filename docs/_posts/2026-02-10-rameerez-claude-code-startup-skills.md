@@ -7,3 +7,5 @@ image: assets/rameerez_claude_code_startup_skills_20260207_083135_377_20260207_0
 # [rameerez/claude-code-startup-skills](https://github.com/rameerez/claude-code-startup-skills)
 
 Automates startup development tasks with Claude Code
+
+使用Claude Code自动化初创开发任务

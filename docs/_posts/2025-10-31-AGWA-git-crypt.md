@@ -7,3 +7,5 @@ image: assets/AGWA_git_crypt_20251031_023042_114_20251031_140731_33d8bd--2025103
 # [AGWA/git-crypt](https://github.com/AGWA/git-crypt/)
 
 Transparent file encryption in a git repository
+
+在 git 仓库中实现透明的文件加密

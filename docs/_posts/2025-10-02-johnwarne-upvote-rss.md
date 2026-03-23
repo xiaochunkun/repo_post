@@ -7,3 +7,5 @@ image: assets/20251001T192603093--johnwarne--upvote-rss--20251001T193242544--cro
 # [johnwarne/upvote-rss](https://github.com/johnwarne/upvote-rss)
 
 Generate RSS feeds from Reddit, Hacker News, Lemmy, and more social sites for your favorite posts
+
+从Reddit、Hacker News、Lemmy等社交网站生成RSS订阅源，用于您喜欢的帖子

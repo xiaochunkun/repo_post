@@ -7,3 +7,5 @@ image: assets/soxoj_maigret_cropped.png
 # [soxoj/maigret](https://github.com/soxoj/maigret)
 
 Tool to find user accounts across multiple sites
+
+跨多个网站查找用户账户的工具

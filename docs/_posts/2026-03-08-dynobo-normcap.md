@@ -7,3 +7,5 @@ image: assets/dynobo_normcap_20260210_121317_722_20260210_121344_e895c1.png
 # [dynobo/normcap](https://github.com/dynobo/normcap)
 
 Extracts text from screen captures via OCR
+
+通过 OCR 从屏幕截图提取文本

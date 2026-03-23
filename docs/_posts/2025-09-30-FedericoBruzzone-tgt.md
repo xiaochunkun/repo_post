@@ -7,3 +7,5 @@ image: assets/20250930T032829823--FedericoBruzzone--tgt--20250930T033441927--cro
 # [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt)
 
 Terminal-based Telegram client in Rust
+
+基于 Rust 的终端 Telegram 客户端

@@ -7,3 +7,5 @@ image: assets/20250927T042002296--alexandreborges--malwoverview--20250927T043059
 # [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview)
 
 malware analysis tool for quick static reports
+
+用于快速静态报告的恶意软件分析工具

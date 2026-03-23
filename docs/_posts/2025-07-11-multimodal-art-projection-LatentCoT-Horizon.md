@@ -7,3 +7,5 @@ image: assets/multimodal-art-projection_LatentCoT-Horizon_cropped.png
 # [multimodal-art-projection/LatentCoT-Horizon](https://github.com/multimodal-art-projection/LatentCoT-Horizon)
 
 organizing papers, code, and resources about latent reasoning
+
+整理关于潜在推理的论文、代码和资源

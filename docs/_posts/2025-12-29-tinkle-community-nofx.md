@@ -7,3 +7,5 @@ image: assets/tinkle_community_nofx_20251228_011703_686_20251228_011731_80a273.p
 # [tinkle-community/nofx](https://github.com/tinkle-community/nofx/)
 
 AI agents trade crypto futures across exchanges
+
+AI 代理跨交易所交易加密货币期货

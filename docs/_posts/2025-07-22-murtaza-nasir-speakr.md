@@ -7,3 +7,5 @@ image: assets/murtaza-nasir_speakr_cropped.png
 # [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr)
 
 self-hosted app for transcribing audio
+
+自托管音频转录应用

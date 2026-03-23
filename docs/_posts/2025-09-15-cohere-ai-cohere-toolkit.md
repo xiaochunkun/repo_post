@@ -7,3 +7,5 @@ image: assets/20250915T040208386--cohere-ai--cohere-toolkit--20250915T040606577-
 # [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit)
 
 deployable toolkit for building RAG apps with LLMs
+
+可部署的 LLM RAG 应用构建工具包

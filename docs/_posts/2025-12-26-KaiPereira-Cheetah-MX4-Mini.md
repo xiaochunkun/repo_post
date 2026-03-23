@@ -7,3 +7,5 @@ image: assets/KaiPereira_Cheetah_MX4_Mini_20251224_215151_498_20251224_215215_3c
 # [KaiPereira/Cheetah-MX4-Mini](https://github.com/KaiPereira/Cheetah-MX4-Mini/)
 
 Open source motherboard for 3D printers
+
+3D 打印机的开源主板

@@ -7,3 +7,5 @@ image: assets/lukasz-madon_awesome-remote-job_cropped.png
 # [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 
 Curated list of remote job resources and companies
+
+远程工作资源和公司的精选列表

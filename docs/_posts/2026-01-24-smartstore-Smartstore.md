@@ -7,3 +7,5 @@ image: assets/smartstore_Smartstore_20260123_054303_968_20260123_054321_7b525f.p
 # [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
 
 eCommerce platform on ASP.NET Core
+
+基于 ASP.NET Core 的电子商务平台

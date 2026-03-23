@@ -7,3 +7,5 @@ image: assets/eusef_swl_channel_browser_20260309_134730_038_20260309_134914_5702
 # [eusef/swl-channel-browser](https://github.com/eusef/swl-channel-browser)
 
 Tunes SDRplay receivers using shortwave schedule databases
+
+使用短波时间表数据库调谐SDRplay接收器

@@ -7,3 +7,5 @@ image: assets/VeNoMouS_cloudscraper_cropped.png
 # [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper)
 
 Python tool for bypassing Cloudflare anti-bot pages using Requests
+
+使用Requests绕过Cloudflare反机器人页面的Python工具

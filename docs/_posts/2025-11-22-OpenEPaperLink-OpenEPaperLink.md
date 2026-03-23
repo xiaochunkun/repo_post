@@ -7,3 +7,5 @@ image: assets/OpenEPaperLink_OpenEPaperLink_20251122_060240_753_20251122_111129_
 # [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink/)
 
 Firmware for electronic shelf labels
+
+电子货架标签的固件

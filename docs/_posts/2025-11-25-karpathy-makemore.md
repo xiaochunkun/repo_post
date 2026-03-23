@@ -7,3 +7,5 @@ image: assets/karpathy_makemore_20251123_192113_259_20251125_011538_cd5913--2025
 # [karpathy/makemore](https://github.com/karpathy/makemore/)
 
 Implements language models for education
+
+实现用于教育的语言模型

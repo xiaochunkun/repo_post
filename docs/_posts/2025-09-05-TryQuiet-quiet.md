@@ -7,3 +7,5 @@ image: assets/20250905T025819638--TryQuiet--quiet--20250905T030127414--cropped.p
 # [TryQuiet/quiet](https://github.com/TryQuiet/quiet)
 
 p2p encrypted team chat app, no servers, uses Tor
+
+无服务器的 P2P 加密团队聊天应用，基于 Tor 网络

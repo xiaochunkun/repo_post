@@ -7,3 +7,5 @@ image: assets/anyproto_anytype-ts_cropped.png
 # [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)
 
 private, encrypted knowledge base app for desktop
+
+私密加密的桌面知识库应用

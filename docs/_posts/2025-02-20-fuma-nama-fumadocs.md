@@ -7,3 +7,5 @@ image: assets/fuma-nama_fumadocs_cropped.png
 # [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
 
 Documentation framework for Next.js
+
+Next.js的文档框架

@@ -7,3 +7,5 @@ image: assets/C_Loftus_QuickPiperAudiobook_20260129_132747_816_20260129_132823_d
 # [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook)
 
 Converts documents to audiobooks offline
+
+离线将文档转换为有声读物

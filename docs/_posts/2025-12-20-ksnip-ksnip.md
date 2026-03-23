@@ -7,3 +7,5 @@ image: assets/ksnip_ksnip_20251218_024620_113_20251218_024649_3b86f0.png
 # [ksnip/ksnip](https://github.com/ksnip/ksnip/)
 
 Cross-platform screenshot tool with annotation features
+
+支持标注功能的跨平台截图工具

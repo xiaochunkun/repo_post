@@ -7,3 +7,5 @@ image: assets/mrdbourke_pytorch-deep-learning_cropped.png
 # [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
 PyTorch deep learning course files and code notebooks
+
+PyTorch深度学习课程文件和代码笔记本

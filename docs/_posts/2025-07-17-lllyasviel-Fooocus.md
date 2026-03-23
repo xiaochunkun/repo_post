@@ -7,3 +7,5 @@ image: assets/lllyasviel_Fooocus_cropped.png
 # [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
 
 AI image generator that runs offline, just prompt and go
+
+离线运行的 AI 图像生成器，只需提示即可生成

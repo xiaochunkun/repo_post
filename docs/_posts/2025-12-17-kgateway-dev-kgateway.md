@@ -7,3 +7,5 @@ image: assets/kgateway_dev_kgateway_20251216_152546_350_20251216_152628_8936bb.p
 # [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway/)
 
 Kubernetes gateway for microservices and AI agents
+
+用于微服务和AI Agent的Kubernetes网关

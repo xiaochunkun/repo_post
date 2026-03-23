@@ -7,3 +7,5 @@ image: assets/plotly_plotly.js_cropped.png
 # [plotly/plotly.js](https://github.com/plotly/plotly.js)
 
 JavaScript library for making charts and graphs with data
+
+使用数据制作图表和图形的 JavaScript 库

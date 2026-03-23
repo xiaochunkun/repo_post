@@ -7,3 +7,5 @@ image: assets/Drix10_ai_resources_20260306_184831_262_20260306_184951_c51d2a.png
 # [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
 
 Curates AI resources from X
+
+从X精选AI资源

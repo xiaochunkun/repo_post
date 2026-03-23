@@ -7,3 +7,5 @@ image: assets/20250810T061506--Axorax--awesome-free-apps--20250812T004714--cropp
 # [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps)
 
 curated list of free apps for pc and mobile
+
+精选的PC和移动设备免费应用列表

@@ -7,3 +7,5 @@ image: assets/thradde_FastWinDirStat_20260120_223816_073_20260120_223838_9d7649.
 # [thradde/FastWinDirStat](https://github.com/thradde/FastWinDirStat)
 
 Scans NTFS partitions via Master File Table
+
+通过主文件表扫描NTFS分区

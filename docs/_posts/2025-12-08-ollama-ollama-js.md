@@ -7,3 +7,5 @@ image: assets/ollama_ollama_js_20251207_181829_438_20251207_181903_39b342.png
 # [ollama/ollama-js](https://github.com/ollama/ollama-js/)
 
 JavaScript library for Ollama integration
+
+用于 Ollama 集成的 JavaScript 库

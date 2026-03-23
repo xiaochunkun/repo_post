@@ -7,3 +7,5 @@ image: assets/evroon_bracket_20251018_191543_698_20251018_225714--20251019T00571
 # [evroon/bracket](https://github.com/evroon/bracket/)
 
 Tournament system for various formats, team, and club management
+
+支持多种格式、团队和俱乐部管理的锦标赛系统

@@ -7,3 +7,5 @@ image: assets/rapid7_metasploitable3_20251201_034526_344_20251201_034602_b48d4d.
 # [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3/)
 
 VM with security vulnerabilities for testing exploits
+
+包含安全漏洞用于测试利用的虚拟机

@@ -7,3 +7,5 @@ image: assets/disposable_disposable_20251030_000309_666_20251030_010344_a06a32--
 # [disposable/disposable](https://github.com/disposable/disposable/)
 
 Auto-updated list of disposable email domains
+
+自动更新的临时邮箱域名列表

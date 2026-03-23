@@ -7,3 +7,5 @@ image: assets/HaiderAbasi_ROS2_Path_Planning_and_Maze_Solving_20260111_221319_11
 # [HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving)
 
 Maze solving robot using ROS2 and OpenCV
+
+使用 ROS2 和 OpenCV 的迷宫求解机器人

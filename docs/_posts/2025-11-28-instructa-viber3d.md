@@ -7,3 +7,5 @@ image: assets/instructa_viber3d_20251125_055002_350_20251127_171005_4f392d--2025
 # [instructa/viber3d](https://github.com/instructa/viber3d/)
 
 React starter kit for 3D browser games
+
+3D 浏览器游戏的 React 启动套件

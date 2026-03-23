@@ -7,3 +7,5 @@ image: assets/boxdot_gurk_rs_20251126_005929_501_20251129_021754_ad267e--2025112
 # [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs/)
 
 Signal Messenger client for terminal
+
+终端Signal Messenger客户端

@@ -7,3 +7,5 @@ image: assets/steveiliop56_tinyauth_cropped.png
 # [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth)
 
 simple login and OAuth for homelab apps
+
+简单的登录和 OAuth，适用于家庭实验室应用

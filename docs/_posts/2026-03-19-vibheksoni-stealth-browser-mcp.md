@@ -7,3 +7,5 @@ image: assets/vibheksoni_stealth_browser_mcp_20260319_113643_534_20260319_113909
 # [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp)
 
 Undetectable browser automation for AI agents
+
+面向AI代理的不可检测浏览器自动化

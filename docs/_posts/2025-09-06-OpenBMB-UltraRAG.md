@@ -7,3 +7,5 @@ image: assets/20250906T024314011--OpenBMB--UltraRAG--20250906T024752504--cropped
 # [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG)
 
 low-code toolkit for building and evaluating RAG systems
+
+低代码构建和评估 RAG 系统的工具包

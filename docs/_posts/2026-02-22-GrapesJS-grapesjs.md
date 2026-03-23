@@ -7,3 +7,5 @@ image: assets/GrapesJS_grapesjs_20260202_235743_825_20260202_235832_074b4f.png
 # [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)
 
 Web builder framework for templates
+
+模板的 Web 构建框架

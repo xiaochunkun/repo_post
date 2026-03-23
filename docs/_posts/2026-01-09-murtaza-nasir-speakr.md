@@ -7,3 +7,5 @@ image: assets/murtaza_nasir_speakr_20260108_030137_810_20260108_030151_9bf1d6.pn
 # [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr)
 
 Transcribes audio into notes on your infrastructure
+
+将音频转录为基础设施上的笔记

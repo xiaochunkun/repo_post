@@ -7,3 +7,5 @@ image: assets/zyachel_libremdb_20251118_093330_546_20251118_160819_d74c71--20251
 # [zyachel/libremdb](https://github.com/zyachel/libremdb/)
 
 Open source front-end for IMDb
+
+IMDb 的开源前端

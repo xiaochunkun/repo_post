@@ -7,3 +7,5 @@ image: assets/samuelngs_apple_emoji_linux_20251123_202228_388_20251125_165034_f0
 # [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux/)
 
 Install Apple Color Emojis on Linux
+
+在 Linux 上安装 Apple Color Emojis

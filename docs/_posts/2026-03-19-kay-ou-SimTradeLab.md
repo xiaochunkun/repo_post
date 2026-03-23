@@ -7,3 +7,5 @@ image: assets/kay_ou_SimTradeLab_20260318_130311_941_20260318_130409_e702fc.png
 # [kay-ou/SimTradeLab](https://github.com/kay-ou/SimTradeLab)
 
 Local PTrade API simulation framework
+
+本地 PTrade API 模拟框架

@@ -7,3 +7,5 @@ image: assets/maderix_ANE_20260303_185752_192_20260303_185916_df938f.png
 # [maderix/ANE](https://github.com/maderix/ANE)
 
 Trains neural networks on Apple Neural Engine via private APIs
+
+通过私有API在Apple Neural Engine上训练神经网络

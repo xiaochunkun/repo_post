@@ -7,3 +7,5 @@ image: assets/paralleldrive_sudolang_llm_support_20251209_063601_740_20251209_06
 # [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support/)
 
 Programming language for collaborating with AI language models
+
+用于与 AI 语言模型协作的编程语言

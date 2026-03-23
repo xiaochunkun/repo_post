@@ -7,3 +7,5 @@ image: assets/Akryum_floating_vue_20251213_081738_223_20251213_081801_1a45c3.png
 # [Akryum/floating-vue](https://github.com/Akryum/floating-vue/)
 
 Tooltips and popovers for Vue using Floating UI
+
+基于 Floating UI 的 Vue 工具提示和弹出框

@@ -7,3 +7,5 @@ image: assets/giuseppe99barchetta_SuggestArr_20260122_015229_914_20260122_015251
 # [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
 
 Automates media requests based on server activity
+
+基于服务器活动自动化媒体请求

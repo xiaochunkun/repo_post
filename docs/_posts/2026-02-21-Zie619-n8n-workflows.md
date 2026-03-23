@@ -7,3 +7,5 @@ image: assets/Zie619_n8n_workflows_20260202_114948_756_20260202_115024_b8cfba.pn
 # [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)
 
 Collection of automation workflows with 365 integrations
+
+具有365个集成的自动化工作流集合

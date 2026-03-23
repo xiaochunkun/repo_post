@@ -7,3 +7,5 @@ image: assets/netbox_community_devicetype_library_20251123_193633_036_20251125_0
 # [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library/)
 
 Community-sourced device type definitions for NetBox
+
+NetBox 社区提供的设备类型定义库

@@ -7,3 +7,5 @@ image: assets/20251003T230558761--crewAIInc--awesome-crewai--20251003T231050840-
 # [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai)
 
 Curated list of open-source CrewAI agent projects and integrations
+
+精选的开源 CrewAI 代理项目和集成列表

@@ -7,3 +7,5 @@ image: assets/20251007T030533471--whyhow-ai--knowledge-graph-studio--20251007T03
 # [whyhow-ai/knowledge-graph-studio](https://github.com/whyhow-ai/knowledge-graph-studio)
 
 tool for building and managing knowledge graphs with RAG workflows
+
+使用 RAG 工作流构建和管理知识图谱的工具

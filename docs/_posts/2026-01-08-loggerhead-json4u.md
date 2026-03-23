@@ -7,3 +7,5 @@ image: assets/loggerhead_json4u_20260108_024427_144_20260108_024441_85e8e9.png
 # [loggerhead/json4u](https://github.com/loggerhead/json4u)
 
 Visualizes and processes JSON with jq support
+
+可视化并处理JSON，支持jq

@@ -7,3 +7,5 @@ image: assets/20251005T225506386--instantpage--instant.page--20251005T230031610-
 # [instantpage/instant.page](https://github.com/instantpage/instant.page)
 
 preloads pages on hover to make sites feel instant
+
+悬停时预加载页面，使网站感觉即时

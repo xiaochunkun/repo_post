@@ -7,3 +7,5 @@ image: assets/20250829T042424223--eyalzh--claude-code-toast--20250829T043134388-
 # [eyalzh/claude-code-toast](https://github.com/eyalzh/claude-code-toast)
 
 macOS toast notifications for Claude Code tasks
+
+Claude Code 任务完成时的 macOS 通知提醒

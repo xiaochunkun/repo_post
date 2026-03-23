@@ -7,3 +7,5 @@ image: assets/20250825T013436289--Nutlope--llamacoder--20250825T013751788--cropp
 # [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder)
 
 generate apps from a single prompt with llama 3
+
+一个提示词即可用 Llama 3 生成应用

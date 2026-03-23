@@ -7,3 +7,5 @@ image: assets/20250830T040437904--rothgar--awesome-tuis--20250830T041056054--cro
 # [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
 
 curated list of terminal user interface apps and libraries
+
+终端用户界面应用和库精选列表

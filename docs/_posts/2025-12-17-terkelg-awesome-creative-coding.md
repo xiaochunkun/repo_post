@@ -7,3 +7,5 @@ image: assets/terkelg_awesome_creative_coding_20251215_030004_136_20251215_03010
 # [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding/)
 
 Curated list of creative coding resources
+
+创意编程资源精选列表

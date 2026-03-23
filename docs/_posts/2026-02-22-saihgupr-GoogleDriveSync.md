@@ -7,3 +7,5 @@ image: assets/saihgupr_GoogleDriveSync_20260222_065105_547_20260222_065152_083e7
 # [saihgupr/GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync)
 
 Syncs Google Drive folders from macOS menu bar
+
+从macOS菜单栏同步Google Drive文件夹

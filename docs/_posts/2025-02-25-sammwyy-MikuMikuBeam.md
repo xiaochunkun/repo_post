@@ -7,3 +7,5 @@ image: assets/sammwyy_MikuMikuBeam_cropped.png
 # [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam)
 
 Network stress testing tool with Hatsune Miku theme
+
+初音未来主题的网络压力测试工具

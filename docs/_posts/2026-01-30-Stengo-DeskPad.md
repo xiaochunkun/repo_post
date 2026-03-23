@@ -7,3 +7,5 @@ image: assets/Stengo_DeskPad_20260129_093324_310_20260129_093404_e1d5ce.png
 # [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
 
 Mirrors virtual display within application window
+
+在应用窗口内镜像虚拟显示器

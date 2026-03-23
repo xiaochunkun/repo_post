@@ -7,3 +7,5 @@ image: assets/arhamkhnz_next_shadcn_admin_dashboard_20251125_025136_699_20251127
 # [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/)
 
 Next.js 16 admin dashboard template with Shadcn UI
+
+采用 Shadcn UI 的 Next.js 16 管理仪表板模板

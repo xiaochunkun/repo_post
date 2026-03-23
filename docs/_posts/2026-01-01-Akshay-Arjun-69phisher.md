@@ -7,3 +7,5 @@ image: assets/Akshay_Arjun_69phisher_20260101_012535_700_20260101_012549_9bd541.
 # [Akshay-Arjun/69phisher](https://github.com/Akshay-Arjun/69phisher/)
 
 Simulates phishing scenarios for security training
+
+模拟钓鱼场景用于安全培训

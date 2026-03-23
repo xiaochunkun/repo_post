@@ -6,3 +6,5 @@ image: assets/alexandrehtrb_Pororoca_20251025_042210_203_20251025_084120_5c5f7a-
 # [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca/)
 
 HTTP testing tool with HTTP/2 and HTTP/3 support
+
+支持HTTP/2和HTTP/3的HTTP测试工具

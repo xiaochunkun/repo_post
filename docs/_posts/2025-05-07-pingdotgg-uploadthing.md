@@ -7,3 +7,5 @@ image: assets/pingdotgg_uploadthing_cropped.png
 # [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 
 File upload utility for web developers
+
+Web 开发者的文件上传工具

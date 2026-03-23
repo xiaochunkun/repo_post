@@ -7,3 +7,5 @@ image: assets/evilsocket_opensnitch_20260108_050239_433_20260108_050253_a93a9a.p
 # [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch)
 
 Application firewall for Linux systems
+
+Linux系统应用防火墙

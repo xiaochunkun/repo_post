@@ -7,3 +7,5 @@ image: assets/Tencent_WeKnora_20260319_064553_702_20260319_064657_47d3e5.png
 # [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
 Hierarchical chunking for precise document retrieval
+
+分层分块，用于精确文档检索

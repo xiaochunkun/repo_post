@@ -7,3 +7,5 @@ image: assets/pashkov256_deletor_20260112_163043_773_20260112_163101_14daa6.png
 # [pashkov256/deletor](https://github.com/pashkov256/deletor)
 
 Deletes files via terminal interface or scripts
+
+通过终端界面或脚本删除文件

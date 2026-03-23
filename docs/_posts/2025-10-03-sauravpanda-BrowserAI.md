@@ -7,3 +7,5 @@ image: assets/20251003T161830436--sauravpanda--BrowserAI--20251003T162247742--cr
 # [sauravpanda/BrowserAI](https://github.com/sauravpanda/BrowserAI)
 
 run local LLMs in your browser, no server needed
+
+在浏览器中运行本地 LLM，无需服务器

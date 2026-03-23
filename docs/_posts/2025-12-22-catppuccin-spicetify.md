@@ -7,3 +7,5 @@ image: assets/catppuccin_spicetify_20251221_044800_787_20251221_044821_b9e5cb.pn
 # [catppuccin/spicetify](https://github.com/catppuccin/spicetify/)
 
 Pastel theme for the Spotify client
+
+Spotify 客户端柔色主题

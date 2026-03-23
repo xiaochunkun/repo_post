@@ -7,3 +7,5 @@ image: assets/HexFiend_HexFiend_20260216_183222_746_20260216_183315_a1cf27.png
 # [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend)
 
 Hex editor for macOS handling files up to 118 GB
+
+支持高达118GB文件的macOS十六进制编辑器

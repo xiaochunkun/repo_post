@@ -6,3 +6,5 @@ image: assets/RUCKBReasoning_OmniSQL_20251025_035402_578_20251025_041322_d91c8c-
 # [RUCKBReasoning/OmniSQL](https://github.com/RUCKBReasoning/OmniSQL/)
 
 Framework for large-scale text-to-SQL data synthesis
+
+用于大规模文本到SQL数据合成的框架

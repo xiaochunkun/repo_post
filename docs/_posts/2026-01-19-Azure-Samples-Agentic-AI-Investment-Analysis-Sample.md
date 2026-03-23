@@ -7,3 +7,5 @@ image: assets/Azure_Samples_Agentic_AI_Investment_Analysis_Sample_20260113_23313
 # [Azure-Samples/Agentic-AI-Investment-Analysis-Sample](https://github.com/Azure-Samples/Agentic-AI-Investment-Analysis-Sample)
 
 Multi-agent workflows for investment analysis
+
+投资分析的多代理工作流

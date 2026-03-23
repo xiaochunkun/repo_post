@@ -7,3 +7,5 @@ image: assets/dreamfactorysoftware_dreamfactory_20251121_140318_447_20251122_050
 # [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory/)
 
 Automates API generation for databases
+
+自动化数据库 API 生成

@@ -7,3 +7,5 @@ image: assets/dilame_instagram_private_api_20251025_194001_118_20251025_230555_0
 # [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api/)
 
 NodeJS client for the Instagram private API
+
+Instagram私有API的NodeJS客户端

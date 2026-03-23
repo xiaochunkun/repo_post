@@ -7,3 +7,5 @@ image: assets/20250915T225134929--rvaiya--keyd--20250915T225924297--cropped.png
 # [rvaiya/keyd](https://github.com/rvaiya/keyd)
 
 System-wide key remapping daemon for Linux using kernel-level input primitives
+
+Linux 系统级键位重映射守护进程，使用内核级输入原语

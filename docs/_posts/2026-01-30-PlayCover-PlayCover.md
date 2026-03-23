@@ -7,3 +7,5 @@ image: assets/PlayCover_PlayCover_20260130_033256_813_20260130_033338_2480ae.png
 # [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
 
 Runs iOS apps on Apple Silicon Macs
+
+在Apple Silicon Macs上运行iOS应用

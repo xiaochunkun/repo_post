@@ -7,3 +7,5 @@ image: assets/theaiautomators_claude_code_agentic_rag_masterclass_20260206_04155
 # [theaiautomators/claude-code-agentic-rag-masterclass](https://github.com/theaiautomators/claude-code-agentic-rag-masterclass)
 
 Builds agentic RAG systems with Claude Code
+
+使用 Claude Code 构建代理式 RAG 系统

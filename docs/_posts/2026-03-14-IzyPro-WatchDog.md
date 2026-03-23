@@ -7,3 +7,5 @@ image: assets/IzyPro_WatchDog_20260314_015749_093_20260314_015936_c1dadb.png
 # [IzyPro/WatchDog](https://github.com/IzyPro/WatchDog)
 
 Realtime logger for ASP.NET Core apps
+
+ASP.NET Core应用的实时日志记录器

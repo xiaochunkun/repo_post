@@ -7,3 +7,5 @@ image: assets/orhun_rustypaste_20251127_212250_778_20251130_083633_5359b2--20251
 # [orhun/rustypaste](https://github.com/orhun/rustypaste/)
 
 Minimal file upload and pastebin service
+
+极简文件上传和粘贴服务

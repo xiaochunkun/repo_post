@@ -7,3 +7,5 @@ image: assets/infoslack_awesome_web_hacking_20251125_024036_928_20251127_162533_
 # [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking/)
 
 List of web application security resources
+
+Web 应用安全资源列表

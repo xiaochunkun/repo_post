@@ -7,3 +7,5 @@ image: assets/codesandbox_codesandbox-client_cropped.png
 # [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client)
 
 online code editor for web projects and prototyping
+
+用于Web项目和原型设计的在线代码编辑器

@@ -7,3 +7,5 @@ image: assets/flexn_io_renative_20251208_013327_497_20251208_013403_23d0a0.png
 # [flexn-io/renative](https://github.com/flexn-io/renative/)
 
 Unified development platform for mobile, web, and TV
+
+移动、Web和TV的统一开发平台

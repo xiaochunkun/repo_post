@@ -7,3 +7,5 @@ image: assets/universal_tool_calling_protocol_code_mode_20260318_040511_286_2026
 # [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode)
 
 Executes tool calls via code
+
+通过代码执行工具调用

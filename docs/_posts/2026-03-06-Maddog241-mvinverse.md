@@ -7,3 +7,5 @@ image: assets/Maddog241_mvinverse_20260306_041133_114_20260306_041256_54685b.png
 # [Maddog241/mvinverse](https://github.com/Maddog241/mvinverse)
 
 Predict scene properties from image sequences
+
+从图像序列预测场景属性

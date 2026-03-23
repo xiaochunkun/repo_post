@@ -7,3 +7,5 @@ image: assets/frappe_crm_cropped.png
 # [frappe/crm](https://github.com/frappe/crm)
 
 Open-source CRM for sales teams
+
+销售团队的开源 CRM

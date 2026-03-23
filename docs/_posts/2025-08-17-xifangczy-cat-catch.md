@@ -7,3 +7,5 @@ image: assets/xifangczy_cat-catch--20250816T050522577--cropped.png
 # [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)
 
 browser extension to list and download media files from web pages
+
+浏览器扩展，用于列出和下载网页中的媒体文件

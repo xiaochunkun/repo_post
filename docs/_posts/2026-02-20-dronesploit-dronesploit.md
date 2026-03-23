@@ -7,3 +7,5 @@ image: assets/dronesploit_dronesploit_20260220_125641_915_20260220_125702_4473dd
 # [dronesploit/dronesploit](https://github.com/dronesploit/dronesploit)
 
 Framework for drone penetration testing
+
+无人机渗透测试框架

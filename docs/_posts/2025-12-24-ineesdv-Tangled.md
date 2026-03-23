@@ -7,3 +7,5 @@ image: assets/ineesdv_Tangled_20251223_095835_291_20251223_095853_5a7b80.png
 # [ineesdv/Tangled](https://github.com/ineesdv/Tangled/)
 
 Automates phishing via calendar invites
+
+通过日历邀请自动化钓鱼攻击

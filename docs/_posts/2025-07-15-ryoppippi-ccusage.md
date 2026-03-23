@@ -7,3 +7,5 @@ image: assets/ryoppippi_ccusage_cropped.png
 # [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)
 
 analyzes Claude Code usage from local files
+
+从本地文件分析Claude Code使用情况

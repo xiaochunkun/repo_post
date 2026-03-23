@@ -7,3 +7,5 @@ image: assets/actionstatelabs_android_action_kernel_20251219_221510_666_20251219
 # [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel/)
 
 AI agents control native Android apps
+
+AI 智能体控制原生 Android 应用

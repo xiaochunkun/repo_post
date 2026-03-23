@@ -7,3 +7,5 @@ image: assets/AzuReSUrGEfla_Trading_Bot_Mev_Local_PC_20260113_222952_191_2026011
 # [AzuReSUrGEfla/Trading-Bot_Mev_Local_PC](https://github.com/AzuReSUrGEfla/Trading-Bot_Mev_Local_PC)
 
 Trading bot in one HTML file
+
+单个 HTML 文件中的交易机器人

@@ -7,3 +7,5 @@ image: assets/20251005T002403652--IDEA-Research--DWPose--20251005T002837016--cro
 # [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose)
 
 whole-body pose estimation with two-stage distillation, supports multiple models and integration with ControlNet
+
+全身姿态估计，采用两阶段蒸馏，支持多种模型并与ControlNet集成

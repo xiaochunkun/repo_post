@@ -7,3 +7,5 @@ image: assets/geongeorge_i_hate_regex_20260112_131258_126_20260112_131311_3cfba8
 # [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex)
 
 Visualizes regular expressions and tests strings
+
+可视化正则表达式并测试字符串

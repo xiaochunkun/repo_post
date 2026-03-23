@@ -7,3 +7,5 @@ image: assets/valentinpalkovic_prisma-json-schema-generator_cropped.png
 # [valentinpalkovic/prisma-json-schema-generator](https://github.com/valentinpalkovic/prisma-json-schema-generator)
 
 Prisma generator that converts schema.prisma to JSON Schema format
+
+将 schema.prisma 转换为 JSON Schema 格式的 Prisma 生成器

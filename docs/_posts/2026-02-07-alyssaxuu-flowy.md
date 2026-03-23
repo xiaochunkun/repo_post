@@ -7,3 +7,5 @@ image: assets/alyssaxuu_flowy_20260204_113225_876_20260204_113241_458f8d.png
 # [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy)
 
 Javascript library for flowchart functionality in webapps
+
+用于 Web 应用中流程图功能的 JavaScript 库

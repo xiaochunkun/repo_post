@@ -7,3 +7,5 @@ image: assets/The_Swarm_Corporation_AutoHedge_20251110_021029_968_20251110_12153
 # [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge/)
 
 Autonomous hedge fund using swarm intelligence and AI agents
+
+使用群体智能和AI代理的自主对冲基金

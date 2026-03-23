@@ -7,3 +7,5 @@ image: assets/20250923T032430264--codex-team--editor.js--20250923T032757633--cro
 # [codex-team/editor.js](https://github.com/codex-team/editor.js)
 
 block-style editor for structured content, outputs clean JSON
+
+用于结构化内容的块式编辑器，输出干净的 JSON

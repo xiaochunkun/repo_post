@@ -7,3 +7,5 @@ image: assets/dmayboroda_minima_cropped.png
 # [dmayboroda/minima](https://github.com/dmayboroda/minima)
 
 On-premises conversational RAG with containers
+
+基于容器的本地对话式 RAG

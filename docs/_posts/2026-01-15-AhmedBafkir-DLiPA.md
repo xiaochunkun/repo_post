@@ -7,3 +7,5 @@ image: assets/AhmedBafkir_DLiPA_20260115_101958_039_20260115_102012_df1520.png
 # [AhmedBafkir/DLiPA](https://github.com/AhmedBafkir/DLiPA)
 
 Downloads and installs App Store applications without a jailbreak
+
+无需越狱下载和安装 App Store 应用

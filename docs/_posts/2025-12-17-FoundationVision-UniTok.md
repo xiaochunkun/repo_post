@@ -7,3 +7,5 @@ image: assets/FoundationVision_UniTok_20251215_035332_982_20251215_035353_77e408
 # [FoundationVision/UniTok](https://github.com/FoundationVision/UniTok/)
 
 Tokenizer for visual generation and understanding
+
+用于视觉生成和理解的 Tokenizer

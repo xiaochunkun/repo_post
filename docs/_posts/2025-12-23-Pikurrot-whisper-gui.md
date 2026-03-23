@@ -7,3 +7,5 @@ image: assets/Pikurrot_whisper_gui_20251222_105958_412_20251222_110027_b440e5.pn
 # [Pikurrot/whisper-gui](https://github.com/Pikurrot/whisper-gui/)
 
 Transcribes audio and video files with timestamps
+
+带时间戳转录音频和视频文件

@@ -7,3 +7,5 @@ image: assets/Techlm77_LinuxPlay_20260301_202915_857_20260301_203050_4c2950.png
 # [Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay)
 
 Streams desktop over UDP via FFmpeg and Qt
+
+通过FFmpeg和Qt实现UDP桌面流传输

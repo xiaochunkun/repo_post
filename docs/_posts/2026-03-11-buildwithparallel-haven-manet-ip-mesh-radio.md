@@ -7,3 +7,5 @@ image: assets/buildwithparallel_haven_manet_ip_mesh_radio_20260309_141311_089_20
 # [buildwithparallel/haven-manet-ip-mesh-radio](https://github.com/buildwithparallel/haven-manet-ip-mesh-radio)
 
 Mesh network toolkit for IP communications over radio
+
+用于无线电IP通信的网状网络工具包

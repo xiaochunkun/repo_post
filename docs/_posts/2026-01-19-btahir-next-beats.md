@@ -7,3 +7,5 @@ image: assets/btahir_next_beats_20260116_104232_112_20260116_104325_b60d04.png
 # [btahir/next-beats](https://github.com/btahir/next-beats)
 
 Lofi music player with YouTube integration and sound effects
+
+带YouTube集成和音效的Lofi音乐播放器

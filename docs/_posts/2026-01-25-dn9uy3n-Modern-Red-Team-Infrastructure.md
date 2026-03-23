@@ -7,3 +7,5 @@ image: assets/dn9uy3n_Modern_Red_Team_Infrastructure_20260115_085904_704_2026011
 # [dn9uy3n/Modern-Red-Team-Infrastructure](https://github.com/dn9uy3n/Modern-Red-Team-Infrastructure)
 
 Architecture model for red team operations
+
+红队操作的架构模型

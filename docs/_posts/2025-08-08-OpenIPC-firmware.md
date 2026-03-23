@@ -7,3 +7,5 @@ image: assets/OpenIPC_firmware_cropped.png
 # [OpenIPC/firmware](https://github.com/OpenIPC/firmware)
 
 open firmware for IP cameras
+
+IP摄像头的开源固件

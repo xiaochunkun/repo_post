@@ -7,3 +7,5 @@ image: assets/cdleon_awesome_terminals_20260313_115341_776_20260313_115702_0bddb
 # [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals)
 
 List of terminal emulators for Android, iOS, and Linux
+
+Android、iOS 和 Linux 的终端模拟器列表

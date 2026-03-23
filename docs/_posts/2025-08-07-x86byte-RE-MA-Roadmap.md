@@ -7,3 +7,5 @@ image: assets/x86byte_RE-MA-Roadmap_cropped.png
 # [x86byte/RE-MA-Roadmap](https://github.com/x86byte/RE-MA-Roadmap)
 
 reverse engineering and malware analysis learning path
+
+逆向工程和恶意软件分析学习路径

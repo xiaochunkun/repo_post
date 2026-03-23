@@ -7,3 +7,5 @@ image: assets/pldubouilh_gossa_20251130_070440_956_20251130_085022_20a57b--20251
 # [pldubouilh/gossa](https://github.com/pldubouilh/gossa/)
 
 Multimedia file server without dependencies
+
+无依赖的多媒体文件服务器

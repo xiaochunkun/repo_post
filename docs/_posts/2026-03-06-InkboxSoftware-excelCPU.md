@@ -7,3 +7,5 @@ image: assets/InkboxSoftware_excelCPU_20260306_042527_968_20260306_042642_af7f52
 # [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
 
 Builds a CPU inside Excel
+
+在 Excel 内构建 CPU

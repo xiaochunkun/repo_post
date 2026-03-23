@@ -7,3 +7,5 @@ image: assets/michael_svedit_20251208_013134_974_20251208_013155_8049a4.png
 # [michael/svedit](https://github.com/michael/svedit/)
 
 Library for building editable websites in Svelte
+
+用于在Svelte中构建可编辑网站的库

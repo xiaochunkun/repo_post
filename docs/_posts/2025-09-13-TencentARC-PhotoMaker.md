@@ -7,3 +7,5 @@ image: assets/20250912T000743093--TencentARC--PhotoMaker--20250912T001204088--cr
 # [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)
 
 generate custom human photos in any style using AI
+
+用 AI 生成任意风格的自定义人像照片

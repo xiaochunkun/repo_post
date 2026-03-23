@@ -7,3 +7,5 @@ image: assets/cwxiaos_bark_worker_20260227_084646_814_20260227_084818_f78d10.png
 # [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker)
 
 Bark server on Cloudflare Workers
+
+Cloudflare Workers 上的 Bark 服务器

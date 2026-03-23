@@ -7,3 +7,5 @@ image: assets/awesome_assistants_awesome_assistants_20251221_191332_125_20251226
 # [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants/)
 
 List of AI assistants for daily tasks
+
+日常任务的 AI 助手列表

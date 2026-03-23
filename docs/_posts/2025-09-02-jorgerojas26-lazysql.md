@@ -7,3 +7,5 @@ image: assets/20250831T022208663--jorgerojas26--lazysql--20250831T030047678--cro
 # [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql)
 
 terminal SQL client with tabs and vim keys
+
+终端 SQL 客户端，支持标签页和 Vim 快捷键

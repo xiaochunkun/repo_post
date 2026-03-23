@@ -7,3 +7,5 @@ image: assets/openspeedtest_Speed_Test_20260111_170547_271_20260111_170601_5e368
 # [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test)
 
 Network performance estimation tool using built-in web APIs
+
+网络性能评估工具，使用内置Web API

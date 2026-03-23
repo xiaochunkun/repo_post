@@ -7,3 +7,5 @@ image: assets/akdeb_ElatoAI_20260108_161523_904_20260108_161611_06b131.png
 # [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI)
 
 Voice AI models on ESP32
+
+ESP32上的语音AI模型

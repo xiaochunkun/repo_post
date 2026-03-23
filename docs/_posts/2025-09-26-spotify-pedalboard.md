@@ -7,3 +7,5 @@ image: assets/20250926T004158810--spotify--pedalboard--20250926T004719779--cropp
 # [spotify/pedalboard](https://github.com/spotify/pedalboard)
 
 Python library for audio effects, VST3 plugins, and real-time processing
+
+音频效果、VST3 插件和实时处理的 Python 库

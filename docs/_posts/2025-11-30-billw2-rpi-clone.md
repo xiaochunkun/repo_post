@@ -7,3 +7,5 @@ image: assets/billw2_rpi_clone_20251127_172752_426_20251129_023133_c8e397--20251
 # [billw2/rpi-clone](https://github.com/billw2/rpi-clone/)
 
 Shell script to clone a booted disk
+
+克隆已启动磁盘的 Shell 脚本

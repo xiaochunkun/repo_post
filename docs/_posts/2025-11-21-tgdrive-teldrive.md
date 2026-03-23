@@ -7,3 +7,5 @@ image: assets/tgdrive_teldrive_20251120_055935_770_20251121_011413_f0fa89--20251
 # [tgdrive/teldrive](https://github.com/tgdrive/teldrive/)
 
 Organises Telegram files with Rclone support
+
+使用 Rclone 支持组织 Telegram 文件

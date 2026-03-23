@@ -7,3 +7,5 @@ image: assets/moscovium_mc_CloudRip_20260210_045631_328_20260210_045648_ca25d3.p
 # [moscovium-mc/CloudRip](https://github.com/moscovium-mc/CloudRip)
 
 Finds IP addresses behind Cloudflare by checking subdomains
+
+通过检查子域名查找 Cloudflare 后的 IP 地址

@@ -7,3 +7,5 @@ image: assets/20250830T175140569--Kludex--fastapi-tips--20250830T184222347--crop
 # [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips)
 
 FastAPI tips and tricks collection
+
+FastAPI 技巧和窍门合集

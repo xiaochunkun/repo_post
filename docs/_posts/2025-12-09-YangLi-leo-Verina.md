@@ -7,3 +7,5 @@ image: assets/YangLi_leo_Verina_20251207_213831_297_20251207_214001_49f4e9.png
 # [YangLi-leo/Verina](https://github.com/YangLi-leo/Verina/)
 
 Search engine with chat and agent modes
+
+支持聊天和智能体模式的搜索引擎

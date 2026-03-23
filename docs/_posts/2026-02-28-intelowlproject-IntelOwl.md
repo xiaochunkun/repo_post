@@ -7,3 +7,5 @@ image: assets/intelowlproject_IntelOwl_20260227_172933_690_20260227_173124_92649
 # [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl)
 
 Aggregates threat intelligence from sources via an API
+
+通过API聚合来自源的威胁情报

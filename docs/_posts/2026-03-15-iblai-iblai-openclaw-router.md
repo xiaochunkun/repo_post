@@ -7,3 +7,5 @@ image: assets/iblai_iblai_openclaw_router_20260311_140842_859_20260311_141133_a6
 # [iblai/iblai-openclaw-router](https://github.com/iblai/iblai-openclaw-router)
 
 Routes OpenClaw requests to cheapest Claude models
+
+将 OpenClaw 请求路由到最便宜的 Claude 模型

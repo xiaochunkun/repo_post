@@ -7,3 +7,5 @@ image: assets/woheller69_whisperIMEplus_20260112_054922_641_20260112_054948_b355
 # [woheller69/whisperIMEplus](https://github.com/woheller69/whisperIMEplus)
 
 Voice recognition IME for Android using Whisper
+
+使用Whisper的Android语音识别输入法

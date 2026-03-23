@@ -7,3 +7,5 @@ image: assets/MaximeRivest_maivi_20251123_171714_482_20251124_094808_ec157e--202
 # [MaximeRivest/maivi](https://github.com/MaximeRivest/maivi/)
 
 Transcribes voice to clipboard via hotkeys
+
+通过热键将语音转录到剪贴板

@@ -7,3 +7,5 @@ image: assets/dennisklappe_CloudMeet_20260305_034325_227_20260305_034444_04e67c.
 # [dennisklappe/CloudMeet](https://github.com/dennisklappe/CloudMeet)
 
 Meeting scheduler for Cloudflare with calendar integration
+
+Cloudflare的会议调度器，集成日历

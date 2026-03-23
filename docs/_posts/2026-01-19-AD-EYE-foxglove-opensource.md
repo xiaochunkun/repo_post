@@ -7,3 +7,5 @@ image: assets/AD_EYE_foxglove_opensource_20260114_045249_799_20260114_045305_066
 # [AD-EYE/foxglove-opensource](https://github.com/AD-EYE/foxglove-opensource)
 
 Visualization and diagnosis tool for robotics
+
+机器人技术的可视化和诊断工具

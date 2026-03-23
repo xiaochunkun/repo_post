@@ -7,3 +7,5 @@ image: assets/20251001T203235377--farag2--Sophia-Script-for-Windows--20251001T20
 # [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows)
 
 PowerShell module for automating and customizing Windows settings
+
+用于自动化和自定义Windows设置的PowerShell模块

@@ -7,3 +7,5 @@ image: assets/wbopan_cui_cropped.png
 # [wbopan/cui](https://github.com/wbopan/cui)
 
 web UI for Claude Code agents
+
+Claude Code 代理的 Web UI

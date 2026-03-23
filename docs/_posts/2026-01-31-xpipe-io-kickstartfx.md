@@ -7,3 +7,5 @@ image: assets/xpipe_io_kickstartfx_20260130_143432_649_20260130_143513_d60c6c.pn
 # [xpipe-io/kickstartfx](https://github.com/xpipe-io/kickstartfx)
 
 Template for JavaFX applications with native installers and GitHub actions
+
+JavaFX 应用模板，包含原生安装程序和 GitHub actions

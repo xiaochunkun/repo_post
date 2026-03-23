@@ -7,3 +7,5 @@ image: assets/OnedocLabs_react_print_pdf_20251108_182006_474_20251108_182156_791
 # [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf/)
 
 Build PDFs with React components
+
+使用React组件构建PDF

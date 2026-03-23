@@ -7,3 +7,5 @@ image: assets/gmh5225_awesome_game_security_20251231_191008_587_20251231_191025_
 # [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security/)
 
 Curated list of game security resources
+
+精选的游戏安全资源列表

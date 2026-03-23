@@ -7,3 +7,5 @@ image: assets/semaphoreio_semaphore_cropped.png
 # [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore)
 
 open source CI/CD platform for fast builds and deployments
+
+用于快速构建和部署的开源 CI/CD 平台

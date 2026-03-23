@@ -7,3 +7,5 @@ image: assets/20250903T235331974--rclone--rclone--20250904T000011375--cropped.pn
 # [rclone/rclone](https://github.com/rclone/rclone)
 
 command line tool for syncing files with cloud storage
+
+将文件同步到云存储的命令行工具

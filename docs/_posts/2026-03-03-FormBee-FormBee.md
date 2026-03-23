@@ -7,3 +7,5 @@ image: assets/FormBee_FormBee_20260213_154801_291_20260213_154859_16092f.png
 # [FormBee/FormBee](https://github.com/FormBee/FormBee)
 
 Form backend for data privacy
+
+注重数据隐私的表单后端

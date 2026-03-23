@@ -7,3 +7,5 @@ image: assets/20250820T130535337_bookfere_Ebook-Translator-Calibre-Plugin--20250
 # [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
 translate ebooks in Calibre with multiple engines
+
+Calibre 电子书翻译插件，支持多种翻译引擎

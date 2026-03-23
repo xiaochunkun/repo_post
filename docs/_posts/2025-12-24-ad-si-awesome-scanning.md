@@ -7,3 +7,5 @@ image: assets/ad_si_awesome_scanning_20251223_091953_154_20251223_092008_95dfe6.
 # [ad-si/awesome-scanning](https://github.com/ad-si/awesome-scanning/)
 
 Curated list of projects for paper scanning
+
+纸质扫描项目的精选列表

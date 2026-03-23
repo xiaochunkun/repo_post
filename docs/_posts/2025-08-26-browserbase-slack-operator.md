@@ -7,3 +7,5 @@ image: assets/20250825T031256266--browserbase--slack-operator--20250825T03210314
 # [browserbase/slack-operator](https://github.com/browserbase/slack-operator)
 
 lets you run browser automation in Slack with natural language
+
+在 Slack 中用自然语言操控浏览器自动化

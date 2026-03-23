@@ -7,3 +7,5 @@ image: assets/usememos_memos_cropped.png
 # [usememos/memos](https://github.com/usememos/memos)
 
 Self-hosted note-taking and knowledge management platform with Markdown support
+
+支持Markdown的自托管笔记和知识管理平台

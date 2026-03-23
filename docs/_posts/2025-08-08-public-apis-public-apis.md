@@ -7,3 +7,5 @@ image: assets/public-apis_public-apis_cropped.png
 # [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
 huge list of free public APIs
+
+大量免费公共API列表

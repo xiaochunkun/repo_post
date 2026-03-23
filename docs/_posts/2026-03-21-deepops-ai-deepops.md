@@ -7,3 +7,5 @@ image: assets/deepops_ai_deepops_20260321_122309_472_20260321_122344_c1ff78.png
 # [deepops-ai/deepops](https://github.com/deepops-ai/deepops)
 
 Programmable observability platform alternative to Grafana
+
+可编程可观测性平台，替代Grafana

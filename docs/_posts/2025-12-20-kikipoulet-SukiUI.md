@@ -7,3 +7,5 @@ image: assets/kikipoulet_SukiUI_20251218_072638_739_20251218_072657_849c30.png
 # [kikipoulet/SukiUI](https://github.com/kikipoulet/SukiUI/)
 
 Desktop UI library for Avalonia
+
+Avalonia 的桌面 UI 库

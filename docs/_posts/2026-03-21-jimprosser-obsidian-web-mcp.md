@@ -7,3 +7,5 @@ image: assets/jimprosser_obsidian_web_mcp_20260319_032353_352_20260319_032624_76
 # [jimprosser/obsidian-web-mcp](https://github.com/jimprosser/obsidian-web-mcp)
 
 Secure remote Obsidian vault access
+
+安全远程访问Obsidian保险库

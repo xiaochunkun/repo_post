@@ -7,3 +7,5 @@ image: assets/20250829T010824117--lastbasket--Endo-4DGS--20250830T033120682--cro
 # [lastbasket/Endo-4DGS](https://github.com/lastbasket/Endo-4DGS)
 
 real-time 4D endoscopic scene reconstruction with Gaussian splatting
+
+基于高斯泼溅的实时 4D 内窥镜场景重建

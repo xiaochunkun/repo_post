@@ -7,3 +7,5 @@ image: assets/google_langextract_20260202_091524_280_20260202_091602_d83136.png
 # [google/langextract](https://github.com/google/langextract)
 
 Extracts structured data from documents with source grounding
+
+从文档中提取结构化数据并支持来源追溯

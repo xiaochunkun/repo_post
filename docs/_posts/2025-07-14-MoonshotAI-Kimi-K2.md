@@ -7,3 +7,5 @@ image: assets/MoonshotAI_Kimi-K2_cropped.png
 # [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
 
 trillion-parameter AI model for coding, reasoning, and agent tasks
+
+用于编码、推理和代理任务的万亿参数 AI 模型

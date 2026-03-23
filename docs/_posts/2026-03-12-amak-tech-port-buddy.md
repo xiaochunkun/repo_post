@@ -7,3 +7,5 @@ image: assets/amak_tech_port_buddy_20260227_054823_856_20260227_054956_44371e.pn
 # [amak-tech/port-buddy](https://github.com/amak-tech/port-buddy)
 
 Tunnels HTTP, TCP, and UDP traffic to the internet
+
+将HTTP、TCP和UDP流量隧道传输到互联网

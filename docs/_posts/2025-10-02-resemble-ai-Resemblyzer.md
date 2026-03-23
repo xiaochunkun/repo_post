@@ -7,3 +7,5 @@ image: assets/20251001T134829469--resemble-ai--Resemblyzer--20251001T135145653--
 # [resemble-ai/Resemblyzer](https://github.com/resemble-ai/Resemblyzer)
 
 extracts voice features for speaker recognition and fake speech detection
+
+提取语音特征，用于说话人识别和虚假语音检测

@@ -7,3 +7,5 @@ image: assets/ajagatobby_Mane_mac_app_20260205_144140_499_20260205_144155_88b812
 # [ajagatobby/Mane-mac-app](https://github.com/ajagatobby/Mane-mac-app)
 
 Indexes files for chat with local AI
+
+为本地AI聊天索引文件

@@ -7,3 +7,5 @@ image: assets/Polymarket_agents_20260202_230854_427_20260202_230928_ee7641.png
 # [Polymarket/agents](https://github.com/Polymarket/agents)
 
 Framework for autonomous agents on prediction markets
+
+预测市场自主代理框架

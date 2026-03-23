@@ -7,3 +7,5 @@ image: assets/SparkAudio_Spark_TTS_20260211_045353_342_20260211_045411_3ebaf1.pn
 # [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS)
 
 Clones voices across languages using decoupled speech tokens
+
+使用解耦语音令牌跨语言克隆语音

@@ -7,3 +7,5 @@ image: assets/univrsal_input_overlay_20260205_155252_398_20260205_155311_da3eb4.
 # [univrsal/input-overlay](https://github.com/univrsal/input-overlay)
 
 Visualizes input from peripherals on stream
+
+在流媒体中可视化外设输入

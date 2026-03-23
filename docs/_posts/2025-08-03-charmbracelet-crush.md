@@ -7,3 +7,5 @@ image: assets/charmbracelet_crush_cropped.png
 # [charmbracelet/crush](https://github.com/charmbracelet/crush)
 
 AI coding agent for your terminal
+
+终端AI编码助手

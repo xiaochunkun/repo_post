@@ -7,3 +7,5 @@ image: assets/20250906T025602655--AutoMQ--automq--20250906T030949396--cropped.pn
 # [AutoMQ/automq](https://github.com/AutoMQ/automq)
 
 AutoMQ is a Kafka-compatible streaming platform that runs on S3, so you can handle big data without managing disks
+
+AutoMQ 是兼容 Kafka 的流数据平台，运行在 S3 上，无需管理磁盘即可处理大数据

@@ -7,3 +7,5 @@ image: assets/20251014T013044485--open-domains--register--20251014T014050287--cr
 # [open-domains/register](https://github.com/open-domains/register)
 
 subdomains for personal and open source sites, request by forking and submitting a JSON file
+
+为个人和开源站点提供子域名，通过 fork 并提交 JSON 文件来申请

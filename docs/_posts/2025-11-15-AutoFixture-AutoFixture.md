@@ -7,3 +7,5 @@ image: assets/AutoFixture_AutoFixture_20251114_055126_859_20251114_162701_81a5cf
 # [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture/)
 
 Automates non-relevant test fixture setup
+
+自动化非相关测试夹具设置

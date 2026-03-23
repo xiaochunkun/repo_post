@@ -7,3 +7,5 @@ image: assets/google_research_android_world_20260227_123254_302_20260227_123456_
 # [google-research/android_world](https://github.com/google-research/android_world)
 
 Environment for benchmarking agents on Android emulators
+
+在Android模拟器上基准测试代理的环境

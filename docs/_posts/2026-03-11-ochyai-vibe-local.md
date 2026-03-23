@@ -7,3 +7,5 @@ image: assets/ochyai_vibe_local_20260305_053519_128_20260305_053710_effc51.png
 # [ochyai/vibe-local](https://github.com/ochyai/vibe-local)
 
 Agent for coding without internet access
+
+无需互联网访问的编码代理

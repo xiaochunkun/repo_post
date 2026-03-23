@@ -7,3 +7,5 @@ image: assets/SergioMEV_slurm_for_dummies_20251208_233237_951_20251208_233342_05
 # [SergioMEV/slurm-for-dummies](https://github.com/SergioMEV/slurm-for-dummies/)
 
 Guide to setting up Slurm HPC clusters
+
+Slurm HPC集群设置指南

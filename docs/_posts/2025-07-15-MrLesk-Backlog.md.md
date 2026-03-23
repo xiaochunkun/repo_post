@@ -7,3 +7,5 @@ image: assets/MrLesk_Backlog.md_cropped.png
 # [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md)
 
 turn any git repo into a markdown kanban board
+
+将任何git仓库转换为markdown看板

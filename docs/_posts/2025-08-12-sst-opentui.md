@@ -7,3 +7,5 @@ image: assets/sst_opentui--20250812T001832--cropped.png
 # [sst/opentui](https://github.com/sst/opentui)
 
 TypeScript toolkit for building terminal UIs
+
+用于构建终端UI的TypeScript工具包

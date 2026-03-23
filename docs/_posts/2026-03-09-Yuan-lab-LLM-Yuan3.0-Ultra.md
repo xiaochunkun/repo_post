@@ -7,3 +7,5 @@ image: assets/Yuan_lab_LLM_Yuan3_0_Ultra_20260308_195230_215_20260308_195426_7f2
 # [Yuan-lab-LLM/Yuan3.0-Ultra](https://github.com/Yuan-lab-LLM/Yuan3.0-Ultra)
 
 Multimodal language model with trillion parameters and expert pruning
+
+具有万亿参数和专家剪枝的多模态语言模型

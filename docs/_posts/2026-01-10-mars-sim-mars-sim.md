@@ -7,3 +7,5 @@ image: assets/mars_sim_mars_sim_20260109_060118_098_20260109_060132_4f10dd.png
 # [mars-sim/mars-sim](https://github.com/mars-sim/mars-sim)
 
 Simulates settlement of Mars
+
+模拟火星定居

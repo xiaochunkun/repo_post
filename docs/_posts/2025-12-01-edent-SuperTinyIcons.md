@@ -7,3 +7,5 @@ image: assets/edent_SuperTinyIcons_20251130_080726_297_20251201_004610_46d44b--2
 # [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons/)
 
 SVG logos under 1KB
+
+小于 1KB 的 SVG 徽标

@@ -7,3 +7,5 @@ image: assets/felixrieseberg_clippy_cropped.png
 # [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy)
 
 Clippy brings 90s chat vibes to local AI models
+
+Clippy 为本地 AI 模型带来 90 年代聊天氛围

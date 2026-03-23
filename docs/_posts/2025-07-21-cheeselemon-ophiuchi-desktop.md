@@ -7,3 +7,5 @@ image: assets/cheeselemon_ophiuchi-desktop_cropped.png
 # [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
 
 turn localhost into secure custom domains with docker
+
+使用Docker将localhost转换为安全的自定义域名

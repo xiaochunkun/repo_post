@@ -7,3 +7,5 @@ image: assets/20250825T020348725--aspen-cloud--triplit--20250825T023855076--crop
 # [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit)
 
 open-source fullstack database with real-time sync
+
+开源全栈数据库，支持实时同步

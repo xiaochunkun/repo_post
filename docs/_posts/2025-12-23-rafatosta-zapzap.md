@@ -7,3 +7,5 @@ image: assets/rafatosta_zapzap_20251222_112430_629_20251222_112447_5d003b.png
 # [rafatosta/zapzap](https://github.com/rafatosta/zapzap/)
 
 WhatsApp desktop application for Linux
+
+Linux 上的 WhatsApp 桌面应用

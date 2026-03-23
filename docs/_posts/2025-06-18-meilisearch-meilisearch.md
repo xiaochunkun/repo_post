@@ -7,3 +7,5 @@ image: assets/meilisearch_meilisearch_cropped.png
 # [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
 
 search engine project with HTTP API and indexing features
+
+具有HTTP API和索引功能的搜索引擎项目

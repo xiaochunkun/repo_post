@@ -7,3 +7,5 @@ image: assets/dgreenheck_webgpu_claude_skill_20260224_063929_907_20260224_063948
 # [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)
 
 Claude skill for Three.js WebGPU development
+
+Three.js WebGPU开发的Claude技能

@@ -7,3 +7,5 @@ image: assets/Flixorui_flixor_20251124_235814_789_20251125_224857_94f777--202511
 # [Flixorui/flixor](https://github.com/Flixorui/flixor/)
 
 Netflix-style web app for Plex libraries
+
+Plex 库的 Netflix 风格 Web 应用

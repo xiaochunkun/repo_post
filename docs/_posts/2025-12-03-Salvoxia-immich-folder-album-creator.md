@@ -7,3 +7,5 @@ image: assets/Salvoxia_immich_folder_album_creator_20251201_073616_500_20251201_
 # [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator/)
 
 Creates Immich albums from folder structures
+
+从文件夹结构创建Immich相册

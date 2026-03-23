@@ -7,3 +7,5 @@ image: assets/jktrn_enscribe_dev_20251030_233244_225_20251031_000639_0e9a2e--202
 # [jktrn/enscribe.dev](https://github.com/jktrn/enscribe.dev/)
 
 Personal blog and portfolio template using Astro and Tailwind
+
+使用 Astro 和 Tailwind 的个人博客和作品集模板

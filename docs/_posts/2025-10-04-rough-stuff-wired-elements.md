@@ -7,3 +7,5 @@ image: assets/20251003T230029483--rough-stuff--wired-elements--20251003T23044554
 # [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements)
 
 hand-drawn style UI elements for wireframes and mockups
+
+用于线框图和原型的徒手风格UI元素

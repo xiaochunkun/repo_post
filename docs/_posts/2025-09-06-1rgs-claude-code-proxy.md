@@ -7,3 +7,5 @@ image: assets/20250906T023807751--1rgs--claude-code-proxy--20250906T024002641--c
 # [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy)
 
 run Claude Code on OpenAI or Gemini with this proxy
+
+通过代理让 Claude Code 运行在 OpenAI 或 Gemini 上

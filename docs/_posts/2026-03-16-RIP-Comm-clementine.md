@@ -7,3 +7,5 @@ image: assets/RIP_Comm_clementine_20260313_232957_681_20260313_233155_434f98.png
 # [RIP-Comm/clementine](https://github.com/RIP-Comm/clementine)
 
 Emulate GameBoy Advance in Rust
+
+Rust 实现的 GameBoy Advance 模拟器

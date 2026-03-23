@@ -7,3 +7,5 @@ image: assets/sentient_agi_EvoSkill_20260307_132649_457_20260307_132832_f0b218.p
 # [sentient-agi/EvoSkill](https://github.com/sentient-agi/EvoSkill)
 
 Synthesize agent skills via evolutionary loops
+
+通过进化循环合成代理技能

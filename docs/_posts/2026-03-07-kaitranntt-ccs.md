@@ -7,3 +7,5 @@ image: assets/kaitranntt_ccs_20260225_211523_808_20260225_211717_bf70c4.png
 # [kaitranntt/ccs](https://github.com/kaitranntt/ccs)
 
 Switches between Claude accounts and AI models via a dashboard
+
+通过仪表板在Claude账户和AI模型之间切换

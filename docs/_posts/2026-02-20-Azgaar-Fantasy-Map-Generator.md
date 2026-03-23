@@ -7,3 +7,5 @@ image: assets/Azgaar_Fantasy_Map_Generator_20260212_112251_345_20260212_112307_3
 # [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator)
 
 Generates maps for writers and masters
+
+为作家和游戏大师生成地图

@@ -7,3 +7,5 @@ image: assets/gitleaks_gitleaks_action_20251110_032617_215_20251110_120229_2a7d0
 # [gitleaks/gitleaks-action](https://github.com/gitleaks/gitleaks-action/)
 
 GitHub Action for detecting and preventing hardcoded secrets
+
+检测和防止硬编码密钥的GitHub Action

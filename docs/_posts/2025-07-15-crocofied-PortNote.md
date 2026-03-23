@@ -7,3 +7,5 @@ image: assets/crocofied_PortNote_cropped.png
 # [crocofied/PortNote](https://github.com/crocofied/PortNote)
 
 track and organize server ports with a web interface
+
+通过Web界面跟踪和组织服务器端口

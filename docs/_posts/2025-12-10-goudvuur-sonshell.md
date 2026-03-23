@@ -7,3 +7,5 @@ image: assets/goudvuur_sonshell_20251207_221108_063_20251207_221144_1971dc.png
 # [goudvuur/sonshell](https://github.com/goudvuur/sonshell/)
 
 Control Sony cameras via SSH
+
+通过 SSH 控制索尼相机

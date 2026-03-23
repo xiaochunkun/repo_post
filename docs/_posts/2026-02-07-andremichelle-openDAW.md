@@ -7,3 +7,5 @@ image: assets/andremichelle_openDAW_20260204_114907_131_20260204_114923_8adb98.p
 # [andremichelle/openDAW](https://github.com/andremichelle/openDAW)
 
 Digital audio workstation in a browser
+
+浏览器中的数字音频工作站

@@ -7,3 +7,5 @@ image: assets/Simon_He95_vue_markdown_render_20251123_193217_688_20251125_012132
 # [Simon-He95/vue-markdown-render](https://github.com/Simon-He95/vue-markdown-render/)
 
 Streaming-friendly Markdown rendering for Vue 3
+
+适用于 Vue 3 的流式友好 Markdown 渲染器

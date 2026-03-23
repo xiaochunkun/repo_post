@@ -7,3 +7,5 @@ image: assets/20251001T192851598--pakerwreah--Calendr--20251001T194745544--cropp
 # [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr)
 
 menu bar calendar for macOS with reminders and event actions
+
+macOS菜单栏日历，带提醒和事件操作

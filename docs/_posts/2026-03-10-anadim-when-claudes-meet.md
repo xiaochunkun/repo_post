@@ -7,3 +7,5 @@ image: assets/anadim_when_claudes_meet_20260303_115412_606_20260303_115542_d583e
 # [anadim/when-claudes-meet](https://github.com/anadim/when-claudes-meet)
 
 AI agents collaborate through shared filesystem
+
+AI 代理通过共享文件系统协作

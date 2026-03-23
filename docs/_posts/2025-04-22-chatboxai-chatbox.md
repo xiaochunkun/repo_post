@@ -7,3 +7,5 @@ image: assets/chatboxai_chatbox_cropped.png
 # [chatboxai/chatbox](https://github.com/chatboxai/chatbox)
 
 Chatbox: open-source chat app for local AI or custom models
+
+Chatbox：用于本地 AI 或自定义模型的开源聊天应用

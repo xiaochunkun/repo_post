@@ -7,3 +7,5 @@ image: assets/20250915T225515698--Physical-Intelligence--openpi--20250915T230557
 # [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 
 open-source models for training and fine-tuning generalist robot control with vision, language, and action
+
+开源模型，用于训练和微调通用机器人控制，结合视觉、语言和动作

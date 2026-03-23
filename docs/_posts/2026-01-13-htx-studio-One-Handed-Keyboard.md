@@ -7,3 +7,5 @@ image: assets/htx_studio_One_Handed_Keyboard_20260111_105724_360_20260111_105738
 # [htx-studio/One-Handed-Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 
 Keyboard with trackball for one hand
+
+带轨迹球的单手键盘

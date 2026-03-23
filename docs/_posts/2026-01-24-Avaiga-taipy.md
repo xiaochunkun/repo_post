@@ -7,3 +7,5 @@ image: assets/Avaiga_taipy_20260122_163223_860_20260122_163243_9774fd.png
 # [Avaiga/taipy](https://github.com/Avaiga/taipy)
 
 Builds data and AI web applications in Python
+
+用Python构建数据和AI Web应用

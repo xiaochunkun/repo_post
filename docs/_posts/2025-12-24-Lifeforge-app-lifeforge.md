@@ -7,3 +7,5 @@ image: assets/Lifeforge_app_lifeforge_20251223_015518_911_20251223_015539_eae405
 # [Lifeforge-app/lifeforge](https://github.com/Lifeforge-app/lifeforge/)
 
 Self-hosted system to organize life aspects
+
+自托管系统，用于组织生活各方面

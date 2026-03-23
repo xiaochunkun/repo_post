@@ -7,3 +7,5 @@ image: assets/Dobefu_gofutz_20260112_085053_358_20260112_085111_3d14f4.png
 # [Dobefu/gofutz](https://github.com/Dobefu/gofutz)
 
 Watches files to run tests and show coverage in a browser
+
+监视文件以运行测试并在浏览器中显示覆盖率

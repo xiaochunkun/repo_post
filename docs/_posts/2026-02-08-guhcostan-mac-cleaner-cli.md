@@ -7,3 +7,5 @@ image: assets/guhcostan_mac_cleaner_cli_20260204_070214_651_20260204_070238_08cf
 # [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)
 
 Deletes system caches and logs through a command line interface
+
+通过命令行界面删除系统缓存和日志

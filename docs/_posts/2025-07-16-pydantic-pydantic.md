@@ -7,3 +7,5 @@ image: assets/pydantic_pydantic_cropped.png
 # [pydantic/pydantic](https://github.com/pydantic/pydantic)
 
 data validation and settings with Python type hints
+
+基于 Python 类型提示的数据验证和设置库

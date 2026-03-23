@@ -7,3 +7,5 @@ image: assets/antoniorodr_memo_20260119_085043_671_20260119_085057_a2ac3e.png
 # [antoniorodr/memo](https://github.com/antoniorodr/memo)
 
 Manages Apple Notes and Reminders from the terminal
+
+从终端管理 Apple Notes 和 Reminders

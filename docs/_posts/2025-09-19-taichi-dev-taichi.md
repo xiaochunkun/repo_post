@@ -7,3 +7,5 @@ image: assets/taichi-dev_taichi--20250919T013811467--cropped.png
 # [taichi-dev/taichi](https://github.com/taichi-dev/taichi)
 
 GPU-accelerated parallel programming in Python for simulations and graphics
+
+Python中的GPU加速并行编程，用于模拟和图形

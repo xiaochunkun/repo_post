@@ -7,3 +7,5 @@ image: assets/edisionnano_QDiskInfo_20251209_030712_739_20251209_030759_dd1da3.p
 # [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo/)
 
 Frontend for smartctl showing SMART data
+
+显示 SMART 数据的 smartctl 前端界面

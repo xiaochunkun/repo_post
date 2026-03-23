@@ -7,3 +7,5 @@ image: assets/readur_readur_20251207_174419_775_20251207_174453_c8257a.png
 # [readur/readur](https://github.com/readur/readur/)
 
 Document management system with OCR insights
+
+具备OCR洞察功能的文档管理系统

@@ -7,3 +7,5 @@ image: assets/axsaucedo_kaos_20260321_171353_242_20260321_171502_b17ee7.png
 # [axsaucedo/kaos](https://github.com/axsaucedo/kaos)
 
 Kubernetes-native framework for AI agents
+
+AI 代理的 Kubernetes 原生框架

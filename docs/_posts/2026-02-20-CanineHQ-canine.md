@@ -7,3 +7,5 @@ image: assets/CanineHQ_canine_20260216_073858_137_20260216_073958_df9a41.png
 # [CanineHQ/canine](https://github.com/CanineHQ/canine)
 
 PaaS for Kubernetes
+
+Kubernetes 的 PaaS

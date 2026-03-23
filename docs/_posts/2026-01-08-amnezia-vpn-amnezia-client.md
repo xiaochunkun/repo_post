@@ -7,3 +7,5 @@ image: assets/amnezia_vpn_amnezia_client_20260108_023554_469_20260108_023607_8df
 # [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
 Deploys VPN servers via SSH and Docker
+
+通过 SSH 和 Docker 部署 VPN 服务器

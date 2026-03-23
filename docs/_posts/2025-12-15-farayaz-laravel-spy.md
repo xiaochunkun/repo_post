@@ -7,3 +7,5 @@ image: assets/farayaz_laravel_spy_20251213_103020_906_20251213_103046_ed723c.png
 # [farayaz/laravel-spy](https://github.com/farayaz/laravel-spy/)
 
 Tracks and logs outgoing HTTP requests in Laravel
+
+在 Laravel 中跟踪和记录外发 HTTP 请求

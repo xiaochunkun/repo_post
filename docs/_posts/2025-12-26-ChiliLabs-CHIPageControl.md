@@ -7,3 +7,5 @@ image: assets/ChiliLabs_CHIPageControl_20251225_122032_602_20251225_122104_079da
 # [ChiliLabs/CHIPageControl](https://github.com/ChiliLabs/CHIPageControl/)
 
 Animated page controls for iOS
+
+iOS 动画页面控件

@@ -7,3 +7,5 @@ image: assets/MrWangJustToDo_git_diff_view_20251201_055727_542_20251201_055750_1
 # [MrWangJustToDo/git-diff-view](https://github.com/MrWangJustToDo/git-diff-view/)
 
 Diff view component for React, Vue, Solid, and Svelte
+
+适用于React、Vue、Solid和Svelte的Diff视图组件

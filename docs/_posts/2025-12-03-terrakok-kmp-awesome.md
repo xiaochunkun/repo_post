@@ -7,3 +7,5 @@ image: assets/terrakok_kmp_awesome_20251201_075343_506_20251201_075406_f77817.pn
 # [terrakok/kmp-awesome](https://github.com/terrakok/kmp-awesome/)
 
 Curated list of Kotlin Multiplatform libraries
+
+Kotlin Multiplatform库的精选列表

@@ -7,3 +7,5 @@ image: assets/cloudflare_moltworker_20260209_153806_425_20260209_153841_105858.p
 # [cloudflare/moltworker](https://github.com/cloudflare/moltworker)
 
 AI assistant in a Cloudflare Sandbox
+
+Cloudflare沙盒中的AI助手

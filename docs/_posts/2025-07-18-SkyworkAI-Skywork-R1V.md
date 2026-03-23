@@ -7,3 +7,5 @@ image: assets/SkyworkAI_Skywork-R1V_cropped.png
 # [SkyworkAI/Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V)
 
 Skywork R1V: multimodal reasoning model extending R1-series LLMs to images and text, open-source, efficient transfer, 38B parameters
+
+Skywork R1V：将R1系列LLM扩展到图像和文本的多模态推理模型，开源，高效迁移，38B参数

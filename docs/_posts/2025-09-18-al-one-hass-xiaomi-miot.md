@@ -7,3 +7,5 @@ image: assets/20250915T231253644--al-one--hass-xiaomi-miot--20250918T050921225--
 # [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
 
 auto-integrate Xiaomi smart devices with Home Assistant using miot-spec
+
+使用 miot-spec 自动将小米智能设备集成到 Home Assistant

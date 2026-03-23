@@ -7,3 +7,5 @@ image: assets/yomidevs_yomitan_20251201_092056_778_20251201_092225_f409f6.png
 # [yomidevs/yomitan](https://github.com/yomidevs/yomitan/)
 
 Pop-up dictionary browser extension for language learning
+
+用于语言学习的弹出式词典浏览器扩展

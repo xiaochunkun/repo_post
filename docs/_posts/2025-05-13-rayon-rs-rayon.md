@@ -7,3 +7,5 @@ image: assets/rayon-rs_rayon_cropped.png
 # [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
 
 Rust data parallelism library for easy sequential-to-parallel conversion
+
+用于轻松实现顺序到并行转换的Rust数据并行库

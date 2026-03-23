@@ -7,3 +7,5 @@ image: assets/dogancelik_awesome_bookmarking_20260304_214843_438_20260304_215039
 # [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking)
 
 List of software for bookmarking and archival
+
+书签和归档软件列表

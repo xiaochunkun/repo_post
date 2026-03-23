@@ -7,3 +7,5 @@ image: assets/TheDecipherist_claude_code_mastery_20260204_110918_640_20260204_11
 # [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)
 
 Guide for Claude Code automation with hooks and MCP servers
+
+使用hooks和MCP服务器进行Claude Code自动化的指南

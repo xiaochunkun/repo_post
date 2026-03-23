@@ -7,3 +7,5 @@ image: assets/MogensenJesse_image_optimizer_20251209_011906_873_20251209_011928_
 # [MogensenJesse/image-optimizer](https://github.com/MogensenJesse/image-optimizer/)
 
 Desktop app for batch image compression
+
+批量图像压缩的桌面应用

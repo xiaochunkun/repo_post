@@ -7,3 +7,5 @@ image: assets/jivoi_awesome_ml_for_cybersecurity_20260119_220644_943_20260119_22
 # [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 Resources for machine learning in cyber security
+
+网络安全中的机器学习资源

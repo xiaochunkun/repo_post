@@ -7,3 +7,5 @@ image: assets/20250927T040210995--dipakkr--A-to-Z-Resources-for-Students--202509
 # [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
 resources for students, coding, AI tools, events, and more
+
+学生资源，涵盖编码、AI 工具、活动等

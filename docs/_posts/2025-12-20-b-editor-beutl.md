@@ -7,3 +7,5 @@ image: assets/b_editor_beutl_20251218_042322_271_20251218_042411_c6b046.png
 # [b-editor/beutl](https://github.com/b-editor/beutl/)
 
 Cross-platform video editing and compositing software
+
+跨平台视频编辑和合成软件

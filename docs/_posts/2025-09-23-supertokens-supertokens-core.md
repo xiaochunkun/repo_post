@@ -7,3 +7,5 @@ image: assets/20250923T023118870--supertokens--supertokens-core--20250923T023914
 # [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)
 
 open source auth with login, session management, multi-factor, and social login
+
+开源认证，支持登录、会话管理、多因素认证和社交登录

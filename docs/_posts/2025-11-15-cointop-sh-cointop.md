@@ -7,3 +7,5 @@ image: assets/cointop_sh_cointop_20251114_203829_335_20251115_035809_503e86--202
 # [cointop-sh/cointop](https://github.com/cointop-sh/cointop/)
 
 Terminal UI for tracking cryptocurrency
+
+追踪加密货币的终端UI

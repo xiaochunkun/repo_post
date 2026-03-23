@@ -7,3 +7,5 @@ image: assets/utmapp_UTM_cropped.png
 # [utmapp/UTM](https://github.com/utmapp/UTM)
 
 run virtual machines on iOS and macOS
+
+在iOS和macOS上运行虚拟机

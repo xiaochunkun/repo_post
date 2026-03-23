@@ -7,3 +7,5 @@ image: assets/adrienbrault_geekmagic_hacs_20260205_135902_068_20260205_135924_02
 # [adrienbrault/geekmagic-hacs](https://github.com/adrienbrault/geekmagic-hacs)
 
 Renders Home Assistant dashboards on displays without flashing firmware
+
+在不刷固件的情况下在显示器上渲染 Home Assistant 仪表板

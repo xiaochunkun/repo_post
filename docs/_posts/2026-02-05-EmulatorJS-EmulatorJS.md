@@ -7,3 +7,5 @@ image: assets/EmulatorJS_EmulatorJS_20260202_223156_371_20260202_223228_860ef8.p
 # [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
 
 Self-hosted JavaScript emulation for various systems
+
+自托管的JavaScript多系统模拟器

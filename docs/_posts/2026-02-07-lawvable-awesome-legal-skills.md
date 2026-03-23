@@ -7,3 +7,5 @@ image: assets/lawvable_awesome_legal_skills_20260206_054802_469_20260206_054818_
 # [lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills)
 
 Instructions for AI agents to automate legal tasks
+
+AI代理自动化法律任务的指南

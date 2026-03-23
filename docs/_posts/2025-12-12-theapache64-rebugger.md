@@ -7,3 +7,5 @@ image: assets/theapache64_rebugger_20251209_045655_259_20251209_045719_3f6351.pn
 # [theapache64/rebugger](https://github.com/theapache64/rebugger/)
 
 Tracks Jetpack Compose recomposition reasons in Logcat
+
+在 Logcat 中追踪 Jetpack Compose 重组原因

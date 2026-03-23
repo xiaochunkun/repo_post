@@ -7,3 +7,5 @@ image: assets/20251005T101819708--Canner--wren-engine--20251005T102936517--cropp
 # [Canner/wren-engine](https://github.com/Canner/wren-engine)
 
 semantic engine for AI agents to securely access and understand business data
+
+AI代理的语义引擎，用于安全访问和理解业务数据

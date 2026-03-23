@@ -7,3 +7,5 @@ image: assets/OpenBAS-Platform_openbas_cropped.png
 # [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas)
 
 Open-source breach and attack simulation platform for security teams
+
+用于安全团队的开源漏洞和攻击模拟平台

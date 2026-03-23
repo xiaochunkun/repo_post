@@ -7,3 +7,5 @@ image: assets/True3DLabs_WindowMode_20251213_061058_536_20251213_061133_9707ce.p
 # [True3DLabs/WindowMode](https://github.com/True3DLabs/WindowMode/)
 
 Turn screens into windows into virtual worlds
+
+将屏幕变成虚拟世界的窗口

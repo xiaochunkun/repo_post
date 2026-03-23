@@ -7,3 +7,5 @@ image: assets/roflcoopter_viseron_cropped.png
 # [roflcoopter/viseron](https://github.com/roflcoopter/viseron)
 
 self-hosted NVR with AI object and face detection
+
+自托管的NVR，支持AI物体和面部检测

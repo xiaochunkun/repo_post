@@ -7,3 +7,5 @@ image: assets/m_bain_whisperX_20251020_175325_360_20251020_203410--20251020T2234
 # [m-bain/whisperX](https://github.com/m-bain/whisperX/)
 
 Meeting transcription API with speaker diarization
+
+带说话人识别的会议转录 API

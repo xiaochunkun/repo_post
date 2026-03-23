@@ -7,3 +7,5 @@ image: assets/YuriSizov_boscaceoil_blue_20251201_033724_230_20251201_033759_d116
 # [YuriSizov/boscaceoil-blue](https://github.com/YuriSizov/boscaceoil-blue/)
 
 Music creation app with step sequencer
+
+带有步进音序器的音乐创作应用

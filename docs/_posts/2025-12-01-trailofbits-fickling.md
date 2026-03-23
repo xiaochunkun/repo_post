@@ -7,3 +7,5 @@ image: assets/trailofbits_fickling_20251130_081156_438_20251201_004624_bcad3f--2
 # [trailofbits/fickling](https://github.com/trailofbits/fickling/)
 
 Decompiles, analyzes, and rewrites Python pickles
+
+反编译、分析和重写Python pickle文件

@@ -7,3 +7,5 @@ image: assets/wg_easy_wg_easy_20251020_033703_406_20251020_044436--20251020T0644
 # [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy/)
 
 Manage WireGuard on Linux
+
+在 Linux 上管理 WireGuard

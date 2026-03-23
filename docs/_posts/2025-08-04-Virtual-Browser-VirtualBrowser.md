@@ -7,3 +7,5 @@ image: assets/Virtual-Browser_VirtualBrowser_cropped.png
 # [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
 
 chromium browser for managing multiple fingerprint profiles
+
+管理多个指纹配置文件的Chromium浏览器

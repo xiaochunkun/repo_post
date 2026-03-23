@@ -7,3 +7,5 @@ image: assets/ZimengXiong_ExcaliDash_20251227_195834_924_20251227_195856_7a1b12.
 # [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash/)
 
 Dashboard for Excalidraw with collaboration features
+
+具备协作功能的 Excalidraw 仪表盘

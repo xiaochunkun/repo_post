@@ -7,3 +7,5 @@ image: assets/sharonpraju_SupaConsole_20260208_021052_831_20260208_021106_4cbc15
 # [sharonpraju/SupaConsole](https://github.com/sharonpraju/SupaConsole)
 
 Dashboard for managing Supabase projects with Docker
+
+使用Docker管理Supabase项目的仪表板

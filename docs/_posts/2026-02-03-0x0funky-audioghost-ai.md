@@ -7,3 +7,5 @@ image: assets/0x0funky_audioghost_ai_20260202_222912_708_20260202_222958_4f7358.
 # [0x0funky/audioghost-ai](https://github.com/0x0funky/audioghost-ai)
 
 Extracts or removes sounds using text prompts
+
+使用文本提示提取或移除声音

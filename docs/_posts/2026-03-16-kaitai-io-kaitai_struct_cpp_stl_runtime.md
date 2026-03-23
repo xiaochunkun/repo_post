@@ -7,3 +7,5 @@ image: assets/kaitai_io_kaitai_struct_cpp_stl_runtime_20260309_183047_370_202603
 # [kaitai-io/kaitai_struct_cpp_stl_runtime](https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime)
 
 Runtime library for parsing binary data structures in C++
+
+C++ 二进制数据结构解析运行时库

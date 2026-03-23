@@ -7,3 +7,5 @@ image: assets/neondatabase_neon_cropped.png
 # [neondatabase/neon](https://github.com/neondatabase/neon)
 
 serverless Postgres database with branching and autoscaling
+
+支持分支和自动扩展的无服务器Postgres数据库

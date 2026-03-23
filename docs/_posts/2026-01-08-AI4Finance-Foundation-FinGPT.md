@@ -7,3 +7,5 @@ image: assets/AI4Finance_Foundation_FinGPT_20260108_053157_481_20260108_053212_9
 # [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 
 Fine-tunes language models for finance with reinforcement learning
+
+使用强化学习微调金融领域的语言模型

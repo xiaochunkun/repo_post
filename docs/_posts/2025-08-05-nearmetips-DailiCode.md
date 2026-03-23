@@ -7,3 +7,5 @@ image: assets/nearmetips_DailiCode_cropped.png
 # [nearmetips/DailiCode](https://github.com/nearmetips/DailiCode)
 
 AI command-line tool for automating code tasks and managing workflows
+
+用于自动化代码任务和管理工作流的 AI 命令行工具

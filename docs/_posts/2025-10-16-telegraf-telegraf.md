@@ -7,3 +7,5 @@ image: assets/telegraf_telegraf--20251016T072819686--cropped.png
 # [telegraf/telegraf](https://github.com/telegraf/telegraf)
 
 Node.js framework for building Telegram bots with TypeScript support and easy API integration
+
+Node.js框架，用于构建Telegram机器人，支持TypeScript和轻松API集成

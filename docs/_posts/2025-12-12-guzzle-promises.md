@@ -7,3 +7,5 @@ image: assets/guzzle_promises_20251209_023156_770_20251209_023254_d5257c.png
 # [guzzle/promises](https://github.com/guzzle/promises/)
 
 Promises/A+ implementation with infinite chaining
+
+支持无限链式调用的 Promises/A+ 实现

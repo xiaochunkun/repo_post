@@ -7,3 +7,5 @@ image: assets/monosans_proxy_scraper_checker_20260104_132904_602_20260104_132920
 # [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker/)
 
 Scrapes and checks proxies with a terminal interface
+
+终端界面代理抓取和检查

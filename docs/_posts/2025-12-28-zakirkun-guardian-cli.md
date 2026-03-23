@@ -7,3 +7,5 @@ image: assets/zakirkun_guardian_cli_20251226_225717_920_20251226_225736_28b7f6.p
 # [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli/)
 
 Automates penetration testing with Gemini and security tools
+
+使用 Gemini 和安全工具自动化渗透测试

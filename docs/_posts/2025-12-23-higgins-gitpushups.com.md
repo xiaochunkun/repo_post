@@ -7,3 +7,5 @@ image: assets/higgins_gitpushups_com_20251222_110043_843_20251222_110108_76a65a.
 # [higgins/gitpushups.com](https://github.com/higgins/gitpushups.com/)
 
 Blocks git commits until pushups are completed
+
+在完成俯卧撑前阻止 git 提交

@@ -7,3 +7,5 @@ image: assets/Ramakm_ai_hands_on_20251227_211535_841_20251227_211553_dc15d5.png
 # [Ramakm/ai-hands-on](https://github.com/Ramakm/ai-hands-on/)
 
 Notebooks for building neural networks and LLM systems from scratch
+
+从零构建神经网络和 LLM 系统的笔记本

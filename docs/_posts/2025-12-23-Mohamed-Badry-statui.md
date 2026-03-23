@@ -7,3 +7,5 @@ image: assets/Mohamed_Badry_statui_20251222_144637_352_20251222_144654_5d1dee.pn
 # [Mohamed-Badry/statui](https://github.com/Mohamed-Badry/statui/)
 
 Terminal dashboard for monitoring API health
+
+用于监控 API 健康状态的终端仪表板

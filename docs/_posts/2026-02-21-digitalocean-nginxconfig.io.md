@@ -7,3 +7,5 @@ image: assets/digitalocean_nginxconfig_io_20260209_205523_358_20260209_205539_0f
 # [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)
 
 Generates NGINX configurations through a web interface
+
+通过 Web 界面生成 NGINX 配置

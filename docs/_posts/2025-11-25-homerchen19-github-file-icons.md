@@ -7,3 +7,5 @@ image: assets/homerchen19_github_file_icons_20251123_195344_281_20251125_012618_
 # [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons/)
 
 Browser extension adds filetype icons to GitHub and GitLab
+
+浏览器扩展为 GitHub 和 GitLab 添加文件类型图标

@@ -7,3 +7,5 @@ image: assets/20250930T002106809--acmesh-official--acme.sh--20250930T002903176--
 # [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 
 Shell script for ACME protocol certs automation
+
+用于 ACME 协议证书自动化的 Shell 脚本

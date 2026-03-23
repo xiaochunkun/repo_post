@@ -7,3 +7,5 @@ image: assets/boquila_boquilahub_20260101_022029_121_20260101_022043_2454e1.png
 # [boquila/boquilahub](https://github.com/boquila/boquilahub/)
 
 Runs computer vision models locally to monitor nature
+
+本地运行计算机视觉模型以监控自然环境

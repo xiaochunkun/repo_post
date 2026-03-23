@@ -7,3 +7,5 @@ image: assets/svcvit_Awesome-Dify-Workflow--20250903T020221045--cropped.png
 # [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 
 curated collection of dify workflows for learning and sharing
+
+Dify 工作流精选合集，适合学习和分享

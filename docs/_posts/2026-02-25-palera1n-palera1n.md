@@ -7,3 +7,5 @@ image: assets/palera1n_palera1n_20260211_045416_967_20260211_045443_677e94.png
 # [palera1n/palera1n](https://github.com/palera1n/palera1n)
 
 Jailbreak for devices with A8 through A11 chips
+
+A8 至 A11 芯片设备的越狱工具

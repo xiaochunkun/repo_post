@@ -7,3 +7,5 @@ image: assets/bodo-run_yek_cropped.png
 # [bodo-run/yek](https://github.com/bodo-run/yek)
 
 serialize repo files fast for LLMs
+
+快速序列化仓库文件供LLM使用

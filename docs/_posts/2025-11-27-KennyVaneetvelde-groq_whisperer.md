@@ -7,3 +7,5 @@ image: assets/KennyVaneetvelde_groq_whisperer_20251125_010937_477_20251126_10111
 # [KennyVaneetvelde/groq_whisperer](https://github.com/KennyVaneetvelde/groq_whisperer/)
 
 Transcribes audio to clipboard using Groq Whisper
+
+使用 Groq Whisper 将音频转录到剪贴板

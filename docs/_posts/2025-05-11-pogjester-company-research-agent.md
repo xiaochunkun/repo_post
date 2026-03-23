@@ -7,3 +7,5 @@ image: assets/pogjester_company-research-agent_cropped.png
 # [pogjester/company-research-agent](https://github.com/pogjester/company-research-agent)
 
 Multi-agent tool that generates company research reports
+
+多代理工具，生成公司研究报告

@@ -7,3 +7,5 @@ image: assets/InkboxSoftware_excelCPU_20251201_023444_739_20251201_023509_4b8a1d
 # [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU/)
 
 16-bit CPU implemented in Excel
+
+在Excel中实现的16位CPU

@@ -7,3 +7,5 @@ image: assets/cenodude_CrossWatch_20251107_183026_028_20251107_220134_3f7ab8--20
 # [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch/)
 
 Synchronization engine for Plex, Jellyfin, Emby, and Trakt
+
+Plex、Jellyfin、Emby和Trakt的同步引擎

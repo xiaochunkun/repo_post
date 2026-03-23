@@ -7,3 +7,5 @@ image: assets/Ajaxy_telegram_tt_20251031_081730_312_20251101_211111_91f675--2025
 # [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt/)
 
 Telegram client with zero dependencies
+
+零依赖的 Telegram 客户端

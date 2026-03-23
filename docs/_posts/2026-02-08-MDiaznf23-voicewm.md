@@ -7,3 +7,5 @@ image: assets/MDiaznf23_voicewm_20260208_063815_831_20260208_063834_ae372b.png
 # [MDiaznf23/voicewm](https://github.com/MDiaznf23/voicewm)
 
 Offline voice control for Linux window managers
+
+Linux窗口管理器的离线语音控制

@@ -7,3 +7,5 @@ image: assets/ZeroHawkeye_wordZero_20251107_202110_315_20251107_235845_08e4ca--2
 # [ZeroHawkeye/wordZero](https://github.com/ZeroHawkeye/wordZero/)
 
 Golang library for Word document manipulation
+
+用于Word文档操作的Golang库

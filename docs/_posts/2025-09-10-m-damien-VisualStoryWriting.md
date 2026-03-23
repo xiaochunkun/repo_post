@@ -7,3 +7,5 @@ image: assets/20250908T232535196--m-damien--VisualStoryWriting--20250908T2337216
 # [m-damien/VisualStoryWriting](https://github.com/m-damien/VisualStoryWriting)
 
 edit stories by moving characters and events on a visual timeline
+
+在可视化时间线上移动角色和事件来编辑故事

@@ -7,3 +7,5 @@ image: assets/DustinBrett_daedalOS_cropped.png
 # [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 
 Windows-style desktop in your browser
+
+浏览器中的Windows风格桌面环境

@@ -7,3 +7,5 @@ image: assets/20250921T021141733--pgrok--pgrok--20250921T025612266--cropped.png
 # [pgrok/pgrok](https://github.com/pgrok/pgrok)
 
 multi-tenant reverse tunnels for exposing local dev environments with your own domain and SSO
+
+多租户反向隧道，用于通过自有域名和 SSO 暴露本地开发环境

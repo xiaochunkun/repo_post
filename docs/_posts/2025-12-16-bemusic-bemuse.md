@@ -7,3 +7,5 @@ image: assets/bemusic_bemuse_20251214_221752_278_20251214_221826_487fc9.png
 # [bemusic/bemuse](https://github.com/bemusic/bemuse/)
 
 Web-based rhythm game for BMS songs
+
+基于网页的BMS歌曲节奏游戏

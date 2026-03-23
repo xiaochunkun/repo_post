@@ -7,3 +7,5 @@ image: assets/143mailliw_hummingbird_20251031_025031_558_20251031_140809_bdc153-
 # [143mailliw/hummingbird](https://github.com/143mailliw/hummingbird/)
 
 Music player written in Rust with GPUI
+
+用 Rust 和 GPUI 编写的音乐播放器

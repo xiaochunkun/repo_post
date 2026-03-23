@@ -7,3 +7,5 @@ image: assets/20251010T210252778--crazy-max--docker-samba--20251010T211654658--c
 # [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba)
 
 Samba server in a Docker image with easy YAML config and multi-platform support
+
+Docker 镜像中的 Samba 服务器，支持简易 YAML 配置和多平台

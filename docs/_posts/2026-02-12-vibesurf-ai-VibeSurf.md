@@ -7,3 +7,5 @@ image: assets/vibesurf_ai_VibeSurf_20260210_085627_781_20260210_085711_fa8ddb.pn
 # [vibesurf-ai/VibeSurf](https://github.com/vibesurf-ai/VibeSurf)
 
 Browser with workflow automation and agents
+
+带工作流自动化和代理的浏览器

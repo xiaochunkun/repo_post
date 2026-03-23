@@ -7,3 +7,5 @@ image: assets/HemantKArya_BloomeeTunes_cropped.png
 # [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)
 
 cross-platform music app, plays tunes from different sources
+
+跨平台音乐应用，播放来自不同来源的曲调

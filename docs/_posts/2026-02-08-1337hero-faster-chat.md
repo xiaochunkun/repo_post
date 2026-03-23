@@ -7,3 +7,5 @@ image: assets/1337hero_faster_chat_20260204_040043_194_20260204_040107_fd2304.pn
 # [1337hero/faster-chat](https://github.com/1337hero/faster-chat)
 
 Chat interface for cloud or offline LLM providers
+
+云端或离线 LLM 提供商的聊天界面

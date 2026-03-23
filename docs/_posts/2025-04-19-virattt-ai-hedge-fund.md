@@ -7,3 +7,5 @@ image: assets/virattt_ai-hedge-fund_cropped.png
 # [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 
 AI-driven hedge fund simulator with agents mimicking famous investors and trading strategies
+
+AI 驱动的对冲基金模拟器，代理模仿著名投资者和交易策略

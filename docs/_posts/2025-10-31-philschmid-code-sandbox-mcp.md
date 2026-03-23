@@ -7,3 +7,5 @@ image: assets/philschmid_code_sandbox_mcp_20251031_011804_073_20251031_013012_46
 # [philschmid/code-sandbox-mcp](https://github.com/philschmid/code-sandbox-mcp/)
 
 Safely execute code snippets in containerized environments
+
+在容器化环境中安全执行代码片段

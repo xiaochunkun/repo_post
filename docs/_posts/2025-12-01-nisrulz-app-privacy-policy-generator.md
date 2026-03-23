@@ -7,3 +7,5 @@ image: assets/nisrulz_app_privacy_policy_generator_20251130_074756_910_20251201_
 # [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator/)
 
 Generates generic or GDPR-compliant privacy policies for mobile apps
+
+为移动应用生成通用或GDPR合规的隐私政策

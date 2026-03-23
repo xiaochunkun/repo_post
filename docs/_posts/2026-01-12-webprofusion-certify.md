@@ -7,3 +7,5 @@ image: assets/webprofusion_certify_20260111_114250_178_20260111_114303_b7921c.pn
 # [webprofusion/certify](https://github.com/webprofusion/certify)
 
 Automates certificate management for Windows
+
+自动化Windows证书管理

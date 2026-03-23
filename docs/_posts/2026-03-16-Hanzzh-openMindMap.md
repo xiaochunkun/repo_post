@@ -7,3 +7,5 @@ image: assets/Hanzzh_openMindMap_20260311_195626_321_20260311_200715_55e579.png
 # [Hanzzh/openMindMap](https://github.com/Hanzzh/openMindMap)
 
 AI-powered mind maps for Obsidian
+
+Obsidian 的 AI 思维导图工具

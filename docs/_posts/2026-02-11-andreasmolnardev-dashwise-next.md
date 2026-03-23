@@ -7,3 +7,5 @@ image: assets/andreasmolnardev_dashwise_next_20260204_070829_699_20260204_070851
 # [andreasmolnardev/dashwise-next](https://github.com/andreasmolnardev/dashwise-next)
 
 Homelab dashboard with GUI editing and built-in authentication
+
+带GUI编辑和内置认证的家庭实验室仪表板

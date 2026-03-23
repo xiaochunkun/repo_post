@@ -7,3 +7,5 @@ image: assets/GAIR-NLP_ASI-Arch_cropped.png
 # [GAIR-NLP/ASI-Arch](https://github.com/GAIR-NLP/ASI-Arch)
 
 AI that invents new neural models by itself
+
+自行发明新神经模型的 AI

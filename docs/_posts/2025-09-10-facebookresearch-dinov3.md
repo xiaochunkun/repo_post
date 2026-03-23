@@ -7,3 +7,5 @@ image: assets/20250908T230616231--facebookresearch--dinov3--20250908T231734854--
 # [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
 
 PyTorch models for high-res vision tasks using self-supervised learning
+
+用自监督学习实现高分辨率视觉任务的 PyTorch 模型

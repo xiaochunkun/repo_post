@@ -7,3 +7,5 @@ image: assets/imxv_Pretty_mermaid_skills_20260131_134105_762_20260131_134220_708
 # [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills)
 
 Renders Mermaid diagrams as SVGs or ASCII art
+
+将 Mermaid 图表渲染为 SVG 或 ASCII 艺术

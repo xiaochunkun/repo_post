@@ -7,3 +7,5 @@ image: assets/Aylur_icon_browser_20260113_215552_261_20260113_215605_2b303f.png
 # [Aylur/icon-browser](https://github.com/Aylur/icon-browser)
 
 Browses system icon themes
+
+浏览系统图标主题

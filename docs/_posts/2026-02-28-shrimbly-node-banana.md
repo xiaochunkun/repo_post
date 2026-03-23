@@ -7,3 +7,5 @@ image: assets/shrimbly_node_banana_20260221_112424_118_20260221_112512_4e58c7.pn
 # [shrimbly/node-banana](https://github.com/shrimbly/node-banana)
 
 Node-based image generation pipelines on a canvas
+
+画布上的基于节点的图像生成管道

@@ -7,3 +7,5 @@ image: assets/20250906T024107803--trufflesecurity--trufflehog--20250906T02432318
 # [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
 finds leaked credentials in code and cloud
+
+检测代码和云环境中泄露的凭证

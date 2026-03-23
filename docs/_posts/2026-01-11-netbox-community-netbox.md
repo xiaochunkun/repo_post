@@ -7,3 +7,5 @@ image: assets/netbox_community_netbox_20260111_051330_980_20260111_051344_4eb331
 # [netbox-community/netbox](https://github.com/netbox-community/netbox)
 
 Source of truth for network automation
+
+网络自动化的单一事实来源

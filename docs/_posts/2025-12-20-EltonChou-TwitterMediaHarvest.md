@@ -7,3 +7,5 @@ image: assets/EltonChou_TwitterMediaHarvest_20251218_074517_393_20251218_074533_
 # [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest/)
 
 Saves Twitter images and videos in one click
+
+一键保存 Twitter 图片和视频

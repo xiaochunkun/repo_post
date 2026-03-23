@@ -7,3 +7,5 @@ image: assets/jarrodwatts_claude_hud_20260211_055134_242_20260211_055154_998179.
 # [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 
 Plugin for Claude Code showing context usage and agent progress
+
+Claude Code插件，显示上下文使用和智能体进度

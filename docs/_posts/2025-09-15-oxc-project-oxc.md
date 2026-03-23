@@ -7,3 +7,5 @@ image: assets/20250915T021113394--oxc-project--oxc--20250915T022747045--cropped.
 # [oxc-project/oxc](https://github.com/oxc-project/oxc)
 
 JavaScript and TypeScript tools built in Rust for fast parsing, linting, formatting, and more
+
+用 Rust 构建的 JavaScript 和 TypeScript 工具，用于快速解析、代码检查、格式化等

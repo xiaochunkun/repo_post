@@ -7,3 +7,5 @@ image: assets/mafiosnik777_enhancr_20260203_015357_460_20260203_015414_096b99.pn
 # [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr)
 
 Upscales and interpolates video frames using TensorRT and NCNN
+
+使用 TensorRT 和 NCNN 提升和插值视频帧

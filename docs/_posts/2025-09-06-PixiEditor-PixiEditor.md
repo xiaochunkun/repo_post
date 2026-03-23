@@ -7,3 +7,5 @@ image: assets/PixiEditor_PixiEditor--20250906T021031093--cropped.png
 # [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor)
 
 Universal 2D graphics editor for pixel art, painting, vectors, and animation
+
+通用 2D 图形编辑器，支持像素画、绘画、矢量和动画

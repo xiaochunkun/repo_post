@@ -7,3 +7,5 @@ image: assets/bobbyiliev_introduction_to_bash_scripting_20260305_151135_835_2026
 # [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 
 Guide for automation with Bash scripting
+
+Bash 脚本自动化指南

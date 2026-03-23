@@ -7,3 +7,5 @@ image: assets/aradzie_keybr.com_cropped.png
 # [aradzie/keybr.com](https://github.com/aradzie/keybr.com)
 
 practice touch typing and boost speed
+
+练习触摸打字并提升速度

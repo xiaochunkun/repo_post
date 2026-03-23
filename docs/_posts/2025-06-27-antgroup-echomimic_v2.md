@@ -7,3 +7,5 @@ image: assets/antgroup_echomimic_v2_cropped.png
 # [antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)
 
 Uses a photo, audio, and hand poses to make an animation video with talking and gestures
+
+使用照片、音频和手势制作带说话和手势的动画视频

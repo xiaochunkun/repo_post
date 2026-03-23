@@ -7,3 +7,5 @@ image: assets/20251001T110154325--ibelick--zola--20251001T112344966--cropped.png
 # [ibelick/zola](https://github.com/ibelick/zola)
 
 open-source chat UI for OpenAI, Mistral, Claude, Gemini, Ollama, and more
+
+开源聊天UI，支持OpenAI、Mistral、Claude、Gemini、Ollama等

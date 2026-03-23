@@ -7,3 +7,5 @@ image: assets/BandarLabs_clickclickclick_20260103_163526_618_20260103_163615_7bf
 # [BandarLabs/clickclickclick](https://github.com/BandarLabs/clickclickclick/)
 
 Controls computers and Android devices with LLMs
+
+使用 LLM 控制计算机和 Android 设备

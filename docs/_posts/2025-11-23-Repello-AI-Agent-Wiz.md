@@ -7,3 +7,5 @@ image: assets/Repello_AI_Agent_Wiz_20251122_181524_238_20251123_001322_48124f--2
 # [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz/)
 
 Threat modeling and visualization for AI agents
+
+AI智能体的威胁建模与可视化

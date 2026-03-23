@@ -7,3 +7,5 @@ image: assets/viarotel-org_escrcpy_cropped.png
 # [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
 
 Android device display and control with scrcpy, runs in Electron, supports automation and wireless features
+
+使用scrcpy的Android设备显示和控制，在Electron中运行，支持自动化和无线功能

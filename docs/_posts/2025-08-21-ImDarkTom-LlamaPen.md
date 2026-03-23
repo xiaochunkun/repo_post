@@ -7,3 +7,5 @@ image: assets/20250820T130533302_ImDarkTom_LlamaPen--20250820T130733775--cropped
 # [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen)
 
 no-install web GUI for Ollama
+
+无需安装的 Ollama Web 界面

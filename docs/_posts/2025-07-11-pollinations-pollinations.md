@@ -7,3 +7,5 @@ image: assets/pollinations_pollinations_cropped.png
 # [pollinations/pollinations](https://github.com/pollinations/pollinations)
 
 open-source APIs for generating text and images
+
+用于生成文本和图像的开源 API

@@ -7,3 +7,5 @@ image: assets/TermiX_official_cryptoclaw_20260212_154843_767_20260212_154924_f04
 # [TermiX-official/cryptoclaw](https://github.com/TermiX-official/cryptoclaw)
 
 Self-hosted crypto agent for messaging platforms
+
+消息平台的自托管加密代理

@@ -7,3 +7,5 @@ image: assets/somepaulo_MoreWaita_20251201_095816_272_20251201_100000_0ad3bd.png
 # [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita/)
 
 Adwaita-styled companion icon theme for GNOME
+
+GNOME的Adwaita风格配套图标主题

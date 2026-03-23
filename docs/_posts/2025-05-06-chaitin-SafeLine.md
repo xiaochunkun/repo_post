@@ -7,3 +7,5 @@ image: assets/chaitin_SafeLine_cropped.png
 # [chaitin/SafeLine](https://github.com/chaitin/SafeLine)
 
 Open-source WAF with 15.3k GitHub stars for web app protection
+
+拥有 15.3k GitHub stars 的开源 WAF，用于 Web 应用保护

@@ -7,3 +7,5 @@ image: assets/IDEA_Research_X_Pose_20251026_214803_072_20251027_001121_930b7f--2
 # [IDEA-Research/X-Pose](https://github.com/IDEA-Research/X-Pose/)
 
 Detects any keypoints on images
+
+检测图像上的任意关键点

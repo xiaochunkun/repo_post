@@ -7,3 +7,5 @@ image: assets/marcusv02_film_knowledge_graph_20260115_224643_516_20260115_224657
 # [marcusv02/film-knowledge-graph](https://github.com/marcusv02/film-knowledge-graph)
 
 Knowledge graph models film relationships through reasoning
+
+通过推理建模电影关系的知识图谱

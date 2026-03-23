@@ -7,3 +7,5 @@ image: assets/holtwick_briefing_20251025_112656_934_20251025_120256_217183--2025
 # [holtwick/briefing](https://github.com/holtwick/briefing/)
 
 Peer-to-peer video group chat using WebRTC
+
+使用WebRTC的点对点视频群聊

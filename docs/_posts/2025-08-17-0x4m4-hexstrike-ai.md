@@ -7,3 +7,5 @@ image: assets/20250816T004902760_0x4m4_hexstrike-ai--20250816T051128964--cropped
 # [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
 
 AI-powered pentesting framework with autonomous agents and 150+ security tools
+
+AI驱动的渗透测试框架，包含自主智能体和150多种安全工具

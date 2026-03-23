@@ -7,3 +7,5 @@ image: assets/firstcontributions_first_contributions_20260209_214536_256_2026020
 # [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 
 Guides beginners through the open source contribution process
+
+指导初学者完成开源贡献流程

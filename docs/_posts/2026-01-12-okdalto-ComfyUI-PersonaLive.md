@@ -7,3 +7,5 @@ image: assets/okdalto_ComfyUI_PersonaLive_20260112_131709_660_20260112_131723_6a
 # [okdalto/ComfyUI-PersonaLive](https://github.com/okdalto/ComfyUI-PersonaLive)
 
 Animates portrait images for live streaming
+
+为直播动画化肖像图像

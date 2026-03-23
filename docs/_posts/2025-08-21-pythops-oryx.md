@@ -7,3 +7,5 @@ image: assets/20250820T125436189_pythops_oryx--20250820T134730113--cropped.png
 # [pythops/oryx](https://github.com/pythops/oryx)
 
 Terminal app for live network traffic sniffing with eBPF
+
+基于 eBPF 的终端实时网络流量嗅探工具

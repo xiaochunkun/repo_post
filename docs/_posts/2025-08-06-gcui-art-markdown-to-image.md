@@ -7,3 +7,5 @@ image: assets/gcui-art_markdown-to-image_cropped.png
 # [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image)
 
 convert markdown files into images
+
+将 markdown 文件转换为图像

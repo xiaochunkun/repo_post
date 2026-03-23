@@ -7,3 +7,5 @@ image: assets/ElementZoom_Material_Design_3_Dynamic_Mobile_Dashboard_20251217_06
 # [ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard/)
 
 Material Design 3 dashboard for Home Assistant
+
+Home Assistant 的 Material Design 3 仪表板

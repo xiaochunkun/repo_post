@@ -7,3 +7,5 @@ image: assets/Roots_Automation_GutenOCR_20260218_001752_125_20260218_001822_30f1
 # [Roots-Automation/GutenOCR](https://github.com/Roots-Automation/GutenOCR)
 
 Trains vision language models for document recognition
+
+训练视觉语言模型用于文档识别

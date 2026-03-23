@@ -7,3 +7,5 @@ image: assets/danvergara_dblab_20251125_032322_059_20251127_164235_adcba5--20251
 # [danvergara/dblab](https://github.com/danvergara/dblab/)
 
 Interactive CLI client for multiple databases
+
+多数据库交互式 CLI 客户端

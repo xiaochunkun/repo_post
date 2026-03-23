@@ -7,3 +7,5 @@ image: assets/wiserain_rclone_20251209_060843_412_20251209_060905_e9034b.png
 # [wiserain/rclone](https://github.com/wiserain/rclone/)
 
 Command-line program to sync files and directories to and from cloud storage providers
+
+命令行程序，用于与云存储提供商同步文件和目录

@@ -7,3 +7,5 @@ image: assets/20250922T025618538--bhavsec--reconspider--20250922T030349155--crop
 # [bhavsec/reconspider](https://github.com/bhavsec/reconspider)
 
 OSINT framework for scanning IPs, emails, domains, and organizations
+
+用于扫描 IP、电子邮件、域名和组织的 OSINT 框架

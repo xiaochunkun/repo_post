@@ -7,3 +7,5 @@ image: assets/skrodahl_NewTon_20251207_210039_766_20251207_210101_d7e5b4.png
 # [skrodahl/NewTon](https://github.com/skrodahl/NewTon/)
 
 Offline-first darts tournament manager in the browser
+
+浏览器中的离线优先飞镖锦标赛管理器

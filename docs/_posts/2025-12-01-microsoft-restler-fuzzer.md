@@ -7,3 +7,5 @@ image: assets/microsoft_restler_fuzzer_20251127_214918_198_20251130_083907_4cda4
 # [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer/)
 
 Stateful REST API fuzzing tool
+
+有状态REST API模糊测试工具

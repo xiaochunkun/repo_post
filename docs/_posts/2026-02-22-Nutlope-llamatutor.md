@@ -7,3 +7,5 @@ image: assets/Nutlope_llamatutor_20260211_074713_158_20260211_074726_5d3375.png
 # [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor)
 
 AI tutor powered by Llama 3.1
+
+由 Llama 3.1 驱动的 AI 导师

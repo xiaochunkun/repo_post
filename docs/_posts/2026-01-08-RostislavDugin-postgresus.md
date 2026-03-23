@@ -7,3 +7,5 @@ image: assets/RostislavDugin_postgresus_20260108_023955_174_20260108_024008_727a
 # [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus)
 
 Backups databases to multiple storage destinations with notifications
+
+将数据库备份到多个存储目的地并发送通知

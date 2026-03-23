@@ -7,3 +7,5 @@ image: assets/amilajack_reading_20251126_000647_543_20251128_213402_28279f--2025
 # [amilajack/reading](https://github.com/amilajack/reading/)
 
 List of computer science readings
+
+计算机科学阅读材料列表

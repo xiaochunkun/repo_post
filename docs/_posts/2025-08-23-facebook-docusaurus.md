@@ -7,3 +7,5 @@ image: assets/20250822T023836664--facebook--docusaurus--20250822T024429057--crop
 # [facebook/docusaurus](https://github.com/facebook/docusaurus)
 
 tool for building project documentation sites with React and Markdown
+
+基于 React 和 Markdown 构建项目文档站点的工具

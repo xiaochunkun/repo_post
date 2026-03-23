@@ -7,3 +7,5 @@ image: assets/Continual_Intelligence_SEAL_20260111_102740_934_20260111_102802_d3
 # [Continual-Intelligence/SEAL](https://github.com/Continual-Intelligence/SEAL)
 
 Trains language models to generate self-edits via reinforcement learning
+
+通过强化学习训练语言模型生成自编辑

@@ -7,3 +7,5 @@ image: assets/20250818T115519899_magic-wormhole_magic-wormhole--20250818T1200332
 # [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
 
 secure file transfers with short codes
+
+使用短代码进行安全文件传输

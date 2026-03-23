@@ -7,3 +7,5 @@ image: assets/wshobson_agents_20260228_114146_441_20260228_114335_a9bdb8.png
 # [wshobson/agents](https://github.com/wshobson/agents)
 
 Orchestrates agents and skills for Claude Code
+
+编排 Claude Code 的代理和技能

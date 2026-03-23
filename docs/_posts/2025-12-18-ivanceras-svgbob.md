@@ -7,3 +7,5 @@ image: assets/ivanceras_svgbob_20251217_063003_046_20251217_063025_04a728.png
 # [ivanceras/svgbob](https://github.com/ivanceras/svgbob/)
 
 Converts ASCII diagrams into SVG images
+
+将 ASCII 图表转换为 SVG 图像

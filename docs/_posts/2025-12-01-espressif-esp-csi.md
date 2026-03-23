@@ -7,3 +7,5 @@ image: assets/espressif_esp_csi_20251130_080521_169_20251201_004537_10bd16--2025
 # [espressif/esp-csi](https://github.com/espressif/esp-csi/)
 
 Wi-Fi CSI applications for indoor positioning and human detection
+
+用于室内定位和人体检测的 Wi-Fi CSI 应用

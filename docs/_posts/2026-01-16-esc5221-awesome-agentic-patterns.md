@@ -7,3 +7,5 @@ image: assets/esc5221_awesome_agentic_patterns_20260115_172704_066_20260115_1727
 # [esc5221/awesome-agentic-patterns](https://github.com/esc5221/awesome-agentic-patterns)
 
 Catalogue of AI agent workflows for production
+
+生产用 AI 代理工作流目录

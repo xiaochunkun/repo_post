@@ -7,3 +7,5 @@ image: assets/pimalaya_himalaya_20260216_213034_766_20260216_213134_b63e38.png
 # [pimalaya/himalaya](https://github.com/pimalaya/himalaya)
 
 CLI to manage emails across backends
+
+跨后端管理邮件的 CLI

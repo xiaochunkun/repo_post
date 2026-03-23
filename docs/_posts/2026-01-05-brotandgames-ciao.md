@@ -7,3 +7,5 @@ image: assets/brotandgames_ciao_20260104_061325_889_20260104_061342_ad7ed5.png
 # [brotandgames/ciao](https://github.com/brotandgames/ciao/)
 
 Checks URL endpoints via Cron syntax
+
+通过 Cron 语法检查 URL 端点

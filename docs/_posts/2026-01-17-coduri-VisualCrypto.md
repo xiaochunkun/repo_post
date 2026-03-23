@@ -7,3 +7,5 @@ image: assets/coduri_VisualCrypto_20260117_013858_661_20260117_013912_2f0883.png
 # [coduri/VisualCrypto](https://github.com/coduri/VisualCrypto)
 
 Splits images into shares to reveal secrets upon combination
+
+将图像分割为份额，组合后揭示秘密

@@ -7,3 +7,5 @@ image: assets/huggingface_meshgen_20251213_115842_418_20251213_115926_437038.png
 # [huggingface/meshgen](https://github.com/huggingface/meshgen/)
 
 Control Blender with natural language AI agents
+
+使用自然语言AI代理控制Blender

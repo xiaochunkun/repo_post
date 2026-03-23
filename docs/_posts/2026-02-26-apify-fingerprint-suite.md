@@ -7,3 +7,5 @@ image: assets/apify_fingerprint_suite_20260210_215154_117_20260210_215209_a56a04
 # [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite)
 
 Generates and injects browser fingerprints to bypass tracking
+
+生成并注入浏览器指纹以绕过追踪

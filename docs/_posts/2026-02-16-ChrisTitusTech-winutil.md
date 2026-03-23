@@ -7,3 +7,5 @@ image: assets/ChrisTitusTech_winutil_20260122_021701_535_20260122_021716_145514.
 # [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 
 Streamlines installs and debloats Windows systems
+
+简化安装和去臃肿 Windows 系统

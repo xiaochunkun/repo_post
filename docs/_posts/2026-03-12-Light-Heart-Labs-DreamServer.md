@@ -7,3 +7,5 @@ image: assets/Light_Heart_Labs_DreamServer_20260309_114607_344_20260309_114832_a
 # [Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer)
 
 Local AI stack with LLM inference and workflow automation
+
+本地AI堆栈，含LLM推理和工作流自动化

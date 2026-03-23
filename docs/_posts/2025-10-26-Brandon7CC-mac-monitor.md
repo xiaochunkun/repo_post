@@ -7,3 +7,5 @@ image: assets/Brandon7CC_mac_monitor_20251025_053841_166_20251025_102410_ef6e53-
 # [Brandon7CC/mac-monitor](https://github.com/Brandon7CC/mac-monitor/)
 
 System monitoring tool for macOS security research
+
+用于macOS安全研究的系统监控工具

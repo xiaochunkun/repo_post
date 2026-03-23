@@ -7,3 +7,5 @@ image: assets/mikedilger_gossip_20251207_170629_981_20251207_170734_41a4e2.png
 # [mikedilger/gossip](https://github.com/mikedilger/gossip/)
 
 Desktop client for Nostr protocol
+
+Nostr 协议的桌面客户端

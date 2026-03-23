@@ -7,3 +7,5 @@ image: assets/StephenDev0_StikDebug_20260202_223535_485_20260202_223611_1632fe.p
 # [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug)
 
 Enables JIT for iOS versions 17.4+
+
+为iOS 17.4+版本启用JIT

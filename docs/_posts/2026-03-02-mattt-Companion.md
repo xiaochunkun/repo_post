@@ -7,3 +7,5 @@ image: assets/mattt_Companion_20260301_225237_623_20260301_225409_b19466.png
 # [mattt/Companion](https://github.com/mattt/Companion)
 
 Tests MCP servers on Apple platforms
+
+在 Apple 平台上测试 MCP 服务器

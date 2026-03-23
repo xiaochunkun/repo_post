@@ -7,3 +7,5 @@ image: assets/hackthedev_dcts_shipping_20251127_175714_486_20251130_035434_5afea
 # [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping/)
 
 Self-hostable chat platform alternative to Discord
+
+自托管聊天平台，可作为 Discord 替代品

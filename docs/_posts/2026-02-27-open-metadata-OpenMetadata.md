@@ -7,3 +7,5 @@ image: assets/open_metadata_OpenMetadata_20260213_205425_686_20260213_205517_831
 # [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 
 Platform for data discovery and governance
+
+数据发现和治理平台

@@ -7,3 +7,5 @@ image: assets/Blazity_next_saas_starter_20260103_065537_421_20260103_065559_6844
 # [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter/)
 
 Next.js landing page template for SaaS startups
+
+SaaS 初创公司的 Next.js 落地页模板

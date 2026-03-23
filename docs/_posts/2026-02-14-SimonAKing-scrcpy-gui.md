@@ -7,3 +7,5 @@ image: assets/SimonAKing_scrcpy_gui_20260209_050935_414_20260209_051002_d2f727.p
 # [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui)
 
 Interface for mirroring and controlling Android devices
+
+镜像和控制 Android 设备的界面

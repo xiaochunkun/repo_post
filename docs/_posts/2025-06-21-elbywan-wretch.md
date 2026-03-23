@@ -7,3 +7,5 @@ image: assets/elbywan_wretch_cropped.png
 # [elbywan/wretch](https://github.com/elbywan/wretch)
 
 fetch API wrapper for network requests
+
+用于网络请求的 fetch API 包装器

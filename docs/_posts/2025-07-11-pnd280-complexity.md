@@ -7,3 +7,5 @@ image: assets/pnd280_complexity_cropped.png
 # [pnd280/complexity](https://github.com/pnd280/complexity)
 
 AI chat app enhancements suite for multiple platforms
+
+适用于多平台的 AI 聊天应用增强套件

@@ -7,3 +7,5 @@ image: assets/zhu_xlab_GlobalBuildingAtlas_20251125_010844_375_20251126_101058_3
 # [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas/)
 
 Level of detail 1 building data across the globe
+
+全球 LOD1 建筑数据

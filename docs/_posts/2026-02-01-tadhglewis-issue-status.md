@@ -7,3 +7,5 @@ image: assets/tadhglewis_issue_status_20260115_163000_044_20260115_163015_438cce
 # [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status)
 
 Status page for system health and incident history
+
+系统健康和事件历史的状态页面

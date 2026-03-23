@@ -7,3 +7,5 @@ image: assets/joeyates_imap_backup_20251110_151759_496_20251111_014034_10db08--2
 # [joeyates/imap-backup](https://github.com/joeyates/imap-backup/)
 
 Command-line tool to backup, restore, and migrate IMAP email accounts
+
+用于备份、恢复和迁移IMAP邮箱的命令行工具

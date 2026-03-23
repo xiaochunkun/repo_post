@@ -7,3 +7,5 @@ image: assets/hexqnt_curcat_20260115_140608_970_20260115_140623_0cf049.png
 # [hexqnt/curcat](https://github.com/hexqnt/curcat)
 
 Digitizes data points from images of graphs
+
+从图表图像数字化数据点

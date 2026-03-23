@@ -7,3 +7,5 @@ image: assets/satishkumarsajjan_ease_master_20251227_021813_368_20251227_021830_
 # [satishkumarsajjan/ease-master](https://github.com/satishkumarsajjan/ease-master/)
 
 Visualizes easing curves and generates code for animations
+
+可视化缓动曲线并生成动画代码

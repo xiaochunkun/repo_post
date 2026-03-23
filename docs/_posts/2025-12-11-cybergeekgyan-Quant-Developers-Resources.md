@@ -7,3 +7,5 @@ image: assets/cybergeekgyan_Quant_Developers_Resources_20251208_230928_464_20251
 # [cybergeekgyan/Quant-Developers-Resources](https://github.com/cybergeekgyan/Quant-Developers-Resources/)
 
 Resources for quantitative finance roles
+
+量化金融职位资源

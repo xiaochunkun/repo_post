@@ -7,3 +7,5 @@ image: assets/xero_dotfiles_20260316_021026_450_20260316_021141_54bc49.png
 # [xero/dotfiles](https://github.com/xero/dotfiles)
 
 Custom Linux configuration files for Neovim and Zsh
+
+Neovim和Zsh的自定义Linux配置文件

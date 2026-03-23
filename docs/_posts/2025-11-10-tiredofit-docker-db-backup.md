@@ -7,3 +7,5 @@ image: assets/tiredofit_docker_db_backup_20251110_024121_227_20251110_122047_a57
 # [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup/)
 
 Docker container for backing up multiple database types
+
+备份多种数据库类型的Docker容器

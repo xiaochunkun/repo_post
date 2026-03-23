@@ -7,3 +7,5 @@ image: assets/dickwolff_Export_To_Ghostfolio_20260104_154924_910_20260104_154941
 # [dickwolff/Export-To-Ghostfolio](https://github.com/dickwolff/Export-To-Ghostfolio/)
 
 Converts broker CSV exports into Ghostfolio import files
+
+将经纪商 CSV 导出转换为 Ghostfolio 导入文件

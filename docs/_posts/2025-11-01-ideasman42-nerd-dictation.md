@@ -7,3 +7,5 @@ image: assets/ideasman42_nerd_dictation_20251031_045125_336_20251031_205919_7198
 # [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation/)
 
 Offline speech to text for desktop Linux
+
+桌面 Linux 的离线语音转文本

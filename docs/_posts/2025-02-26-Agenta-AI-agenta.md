@@ -7,3 +7,5 @@ image: assets/Agenta-AI_agenta_cropped.png
 # [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)
 
 Open-source LLMOps platform for building and managing LLM apps
+
+构建和管理 LLM 应用的开源 LLMOps 平台

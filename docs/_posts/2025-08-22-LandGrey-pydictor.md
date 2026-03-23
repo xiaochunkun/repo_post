@@ -7,3 +7,5 @@ image: assets/20250818T124152125_LandGrey_pydictor--20250820T142755116--cropped.
 # [LandGrey/pydictor](https://github.com/LandGrey/pydictor)
 
 wordlist generator for brute-force and pentesting
+
+暴力破解和渗透测试用的字典生成器

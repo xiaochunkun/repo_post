@@ -7,3 +7,5 @@ image: assets/20250823T012247603--facebookresearch--SlowFast--20250823T013409667
 # [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast)
 
 Video models like SlowFast help computers spot actions and understand what's happening in videos by combining slow and fast motion cues
+
+SlowFast 视频模型通过结合慢速和快速运动线索识别视频中的动作

@@ -7,3 +7,5 @@ image: assets/bee-san_Ciphey_cropped.png
 # [bee-san/Ciphey](https://github.com/bee-san/Ciphey)
 
 auto-decrypts text, no need to know the cipher
+
+自动解密文本，无需了解加密方式

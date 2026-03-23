@@ -7,3 +7,5 @@ image: assets/Tohrusky_Final2x_cropped.png
 # [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x)
 
 Image super-resolution and restoration tool using deep learning models
+
+使用深度学习模型的图像超分辨率和修复工具

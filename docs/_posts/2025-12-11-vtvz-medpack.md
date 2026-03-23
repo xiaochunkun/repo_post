@@ -7,3 +7,5 @@ image: assets/vtvz_medpack_20251209_011802_497_20251209_011839_3214e1.png
 # [vtvz/medpack](https://github.com/vtvz/medpack/)
 
 Organizes Telegram medical exports into PDFs
+
+将Telegram医疗导出整理为PDF

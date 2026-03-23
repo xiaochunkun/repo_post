@@ -7,3 +7,5 @@ image: assets/Axorax_tkforge_20251029_015352_043_20251029_025916_add991--2025102
 # [Axorax/tkforge](https://github.com/Axorax/tkforge/)
 
 Create a Python GUI from a Figma design
+
+从 Figma 设计创建 Python GUI

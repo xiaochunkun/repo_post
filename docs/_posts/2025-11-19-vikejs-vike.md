@@ -7,3 +7,5 @@ image: assets/vikejs_vike_20251118_102252_109_20251119_063149_73b794--20251119T2
 # [vikejs/vike](https://github.com/vikejs/vike/)
 
 Next.js and Nuxt alternative focused on flexibility
+
+专注于灵活性的 Next.js 和 Nuxt 替代方案

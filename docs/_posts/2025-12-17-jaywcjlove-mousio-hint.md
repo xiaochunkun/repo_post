@@ -7,3 +7,5 @@ image: assets/jaywcjlove_mousio_hint_20251216_160443_189_20251216_160531_af6bcf.
 # [jaywcjlove/mousio-hint](https://github.com/jaywcjlove/mousio-hint/)
 
 Shows keyboard shortcut hints on UI elements
+
+在UI元素上显示键盘快捷键提示

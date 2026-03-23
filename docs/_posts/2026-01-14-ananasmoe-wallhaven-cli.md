@@ -7,3 +7,5 @@ image: assets/ananasmoe_wallhaven_cli_20260114_021927_932_20260114_021941_a98e6d
 # [ananasmoe/wallhaven-cli](https://github.com/ananasmoe/wallhaven-cli)
 
 Search and download wallpapers from the terminal
+
+终端壁纸搜索和下载工具

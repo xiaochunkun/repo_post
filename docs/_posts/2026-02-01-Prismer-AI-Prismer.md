@@ -7,3 +7,5 @@ image: assets/Prismer_AI_Prismer_20260131_142853_726_20260131_143007_b7f5f1.png
 # [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer)
 
 Open source research platform for paper reading and citation verification
+
+用于论文阅读和引用验证的开源研究平台

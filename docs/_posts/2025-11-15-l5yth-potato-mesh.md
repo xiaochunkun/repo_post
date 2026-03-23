@@ -7,3 +7,5 @@ image: assets/l5yth_potato_mesh_20251114_191253_269_20251115_035209_b64c50--2025
 # [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh/)
 
 Meshtastic node dashboard without MQTT
+
+无需MQTT的Meshtastic节点仪表板

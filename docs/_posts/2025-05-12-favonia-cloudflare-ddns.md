@@ -7,3 +7,5 @@ image: assets/favonia_cloudflare-ddns_cropped.png
 # [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns)
 
 Updates Cloudflare DNS records with your current IP address
+
+使用当前IP地址更新Cloudflare DNS记录

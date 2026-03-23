@@ -7,3 +7,5 @@ image: assets/dottxt-ai_outlines_cropped.png
 # [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
 
 Structured text generation library for language models
+
+用于语言模型的结构化文本生成库

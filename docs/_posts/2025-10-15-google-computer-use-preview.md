@@ -7,3 +7,5 @@ image: assets/20251015T010927451--google--computer-use-preview--20251015T0116344
 # [google/computer-use-preview](https://github.com/google/computer-use-preview)
 
 lets you automate browser tasks with Gemini or Vertex AI
+
+让你使用 Gemini 或 Vertex AI 自动化浏览器任务

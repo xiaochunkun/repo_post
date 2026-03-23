@@ -7,3 +7,5 @@ image: assets/microsoft_markitdown_20260224_075912_376_20260224_075927_e0903b.pn
 # [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
 Converts files to Markdown for LLMs
+
+将文件转换为 Markdown 供 LLM 使用

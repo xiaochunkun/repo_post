@@ -7,3 +7,5 @@ image: assets/derekantrican_subarr_20251031_050133_343_20251031_210041_bc23ec--2
 # [derekantrican/subarr](https://github.com/derekantrican/subarr/)
 
 Automates actions on YouTube uploads
+
+自动化 YouTube 上传操作

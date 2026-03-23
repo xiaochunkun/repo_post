@@ -7,3 +7,5 @@ image: assets/ronitsingh10_FineTune_20260213_120425_922_20260213_120526_096f8a.p
 # [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)
 
 Per-app volume mixer for macOS
+
+macOS 的按应用音量混合器

@@ -7,3 +7,5 @@ image: assets/20251005T225427156--immense--Remotely--20251005T225545877--cropped
 # [immense/Remotely](https://github.com/immense/Remotely)
 
 remote control and scripting for devices using .NET and Blazor
+
+使用 .NET 和 Blazor 进行设备远程控制和脚本编写

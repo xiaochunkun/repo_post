@@ -7,3 +7,5 @@ image: assets/felixmosh_bull_board_20260111_152240_919_20260111_152254_934e0a.pn
 # [felixmosh/bull-board](https://github.com/felixmosh/bull-board)
 
 Dashboard for Bull and BullMQ queues
+
+Bull 和 BullMQ 队列的仪表板

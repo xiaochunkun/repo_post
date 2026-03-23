@@ -7,3 +7,5 @@ image: assets/TomerAberbach_grfn_20251127_214345_799_20251130_083838_bc87d4--202
 # [TomerAberbach/grfn](https://github.com/TomerAberbach/grfn/)
 
 Executes dependency graphs of async functions concurrently
+
+并发执行异步函数的依赖图

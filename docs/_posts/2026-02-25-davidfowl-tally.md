@@ -7,3 +7,5 @@ image: assets/davidfowl_tally_20260206_190929_174_20260206_190949_6c97f4.png
 # [davidfowl/tally](https://github.com/davidfowl/tally)
 
 Local rule engine for transaction classification
+
+交易分类的本地规则引擎

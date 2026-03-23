@@ -7,3 +7,5 @@ image: assets/Awrsha_Garden_Remote_Controller_20260116_085056_193_20260116_08511
 # [Awrsha/Garden-Remote-Controller](https://github.com/Awrsha/Garden-Remote-Controller)
 
 Controls IoT devices via SMS without internet
+
+通过短信控制 IoT 设备，无需互联网

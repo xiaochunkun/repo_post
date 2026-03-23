@@ -7,3 +7,5 @@ image: assets/mlightcad_cad_viewer_20251224_121113_546_20251224_121133_d954f9.pn
 # [mlightcad/cad-viewer](https://github.com/mlightcad/cad-viewer/)
 
 View and edit DWG files in the browser
+
+在浏览器中查看和编辑 DWG 文件

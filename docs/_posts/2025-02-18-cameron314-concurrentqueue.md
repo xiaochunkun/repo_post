@@ -7,3 +7,5 @@ image: assets/cameron314_concurrentqueue_cropped.png
 # [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
 
 Multi-producer, multi-consumer queue
+
+多生产者、多消费者队列

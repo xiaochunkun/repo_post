@@ -7,3 +7,5 @@ image: assets/longhorn_longhorn_20251105_124751_953_20251105_210601_8cfed9--2025
 # [longhorn/longhorn](https://github.com/longhorn/longhorn/)
 
 Distributed block storage system for Kubernetes
+
+Kubernetes 的分布式块存储系统

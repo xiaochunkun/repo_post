@@ -7,4 +7,6 @@ image: assets/oldmoe_litestack_cropped.png
 
 Ruby gem for data infrastructure
 
+数据基础设施的 Ruby gem
+
 [View Repository](https://github.com/oldmoe/litestack)

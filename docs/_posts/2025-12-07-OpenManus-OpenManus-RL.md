@@ -7,3 +7,5 @@ image: assets/OpenManus_OpenManus_RL_20251205_011018_559_20251205_011040_9308bd.
 # [OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL/)
 
 Reinforcement learning tuning for reasoning LLM agents
+
+用于推理LLM智能体的强化学习调优

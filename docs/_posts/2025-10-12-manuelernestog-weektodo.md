@@ -7,3 +7,5 @@ image: assets/20251012T025108007--manuelernestog--weektodo--20251012T025624930--
 # [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo)
 
 minimalist weekly planner app with privacy focus and cross-platform support
+
+注重隐私和跨平台支持的极简周计划应用

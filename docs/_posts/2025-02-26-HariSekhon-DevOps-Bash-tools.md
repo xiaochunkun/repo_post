@@ -7,3 +7,5 @@ image: assets/HariSekhon_DevOps-Bash-tools_cropped.png
 # [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 DevOps Bash scripts and tools for automation and systems engineering
+
+用于自动化和系统工程的 DevOps Bash 脚本和工具

@@ -7,3 +7,5 @@ image: assets/autobrr_qui_20251023_002315_124_20251023_221022_fff98a--20251024T0
 # [autobrr/qui](https://github.com/autobrr/qui/)
 
 Manage multiple qBittorrent instances
+
+管理多个qBittorrent实例

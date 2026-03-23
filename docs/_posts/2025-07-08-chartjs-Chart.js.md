@@ -7,3 +7,5 @@ image: assets/chartjs_Chart.js_cropped.png
 # [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 
 JavaScript library for making interactive charts
+
+用于制作交互式图表的 JavaScript 库

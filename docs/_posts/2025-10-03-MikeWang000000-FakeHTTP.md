@@ -7,3 +7,5 @@ image: assets/20251003T031711244--MikeWang000000--FakeHTTP--20251003T031941131--
 # [MikeWang000000/FakeHTTP](https://github.com/MikeWang000000/FakeHTTP)
 
 turns TCP traffic into HTTP using Netfilter Queue
+
+使用Netfilter Queue将TCP流量转换为HTTP

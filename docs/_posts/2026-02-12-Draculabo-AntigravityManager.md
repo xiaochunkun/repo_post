@@ -7,3 +7,5 @@ image: assets/Draculabo_AntigravityManager_20260207_133000_786_20260207_133019_c
 # [Draculabo/AntigravityManager](https://github.com/Draculabo/AntigravityManager)
 
 Manages accounts for Gemini and Claude AI
+
+管理Gemini和Claude AI账户

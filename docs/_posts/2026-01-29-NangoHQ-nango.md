@@ -7,3 +7,5 @@ image: assets/NangoHQ_nango_20260129_012425_128_20260129_012513_9a9988.png
 # [NangoHQ/nango](https://github.com/NangoHQ/nango)
 
 Infrastructure for product integrations with 600+ APIs
+
+产品集成基础设施，支持600+ API

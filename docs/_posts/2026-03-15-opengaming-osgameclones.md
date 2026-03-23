@@ -7,3 +7,5 @@ image: assets/opengaming_osgameclones_20260311_024836_880_20260311_025136_88aba3
 # [opengaming/osgameclones](https://github.com/opengaming/osgameclones)
 
 Database of game clones and remakes
+
+游戏克隆和重制数据库

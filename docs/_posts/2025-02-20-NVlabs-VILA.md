@@ -7,3 +7,5 @@ image: assets/NVlabs_VILA_cropped.png
 # [NVlabs/VILA](https://github.com/NVlabs/VILA)
 
 VILA: Visual language models for AI tasks
+
+VILA：用于AI任务的视觉语言模型

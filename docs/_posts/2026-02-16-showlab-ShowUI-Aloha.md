@@ -7,3 +7,5 @@ image: assets/showlab_ShowUI_Aloha_20260126_061606_708_20260126_061646_6a01c3.pn
 # [showlab/ShowUI-Aloha](https://github.com/showlab/ShowUI-Aloha)
 
 Agent learns workflows from human demonstrations to execute tasks on desktops
+
+代理从人类演示中学习工作流以在桌面上执行任务

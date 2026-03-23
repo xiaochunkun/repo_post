@@ -7,3 +7,5 @@ image: assets/ruilisi_fortune-sheet_cropped.png
 # [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)
 
 javascript spreadsheet library with Excel-like features
+
+JavaScript 电子表格库，具有类似 Excel 的功能

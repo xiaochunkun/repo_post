@@ -7,3 +7,5 @@ image: assets/owickstrom_the_monospace_web_20251118_075939_561_20251118_160516_5
 # [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web/)
 
 Experiment with an all-monospace web
+
+实验性的全等宽字体网页

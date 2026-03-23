@@ -7,3 +7,5 @@ image: assets/liam-hq_liam_cropped.png
 # [liam-hq/liam](https://github.com/liam-hq/liam)
 
 Generate ER diagrams from your database schema
+
+从数据库模式生成ER图

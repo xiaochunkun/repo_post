@@ -7,3 +7,5 @@ image: assets/2009_Nissan_Cube_About_This_Hack_20251223_194831_339_20251223_1948
 # [2009-Nissan-Cube/About-This-Hack](https://github.com/2009-Nissan-Cube/About-This-Hack/)
 
 Hardware information app for macOS
+
+macOS硬件信息应用

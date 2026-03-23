@@ -7,3 +7,5 @@ image: assets/jihe520_mindpocket_20260302_140658_537_20260302_140848_2d9612.png
 # [jihe520/mindpocket](https://github.com/jihe520/mindpocket)
 
 Bookmark system with AI agent integration
+
+集成 AI 代理的书签系统

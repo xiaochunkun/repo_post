@@ -7,3 +7,5 @@ image: assets/20250826T030002476--serge-chat--serge--20250826T030439944--cropped
 # [serge-chat/serge](https://github.com/serge-chat/serge)
 
 self-hosted chat UI for local LLMs like Alpaca
+
+自托管本地大模型聊天界面

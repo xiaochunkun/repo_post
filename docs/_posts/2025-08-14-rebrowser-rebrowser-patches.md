@@ -7,3 +7,5 @@ image: assets/rebrowser_rebrowser-patches--20250814T040737344--cropped.png
 # [rebrowser/rebrowser-patches](https://github.com/rebrowser/rebrowser-patches)
 
 patches to make puppeteer and playwright less detectable
+
+使puppeteer和playwright更难被检测的补丁

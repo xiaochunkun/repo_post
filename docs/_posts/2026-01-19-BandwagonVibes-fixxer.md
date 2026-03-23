@@ -7,3 +7,5 @@ image: assets/BandwagonVibes_fixxer_20260113_081100_928_20260113_081115_143e85.p
 # [BandwagonVibes/fixxer](https://github.com/BandwagonVibes/fixxer)
 
 Automates photography workflows using vision models and integrity verification
+
+使用视觉模型和完整性验证自动化摄影工作流

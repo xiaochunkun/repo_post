@@ -7,3 +7,5 @@ image: assets/skarab42_htms_js_20251204_212636_919_20251204_212709_db41f2.png
 # [skarab42/htms-js](https://github.com/skarab42/htms-js/)
 
 Streams async HTML for instant rendering
+
+流式异步HTML以实现即时渲染

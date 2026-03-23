@@ -7,3 +7,5 @@ image: assets/MattMoony_figaro_20251219_134629_570_20251219_134646_d71160.png
 # [MattMoony/figaro](https://github.com/MattMoony/figaro/)
 
 Voice modification and sound board
+
+语音修改和音效板

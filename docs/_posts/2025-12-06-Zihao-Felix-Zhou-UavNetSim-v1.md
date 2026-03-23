@@ -7,3 +7,5 @@ image: assets/Zihao_Felix_Zhou_UavNetSim_v1_20251204_223932_820_20251204_224000_
 # [Zihao-Felix-Zhou/UavNetSim-v1](https://github.com/Zihao-Felix-Zhou/UavNetSim-v1/)
 
 Python simulation platform for UAV communication networks
+
+用于UAV通信网络的Python模拟平台

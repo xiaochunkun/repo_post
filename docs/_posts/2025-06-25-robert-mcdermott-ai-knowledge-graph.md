@@ -7,3 +7,5 @@ image: assets/robert-mcdermott_ai-knowledge-graph_cropped.png
 # [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph)
 
 AI tool that splits text, extracts entities, builds knowledge graphs from documents
+
+AI工具，分割文本、提取实体，从文档构建知识图谱

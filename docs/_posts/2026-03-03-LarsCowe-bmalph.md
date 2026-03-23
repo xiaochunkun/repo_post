@@ -7,3 +7,5 @@ image: assets/LarsCowe_bmalph_20260302_114144_858_20260302_114324_f4c9d1.png
 # [LarsCowe/bmalph](https://github.com/LarsCowe/bmalph)
 
 Framework for planning agents and autonomous implementation loops
+
+规划代理和自主实现循环的框架

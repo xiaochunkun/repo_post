@@ -7,3 +7,5 @@ image: assets/20250930T033301764--fh2019ustc--DocScanner--20250930T033909257--cr
 # [fh2019ustc/DocScanner](https://github.com/fh2019ustc/DocScanner)
 
 deep learning tool for fixing distorted document images
+
+用于修复扭曲文档图像的深度学习工具

@@ -7,3 +7,5 @@ image: assets/SWE_bench_SWE_bench_20260227_130048_547_20260227_130221_33b3c6.png
 # [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench)
 
 Evaluates language models on GitHub issues
+
+在 GitHub issues 上评估语言模型

@@ -7,3 +7,5 @@ image: assets/AmruthPillai_Reactive-Resume_cropped.png
 # [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
 Open-source resume builder web app
+
+开源简历构建器 Web 应用

@@ -7,3 +7,5 @@ image: assets/ComposioHQ_awesome_claude_skills_20251120_013312_388_20251120_0207
 # [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills/)
 
 Skills for customizing Claude AI workflows
+
+用于自定义 Claude AI 工作流的技能

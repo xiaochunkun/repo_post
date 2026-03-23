@@ -7,3 +7,5 @@ image: assets/jamesread_StencilBox_20251120_065550_003_20251121_055018_d5ecb9--2
 # [jamesread/StencilBox](https://github.com/jamesread/StencilBox/)
 
 Builds static sites from YAML
+
+从 YAML 构建静态网站

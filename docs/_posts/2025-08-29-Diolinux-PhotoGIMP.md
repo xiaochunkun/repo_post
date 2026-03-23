@@ -7,3 +7,5 @@ image: assets/20250826T031330831--Diolinux--PhotoGIMP--20250829T040417591--cropp
 # [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
 GIMP patch for Photoshop-style layout and shortcuts
+
+将 GIMP 改造成 Photoshop 风格的布局和快捷键

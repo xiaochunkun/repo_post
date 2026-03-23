@@ -7,3 +7,5 @@ image: assets/dtolnay_path_to_error_20251207_235856_950_20251207_235927_9694cb.p
 # [dtolnay/path-to-error](https://github.com/dtolnay/path-to-error/)
 
 Exposes path to Serde deserialization errors
+
+暴露 Serde 反序列化错误的路径

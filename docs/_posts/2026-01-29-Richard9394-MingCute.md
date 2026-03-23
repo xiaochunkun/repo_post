@@ -7,3 +7,5 @@ image: assets/Richard9394_MingCute_20260129_002011_051_20260129_002103_80c107.pn
 # [Richard9394/MingCute](https://github.com/Richard9394/MingCute)
 
 Icon library with 3000 icons for web and mobile
+
+包含 3000 个图标的 Web 和移动端图标库

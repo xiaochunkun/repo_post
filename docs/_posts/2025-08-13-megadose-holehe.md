@@ -7,3 +7,5 @@ image: assets/megadose_holehe--20250812T010517--cropped.png
 # [megadose/holehe](https://github.com/megadose/holehe)
 
 find accounts tied to an email across sites
+
+查找与邮箱关联的跨网站账户

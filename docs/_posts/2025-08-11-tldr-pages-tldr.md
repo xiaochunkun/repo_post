@@ -7,3 +7,5 @@ image: assets/tldr-pages_tldr_cropped.png
 # [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 simplified command-line help pages
+
+简化的命令行帮助页面

@@ -7,3 +7,5 @@ image: assets/ModelCloud_GPTQModel_20251107_165224_155_20251107_165311_7a55ba--2
 # [ModelCloud/GPTQModel](https://github.com/ModelCloud/GPTQModel/)
 
 Model quantization with hardware acceleration for Nvidia, AMD, and Intel
+
+支持Nvidia、AMD和Intel硬件加速的模型量化

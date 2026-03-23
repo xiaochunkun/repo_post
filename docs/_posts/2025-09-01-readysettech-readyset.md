@@ -7,3 +7,5 @@ image: assets/20250831T001321424--readysettech--readyset--20250831T002019113--cr
 # [readysettech/readyset](https://github.com/readysettech/readyset)
 
 transparent SQL cache for Postgres and MySQL, no code changes
+
+Postgres 和 MySQL 的透明 SQL 缓存，无需改代码

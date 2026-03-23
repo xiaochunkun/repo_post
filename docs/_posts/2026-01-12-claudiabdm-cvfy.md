@@ -7,3 +7,5 @@ image: assets/claudiabdm_cvfy_20260111_123346_177_20260111_123359_e0e67c.png
 # [claudiabdm/cvfy](https://github.com/claudiabdm/cvfy)
 
 Generates PDF resumes in the browser
+
+在浏览器中生成 PDF 简历

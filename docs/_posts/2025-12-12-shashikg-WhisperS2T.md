@@ -7,3 +7,5 @@ image: assets/shashikg_WhisperS2T_20251209_052403_184_20251209_052425_19a8d8.png
 # [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T/)
 
 Optimized speech-to-text pipeline for Whisper
+
+优化的 Whisper 语音转文本流程

@@ -7,3 +7,5 @@ image: assets/tencentmusic_supersonic_20251203_005251_411_20251203_005329_e26dc9
 # [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic/)
 
 Unifies Chat BI and Headless BI paradigms
+
+统一Chat BI和无头BI范式

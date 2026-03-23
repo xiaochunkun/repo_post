@@ -7,3 +7,5 @@ image: assets/20250818T121221772_easypanel-io_dockerizer--20250818T121619155--cr
 # [easypanel-io/dockerizer](https://github.com/easypanel-io/dockerizer)
 
 tool for generating Dockerfiles and configs for apps
+
+为应用生成 Dockerfiles 和配置的工具

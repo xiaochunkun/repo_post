@@ -7,3 +7,5 @@ image: assets/vercel_labs_lead_agent_20251218_042919_398_20251218_042939_b4a633.
 # [vercel-labs/lead-agent](https://github.com/vercel-labs/lead-agent/)
 
 Qualifies leads through research agents
+
+通过研究智能体筛选潜在客户

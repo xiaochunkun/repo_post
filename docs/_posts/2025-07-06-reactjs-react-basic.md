@@ -7,3 +7,5 @@ image: assets/reactjs_react-basic_cropped.png
 # [reactjs/react-basic](https://github.com/reactjs/react-basic)
 
 UIs as data transformations, same input means same output
+
+UI作为数据转换，相同输入意味着相同输出

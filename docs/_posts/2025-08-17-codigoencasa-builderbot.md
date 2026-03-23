@@ -7,3 +7,5 @@ image: assets/codigoencasa_builderbot--20250816T204813945--cropped.png
 # [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot)
 
 build chatbots for WhatsApp and more with automated flows
+
+构建WhatsApp等聊天机器人，支持自动化流程

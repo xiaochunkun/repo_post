@@ -7,3 +7,5 @@ image: assets/ajanraj_OpenChat_20260306_043839_833_20260306_043959_cff950.png
 # [ajanraj/OpenChat](https://github.com/ajanraj/OpenChat)
 
 Automate workflows through language models
+
+通过语言模型自动化工作流

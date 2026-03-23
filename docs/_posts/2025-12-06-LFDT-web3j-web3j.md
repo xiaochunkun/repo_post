@@ -7,3 +7,5 @@ image: assets/LFDT_web3j_web3j_20251204_221217_456_20251204_221341_99d8ec.png
 # [LFDT-web3j/web3j](https://github.com/LFDT-web3j/web3j/)
 
 Java and Android library for Ethereum integration
+
+用于以太坊集成的Java和Android库

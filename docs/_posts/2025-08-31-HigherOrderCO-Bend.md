@@ -7,3 +7,5 @@ image: assets/20250830T152828296--HigherOrderCO--Bend--20250830T153023195--cropp
 # [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)
 
 massively parallel programming language for GPUs and CPUs
+
+面向 GPU 和 CPU 的大规模并行编程语言

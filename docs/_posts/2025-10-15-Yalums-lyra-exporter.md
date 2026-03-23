@@ -7,3 +7,5 @@ image: assets/20251015T031758413--Yalums--lyra-exporter--20251015T032534311--cro
 # [Yalums/lyra-exporter](https://github.com/Yalums/lyra-exporter)
 
 AI chat export and management for Claude, Gemini, NotebookLM, Google AI Studio
+
+用于 Claude、Gemini、NotebookLM、Google AI Studio 的 AI 聊天导出和管理工具

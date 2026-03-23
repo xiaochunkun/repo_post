@@ -7,3 +7,5 @@ image: assets/QDenka_awesome_software_design_20260214_010656_632_20260214_010759
 # [QDenka/awesome-software-design](https://github.com/QDenka/awesome-software-design)
 
 Resources for software architecture patterns and design decisions
+
+软件架构模式与设计决策资源

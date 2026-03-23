@@ -7,3 +7,5 @@ image: assets/Alessiop01_ForensicWace_ServerEdition_20260114_115402_988_20260114
 # [Alessiop01/ForensicWace-ServerEdition](https://github.com/Alessiop01/ForensicWace-ServerEdition)
 
 Extracts WhatsApp data from iOS backups
+
+从 iOS 备份中提取 WhatsApp 数据

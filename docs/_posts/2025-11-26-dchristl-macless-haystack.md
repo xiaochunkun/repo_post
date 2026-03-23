@@ -7,3 +7,5 @@ image: assets/dchristl_macless_haystack_20251123_204719_515_20251125_215925_500b
 # [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack/)
 
 Create AirTags without an Apple device
+
+无需 Apple 设备创建 AirTags

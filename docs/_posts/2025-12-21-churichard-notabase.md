@@ -7,3 +7,5 @@ image: assets/churichard_notabase_20251219_025630_185_20251219_025649_e47b94.png
 # [churichard/notabase](https://github.com/churichard/notabase/)
 
 Personal knowledge base for networked thinking
+
+支持网络化思维的个人知识库

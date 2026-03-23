@@ -7,3 +7,5 @@ image: assets/Batalhoti_QuattroBox_20260218_015337_174_20260218_015432_0c1e47.pn
 # [Batalhoti/QuattroBox](https://github.com/Batalhoti/QuattroBox)
 
 3D-printed multi-material system with interchangeable extruders
+
+带可互换挤出头的3D打印多材料系统

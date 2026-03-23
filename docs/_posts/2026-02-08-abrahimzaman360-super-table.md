@@ -7,3 +7,5 @@ image: assets/abrahimzaman360_super_table_20260205_031642_302_20260205_031657_98
 # [abrahimzaman360/super-table](https://github.com/abrahimzaman360/super-table)
 
 Table format for data lakes with Iceberg compatibility
+
+兼容 Iceberg 的数据湖表格格式

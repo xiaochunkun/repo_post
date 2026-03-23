@@ -7,3 +7,5 @@ image: assets/chroxify_haptic_20260226_051959_700_20260226_052135_bc25f6.png
 # [chroxify/haptic](https://github.com/chroxify/haptic)
 
 Markdown editor with local database and desktop app via Tauri
+
+基于 Tauri 的本地数据库和桌面应用 Markdown 编辑器

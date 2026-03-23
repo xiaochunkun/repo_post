@@ -7,3 +7,5 @@ image: assets/jeremychone_rust_genai_20251205_012307_371_20251205_012410_63bb0c.
 # [jeremychone/rust-genai](https://github.com/jeremychone/rust-genai/)
 
 Multi-provider generative AI library for Rust
+
+Rust的多提供商生成式AI库

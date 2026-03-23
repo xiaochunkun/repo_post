@@ -7,3 +7,5 @@ image: assets/data_stack_hub_DataStack_20260116_142250_096_20260116_142304_5eefa
 # [data-stack-hub/DataStack](https://github.com/data-stack-hub/DataStack)
 
 Builds web apps using Python without frontend experience
+
+无需前端经验，使用Python构建Web应用

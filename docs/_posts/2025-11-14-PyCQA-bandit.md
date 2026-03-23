@@ -7,3 +7,5 @@ image: assets/PyCQA_bandit_20251114_001750_085_20251114_020315_3a3c8e--20251114T
 # [PyCQA/bandit](https://github.com/PyCQA/bandit/)
 
 Tool to find security issues in Python code
+
+查找Python代码安全问题的工具

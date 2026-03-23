@@ -7,3 +7,5 @@ image: assets/carlosjorger_fluid_dnd_20251217_172612_152_20251217_172648_697992.
 # [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd/)
 
 Drag and drop library for Vue, React and Svelte
+
+适用于 Vue、React 和 Svelte 的拖放库

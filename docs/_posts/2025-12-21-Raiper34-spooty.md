@@ -7,3 +7,5 @@ image: assets/Raiper34_spooty_20251219_123025_540_20251219_123042_1c5f7e.png
 # [Raiper34/spooty](https://github.com/Raiper34/spooty/)
 
 Downloads music from Spotify via YouTube
+
+通过YouTube从Spotify下载音乐

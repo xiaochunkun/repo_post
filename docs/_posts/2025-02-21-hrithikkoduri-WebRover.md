@@ -7,3 +7,5 @@ image: assets/hrithikkoduri_WebRover_cropped.png
 # [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover)
 
 AI agent for web tasks
+
+用于网络任务的 AI 代理

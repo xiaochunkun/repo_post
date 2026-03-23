@@ -7,3 +7,5 @@ image: assets/20251009T061451742--peterldowns--localias--20251009T062320022--cro
 # [peterldowns/localias](https://github.com/peterldowns/localias)
 
 manage local dev server aliases with automatic TLS and simple CLI
+
+通过自动 TLS 和简单 CLI 管理本地开发服务器别名

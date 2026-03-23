@@ -7,3 +7,5 @@ image: assets/xero_text0wnz_20251125_234039_631_20251128_213027_6b9c4e--20251128
 # [xero/text0wnz](https://github.com/xero/text0wnz/)
 
 Browser editor for ANSI and ASCII art
+
+用于 ANSI 和 ASCII 艺术的浏览器编辑器

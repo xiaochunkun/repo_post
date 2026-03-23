@@ -7,3 +7,5 @@ image: assets/facebookresearch_nougat--20250917T003455029--cropped.png
 # [facebookresearch/nougat](https://github.com/facebookresearch/nougat)
 
 extracts text, math, and tables from academic PDFs
+
+从学术 PDF 中提取文本、数学公式和表格

@@ -7,3 +7,5 @@ image: assets/20251007T190555073--liweiphys--layra--20251007T192037159--cropped.
 # [liweiphys/layra](https://github.com/liweiphys/layra)
 
 AI engine that automates complex workflows by visually understanding documents
+
+AI 引擎，通过视觉理解文档自动执行复杂工作流

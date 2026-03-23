@@ -7,3 +7,5 @@ image: assets/arinspunk_claude_talk_to_figma_mcp_20260309_110216_241_20260309_11
 # [arinspunk/claude-talk-to-figma-mcp](https://github.com/arinspunk/claude-talk-to-figma-mcp)
 
 Enables AI agents to read and modify Figma designs
+
+使 AI 代理能够读取和修改 Figma 设计

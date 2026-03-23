@@ -7,3 +7,5 @@ image: assets/clucraft_PriceGhost_20260204_035934_455_20260204_040008_7f3dfa.png
 # [clucraft/PriceGhost](https://github.com/clucraft/PriceGhost)
 
 Monitors product prices across websites via multi-strategy extraction
+
+通过多策略提取监控网站产品价格

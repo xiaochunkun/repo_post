@@ -7,3 +7,5 @@ image: assets/microsoft_fluentui_system_icons_20260111_090753_016_20260111_09080
 # [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
 
 Collection of icons from Microsoft
+
+Microsoft图标集合

@@ -7,3 +7,5 @@ image: assets/Bistutu_FluentRead_cropped.png
 # [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
 
 browser translation plugin for immersive reading
+
+浏览器翻译插件，提供沉浸式阅读体验

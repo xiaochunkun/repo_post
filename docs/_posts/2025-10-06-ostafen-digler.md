@@ -7,3 +7,5 @@ image: assets/20251005T225657913--ostafen--digler--20251005T230337777--cropped.p
 # [ostafen/digler](https://github.com/ostafen/digler)
 
 forensic disk analysis and file recovery tool with CLI and desktop app
+
+法医磁盘分析和文件恢复工具，支持 CLI 和桌面应用

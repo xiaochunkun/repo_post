@@ -7,3 +7,5 @@ image: assets/frappe_lending_20260120_073304_331_20260120_073319_8f903b.png
 # [frappe/lending](https://github.com/frappe/lending)
 
 Loan management system on Frappe Framework
+
+Frappe Framework 上的贷款管理系统

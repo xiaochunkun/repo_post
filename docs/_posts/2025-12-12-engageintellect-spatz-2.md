@@ -7,3 +7,5 @@ image: assets/engageintellect_spatz_2_20251209_051707_591_20251209_051743_caf6f4
 # [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2/)
 
 Fullstack Svelte template with Pocketbase and OpenAI
+
+集成 Pocketbase 和 OpenAI 的全栈 Svelte 模板

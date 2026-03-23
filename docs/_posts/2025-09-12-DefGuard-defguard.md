@@ -7,3 +7,5 @@ image: assets/20250911T171108172--DefGuard--defguard--20250911T184719562--croppe
 # [DefGuard/defguard](https://github.com/DefGuard/defguard)
 
 Zero-trust VPN with multi-factor authentication and advanced access controls
+
+支持多因素认证和高级访问控制的零信任 VPN

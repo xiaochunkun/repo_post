@@ -7,3 +7,5 @@ image: assets/OpenDroneMap_WebODM_20251219_130625_144_20251219_130643_fb4217.png
 # [OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM/)
 
 Generates maps and 3D models from drone imagery
+
+从无人机图像生成地图和3D模型

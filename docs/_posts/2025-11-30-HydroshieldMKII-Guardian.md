@@ -7,3 +7,5 @@ image: assets/HydroshieldMKII_Guardian_20251127_195954_981_20251130_082849_fb1aa
 # [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian/)
 
 Security and management platform for Plex Media Server
+
+Plex Media Server 的安全与管理平台

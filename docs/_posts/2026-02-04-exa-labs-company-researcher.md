@@ -7,3 +7,5 @@ image: assets/exa_labs_company_researcher_20260203_002145_698_20260203_002204_89
 # [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher)
 
 Gathers company data from the web via search API
+
+通过搜索 API 从网络收集公司数据

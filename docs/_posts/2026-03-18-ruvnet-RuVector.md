@@ -7,3 +7,5 @@ image: assets/ruvnet_RuVector_20260317_205702_563_20260317_205926_ea13ab.png
 # [ruvnet/RuVector](https://github.com/ruvnet/RuVector)
 
 Self-learning vector database with local AI
+
+具有本地AI的自学习向量数据库

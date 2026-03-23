@@ -7,3 +7,5 @@ image: assets/pawelmalak_snippet_box_20251213_081944_125_20251213_082009_eccd43.
 # [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box/)
 
 Self-hosted app for organizing code snippets
+
+用于组织代码片段的自主托管应用

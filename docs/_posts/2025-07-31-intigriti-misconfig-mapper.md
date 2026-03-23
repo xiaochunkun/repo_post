@@ -7,3 +7,5 @@ image: assets/intigriti_misconfig-mapper_cropped.png
 # [intigriti/misconfig-mapper](https://github.com/intigriti/misconfig-mapper)
 
 finds security misconfigs fast for popular services
+
+快速查找流行服务的安全配置错误

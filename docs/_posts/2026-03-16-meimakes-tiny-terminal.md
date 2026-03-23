@@ -7,3 +7,5 @@ image: assets/meimakes_tiny_terminal_20260309_144550_351_20260309_144740_47c32a.
 # [meimakes/tiny-terminal](https://github.com/meimakes/tiny-terminal)
 
 Terminal for kids with ASCII art and emoji responses
+
+面向儿童的 ASCII 艺术和表情符号终端

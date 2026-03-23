@@ -7,3 +7,5 @@ image: assets/Dhravya_cloudflare_email_20260118_045249_913_20260118_045311_117b7
 # [Dhravya/cloudflare-email](https://github.com/Dhravya/cloudflare-email)
 
 Sends transactional emails through Cloudflare Workers
+
+通过Cloudflare Workers发送事务性邮件

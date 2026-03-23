@@ -7,3 +7,5 @@ image: assets/thunderbiscuit_padawan_wallet_20260120_191930_277_20260120_191951_
 # [thunderbiscuit/padawan-wallet](https://github.com/thunderbiscuit/padawan-wallet)
 
 Bitcoin wallet for testnet education
+
+用于测试网教育的 Bitcoin 钱包

@@ -7,3 +7,5 @@ image: assets/DamascenoRafael_reminders_menubar_20260204_043834_830_20260204_043
 # [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
 Syncs Apple Reminders with the macOS menu bar
+
+将Apple提醒事项同步到macOS菜单栏

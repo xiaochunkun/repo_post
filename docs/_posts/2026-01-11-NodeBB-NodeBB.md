@@ -7,3 +7,5 @@ image: assets/NodeBB_NodeBB_20260111_083404_359_20260111_083418_7f9995.png
 # [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
 
 Forum software for the web
+
+Web论坛软件

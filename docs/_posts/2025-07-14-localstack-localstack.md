@@ -7,3 +7,5 @@ image: assets/localstack_localstack_cropped.png
 # [localstack/localstack](https://github.com/localstack/localstack)
 
 run aws apps locally with localstack
+
+使用 localstack 在本地运行 AWS 应用

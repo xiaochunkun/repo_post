@@ -7,3 +7,5 @@ image: assets/20250922T022627049--Floorp-Projects--Floorp--20250922T023836721--c
 # [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
 
 customizable Firefox-based browser with privacy features and flexible UI
+
+基于 Firefox 的可定制浏览器，具有隐私功能和灵活 UI

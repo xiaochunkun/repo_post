@@ -7,3 +7,5 @@ image: assets/alyssaxuu_screenity_cropped.png
 # [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
 
 screen and camera recording for Chrome, open source
+
+Chrome屏幕和摄像头录制，开源

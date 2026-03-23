@@ -7,3 +7,5 @@ image: assets/20250917T005702440--DarkFlippers--unleashed-firmware--20250917T010
 # [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
 
 Custom firmware for Flipper Zero with extra features and protocol support
+
+Flipper Zero 的自定义固件，提供额外功能和协议支持

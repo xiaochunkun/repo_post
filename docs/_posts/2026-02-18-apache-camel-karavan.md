@@ -7,3 +7,5 @@ image: assets/apache_camel_karavan_20260122_142626_592_20260122_142659_3fa732.pn
 # [apache/camel-karavan](https://github.com/apache/camel-karavan)
 
 Visual designer for data integration microservices
+
+数据集成微服务的可视化设计器

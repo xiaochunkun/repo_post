@@ -7,3 +7,5 @@ image: assets/PBandDev_comfyui_node_organizer_20260308_173036_406_20260308_17324
 # [PBandDev/comfyui-node-organizer](https://github.com/PBandDev/comfyui-node-organizer)
 
 Organizes ComfyUI nodes into hierarchical layouts using tokens
+
+使用令牌将ComfyUI节点组织成层次布局

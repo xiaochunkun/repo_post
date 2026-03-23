@@ -7,3 +7,5 @@ image: assets/A_poc_BlueTeam_Tools_20251115_042036_642_20251116_033004_f1866e--2
 # [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools/)
 
 Collection of over 65 tools for blue teaming activities
+
+包含超过65个蓝队活动工具的集合

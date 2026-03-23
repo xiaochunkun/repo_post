@@ -7,3 +7,5 @@ image: assets/rounak_PhoneAgent--20250812T233612--cropped.png
 # [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent)
 
 AI agent that taps and types on your iPhone across apps
+
+在 iPhone 上跨应用点击和输入的 AI 代理

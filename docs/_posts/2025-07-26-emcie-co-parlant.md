@@ -7,3 +7,5 @@ image: assets/emcie-co_parlant_cropped.png
 # [emcie-co/parlant](https://github.com/emcie-co/parlant)
 
 open-source engine for controlled AI chat agents
+
+受控AI聊天代理的开源引擎

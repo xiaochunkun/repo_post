@@ -7,3 +7,5 @@ image: assets/awslabs_diagram_as_code_20251029_172235_853_20251029_172335_bd1b2a
 # [awslabs/diagram-as-code](https://github.com/awslabs/diagram-as-code/)
 
 CLI tool for drawing AWS infrastructure diagrams from YAML
+
+从 YAML 绘制 AWS 基础设施图的 CLI 工具

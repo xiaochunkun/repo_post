@@ -7,3 +7,5 @@ image: assets/andrelandgraf_contacts_app_tanstack_db_demo_20251125_043904_929_20
 # [andrelandgraf/contacts-app-tanstack-db-demo](https://github.com/andrelandgraf/contacts-app-tanstack-db-demo/)
 
 Real-time UI sync with Postgres
+
+与 Postgres 实时同步的 UI

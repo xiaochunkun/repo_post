@@ -7,3 +7,5 @@ image: assets/FireRedTeam_FireRed_OpenStoryline_20260314_220108_539_20260314_220
 # [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline)
 
 AI video editing agent for natural conversations
+
+用于自然对话的 AI 视频编辑代理

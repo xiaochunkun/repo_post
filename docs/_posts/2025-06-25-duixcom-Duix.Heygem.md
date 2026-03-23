@@ -7,3 +7,5 @@ image: assets/duixcom_Duix.Heygem_cropped.png
 # [duixcom/Duix.Heygem](https://github.com/duixcom/Duix.Heygem)
 
 AI avatar generation project by Duix .com
+
+Duix.com的AI头像生成项目

@@ -7,3 +7,5 @@ image: assets/mayerbalintdev_GYM_One_20251225_063736_149_20251225_063752_ef3fad.
 # [mayerbalintdev/GYM-One](https://github.com/mayerbalintdev/GYM-One/)
 
 Gym management software for fitness centers and personal trainers
+
+健身房和个人培训师的健身管理软件

@@ -7,3 +7,5 @@ image: assets/nats_nui_nui_20251201_020115_615_20251201_020138_635273.png
 # [nats-nui/nui](https://github.com/nats-nui/nui/)
 
 GUI for managing NATS core, streams, and buckets
+
+管理 NATS 核心、流和存储桶的图形界面

@@ -7,3 +7,5 @@ image: assets/ad_si_awesome_3d_printing_20260209_001728_322_20260209_001754_667c
 # [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
 
 Directory of 3D printing resources
+
+3D打印资源目录

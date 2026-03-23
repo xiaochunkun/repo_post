@@ -7,3 +7,5 @@ image: assets/ufoscout_docker_compose_wait_20251202_203006_177_20251202_203032_2
 # [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait/)
 
 Waits for docker images to start
+
+等待Docker镜像启动

@@ -7,3 +7,5 @@ image: assets/Seanium_FeedMe_cropped.png
 # [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
 
 AI-powered RSS reader with summaries, easy deploy
+
+AI驱动的RSS阅读器，带摘要功能，易于部署

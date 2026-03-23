@@ -7,3 +7,5 @@ image: assets/daltonmenezes_aura_theme_20251029_075455_322_20251029_093149_d7786
 # [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme/)
 
 Dark theme for code editors and terminals
+
+代码编辑器和终端的深色主题

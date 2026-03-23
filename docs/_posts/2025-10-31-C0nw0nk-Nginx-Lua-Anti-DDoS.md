@@ -7,3 +7,5 @@ image: assets/C0nw0nk_Nginx_Lua_Anti_DDoS_20251030_224945_498_20251030_235116_13
 # [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS/)
 
 Anti-DDoS script for Nginx with a Javascript authentication puzzle
+
+Nginx 反 DDoS 脚本，包含 JavaScript 验证谜题

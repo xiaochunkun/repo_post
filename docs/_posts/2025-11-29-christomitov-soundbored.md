@@ -7,3 +7,5 @@ image: assets/christomitov_soundbored_20251126_010947_266_20251129_021845_92f465
 # [christomitov/soundbored](https://github.com/christomitov/soundbored/)
 
 Self-hosted soundboard for Discord
+
+自托管Discord音效板

@@ -7,3 +7,5 @@ image: assets/20250826T031531484--jlelong--vscode-latex-basics--20250826T0320115
 # [jlelong/vscode-latex-basics](https://github.com/jlelong/vscode-latex-basics)
 
 VSCode LaTeX and BibTeX syntax highlighting grammars
+
+VS Code LaTeX 和 BibTeX 语法高亮

@@ -7,3 +7,5 @@ image: assets/underpig1_octos_20260111_034750_800_20260111_034807_2eb146.png
 # [underpig1/octos](https://github.com/underpig1/octos)
 
 Interactive wallpapers with web technologies for Windows
+
+使用 Web 技术为 Windows 创建交互式壁纸

@@ -7,3 +7,5 @@ image: assets/Tencent_Hunyuan_HY_Motion_1_0_20260227_012040_872_20260227_012217_
 # [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)
 
 Generates 3D human motion from text prompts
+
+从文本提示生成3D人体运动

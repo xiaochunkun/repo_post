@@ -7,3 +7,5 @@ image: assets/AmadeusITGroup_prompt_registry_20260113_195728_655_20260113_195743
 # [AmadeusITGroup/prompt-registry](https://github.com/AmadeusITGroup/prompt-registry)
 
 Marketplace for GitHub Copilot prompt libraries
+
+GitHub Copilot提示库的市场

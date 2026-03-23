@@ -7,3 +7,5 @@ image: assets/Termix_SSH_Termix_20251217_222455_979_20251217_222514_c4f273.png
 # [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix/)
 
 Server management platform with SSH terminal and tunneling
+
+带 SSH 终端和隧道功能的服务器管理平台

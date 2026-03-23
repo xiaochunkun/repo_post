@@ -7,3 +7,5 @@ image: assets/winapps_org_winapps_20260208_020037_843_20260208_020055_62ece2.png
 # [winapps-org/winapps](https://github.com/winapps-org/winapps)
 
 Runs Windows applications as native Linux software
+
+将 Windows 应用程序作为原生 Linux 软件运行

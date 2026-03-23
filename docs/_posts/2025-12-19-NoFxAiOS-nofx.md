@@ -7,3 +7,5 @@ image: assets/NoFxAiOS_nofx_20251217_232625_617_20251217_232644_d9d215.png
 # [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx/)
 
 AI agents trade crypto futures across exchanges
+
+跨交易所交易加密货币期货的 AI 代理

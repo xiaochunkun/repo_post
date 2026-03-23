@@ -7,3 +7,5 @@ image: assets/fastapi_practices_fastapi_best_architecture_20260122_072411_019_20
 # [fastapi-practices/fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture)
 
 Backend architecture for enterprise applications using pseudo 3-tier design
+
+使用伪三层设计的企业应用后端架构

@@ -7,3 +7,5 @@ image: assets/AshampooSystems_boden_20260103_140413_442_20260103_140432_631696.p
 # [AshampooSystems/boden](https://github.com/AshampooSystems/boden/)
 
 C++ framework for Android and iOS development
+
+用于 Android 和 iOS 开发的 C++ 框架

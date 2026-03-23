@@ -7,3 +7,5 @@ image: assets/MaxHastings_llm_madness_20260112_114626_841_20260112_114640_33b36c
 # [MaxHastings/llm-madness](https://github.com/MaxHastings/llm-madness)
 
 Pipeline with a web UI for LLM training and inspection
+
+带Web UI的LLM训练与检查流水线

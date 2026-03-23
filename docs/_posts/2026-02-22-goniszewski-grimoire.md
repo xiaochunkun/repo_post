@@ -7,3 +7,5 @@ image: assets/goniszewski_grimoire_20260209_041421_836_20260209_041454_7df8b4.pn
 # [goniszewski/grimoire](https://github.com/goniszewski/grimoire)
 
 Bookmark manager with content extraction
+
+支持内容提取的书签管理器

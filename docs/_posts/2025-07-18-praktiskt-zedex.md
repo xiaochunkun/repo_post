@@ -7,3 +7,5 @@ image: assets/praktiskt_zedex_cropped.png
 # [praktiskt/zedex](https://github.com/praktiskt/zedex)
 
 Zed editor extension experiments and tools
+
+Zed编辑器扩展实验和工具

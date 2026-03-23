@@ -7,3 +7,5 @@ image: assets/allenk_facefusion_20260113_194231_111_20260113_194244_ae8e74.png
 # [allenk/facefusion](https://github.com/allenk/facefusion)
 
 Swaps and enhances faces in images and videos
+
+在图像和视频中交换和增强人脸

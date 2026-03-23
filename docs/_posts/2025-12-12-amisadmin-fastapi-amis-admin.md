@@ -7,3 +7,5 @@ image: assets/amisadmin_fastapi_amis_admin_20251209_035437_640_20251209_035513_2
 # [amisadmin/fastapi-amis-admin](https://github.com/amisadmin/fastapi-amis-admin/)
 
 Admin framework for FastAPI inspired by Django-admin
+
+受Django-admin启发的FastAPI管理框架

@@ -7,3 +7,5 @@ image: assets/IdreesInc_Monocraft_20251031_033350_238_20251031_204953_1d4024--20
 # [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft/)
 
 Font with ligatures based on the Minecraft typeface
+
+基于 Minecraft 字体的连字字体

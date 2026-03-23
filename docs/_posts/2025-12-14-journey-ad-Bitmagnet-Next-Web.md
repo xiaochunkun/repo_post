@@ -7,3 +7,5 @@ image: assets/journey_ad_Bitmagnet_Next_Web_20251213_023057_885_20251213_023122_
 # [journey-ad/Bitmagnet-Next-Web](https://github.com/journey-ad/Bitmagnet-Next-Web/)
 
 Magnet search website powered by Bitmagnet
+
+Bitmagnet 驱动的磁力搜索网站

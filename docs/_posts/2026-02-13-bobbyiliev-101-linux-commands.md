@@ -7,3 +7,5 @@ image: assets/bobbyiliev_101_linux_commands_20260210_104032_849_20260210_104059_
 # [bobbyiliev/101-linux-commands](https://github.com/bobbyiliev/101-linux-commands)
 
 Ebook with 101 Linux commands
+
+包含 101 个 Linux 命令的电子书

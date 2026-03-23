@@ -7,3 +7,5 @@ image: assets/mariotaku_moonlight_tv_20251208_224115_852_20251208_224229_056089.
 # [mariotaku/moonlight-tv](https://github.com/mariotaku/moonlight-tv/)
 
 GameStream client for LG webOS TVs
+
+LG webOS电视的GameStream客户端

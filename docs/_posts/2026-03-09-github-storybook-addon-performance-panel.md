@@ -7,3 +7,5 @@ image: assets/github_storybook_addon_performance_panel_20260308_181412_582_20260
 # [github/storybook-addon-performance-panel](https://github.com/github/storybook-addon-performance-panel)
 
 Performance monitoring for Storybook stories
+
+Storybook故事的性能监控

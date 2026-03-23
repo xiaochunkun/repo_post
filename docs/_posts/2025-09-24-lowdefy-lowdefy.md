@@ -7,3 +7,5 @@ image: assets/20250924T061046988--lowdefy--lowdefy--20250924T061729357--cropped.
 # [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy)
 
 build business apps and dashboards with YAML or JSON config
+
+使用 YAML 或 JSON 配置构建业务应用和仪表板

@@ -7,3 +7,5 @@ image: assets/20250820T134347136_pretix_pretix--20250820T135950382--cropped.png
 # [pretix/pretix](https://github.com/pretix/pretix)
 
 open source ticket shop for events
+
+开源活动票务销售系统

@@ -7,3 +7,5 @@ image: assets/20251001T232500784--Dusk-Labs--dim--20251001T232802458--cropped.pn
 # [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim)
 
 self-hosted media manager to organize and stream your collection
+
+自托管媒体管理器，用于组织和流式传输收藏

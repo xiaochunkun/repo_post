@@ -7,3 +7,5 @@ image: assets/xiety_HistoryApp_20260215_142314_269_20260215_142414_e50120.png
 # [xiety/HistoryApp](https://github.com/xiety/HistoryApp)
 
 Visualizes history timelines with Angular
+
+使用 Angular 可视化历史时间线

@@ -7,3 +7,5 @@ image: assets/CharlesTheGreat77_YardstickOneGUI_20260118_123056_068_20260118_123
 # [CharlesTheGreat77/YardstickOneGUI](https://github.com/CharlesTheGreat77/YardstickOneGUI)
 
 GUI for receiving and transmitting RF signals
+
+接收和传输RF信号的图形界面

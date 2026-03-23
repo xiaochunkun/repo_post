@@ -7,3 +7,5 @@ image: assets/lfnovo_open_notebook_20260222_085943_887_20260222_090031_22787f.pn
 # [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
 
 Local alternative to Notebook LM
+
+Notebook LM 的本地替代方案

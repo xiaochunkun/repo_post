@@ -7,3 +7,5 @@ image: assets/geek_fun_dockit_20251123_200004_071_20251125_012730_7d80e0--202511
 # [geek-fun/dockit](https://github.com/geek-fun/dockit/)
 
 Desktop GUI client for Elasticsearch and OpenSearch
+
+Elasticsearch 和 OpenSearch 的桌面 GUI 客户端

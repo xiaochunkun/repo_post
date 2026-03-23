@@ -7,3 +7,5 @@ image: assets/metehan777_moz-mcp--20250817T075622393--cropped.png
 # [metehan777/moz-mcp](https://github.com/metehan777/moz-mcp)
 
 MCP server that lets you pull Moz API SEO data like keyword research, site metrics, and link analysis for easy analysis
+
+MCP 服务器，用于拉取 Moz API SEO 数据，如关键词研究、网站指标和链接分析

@@ -7,3 +7,5 @@ image: assets/20250825T032641160--silverstein--pdf-filler-simple--20250825T03373
 # [silverstein/pdf-filler-simple](https://github.com/silverstein/pdf-filler-simple)
 
 PDF form filler for Claude Desktop and Cursor
+
+Claude Desktop 和 Cursor 的 PDF 表单填写工具

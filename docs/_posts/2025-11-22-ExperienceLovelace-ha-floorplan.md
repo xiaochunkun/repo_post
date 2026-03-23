@@ -7,3 +7,5 @@ image: assets/ExperienceLovelace_ha_floorplan_20251121_134626_764_20251122_03394
 # [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan/)
 
 Maps Home Assistant entities to SVG floorplans
+
+将 Home Assistant 实体映射到 SVG 平面图

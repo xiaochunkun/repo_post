@@ -7,3 +7,5 @@ image: assets/opendatalab_PDF-Extract-Kit_cropped.png
 # [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
 
 extracts tables, formulas, and text from PDFs
+
+从PDF中提取表格、公式和文本

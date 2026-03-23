@@ -7,3 +7,5 @@ image: assets/benbusby_whoogle-search_cropped.png
 # [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
 
 Privacy-focused Google search proxy
+
+注重隐私的Google搜索代理

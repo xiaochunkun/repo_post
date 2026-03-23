@@ -7,3 +7,5 @@ image: assets/Evil0ctal_Douyin_TikTok_Download_API_cropped.png
 # [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
 
 download videos from Douyin, TikTok, Kuaishou, Bilibili with an async API
+
+通过异步API下载抖音、TikTok、快手、Bilibili视频

@@ -7,3 +7,5 @@ image: assets/UN_GCPDS_qt_material_20251115_062725_404_20251117_033347_d1c165--2
 # [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material/)
 
 Material Design stylesheet for PySide and PyQt
+
+PySide和PyQt的Material Design样式表

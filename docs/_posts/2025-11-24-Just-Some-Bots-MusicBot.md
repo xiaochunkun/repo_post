@@ -7,3 +7,5 @@ image: assets/Just_Some_Bots_MusicBot_20251123_173042_846_20251124_095142_988940
 # [Just-Some-Bots/MusicBot](https://github.com/Just-Some-Bots/MusicBot/)
 
 Plays music from YouTube on Discord
+
+在 Discord 上播放 YouTube 音乐

@@ -7,3 +7,5 @@ image: assets/Operative-Sh_web-eval-agent_cropped.png
 # [Operative-Sh/web-eval-agent](https://github.com/Operative-Sh/web-eval-agent)
 
 autonomously debugs web apps in your code editor
+
+在代码编辑器中自主调试Web应用

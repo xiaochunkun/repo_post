@@ -7,3 +7,5 @@ image: assets/CherryKingOne_WeiMeng_20251221_044153_502_20251221_044211_b48781.p
 # [CherryKingOne/WeiMeng](https://github.com/CherryKingOne/WeiMeng/)
 
 AI production team for short dramas and animations
+
+短剧和动画 AI 制作团队

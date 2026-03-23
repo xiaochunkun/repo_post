@@ -7,3 +7,5 @@ image: assets/lucafaggianelli_plombery_20260120_025717_050_20260120_025734_0ed13
 # [lucafaggianelli/plombery](https://github.com/lucafaggianelli/plombery)
 
 Python task scheduler with a web interface
+
+带 Web 界面的 Python 任务调度器

@@ -7,3 +7,5 @@ image: assets/abeltavares_FinStockDash_20260102_124555_128_20260102_124619_834c5
 # [abeltavares/FinStockDash](https://github.com/abeltavares/FinStockDash/)
 
 Streamlit app for stock analysis and financial visualizations
+
+用于股票分析和金融可视化的 Streamlit 应用

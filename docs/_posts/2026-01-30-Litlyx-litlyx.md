@@ -7,3 +7,5 @@ image: assets/Litlyx_litlyx_20260130_010816_945_20260130_010905_8b6713.png
 # [Litlyx/litlyx](https://github.com/Litlyx/litlyx)
 
 Analytics tool with AI dashboard and Docker support
+
+带AI仪表板和Docker支持的分析工具

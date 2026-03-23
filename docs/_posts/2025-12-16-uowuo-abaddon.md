@@ -7,3 +7,5 @@ image: assets/uowuo_abaddon_20251214_212845_615_20251214_212937_7f5610.png
 # [uowuo/abaddon](https://github.com/uowuo/abaddon/)
 
 Alternative Discord client in C++ with GTK
+
+使用C++和GTK的替代Discord客户端

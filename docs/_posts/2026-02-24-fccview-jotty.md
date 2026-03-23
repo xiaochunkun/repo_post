@@ -7,3 +7,5 @@ image: assets/fccview_jotty_20260208_230705_957_20260208_230757_818d7c.png
 # [fccview/jotty](https://github.com/fccview/jotty)
 
 Self-hosted app for checklists and notes with encryption
+
+带加密的自托管清单和笔记应用

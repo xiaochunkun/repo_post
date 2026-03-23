@@ -7,3 +7,5 @@ image: assets/20250825T035224832--h2oai--h2o-llmstudio--20250826T024046656--crop
 # [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)
 
 no-code GUI for fine-tuning large language models
+
+零代码图形界面微调大语言模型

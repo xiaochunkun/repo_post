@@ -7,3 +7,5 @@ image: assets/maoxiaoke_BrowserPicker_20251224_183140_553_20251224_183157_fc8403
 # [maoxiaoke/BrowserPicker](https://github.com/maoxiaoke/BrowserPicker/)
 
 Selects browsers based on domain rules
+
+根据域名规则选择浏览器

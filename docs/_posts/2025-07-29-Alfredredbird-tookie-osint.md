@@ -7,3 +7,5 @@ image: assets/Alfredredbird_tookie-osint_cropped.png
 # [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint)
 
 finds usernames across sites for OSINT
+
+跨站点查找用户名以进行 OSINT

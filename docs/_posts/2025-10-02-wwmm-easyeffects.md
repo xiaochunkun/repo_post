@@ -7,3 +7,5 @@ image: assets/20251001T193426759--wwmm--easyeffects--20251001T195130084--cropped
 # [wwmm/easyeffects](https://github.com/wwmm/easyeffects)
 
 audio effects for PipeWire apps on Linux
+
+Linux上PipeWire应用的音频效果器

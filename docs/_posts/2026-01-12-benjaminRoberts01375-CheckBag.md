@@ -7,3 +7,5 @@ image: assets/benjaminRoberts01375_CheckBag_20260112_085133_573_20260112_085219_
 # [benjaminRoberts01375/CheckBag](https://github.com/benjaminRoberts01375/CheckBag)
 
 Analytics dashboard for homelab traffic
+
+家庭实验室流量分析仪表板

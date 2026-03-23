@@ -7,3 +7,5 @@ image: assets/Capevace_laravel_introspect_20251213_112332_541_20251213_112435_f7
 # [Capevace/laravel-introspect](https://github.com/Capevace/laravel-introspect/)
 
 Query Laravel codebases like a database
+
+像数据库一样查询 Laravel 代码库

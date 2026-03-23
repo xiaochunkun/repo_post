@@ -7,3 +7,5 @@ image: assets/yihao_meng_HoloCine_20251123_171008_162_20251124_094656_fc4a82--20
 # [yihao-meng/HoloCine](https://github.com/yihao-meng/HoloCine/)
 
 Generates videos with consistency across shots
+
+生成镜头间一致的视频

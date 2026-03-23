@@ -7,3 +7,5 @@ image: assets/20250929T073331586--sczhou--Upscale-A-Video--20250929T073927350--c
 # [sczhou/Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video)
 
 diffusion model for upscaling real-world videos with text prompts
+
+使用文本提示对真实世界视频进行超分辨率的扩散模型

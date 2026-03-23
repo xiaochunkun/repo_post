@@ -7,3 +7,5 @@ image: assets/20250926T173104560--CMU-Perceptual-Computing-Lab--openpose--202509
 # [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 real-time multi-person pose detection for body, face, hands, and feet
+
+用于身体、面部、手部和脚部的实时多人姿态检测

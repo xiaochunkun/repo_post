@@ -7,3 +7,5 @@ image: assets/ihmily_DouyinLiveRecorder_cropped.png
 # [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)
 
 records live streams from Douyin, TikTok, YouTube, and more
+
+录制抖音、TikTok、YouTube等平台的直播流

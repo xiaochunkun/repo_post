@@ -7,3 +7,5 @@ image: assets/AstrBotDevs_AstrBot_20260302_031119_052_20260302_031247_1224cb.png
 # [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
 
 Agent chatbot platform for instant messaging apps
+
+即时通讯应用的代理聊天机器人平台

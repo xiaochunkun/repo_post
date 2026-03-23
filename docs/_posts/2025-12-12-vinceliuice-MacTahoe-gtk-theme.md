@@ -7,3 +7,5 @@ image: assets/vinceliuice_MacTahoe_gtk_theme_20251209_022538_688_20251209_022605
 # [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme/)
 
 macOS Tahoe theme for Linux GTK desktops
+
+适用于 Linux GTK 桌面的 macOS Tahoe 主题

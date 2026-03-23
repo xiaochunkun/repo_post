@@ -7,3 +7,5 @@ image: assets/asamassekou10_ship_safe_20260318_210936_712_20260318_211111_9acf3f
 # [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
 
 Runs 16 agents against codebase
+
+针对代码库运行 16 个代理

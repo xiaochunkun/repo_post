@@ -7,3 +7,5 @@ image: assets/GetStream_stream_chat_swiftui_20260115_175257_004_20260115_175313_
 # [GetStream/stream-chat-swiftui](https://github.com/GetStream/stream-chat-swiftui)
 
 Chat SDK for SwiftUI apps
+
+用于 SwiftUI 应用的聊天 SDK

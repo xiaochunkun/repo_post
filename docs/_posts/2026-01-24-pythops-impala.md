@@ -7,3 +7,5 @@ image: assets/pythops_impala_20260123_170256_136_20260123_170312_0e02b6.png
 # [pythops/impala](https://github.com/pythops/impala)
 
 TUI for managing wifi on Linux
+
+Linux 上管理 wifi 的 TUI

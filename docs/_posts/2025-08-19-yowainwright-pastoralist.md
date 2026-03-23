@@ -7,3 +7,5 @@ image: assets/20250818T112022825_yowainwright_pastoralist--20250818T112139584--c
 # [yowainwright/pastoralist](https://github.com/yowainwright/pastoralist)
 
 CLI tool for managing npm overrides, resolutions, and patches
+
+管理 npm overrides、resolutions 和 patches 的 CLI 工具

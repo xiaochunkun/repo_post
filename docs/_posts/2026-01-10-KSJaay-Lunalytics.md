@@ -7,3 +7,5 @@ image: assets/KSJaay_Lunalytics_20260108_134859_688_20260108_134914_22b04f.png
 # [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics)
 
 Self-hosted monitoring tool for servers and containers
+
+服务器和容器自托管监控工具

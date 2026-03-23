@@ -7,3 +7,5 @@ image: assets/ARYPROGRAMMER_Video_Generator_AI_20251123_200941_450_20251125_0129
 # [ARYPROGRAMMER/Video-Generator-AI](https://github.com/ARYPROGRAMMER/Video-Generator-AI/)
 
 Next.js SaaS platform for AI video generation
+
+用于 AI 视频生成的 Next.js SaaS 平台

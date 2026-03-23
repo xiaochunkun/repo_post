@@ -7,3 +7,5 @@ image: assets/man-group_ArcticDB_cropped.png
 # [man-group/ArcticDB](https://github.com/man-group/ArcticDB)
 
 ArcticDB: DataFrame storagefor Python
+
+ArcticDB：用于Python的DataFrame存储

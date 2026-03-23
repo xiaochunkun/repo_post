@@ -7,3 +7,5 @@ image: assets/20251012T023527258--harmonoid--harmonoid--20251012T023922202--crop
 # [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid)
 
 cross-platform music player with playlists, synced lyrics, and material design
+
+跨平台音乐播放器，支持播放列表、同步歌词和 Material Design

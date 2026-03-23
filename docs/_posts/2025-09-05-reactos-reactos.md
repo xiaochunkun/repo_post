@@ -7,3 +7,5 @@ image: assets/20250905T020725085--reactos--reactos--20250905T020912776--cropped.
 # [reactos/reactos](https://github.com/reactos/reactos)
 
 ReactOS is an open source operating system aiming for compatibility with Windows applications and drivers
+
+ReactOS 是一个致力于兼容 Windows 应用和驱动的开源操作系统

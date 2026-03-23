@@ -7,3 +7,5 @@ image: assets/TablePlus_TablePlus_20260117_053124_923_20260117_053148_0edd5b.png
 # [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus)
 
 Database management tool for relational databases
+
+关系型数据库管理工具

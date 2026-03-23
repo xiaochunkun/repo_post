@@ -7,3 +7,5 @@ image: assets/ophub_fnnas_20260207_084005_194_20260207_084040_cad11e.png
 # [ophub/fnnas](https://github.com/ophub/fnnas)
 
 Debian system for TV boxes
+
+适用于电视盒子的 Debian 系统

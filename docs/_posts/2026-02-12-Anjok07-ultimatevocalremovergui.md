@@ -7,3 +7,5 @@ image: assets/Anjok07_ultimatevocalremovergui_20260210_065535_055_20260210_06555
 # [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
 
 Separates vocals and instrumentals from audio files
+
+从音频文件中分离人声和伴奏

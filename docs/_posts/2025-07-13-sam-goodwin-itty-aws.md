@@ -7,3 +7,5 @@ image: assets/sam-goodwin_itty-aws_cropped.png
 # [sam-goodwin/itty-aws](https://github.com/sam-goodwin/itty-aws)
 
 tiny AWS SDK for TypeScript using Proxies
+
+使用Proxies的TypeScript微型AWS SDK

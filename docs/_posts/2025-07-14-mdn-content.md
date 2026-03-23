@@ -7,3 +7,5 @@ image: assets/mdn_content_cropped.png
 # [mdn/content](https://github.com/mdn/content)
 
 Docs for web tech on MDN
+
+MDN 上的 Web 技术文档

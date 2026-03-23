@@ -7,3 +7,5 @@ image: assets/Forceu_Gokapi_cropped.png
 # [Forceu/Gokapi](https://github.com/Forceu/Gokapi)
 
 self-hosted file sharing with expiring links and encryption
+
+自托管文件分享，支持过期链接和加密

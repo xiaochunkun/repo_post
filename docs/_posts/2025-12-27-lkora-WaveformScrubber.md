@@ -7,3 +7,5 @@ image: assets/lkora_WaveformScrubber_20251226_025825_923_20251226_025842_9e692f.
 # [lkora/WaveformScrubber](https://github.com/lkora/WaveformScrubber/)
 
 SwiftUI view for audio waveform display and scrubbing
+
+用于音频波形显示和擦除的 SwiftUI 视图

@@ -7,3 +7,5 @@ image: assets/20251012T030126283--ianare--exif-py--20251012T030641077--cropped.p
 # [ianare/exif-py](https://github.com/ianare/exif-py)
 
 extract EXIF metadata from images, pure Python, no dependencies
+
+从图像中提取 EXIF 元数据，纯 Python 实现，无依赖

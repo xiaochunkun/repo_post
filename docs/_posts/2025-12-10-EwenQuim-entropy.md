@@ -7,3 +7,5 @@ image: assets/EwenQuim_entropy_20251207_223321_949_20251207_223353_1bba15.png
 # [EwenQuim/entropy](https://github.com/EwenQuim/entropy/)
 
 Scans codebases for high entropy lines to detect secrets
+
+扫描代码库中的高熵行以检测密钥

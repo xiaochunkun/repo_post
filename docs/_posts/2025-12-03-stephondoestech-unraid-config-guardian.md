@@ -7,3 +7,5 @@ image: assets/stephondoestech_unraid_config_guardian_20251201_062005_881_2025120
 # [stephondoestech/unraid-config-guardian](https://github.com/stephondoestech/unraid-config-guardian/)
 
 Generates disaster recovery documentation for Unraid servers
+
+为Unraid服务器生成灾难恢复文档

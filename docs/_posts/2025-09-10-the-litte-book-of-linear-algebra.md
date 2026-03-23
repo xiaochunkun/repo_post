@@ -7,3 +7,5 @@ image: assets/20250908T230716355--the-litte-book-of--linear-algebra--20250908T23
 # [the-litte-book-of/linear-algebra](https://github.com/the-litte-book-of/linear-algebra)
 
 intro to linear algebra concepts, vectors, and operations
+
+线性代数概念、向量和运算入门

@@ -7,3 +7,5 @@ image: assets/star7th_jisuxiang--20250816T204026102--cropped.png
 # [star7th/jisuxiang](https://github.com/star7th/jisuxiang)
 
 developer toolbox with JSON, encoding, regex, and more
+
+包含 JSON、编码、正则表达式等功能的开发者工具箱

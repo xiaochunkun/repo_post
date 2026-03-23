@@ -7,3 +7,5 @@ image: assets/jhaals_yopass_20260309_081223_696_20260309_081448_421754.png
 # [jhaals/yopass](https://github.com/jhaals/yopass)
 
 Shares secrets with end-to-end encryption and self-destruction
+
+端到端加密和自毁共享秘密

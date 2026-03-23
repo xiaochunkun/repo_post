@@ -7,3 +7,5 @@ image: assets/alexolivier_virtual_screen_20260213_175246_619_20260213_175335_bf0
 # [alexolivier/virtual-screen](https://github.com/alexolivier/virtual-screen)
 
 Mirrors screen regions into windows for video calls
+
+将屏幕区域镜像到窗口以用于视频通话

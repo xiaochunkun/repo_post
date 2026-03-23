@@ -7,3 +7,5 @@ image: assets/murtaza_nasir_pdf3md_20260122_021148_857_20260122_021239_59c8f7.pn
 # [murtaza-nasir/pdf3md](https://github.com/murtaza-nasir/pdf3md)
 
 Converts PDF documents to Markdown and Word formats
+
+将 PDF 文档转换为 Markdown 和 Word 格式

@@ -7,3 +7,5 @@ image: assets/Locatarr_locatarr_github_io_20251029_080732_350_20251029_093211_4f
 # [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io/)
 
 Aggregates *Arr services into a single list
+
+将 *Arr 服务聚合到单一列表中

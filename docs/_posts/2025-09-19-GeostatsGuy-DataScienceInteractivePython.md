@@ -7,3 +7,5 @@ image: assets/20250919T022040239--GeostatsGuy--DataScienceInteractivePython--202
 # [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
 
 Interactive Python dashboards for learning data science concepts
+
+用于学习数据科学概念的交互式Python仪表板

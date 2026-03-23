@@ -7,3 +7,5 @@ image: assets/ashish0kumar_windots_20260121_185810_296_20260121_185839_c9b56d.pn
 # [ashish0kumar/windots](https://github.com/ashish0kumar/windots)
 
 Windows dotfiles for tiling window management and Unix-like workflows
+
+用于平铺窗口管理和类Unix工作流的Windows dotfiles

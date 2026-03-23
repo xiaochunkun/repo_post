@@ -7,3 +7,5 @@ image: assets/cbsjtu01_IMTalker_20251225_161056_454_20251225_161114_abfcdd.png
 # [cbsjtu01/IMTalker](https://github.com/cbsjtu01/IMTalker/)
 
 Generates talking faces from audio with motion transfer
+
+从音频生成会说话的面孔，支持动作转移

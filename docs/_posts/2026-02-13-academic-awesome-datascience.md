@@ -7,3 +7,5 @@ image: assets/academic_awesome_datascience_20260208_162640_379_20260208_162715_f
 # [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
 
 Repository for learning data science through real-world problems
+
+通过真实问题学习数据科学的仓库

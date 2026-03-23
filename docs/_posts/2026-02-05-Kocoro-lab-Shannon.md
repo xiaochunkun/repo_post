@@ -7,3 +7,5 @@ image: assets/Kocoro_lab_Shannon_20260203_015307_820_20260203_015334_5c1b3d.png
 # [Kocoro-lab/Shannon](https://github.com/Kocoro-lab/Shannon)
 
 Orchestration framework for agents with time-travel debugging
+
+具有时间旅行调试功能的Agent编排框架

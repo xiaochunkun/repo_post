@@ -7,3 +7,5 @@ image: assets/meilisearch_meilisearch_20260227_163312_023_20260227_163456_7a19d2
 # [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
 
 Search engine with hybrid search
+
+具备混合搜索的搜索引擎

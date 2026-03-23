@@ -7,3 +7,5 @@ image: assets/steffenfritz_mxcheck_20260213_220951_048_20260213_221049_288020.pn
 # [steffenfritz/mxcheck](https://github.com/steffenfritz/mxcheck)
 
 Scans email servers for security vulnerabilities and SMTP smuggling
+
+扫描邮件服务器安全漏洞和 SMTP 走私

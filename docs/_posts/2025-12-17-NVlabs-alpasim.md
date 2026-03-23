@@ -7,3 +7,5 @@ image: assets/NVlabs_alpasim_20251215_032417_323_20251215_032439_f1b6a2.png
 # [NVlabs/alpasim](https://github.com/NVlabs/alpasim/)
 
 Modular simulator for autonomous driving research
+
+用于自动驾驶研究的模块化模拟器

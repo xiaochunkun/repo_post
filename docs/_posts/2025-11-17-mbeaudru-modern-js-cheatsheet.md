@@ -7,3 +7,5 @@ image: assets/mbeaudru_modern_js_cheatsheet_20251115_053020_642_20251116_222004_
 # [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet/)
 
 Cheatsheet for modern JavaScript concepts
+
+现代 JavaScript 概念速查表

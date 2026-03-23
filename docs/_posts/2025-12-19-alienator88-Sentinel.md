@@ -7,3 +7,5 @@ image: assets/alienator88_Sentinel_20251218_012614_747_20251218_012631_c5d5b2.pn
 # [alienator88/Sentinel](https://github.com/alienator88/Sentinel/)
 
 GUI for Gatekeeper control and app signing
+
+Gatekeeper 控制和应用签名的图形界面

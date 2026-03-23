@@ -7,3 +7,5 @@ image: assets/surajverma_homehub_20260212_024906_429_20260212_024927_6b7f7a.png
 # [surajverma/homehub](https://github.com/surajverma/homehub)
 
 Self-hosted dashboard for family tasks and file sharing
+
+家庭任务和文件共享的自托管仪表板

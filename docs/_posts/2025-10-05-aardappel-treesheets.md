@@ -7,3 +7,5 @@ image: assets/20251005T100642176--aardappel--treesheets--20251005T101756151--cro
 # [aardappel/treesheets](https://github.com/aardappel/treesheets)
 
 organize notes, ideas, and projects with a hierarchical spreadsheet
+
+使用分层电子表格组织笔记、想法和项目

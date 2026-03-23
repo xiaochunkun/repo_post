@@ -7,3 +7,5 @@ image: assets/OpenRouterTeam_awesome_openrouter_20260226_031502_666_20260226_031
 # [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter)
 
 Directory of apps using a unified API for AI models
+
+使用统一 API 访问 AI 模型的应用目录

@@ -7,3 +7,5 @@ image: assets/MaSys_pango_ios_20251124_235301_567_20251125_224805_ae79e6--202511
 # [MaSys/pango-ios](https://github.com/MaSys/pango-ios/)
 
 Manage Pangolin reverse proxy from an iPhone
+
+从 iPhone 管理 Pangolin 反向代理

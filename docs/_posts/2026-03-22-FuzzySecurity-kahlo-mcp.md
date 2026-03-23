@@ -7,3 +7,5 @@ image: assets/FuzzySecurity_kahlo_mcp_20260321_133255_973_20260321_133337_f9daac
 # [FuzzySecurity/kahlo-mcp](https://github.com/FuzzySecurity/kahlo-mcp)
 
 Frida MCP server for Android AI agents
+
+Android AI代理的Frida MCP服务器

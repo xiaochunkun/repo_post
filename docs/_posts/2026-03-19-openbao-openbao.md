@@ -7,3 +7,5 @@ image: assets/openbao_openbao_20260318_211037_610_20260318_211155_7d8c1a.png
 # [openbao/openbao](https://github.com/openbao/openbao)
 
 Manages secrets and keys
+
+管理密钥和机密信息

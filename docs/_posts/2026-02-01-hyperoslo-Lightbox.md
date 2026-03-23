@@ -7,3 +7,5 @@ image: assets/hyperoslo_Lightbox_20260131_003832_431_20260131_003927_b5c688.png
 # [hyperoslo/Lightbox](https://github.com/hyperoslo/Lightbox)
 
 Image viewer for iOS with video support and zoom
+
+iOS 的图像查看器，支持视频和缩放

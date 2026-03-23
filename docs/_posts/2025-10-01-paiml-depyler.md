@@ -7,3 +7,5 @@ image: assets/20251001T133014873--paiml--depyler--20251001T133322027--cropped.pn
 # [paiml/depyler](https://github.com/paiml/depyler)
 
 Python to Rust transpiler with verification and code analysis
+
+Python到Rust的转译器，带有验证和代码分析功能

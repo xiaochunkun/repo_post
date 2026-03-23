@@ -7,3 +7,5 @@ image: assets/irgolic_AutoPR_20260119_211725_019_20260119_211738_73e163.png
 # [irgolic/AutoPR](https://github.com/irgolic/AutoPR)
 
 Runs AI workflows over codebases
+
+在代码库上运行AI工作流

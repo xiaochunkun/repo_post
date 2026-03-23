@@ -7,3 +7,5 @@ image: assets/cnych_seo-mcp_cropped.png
 # [cnych/seo-mcp](https://github.com/cnych/seo-mcp)
 
 API for SEO data like backlinks, keyword research, and traffic using Ahrefs
+
+使用 Ahrefs 提供反向链接、关键词研究和流量等 SEO 数据的 API

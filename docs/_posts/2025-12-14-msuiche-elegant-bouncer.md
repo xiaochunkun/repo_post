@@ -7,3 +7,5 @@ image: assets/msuiche_elegant_bouncer_20251210_063903_471_20251210_063926_940b32
 # [msuiche/elegant-bouncer](https://github.com/msuiche/elegant-bouncer/)
 
 Detection tool for file-based mobile exploits
+
+基于文件的移动端漏洞检测工具

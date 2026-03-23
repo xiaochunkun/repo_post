@@ -7,3 +7,5 @@ image: assets/open_webui_open_webui_20260122_074443_827_20260122_074506_e54fc7.p
 # [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
 Self-hosted interface for LLMs with RAG and offline support
+
+支持RAG和离线的自托管LLM界面

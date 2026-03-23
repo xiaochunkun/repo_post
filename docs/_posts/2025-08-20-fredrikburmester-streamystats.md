@@ -7,3 +7,5 @@ image: assets/20250818T121808820_fredrikburmester_streamystats--20250818T1219305
 # [fredrikburmester/streamystats](https://github.com/fredrikburmester/streamystats)
 
 Jellyfin stats and analytics dashboard
+
+Jellyfin 统计和分析仪表板

@@ -7,3 +7,5 @@ image: assets/Terabase_Studios_fts_20251130_063736_864_20251130_084722_0fad7a--2
 # [Terabase-Studios/fts](https://github.com/Terabase-Studios/fts/)
 
 CLI and TUI for local network file transfers and chat
+
+用于本地网络文件传输和聊天的CLI和TUI工具

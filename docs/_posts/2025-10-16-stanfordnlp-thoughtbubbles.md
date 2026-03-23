@@ -7,3 +7,5 @@ image: assets/20251016T073721373--stanfordnlp--thoughtbubbles--20251016T07382568
 # [stanfordnlp/thoughtbubbles](https://github.com/stanfordnlp/thoughtbubbles)
 
 parallel training for language models with dataset prep and programmatic access
+
+语言模型的并行训练，包括数据集准备和程序化访问

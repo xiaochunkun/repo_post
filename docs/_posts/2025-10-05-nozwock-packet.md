@@ -7,3 +7,5 @@ image: assets/20251005T100856689--nozwock--packet--20251005T101947015--cropped.p
 # [nozwock/packet](https://github.com/nozwock/packet)
 
 Send and receive files wirelessly with Quick Share protocol on Linux
+
+在 Linux 上使用 Quick Share 协议无线收发文件

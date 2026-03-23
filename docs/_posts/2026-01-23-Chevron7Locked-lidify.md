@@ -7,3 +7,5 @@ image: assets/Chevron7Locked_lidify_20260122_015051_627_20260122_015107_fe9323.p
 # [Chevron7Locked/lidify](https://github.com/Chevron7Locked/lidify)
 
 Self-hosted audio streaming platform for personal music collections
+
+用于个人音乐收藏的自托管音频流平台

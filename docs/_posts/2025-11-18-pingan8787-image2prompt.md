@@ -7,3 +7,5 @@ image: assets/pingan8787_image2prompt_20251118_031929_995_20251118_035130_e73589
 # [pingan8787/image2prompt](https://github.com/pingan8787/image2prompt/)
 
 Generate prompts from any image on the web
+
+从任何网络图像生成提示

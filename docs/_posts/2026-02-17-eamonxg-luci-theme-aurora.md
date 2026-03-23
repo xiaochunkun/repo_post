@@ -7,3 +7,5 @@ image: assets/eamonxg_luci_theme_aurora_20260214_110404_823_20260214_110512_7407
 # [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
 
 OpenWrt LuCI theme with Vite and Tailwind CSS
+
+使用Vite和Tailwind CSS的OpenWrt LuCI主题

@@ -7,3 +7,5 @@ image: assets/K2SOsint_Legendary_OSINT_20260112_141207_129_20260112_141220_a4a84
 # [K2SOsint/Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT)
 
 Collection of OSINT tools for investigators
+
+调查员用的OSINT工具集合

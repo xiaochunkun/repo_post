@@ -7,3 +7,5 @@ image: assets/hcavarsan_pipedash_20260108_060203_173_20260108_060217_c659f6.png
 # [hcavarsan/pipedash](https://github.com/hcavarsan/pipedash)
 
 Aggregates CI/CD pipelines into a dashboard
+
+将CI/CD流水线聚合到仪表板

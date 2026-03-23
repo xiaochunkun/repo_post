@@ -7,3 +7,5 @@ image: assets/neutralinojs_neutralinojs_20260228_105350_484_20260228_105539_bda2
 # [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
 
 Builds desktop applications using web technologies without bundling Chromium or Node.js
+
+使用 Web 技术构建桌面应用，无需捆绑 Chromium 或 Node.js

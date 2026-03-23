@@ -7,3 +7,5 @@ image: assets/ubicloud_ubicloud_cropped.png
 # [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 
 Open source cloud platform alternative to AWS
+
+开源云平台，作为 AWS 的替代方案

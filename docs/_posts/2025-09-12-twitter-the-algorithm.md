@@ -7,3 +7,5 @@ image: assets/twitter_the-algorithm--20250911T232933853--cropped.png
 # [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 
 open source code for Twitter's recommendation algorithm
+
+Twitter 推荐算法的开源代码

@@ -7,3 +7,5 @@ image: assets/mum4k_termdash_20260120_115249_710_20260120_115325_88a6f4.png
 # [mum4k/termdash](https://github.com/mum4k/termdash)
 
 Terminal dashboards in Go
+
+Go 语言中的终端仪表板

@@ -7,3 +7,5 @@ image: assets/benjamin_hodgson_Pidgin_20251122_131129_240_20251122_222037_6b9691
 # [benjamin-hodgson/Pidgin](https://github.com/benjamin-hodgson/Pidgin/)
 
 Parser combinator library for C#
+
+C# 的解析器组合器库

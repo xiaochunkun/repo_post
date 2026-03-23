@@ -7,3 +7,5 @@ image: assets/rumca_js_Internet_Places_Database_20251123_003829_425_20251123_022
 # [rumca-js/Internet-Places-Database](https://github.com/rumca-js/Internet-Places-Database/)
 
 SQLite database of Internet link metadata
+
+互联网链接元数据的SQLite数据库

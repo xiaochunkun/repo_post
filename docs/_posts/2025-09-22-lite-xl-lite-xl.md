@@ -7,3 +7,5 @@ image: assets/20250922T015446744--lite-xl--lite-xl--20250922T023408024--cropped.
 # [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl)
 
 lightweight text editor, fast and customizable, written in Lua
+
+轻量级文本编辑器，快速且可定制，用 Lua 编写

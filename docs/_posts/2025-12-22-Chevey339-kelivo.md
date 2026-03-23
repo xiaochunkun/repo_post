@@ -7,3 +7,5 @@ image: assets/Chevey339_kelivo_20251219_232722_690_20251219_232740_8684db.png
 # [Chevey339/kelivo](https://github.com/Chevey339/kelivo/)
 
 Flutter LLM client for mobile and desktop
+
+移动和桌面端 Flutter LLM 客户端

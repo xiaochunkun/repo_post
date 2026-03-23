@@ -7,3 +7,5 @@ image: assets/smallbets_userbase_20260202_221432_566_20260202_221504_79e205.png
 # [smallbets/userbase](https://github.com/smallbets/userbase)
 
 Adds user accounts and data persistence to static sites
+
+为静态站点添加用户账户和数据持久化

@@ -7,3 +7,5 @@ image: assets/davidz_yt_desk_controller_20260120_111648_213_20260120_111710_2e13
 # [davidz-yt/desk-controller](https://github.com/davidz-yt/desk-controller)
 
 Keypad for desk automation via Home Assistant
+
+通过Home Assistant实现桌面自动化的键盘

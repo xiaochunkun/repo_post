@@ -7,3 +7,5 @@ image: assets/tadhglewis_issue_status_20251214_233438_775_20251214_233514_8f7663
 # [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status/)
 
 Status page powered by GitHub Issues
+
+由GitHub Issues驱动的状态页面

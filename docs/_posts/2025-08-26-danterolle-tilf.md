@@ -7,3 +7,5 @@ image: assets/20250825T030546251--danterolle--tilf--20250825T031059633--cropped.
 # [danterolle/tilf](https://github.com/danterolle/tilf)
 
 simple pixel art editor for sprites and icons
+
+简洁的像素画编辑器，适合精灵图和图标制作

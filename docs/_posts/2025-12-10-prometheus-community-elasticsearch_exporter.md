@@ -7,3 +7,5 @@ image: assets/prometheus_community_elasticsearch_exporter_20251208_001149_405_20
 # [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter/)
 
 Prometheus exporter for Elasticsearch metrics
+
+Elasticsearch指标的Prometheus导出器

@@ -7,3 +7,5 @@ image: assets/andrew_ld_smart_tv_telegram_20260116_203514_594_20260116_203528_4d
 # [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram)
 
 Streams Telegram content to smart TVs via UPnP
+
+通过 UPnP 将 Telegram 内容流式传输到智能电视

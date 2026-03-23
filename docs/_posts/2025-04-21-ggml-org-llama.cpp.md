@@ -7,3 +7,5 @@ image: assets/ggml-org_llama.cpp_cropped.png
 # [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 LLM inference in C/C++ for running and serving models locally on various hardware
+
+用于在各种硬件上本地运行和提供模型的 C/C++ LLM 推理

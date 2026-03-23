@@ -7,3 +7,5 @@ image: assets/eli64s_readme-ai_cropped.png
 # [eli64s/readme-ai](https://github.com/eli64s/readme-ai)
 
 AI tool for generating README files from code or repo path
+
+从代码或仓库路径生成 README 文件的 AI 工具

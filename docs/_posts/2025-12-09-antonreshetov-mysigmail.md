@@ -7,3 +7,5 @@ image: assets/antonreshetov_mysigmail_20251207_203121_221_20251207_203158_371d1c
 # [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail/)
 
 Open source email signature generator
+
+开源电子邮件签名生成器

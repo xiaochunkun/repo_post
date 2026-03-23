@@ -7,3 +7,5 @@ image: assets/llaoj_gcopy_20251213_114528_532_20251213_114551_44d363.png
 # [llaoj/gcopy](https://github.com/llaoj/gcopy/)
 
 Synchronizes clipboard text, screenshots, and files across devices
+
+跨设备同步剪贴板文本、截图和文件

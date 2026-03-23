@@ -7,3 +7,5 @@ image: assets/liveblocks_liveblocks_20260305_013416_326_20260305_013600_51a5ad.p
 # [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks)
 
 Infrastructure for collaboration between people and AI in applications
+
+应用程序中人与AI协作的基础设施

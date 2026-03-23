@@ -7,3 +7,5 @@ image: assets/CaviraOSS_PageLM_20251219_213154_015_20251219_213216_07b3a5.png
 # [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM/)
 
 Converts study materials into interactive resources
+
+将学习材料转换为交互式资源

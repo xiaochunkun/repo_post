@@ -7,3 +7,5 @@ image: assets/Valkyrie00_bold_brew_20260212_030841_659_20260212_030901_124fa6.pn
 # [Valkyrie00/bold-brew](https://github.com/Valkyrie00/bold-brew)
 
 Terminal interface for Homebrew package management
+
+Homebrew包管理的终端界面

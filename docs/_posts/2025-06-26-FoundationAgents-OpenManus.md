@@ -7,3 +7,5 @@ image: assets/FoundationAgents_OpenManus_cropped.png
 # [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
 
 AI framework for task execution
+
+用于任务执行的AI框架

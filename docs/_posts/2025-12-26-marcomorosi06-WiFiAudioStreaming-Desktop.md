@@ -7,3 +7,5 @@ image: assets/marcomorosi06_WiFiAudioStreaming_Desktop_20251225_091040_343_20251
 # [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop/)
 
 Streams audio between devices over a local network
+
+在本地网络上设备间流式传输音频

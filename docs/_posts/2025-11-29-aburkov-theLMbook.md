@@ -7,3 +7,5 @@ image: assets/aburkov_theLMbook_20251126_104500_651_20251129_022315_a4ec3f--2025
 # [aburkov/theLMbook](https://github.com/aburkov/theLMbook/)
 
 PyTorch code for language modeling book
+
+语言建模书籍的PyTorch代码

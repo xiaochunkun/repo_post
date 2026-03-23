@@ -7,3 +7,5 @@ image: assets/firstcontributions_first_contributions_20251228_133127_293_2025122
 # [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions/)
 
 Guide for open source contributions
+
+开源贡献指南

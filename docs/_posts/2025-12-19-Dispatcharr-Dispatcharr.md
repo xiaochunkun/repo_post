@@ -7,3 +7,5 @@ image: assets/Dispatcharr_Dispatcharr_20251217_234900_466_20251217_234918_44a231
 # [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr/)
 
 Manages IPTV streams and EPG data
+
+管理 IPTV 流和 EPG 数据

@@ -7,3 +7,5 @@ image: assets/Adewagold_nginx_server_manager_20251111_041033_961_20251111_150223
 # [Adewagold/nginx-server-manager](https://github.com/Adewagold/nginx-server-manager/)
 
 Web interface for Nginx site and SSL management
+
+用于Nginx站点和SSL管理的Web界面

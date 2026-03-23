@@ -7,3 +7,5 @@ image: assets/agam_space_agam_space_20260114_042203_664_20260114_042218_d70df6.p
 # [agam-space/agam-space](https://github.com/agam-space/agam-space)
 
 Self-hosted file storage with zero-knowledge encryption
+
+零知识加密的自托管文件存储

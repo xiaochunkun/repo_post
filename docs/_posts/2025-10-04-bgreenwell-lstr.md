@@ -7,3 +7,5 @@ image: assets/20251003T232209388--bgreenwell--lstr--20251003T232452181--cropped.
 # [bgreenwell/lstr](https://github.com/bgreenwell/lstr)
 
 minimalist Rust tool for viewing directory trees, supports interactive mode and git integration
+
+用于查看目录树的简约 Rust 工具，支持交互模式和 Git 集成

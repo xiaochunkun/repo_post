@@ -7,3 +7,5 @@ image: assets/mainframecomputer_fullmoon_ios_20251115_063815_904_20251117_033522
 # [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios/)
 
 iOS app to chat with local large language models
+
+与本地大语言模型聊天的 iOS 应用

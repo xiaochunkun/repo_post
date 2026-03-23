@@ -7,3 +7,5 @@ image: assets/antiwork_gumroad_cropped.png
 # [antiwork/gumroad](https://github.com/antiwork/gumroad)
 
 Gumroad's open-source automation tools
+
+Gumroad 的开源自动化工具

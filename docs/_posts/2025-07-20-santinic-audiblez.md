@@ -7,3 +7,5 @@ image: assets/santinic_audiblez_cropped.png
 # [santinic/audiblez](https://github.com/santinic/audiblez)
 
 convert epub ebooks into m4b audiobooks using text-to-speech
+
+使用文本转语音将epub电子书转换为m4b有声书

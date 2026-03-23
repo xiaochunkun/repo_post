@@ -7,3 +7,5 @@ image: assets/HappyCerberus_book_cpp_algorithms_20251123_194159_355_20251125_012
 # [HappyCerberus/book-cpp-algorithms](https://github.com/HappyCerberus/book-cpp-algorithms/)
 
 LaTeX source and code samples for C++ algorithms book
+
+C++ 算法书籍的 LaTeX 源码和代码示例

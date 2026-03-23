@@ -7,3 +7,5 @@ image: assets/benjamin_awd_monopoly_20260115_212853_381_20260115_212907_c694cd.p
 # [benjamin-awd/monopoly](https://github.com/benjamin-awd/monopoly)
 
 CLI tool for turning bank statement PDFs into CSV files
+
+将银行对账单 PDF 转换为 CSV 文件的 CLI 工具

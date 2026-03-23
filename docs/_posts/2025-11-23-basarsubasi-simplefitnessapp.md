@@ -7,3 +7,5 @@ image: assets/basarsubasi_simplefitnessapp_20251122_171806_140_20251123_001249_0
 # [basarsubasi/simplefitnessapp](https://github.com/basarsubasi/simplefitnessapp/)
 
 Creates, schedules and tracks workouts locally
+
+本地创建、安排和跟踪锻炼

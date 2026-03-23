@@ -7,3 +7,5 @@ image: assets/tavily_ai_meeting_prep_agent_20260108_133055_373_20260108_133109_9
 # [tavily-ai/meeting-prep-agent](https://github.com/tavily-ai/meeting-prep-agent)
 
 Researches meeting attendees via Google Calendar and Tavily
+
+通过Google Calendar和Tavily研究会议参与者

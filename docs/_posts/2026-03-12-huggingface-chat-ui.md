@@ -7,3 +7,5 @@ image: assets/huggingface_chat_ui_20260226_053330_434_20260226_053508_f0d3a5.png
 # [huggingface/chat-ui](https://github.com/huggingface/chat-ui)
 
 Interface for LLMs with OpenAI-compatible APIs
+
+OpenAI兼容API的LLM界面

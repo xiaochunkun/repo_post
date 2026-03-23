@@ -7,3 +7,5 @@ image: assets/kakoni_awesome_healthcare_20260203_071417_843_20260203_071440_76c1
 # [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare)
 
 Directory of open source healthcare software and resources
+
+开源医疗软件和资源目录

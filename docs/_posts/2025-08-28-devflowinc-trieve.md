@@ -7,3 +7,5 @@ image: assets/20250822T015607342--devflowinc--trieve--20250827T223533100--croppe
 # [devflowinc/trieve](https://github.com/devflowinc/trieve)
 
 AI-powered search, recommendations, and RAG API toolkit
+
+AI 驱动的搜索、推荐和 RAG API 工具包

@@ -7,3 +7,5 @@ image: assets/dweiss_proguard_20260131_042137_786_20260131_042215_c2d51f.png
 # [dweiss/proguard](https://github.com/dweiss/proguard)
 
 Shrinks and obfuscates Java bytecode
+
+压缩和混淆 Java 字节码

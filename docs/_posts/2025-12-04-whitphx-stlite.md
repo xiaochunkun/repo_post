@@ -7,3 +7,5 @@ image: assets/whitphx_stlite_20251201_100625_071_20251201_100700_00a794.png
 # [whitphx/stlite](https://github.com/whitphx/stlite/)
 
 Serverless Streamlit running entirely in browsers
+
+完全在浏览器中运行的无服务器 Streamlit

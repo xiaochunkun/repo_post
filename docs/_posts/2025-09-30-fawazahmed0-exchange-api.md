@@ -7,3 +7,5 @@ image: assets/20250930T001849153--fawazahmed0--exchange-api--20250930T002220694-
 # [fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api)
 
 API for exchange rates, 200+ currencies, crypto and metals, no rate limits
+
+汇率 API，覆盖 200 多种货币、加密货币和贵金属，无速率限制

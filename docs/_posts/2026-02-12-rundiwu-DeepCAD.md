@@ -7,3 +7,5 @@ image: assets/rundiwu_DeepCAD_20260211_085439_811_20260211_085507_247775.png
 # [rundiwu/DeepCAD](https://github.com/rundiwu/DeepCAD)
 
 Generates CAD models from sketch and extrusion sequences
+
+从草图和挤出序列生成 CAD 模型

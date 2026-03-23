@@ -7,3 +7,5 @@ image: assets/daaku_whispy_20251202_225501_079_20251202_225531_665b8b.png
 # [daaku/whispy](https://github.com/daaku/whispy/)
 
 Speech-to-text typing for Linux/Wayland using Whisper
+
+使用 Whisper 在 Linux/Wayland 上进行语音转文本输入

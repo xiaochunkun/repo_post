@@ -7,3 +7,5 @@ image: assets/20250831T025127637--goravel--goravel--20250831T030131089--cropped.
 # [goravel/goravel](https://github.com/goravel/goravel)
 
 Go web framework inspired by Laravel
+
+受 Laravel 启发的 Go Web 框架

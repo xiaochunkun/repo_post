@@ -7,3 +7,5 @@ image: assets/CyberAlbSecOP_Awesome_GPT_Super_Prompting_cropped.png
 # [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
 
 ChatGPT jailbreaks, prompt leaks, and AI prompt engineering tricks
+
+ChatGPT越狱、提示泄露和AI提示工程技巧

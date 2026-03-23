@@ -7,3 +7,5 @@ image: assets/jacob_bd_notebooklm_mcp_cli_20260222_103842_264_20260222_103909_a4
 # [jacob-bd/notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli)
 
 Terminal and MCP server access to NotebookLM
+
+通过终端和 MCP 服务器访问 NotebookLM

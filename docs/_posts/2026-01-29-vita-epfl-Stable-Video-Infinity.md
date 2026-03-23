@@ -7,3 +7,5 @@ image: assets/vita_epfl_Stable_Video_Infinity_20260129_010927_194_20260129_01100
 # [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity)
 
 Generates videos of infinite length with error recycling
+
+通过错误回收生成无限长度视频

@@ -7,3 +7,5 @@ image: assets/heroui-inc_heroui_cropped.png
 # [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
 
 React UI library for building interfaces with Tailwind CSS and React Aria
+
+使用Tailwind CSS和React Aria构建界面的React UI库

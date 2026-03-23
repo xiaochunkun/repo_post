@@ -7,3 +7,5 @@ image: assets/20250908T091653230--JimmyLv--awesome-nano-banana--20250908T0923360
 # [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
 
 Showcase of Gemini Nano Banana AI image edits and creative prompt cases
+
+Gemini Nano Banana AI 图像编辑和创意提示词案例展示

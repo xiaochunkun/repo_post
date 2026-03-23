@@ -7,3 +7,5 @@ image: assets/20250918T222423241--Nicholas-L-Johnson--flip-card--20250919T013438
 # [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card)
 
 business card that runs a fluid simulation
+
+运行流体模拟的名片

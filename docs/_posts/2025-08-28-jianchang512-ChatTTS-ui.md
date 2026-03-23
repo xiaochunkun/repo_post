@@ -7,3 +7,5 @@ image: assets/20250827T100420732--jianchang512--ChatTTS-ui--20250827T100741107--
 # [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui)
 
 web UI for ChatTTS text-to-speech with API support
+
+ChatTTS 文本转语音的 Web 界面，带 API 支持

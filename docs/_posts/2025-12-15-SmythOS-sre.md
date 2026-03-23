@@ -7,3 +7,5 @@ image: assets/SmythOS_sre_20251213_082540_065_20251213_082649_7d436d.png
 # [SmythOS/sre](https://github.com/SmythOS/sre/)
 
 Operating system abstractions for AI agents
+
+用于AI代理的操作系统抽象层

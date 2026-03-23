@@ -7,3 +7,5 @@ image: assets/Runixe786_NThing_UI_20260209_143002_501_20260209_143042_540171.png
 # [Runixe786/NThing-UI](https://github.com/Runixe786/NThing-UI)
 
 Rainmeter widgets for Windows desktops
+
+Windows桌面的Rainmeter小部件

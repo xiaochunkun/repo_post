@@ -7,3 +7,5 @@ image: assets/20250822T024037484--livekit--agents--20250822T024638028--cropped.p
 # [livekit/agents](https://github.com/livekit/agents)
 
 build real-time voice agents that join calls and chat
+
+构建可加入通话和聊天的实时语音智能体

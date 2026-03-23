@@ -7,3 +7,5 @@ image: assets/derek_larson14_obsidian_claude_sidebar_20260308_170420_251_2026030
 # [derek-larson14/obsidian-claude-sidebar](https://github.com/derek-larson14/obsidian-claude-sidebar)
 
 Claude Code interface in Obsidian sidebar
+
+Obsidian 侧边栏中的 Claude Code 界面

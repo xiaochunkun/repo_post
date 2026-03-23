@@ -7,3 +7,5 @@ image: assets/Fission_AI_OpenSpec_20260122_010547_437_20260122_010603_b47d8f.png
 # [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
 Aligns humans and AI assistants through development based on specifications
+
+基于规范开发，对齐人类和AI助手

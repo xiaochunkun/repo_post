@@ -7,3 +7,5 @@ image: assets/joseluis9595_lovelace-navbar-card_cropped.png
 # [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card)
 
 Custom Home Assistant navbar card for mobile and desktop
+
+自定义Home Assistant导航栏卡片，支持移动和桌面

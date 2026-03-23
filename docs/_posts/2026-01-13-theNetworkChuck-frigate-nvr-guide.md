@@ -7,3 +7,5 @@ image: assets/theNetworkChuck_frigate_nvr_guide_20260111_180426_624_20260111_180
 # [theNetworkChuck/frigate-nvr-guide](https://github.com/theNetworkChuck/frigate-nvr-guide)
 
 Local surveillance with object detection
+
+带对象检测的本地监控

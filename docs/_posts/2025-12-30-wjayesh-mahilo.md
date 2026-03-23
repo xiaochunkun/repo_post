@@ -7,3 +7,5 @@ image: assets/wjayesh_mahilo_20251228_105329_039_20251228_105345_e8c739.png
 # [wjayesh/mahilo](https://github.com/wjayesh/mahilo/)
 
 Framework for multi-agent systems with human oversight
+
+支持人工监督的多智能体系统框架

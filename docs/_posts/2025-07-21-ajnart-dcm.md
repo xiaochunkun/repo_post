@@ -7,3 +7,5 @@ image: assets/ajnart_dcm_cropped.png
 # [ajnart/dcm](https://github.com/ajnart/dcm)
 
 make docker-compose files for your home server
+
+为家庭服务器创建docker-compose文件

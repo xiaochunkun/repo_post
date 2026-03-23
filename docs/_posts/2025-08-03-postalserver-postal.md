@@ -7,3 +7,5 @@ image: assets/postalserver_postal_cropped.png
 # [postalserver/postal](https://github.com/postalserver/postal)
 
 open source mail server for websites and apps
+
+网站和应用的开源邮件服务器

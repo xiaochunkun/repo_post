@@ -7,3 +7,5 @@ image: assets/CooperJiang_PixelPunk_20251219_233658_752_20251219_233716_60e8d0.p
 # [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk/)
 
 Image hosting platform with AI tagging and vector search
+
+集成 AI 标签和向量搜索的图片托管平台

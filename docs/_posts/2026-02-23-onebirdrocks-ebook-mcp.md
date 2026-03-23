@@ -7,3 +7,5 @@ image: assets/onebirdrocks_ebook_mcp_20260222_000313_863_20260222_000328_a20558.
 # [onebirdrocks/ebook-mcp](https://github.com/onebirdrocks/ebook-mcp)
 
 MCP server for chatting with EPUB and PDF files
+
+用于与 EPUB 和 PDF 文件聊天的 MCP 服务器

@@ -7,3 +7,5 @@ image: assets/HackingLZ_gibson_20260313_144609_811_20260313_144958_0d4be7.png
 # [HackingLZ/gibson](https://github.com/HackingLZ/gibson)
 
 Maps process-to-network connections and detects beaconing
+
+映射进程到网络连接并检测信标

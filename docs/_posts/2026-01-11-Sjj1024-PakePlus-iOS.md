@@ -7,3 +7,5 @@ image: assets/Sjj1024_PakePlus_iOS_20260111_044225_497_20260111_044312_03c215.pn
 # [Sjj1024/PakePlus-iOS](https://github.com/Sjj1024/PakePlus-iOS)
 
 Converts websites into desktop and mobile apps under 5MB
+
+将网站转换为5MB以下的桌面和移动应用

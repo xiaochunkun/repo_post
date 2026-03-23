@@ -7,3 +7,5 @@ image: assets/FireRedTeam_FireRedTTS2_20251125_031208_760_20251127_163731_f68cb3
 # [FireRedTeam/FireRedTTS2](https://github.com/FireRedTeam/FireRedTTS2/)
 
 Long-form streaming TTS for multi-speaker dialogue
+
+用于多说话人对话的长文本流式 TTS

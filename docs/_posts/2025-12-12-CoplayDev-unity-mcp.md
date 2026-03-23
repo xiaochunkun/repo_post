@@ -7,3 +7,5 @@ image: assets/CoplayDev_unity_mcp_20251209_044326_667_20251209_044349_91201b.png
 # [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp/)
 
 MCP server for Unity Editor actions
+
+Unity Editor操作的MCP服务器

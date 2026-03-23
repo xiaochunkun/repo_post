@@ -7,3 +7,5 @@ image: assets/20250911T014841980--huggingface--text-embeddings-inference--202509
 # [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)
 
 Fast text embeddings inference server for popular open source models
+
+热门开源模型的快速文本 Embedding 推理服务器

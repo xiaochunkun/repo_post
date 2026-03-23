@@ -7,3 +7,5 @@ image: assets/eleweek_inside_python_dict_cropped.png
 # [eleweek/inside_python_dict](https://github.com/eleweek/inside_python_dict)
 
 code and interactive explanation showing how python dict works
+
+展示Python字典工作原理的代码和交互式解释

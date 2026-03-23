@@ -7,3 +7,5 @@ image: assets/Bronya0_Kafka_King_20251027_191610_948_20251028_091439_f7cf8a--202
 # [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King/)
 
 Kafka GUI client for desktop systems
+
+适用于桌面系统的 Kafka GUI 客户端

@@ -7,3 +7,5 @@ image: assets/ChanMeng666_server_google_news_20260112_121933_550_20260112_121947
 # [ChanMeng666/server-google-news](https://github.com/ChanMeng666/server-google-news)
 
 Google News search for Claude via SerpAPI
+
+通过SerpAPI为Claude提供Google新闻搜索

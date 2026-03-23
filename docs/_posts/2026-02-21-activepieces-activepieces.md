@@ -7,3 +7,5 @@ image: assets/activepieces_activepieces_20260220_100152_998_20260220_100213_185e
 # [activepieces/activepieces](https://github.com/activepieces/activepieces)
 
 Open source automation for AI agents and workflows
+
+AI 代理和工作流的开源自动化

@@ -7,3 +7,5 @@ image: assets/scanopy_scanopy_20260129_020444_677_20260129_020535_1fc1b7.png
 # [scanopy/scanopy](https://github.com/scanopy/scanopy)
 
 Maps network hosts and services into interactive diagrams
+
+将网络主机和服务映射为交互式图表

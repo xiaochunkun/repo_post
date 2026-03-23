@@ -7,3 +7,5 @@ image: assets/edward-playground_aidefense-framework_cropped.png
 # [edward-playground/aidefense-framework](https://github.com/edward-playground/aidefense-framework)
 
 AI security framework for defense systems
+
+AI 安全框架，用于防御系统

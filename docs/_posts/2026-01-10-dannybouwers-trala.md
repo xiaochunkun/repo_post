@@ -7,3 +7,5 @@ image: assets/dannybouwers_trala_20260108_152254_554_20260108_152309_8f2d91.png
 # [dannybouwers/trala](https://github.com/dannybouwers/trala)
 
 Dashboard for Traefik services with auto-discovery
+
+Traefik服务仪表板，支持自动发现

@@ -7,3 +7,5 @@ image: assets/langchain_ai_langmem_20260321_123900_423_20260321_123946_ec62c6.pn
 # [langchain-ai/langmem](https://github.com/langchain-ai/langmem)
 
 Adaptive long-term agent memory
+
+自适应长期代理记忆

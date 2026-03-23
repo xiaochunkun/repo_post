@@ -7,3 +7,5 @@ image: assets/sigridjineth_muvera-py_cropped.png
 # [sigridjineth/muvera-py](https://github.com/sigridjineth/muvera-py)
 
 Python code for fast multi-vector retrieval with FDE
+
+使用FDE进行快速多向量检索的Python代码

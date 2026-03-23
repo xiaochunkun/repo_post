@@ -7,3 +7,5 @@ image: assets/ionic_team_capacitor_20260223_123658_897_20260223_123728_3dc6b6.pn
 # [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
 
 Builds native apps with JavaScript
+
+用JavaScript构建原生应用

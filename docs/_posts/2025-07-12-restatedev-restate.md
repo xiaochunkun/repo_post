@@ -7,3 +7,5 @@ image: assets/restatedev_restate_cropped.png
 # [restatedev/restate](https://github.com/restatedev/restate)
 
 platform for building resilient, fault-tolerant apps with workflows, orchestration, and async tasks
+
+用于构建具有工作流、编排和异步任务的弹性、容错应用的平台

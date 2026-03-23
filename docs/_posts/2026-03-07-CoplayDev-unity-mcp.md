@@ -7,3 +7,5 @@ image: assets/CoplayDev_unity_mcp_20260205_202710_838_20260205_202741_5cbdd2.png
 # [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
 
 Bridges AI assistants to Unity via Model Context Protocol
+
+通过 Model Context Protocol 桥接 AI 助手到 Unity

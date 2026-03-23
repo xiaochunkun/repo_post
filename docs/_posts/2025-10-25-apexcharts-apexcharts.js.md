@@ -7,3 +7,5 @@ image: assets/apexcharts_apexcharts_js_20251025_004004_803_20251025_004841_efec8
 # [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js/)
 
 JavaScript library for interactive charts
+
+交互式图表的JavaScript库

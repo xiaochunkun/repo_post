@@ -7,3 +7,5 @@ image: assets/suzgunmirac_dynamic_cheatsheet_20251123_190437_377_20251124_184833
 # [suzgunmirac/dynamic-cheatsheet](https://github.com/suzgunmirac/dynamic-cheatsheet/)
 
 Gives language models memory during inference
+
+在推理过程中为语言模型提供记忆

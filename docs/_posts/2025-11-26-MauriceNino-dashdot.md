@@ -7,3 +7,5 @@ image: assets/MauriceNino_dashdot_20251124_234105_889_20251125_224704_11f926--20
 # [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot/)
 
 Server dashboard with glassmorphism design
+
+采用玻璃态设计的服务器仪表板

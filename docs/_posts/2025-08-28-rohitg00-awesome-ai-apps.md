@@ -7,3 +7,5 @@ image: assets/20250827T221219153--rohitg00--awesome-ai-apps--20250827T221633197-
 # [rohitg00/awesome-ai-apps](https://github.com/rohitg00/awesome-ai-apps)
 
 curated list of practical AI agents and generative apps
+
+实用 AI 智能体和生成式应用精选列表

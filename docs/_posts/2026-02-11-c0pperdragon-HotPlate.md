@@ -7,3 +7,5 @@ image: assets/c0pperdragon_HotPlate_20260205_232446_724_20260205_232510_186679.p
 # [c0pperdragon/HotPlate](https://github.com/c0pperdragon/HotPlate)
 
 Soldering heater using PCB traces for temperature sensing
+
+使用PCB走线进行温度检测的焊接加热器

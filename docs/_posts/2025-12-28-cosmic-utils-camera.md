@@ -7,3 +7,5 @@ image: assets/cosmic_utils_camera_20251227_104850_551_20251227_104910_2d984a.png
 # [cosmic-utils/camera](https://github.com/cosmic-utils/camera/)
 
 Camera application for the COSMIC desktop environment
+
+COSMIC 桌面环境的相机应用

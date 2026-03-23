@@ -7,3 +7,5 @@ image: assets/Tencent_Hunyuan_ArtifactsBenchmark_20251110_142218_564_20251110_14
 # [Tencent-Hunyuan/ArtifactsBenchmark](https://github.com/Tencent-Hunyuan/ArtifactsBenchmark/)
 
 Benchmark for visual-interactive LLM code generation
+
+用于视觉交互式LLM代码生成的基准测试

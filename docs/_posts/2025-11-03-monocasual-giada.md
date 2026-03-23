@@ -7,3 +7,5 @@ image: assets/monocasual_giada_20251031_093937_738_20251102_211042_f5772b--20251
 # [monocasual/giada](https://github.com/monocasual/giada/)
 
 Music production tool for DJs and live performers
+
+DJ与现场表演者音乐制作工具

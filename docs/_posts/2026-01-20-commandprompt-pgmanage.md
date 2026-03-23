@@ -7,3 +7,5 @@ image: assets/commandprompt_pgmanage_20260119_165619_681_20260119_165633_40db7d.
 # [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage)
 
 Database client for PostgreSQL, MariaDB, and SQLite
+
+PostgreSQL、MariaDB和SQLite的数据库客户端

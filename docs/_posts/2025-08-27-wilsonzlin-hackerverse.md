@@ -7,3 +7,5 @@ image: assets/20250825T034404983--wilsonzlin--hackerverse--20250826T032439887--c
 # [wilsonzlin/hackerverse](https://github.com/wilsonzlin/hackerverse)
 
 semantic map and sentiment analysis for Hacker News posts
+
+Hacker News 帖子的语义地图和情感分析

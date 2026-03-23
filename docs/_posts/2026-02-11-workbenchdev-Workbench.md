@@ -7,3 +7,5 @@ image: assets/workbenchdev_Workbench_20260204_203449_512_20260204_203521_c6d7a0.
 # [workbenchdev/Workbench](https://github.com/workbenchdev/Workbench)
 
 Prototypes GNOME applications with live previews
+
+带实时预览的 GNOME 应用原型工具

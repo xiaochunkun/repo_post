@@ -7,3 +7,5 @@ image: assets/uncSoft_anubis_oss_20260212_175638_507_20260212_175838_38516a.png
 # [uncSoft/anubis-oss](https://github.com/uncSoft/anubis-oss)
 
 Benchmarks local LLMs with hardware telemetry on macOS
+
+在macOS上通过硬件遥测基准测试本地LLM

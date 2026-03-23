@@ -7,3 +7,5 @@ image: assets/tiimgreen_github-cheat-sheet_cropped.png
 # [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 Git and GitHub commands, tips, and shortcuts collected in one place
+
+Git和GitHub命令、技巧和快捷方式的汇总

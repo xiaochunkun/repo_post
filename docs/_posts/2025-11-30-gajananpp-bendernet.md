@@ -7,3 +7,5 @@ image: assets/gajananpp_bendernet_20251127_172059_678_20251129_023045_edd3aa--20
 # [gajananpp/bendernet](https://github.com/gajananpp/bendernet/)
 
 Client-side SLM chatbot with structured output
+
+客户端 SLM 聊天机器人，支持结构化输出

@@ -7,3 +7,5 @@ image: assets/20250925T214339537--jesec--flood--20250926T001710624--cropped.png
 # [jesec/flood](https://github.com/jesec/flood)
 
 web UI for managing and monitoring multiple torrent clients
+
+用于管理和监控多个 torrent 客户端的 Web UI

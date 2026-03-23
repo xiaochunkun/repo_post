@@ -7,3 +7,5 @@ image: assets/ballred_obsidian_claude_pkm_20251223_001249_383_20251223_001306_52
 # [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm/)
 
 Personal knowledge management system with AI agents and hooks
+
+集成AI代理和hooks的个人知识管理系统

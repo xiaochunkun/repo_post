@@ -7,3 +7,5 @@ image: assets/angolo40_GLiNet_HomeAssistant_20260103_073711_910_20260103_073735_
 # [angolo40/GLiNet_HomeAssistant](https://github.com/angolo40/GLiNet_HomeAssistant/)
 
 Manages routers through Home Assistant dashboard
+
+通过 Home Assistant 仪表板管理路由器

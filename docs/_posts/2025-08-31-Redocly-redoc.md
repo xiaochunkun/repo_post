@@ -7,3 +7,5 @@ image: assets/20250830T153339704--Redocly--redoc--20250830T173153470--cropped.pn
 # [Redocly/redoc](https://github.com/Redocly/redoc)
 
 OpenAPI docs generator with a three-panel layout
+
+三栏布局的 OpenAPI 文档生成器

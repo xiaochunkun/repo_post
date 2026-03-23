@@ -7,3 +7,5 @@ image: assets/ErikBjare_gptme_cropped.png
 # [ErikBjare/gptme](https://github.com/ErikBjare/gptme)
 
 AI assistant for terminal with coding and system tools
+
+终端 AI 助手，支持编码和系统工具

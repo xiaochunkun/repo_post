@@ -7,3 +7,5 @@ image: assets/creativetimofficial_notus_svelte_20260105_204247_546_20260105_2043
 # [creativetimofficial/notus-svelte](https://github.com/creativetimofficial/notus-svelte/)
 
 UI kit and admin dashboard for Tailwind CSS and Svelte
+
+Tailwind CSS 和 Svelte 的 UI 套件和管理仪表板

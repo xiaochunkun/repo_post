@@ -7,3 +7,5 @@ image: assets/git_town_git_town_20251205_041048_430_20251205_041109_52898f.png
 # [git-town/git-town](https://github.com/git-town/git-town/)
 
 Automates Git branch management workflows
+
+自动化 Git 分支管理工作流

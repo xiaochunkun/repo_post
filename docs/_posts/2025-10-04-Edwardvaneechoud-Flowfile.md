@@ -7,3 +7,5 @@ image: assets/20251003T231045647--Edwardvaneechoud--Flowfile--20251003T231356285
 # [Edwardvaneechoud/Flowfile](https://github.com/Edwardvaneechoud/Flowfile)
 
 Visual ETL tool with drag-and-drop interface powered by Polars dataframes
+
+基于 Polars 数据框架的拖放式可视化 ETL 工具

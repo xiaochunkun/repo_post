@@ -7,3 +7,5 @@ image: assets/Moosync_Moosync_20251025_115324_836_20251025_224355_fba53e--202510
 # [Moosync/Moosync](https://github.com/Moosync/Moosync/)
 
 Desktop music player that integrates with Spotify
+
+集成 Spotify 的桌面音乐播放器

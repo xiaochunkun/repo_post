@@ -7,3 +7,5 @@ image: assets/neigebaie_shadcn-ui-tree-view_cropped.png
 # [neigebaie/shadcn-ui-tree-view](https://github.com/neigebaie/shadcn-ui-tree-view)
 
 Tree view component for Shadcn-UI
+
+Shadcn-UI 的树视图组件

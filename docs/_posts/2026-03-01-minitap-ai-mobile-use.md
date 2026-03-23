@@ -7,3 +7,5 @@ image: assets/minitap_ai_mobile_use_20260228_161524_863_20260228_161714_971fcb.p
 # [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
 
 AI agent for phone automation via natural language
+
+通过自然语言自动化手机的 AI 代理

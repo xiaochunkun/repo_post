@@ -7,3 +7,5 @@ image: assets/vercel_geist-font_cropped.png
 # [vercel/geist-font](https://github.com/vercel/geist-font)
 
 modern sans-serif and mono fonts for web and code
+
+适用于 Web 和代码的现代无衬线和等宽字体

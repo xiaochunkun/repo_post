@@ -7,3 +7,5 @@ image: assets/lbr38_motion_UI_20260120_020931_342_20260120_020945_3edd68.png
 # [lbr38/motion-UI](https://github.com/lbr38/motion-UI)
 
 Web interface for NVR management and camera streams
+
+用于NVR管理和摄像头流的Web界面

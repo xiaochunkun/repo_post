@@ -7,3 +7,5 @@ image: assets/20251016T010156825--JordanKnott--taskcafe--20251016T045405807--cro
 # [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe)
 
 kanban board project management you can self-host
+
+可自托管的看板项目管理工具

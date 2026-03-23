@@ -7,3 +7,5 @@ image: assets/hyprwm_Hyprland_cropped.png
 # [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 
 Dynamic Wayland tiling compositor
+
+动态 Wayland 平铺合成器

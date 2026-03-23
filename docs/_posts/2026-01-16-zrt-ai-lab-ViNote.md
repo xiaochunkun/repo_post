@@ -7,3 +7,5 @@ image: assets/zrt_ai_lab_ViNote_20260115_131145_154_20260115_131201_355c01.png
 # [zrt-ai-lab/ViNote](https://github.com/zrt-ai-lab/ViNote)
 
 Converts videos into notes and mind maps through dialogue
+
+通过对话将视频转换为笔记和思维导图

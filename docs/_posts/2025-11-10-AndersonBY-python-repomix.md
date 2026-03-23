@@ -7,3 +7,5 @@ image: assets/AndersonBY_python_repomix_20251109_231936_409_20251109_235423_5ccf
 # [AndersonBY/python-repomix](https://github.com/AndersonBY/python-repomix/)
 
 Packs a code repository into a single file for LLMs
+
+将代码仓库打包成单个文件供LLM使用

@@ -7,3 +7,5 @@ image: assets/gliderlabs_sshfront_20251126_002248_509_20251128_213717_91ec35--20
 # [gliderlabs/sshfront](https://github.com/gliderlabs/sshfront/)
 
 Controls SSH connections via scripts
+
+通过脚本控制SSH连接

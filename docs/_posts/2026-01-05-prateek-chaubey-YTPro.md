@@ -7,3 +7,5 @@ image: assets/prateek_chaubey_YTPro_20260103_235100_619_20260103_235117_1e7e5f.p
 # [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro/)
 
 YouTube client with Gemini integration and background playback
+
+集成Gemini和后台播放的YouTube客户端

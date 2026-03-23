@@ -7,3 +7,5 @@ image: assets/muhammedikinci_yapgan_20251113_234753_471_20251114_015959_735e48--
 # [muhammedikinci/yapgan](https://github.com/muhammedikinci/yapgan/)
 
 Self-host notes from websites with semantic search
+
+具有语义搜索的自托管网站笔记

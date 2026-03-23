@@ -7,3 +7,5 @@ image: assets/koekeishiya_yabai_cropped.png
 # [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
 
 yabai: tiling window manager for macOS using binary space partitioning
+
+yabai：使用二进制空间分区的macOS平铺窗口管理器

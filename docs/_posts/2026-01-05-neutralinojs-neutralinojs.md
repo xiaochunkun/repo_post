@@ -7,3 +7,5 @@ image: assets/neutralinojs_neutralinojs_20260104_040806_179_20260104_040822_b902
 # [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs/)
 
 Builds desktop applications with web technologies
+
+使用Web技术构建桌面应用

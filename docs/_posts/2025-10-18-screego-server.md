@@ -7,3 +7,5 @@ image: assets/screego_server_20251018_164511_237_20251018_181000--20251018T20100
 # [screego/server](https://github.com/screego/server/)
 
 Screen sharing for developers
+
+面向开发者的屏幕共享工具

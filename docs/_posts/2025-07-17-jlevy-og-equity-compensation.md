@@ -7,3 +7,5 @@ image: assets/jlevy_og-equity-compensation_cropped.png
 # [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation)
 
 guide to understanding startup equity, stock options, and RSUs
+
+理解初创公司股权、股票期权和 RSU 的指南

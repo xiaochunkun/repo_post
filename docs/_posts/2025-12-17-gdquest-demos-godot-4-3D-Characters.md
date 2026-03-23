@@ -7,3 +7,5 @@ image: assets/gdquest_demos_godot_4_3D_Characters_20251216_064511_150_20251216_0
 # [gdquest-demos/godot-4-3D-Characters](https://github.com/gdquest-demos/godot-4-3D-Characters/)
 
 Open-source 3D models for Godot 4
+
+Godot 4 的开源 3D 模型

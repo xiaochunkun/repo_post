@@ -7,3 +7,5 @@ image: assets/connochio_ambient_music_20251123_202638_080_20251125_214050_8b24d1
 # [connochio/ambient_music](https://github.com/connochio/ambient_music/)
 
 Home Assistant integration for playing ambient music
+
+用于播放环境音乐的 Home Assistant 集成

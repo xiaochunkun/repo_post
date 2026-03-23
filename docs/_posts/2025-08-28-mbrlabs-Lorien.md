@@ -7,3 +7,5 @@ image: assets/20250827T221341383--mbrlabs--Lorien--20250827T221751348--cropped.p
 # [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
 
 infinite canvas drawing and note-taking app
+
+无限画布绘图和笔记应用

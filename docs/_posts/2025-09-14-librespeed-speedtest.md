@@ -7,3 +7,5 @@ image: assets/20250912T171835920--librespeed--speedtest--20250912T172604837--cro
 # [librespeed/speedtest](https://github.com/librespeed/speedtest)
 
 self-hosted speed test for your network
+
+自托管网络速度测试

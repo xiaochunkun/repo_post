@@ -7,3 +7,5 @@ image: assets/nstephens_glowworm_20251119_110309_795_20251120_003311_8e484c--202
 # [nstephens/glowworm](https://github.com/nstephens/glowworm/)
 
 Turns a Raspberry Pi into a portrait photo display
+
+将树莓派变为肖像照片显示器

@@ -7,3 +7,5 @@ image: assets/apecloud_myduckserver_20251106_030003_957_20251106_133616_3bfd1c--
 # [apecloud/myduckserver](https://github.com/apecloud/myduckserver/)
 
 Server for DuckDB with MySQL and Postgres protocols
+
+支持 MySQL 和 Postgres 协议的 DuckDB 服务器

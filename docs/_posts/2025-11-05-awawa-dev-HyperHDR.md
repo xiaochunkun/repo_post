@@ -7,3 +7,5 @@ image: assets/awawa_dev_HyperHDR_20251105_054024_365_20251105_123732_460d92--202
 # [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR/)
 
 Open-source ambient lighting system for TVs and music
+
+用于电视和音乐的开源环境光系统

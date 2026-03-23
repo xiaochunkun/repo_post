@@ -7,3 +7,5 @@ image: assets/20250831T022245705--PrestaShop--PrestaShop--20250831T030103178--cr
 # [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop)
 
 open source ecommerce platform for building online shops
+
+用于搭建在线商城的开源电商平台

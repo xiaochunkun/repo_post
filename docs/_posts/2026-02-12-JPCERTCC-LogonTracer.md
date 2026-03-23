@@ -7,3 +7,5 @@ image: assets/JPCERTCC_LogonTracer_20260204_030012_302_20260204_030038_7be55f.pn
 # [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer)
 
 Visualizes Windows event logs as graphs
+
+将Windows事件日志可视化为图表

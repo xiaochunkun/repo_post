@@ -7,3 +7,5 @@ image: assets/Doctave_doctave_20251031_054705_657_20251031_210439_f51db0--202510
 # [Doctave/doctave](https://github.com/Doctave/doctave/)
 
 Documentation site generator with built-in search and diagrams
+
+内置搜索和图表的文档站点生成器

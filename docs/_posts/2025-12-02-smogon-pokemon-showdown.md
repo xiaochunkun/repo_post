@@ -7,3 +7,5 @@ image: assets/smogon_pokemon_showdown_20251201_021134_938_20251201_021217_40dd64
 # [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown/)
 
 Simulates Pokémon battles in JavaScript
+
+用 JavaScript 模拟宝可梦对战

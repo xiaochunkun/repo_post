@@ -7,3 +7,5 @@ image: assets/yusing_godoxy_cropped.png
 # [yusing/godoxy](https://github.com/yusing/godoxy)
 
 Reverse proxy for Docker and other services with web UI, automation tools, and traffic control
+
+用于Docker和其他服务的反向代理，带Web UI、自动化工具和流量控制

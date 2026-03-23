@@ -7,3 +7,5 @@ image: assets/walterra_eddoapp_20260212_190206_700_20260212_190300_3c98e5.png
 # [walterra/eddoapp](https://github.com/walterra/eddoapp)
 
 Task management and time tracking with agent integration
+
+任务管理和时间追踪，集成代理

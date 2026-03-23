@@ -7,3 +7,5 @@ image: assets/Codegres_com_Simple_Whatsapp_API_20251213_125020_640_20251213_1250
 # [Codegres-com/Simple-Whatsapp-API](https://github.com/Codegres-com/Simple-Whatsapp-API/)
 
 Multi-session API for sending WhatsApp messages and attachments
+
+用于发送WhatsApp消息和附件的多会话API

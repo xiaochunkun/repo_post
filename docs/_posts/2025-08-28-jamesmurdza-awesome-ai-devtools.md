@@ -7,3 +7,5 @@ image: assets/20250826T033230429--jamesmurdza--awesome-ai-devtools--20250826T033
 # [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools)
 
 curated list of AI-powered developer tools for coding, debugging, and automation
+
+AI 开发者工具精选列表，涵盖编码、调试和自动化

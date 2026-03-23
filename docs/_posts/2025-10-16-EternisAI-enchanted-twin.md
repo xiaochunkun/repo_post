@@ -7,3 +7,5 @@ image: assets/EternisAI_enchanted-twin--20251016T073945279--cropped.png
 # [EternisAI/enchanted-twin](https://github.com/EternisAI/enchanted-twin)
 
 personal AI assistant with local Ollama support
+
+个人 AI 助手，支持本地 Ollama

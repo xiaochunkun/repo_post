@@ -7,3 +7,5 @@ image: assets/20250914T191051765--erebe--wstunnel--20250914T191445785--cropped.p
 # [erebe/wstunnel](https://github.com/erebe/wstunnel)
 
 tunnel any traffic over websockets to bypass firewalls and proxies
+
+通过 WebSocket 隧道传输任何流量以绕过防火墙和代理

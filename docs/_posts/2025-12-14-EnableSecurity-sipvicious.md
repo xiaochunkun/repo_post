@@ -7,3 +7,5 @@ image: assets/EnableSecurity_sipvicious_20251213_043347_591_20251213_043412_dd69
 # [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious/)
 
 Audits SIP-based VoIP systems
+
+审计基于 SIP 的 VoIP 系统

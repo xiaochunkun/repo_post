@@ -7,3 +7,5 @@ image: assets/houmain_keymapper_20251111_200648_479_20251112_030214_aa4f8d--2025
 # [houmain/keymapper](https://github.com/houmain/keymapper/)
 
 Redefine keyboard shortcuts per application
+
+按应用程序重新定义键盘快捷键

@@ -7,3 +7,5 @@ image: assets/serpent213_reactor-ca_cropped.png
 # [serpent213/reactor-ca](https://github.com/serpent213/reactor-ca)
 
 Go CLI tool for managing homelab certificate authorities
+
+管理家庭实验室证书颁发机构的 Go CLI 工具

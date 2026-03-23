@@ -7,3 +7,5 @@ image: assets/kcenon_claude_code_agent_20260113_091150_419_20260113_091207_d449d
 # [kcenon/claude_code_agent](https://github.com/kcenon/claude_code_agent)
 
 Automates software development with Claude agents
+
+使用 Claude 代理自动化软件开发

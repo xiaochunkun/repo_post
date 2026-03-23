@@ -7,3 +7,5 @@ image: assets/20250918T040655028--jart--cosmopolitan--20250920T033026858--croppe
 # [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
 
 lets you build C/C++ apps that run on Linux, Mac, Windows, BSD, and BIOS
+
+让你构建可在Linux、Mac、Windows、BSD和BIOS上运行的C/C++应用

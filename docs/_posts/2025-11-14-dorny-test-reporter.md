@@ -7,3 +7,5 @@ image: assets/dorny_test_reporter_20251114_050919_210_20251114_162341_13ef11--20
 # [dorny/test-reporter](https://github.com/dorny/test-reporter/)
 
 GitHub Action to display test results directly in GitHub
+
+在GitHub中直接显示测试结果的GitHub Action

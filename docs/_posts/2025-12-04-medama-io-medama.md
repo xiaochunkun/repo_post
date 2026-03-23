@@ -7,3 +7,5 @@ image: assets/medama_io_medama_20251201_094709_853_20251201_094733_30f2bf.png
 # [medama-io/medama](https://github.com/medama-io/medama/)
 
 Self-hostable cookie-free website analytics
+
+可自托管、无cookie的网站分析工具

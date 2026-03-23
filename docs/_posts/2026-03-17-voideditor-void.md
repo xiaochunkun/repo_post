@@ -7,3 +7,5 @@ image: assets/voideditor_void_20260317_010325_672_20260317_010413_ad423c.png
 # [voideditor/void](https://github.com/voideditor/void)
 
 Open source Cursor alternative running local AI
+
+开源Cursor替代品，运行本地AI

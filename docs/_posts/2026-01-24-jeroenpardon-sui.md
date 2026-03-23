@@ -7,3 +7,5 @@ image: assets/jeroenpardon_sui_20260122_210107_777_20260122_210131_6e55c8.png
 # [jeroenpardon/sui](https://github.com/jeroenpardon/sui)
 
 Startpage for servers or browsers
+
+服务器或浏览器的起始页

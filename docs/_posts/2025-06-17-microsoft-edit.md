@@ -7,3 +7,5 @@ image: assets/microsoft_edit_cropped.png
 # [microsoft/edit](https://github.com/microsoft/edit)
 
 text editor inspired by MS-DOS Editor with basic modern controls
+
+受MS-DOS编辑器启发的文本编辑器，具有基本现代控件

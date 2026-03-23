@@ -7,3 +7,5 @@ image: assets/benavlabs_fastcrud_20251030_223828_606_20251030_234958_50692a--202
 # [benavlabs/fastcrud](https://github.com/benavlabs/fastcrud/)
 
 Async CRUD for FastAPI with auto-detected joins
+
+FastAPI 的异步 CRUD，支持自动检测连接

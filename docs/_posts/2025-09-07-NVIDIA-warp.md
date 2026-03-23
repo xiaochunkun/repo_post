@@ -7,3 +7,5 @@ image: assets/20250906T223926105--NVIDIA--warp--20250906T224034036--cropped.png
 # [NVIDIA/warp](https://github.com/NVIDIA/warp)
 
 Python framework for fast GPU simulation and graphics
+
+用于快速 GPU 仿真和图形的 Python 框架

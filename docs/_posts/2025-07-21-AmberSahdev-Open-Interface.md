@@ -7,3 +7,5 @@ image: assets/AmberSahdev_Open-Interface_cropped.png
 # [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)
 
 control your computer with AI using LLMs
+
+使用LLM通过AI控制计算机

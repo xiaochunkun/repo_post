@@ -7,3 +7,5 @@ image: assets/20251013T000219007--dbeaver--cloudbeaver--20251013T001206165--crop
 # [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver)
 
 web-based database manager with team features
+
+具有团队功能的基于 Web 的数据库管理器

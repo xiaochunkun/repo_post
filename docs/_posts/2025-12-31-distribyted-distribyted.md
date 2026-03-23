@@ -7,3 +7,5 @@ image: assets/distribyted_distribyted_20251230_064654_834_20251230_064713_e625fc
 # [distribyted/distribyted](https://github.com/distribyted/distribyted/)
 
 Torrent client as a filesystem
+
+将 Torrent 客户端作为文件系统

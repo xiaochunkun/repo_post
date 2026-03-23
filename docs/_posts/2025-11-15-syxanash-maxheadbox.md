@@ -7,3 +7,5 @@ image: assets/syxanash_maxheadbox_20251114_192252_322_20251115_035355_fb8516--20
 # [syxanash/maxheadbox](https://github.com/syxanash/maxheadbox/)
 
 Voice-activated LLM agent for a Raspberry Pi
+
+Raspberry Pi的语音激活LLM代理

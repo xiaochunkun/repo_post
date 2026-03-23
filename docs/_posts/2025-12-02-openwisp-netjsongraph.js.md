@@ -7,3 +7,5 @@ image: assets/openwisp_netjsongraph_js_20251201_024246_099_20251201_024314_95fb3
 # [openwisp/netjsongraph.js](https://github.com/openwisp/netjsongraph.js/)
 
 Visualizes network topology using NetJSON format
+
+使用 NetJSON 格式可视化网络拓扑

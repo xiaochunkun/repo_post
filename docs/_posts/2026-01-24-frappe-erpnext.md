@@ -7,3 +7,5 @@ image: assets/frappe_erpnext_20260124_041202_541_20260124_041228_227a4b.png
 # [frappe/erpnext](https://github.com/frappe/erpnext)
 
 Resource planning system for business operations
+
+企业运营的资源规划系统

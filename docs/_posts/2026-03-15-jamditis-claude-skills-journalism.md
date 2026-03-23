@@ -7,3 +7,5 @@ image: assets/jamditis_claude_skills_journalism_20260311_005212_607_20260311_005
 # [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism)
 
 Extends AI capabilities for media professionals
+
+扩展媒体专业人士的 AI 能力

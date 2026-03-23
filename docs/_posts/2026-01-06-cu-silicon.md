@@ -7,3 +7,5 @@ image: assets/cu_silicon_20260105_040222_316_20260105_040243_f08842.png
 # [cu/silicon](https://github.com/cu/silicon/)
 
 Knowledge base with bi-directional links
+
+具有双向链接的知识库

@@ -7,3 +7,5 @@ image: assets/usesend_useSend_20251111_192906_056_20251112_025031_f92ab4--202511
 # [usesend/useSend](https://github.com/usesend/useSend/)
 
 Self-hostable alternative to Resend and Sendgrid
+
+可自托管的 Resend 和 Sendgrid 替代方案

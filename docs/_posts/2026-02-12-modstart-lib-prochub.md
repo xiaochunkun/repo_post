@@ -7,3 +7,5 @@ image: assets/modstart_lib_prochub_20260208_220711_050_20260208_220746_33131c.pn
 # [modstart-lib/prochub](https://github.com/modstart-lib/prochub)
 
 Manages background processes across operating systems
+
+跨操作系统管理后台进程

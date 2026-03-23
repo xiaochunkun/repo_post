@@ -7,3 +7,5 @@ image: assets/MemTensor_HaluMem_20251204_215646_494_20251204_215719_d6317b.png
 # [MemTensor/HaluMem](https://github.com/MemTensor/HaluMem/)
 
 Benchmark for evaluating hallucinations in memory systems
+
+评估内存系统中幻觉的基准测试

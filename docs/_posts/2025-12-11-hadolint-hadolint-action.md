@@ -7,3 +7,5 @@ image: assets/hadolint_hadolint_action_20251209_001811_899_20251209_001848_37594
 # [hadolint/hadolint-action](https://github.com/hadolint/hadolint-action/)
 
 GitHub Action for Dockerfile linting
+
+用于Dockerfile代码检查的GitHub Action

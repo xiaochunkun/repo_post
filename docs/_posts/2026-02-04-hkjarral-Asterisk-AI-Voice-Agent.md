@@ -7,3 +7,5 @@ image: assets/hkjarral_Asterisk_AI_Voice_Agent_20260203_000927_192_20260203_0009
 # [hkjarral/Asterisk-AI-Voice-Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 Voice agent for Asterisk and FreePBX with modular pipeline architecture
+
+适用于 Asterisk 和 FreePBX 的模块化管道架构语音代理

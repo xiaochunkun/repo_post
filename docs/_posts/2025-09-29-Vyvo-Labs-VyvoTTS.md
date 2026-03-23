@@ -7,3 +7,5 @@ image: assets/20250929T015027750--Vyvo-Labs--VyvoTTS--20250929T020019470--croppe
 # [Vyvo-Labs/VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS)
 
 LLM-based text-to-speech training and voice cloning with multi-GPU support
+
+基于 LLM 的文本转语音训练和语音克隆，支持多 GPU

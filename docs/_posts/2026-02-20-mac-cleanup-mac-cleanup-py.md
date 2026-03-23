@@ -7,3 +7,5 @@ image: assets/mac_cleanup_mac_cleanup_py_20260210_130500_190_20260210_130541_62c
 # [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 
 Clears cache and logs on macOS
+
+清除 macOS 上的缓存和日志

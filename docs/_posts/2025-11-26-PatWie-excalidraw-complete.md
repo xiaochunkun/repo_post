@@ -7,3 +7,5 @@ image: assets/PatWie_excalidraw_complete_20251123_200649_572_20251125_012903_303
 # [PatWie/excalidraw-complete](https://github.com/PatWie/excalidraw-complete/)
 
 Self-hosts Excalidraw with a single Go binary
+
+使用单个 Go 二进制文件自托管 Excalidraw

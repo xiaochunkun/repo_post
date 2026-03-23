@@ -7,3 +7,5 @@ image: assets/hugomd_ascii_live_20251105_221109_988_20251106_001145_98624c--2025
 # [hugomd/ascii-live](https://github.com/hugomd/ascii-live/)
 
 Hosts curl-based animations for your terminal
+
+为终端托管基于 curl 的动画

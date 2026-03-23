@@ -7,3 +7,5 @@ image: assets/sherlock_project_sherlock_20260108_045129_267_20260108_045148_213f
 # [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
 Finds accounts by username across social networks
+
+在社交网络中按用户名查找账户

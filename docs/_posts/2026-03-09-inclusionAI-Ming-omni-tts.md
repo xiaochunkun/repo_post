@@ -7,3 +7,5 @@ image: assets/inclusionAI_Ming_omni_tts_20260305_112600_636_20260305_112743_0fb9
 # [inclusionAI/Ming-omni-tts](https://github.com/inclusionAI/Ming-omni-tts)
 
 Model for generation of speech and music with control over audio attributes
+
+生成语音和音乐的模型，可控制音频属性

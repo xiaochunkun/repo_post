@@ -7,3 +7,5 @@ image: assets/GoPlusSecurity_agentguard_20260212_161250_835_20260212_161340_c411
 # [GoPlusSecurity/agentguard](https://github.com/GoPlusSecurity/agentguard)
 
 Security layer for AI agents
+
+AI 代理的安全层

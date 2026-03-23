@@ -7,3 +7,5 @@ image: assets/jiweiyeah_Skills_Manager_20260321_013812_341_20260321_013901_854f0
 # [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager)
 
 Unified desktop app for managing AI coding assistant skills
+
+统一桌面应用，管理AI编码助手技能

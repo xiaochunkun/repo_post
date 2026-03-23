@@ -7,3 +7,5 @@ image: assets/Steam-Headless_docker-steam-headless_cropped.png
 # [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless)
 
 Run Steam games on a server without a screen
+
+在无屏幕服务器上运行 Steam 游戏

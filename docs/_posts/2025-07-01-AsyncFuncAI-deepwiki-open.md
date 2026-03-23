@@ -7,3 +7,5 @@ image: assets/AsyncFuncAI_deepwiki-open_cropped.png
 # [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
 
 AI tool that turns code repositories into wikis with docs, diagrams, and chat
+
+将代码仓库转换为包含文档、图表和聊天功能的wiki的AI工具

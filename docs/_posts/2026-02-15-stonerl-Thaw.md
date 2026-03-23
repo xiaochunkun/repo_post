@@ -7,3 +7,5 @@ image: assets/stonerl_Thaw_20260215_125107_888_20260215_125206_e19a57.png
 # [stonerl/Thaw](https://github.com/stonerl/Thaw)
 
 Hides and shows menu bar items on macOS
+
+在 macOS 上隐藏和显示菜单栏项目

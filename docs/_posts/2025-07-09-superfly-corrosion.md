@@ -7,3 +7,5 @@ image: assets/superfly_corrosion_cropped.png
 # [superfly/corrosion](https://github.com/superfly/corrosion)
 
 gossip-based service discovery using distributed SQLite
+
+基于 gossip 的服务发现，使用分布式 SQLite

@@ -7,3 +7,5 @@ image: assets/Nyr_wireguard_install_20251108_185732_470_20251108_190839_cc92eb--
 # [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install/)
 
 Sets up a WireGuard VPN server in one minute
+
+在一分钟内设置WireGuard VPN服务器

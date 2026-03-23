@@ -7,3 +7,5 @@ image: assets/crossbuildui_crossbuildui_cropped.png
 # [crossbuildui/crossbuildui](https://github.com/crossbuildui/crossbuildui)
 
 cross-platform build automation tools and scripts
+
+跨平台构建自动化工具和脚本

@@ -7,3 +7,5 @@ image: assets/munafio_chatify_20260122_081959_156_20260122_082016_e76df8.png
 # [munafio/chatify](https://github.com/munafio/chatify)
 
 Real-time chatting system for Laravel applications
+
+用于Laravel应用的实时聊天系统

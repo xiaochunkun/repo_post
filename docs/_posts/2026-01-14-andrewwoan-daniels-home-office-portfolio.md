@@ -7,3 +7,5 @@ image: assets/andrewwoan_daniels_home_office_portfolio_20260113_201257_738_20260
 # [andrewwoan/daniels-home-office-portfolio](https://github.com/andrewwoan/daniels-home-office-portfolio)
 
 3D portfolio with Blender files
+
+包含 Blender 文件的 3D 作品集

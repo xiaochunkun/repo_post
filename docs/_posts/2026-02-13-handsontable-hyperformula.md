@@ -7,3 +7,5 @@ image: assets/handsontable_hyperformula_20260210_041342_082_20260210_041430_150a
 # [handsontable/hyperformula](https://github.com/handsontable/hyperformula)
 
 Headless spreadsheet engine for business web apps
+
+商业 Web 应用的无头电子表格引擎

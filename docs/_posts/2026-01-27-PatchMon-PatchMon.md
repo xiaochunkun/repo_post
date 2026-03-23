@@ -7,3 +7,5 @@ image: assets/PatchMon_PatchMon_20260122_003813_430_20260122_003836_4c4c9a.png
 # [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon)
 
 Monitors and automates Linux patches across servers
+
+监控并自动化Linux服务器补丁

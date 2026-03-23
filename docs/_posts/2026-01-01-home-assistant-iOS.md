@@ -7,3 +7,5 @@ image: assets/home_assistant_iOS_20251231_212255_589_20251231_212310_04a920.png
 # [home-assistant/iOS](https://github.com/home-assistant/iOS/)
 
 Controls smart home devices from Apple platforms
+
+从Apple平台控制智能家居设备

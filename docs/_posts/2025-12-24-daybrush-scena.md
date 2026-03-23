@@ -7,3 +7,5 @@ image: assets/daybrush_scena_20251223_094811_323_20251223_094829_63240c.png
 # [daybrush/scena](https://github.com/daybrush/scena/)
 
 Editor for Scene.js timelines
+
+Scene.js时间线编辑器

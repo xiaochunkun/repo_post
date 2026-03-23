@@ -7,3 +7,5 @@ image: assets/Coral-Protocol_coral-server_cropped.png
 # [Coral-Protocol/coral-server](https://github.com/Coral-Protocol/coral-server)
 
 coral-server: implementation of the Coral protocol for agent communication and coordination
+
+coral-server：实现Coral协议，用于代理通信和协调

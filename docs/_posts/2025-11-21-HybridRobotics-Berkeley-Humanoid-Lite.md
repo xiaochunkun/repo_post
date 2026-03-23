@@ -7,3 +7,5 @@ image: assets/HybridRobotics_Berkeley_Humanoid_Lite_20251120_054109_639_20251121
 # [HybridRobotics/Berkeley-Humanoid-Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite/)
 
 Sub-$5,000 humanoid robot with 3D-printed gearboxes
+
+低于 5000 美元的人形机器人，配备 3D 打印变速箱

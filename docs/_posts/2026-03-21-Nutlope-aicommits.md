@@ -7,3 +7,5 @@ image: assets/Nutlope_aicommits_20260318_012528_759_20260318_012638_279bce.png
 # [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
 
 Generates git commit messages with AI
+
+用AI生成git提交消息

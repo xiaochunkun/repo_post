@@ -7,3 +7,5 @@ image: assets/chaisql_chai_20260203_000125_769_20260203_000154_d73bd2.png
 # [chaisql/chai](https://github.com/chaisql/chai)
 
 SQL database in Go with Postgres API
+
+Go 语言编写的 SQL 数据库，支持 Postgres API

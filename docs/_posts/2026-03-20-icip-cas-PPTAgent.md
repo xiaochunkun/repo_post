@@ -7,3 +7,5 @@ image: assets/icip_cas_PPTAgent_20260318_155719_132_20260318_155846_0f6a47.png
 # [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
 
 Generates PowerPoint presentations with agents
+
+使用代理生成 PowerPoint 演示文稿

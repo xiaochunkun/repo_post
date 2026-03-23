@@ -7,3 +7,5 @@ image: assets/AcerWang_scdDiagram_20260313_195001_857_20260313_195136_c8c867.png
 # [AcerWang/scdDiagram](https://github.com/AcerWang/scdDiagram)
 
 Generates substation diagrams from IEC 61850 files
+
+从IEC 61850文件生成变电站图

@@ -7,3 +7,5 @@ image: assets/slopus_happy_20260202_111118_914_20260202_111200_687057.png
 # [slopus/happy](https://github.com/slopus/happy)
 
 Client for Claude Code with encryption and voice
+
+支持加密和语音的Claude Code客户端

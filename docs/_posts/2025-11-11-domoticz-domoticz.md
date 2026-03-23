@@ -7,3 +7,5 @@ image: assets/domoticz_domoticz_20251111_030201_911_20251111_145206_2f0e3b--2025
 # [domoticz/domoticz](https://github.com/domoticz/domoticz/)
 
 Home automation system for monitoring and configuring devices
+
+监控和配置设备的家庭自动化系统

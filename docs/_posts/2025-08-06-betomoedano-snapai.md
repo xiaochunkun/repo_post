@@ -7,3 +7,5 @@ image: assets/betomoedano_snapai_cropped.png
 # [betomoedano/snapai](https://github.com/betomoedano/snapai)
 
 ai tool for creating app icons from prompts
+
+根据提示创建应用图标的 AI 工具

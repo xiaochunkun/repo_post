@@ -7,3 +7,5 @@ image: assets/steipete_goplaces_20260205_144953_267_20260205_145021_1eaccc.png
 # [steipete/goplaces](https://github.com/steipete/goplaces)
 
 Go client and CLI for the Google Places API
+
+Google Places API的Go客户端和CLI

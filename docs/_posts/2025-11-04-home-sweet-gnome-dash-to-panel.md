@@ -7,3 +7,5 @@ image: assets/home_sweet_gnome_dash_to_panel_20251031_163728_359_20251102_220354
 # [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel/)
 
 Combines Gnome's dash and top bar into a single panel
+
+将Gnome的Dash和顶栏合并为单一面板

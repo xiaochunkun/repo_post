@@ -7,3 +7,5 @@ image: assets/20250908T101203645--spaansba--ForesightJS--20250908T101328000--cro
 # [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS)
 
 predicts user intent to prefetch content for faster web navigation
+
+预测用户意图并预取内容，加速网页导航

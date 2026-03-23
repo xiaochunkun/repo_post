@@ -7,3 +7,5 @@ image: assets/protectai_llm_guard_20260311_050655_266_20260311_050821_551246.png
 # [protectai/llm-guard](https://github.com/protectai/llm-guard)
 
 Secures AI model interactions
+
+保护AI模型交互安全

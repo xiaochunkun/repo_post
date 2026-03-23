@@ -7,3 +7,5 @@ image: assets/cross_seed_cross_seed_20251204_212201_559_20251204_212223_6207f4.p
 # [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed/)
 
 Finds and downloads cross-seed torrents automatically
+
+自动查找和下载交叉种子torrent

@@ -7,3 +7,5 @@ image: assets/sevensolutions_traefik_oidc_auth_20251228_041322_404_20251228_0413
 # [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth/)
 
 Secures upstream services with OpenID Connect
+
+使用OpenID Connect保护上游服务

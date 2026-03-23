@@ -7,3 +7,5 @@ image: assets/SalesforceAIResearch_WALT_20251122_114023_144_20251122_221758_c973
 # [SalesforceAIResearch/WALT](https://github.com/SalesforceAIResearch/WALT/)
 
 Discovers tools from websites for LLM agents
+
+为 LLM 代理从网站发现工具

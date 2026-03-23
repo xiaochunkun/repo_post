@@ -7,3 +7,5 @@ image: assets/google_deepmind_dramatron_20260111_054326_698_20260111_054339_0606
 # [google-deepmind/dramatron](https://github.com/google-deepmind/dramatron)
 
 Generates scripts and screenplays from log lines
+
+从日志行生成脚本和剧本

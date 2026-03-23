@@ -7,3 +7,5 @@ image: assets/kingbootoshi_codex_orchestrator_20260308_194517_529_20260308_19463
 # [kingbootoshi/codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator)
 
 Delegates tasks to coding agents via tmux sessions
+
+通过tmux会话将任务委派给编码代理

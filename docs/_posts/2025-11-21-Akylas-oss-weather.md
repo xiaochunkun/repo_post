@@ -7,3 +7,5 @@ image: assets/Akylas_oss_weather_20251120_053120_750_20251120_195146_b620f6--202
 # [Akylas/oss-weather](https://github.com/Akylas/oss-weather/)
 
 Open source weather app for iOS and Android
+
+iOS和Android开源天气应用

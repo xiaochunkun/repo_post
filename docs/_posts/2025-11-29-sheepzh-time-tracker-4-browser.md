@@ -7,3 +7,5 @@ image: assets/sheepzh_time_tracker_4_browser_20251126_103625_523_20251129_022220
 # [sheepzh/time-tracker-4-browser](https://github.com/sheepzh/time-tracker-4-browser/)
 
 Browser extension tracks time spent on websites
+
+浏览器扩展跟踪网站使用时间

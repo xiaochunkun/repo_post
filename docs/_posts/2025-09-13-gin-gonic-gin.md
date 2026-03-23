@@ -7,3 +7,5 @@ image: assets/20250911T233547761--gin-gonic--gin--20250911T234859361--cropped.pn
 # [gin-gonic/gin](https://github.com/gin-gonic/gin)
 
 web framework for Go with fast routing and middleware support
+
+支持快速路由和中间件的 Go Web 框架

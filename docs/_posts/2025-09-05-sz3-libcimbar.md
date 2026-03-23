@@ -7,3 +7,5 @@ image: assets/20250905T020002485--sz3--libcimbar--20250905T020136024--cropped.pn
 # [sz3/libcimbar](https://github.com/sz3/libcimbar)
 
 transfer files using animated color barcodes and a camera
+
+通过彩色动态条码和摄像头传输文件

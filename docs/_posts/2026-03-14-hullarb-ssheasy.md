@@ -7,3 +7,5 @@ image: assets/hullarb_ssheasy_20260309_163801_183_20260309_164007_ce1622.png
 # [hullarb/ssheasy](https://github.com/hullarb/ssheasy)
 
 SSH and SFTP client in a browser via Go and WebAssembly
+
+通过Go和WebAssembly在浏览器中运行的SSH和SFTP客户端

@@ -7,3 +7,5 @@ image: assets/manaflow_ai_manaflow_20260322_180001_019_20260322_180330_310553.pn
 # [manaflow-ai/manaflow](https://github.com/manaflow-ai/manaflow)
 
 Parallel AI agent orchestration
+
+并行AI代理编排

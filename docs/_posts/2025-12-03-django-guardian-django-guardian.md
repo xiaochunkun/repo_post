@@ -7,3 +7,5 @@ image: assets/django_guardian_django_guardian_20251201_045921_996_20251201_04595
 # [django-guardian/django-guardian](https://github.com/django-guardian/django-guardian/)
 
 Per-object permissions for Django
+
+Django 的对象级权限管理

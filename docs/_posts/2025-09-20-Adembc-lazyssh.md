@@ -7,3 +7,5 @@ image: assets/20250915T232917201--Adembc--lazyssh--20250920T033312239--cropped.p
 # [Adembc/lazyssh](https://github.com/Adembc/lazyssh)
 
 Terminal SSH manager with fuzzy search and one-keypress connections
+
+具有模糊搜索和一键连接的终端SSH管理器

@@ -7,3 +7,5 @@ image: assets/pemistahl_lingua_rs_20251025_090326_133_20251025_102014_a824d1--20
 # [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs/)
 
 Language detection for short text without large ML frameworks
+
+无需大型ML框架的短文本语言检测

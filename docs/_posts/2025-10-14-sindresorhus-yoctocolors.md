@@ -7,3 +7,5 @@ image: assets/20251014T013854239--sindresorhus--yoctocolors--20251014T014732937-
 # [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors)
 
 tiny package for coloring terminal output
+
+用于终端输出着色的微型包

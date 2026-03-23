@@ -7,3 +7,5 @@ image: assets/dilshan_cmos_clock_20260207_192955_476_20260207_193013_050bc3.png
 # [dilshan/cmos-clock](https://github.com/dilshan/cmos-clock)
 
 24-hour clock using CMOS logic ICs without microcontrollers
+
+使用 CMOS 逻辑 IC 的 24 小时时钟，无需微控制器

@@ -7,3 +7,5 @@ image: assets/Hannibal046_Awesome-LLM_cropped.png
 # [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
 Curated list of large language model resources and papers
+
+精选的大型语言模型资源和论文列表

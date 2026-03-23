@@ -7,3 +7,5 @@ image: assets/fleetdm_fleet_cropped.png
 # [fleetdm/fleet](https://github.com/fleetdm/fleet)
 
 Manage Kubernetes clusters with GitOps
+
+使用 GitOps 管理 Kubernetes 集群

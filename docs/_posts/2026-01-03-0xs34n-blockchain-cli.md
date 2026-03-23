@@ -7,3 +7,5 @@ image: assets/0xs34n_blockchain_cli_20260102_151324_067_20260102_151339_789fe8.p
 # [0xs34n/blockchain-cli](https://github.com/0xs34n/blockchain-cli/)
 
 Blockchain interface for the command line
+
+命令行的区块链接口

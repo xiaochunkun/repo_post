@@ -7,3 +7,5 @@ image: assets/Scrut1ny_GrapheneOS_Guide_20260118_073422_124_20260118_073441_d9a1
 # [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide)
 
 Guide for privacy and security on mobile operating systems
+
+移动操作系统的隐私和安全指南

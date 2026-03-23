@@ -7,3 +7,5 @@ image: assets/20251012T025026420--Kwai-Kolors--Kolors--20251012T025542458--cropp
 # [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors)
 
 text-to-image generation model with strong support for Chinese and English prompts
+
+支持中英文提示的文本到图像生成模型

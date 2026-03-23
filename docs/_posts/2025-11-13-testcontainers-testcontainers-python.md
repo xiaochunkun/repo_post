@@ -7,3 +7,5 @@ image: assets/testcontainers_testcontainers_python_20251111_212702_328_20251112_
 # [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python/)
 
 Use Docker containers for testing
+
+使用Docker容器进行测试

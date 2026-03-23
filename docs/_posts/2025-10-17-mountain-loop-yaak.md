@@ -7,3 +7,5 @@ image: assets/screenshot_20251017_194744--20251017T214744745--cropped.png
 # [mountain-loop/yaak](https://github.com/mountain-loop/yaak/)
 
 Converts PDFs to structured text with table, handwriting, and multi-column support
+
+将PDF转换为结构化文本，支持表格、手写和多列

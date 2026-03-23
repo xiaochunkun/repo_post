@@ -7,3 +7,5 @@ image: assets/vercel_ai_elements_20251111_045103_019_20251111_151022_35ec03--202
 # [vercel/ai-elements](https://github.com/vercel/ai-elements/)
 
 React components for AI applications
+
+用于 AI 应用的 React 组件

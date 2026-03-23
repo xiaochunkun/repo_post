@@ -7,3 +7,5 @@ image: assets/Anjok07_ultimatevocalremovergui_20260108_023253_248_20260108_02330
 # [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
 
 Separates vocals from audio files using neural networks
+
+使用神经网络从音频文件中分离人声

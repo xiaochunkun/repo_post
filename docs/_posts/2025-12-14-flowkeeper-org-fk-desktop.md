@@ -7,3 +7,5 @@ image: assets/flowkeeper_org_fk_desktop_20251210_052103_403_20251210_052126_2da5
 # [flowkeeper-org/fk-desktop](https://github.com/flowkeeper-org/fk-desktop/)
 
 Pomodoro Technique desktop timer for power users
+
+高级用户番茄工作法桌面计时器

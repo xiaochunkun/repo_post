@@ -7,3 +7,5 @@ image: assets/20250816T004651850_stephenlacy_mathom--20250816T005054910--cropped
 # [stephenlacy/mathom](https://github.com/stephenlacy/mathom)
 
 Run and watch your own MCP servers locally with OAuth2 and a live dashboard
+
+本地运行和监控MCP服务器，支持OAuth2和实时仪表板

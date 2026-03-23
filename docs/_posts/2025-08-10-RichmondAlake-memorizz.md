@@ -7,3 +7,5 @@ image: assets/RichmondAlake_memorizz_cropped.png
 # [RichmondAlake/memorizz](https://github.com/RichmondAlake/memorizz)
 
 Python library for AI memory management
+
+用于 AI 内存管理的 Python 库

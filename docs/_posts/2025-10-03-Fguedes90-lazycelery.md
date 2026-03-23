@@ -7,3 +7,5 @@ image: assets/20251001T232518033--Fguedes90--lazycelery--20251001T233000137--cro
 # [Fguedes90/lazycelery](https://github.com/Fguedes90/lazycelery)
 
 terminal UI for monitoring and managing Celery workers and tasks
+
+终端UI，用于监控和管理Celery工作器和任务

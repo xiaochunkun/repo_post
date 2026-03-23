@@ -7,3 +7,5 @@ image: assets/OpenMOSS_MOSS-TTSD_cropped.png
 # [OpenMOSS/MOSS-TTSD](https://github.com/OpenMOSS/MOSS-TTSD)
 
 bilingual AI turns text into expressive dialogue speech
+
+双语 AI，将文本转换为富有表现力的对话语音

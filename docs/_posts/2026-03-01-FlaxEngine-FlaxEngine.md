@@ -7,3 +7,5 @@ image: assets/FlaxEngine_FlaxEngine_20260227_175254_495_20260227_175459_f9527e.p
 # [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
 
 Game engine written in C++ and C#
+
+用 C++ 和 C# 编写的游戏引擎

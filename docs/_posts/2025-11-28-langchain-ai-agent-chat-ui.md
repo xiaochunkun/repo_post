@@ -7,3 +7,5 @@ image: assets/langchain_ai_agent_chat_ui_20251125_045352_345_20251127_170409_5b2
 # [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui/)
 
 Next.js chat interface for LangGraph servers
+
+LangGraph 服务器的 Next.js 聊天界面

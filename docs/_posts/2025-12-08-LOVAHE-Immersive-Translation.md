@@ -7,3 +7,5 @@ image: assets/LOVAHE_Immersive_Translation_20251207_192902_581_20251207_192923_7
 # [LOVAHE/Immersive-Translation](https://github.com/LOVAHE/Immersive-Translation/)
 
 Translation extension for Chromium browsers
+
+Chromium 浏览器的翻译扩展

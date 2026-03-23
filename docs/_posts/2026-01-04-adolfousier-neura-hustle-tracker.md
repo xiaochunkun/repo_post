@@ -7,3 +7,5 @@ image: assets/adolfousier_neura_hustle_tracker_20260103_045834_692_20260103_0458
 # [adolfousier/neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker/)
 
 Terminal time tracker with charts
+
+带图表的终端时间追踪器

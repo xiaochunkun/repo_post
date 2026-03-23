@@ -7,3 +7,5 @@ image: assets/mlflow_mlflow_20260203_014207_413_20260203_014225_82f6c6.png
 # [mlflow/mlflow](https://github.com/mlflow/mlflow)
 
 Tracks experiments and manages models for machine learning
+
+跟踪实验并管理机器学习模型

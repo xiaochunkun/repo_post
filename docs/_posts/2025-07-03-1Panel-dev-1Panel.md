@@ -7,3 +7,5 @@ image: assets/1Panel-dev_1Panel_cropped.png
 # [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 
 1Panel is a server management tool for Linux
+
+1Panel是一个用于Linux的服务器管理工具

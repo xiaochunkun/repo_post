@@ -7,3 +7,5 @@ image: assets/coinbase_onchainkit_20260116_200255_828_20260116_200310_ac41d7.png
 # [coinbase/onchainkit](https://github.com/coinbase/onchainkit)
 
 React components for onchain apps
+
+用于链上应用的 React 组件

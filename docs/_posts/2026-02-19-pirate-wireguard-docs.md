@@ -7,3 +7,5 @@ image: assets/pirate_wireguard_docs_20260212_085422_045_20260212_085442_eb5edb.p
 # [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs)
 
 Documentation for the VPN protocol
+
+VPN协议的文档

@@ -7,3 +7,5 @@ image: assets/maxritter_claude_pilot_20260211_041044_303_20260211_041106_4e2436.
 # [maxritter/claude-pilot](https://github.com/maxritter/claude-pilot)
 
 Enforces tests and preserves context for AI coding
+
+强制执行测试并保留 AI 编码的上下文

@@ -7,3 +7,5 @@ image: assets/EdoStra_Marketing_for_Founders_20260210_150117_692_20260210_150137
 # [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders)
 
 Marketing resources for startup founders
+
+初创企业创始人的营销资源

@@ -7,3 +7,5 @@ image: assets/FareedKhan-dev_all-rag-techniques_cropped.png
 # [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques)
 
 Collection of code examples for different Retrieval-Augmented Generation (RAG) methods
+
+不同检索增强生成（RAG）方法的代码示例集合

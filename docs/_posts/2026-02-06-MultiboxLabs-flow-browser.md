@@ -7,3 +7,5 @@ image: assets/MultiboxLabs_flow_browser_20260204_212948_654_20260204_213015_2e6d
 # [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser)
 
 Electron browser with Chrome extension support
+
+支持Chrome扩展的Electron浏览器

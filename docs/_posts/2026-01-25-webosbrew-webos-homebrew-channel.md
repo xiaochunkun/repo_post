@@ -7,3 +7,5 @@ image: assets/webosbrew_webos_homebrew_channel_20260111_114012_401_20260111_1140
 # [webosbrew/webos-homebrew-channel](https://github.com/webosbrew/webos-homebrew-channel)
 
 Homebrew store and root tooling for webOS TVs
+
+webOS电视Homebrew商店和root工具

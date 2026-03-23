@@ -7,3 +7,5 @@ image: assets/trallnag_prometheus_fastapi_instrumentator_20251125_002004_236_202
 # [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator/)
 
 Configurable Prometheus instrumentation for FastAPI
+
+可配置的 FastAPI Prometheus 仪表化工具

@@ -7,3 +7,5 @@ image: assets/stpnwf_ZestyTheme_20251125_045658_813_20251127_170425_3c9523--2025
 # [stpnwf/ZestyTheme](https://github.com/stpnwf/ZestyTheme/)
 
 Theme for Jellyfin media server
+
+Jellyfin媒体服务器主题

@@ -7,3 +7,5 @@ image: assets/20250919T020611196--mistralai--cookbook--20250919T021958965--cropp
 # [mistralai/cookbook](https://github.com/mistralai/cookbook)
 
 Examples for using Mistral AI models, APIs, and features in Jupyter notebooks
+
+在Jupyter笔记本中使用Mistral AI模型、API和功能的示例

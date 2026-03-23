@@ -7,3 +7,5 @@ image: assets/clemcer_loggifly_cropped.png
 # [clemcer/loggifly](https://github.com/clemcer/loggifly)
 
 monitors docker logs for keywords, sends notifications
+
+监控 Docker 日志中的关键词并发送通知

@@ -7,3 +7,5 @@ image: assets/20250829T042152738--grzegorzk--vscode_in_podman--20250829T04281882
 # [grzegorzk/vscode_in_podman](https://github.com/grzegorzk/vscode_in_podman)
 
 run vscode in podman containers without root
+
+在 Podman 容器中无 Root 运行 VS Code

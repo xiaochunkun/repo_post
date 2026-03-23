@@ -7,3 +7,5 @@ image: assets/ollm_OpenComic_20251127_190749_734_20251130_070751_57f63a--2025113
 # [ollm/OpenComic](https://github.com/ollm/OpenComic/)
 
 Comic and manga reader written with Node.js
+
+使用 Node.js 编写的漫画和漫画阅读器

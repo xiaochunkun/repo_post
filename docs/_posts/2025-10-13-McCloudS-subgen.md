@@ -7,3 +7,5 @@ image: assets/20251013T001603928--McCloudS--subgen--20251013T002218533--cropped.
 # [McCloudS/subgen](https://github.com/McCloudS/subgen)
 
 auto-generate subtitles for Plex, Jellyfin, or Emby using AI
+
+使用 AI 为 Plex、Jellyfin 或 Emby 自动生成字幕

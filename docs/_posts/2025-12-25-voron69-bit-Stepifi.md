@@ -7,3 +7,5 @@ image: assets/voron69_bit_Stepifi_20251223_234427_331_20251223_234446_62bdf0.png
 # [voron69-bit/Stepifi](https://github.com/voron69-bit/Stepifi/)
 
 Converts STL mesh files to STEP solid format
+
+将 STL 网格文件转换为 STEP 实体格式

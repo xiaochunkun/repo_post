@@ -7,3 +7,5 @@ image: assets/coolcoala_clash_verge_rev_lite_20251222_191148_415_20251222_191215
 # [coolcoala/clash-verge-rev-lite](https://github.com/coolcoala/clash-verge-rev-lite/)
 
 Proxy client for desktop based on Tauri and Rust
+
+基于Tauri和Rust的桌面代理客户端

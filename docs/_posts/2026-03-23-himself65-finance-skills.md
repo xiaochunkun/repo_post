@@ -7,3 +7,5 @@ image: assets/himself65_finance_skills_20260322_234250_933_20260322_234353_9ab99
 # [himself65/finance-skills](https://github.com/himself65/finance-skills)
 
 Agent skills for financial analysis and trading
+
+用于金融分析与交易的智能体技能

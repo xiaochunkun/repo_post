@@ -7,3 +7,5 @@ image: assets/OmarSalah26_Awesome_Arabic_AI_20260204_221706_663_20260204_221726_
 # [OmarSalah26/Awesome-Arabic-AI](https://github.com/OmarSalah26/Awesome-Arabic-AI)
 
 Centralizes open-source Arabic LLMs and datasets
+
+集中开源阿拉伯语LLM和数据集

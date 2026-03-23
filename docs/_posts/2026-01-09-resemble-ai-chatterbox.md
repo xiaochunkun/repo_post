@@ -7,3 +7,5 @@ image: assets/resemble_ai_chatterbox_20260108_024037_241_20260108_024050_a09d3d.
 # [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
 
 TTS models with paralinguistic tags
+
+带有副语言标签的TTS模型

@@ -7,3 +7,5 @@ image: assets/HectorPulido_pequeroku_20251130_070614_515_20251130_085033_a1522f-
 # [HectorPulido/pequeroku](https://github.com/HectorPulido/pequeroku/)
 
 Self-hosted Codespaces alternative with real VMs
+
+使用真实虚拟机的自托管Codespaces替代方案

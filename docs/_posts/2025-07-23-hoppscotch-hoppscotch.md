@@ -7,3 +7,5 @@ image: assets/hoppscotch_hoppscotch_cropped.png
 # [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
 web-based API testing and collaboration tool
+
+基于Web的API测试和协作工具

@@ -7,3 +7,5 @@ image: assets/20250814T031054514_roe-ai_vectorless--20250815T024609486--cropped.
 # [roe-ai/vectorless](https://github.com/roe-ai/vectorless)
 
 PDF chatbot using LLMs, no vectors or server storage
+
+使用LLM的PDF聊天机器人，无需向量或服务器存储

@@ -7,3 +7,5 @@ image: assets/Tencent-Hunyuan_Hunyuan3D-2.1_cropped.png
 # [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)
 
 turns images into detailed 3D models with realistic textures
+
+将图像转换为具有逼真纹理的详细 3D 模型

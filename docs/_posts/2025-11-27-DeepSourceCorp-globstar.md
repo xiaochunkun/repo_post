@@ -7,3 +7,5 @@ image: assets/DeepSourceCorp_globstar_20251125_024151_130_20251127_162651_d1f547
 # [DeepSourceCorp/globstar](https://github.com/DeepSourceCorp/globstar/)
 
 Static analysis toolkit using tree-sitter
+
+使用 tree-sitter 的静态分析工具包

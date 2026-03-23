@@ -7,3 +7,5 @@ image: assets/20250829T023830497--jinghaihan--vsxpub--20250829T030829990--croppe
 # [jinghaihan/vsxpub](https://github.com/jinghaihan/vsxpub)
 
 CLI for publishing VS Code extensions to Marketplace, OpenVSX, and GitHub
+
+VS Code 扩展发布 CLI，支持 Marketplace、OpenVSX 和 GitHub

@@ -7,3 +7,5 @@ image: assets/hyprwm_Hyprland_cropped.png
 # [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 
 Wayland compositor with dynamic tiling window management
+
+具有动态平铺窗口管理的Wayland合成器

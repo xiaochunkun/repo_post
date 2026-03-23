@@ -7,3 +7,5 @@ image: assets/cenodude_CrossWatch_20260122_150756_876_20260122_150814_dd7476.png
 # [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch)
 
 Syncs media data across servers and trackers
+
+服务器和追踪器媒体数据同步工具

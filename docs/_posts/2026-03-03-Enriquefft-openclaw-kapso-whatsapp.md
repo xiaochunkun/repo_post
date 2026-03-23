@@ -7,3 +7,5 @@ image: assets/Enriquefft_openclaw_kapso_whatsapp_20260303_114115_725_20260303_11
 # [Enriquefft/openclaw-kapso-whatsapp](https://github.com/Enriquefft/openclaw-kapso-whatsapp)
 
 Connects AI agents to WhatsApp via official API
+
+通过官方API将AI代理连接到WhatsApp

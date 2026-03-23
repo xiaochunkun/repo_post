@@ -7,3 +7,5 @@ image: assets/XAMPPRocky_tokei_cropped.png
 # [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
 
 counts lines of code in projects
+
+统计项目中的代码行数

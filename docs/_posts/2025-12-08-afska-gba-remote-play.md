@@ -7,3 +7,5 @@ image: assets/afska_gba_remote_play_20251207_190106_073_20251207_190132_e5fffc.p
 # [afska/gba-remote-play](https://github.com/afska/gba-remote-play/)
 
 Streams Raspberry Pi games to GBA
+
+将Raspberry Pi游戏流式传输到GBA

@@ -7,3 +7,5 @@ image: assets/unslothai_unsloth_cropped.png
 # [unslothai/unsloth](https://github.com/unslothai/unsloth)
 
 toolkit for finetuning large language models like Llama and Mistral on your own machine
+
+用于在本地机器上微调大型语言模型如Llama和Mistral的工具包

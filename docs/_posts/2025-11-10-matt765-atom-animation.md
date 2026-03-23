@@ -7,3 +7,5 @@ image: assets/matt765_atom_animation_20251110_124134_223_20251110_131348_2170bd-
 # [matt765/atom-animation](https://github.com/matt765/atom-animation/)
 
 Visualize and build atomic structures in 3D
+
+3D可视化和构建原子结构

@@ -7,3 +7,5 @@ image: assets/davepoon_buildwithclaude_20260212_110527_382_20260212_110554_a6112
 # [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude)
 
 Marketplace for Claude Code plugins
+
+Claude Code 插件市场

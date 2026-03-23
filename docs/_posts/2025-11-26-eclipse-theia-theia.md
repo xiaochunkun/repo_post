@@ -7,3 +7,5 @@ image: assets/eclipse_theia_theia_20251123_202842_527_20251125_214122_05e2d5--20
 # [eclipse-theia/theia](https://github.com/eclipse-theia/theia/)
 
 Cloud and desktop IDE framework in TypeScript
+
+基于 TypeScript 的云和桌面 IDE 框架

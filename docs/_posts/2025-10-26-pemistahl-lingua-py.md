@@ -7,3 +7,5 @@ image: assets/pemistahl_lingua_py_20251025_091520_531_20251025_102731_3c3417--20
 # [pemistahl/lingua-py](https://github.com/pemistahl/lingua-py/)
 
 Language detection for short or mixed-language text
+
+用于短文本或混合语言文本的语言检测

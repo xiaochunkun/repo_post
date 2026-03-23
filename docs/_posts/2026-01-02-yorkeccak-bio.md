@@ -7,3 +7,5 @@ image: assets/yorkeccak_bio_20260101_163655_373_20260101_163714_7f8442.png
 # [yorkeccak/bio](https://github.com/yorkeccak/bio/)
 
 Chat interface for biomedical research
+
+生物医学研究的聊天界面

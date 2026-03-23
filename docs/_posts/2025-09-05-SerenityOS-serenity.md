@@ -7,3 +7,5 @@ image: assets/20250904T000500373--SerenityOS--serenity--20250904T000958302--crop
 # [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
 
 90s-style Unix-like OS for modern PCs
+
+面向现代 PC 的 90 年代风格类 Unix 操作系统

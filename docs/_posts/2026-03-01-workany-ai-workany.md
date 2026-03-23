@@ -7,3 +7,5 @@ image: assets/workany_ai_workany_20260223_202437_568_20260223_202505_281927.png
 # [workany-ai/workany](https://github.com/workany-ai/workany)
 
 Desktop agent for task execution and workspace management
+
+桌面代理用于任务执行和工作空间管理

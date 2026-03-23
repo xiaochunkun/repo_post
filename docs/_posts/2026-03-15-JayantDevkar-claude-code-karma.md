@@ -7,3 +7,5 @@ image: assets/JayantDevkar_claude_code_karma_20260302_043101_841_20260302_043236
 # [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma)
 
 Dashboard for Claude Code sessions
+
+Claude Code 会话的仪表板

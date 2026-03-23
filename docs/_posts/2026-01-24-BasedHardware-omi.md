@@ -7,3 +7,5 @@ image: assets/BasedHardware_omi_20260122_111940_509_20260122_111959_6333e5.png
 # [BasedHardware/omi](https://github.com/BasedHardware/omi)
 
 Wearable for transcription and summaries
+
+转录和摘要可穿戴设备

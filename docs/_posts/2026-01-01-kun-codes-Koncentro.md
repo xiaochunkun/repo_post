@@ -7,3 +7,5 @@ image: assets/kun_codes_Koncentro_20251231_183541_367_20251231_183629_f32c2f.png
 # [kun-codes/Koncentro](https://github.com/kun-codes/Koncentro/)
 
 Combines Pomodoro technique with task management and website blocking
+
+结合番茄工作法与任务管理和网站屏蔽

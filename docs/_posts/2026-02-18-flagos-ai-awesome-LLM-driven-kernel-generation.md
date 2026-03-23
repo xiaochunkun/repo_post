@@ -7,3 +7,5 @@ image: assets/flagos_ai_awesome_LLM_driven_kernel_generation_20260207_072226_421
 # [flagos-ai/awesome-LLM-driven-kernel-generation](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation)
 
 Automates GPU kernel generation with LLMs and agents
+
+使用 LLM 和代理自动化 GPU 内核生成

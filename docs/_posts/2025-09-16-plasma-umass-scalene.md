@@ -7,3 +7,5 @@ image: assets/20250915T234257186--plasma-umass--scalene--20250915T235525642--cro
 # [plasma-umass/scalene](https://github.com/plasma-umass/scalene)
 
 CPU, GPU, and memory profiling for Python with AI-powered optimization tips
+
+Python 的 CPU、GPU 和内存性能分析工具，提供 AI 驱动的优化建议

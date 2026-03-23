@@ -7,3 +7,5 @@ image: assets/Dicklesworthstone_mcp_agent_mail_rust_20260308_180547_091_20260308
 # [Dicklesworthstone/mcp_agent_mail_rust](https://github.com/Dicklesworthstone/mcp_agent_mail_rust)
 
 Coordination layer for AI coding agents via MCP server
+
+通过MCP服务器协调AI编码代理

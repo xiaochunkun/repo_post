@@ -7,3 +7,5 @@ image: assets/exa-labs_company-researcher_cropped.png
 # [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher)
 
 get deep info on any company fast
+
+快速获取任何公司的深度信息

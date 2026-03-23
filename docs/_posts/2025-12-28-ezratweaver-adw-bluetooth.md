@@ -7,3 +7,5 @@ image: assets/ezratweaver_adw_bluetooth_20251226_163256_916_20251226_163320_f848
 # [ezratweaver/adw-bluetooth](https://github.com/ezratweaver/adw-bluetooth/)
 
 Bluetooth manager for tiling window managers
+
+平铺窗口管理器的蓝牙管理器

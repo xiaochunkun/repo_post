@@ -7,3 +7,5 @@ image: assets/20250822T024831789--dani-garcia--vaultwarden--20250822T025442596--
 # [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
 self-hosted Bitwarden-compatible password manager in Rust
+
+Rust 编写的自托管 Bitwarden 兼容密码管理器

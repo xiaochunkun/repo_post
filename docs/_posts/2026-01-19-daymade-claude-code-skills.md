@@ -7,3 +7,5 @@ image: assets/daymade_claude_code_skills_20260116_113842_108_20260116_113857_f53
 # [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills)
 
 Marketplace for Claude Code skills
+
+Claude Code 技能市场

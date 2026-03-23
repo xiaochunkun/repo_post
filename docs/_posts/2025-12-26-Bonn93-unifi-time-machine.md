@@ -7,3 +7,5 @@ image: assets/Bonn93_unifi_time_machine_20251225_054742_569_20251225_054800_fbc5
 # [Bonn93/unifi-time-machine](https://github.com/Bonn93/unifi-time-machine/)
 
 Generates timelapse videos from UniFi Protect cameras
+
+从 UniFi Protect 摄像头生成延时视频

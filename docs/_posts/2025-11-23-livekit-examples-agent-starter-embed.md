@@ -7,3 +7,5 @@ image: assets/livekit_examples_agent_starter_embed_20251122_185455_296_20251123_
 # [livekit-examples/agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed/)
 
 Embeds AI voice assistants into websites
+
+将AI语音助手嵌入网站

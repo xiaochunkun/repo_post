@@ -7,3 +7,5 @@ image: assets/Azure_Stormspotter_20251123_184702_352_20251124_184409_79c1b7--202
 # [Azure/Stormspotter](https://github.com/Azure/Stormspotter/)
 
 Generates attack graphs of Azure resources
+
+生成 Azure 资源的攻击图

@@ -7,3 +7,5 @@ image: assets/kbanc85_claudia_20260309_105749_184_20260309_110007_999e56.png
 # [kbanc85/claudia](https://github.com/kbanc85/claudia)
 
 AI assistant tracks relationships and commitments in terminal
+
+在终端中跟踪关系和承诺的AI助手

@@ -7,3 +7,5 @@ image: assets/winglang_wing_20251031_133752_527_20251101_205754_b68807--20251101
 # [winglang/wing](https://github.com/winglang/wing/)
 
 Programming language for cloud infrastructure and application code
+
+用于云基础设施和应用代码的编程语言

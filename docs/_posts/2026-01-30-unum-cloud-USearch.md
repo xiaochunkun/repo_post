@@ -7,3 +7,5 @@ image: assets/unum_cloud_USearch_20260130_042308_721_20260130_042347_dd1f32.png
 # [unum-cloud/USearch](https://github.com/unum-cloud/USearch)
 
 Vector search engine for many languages
+
+支持多种语言的向量搜索引擎

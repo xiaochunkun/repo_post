@@ -7,3 +7,5 @@ image: assets/marcelo_earth_generative_manim_20251224_220109_683_20251224_220159
 # [marcelo-earth/generative-manim](https://github.com/marcelo-earth/generative-manim/)
 
 Generates videos from text using LLMs and Manim
+
+使用 LLM 和 Manim 从文本生成视频

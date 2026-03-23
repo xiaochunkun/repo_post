@@ -7,3 +7,5 @@ image: assets/StarRocks_starrocks_cropped.png
 # [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 
 real-time analytics with high-speed MPP database
+
+高速MPP数据库的实时分析

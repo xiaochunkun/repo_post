@@ -7,3 +7,5 @@ image: assets/detailyang_awesome-cheatsheet_cropped.png
 # [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 
 List of programming, dev tools, and platform cheatsheets in one place
+
+一站式编程、开发工具和平台速查表列表

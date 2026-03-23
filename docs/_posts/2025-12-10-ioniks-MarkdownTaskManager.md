@@ -7,3 +7,5 @@ image: assets/ioniks_MarkdownTaskManager_20251207_221735_958_20251207_221758_295
 # [ioniks/MarkdownTaskManager](https://github.com/ioniks/MarkdownTaskManager/)
 
 Kanban board for local Markdown files
+
+本地 Markdown 文件的看板板

@@ -7,3 +7,5 @@ image: assets/frappe_erpnext_cropped.png
 # [frappe/erpnext](https://github.com/frappe/erpnext)
 
 open source ERP for business management and automation
+
+用于业务管理和自动化的开源ERP

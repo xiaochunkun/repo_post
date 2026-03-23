@@ -7,3 +7,5 @@ image: assets/jp_Hermes_Proxy_20260201_053903_673_20260201_053947_d014ed.png
 # [jp/Hermes-Proxy](https://github.com/jp/Hermes-Proxy)
 
 Intercepts traffic and replays requests via Electron
+
+通过Electron拦截流量并重放请求

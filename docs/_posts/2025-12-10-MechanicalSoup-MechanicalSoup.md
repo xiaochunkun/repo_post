@@ -7,3 +7,5 @@ image: assets/MechanicalSoup_MechanicalSoup_20251207_221317_225_20251207_221445_
 # [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup/)
 
 Python library for automating website interaction
+
+用于自动化网站交互的Python库

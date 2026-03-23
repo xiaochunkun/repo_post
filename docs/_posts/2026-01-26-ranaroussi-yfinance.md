@@ -7,3 +7,5 @@ image: assets/ranaroussi_yfinance_20260122_061615_578_20260122_061632_82f691.png
 # [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)
 
 Fetches market data from Yahoo Finance API
+
+从 Yahoo Finance API 获取市场数据

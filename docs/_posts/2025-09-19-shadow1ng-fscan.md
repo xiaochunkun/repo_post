@@ -7,3 +7,5 @@ image: assets/20250915T234534885--shadow1ng--fscan--20250919T022242340--cropped.
 # [shadow1ng/fscan](https://github.com/shadow1ng/fscan)
 
 intranet scanning tool for port, service, and vulnerability detection
+
+用于端口、服务和漏洞检测的内网扫描工具

@@ -7,3 +7,5 @@ image: assets/eduardolat_clancy_20260205_124650_840_20260205_124739_9c173e.png
 # [eduardolat/clancy](https://github.com/eduardolat/clancy)
 
 Orchestrates AI coding agents in loops until success
+
+循环编排AI编码代理直至成功

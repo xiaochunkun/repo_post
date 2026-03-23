@@ -7,3 +7,5 @@ image: assets/OpenBB-finance_OpenBB_cropped.png
 # [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 
 Open-source platform for investment research tools and financial data access
+
+用于投资研究工具和金融数据访问的开源平台

@@ -7,3 +7,5 @@ image: assets/grafana_alloy_cropped.png
 # [grafana/alloy](https://github.com/grafana/alloy)
 
 unifies metrics, logs, and traces collection in one agent
+
+在一个代理中统一收集指标、日志和追踪

@@ -7,3 +7,5 @@ image: assets/virattt_dexter_20260121_232924_016_20260121_232942_74cdf7.png
 # [virattt/dexter](https://github.com/virattt/dexter)
 
 Autonomous agent for financial research
+
+用于金融研究的自主代理

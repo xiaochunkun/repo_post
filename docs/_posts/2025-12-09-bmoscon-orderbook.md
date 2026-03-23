@@ -7,3 +7,5 @@ image: assets/bmoscon_orderbook_20251207_204151_972_20251207_204425_36406d.png
 # [bmoscon/orderbook](https://github.com/bmoscon/orderbook/)
 
 L2/L3 orderbook data structure in C for Python
+
+用于Python的C语言L2/L3订单簿数据结构

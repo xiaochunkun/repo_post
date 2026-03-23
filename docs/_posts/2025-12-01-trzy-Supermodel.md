@@ -7,3 +7,5 @@ image: assets/trzy_Supermodel_20251130_070049_870_20251130_084853_8a6d37--202511
 # [trzy/Supermodel](https://github.com/trzy/Supermodel/)
 
 Sega Model 3 arcade emulator
+
+Sega Model 3街机模拟器

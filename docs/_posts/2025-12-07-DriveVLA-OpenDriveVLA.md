@@ -7,3 +7,5 @@ image: assets/DriveVLA_OpenDriveVLA_20251205_010510_492_20251205_010534_955ba7.p
 # [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA/)
 
 End-to-end autonomous driving with vision-language-action models
+
+基于视觉-语言-动作模型的端到端自动驾驶

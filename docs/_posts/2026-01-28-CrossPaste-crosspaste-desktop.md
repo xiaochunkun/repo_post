@@ -7,3 +7,5 @@ image: assets/CrossPaste_crosspaste_desktop_20260122_041108_528_20260122_041125_
 # [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop)
 
 Syncs clipboard history across devices with encryption
+
+跨设备同步加密的剪贴板历史

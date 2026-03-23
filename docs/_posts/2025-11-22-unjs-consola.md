@@ -7,3 +7,5 @@ image: assets/unjs_consola_20251122_103304_692_20251122_111521_8963a6--20251122T
 # [unjs/consola](https://github.com/unjs/consola/)
 
 Console logger for Node.js and browsers
+
+Node.js 和浏览器的控制台日志记录器

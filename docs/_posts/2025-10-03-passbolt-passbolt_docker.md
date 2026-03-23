@@ -7,3 +7,5 @@ image: assets/20251001T210820726--passbolt--passbolt_docker--20251001T211909481-
 # [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker)
 
 dockerized open source password manager for teams
+
+适用于团队的 Docker 化开源密码管理器

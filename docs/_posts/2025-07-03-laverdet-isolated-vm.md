@@ -7,3 +7,5 @@ image: assets/laverdet_isolated-vm_cropped.png
 # [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm)
 
 isolated-vm lets you run JS code in separate V8 environments for Node.js
+
+isolated-vm允许在Node.js的独立V8环境中运行JS代码

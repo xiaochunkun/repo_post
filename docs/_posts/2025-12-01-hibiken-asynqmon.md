@@ -7,3 +7,5 @@ image: assets/hibiken_asynqmon_20251130_074123_592_20251130_085437_bb6e34--20251
 # [hibiken/asynqmon](https://github.com/hibiken/asynqmon/)
 
 Web UI for monitoring Asynq task queues
+
+用于监控Asynq任务队列的Web界面

@@ -7,3 +7,5 @@ image: assets/LizardByte_Sunshine_cropped.png
 # [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
 
 self-hosted game streaming to Moonlight clients
+
+自托管的游戏流媒体服务，支持Moonlight客户端

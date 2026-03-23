@@ -7,3 +7,5 @@ image: assets/20250818T100749734_erweixin_langshift.dev--20250820T132736298--cro
 # [erweixin/langshift.dev](https://github.com/erweixin/langshift.dev)
 
 Learn programming languages side by side with interactive code comparisons and guides
+
+通过交互式代码对比学习多种编程语言

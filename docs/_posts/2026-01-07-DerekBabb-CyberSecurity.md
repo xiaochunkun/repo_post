@@ -7,3 +7,5 @@ image: assets/DerekBabb_CyberSecurity_20260106_193609_871_20260106_193626_597530
 # [DerekBabb/CyberSecurity](https://github.com/DerekBabb/CyberSecurity/)
 
 Curriculum for high school cyber security courses
+
+高中网络安全课程的课程大纲

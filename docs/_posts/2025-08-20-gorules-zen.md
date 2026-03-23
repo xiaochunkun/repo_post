@@ -7,3 +7,5 @@ image: assets/20250818T124327897_gorules_zen--20250818T124903817--cropped.png
 # [gorules/zen](https://github.com/gorules/zen)
 
 open source business rules engine for Rust, NodeJS, Python, Go
+
+适用于 Rust、NodeJS、Python、Go 的开源业务规则引擎

@@ -7,3 +7,5 @@ image: assets/jagrosh_MusicBot_20251122_192057_812_20251123_001428_0085dc--20251
 # [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot/)
 
 Self-hosted Discord music bot
+
+自托管Discord音乐机器人

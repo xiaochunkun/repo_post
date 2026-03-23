@@ -7,3 +7,5 @@ image: assets/ob_f_OpenBot_20260120_000527_598_20260120_000541_fbe2e3.png
 # [ob-f/OpenBot](https://github.com/ob-f/OpenBot)
 
 Turns smartphones into brains for robots
+
+将智能手机变为机器人的大脑

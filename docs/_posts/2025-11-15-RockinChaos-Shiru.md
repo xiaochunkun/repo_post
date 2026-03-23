@@ -7,3 +7,5 @@ image: assets/RockinChaos_Shiru_20251114_193112_939_20251115_035442_10d94e--2025
 # [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru/)
 
 Personal media library manager for real-time streaming
+
+支持实时流的个人媒体库管理器

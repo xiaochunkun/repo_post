@@ -7,3 +7,5 @@ image: assets/kejne_soundvibes_20260206_065831_721_20260206_065857_171ebc.png
 # [kejne/soundvibes](https://github.com/kejne/soundvibes)
 
 Transcribes audio locally on Linux using whisper.cpp
+
+在Linux上使用whisper.cpp本地转录音频

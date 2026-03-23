@@ -7,3 +7,5 @@ image: assets/mguti97_SoccerNet_v3D_20260210_115722_265_20260210_115743_36ad11.p
 # [mguti97/SoccerNet-v3D](https://github.com/mguti97/SoccerNet-v3D)
 
 Triangulates broadcast replays for 3D soccer scene understanding
+
+三角化广播回放以理解 3D 足球场景

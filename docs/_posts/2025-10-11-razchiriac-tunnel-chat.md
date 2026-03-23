@@ -7,3 +7,5 @@ image: assets/20251010T130526461--razchiriac--tunnel-chat--20251010T132111791--c
 # [razchiriac/tunnel-chat](https://github.com/razchiriac/tunnel-chat)
 
 peer-to-peer encrypted chat from the terminal with file sharing and ephemeral rooms
+
+从终端进行的点对点加密聊天，支持文件共享和临时房间

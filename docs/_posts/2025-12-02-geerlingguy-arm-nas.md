@@ -7,3 +7,5 @@ image: assets/geerlingguy_arm_nas_20251201_022522_447_20251201_022545_b3c8b8.png
 # [geerlingguy/arm-nas](https://github.com/geerlingguy/arm-nas/)
 
 Ansible playbook for configuring Arm NASes
+
+配置Arm NAS的Ansible剧本

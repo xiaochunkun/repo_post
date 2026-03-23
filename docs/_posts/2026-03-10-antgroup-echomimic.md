@@ -7,3 +7,5 @@ image: assets/antgroup_echomimic_20260309_114321_129_20260309_114538_218aee.png
 # [antgroup/echomimic](https://github.com/antgroup/echomimic)
 
 Generates portrait animations from audio and landmarks
+
+从音频和地标生成肖像动画

@@ -7,3 +7,5 @@ image: assets/Ebullioscopic_Atoll_20260226_092044_162_20260226_092228_01440e.png
 # [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll)
 
 Dynamic island for macOS notches
+
+macOS 缺口的动态岛

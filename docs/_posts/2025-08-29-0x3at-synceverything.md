@@ -7,3 +7,5 @@ image: assets/20250829T041418222--0x3at--synceverything--20250829T042037763--cro
 # [0x3at/synceverything](https://github.com/0x3at/synceverything)
 
 sync VS Code settings and extensions with GitHub Gists
+
+通过 GitHub Gist 同步 VS Code 设置和扩展

@@ -7,3 +7,5 @@ image: assets/Mostafa-Wahied_portracker_cropped.png
 # [Mostafa-Wahied/portracker](https://github.com/Mostafa-Wahied/portracker)
 
 self-hosted tool for real-time port monitoring and discovery
+
+自托管工具，用于实时端口监控和发现

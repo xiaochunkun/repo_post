@@ -7,3 +7,5 @@ image: assets/2dogsandanerd_Knowledge_Base_Self_Hosting_Kit_20260306_042709_105_
 # [2dogsandanerd/Knowledge-Base-Self-Hosting-Kit](https://github.com/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit)
 
 Host RAG memory for agents
+
+为代理托管RAG记忆

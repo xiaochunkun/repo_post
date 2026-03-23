@@ -7,3 +7,5 @@ image: assets/yang991178_fluent_reader_lite_20260119_225041_928_20260119_225104_
 # [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite)
 
 RSS client for mobile devices with Fever and Google Reader support
+
+支持Fever和Google Reader的移动设备RSS客户端

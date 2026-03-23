@@ -7,3 +7,5 @@ image: assets/samuelfaj_claudiomiro_20251223_040946_712_20251223_041001_32e317.p
 # [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro/)
 
 Decomposes and executes development tasks in parallel
+
+并行分解和执行开发任务

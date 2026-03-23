@@ -7,3 +7,5 @@ image: assets/AppFlowy_IO_AppFlowy_Web_20260220_151800_598_20260220_151829_70414
 # [AppFlowy-IO/AppFlowy-Web](https://github.com/AppFlowy-IO/AppFlowy-Web)
 
 Workspace for projects and wikis with AI
+
+集成AI的项目和wiki工作空间

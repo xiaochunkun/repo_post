@@ -7,3 +7,5 @@ image: assets/iduspara_shadcn_builder_20251201_043805_300_20251201_043922_d537ea
 # [iduspara/shadcn-builder](https://github.com/iduspara/shadcn-builder/)
 
 No-code form builder for shadcn/ui
+
+shadcn/ui 的无代码表单构建器

@@ -7,3 +7,5 @@ image: assets/mnemosynestack_doppelganger_20260227_101230_930_20260227_101400_35
 # [mnemosynestack/doppelganger](https://github.com/mnemosynestack/doppelganger)
 
 Self-hosted browser automation platform with a visual task editor
+
+带可视化任务编辑器的自托管浏览器自动化平台

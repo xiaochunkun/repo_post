@@ -7,3 +7,5 @@ image: assets/20250908T093741465--microsoft--mcp--20250908T093955146--cropped.pn
 # [microsoft/mcp](https://github.com/microsoft/mcp)
 
 catalog of Microsoft Model Context Protocol servers for AI apps
+
+微软 Model Context Protocol 服务器目录，面向 AI 应用

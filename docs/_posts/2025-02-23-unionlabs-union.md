@@ -7,3 +7,5 @@ image: assets/unionlabs_union_cropped.png
 # [unionlabs/union](https://github.com/unionlabs/union)
 
 Trust-minimized zero-knowledge bridging protocol for DeFi
+
+用于 DeFi 的信任最小化零知识桥接协议

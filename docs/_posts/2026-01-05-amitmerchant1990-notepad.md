@@ -7,3 +7,5 @@ image: assets/amitmerchant1990_notepad_20260104_072150_664_20260104_072207_260da
 # [amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad/)
 
 Offline notepad with typewriter sounds and ambient noise
+
+带打字机音效和环境噪音的离线记事本

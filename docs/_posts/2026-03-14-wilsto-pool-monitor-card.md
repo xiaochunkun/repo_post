@@ -7,3 +7,5 @@ image: assets/wilsto_pool_monitor_card_20260309_173210_639_20260309_173357_e1ad3
 # [wilsto/pool-monitor-card](https://github.com/wilsto/pool-monitor-card)
 
 Home Assistant card for monitoring pool water chemistry
+
+用于监控泳池水化学的Home Assistant卡片

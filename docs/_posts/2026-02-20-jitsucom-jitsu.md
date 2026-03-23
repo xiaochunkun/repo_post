@@ -7,3 +7,5 @@ image: assets/jitsucom_jitsu_20260206_121923_972_20260206_121945_5f7a33.png
 # [jitsucom/jitsu](https://github.com/jitsucom/jitsu)
 
 Streams event data from websites to data warehouses
+
+将事件数据从网站流式传输到数据仓库

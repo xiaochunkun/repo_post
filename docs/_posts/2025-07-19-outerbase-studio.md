@@ -7,3 +7,5 @@ image: assets/outerbase_studio_cropped.png
 # [outerbase/studio](https://github.com/outerbase/studio)
 
 open source database GUI for MySQL, Postgres, SQLite, with AI query help
+
+开源数据库GUI，支持MySQL、Postgres、SQLite，提供AI查询帮助

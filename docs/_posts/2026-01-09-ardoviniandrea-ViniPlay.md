@@ -7,3 +7,5 @@ image: assets/ardoviniandrea_ViniPlay_20260109_033339_744_20260109_033355_51a5a1
 # [ardoviniandrea/ViniPlay](https://github.com/ardoviniandrea/ViniPlay)
 
 Self-hosted IPTV player with multi-view and transcoding
+
+支持多视图和转码的自托管IPTV播放器

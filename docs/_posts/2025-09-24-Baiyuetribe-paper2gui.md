@@ -7,3 +7,5 @@ image: assets/20250924T052631617--Baiyuetribe--paper2gui--20250924T055919800--cr
 # [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui)
 
 AI toolbox for speech, video, and image tasks on desktop
+
+桌面 AI 工具箱，用于语音、视频和图像任务

@@ -7,3 +7,5 @@ image: assets/carla-simulator_carla_cropped.png
 # [carla-simulator/carla](https://github.com/carla-simulator/carla)
 
 Open-source simulator for testing autonomous driving systems and generating training data
+
+用于测试自动驾驶系统和生成训练数据的开源模拟器

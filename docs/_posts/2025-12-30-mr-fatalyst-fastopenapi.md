@@ -7,3 +7,5 @@ image: assets/mr_fatalyst_fastopenapi_20251229_040703_057_20251229_040752_afc8e1
 # [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi/)
 
 Generates OpenAPI schemas using Pydantic and Python frameworks
+
+使用Pydantic和Python框架生成OpenAPI模式

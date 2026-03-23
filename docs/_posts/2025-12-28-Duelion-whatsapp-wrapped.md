@@ -7,3 +7,5 @@ image: assets/Duelion_whatsapp_wrapped_20251227_012458_408_20251227_012517_b1b81
 # [Duelion/whatsapp-wrapped](https://github.com/Duelion/whatsapp-wrapped/)
 
 Visualizes WhatsApp chat statistics and patterns
+
+可视化 WhatsApp 聊天统计和模式

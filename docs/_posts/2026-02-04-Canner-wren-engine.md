@@ -7,3 +7,5 @@ image: assets/Canner_wren_engine_20260202_233842_744_20260202_233911_cc1290.png
 # [Canner/wren-engine](https://github.com/Canner/wren-engine)
 
 Semantic engine for model context protocol clients
+
+模型上下文协议客户端的语义引擎

@@ -7,3 +7,5 @@ image: assets/20250820T142620794--googleworkspace--md2googleslides--20250820T143
 # [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides)
 
 convert markdown files into google slides decks
+
+将 Markdown 文件转换为 Google Slides 演示文稿

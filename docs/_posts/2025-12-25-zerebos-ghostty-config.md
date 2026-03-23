@@ -7,3 +7,5 @@ image: assets/zerebos_ghostty_config_20251224_162354_717_20251224_162411_51400c.
 # [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config/)
 
 Web interface for terminal configuration
+
+终端配置的 Web 界面

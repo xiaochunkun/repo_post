@@ -7,3 +7,5 @@ image: assets/javahuang_SurveyKing_20251213_041308_379_20251213_041335_b244f6.pn
 # [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing/)
 
 AI survey and exam platform
+
+AI 调查与考试平台

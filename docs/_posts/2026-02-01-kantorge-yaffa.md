@@ -7,3 +7,5 @@ image: assets/kantorge_yaffa_20260201_020830_379_20260201_020909_990f3c.png
 # [kantorge/yaffa](https://github.com/kantorge/yaffa)
 
 Self-hosted finance application for long-term planning
+
+用于长期规划的自托管财务应用

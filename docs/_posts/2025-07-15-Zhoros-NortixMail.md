@@ -7,3 +7,5 @@ image: assets/Zhoros_NortixMail_cropped.png
 # [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail)
 
 self-hosted email server for your own domain
+
+为你的域名自托管邮件服务器

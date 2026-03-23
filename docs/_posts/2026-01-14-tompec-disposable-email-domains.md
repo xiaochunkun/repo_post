@@ -7,3 +7,5 @@ image: assets/tompec_disposable_email_domains_20260113_164045_677_20260113_16410
 # [tompec/disposable-email-domains](https://github.com/tompec/disposable-email-domains)
 
 Blocks fake accounts during signup
+
+在注册时阻止虚假账户

@@ -7,3 +7,5 @@ image: assets/finmars_platform_finmars_core_20260115_120006_793_20260115_120034_
 # [finmars-platform/finmars-core](https://github.com/finmars-platform/finmars-core)
 
 Finance management platform for money and investments
+
+用于资金和投资的财务管理平台

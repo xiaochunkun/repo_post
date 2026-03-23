@@ -7,3 +7,5 @@ image: assets/20250818T121456664_dittofeed_dittofeed--20250818T121742450--croppe
 # [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)
 
 Open source platform for automating customer messages across channels
+
+跨渠道自动化客户消息的开源平台

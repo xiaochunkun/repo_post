@@ -7,3 +7,5 @@ image: assets/matthewod11_stack_ghostty_ai_themes_20260309_111713_862_20260309_1
 # [matthewod11-stack/ghostty-ai-themes](https://github.com/matthewod11-stack/ghostty-ai-themes)
 
 Switches terminal themes for AI CLI tools
+
+为AI CLI工具切换终端主题

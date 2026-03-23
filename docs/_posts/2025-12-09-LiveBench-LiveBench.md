@@ -7,3 +7,5 @@ image: assets/LiveBench_LiveBench_20251207_215205_873_20251207_215241_f8475a.png
 # [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench/)
 
 Benchmark for LLMs with contamination-free questions
+
+无污染问题的LLM基准测试

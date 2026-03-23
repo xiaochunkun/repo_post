@@ -7,3 +7,5 @@ image: assets/cassidoo_todometer_20260130_042200_779_20260130_042318_2e9be8.png
 # [cassidoo/todometer](https://github.com/cassidoo/todometer)
 
 Meter-based to-do list with Electron and React
+
+基于计量器的待办事项列表，使用 Electron 和 React

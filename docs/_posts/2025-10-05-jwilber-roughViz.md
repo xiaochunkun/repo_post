@@ -7,3 +7,5 @@ image: assets/20251005T101643934--jwilber--roughViz--20251005T102334036--cropped
 # [jwilber/roughViz](https://github.com/jwilber/roughViz)
 
 JavaScript library for sketchy hand-drawn style charts in the browser
+
+JavaScript库，用于在浏览器中创建草图式徒手风格图表

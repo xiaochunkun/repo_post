@@ -7,3 +7,5 @@ image: assets/cyberdesk_hq_cyberdesk_20251031_041822_935_20251031_205457_5f1255-
 # [cyberdesk-hq/cyberdesk](https://github.com/cyberdesk-hq/cyberdesk/)
 
 Virtual desktop orchestration for computer agents
+
+计算机代理的虚拟桌面编排

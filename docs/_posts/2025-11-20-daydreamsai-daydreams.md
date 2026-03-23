@@ -7,3 +7,5 @@ image: assets/daydreamsai_daydreams_20251118_105331_665_20251119_212439_18dd44--
 # [daydreamsai/daydreams](https://github.com/daydreamsai/daydreams/)
 
 TypeScript framework for building composable AI agents
+
+用于构建可组合 AI 代理的 TypeScript 框架

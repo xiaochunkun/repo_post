@@ -7,3 +7,5 @@ image: assets/20250906T025958265--JoshuaC215--agent-service-toolkit--20250906T03
 # [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
 
 LangChain-based toolkit for building and running AI agent services
+
+基于 LangChain 构建和运行 AI 智能体服务的工具包

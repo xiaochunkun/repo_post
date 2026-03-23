@@ -7,3 +7,5 @@ image: assets/aaddrick_claude_desktop_debian_20251209_063328_927_20251209_063352
 # [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian/)
 
 Repackages Windows app for Linux
+
+将 Windows 应用重新打包用于 Linux

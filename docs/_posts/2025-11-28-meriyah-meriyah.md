@@ -7,3 +7,5 @@ image: assets/meriyah_meriyah_20251125_223955_672_20251127_171502_851549--202511
 # [meriyah/meriyah](https://github.com/meriyah/meriyah/)
 
 Self-hosted JavaScript parser focused on performance
+
+注重性能的自托管 JavaScript 解析器

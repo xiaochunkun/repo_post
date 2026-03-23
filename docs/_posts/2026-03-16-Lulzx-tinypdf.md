@@ -7,3 +7,5 @@ image: assets/Lulzx_tinypdf_20260227_175047_212_20260227_175221_119b1a.png
 # [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)
 
 PDF creation library under 400 lines of code with zero dependencies
+
+400 行代码内、零依赖的 PDF 创建库

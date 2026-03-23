@@ -7,3 +7,5 @@ image: assets/RKiding_Awesome_finance_skills_20260217_003637_241_20260217_003726
 # [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills)
 
 Skills for AI agents to analyze news and forecast markets
+
+AI代理分析新闻和预测市场的技能

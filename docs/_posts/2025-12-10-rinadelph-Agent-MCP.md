@@ -7,3 +7,5 @@ image: assets/rinadelph_Agent_MCP_20251207_221611_437_20251207_221649_f01e49.png
 # [rinadelph/Agent-MCP](https://github.com/rinadelph/Agent-MCP/)
 
 Framework for creating coordinated multi-agent systems via Model Context Protocol
+
+通过Model Context Protocol创建协调多Agent系统的框架

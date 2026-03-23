@@ -7,3 +7,5 @@ image: assets/adrianhajdin_coinpulse_20260113_011343_393_20260113_011356_19cb41.
 # [adrianhajdin/coinpulse](https://github.com/adrianhajdin/coinpulse)
 
 Dashboard for market data and orderbooks via WebSockets
+
+通过WebSockets提供市场数据和订单簿的仪表板

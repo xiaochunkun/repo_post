@@ -7,3 +7,5 @@ image: assets/farseerdev_sheet_happens_20260111_043349_063_20260111_043402_4ee92
 # [farseerdev/sheet-happens](https://github.com/farseerdev/sheet-happens)
 
 Canvas spreadsheet component for React
+
+React的画布电子表格组件

@@ -7,3 +7,5 @@ image: assets/ShivamXD6_Optimize_Windows_20260315_025747_864_20260315_025842_b5c
 # [ShivamXD6/Optimize-Windows](https://github.com/ShivamXD6/Optimize-Windows)
 
 Automates Windows installation and debloating
+
+自动化 Windows 安装与精简工具

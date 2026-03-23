@@ -7,3 +7,5 @@ image: assets/Mickinthemiddle_CLOAK_20260212_064930_250_20260212_065001_448163.p
 # [Mickinthemiddle/CLOAK](https://github.com/Mickinthemiddle/CLOAK)
 
 Knowledge base on cybercriminal concealment techniques
+
+关于网络犯罪隐藏技术的知识库

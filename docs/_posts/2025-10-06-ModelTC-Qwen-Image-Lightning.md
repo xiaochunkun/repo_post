@@ -7,3 +7,5 @@ image: assets/20251005T103218096--ModelTC--Qwen-Image-Lightning--20251005T104136
 # [ModelTC/Qwen-Image-Lightning](https://github.com/ModelTC/Qwen-Image-Lightning)
 
 fast image editing and generation with text rendering
+
+快速图像编辑和生成，支持文本渲染

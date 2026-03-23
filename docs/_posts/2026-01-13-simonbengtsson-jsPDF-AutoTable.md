@@ -7,3 +7,5 @@ image: assets/simonbengtsson_jsPDF_AutoTable_20260111_193820_211_20260111_193832
 # [simonbengtsson/jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)
 
 Generates tables in PDF files from HTML or Javascript data
+
+从HTML或Javascript数据生成PDF文件中的表格

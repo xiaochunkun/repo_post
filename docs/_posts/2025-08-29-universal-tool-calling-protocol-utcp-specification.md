@@ -7,3 +7,5 @@ image: assets/20250829T035606146--universal-tool-calling-protocol--utcp-specific
 # [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification)
 
 spec for calling tools directly from AI agents using any protocol
+
+AI 智能体跨协议直接调用工具的规范

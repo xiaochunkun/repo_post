@@ -7,3 +7,5 @@ image: assets/20251001T204418496--googlefonts--noto-emoji--20251001T205301816--c
 # [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji)
 
 open source emoji font and tools for Unicode emoji support
+
+开源表情符号字体和工具，支持Unicode表情符号

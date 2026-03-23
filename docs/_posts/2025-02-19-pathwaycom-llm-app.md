@@ -7,3 +7,5 @@ image: assets/pathwaycom_llm-app_cropped.png
 # [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 Pathway LLM app for real-time document indexing and RAG
+
+Pathway LLM应用，用于实时文档索引和RAG

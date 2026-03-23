@@ -7,3 +7,5 @@ image: assets/c0dejump_HExHTTP_cropped.png
 # [c0dejump/HExHTTP](https://github.com/c0dejump/HExHTTP)
 
 tool for testing HTTP headers and finding web vulnerabilities
+
+测试 HTTP 头部和发现 Web 漏洞的工具

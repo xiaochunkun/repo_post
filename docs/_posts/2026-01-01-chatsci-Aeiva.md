@@ -7,3 +7,5 @@ image: assets/chatsci_Aeiva_20251231_214731_637_20251231_214746_158245.png
 # [chatsci/Aeiva](https://github.com/chatsci/Aeiva/)
 
 Framework for agents to learn from environments and interactions
+
+用于智能体从环境和交互中学习的框架

@@ -7,3 +7,5 @@ image: assets/01studio_lab_micropython_20260102_021847_646_20260102_021904_3abb2
 # [01studio-lab/micropython](https://github.com/01studio-lab/micropython/)
 
 Python implementation for microcontrollers
+
+微控制器的 Python 实现

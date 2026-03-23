@@ -7,3 +7,5 @@ image: assets/espressif_esp_skainet_20260205_014422_352_20260205_014440_08fa89.p
 # [espressif/esp-skainet](https://github.com/espressif/esp-skainet)
 
 Voice assistant for ESP32 chips
+
+ESP32芯片的语音助手

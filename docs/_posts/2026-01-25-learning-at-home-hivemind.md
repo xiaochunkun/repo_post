@@ -7,3 +7,5 @@ image: assets/learning_at_home_hivemind_20260112_091220_665_20260112_091239_bce6
 # [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind)
 
 Trains models on computers across the Internet
+
+在互联网计算机上分布式训练模型

@@ -7,3 +7,5 @@ image: assets/nuxt_content_nuxt_studio_20260208_031330_777_20260208_031346_ab02d
 # [nuxt-content/nuxt-studio](https://github.com/nuxt-content/nuxt-studio)
 
 Visual editor for websites in production
+
+生产环境中网站的可视化编辑器

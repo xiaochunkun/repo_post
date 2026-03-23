@@ -7,3 +7,5 @@ image: assets/epressworld_epress_20260101_052152_675_20260101_052208_eac9b3.png
 # [epressworld/epress](https://github.com/epressworld/epress/)
 
 Self-hosted social network tied to Ethereum identity
+
+与以太坊身份绑定的自托管社交网络

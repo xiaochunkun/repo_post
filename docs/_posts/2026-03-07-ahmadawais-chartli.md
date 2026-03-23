@@ -7,3 +7,5 @@ image: assets/ahmadawais_chartli_20260307_100747_836_20260307_100910_0a92e5.png
 # [ahmadawais/chartli](https://github.com/ahmadawais/chartli)
 
 Render charts in terminals from data
+
+从数据在终端中渲染图表

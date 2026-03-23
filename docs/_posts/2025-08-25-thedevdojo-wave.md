@@ -7,3 +7,5 @@ image: assets/20250825T024217254--thedevdojo--wave--20250825T025037086--cropped.
 # [thedevdojo/wave](https://github.com/thedevdojo/wave)
 
 Laravel SaaS starter kit with billing, profiles, roles, themes
+
+Laravel SaaS 启动套件，集成计费、档案、角色和主题

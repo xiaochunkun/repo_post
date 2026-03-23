@@ -7,3 +7,5 @@ image: assets/Jason_uxui_project_dashboard_20260202_180047_765_20260202_180138_e
 # [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard)
 
 Dashboard template with Next.js and shadcn/ui
+
+使用 Next.js 和 shadcn/ui 的仪表板模板

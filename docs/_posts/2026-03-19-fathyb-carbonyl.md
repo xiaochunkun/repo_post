@@ -7,3 +7,5 @@ image: assets/fathyb_carbonyl_20260318_093139_698_20260318_093227_289768.png
 # [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
 
 Chromium browser in terminal with 0% CPU idle
+
+终端中的 Chromium 浏览器，CPU 空闲时为 0%

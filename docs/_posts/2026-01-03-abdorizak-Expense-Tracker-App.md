@@ -7,3 +7,5 @@ image: assets/abdorizak_Expense_Tracker_App_20260102_161906_673_20260102_161926_
 # [abdorizak/Expense-Tracker-App](https://github.com/abdorizak/Expense-Tracker-App/)
 
 Tracks expenses with programmatic UI and line charts
+
+带编程UI和折线图的费用追踪应用

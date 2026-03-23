@@ -7,3 +7,5 @@ image: assets/20250825T020324085--iflow-ai--iflow-cli--20250825T021214923--cropp
 # [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli)
 
 terminal AI assistant for coding and workflow automation
+
+终端 AI 助手，辅助编程和工作流自动化

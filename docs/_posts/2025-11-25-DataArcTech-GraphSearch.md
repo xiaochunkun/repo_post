@@ -7,3 +7,5 @@ image: assets/DataArcTech_GraphSearch_20251123_184437_793_20251124_184357_c78e23
 # [DataArcTech/GraphSearch](https://github.com/DataArcTech/GraphSearch/)
 
 Agentic workflow for graph retrieval-augmented generation
+
+图检索增强生成的代理工作流

@@ -7,3 +7,5 @@ image: assets/monetr_monetr_20260210_152235_274_20260210_152306_2c9e2a.png
 # [monetr/monetr](https://github.com/monetr/monetr)
 
 Self-hosted budgeting tool for recurring expenses
+
+自托管定期支出预算工具

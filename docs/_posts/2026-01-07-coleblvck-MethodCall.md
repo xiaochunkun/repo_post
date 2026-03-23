@@ -7,3 +7,5 @@ image: assets/coleblvck_MethodCall_20260106_121859_175_20260106_121916_7a8a2b.pn
 # [coleblvck/MethodCall](https://github.com/coleblvck/MethodCall/)
 
 Automates Android actions via phone calls
+
+通过电话自动执行 Android 操作

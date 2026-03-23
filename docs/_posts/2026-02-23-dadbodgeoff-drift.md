@@ -7,3 +7,5 @@ image: assets/dadbodgeoff_drift_20260209_232358_741_20260209_232415_51751b.png
 # [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift)
 
 Scans codebases to teach patterns to AI
+
+扫描代码库以向 AI 教授模式

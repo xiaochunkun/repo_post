@@ -7,3 +7,5 @@ image: assets/20251007T030727536--FreshRSS--FreshRSS--20251007T032123362--croppe
 # [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
 self-hosted RSS feed aggregator with multi-user support and custom tags
+
+自托管 RSS 聚合器，支持多用户和自定义标签

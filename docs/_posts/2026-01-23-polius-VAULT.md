@@ -7,3 +7,5 @@ image: assets/polius_VAULT_20260122_145222_659_20260122_145252_04bfce.png
 # [polius/VAULT](https://github.com/polius/VAULT)
 
 Encrypts and decrypts files locally in the browser
+
+在浏览器中本地加密和解密文件

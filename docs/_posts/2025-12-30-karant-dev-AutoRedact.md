@@ -7,3 +7,5 @@ image: assets/karant_dev_AutoRedact_20251228_052834_829_20251228_052925_473fd4.p
 # [karant-dev/AutoRedact](https://github.com/karant-dev/AutoRedact/)
 
 Redacts sensitive data from images locally via OCR
+
+通过OCR本地从图像中移除敏感数据

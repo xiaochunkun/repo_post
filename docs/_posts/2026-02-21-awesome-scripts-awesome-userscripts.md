@@ -7,3 +7,5 @@ image: assets/awesome_scripts_awesome_userscripts_20260212_060723_929_20260212_0
 # [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts)
 
 Collection of scripts for browser customization
+
+浏览器自定义脚本集合

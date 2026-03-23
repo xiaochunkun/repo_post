@@ -7,3 +7,5 @@ image: assets/20250905T030016012--belastrittmatter--Framely--20250905T030359552-
 # [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely)
 
 open-source drag-and-drop website builder with Next.js
+
+基于 Next.js 的开源拖拽式网站构建器

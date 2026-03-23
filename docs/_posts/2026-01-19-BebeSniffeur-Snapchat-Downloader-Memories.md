@@ -7,3 +7,5 @@ image: assets/BebeSniffeur_Snapchat_Downloader_Memories_20260115_185337_332_2026
 # [BebeSniffeur/Snapchat-Downloader-Memories](https://github.com/BebeSniffeur/Snapchat-Downloader-Memories)
 
 Downloads Snapchat memories with metadata and overlays
+
+下载带元数据和叠加层的Snapchat回忆

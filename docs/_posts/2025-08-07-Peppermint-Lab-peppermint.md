@@ -7,3 +7,5 @@ image: assets/Peppermint-Lab_peppermint_cropped.png
 # [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint)
 
 Open source issue management and help desk tool, works as a Jira or Zendesk alternative
+
+开源问题管理和帮助台工具，可作为 Jira 或 Zendesk 的替代品

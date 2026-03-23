@@ -7,3 +7,5 @@ image: assets/danielmiessler_Personal_AI_Infrastructure_20251227_214408_749_2025
 # [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure/)
 
 Scaffolding for an AI operating system
+
+AI 操作系统的脚手架

@@ -7,3 +7,5 @@ image: assets/lllllllillllllillll_DweebUI_cropped.png
 # [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI)
 
 web UI for managing containers with real-time dashboard and multi-user support
+
+Web UI，用于管理容器，带实时仪表板和多用户支持

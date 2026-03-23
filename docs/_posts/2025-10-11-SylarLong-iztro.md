@@ -7,3 +7,5 @@ image: assets/20251010T205414352--SylarLong--iztro--20251010T205925414--cropped.
 # [SylarLong/iztro](https://github.com/SylarLong/iztro)
 
 generates Purple Star Astrology charts from birth details
+
+根据出生详情生成紫微斗数星盘

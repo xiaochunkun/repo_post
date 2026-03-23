@@ -7,3 +7,5 @@ image: assets/Topdu_OpenOCR_20251214_222116_135_20251214_222218_4ce7a6.png
 # [Topdu/OpenOCR](https://github.com/Topdu/OpenOCR/)
 
 Unified benchmark for scene text detection and recognition
+
+场景文本检测和识别的统一基准

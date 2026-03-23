@@ -7,3 +7,5 @@ image: assets/bicknicktick_mixloop_20260112_133519_094_20260112_133534_a9d585.pn
 # [bicknicktick/mixloop](https://github.com/bicknicktick/mixloop)
 
 Sequences audio with crossfades and batch processing
+
+通过交叉淡入淡出和批量处理序列化音频

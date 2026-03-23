@@ -7,3 +7,5 @@ image: assets/lusingander_serie_20251216_063620_353_20251216_063648_7759f9.png
 # [lusingander/serie](https://github.com/lusingander/serie/)
 
 Rich git commit graph in terminal
+
+终端中的丰富Git提交图

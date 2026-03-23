@@ -7,3 +7,5 @@ image: assets/tanhuang2016_RedisFX_20251217_231741_777_20251217_231758_bf8025.pn
 # [tanhuang2016/RedisFX](https://github.com/tanhuang2016/RedisFX/)
 
 Redis GUI with SSH support
+
+支持 SSH 的 Redis GUI

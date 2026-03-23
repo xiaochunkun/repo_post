@@ -7,3 +7,5 @@ image: assets/20250826T031825524--pinry--pinry--20250826T032509876--cropped.png
 # [pinry/pinry](https://github.com/pinry/pinry)
 
 self-hosted image board for saving and sharing pics, videos, links
+
+自托管图片墙，保存和分享图片、视频和链接

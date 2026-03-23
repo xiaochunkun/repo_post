@@ -7,3 +7,5 @@ image: assets/whisper_money_whisper_money_20260125_183500_377_20260125_183535_d3
 # [whisper-money/whisper-money](https://github.com/whisper-money/whisper-money)
 
 Personal finance tracker with end-to-end encryption
+
+具有端到端加密功能的个人财务追踪器

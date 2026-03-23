@@ -7,3 +7,5 @@ image: assets/nexus-xyz_network-api_cropped.png
 # [nexus-xyz/network-api](https://github.com/nexus-xyz/network-api)
 
 Interface for Nexus network compute supply
+
+Nexus 网络计算供应的接口

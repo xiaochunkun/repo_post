@@ -7,3 +7,5 @@ image: assets/myshell_ai_AIlice_20251025_034637_250_20251025_041021_23af04--2025
 # [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice/)
 
 Autonomous AI agent for complex tasks
+
+用于复杂任务的自主AI代理

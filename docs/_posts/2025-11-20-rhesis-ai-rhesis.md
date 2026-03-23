@@ -7,3 +7,5 @@ image: assets/rhesis_ai_rhesis_20251119_192940_077_20251120_003421_86c407--20251
 # [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis/)
 
 Open-source testing platform for Gen AI applications
+
+Gen AI应用开源测试平台

@@ -7,3 +7,5 @@ image: assets/contrastio_recorder_20260122_072754_345_20260122_072826_e0e618.png
 # [contrastio/recorder](https://github.com/contrastio/recorder)
 
 Records screen and camera in a browser
+
+浏览器屏幕和摄像头录制工具

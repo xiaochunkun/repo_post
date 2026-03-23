@@ -7,3 +7,5 @@ image: assets/HKUDS_ViMax_20251120_070050_140_20251121_055026_c99957--20251121T0
 # [HKUDS/ViMax](https://github.com/HKUDS/ViMax/)
 
 Orchestrates agents for video production
+
+编排代理进行视频制作

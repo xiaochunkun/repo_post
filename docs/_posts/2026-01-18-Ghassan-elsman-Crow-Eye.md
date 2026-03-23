@@ -7,3 +7,5 @@ image: assets/Ghassan_elsman_Crow_Eye_20260115_215035_725_20260115_215049_dd87e6
 # [Ghassan-elsman/Crow-Eye](https://github.com/Ghassan-elsman/Crow-Eye)
 
 Windows forensics engine with a GUI
+
+带GUI的Windows取证引擎

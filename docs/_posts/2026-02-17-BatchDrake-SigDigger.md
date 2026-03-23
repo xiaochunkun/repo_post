@@ -7,3 +7,5 @@ image: assets/BatchDrake_SigDigger_20260215_182754_549_20260215_182846_f1497e.pn
 # [BatchDrake/SigDigger](https://github.com/BatchDrake/SigDigger)
 
 Extracts information from radio signals via SDR devices
+
+通过SDR设备从无线电信号中提取信息

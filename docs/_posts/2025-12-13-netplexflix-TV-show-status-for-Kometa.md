@@ -7,3 +7,5 @@ image: assets/netplexflix_TV_show_status_for_Kometa_20251209_053145_505_20251209
 # [netplexflix/TV-show-status-for-Kometa](https://github.com/netplexflix/TV-show-status-for-Kometa/)
 
 Creates Kometa overlays based on Sonarr TV show statuses
+
+基于 Sonarr 电视节目状态创建 Kometa 覆盖层

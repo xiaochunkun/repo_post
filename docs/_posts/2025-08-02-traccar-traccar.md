@@ -7,3 +7,5 @@ image: assets/traccar_traccar_cropped.png
 # [traccar/traccar](https://github.com/traccar/traccar)
 
 open source gps tracking for vehicles or assets
+
+用于车辆或资产的开源 GPS 追踪

@@ -7,3 +7,5 @@ image: assets/zerodytrash_TikTok_Live_Connector_20251209_064303_059_20251209_064
 # [zerodytrash/TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector/)
 
 Node.js library for TikTok live stream events
+
+用于 TikTok 直播事件的 Node.js 库

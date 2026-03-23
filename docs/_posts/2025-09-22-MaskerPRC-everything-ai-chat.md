@@ -7,3 +7,5 @@ image: assets/20250922T024704634--MaskerPRC--everything-ai-chat--20250922T025647
 # [MaskerPRC/everything-ai-chat](https://github.com/MaskerPRC/everything-ai-chat)
 
 AI-powered local file search with natural language queries
+
+基于 AI 的本地文件搜索，支持自然语言查询

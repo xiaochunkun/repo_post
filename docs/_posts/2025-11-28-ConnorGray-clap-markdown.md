@@ -7,3 +7,5 @@ image: assets/ConnorGray_clap_markdown_20251125_032510_545_20251127_164301_58045
 # [ConnorGray/clap-markdown](https://github.com/ConnorGray/clap-markdown/)
 
 Autogenerates Markdown documentation for clap CLIs
+
+为 clap CLI 自动生成 Markdown 文档

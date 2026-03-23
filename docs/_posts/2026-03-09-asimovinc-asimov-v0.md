@@ -7,3 +7,5 @@ image: assets/asimovinc_asimov_v0_20260305_093456_652_20260305_093610_a3e5f2.png
 # [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0)
 
 Hardware for bipedal locomotion in robots
+
+机器人双足运动的硬件

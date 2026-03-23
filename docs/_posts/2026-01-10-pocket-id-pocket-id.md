@@ -7,3 +7,5 @@ image: assets/pocket_id_pocket_id_20260108_050330_540_20260108_050343_1c74e0.png
 # [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
 
 OIDC provider for passkey authentication
+
+OIDC提供商，用于通行密钥认证

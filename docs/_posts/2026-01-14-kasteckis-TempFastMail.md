@@ -7,3 +7,5 @@ image: assets/kasteckis_TempFastMail_20260113_131909_572_20260113_131923_8c0ced.
 # [kasteckis/TempFastMail](https://github.com/kasteckis/TempFastMail)
 
 Self-hosted disposable email inbox via Docker
+
+通过 Docker 自托管的一次性邮箱收件箱

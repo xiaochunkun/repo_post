@@ -7,3 +7,5 @@ image: assets/excalidraw_excalidraw_mcp_20260220_150905_935_20260220_150940_de2f
 # [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)
 
 Streams diagrams to AI clients
+
+将图表流式传输到 AI 客户端

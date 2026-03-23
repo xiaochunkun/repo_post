@@ -7,3 +7,5 @@ image: assets/husnainfareed_awesome_ethical_hacking_resources_20260213_080623_30
 # [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources)
 
 Curated list of resources for ethical hacking and penetration testing
+
+道德黑客和渗透测试资源精选列表

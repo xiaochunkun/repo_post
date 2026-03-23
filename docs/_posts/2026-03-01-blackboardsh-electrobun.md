@@ -7,3 +7,5 @@ image: assets/blackboardsh_electrobun_20260225_040810_938_20260225_040939_a790e0
 # [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)
 
 Builds desktop apps with Typescript and Bun
+
+使用 TypeScript 和 Bun 构建桌面应用

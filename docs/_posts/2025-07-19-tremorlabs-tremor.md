@@ -7,3 +7,5 @@ image: assets/tremorlabs_tremor_cropped.png
 # [tremorlabs/tremor](https://github.com/tremorlabs/tremor)
 
 open source library for building dashboards and data-driven UIs
+
+开源库，用于构建仪表板和数据驱动UI

@@ -7,3 +7,5 @@ image: assets/cessen_ropey_cropped.png
 # [cessen/ropey](https://github.com/cessen/ropey)
 
 Rust library for efficient text editing and manipulation
+
+用于高效文本编辑和操作的 Rust 库

@@ -7,3 +7,5 @@ image: assets/MrDrElliot_LuminaEngine_20260222_061133_942_20260222_061223_7d51ca
 # [MrDrElliot/LuminaEngine](https://github.com/MrDrElliot/LuminaEngine)
 
 Vulkan game engine with multi-threaded rendering
+
+Vulkan游戏引擎，支持多线程渲染

@@ -7,3 +7,5 @@ image: assets/20250925T043937320--FalkorDB--QueryWeaver--20250925T044609600--cro
 # [FalkorDB/QueryWeaver](https://github.com/FalkorDB/QueryWeaver)
 
 turns natural language into SQL queries with graph-based schema understanding
+
+通过基于图表的模式理解将自然语言转换为SQL查询

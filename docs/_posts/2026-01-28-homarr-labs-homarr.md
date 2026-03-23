@@ -7,3 +7,5 @@ image: assets/homarr_labs_homarr_20260122_051644_084_20260122_051700_0ec1cc.png
 # [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 
 Dashboard with integrations and drag and drop configuration
+
+带集成和拖放配置的仪表板

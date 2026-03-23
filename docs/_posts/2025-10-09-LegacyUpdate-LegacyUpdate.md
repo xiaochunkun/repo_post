@@ -7,3 +7,5 @@ image: assets/20251009T194948665--LegacyUpdate--LegacyUpdate--20251009T195529885
 # [LegacyUpdate/LegacyUpdate](https://github.com/LegacyUpdate/LegacyUpdate)
 
 lets you update and activate old Windows versions after official support ends
+
+在官方支持结束后更新和激活旧版 Windows

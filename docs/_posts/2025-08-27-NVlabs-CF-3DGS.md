@@ -7,3 +7,5 @@ image: assets/20250826T024353099--NVlabs--CF-3DGS--20250826T024659243--cropped.p
 # [NVlabs/CF-3DGS](https://github.com/NVlabs/CF-3DGS)
 
 3D Gaussian splatting without COLMAP for fast scene reconstruction
+
+无需 COLMAP 的 3D 高斯泼溅快速场景重建

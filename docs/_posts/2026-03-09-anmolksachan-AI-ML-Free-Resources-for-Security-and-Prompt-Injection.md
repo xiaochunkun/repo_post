@@ -7,3 +7,5 @@ image: assets/anmolksachan_AI_ML_Free_Resources_for_Security_and_Prompt_Injectio
 # [anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection](https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection)
 
 Guide for learning AI security and penetration testing
+
+学习AI安全和渗透测试的指南

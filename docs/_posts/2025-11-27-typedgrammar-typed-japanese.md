@@ -7,3 +7,5 @@ image: assets/typedgrammar_typed_japanese_20251125_014427_758_20251126_101316_24
 # [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese/)
 
 Expresses Japanese sentences via TypeScript types
+
+通过 TypeScript 类型表达日语句子

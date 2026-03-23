@@ -7,3 +7,5 @@ image: assets/ling_drag0n_CloudPaste_20260122_004923_620_20260122_004941_68fa63.
 # [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
 
 Serverless file management with storage aggregation and WebDAV mounting
+
+带存储聚合和WebDAV挂载的无服务器文件管理

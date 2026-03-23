@@ -7,3 +7,5 @@ image: assets/ElegantEngineeringTech_laravel_invoices_20260215_135427_437_202602
 # [ElegantEngineeringTech/laravel-invoices](https://github.com/ElegantEngineeringTech/laravel-invoices)
 
 Generates PDF invoices with database storage and serial numbering
+
+带有数据库存储和序列编号的 PDF 发票生成器

@@ -7,3 +7,5 @@ image: assets/spotify_luigi_20251122_133258_599_20251123_000951_3e2668--20251123
 # [spotify/luigi](https://github.com/spotify/luigi/)
 
 Python package for batch job pipelines
+
+用于批处理作业管道的Python包

@@ -7,3 +7,5 @@ image: assets/20250912T002038984--tauri-apps--awesome-tauri--20250912T002237850-
 # [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
 
 Curated list of Tauri apps, plugins, guides, and tools
+
+精选 Tauri 应用、插件、指南和工具列表

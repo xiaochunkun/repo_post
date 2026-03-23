@@ -7,3 +7,5 @@ image: assets/futo_org_fcast_20260116_115244_987_20260116_115308_8f90e9.png
 # [futo-org/fcast](https://github.com/futo-org/fcast)
 
 Protocol for wireless streaming between devices
+
+设备间无线流媒体传输协议

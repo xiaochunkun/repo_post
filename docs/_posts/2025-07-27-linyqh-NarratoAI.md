@@ -7,3 +7,5 @@ image: assets/linyqh_NarratoAI_cropped.png
 # [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI)
 
 AI tool for auto video commentary, editing, voiceover, and subtitles
+
+AI 工具，用于自动视频解说、编辑、配音和字幕

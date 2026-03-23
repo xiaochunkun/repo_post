@@ -7,3 +7,5 @@ image: assets/dcSpark_shinkai_local_ai_agents_20251201_050749_605_20251201_05081
 # [dcSpark/shinkai-local-ai-agents](https://github.com/dcSpark/shinkai-local-ai-agents/)
 
 No-code builder for collaborative AI agents
+
+协作式 AI 代理的无代码构建器

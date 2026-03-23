@@ -7,3 +7,5 @@ image: assets/simonw_shot_scraper_20251110_155424_831_20251111_014654_978ffb--20
 # [simonw/shot-scraper](https://github.com/simonw/shot-scraper/)
 
 Command-line utility for taking automated screenshots of websites
+
+用于自动截取网站截图的命令行工具

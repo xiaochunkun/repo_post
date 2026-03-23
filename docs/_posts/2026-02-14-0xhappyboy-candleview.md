@@ -7,3 +7,5 @@ image: assets/0xhappyboy_candleview_20260212_061933_594_20260212_062007_14e956.p
 # [0xhappyboy/candleview](https://github.com/0xhappyboy/candleview)
 
 Visualizes financial time-series data with AI
+
+使用 AI 可视化金融时间序列数据

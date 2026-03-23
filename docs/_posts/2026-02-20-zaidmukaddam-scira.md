@@ -7,3 +7,5 @@ image: assets/zaidmukaddam_scira_20260203_071606_662_20260203_071638_61918b.png
 # [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
 
 Search engine with citations powered by Vercel AI SDK
+
+由 Vercel AI SDK 驱动的带引用的搜索引擎

@@ -7,3 +7,5 @@ image: assets/instavm_clickclickclick_20251225_165817_299_20251225_165834_af086d
 # [instavm/clickclickclick](https://github.com/instavm/clickclickclick/)
 
 Controls Android and macOS through LLMs
+
+通过 LLM 控制 Android 和 macOS

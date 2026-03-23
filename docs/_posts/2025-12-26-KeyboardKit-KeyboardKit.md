@@ -7,3 +7,5 @@ image: assets/KeyboardKit_KeyboardKit_20251225_074200_372_20251225_074219_6bc6ae
 # [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit/)
 
 Custom iOS keyboards with Swift and SwiftUI
+
+使用 Swift 和 SwiftUI 的自定义 iOS 键盘

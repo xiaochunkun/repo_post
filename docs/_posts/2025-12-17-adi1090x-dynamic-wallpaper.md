@@ -7,3 +7,5 @@ image: assets/adi1090x_dynamic_wallpaper_20251215_023850_881_20251215_023931_702
 # [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper/)
 
 Bash script sets wallpapers based on time
+
+基于时间设置壁纸的 Bash 脚本

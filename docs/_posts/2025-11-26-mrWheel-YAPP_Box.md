@@ -7,3 +7,5 @@ image: assets/mrWheel_YAPP_Box_20251123_205230_525_20251125_220658_abccee--20251
 # [mrWheel/YAPP_Box](https://github.com/mrWheel/YAPP_Box/)
 
 Parametric OpenSCAD enclosure generator
+
+参数化 OpenSCAD 外壳生成器

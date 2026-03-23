@@ -7,3 +7,5 @@ image: assets/dwarvesf_hidden_cropped.png
 # [dwarvesf/hidden](https://github.com/dwarvesf/hidden)
 
 macOS tool for hiding menu bar icons
+
+隐藏macOS菜单栏图标的工具

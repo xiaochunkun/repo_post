@@ -7,3 +7,5 @@ image: assets/PostHog_duckgres_20260227_124633_772_20260227_124817_0aaff7.png
 # [PostHog/duckgres](https://github.com/PostHog/duckgres)
 
 PostgreSQL server backed by DuckDB
+
+由 DuckDB 支持的 PostgreSQL 服务器

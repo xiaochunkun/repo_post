@@ -7,3 +7,5 @@ image: assets/20251015T010826840--Esubaalew--run--20251015T011409497--cropped.pn
 # [Esubaalew/run](https://github.com/Esubaalew/run)
 
 run code in 25+ languages from one CLI
+
+从一个 CLI 运行 25 种以上语言的代码

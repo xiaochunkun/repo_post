@@ -7,3 +7,5 @@ image: assets/Brightwing_Systems_LLC_mcp_manager_20260318_110822_167_20260318_11
 # [Brightwing-Systems-LLC/mcp-manager](https://github.com/Brightwing-Systems-LLC/mcp-manager)
 
 Manages MCP servers for AI tools
+
+管理 AI 工具的 MCP 服务器

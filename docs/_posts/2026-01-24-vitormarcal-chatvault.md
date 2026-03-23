@@ -7,3 +7,5 @@ image: assets/vitormarcal_chatvault_20260122_103914_669_20260122_103938_c2ab6f.p
 # [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault)
 
 Backs up WhatsApp conversations from multiple sources into a searchable interface
+
+将多来源的WhatsApp对话备份至可搜索界面

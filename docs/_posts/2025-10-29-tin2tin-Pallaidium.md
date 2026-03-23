@@ -7,3 +7,5 @@ image: assets/tin2tin_Pallaidium_20251029_193808_333_20251029_211302_855c71--202
 # [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium/)
 
 Generative AI studio for the Blender Video Editor
+
+Blender Video Editor 的生成式 AI 工作室

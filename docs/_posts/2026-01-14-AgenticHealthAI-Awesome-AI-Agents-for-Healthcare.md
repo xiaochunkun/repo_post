@@ -7,3 +7,5 @@ image: assets/AgenticHealthAI_Awesome_AI_Agents_for_Healthcare_20260114_041535_3
 # [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)
 
 Curated list of research papers on agentic AI for healthcare
+
+医疗领域 agentic AI 研究论文精选列表

@@ -7,3 +7,5 @@ image: assets/dotnet_Nerdbank_GitVersioning_20251202_203838_778_20251202_204042_
 # [dotnet/Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning/)
 
 Generates unique versions from git commits
+
+从git提交生成唯一版本号

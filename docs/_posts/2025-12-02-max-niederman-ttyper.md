@@ -7,3 +7,5 @@ image: assets/max_niederman_ttyper_20251201_023001_066_20251201_023110_2d6c40.pn
 # [max-niederman/ttyper](https://github.com/max-niederman/ttyper/)
 
 Terminal-based typing test built with Rust
+
+基于 Rust 构建的终端打字测试工具

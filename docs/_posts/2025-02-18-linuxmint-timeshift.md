@@ -7,3 +7,5 @@ image: assets/linuxmint_timeshift_cropped.png
 # [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
 
 Timeshift: System snapshot tool for Linux
+
+Timeshift：Linux 系统快照工具

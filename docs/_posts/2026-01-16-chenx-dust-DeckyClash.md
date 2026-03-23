@@ -7,3 +7,5 @@ image: assets/chenx_dust_DeckyClash_20260113_115506_253_20260113_115522_daab76.p
 # [chenx-dust/DeckyClash](https://github.com/chenx-dust/DeckyClash)
 
 Proxy client for Steam OS
+
+Steam OS 的代理客户端

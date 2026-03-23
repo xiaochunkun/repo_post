@@ -7,3 +7,5 @@ image: assets/mini_software_MiniExcel_20251125_021758_465_20251126_150248_994aa8
 # [mini-software/MiniExcel](https://github.com/mini-software/MiniExcel/)
 
 Low-memory Excel processing for .NET
+
+.NET 的低内存 Excel 处理库

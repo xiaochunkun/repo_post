@@ -7,3 +7,5 @@ image: assets/revenge_mod_revenge_bundle_20251218_004452_069_20251218_004510_22c
 # [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle/)
 
 Client modification for Discord mobile
+
+Discord 移动端的客户端修改

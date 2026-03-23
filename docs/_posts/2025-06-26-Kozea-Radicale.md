@@ -7,3 +7,5 @@ image: assets/Kozea_Radicale_cropped.png
 # [Kozea/Radicale](https://github.com/Kozea/Radicale)
 
 Calendar and contact server using CalDAV and CardDAV
+
+使用CalDAV和CardDAV的日历和联系人服务器

@@ -7,3 +7,5 @@ image: assets/screenshot_20251017_053542--20251017T073542280--cropped.png
 # [danielgatis/rembg](https://github.com/danielgatis/rembg/)
 
 Isolates image subjects by removing backgrounds
+
+通过移除背景来隔离图像主体

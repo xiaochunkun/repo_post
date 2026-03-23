@@ -7,3 +7,5 @@ image: assets/20250830T152828288--open-mmlab--Amphion--20250830T235042397--cropp
 # [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion)
 
 toolkit for audio, music, and speech generation research
+
+音频、音乐和语音生成研究工具包

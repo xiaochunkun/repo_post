@@ -7,3 +7,5 @@ image: assets/aelassas_wexcommerce_20260130_064708_024_20260130_064743_5e97c5.pn
 # [aelassas/wexcommerce](https://github.com/aelassas/wexcommerce)
 
 Marketplace with Stripe and PayPal integration
+
+集成 Stripe 和 PayPal 的市场平台

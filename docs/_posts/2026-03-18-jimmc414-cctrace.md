@@ -7,3 +7,5 @@ image: assets/jimmc414_cctrace_20260316_082843_748_20260316_082900_18d009.png
 # [jimmc414/cctrace](https://github.com/jimmc414/cctrace)
 
 Portable Claude Code session export and import
+
+便携式Claude Code会话导出和导入

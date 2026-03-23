@@ -7,3 +7,5 @@ image: assets/screenshot_20251017_061430--20251017T081430439--cropped.png
 # [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb/)
 
 Browser-based ER diagram editor with SQL script generation
+
+基于浏览器的ER图编辑器，支持SQL脚本生成

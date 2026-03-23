@@ -7,3 +7,5 @@ image: assets/20251001T204229887--TrySita--AutoDocs--20251001T204920958--cropped
 # [TrySita/AutoDocs](https://github.com/TrySita/AutoDocs)
 
 automates codebase docs by parsing, building dependency graphs, and enabling deep search
+
+自动化代码库文档，通过解析、构建依赖图和深度搜索

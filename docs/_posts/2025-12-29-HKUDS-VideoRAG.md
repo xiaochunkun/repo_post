@@ -7,3 +7,5 @@ image: assets/HKUDS_VideoRAG_20251228_015341_168_20251228_015402_5d3143.png
 # [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG/)
 
 Chat with videos through long-context processing
+
+通过长上下文处理与视频聊天

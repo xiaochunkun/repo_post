@@ -7,3 +7,5 @@ image: assets/20251001T133323546--jeremyckahn--chitchatter--20251001T133912386--
 # [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter)
 
 peer-to-peer encrypted chat, no server needed, ephemeral messages
+
+点对点加密聊天，无需服务器，消息临时性

@@ -7,3 +7,5 @@ image: assets/rllm_org_rllm_20251122_143130_647_20251123_001026_0e32df--20251123
 # [rllm-org/rllm](https://github.com/rllm-org/rllm/)
 
 Reinforcement learning framework for language agents
+
+语言智能体的强化学习框架

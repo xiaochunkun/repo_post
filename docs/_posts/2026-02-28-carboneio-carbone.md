@@ -7,3 +7,5 @@ image: assets/carboneio_carbone_20260227_235136_162_20260227_235333_9e9c19.png
 # [carboneio/carbone](https://github.com/carboneio/carbone)
 
 Generates reports from JSON data using templates
+
+使用模板从JSON数据生成报告

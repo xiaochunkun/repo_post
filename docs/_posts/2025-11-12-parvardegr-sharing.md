@@ -7,3 +7,5 @@ image: assets/parvardegr_sharing_20251111_193146_903_20251112_025137_8ab919--202
 # [parvardegr/sharing](https://github.com/parvardegr/sharing/)
 
 Share files from the CLI to mobile devices via a QR code
+
+通过二维码从 CLI 分享文件到移动设备

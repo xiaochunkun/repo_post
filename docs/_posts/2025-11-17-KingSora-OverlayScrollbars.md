@@ -7,3 +7,5 @@ image: assets/KingSora_OverlayScrollbars_20251115_053446_596_20251116_222243_7ef
 # [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars/)
 
 Javascript plugin for overlay scrollbars that preserves native feel
+
+保留原生感觉的覆盖滚动条 JavaScript 插件

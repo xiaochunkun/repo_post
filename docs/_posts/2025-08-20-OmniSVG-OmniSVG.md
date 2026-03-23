@@ -7,3 +7,5 @@ image: assets/20250818T123022801_OmniSVG_OmniSVG--20250818T123623551--cropped.pn
 # [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG)
 
 AI model that turns text or images into SVG graphics
+
+将文本或图像转换为 SVG 图形的 AI 模型

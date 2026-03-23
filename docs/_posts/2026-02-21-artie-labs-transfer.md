@@ -7,3 +7,5 @@ image: assets/artie_labs_transfer_20260220_150906_584_20260220_150931_c8c77f.png
 # [artie-labs/transfer](https://github.com/artie-labs/transfer)
 
 Replicates data between databases in real-time
+
+在数据库之间实时复制数据

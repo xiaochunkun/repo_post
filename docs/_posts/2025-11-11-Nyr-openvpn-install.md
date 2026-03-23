@@ -7,3 +7,5 @@ image: assets/Nyr_openvpn_install_20251110_145521_578_20251111_013956_8f6dd7--20
 # [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install/)
 
 Script to set up a personal OpenVPN server
+
+用于设置个人OpenVPN服务器的脚本

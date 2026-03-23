@@ -7,3 +7,5 @@ image: assets/KartikLabhshetwar_better_shot_20260114_021142_294_20260114_021156_
 # [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot)
 
 Screenshot tool with background effects and annotation tools
+
+带背景效果和标注工具的截图工具

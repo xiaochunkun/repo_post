@@ -7,3 +7,5 @@ image: assets/ircfspace_githubMirror_20260307_173050_490_20260307_173210_403dc2.
 # [ircfspace/githubMirror](https://github.com/ircfspace/githubMirror)
 
 Monitor GitHub releases via Telegram bot
+
+通过Telegram机器人监控GitHub发布

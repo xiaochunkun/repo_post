@@ -7,3 +7,5 @@ image: assets/YUZU_Hub_appscreen_20260203_002745_750_20260203_002802_ce4e4b.png
 # [YUZU-Hub/appscreen](https://github.com/YUZU-Hub/appscreen)
 
 Generates App Store screenshots with 3D device mockups
+
+使用 3D 设备模型生成 App Store 截图

@@ -7,3 +7,5 @@ image: assets/20250825T034057004--rustho--openapi-to-mcp--20250825T035117600--cr
 # [rustho/openapi-to-mcp](https://github.com/rustho/openapi-to-mcp)
 
 Convert OpenAPI specs to MCP tools for AI agents and plugins in seconds
+
+秒速将 OpenAPI 规范转换为 AI 智能体可用的 MCP 工具

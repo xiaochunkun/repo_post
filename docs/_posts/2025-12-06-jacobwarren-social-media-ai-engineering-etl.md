@@ -7,3 +7,5 @@ image: assets/jacobwarren_social_media_ai_engineering_etl_20251204_230656_791_20
 # [jacobwarren/social-media-ai-engineering-etl](https://github.com/jacobwarren/social-media-ai-engineering-etl/)
 
 Pipeline turns social posts into LLM training datasets
+
+将社交媒体帖子转换为LLM训练数据集的管道

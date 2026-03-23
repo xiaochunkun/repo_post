@@ -7,3 +7,5 @@ image: assets/cporter202_automate_faceless_content_20251227_042032_383_20251227_
 # [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content/)
 
 Automates faceless video creation for social media
+
+自动化社交媒体无脸视频创作

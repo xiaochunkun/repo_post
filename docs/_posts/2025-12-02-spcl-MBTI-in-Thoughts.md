@@ -7,3 +7,5 @@ image: assets/spcl_MBTI_in_Thoughts_20251130_085554_205_20251201_012253_ee3259.p
 # [spcl/MBTI-in-Thoughts](https://github.com/spcl/MBTI-in-Thoughts/)
 
 Primes LLM agents with MBTI personality archetypes
+
+使用 MBTI 人格原型初始化 LLM 智能体

@@ -7,3 +7,5 @@ image: assets/tiny-craft_tiny-rdm_cropped.png
 # [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
 
 Redis GUI client for Windows, Mac, Linux
+
+适用于Windows、Mac、Linux的Redis GUI客户端

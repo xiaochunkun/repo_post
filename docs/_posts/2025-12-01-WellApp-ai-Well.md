@@ -7,3 +7,5 @@ image: assets/WellApp_ai_Well_20251130_065041_252_20251130_084818_44b62e--202511
 # [WellApp-ai/Well](https://github.com/WellApp-ai/Well/)
 
 Chrome extension automates invoice retrieval
+
+Chrome扩展，自动获取发票

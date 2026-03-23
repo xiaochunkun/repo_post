@@ -7,3 +7,5 @@ image: assets/20250822T015900085--haydenbleasel--kibo--20250822T021028393--cropp
 # [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo)
 
 Composable React UI components for shadcn/ui projects
+
+面向 shadcn/ui 项目的可组合 React UI 组件

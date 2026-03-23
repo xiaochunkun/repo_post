@@ -7,3 +7,5 @@ image: assets/pacstall_pacstall_20251126_010531_260_20251129_021821_c2ded4--2025
 # [pacstall/pacstall](https://github.com/pacstall/pacstall/)
 
 AUR-inspired package manager for Ubuntu
+
+受AUR启发的Ubuntu包管理器

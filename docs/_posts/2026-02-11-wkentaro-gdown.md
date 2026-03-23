@@ -7,3 +7,5 @@ image: assets/wkentaro_gdown_20260203_213208_461_20260203_213257_a57196.png
 # [wkentaro/gdown](https://github.com/wkentaro/gdown)
 
 Downloads files from Google Drive when curl or wget fails
+
+当 curl 或 wget 失败时从 Google Drive 下载文件

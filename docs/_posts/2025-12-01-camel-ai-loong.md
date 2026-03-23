@@ -7,3 +7,5 @@ image: assets/camel_ai_loong_20251130_071814_427_20251130_085205_3a42e7--2025113
 # [camel-ai/loong](https://github.com/camel-ai/loong/)
 
 Bootstraps reasoning models via synthetic data
+
+通过合成数据引导推理模型

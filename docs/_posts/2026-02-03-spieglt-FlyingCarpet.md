@@ -7,3 +7,5 @@ image: assets/spieglt_FlyingCarpet_20260203_183208_795_20260203_183253_396a7e.pn
 # [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet)
 
 Transfers files over ad hoc WiFi without network infrastructure
+
+通过临时 WiFi 传输文件，无需网络基础设施

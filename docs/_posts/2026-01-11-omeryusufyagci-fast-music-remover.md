@@ -7,3 +7,5 @@ image: assets/omeryusufyagci_fast_music_remover_20260108_022352_488_20260108_022
 # [omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover)
 
 Removes background music from videos
+
+从视频中移除背景音乐

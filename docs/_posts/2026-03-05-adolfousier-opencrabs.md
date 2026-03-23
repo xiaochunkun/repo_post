@@ -7,3 +7,5 @@ image: assets/adolfousier_opencrabs_20260305_035300_690_20260305_035443_cac84b.p
 # [adolfousier/opencrabs](https://github.com/adolfousier/opencrabs)
 
 Agent for AI tasks in a terminal
+
+终端中的 AI 任务代理

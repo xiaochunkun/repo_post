@@ -7,3 +7,5 @@ image: assets/chatdoc-com_OCRFlux_cropped.png
 # [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux)
 
 turns PDFs and images into clean Markdown with AI
+
+使用 AI 将 PDF 和图像转换为干净的 Markdown

@@ -7,3 +7,5 @@ image: assets/20250826T030442108--mtdvio--every-programmer-should-know--20250826
 # [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 
 curated list of must-know programming concepts and resources
+
+程序员必知的编程概念和资源精选

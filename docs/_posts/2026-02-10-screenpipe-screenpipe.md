@@ -7,3 +7,5 @@ image: assets/screenpipe_screenpipe_20260205_163226_887_20260205_163253_f3c04e.p
 # [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
 
 Records screen and audio for local search
+
+录制屏幕和音频用于本地搜索

@@ -7,3 +7,5 @@ image: assets/lewish_asciiflow_20260205_130148_221_20260205_130224_fe9b7d.png
 # [lewish/asciiflow](https://github.com/lewish/asciiflow)
 
 Draws diagrams with ASCII characters
+
+使用ASCII字符绘制图表

@@ -7,3 +7,5 @@ image: assets/vitorfhc_rssnotifier_cropped.png
 # [vitorfhc/rssnotifier](https://github.com/vitorfhc/rssnotifier)
 
 get RSS feed notifications by email
+
+通过电子邮件获取 RSS 源通知

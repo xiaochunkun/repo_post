@@ -7,3 +7,5 @@ image: assets/wonderwhy_er_DesktopCommanderMCP_20260316_020359_254_20260316_0204
 # [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
 AI MCP server for terminal and file control
+
+用于终端和文件控制的AI MCP服务器

@@ -7,3 +7,5 @@ image: assets/openwisp_openwisp_controller_20251209_040554_130_20251209_040629_9
 # [openwisp/openwisp-controller](https://github.com/openwisp/openwisp-controller/)
 
 Configuration manager for network automation and provisioning
+
+网络自动化和配置管理的配置管理器

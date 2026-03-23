@@ -7,3 +7,5 @@ image: assets/astramind_ai_Auralis_20251115_045359_493_20251116_135938_ed88b3--2
 # [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis/)
 
 Text-to-speech engine for long-form audio
+
+长篇音频的文本转语音引擎

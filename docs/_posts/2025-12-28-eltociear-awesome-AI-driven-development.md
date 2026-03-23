@@ -7,3 +7,5 @@ image: assets/eltociear_awesome_AI_driven_development_20251227_081206_935_202512
 # [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development/)
 
 List of tools for development with AI
+
+AI 驱动开发的工具列表

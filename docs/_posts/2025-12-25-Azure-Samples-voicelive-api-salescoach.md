@@ -7,3 +7,5 @@ image: assets/Azure_Samples_voicelive_api_salescoach_20251224_184815_573_2025122
 # [Azure-Samples/voicelive-api-salescoach](https://github.com/Azure-Samples/voicelive-api-salescoach/)
 
 Voice training for sales professionals on Azure
+
+在 Azure 上为销售专业人员提供语音训练

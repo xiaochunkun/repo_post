@@ -7,3 +7,5 @@ image: assets/pyg_team_pytorch_frame_20251209_072046_403_20251210_011846_10c92e.
 # [pyg-team/pytorch-frame](https://github.com/pyg-team/pytorch-frame/)
 
 Deep learning framework for heterogeneous tabular data
+
+用于异构表格数据的深度学习框架

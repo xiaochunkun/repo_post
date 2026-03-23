@@ -7,3 +7,5 @@ image: assets/infracost_infracost_20251115_045107_312_20251116_135853_e71896--20
 # [infracost/infracost](https://github.com/infracost/infracost/)
 
 See cloud cost estimates for Terraform in pull requests
+
+在 pull requests 中查看 Terraform 云成本估算

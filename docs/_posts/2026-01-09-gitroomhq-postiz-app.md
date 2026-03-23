@@ -7,3 +7,5 @@ image: assets/gitroomhq_postiz_app_20260108_022032_246_20260108_022047_a2f05b.pn
 # [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 
 Schedules social media posts with AI
+
+使用AI调度社交媒体帖子

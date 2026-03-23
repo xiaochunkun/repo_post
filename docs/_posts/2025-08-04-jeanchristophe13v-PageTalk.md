@@ -7,3 +7,5 @@ image: assets/jeanchristophe13v_PageTalk_cropped.png
 # [jeanchristophe13v/PageTalk](https://github.com/jeanchristophe13v/PageTalk)
 
 chat with web pages using AI
+
+使用AI与网页对话

@@ -7,3 +7,5 @@ image: assets/longbridge_gpui_component_20260203_003948_301_20260203_004029_841d
 # [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
 
 Rust UI components for desktop applications using GPU
+
+使用 GPU 的桌面应用 Rust UI 组件

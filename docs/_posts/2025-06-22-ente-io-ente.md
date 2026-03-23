@@ -7,3 +7,5 @@ image: assets/ente-io_ente_cropped.png
 # [ente-io/ente](https://github.com/ente-io/ente)
 
 Cloud storage for photos, videos, and 2FA codes with end-to-end encryption
+
+端到端加密的照片、视频和2FA代码云存储

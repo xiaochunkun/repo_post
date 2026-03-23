@@ -7,3 +7,5 @@ image: assets/taranis_ai_taranis_ai_20260212_083942_365_20260212_084013_9583d8.p
 # [taranis-ai/taranis-ai](https://github.com/taranis-ai/taranis-ai)
 
 OSINT tool for news analysis
+
+用于新闻分析的OSINT工具

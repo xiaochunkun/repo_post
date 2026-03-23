@@ -7,3 +7,5 @@ image: assets/virattt_ai-hedge-fund_cropped.png
 # [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 
 AI-powered hedge fund project using multiple agents for trading decisions
+
+使用多个代理进行交易决策的 AI 驱动对冲基金项目

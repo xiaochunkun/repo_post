@@ -7,3 +7,5 @@ image: assets/20251007T030414667--buildzaku--zaku--20251007T031812487--cropped.p
 # [buildzaku/zaku](https://github.com/buildzaku/zaku)
 
 Cross-platform open-source API client with a desktop interface
+
+跨平台开源 API 客户端，带桌面界面

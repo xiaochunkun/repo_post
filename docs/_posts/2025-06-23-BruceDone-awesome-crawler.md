@@ -7,3 +7,5 @@ image: assets/BruceDone_awesome-crawler_cropped.png
 # [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler)
 
 list of web crawler and spider projects in many languages
+
+多种语言的网络爬虫和蜘蛛项目列表

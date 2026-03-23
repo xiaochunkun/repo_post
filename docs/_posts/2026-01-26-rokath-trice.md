@@ -7,3 +7,5 @@ image: assets/rokath_trice_20260117_053235_851_20260117_053249_0e59de.png
 # [rokath/trice](https://github.com/rokath/trice)
 
 Logs strings from embedded devices to PCs in under 1 microsecond
+
+在 1 微秒内将字符串从嵌入式设备记录到 PC

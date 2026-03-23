@@ -7,3 +7,5 @@ image: assets/pinokiofactory_cogstudio_20251231_042121_321_20251231_042137_f8e5c
 # [pinokiofactory/cogstudio](https://github.com/pinokiofactory/cogstudio/)
 
 Web UI for CogVideo with tab-based workflow
+
+带标签工作流的CogVideo Web UI

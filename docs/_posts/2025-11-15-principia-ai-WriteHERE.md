@@ -7,3 +7,5 @@ image: assets/principia_ai_WriteHERE_20251114_075243_497_20251115_034111_2ba921-
 # [principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE/)
 
 Open-source framework for long-form writing with adaptive planning
+
+支持自适应规划的长篇写作开源框架

@@ -7,3 +7,5 @@ image: assets/IliasHad_edit_mind_20251108_223152_105_20251109_000504_5d8aba--202
 # [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind/)
 
 Desktop app for offline, AI-powered video search
+
+支持离线AI视频搜索的桌面应用

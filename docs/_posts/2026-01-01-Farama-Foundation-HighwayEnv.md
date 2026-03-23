@@ -7,3 +7,5 @@ image: assets/Farama_Foundation_HighwayEnv_20260101_025749_400_20260101_025805_f
 # [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv/)
 
 Environments for autonomous driving and decision-making tasks
+
+用于自动驾驶和决策任务的环境

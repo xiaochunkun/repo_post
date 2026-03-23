@@ -7,3 +7,5 @@ image: assets/20250825T035203858--Textualize--frogmouth--20250829T045000953--cro
 # [Textualize/frogmouth](https://github.com/Textualize/frogmouth)
 
 Terminal Markdown viewer with navigation, bookmarks, and table of contents
+
+终端 Markdown 查看器，支持导航、书签和目录

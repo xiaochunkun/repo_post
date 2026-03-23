@@ -7,3 +7,5 @@ image: assets/mojolicious_mojo_20251215_003216_143_20251215_003237_1e4dfe.png
 # [mojolicious/mojo](https://github.com/mojolicious/mojo/)
 
 Real-time web framework for Perl
+
+用于Perl的实时Web框架

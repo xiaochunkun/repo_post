@@ -7,3 +7,5 @@ image: assets/angristan_MacThrottle_20260209_035628_034_20260209_035704_a38b37.p
 # [angristan/MacThrottle](https://github.com/angristan/MacThrottle)
 
 Monitors thermal pressure and alerts when throttling occurs
+
+监控热压力并在降频时发出警报

@@ -7,3 +7,5 @@ image: assets/thoughtbot_top_secret_20260304_202651_793_20260304_202845_9628bf.p
 # [thoughtbot/top_secret](https://github.com/thoughtbot/top_secret)
 
 Tool for redaction of information from text before transmission to external services
+
+在传输到外部服务前从文本中删除信息的工具

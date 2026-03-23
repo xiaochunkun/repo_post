@@ -7,3 +7,5 @@ image: assets/20251005T103313732--RaspAP--raspap-webgui--20251005T104310703--cro
 # [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui)
 
 turn a Raspberry Pi into a wireless router with web-based controls
+
+将树莓派变成带网页控制界面的无线路由器

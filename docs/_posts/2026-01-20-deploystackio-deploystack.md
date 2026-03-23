@@ -7,3 +7,5 @@ image: assets/deploystackio_deploystack_20260115_175832_707_20260115_175853_72e7
 # [deploystackio/deploystack](https://github.com/deploystackio/deploystack)
 
 Centralized management platform for MCP servers and credentials
+
+MCP服务器和凭证的集中管理平台

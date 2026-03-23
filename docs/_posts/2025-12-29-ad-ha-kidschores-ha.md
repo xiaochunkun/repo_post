@@ -7,3 +7,5 @@ image: assets/ad_ha_kidschores_ha_20251227_165908_281_20251227_165925_2e3f01.png
 # [ad-ha/kidschores-ha](https://github.com/ad-ha/kidschores-ha/)
 
 Chore and reward system for Home Assistant
+
+Home Assistant 的家务和奖励系统

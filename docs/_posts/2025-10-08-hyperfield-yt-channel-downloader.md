@@ -7,3 +7,5 @@ image: assets/20251007T190834444--hyperfield--yt-channel-downloader--20251007T19
 # [hyperfield/yt-channel-downloader](https://github.com/hyperfield/yt-channel-downloader)
 
 Download YouTube channel videos with a simple desktop app
+
+使用简单的桌面应用下载 YouTube 频道视频

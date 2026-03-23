@@ -7,3 +7,5 @@ image: assets/dyerc_Doughnut_20260117_224218_706_20260117_224239_e3b028.png
 # [dyerc/Doughnut](https://github.com/dyerc/Doughnut)
 
 Podcast client for Mac with a three column layout
+
+三栏布局的Mac播客客户端

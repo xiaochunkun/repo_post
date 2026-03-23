@@ -7,3 +7,5 @@ image: assets/20251001T113753655--sytone--obsidian-remote--20251001T122039688--c
 # [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote)
 
 run obsidian in docker and access notes from your browser
+
+在Docker中运行Obsidian，并通过浏览器访问笔记

@@ -7,3 +7,5 @@ image: assets/mumble-voip_mumble_cropped.png
 # [mumble-voip/mumble](https://github.com/mumble-voip/mumble)
 
 voice chat software for groups and servers
+
+用于群组和服务器的语音聊天软件

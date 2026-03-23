@@ -7,3 +7,5 @@ image: assets/Shubhamsaboo_awesome-llm-apps_cropped.png
 # [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 Curated list of LLM apps built with RAG and AI agents using models from OpenAI, Anthropic, and others
+
+精选LLM应用列表，使用OpenAI、Anthropic等模型的RAG和AI代理构建

@@ -7,3 +7,5 @@ image: assets/ahmet_cetinkaya_whph_20251031_084201_994_20251101_211854_1bfa05--2
 # [ahmet-cetinkaya/whph](https://github.com/ahmet-cetinkaya/whph/)
 
 Productivity app that manages tasks, habits, and tracks app usage
+
+管理任务、习惯并追踪应用使用的生产力应用

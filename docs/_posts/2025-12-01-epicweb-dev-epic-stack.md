@@ -7,3 +7,5 @@ image: assets/epicweb_dev_epic_stack_20251130_061231_520_20251130_084402_5963fb-
 # [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack/)
 
 Opinionated full stack app starter
+
+固执己见的全栈应用启动器

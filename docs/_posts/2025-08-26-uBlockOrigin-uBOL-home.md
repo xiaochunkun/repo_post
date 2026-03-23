@@ -7,3 +7,5 @@ image: assets/20250825T030926114--uBlockOrigin--uBOL-home--20250825T031527614--c
 # [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home)
 
 lightweight ad blocker for browsers
+
+轻量级浏览器广告拦截器

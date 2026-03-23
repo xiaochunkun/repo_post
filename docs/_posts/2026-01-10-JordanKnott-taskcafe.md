@@ -7,3 +7,5 @@ image: assets/JordanKnott_taskcafe_20260108_112308_379_20260108_112322_04ba98.pn
 # [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe)
 
 Kanban board for project management
+
+项目管理看板

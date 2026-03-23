@@ -7,3 +7,5 @@ image: assets/Soluce_Technologies_portabase_20251231_204430_419_20251231_204447_
 # [Soluce-Technologies/portabase](https://github.com/Soluce-Technologies/portabase/)
 
 Automates backup and restoration of database instances
+
+自动化数据库实例的备份和恢复

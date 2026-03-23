@@ -7,3 +7,5 @@ image: assets/pehlicd_amtui_20251114_161540_276_20251115_034516_a0ac16--20251115
 # [pehlicd/amtui](https://github.com/pehlicd/amtui/)
 
 Terminal user interface for Prometheus Alertmanager
+
+Prometheus Alertmanager的终端用户界面

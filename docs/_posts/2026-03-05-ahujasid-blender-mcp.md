@@ -7,3 +7,5 @@ image: assets/ahujasid_blender_mcp_20260206_212619_378_20260206_212649_81ef40.pn
 # [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
 
 Controls Blender through Claude AI via Model Context Protocol
+
+通过 Model Context Protocol 使用 Claude AI 控制 Blender

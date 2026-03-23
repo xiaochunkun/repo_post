@@ -7,3 +7,5 @@ image: assets/BrikerMan_skilless_ai_20260305_144901_704_20260305_145016_0ba74f.p
 # [BrikerMan/skilless.ai](https://github.com/BrikerMan/skilless.ai)
 
 Tool for AI agents to search the web and process media
+
+AI 代理的网页搜索与媒体处理工具

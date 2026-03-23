@@ -7,3 +7,5 @@ image: assets/littleosbook_littleosbook_cropped.png
 # [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook)
 
 source files and build scripts for a book on making an OS from scratch
+
+从零开始制作操作系统的书籍源代码和构建脚本

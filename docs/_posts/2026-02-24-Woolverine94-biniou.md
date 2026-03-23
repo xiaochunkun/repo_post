@@ -7,3 +7,5 @@ image: assets/Woolverine94_biniou_20260223_064231_757_20260223_064246_398f40.png
 # [Woolverine94/biniou](https://github.com/Woolverine94/biniou)
 
 Generates multimedia and chatbots without a GPU
+
+无需GPU生成多媒体和聊天机器人

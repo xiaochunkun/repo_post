@@ -7,3 +7,5 @@ image: assets/pacholoamit_pachtop_20260125_011229_058_20260125_011319_77d048.png
 # [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop)
 
 System monitor built with Rust and Tauri
+
+基于Rust和Tauri构建的系统监控工具

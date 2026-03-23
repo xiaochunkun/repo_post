@@ -7,3 +7,5 @@ image: assets/ytmdesktop_ytmdesktop_20260208_005948_527_20260208_010038_fd1fa9.p
 # [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop)
 
 Desktop client for YouTube Music
+
+YouTube Music桌面客户端

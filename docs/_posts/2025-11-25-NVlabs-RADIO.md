@@ -7,3 +7,5 @@ image: assets/NVlabs_RADIO_20251123_191211_517_20251124_184911_02c79a--20251124T
 # [NVlabs/RADIO](https://github.com/NVlabs/RADIO/)
 
 Distills vision foundation models into one
+
+将视觉基础模型蒸馏为单一模型

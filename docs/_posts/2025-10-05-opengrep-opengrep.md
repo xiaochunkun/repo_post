@@ -7,3 +7,5 @@ image: assets/20251005T002457604--opengrep--opengrep--20251005T002854908--croppe
 # [opengrep/opengrep](https://github.com/opengrep/opengrep)
 
 open source static code analysis tool for finding security issues
+
+用于发现安全问题的开源静态代码分析工具

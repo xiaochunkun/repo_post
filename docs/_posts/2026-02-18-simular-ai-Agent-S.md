@@ -7,3 +7,5 @@ image: assets/simular_ai_Agent_S_20260210_190811_370_20260210_190831_cfb43d.png
 # [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
 
 Framework for agents to use computers like humans
+
+代理像人类一样使用计算机的框架

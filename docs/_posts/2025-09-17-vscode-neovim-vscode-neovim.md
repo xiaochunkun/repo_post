@@ -7,3 +7,5 @@ image: assets/20250915T234527351--vscode-neovim--vscode-neovim--20250915T2357045
 # [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim)
 
 Vim keybindings in VSCode using real Neovim
+
+在 VSCode 中使用真实 Neovim 的 Vim 键绑定

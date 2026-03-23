@@ -7,3 +7,5 @@ image: assets/showlab_Code2Video_20251121_131052_795_20251121_232116_e83e10--202
 # [showlab/Code2Video](https://github.com/showlab/Code2Video/)
 
 Generates videos for education via code
+
+通过代码生成教育视频

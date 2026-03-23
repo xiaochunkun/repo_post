@@ -7,3 +7,5 @@ image: assets/coderamp_labs_pad_ws_20260112_174642_529_20260112_174658_6a40ea.pn
 # [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws)
 
 Whiteboard with terminals and code editors
+
+带有终端和代码编辑器的白板

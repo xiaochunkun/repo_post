@@ -7,3 +7,5 @@ image: assets/20250903T030522062--ClassicOldSong--Apollo--20250903T031312653--cr
 # [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo)
 
 self-hosted PC game streaming server for any device
+
+可自托管的 PC 游戏串流服务器，支持任何设备

@@ -7,3 +7,5 @@ image: assets/gnmyt_MySpeed_20251023_001125_585_20251024_231141_3b3ce6--20251025
 # [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed/)
 
 Self-hosted software for internet speed analysis
+
+自托管互联网速度分析软件

@@ -7,3 +7,5 @@ image: assets/20250915T230846901--google--googletest--20250915T231644022--croppe
 # [google/googletest](https://github.com/google/googletest)
 
 C++ unit testing framework with assertions, test discovery, and support for major platforms
+
+C++ 单元测试框架，包含断言、测试发现和主流平台支持

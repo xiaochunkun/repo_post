@@ -7,3 +7,5 @@ image: assets/sqfmi_Watchy_20251120_065337_555_20251121_055005_52c3b4--20251121T
 # [sqfmi/Watchy](https://github.com/sqfmi/Watchy/)
 
 Open source E-Paper smartwatch
+
+开源 E-Paper 智能手表

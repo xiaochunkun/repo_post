@@ -7,3 +7,5 @@ image: assets/home_operations_tuppr_20251121_135328_732_20251122_034214_fb38ad--
 # [home-operations/tuppr](https://github.com/home-operations/tuppr/)
 
 Automates Talos Linux and Kubernetes upgrades
+
+自动化 Talos Linux 和 Kubernetes 升级

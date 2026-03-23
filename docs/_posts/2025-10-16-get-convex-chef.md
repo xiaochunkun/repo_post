@@ -7,3 +7,5 @@ image: assets/20251016T020745767--get-convex--chef--20251016T043943959--cropped.
 # [get-convex/chef](https://github.com/get-convex/chef)
 
 AI app builder with Convex backend integration
+
+AI 应用构建器，集成 Convex 后端

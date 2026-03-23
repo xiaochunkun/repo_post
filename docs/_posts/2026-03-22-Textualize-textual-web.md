@@ -7,3 +7,5 @@ image: assets/Textualize_textual_web_20260321_114926_125_20260321_114947_2db6cf.
 # [Textualize/textual-web](https://github.com/Textualize/textual-web)
 
 Publishes Textual apps on the web
+
+在Web上发布Textual应用

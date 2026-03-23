@@ -7,3 +7,5 @@ image: assets/surrealdb_surrealdb_cropped.png
 # [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 
 Multi-model database for realtime apps
+
+用于实时应用的多模型数据库

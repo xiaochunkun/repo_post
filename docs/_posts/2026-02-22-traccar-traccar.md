@@ -7,3 +7,5 @@ image: assets/traccar_traccar_20260208_183920_570_20260208_183943_833028.png
 # [traccar/traccar](https://github.com/traccar/traccar)
 
 GPS tracking system supporting 200 protocols and 2000 device models
+
+支持200种协议和2000种设备型号的GPS追踪系统

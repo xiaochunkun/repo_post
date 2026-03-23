@@ -7,3 +7,5 @@ image: assets/20250831T025539433--chubin--wttr.in--20250831T030550711--cropped.p
 # [chubin/wttr.in](https://github.com/chubin/wttr.in)
 
 weather in your terminal with curl
+
+终端中用 curl 查看天气

@@ -7,3 +7,5 @@ image: assets/docent_net_cluster_bare_autoscaler_20260117_021316_086_20260117_02
 # [docent-net/cluster-bare-autoscaler](https://github.com/docent-net/cluster-bare-autoscaler)
 
 Powers nodes on and off via Wake-on-LAN
+
+通过Wake-on-LAN开关节点电源

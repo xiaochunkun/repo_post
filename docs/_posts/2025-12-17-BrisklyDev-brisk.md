@@ -7,3 +7,5 @@ image: assets/BrisklyDev_brisk_20251216_065551_742_20251216_065618_c1dbfb.png
 # [BrisklyDev/brisk](https://github.com/BrisklyDev/brisk/)
 
 Cross-platform desktop download manager
+
+跨平台桌面下载管理器

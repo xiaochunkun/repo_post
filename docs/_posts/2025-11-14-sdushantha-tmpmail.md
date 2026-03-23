@@ -7,3 +7,5 @@ image: assets/sdushantha_tmpmail_20251113_202030_412_20251114_015521_44d7bb--202
 # [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail/)
 
 Temporary email from your terminal
+
+从终端获取临时邮箱

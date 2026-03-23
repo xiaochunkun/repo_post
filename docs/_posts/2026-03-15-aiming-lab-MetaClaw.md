@@ -7,3 +7,5 @@ image: assets/aiming_lab_MetaClaw_20260315_055342_442_20260315_055513_51da2d.png
 # [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw)
 
 Meta-learns and evolves AI agents without GPU
+
+无需GPU的元学习和进化AI代理

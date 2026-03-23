@@ -7,3 +7,5 @@ image: assets/langchain-ai_open-canvas_cropped.png
 # [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas)
 
 Open-source AI collaboration platform
+
+开源AI协作平台

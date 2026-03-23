@@ -7,3 +7,5 @@ image: assets/charmbracelet_crush_20260303_083947_853_20260303_084148_e0698c.png
 # [charmbracelet/crush](https://github.com/charmbracelet/crush)
 
 Terminal agent for coding with LLMs and MCPs
+
+终端代理，用于使用 LLM 和 MCP 进行编码

@@ -7,3 +7,5 @@ image: assets/ssshake_retro_computing_internet_resources_20260201_082818_297_202
 # [ssshake/retro-computing-internet-resources](https://github.com/ssshake/retro-computing-internet-resources)
 
 Connects vintage computers to the internet
+
+将复古计算机连接到互联网

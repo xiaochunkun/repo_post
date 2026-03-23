@@ -7,3 +7,5 @@ image: assets/davidteather_TikTok_Api_20251119_220325_717_20251120_003522_edec4a
 # [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api/)
 
 API to retrieve data from TikTok
+
+从 TikTok 检索数据的 API

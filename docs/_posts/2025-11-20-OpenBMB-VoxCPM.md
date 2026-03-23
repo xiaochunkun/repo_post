@@ -7,3 +7,5 @@ image: assets/OpenBMB_VoxCPM_20251120_010558_388_20251120_010956_4b79a4--2025112
 # [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM/)
 
 Synthesizes speech without tokenizers
+
+无分词器语音合成

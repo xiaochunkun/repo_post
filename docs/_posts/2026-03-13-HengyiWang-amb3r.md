@@ -7,3 +7,5 @@ image: assets/HengyiWang_amb3r_20260304_035723_805_20260304_035904_7331f7.png
 # [HengyiWang/amb3r](https://github.com/HengyiWang/amb3r)
 
 3D reconstruction from images with backend integration
+
+带后端集成的图像 3D 重建

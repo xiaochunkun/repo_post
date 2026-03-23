@@ -7,3 +7,5 @@ image: assets/twelvesec_PwnPad_20260207_132122_702_20260207_132143_77a52a.png
 # [twelvesec/PwnPad](https://github.com/twelvesec/PwnPad)
 
 Hardware hacking platform for learning security concepts
+
+学习安全概念的硬件黑客平台

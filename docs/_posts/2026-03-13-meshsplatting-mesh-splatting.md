@@ -7,3 +7,5 @@ image: assets/meshsplatting_mesh_splatting_20260304_222519_046_20260304_222647_0
 # [meshsplatting/mesh-splatting](https://github.com/meshsplatting/mesh-splatting)
 
 Differentiable rendering with meshes for computer vision
+
+用于计算机视觉的带网格的可微分渲染

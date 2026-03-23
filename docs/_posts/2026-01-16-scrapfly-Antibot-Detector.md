@@ -7,3 +7,5 @@ image: assets/scrapfly_Antibot_Detector_20260116_001327_240_20260116_001342_731e
 # [scrapfly/Antibot-Detector](https://github.com/scrapfly/Antibot-Detector)
 
 Identifies anti-bot systems and browser fingerprinting techniques
+
+识别反机器人系统和浏览器指纹技术

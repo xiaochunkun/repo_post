@@ -7,3 +7,5 @@ image: assets/eerimoq_moblin_20260227_132948_477_20260227_133133_e402c3.png
 # [eerimoq/moblin](https://github.com/eerimoq/moblin)
 
 Streams video from iOS devices using SRT and bonding
+
+使用SRT和绑定从iOS设备流式传输视频

@@ -7,3 +7,5 @@ image: assets/mandiant_gocrack_20260209_201857_460_20260209_201941_41c4f2.png
 # [mandiant/gocrack](https://github.com/mandiant/gocrack)
 
 Management frontend for password cracking tools
+
+密码破解工具的管理前端

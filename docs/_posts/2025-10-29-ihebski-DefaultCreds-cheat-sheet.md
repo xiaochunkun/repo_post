@@ -7,3 +7,5 @@ image: assets/ihebski_DefaultCreds_cheat_sheet_20251027_192838_121_20251028_0916
 # [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet/)
 
 A cheat sheet of default credentials for pentesters
+
+渗透测试人员的默认凭据速查表

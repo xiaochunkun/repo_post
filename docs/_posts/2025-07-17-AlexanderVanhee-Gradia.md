@@ -7,3 +7,5 @@ image: assets/AlexanderVanhee_Gradia_cropped.png
 # [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia)
 
 make screenshots look better with quick edits and annotations
+
+通过快速编辑和标注让截图更美观

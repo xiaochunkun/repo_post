@@ -7,3 +7,5 @@ image: assets/liamcottle_reticulum_meshchat_20251130_081727_551_20251201_004826_
 # [liamcottle/reticulum-meshchat](https://github.com/liamcottle/reticulum-meshchat/)
 
 Mesh network communications app over LoRa
+
+基于 LoRa 的 Mesh 网络通信应用

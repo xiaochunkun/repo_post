@@ -7,3 +7,5 @@ image: assets/TurboVNC_turbovnc_20251107_001342_623_20251107_214847_9ac082--2025
 # [TurboVNC/turbovnc](https://github.com/TurboVNC/turbovnc/)
 
 VNC variant for applications with high image throughput
+
+适用于高图像吞吐量应用的VNC变体

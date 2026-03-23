@@ -7,3 +7,5 @@ image: assets/NullPointerDepressiveDisorder_MiddleDrag_20260203_001730_728_20260
 # [NullPointerDepressiveDisorder/MiddleDrag](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)
 
 Middle-click and middle-drag gestures for the Mac trackpad
+
+Mac 触控板的中键点击和拖拽手势

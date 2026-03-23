@@ -7,3 +7,5 @@ image: assets/all_in_aigc_aiwallpaper_20251218_074731_829_20251218_074754_e2f52b
 # [all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper/)
 
 Generates wallpapers with AI
+
+使用 AI 生成壁纸

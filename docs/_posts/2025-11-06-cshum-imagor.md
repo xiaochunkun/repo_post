@@ -7,3 +7,5 @@ image: assets/cshum_imagor_20251106_050532_030_20251106_133828_6bb7df--20251106T
 # [cshum/imagor](https://github.com/cshum/imagor/)
 
 Image processing server using libvips and Go
+
+使用 libvips 和 Go 的图像处理服务器

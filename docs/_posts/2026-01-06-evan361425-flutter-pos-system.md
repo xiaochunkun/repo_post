@@ -7,3 +7,5 @@ image: assets/evan361425_flutter_pos_system_20260106_063620_668_20260106_063643_
 # [evan361425/flutter-pos-system](https://github.com/evan361425/flutter-pos-system/)
 
 Flutter app for restaurant management and inventory tracking
+
+用于餐厅管理和库存跟踪的 Flutter 应用

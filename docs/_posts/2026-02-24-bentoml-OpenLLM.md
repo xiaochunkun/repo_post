@@ -7,3 +7,5 @@ image: assets/bentoml_OpenLLM_20260213_102535_113_20260213_102632_eabbb8.png
 # [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM)
 
 Hosts open-source models as APIs
+
+将开源模型托管为API

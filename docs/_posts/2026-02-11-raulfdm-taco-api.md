@@ -7,3 +7,5 @@ image: assets/raulfdm_taco_api_20260208_041955_306_20260208_042013_938796.png
 # [raulfdm/taco-api](https://github.com/raulfdm/taco-api)
 
 GraphQL API for the Brazilian Table of Food Composition
+
+巴西食品成分表的 GraphQL API

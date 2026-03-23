@@ -7,3 +7,5 @@ image: assets/manaflow_ai_cmux_20260301_211540_031_20260301_211729_f00182.png
 # [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
 Terminal with vertical tabs and notifications for AI agents
+
+支持垂直标签和 AI 代理通知的终端

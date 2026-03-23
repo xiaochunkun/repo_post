@@ -7,3 +7,5 @@ image: assets/anthropics_courses_cropped.png
 # [anthropics/courses](https://github.com/anthropics/courses)
 
 Anthropic's educational courses on GitHub
+
+Anthropic在GitHub上的教育课程

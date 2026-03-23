@@ -7,3 +7,5 @@ image: assets/ChromeDevTools_awesome_chrome_devtools_20260311_131548_089_2026031
 # [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 
 List of browser debugging utilities and libraries
+
+浏览器调试工具和库列表

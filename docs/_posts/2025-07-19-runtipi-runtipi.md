@@ -7,3 +7,5 @@ image: assets/runtipi_runtipi_cropped.png
 # [runtipi/runtipi](https://github.com/runtipi/runtipi)
 
 self-hosted app manager with one-click installs
+
+自托管应用管理器，支持一键安装

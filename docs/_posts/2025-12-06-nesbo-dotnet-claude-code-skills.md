@@ -7,3 +7,5 @@ image: assets/nesbo_dotnet_claude_code_skills_20251204_220033_258_20251204_22010
 # [nesbo/dotnet-claude-code-skills](https://github.com/nesbo/dotnet-claude-code-skills/)
 
 Domain-Driven Design patterns for .NET
+
+.NET的领域驱动设计模式

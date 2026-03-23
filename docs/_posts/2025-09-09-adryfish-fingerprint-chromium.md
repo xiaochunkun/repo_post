@@ -7,3 +7,5 @@ image: assets/20250908T101116727--adryfish--fingerprint-chromium--20250908T10124
 # [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)
 
 Chromium browser with fingerprint spoofing features
+
+支持指纹伪装的 Chromium 浏览器

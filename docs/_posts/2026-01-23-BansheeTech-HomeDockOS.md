@@ -7,3 +7,5 @@ image: assets/BansheeTech_HomeDockOS_20260121_235642_820_20260121_235700_9cbbee.
 # [BansheeTech/HomeDockOS](https://github.com/BansheeTech/HomeDockOS)
 
 Server operating system for personal clouds
+
+个人云的服务器操作系统

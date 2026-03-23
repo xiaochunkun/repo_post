@@ -7,3 +7,5 @@ image: assets/openmainframeproject_ade_20251123_200533_776_20251125_012834_53b52
 # [openmainframeproject/ade](https://github.com/openmainframeproject/ade/)
 
 Detects anomalies in Linux logs using statistical learning
+
+使用统计学习检测 Linux 日志异常

@@ -7,3 +7,5 @@ image: assets/cinar_indicator_20260314_232655_554_20260314_232946_d2e3cc.png
 # [cinar/indicator](https://github.com/cinar/indicator)
 
 Golang module for indicators and backtesting
+
+用于指标和回测的Golang模块

@@ -7,3 +7,5 @@ image: assets/yagop_node_telegram_bot_api_20251108_194627_930_20251108_215522_37
 # [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/)
 
 Build Telegram bots with Node.js
+
+使用Node.js构建Telegram机器人

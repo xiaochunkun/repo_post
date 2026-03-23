@@ -7,3 +7,5 @@ image: assets/datamatiks_iot_platform_modern_data_stack_poc_20260131_065115_943_
 # [datamatiks/iot-platform-modern-data-stack-poc](https://github.com/datamatiks/iot-platform-modern-data-stack-poc)
 
 IoT platform using Prefect, DuckDB, FastAPI, and Streamlit
+
+使用 Prefect、DuckDB、FastAPI 和 Streamlit 的 IoT 平台

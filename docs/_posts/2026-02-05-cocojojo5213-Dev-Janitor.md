@@ -7,3 +7,5 @@ image: assets/cocojojo5213_Dev_Janitor_20260204_091418_571_20260204_091456_b59fc
 # [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor)
 
 Cleans development junk and manages AI tools
+
+清理开发垃圾并管理AI工具

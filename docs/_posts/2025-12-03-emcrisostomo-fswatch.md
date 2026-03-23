@@ -7,3 +7,5 @@ image: assets/emcrisostomo_fswatch_20251201_055923_160_20251201_055945_86ccfe.pn
 # [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch/)
 
 Cross-platform file change monitor
+
+跨平台文件变更监控器

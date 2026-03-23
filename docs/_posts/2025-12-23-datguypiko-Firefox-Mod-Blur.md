@@ -7,3 +7,5 @@ image: assets/datguypiko_Firefox_Mod_Blur_20251222_120759_144_20251222_120821_03
 # [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur/)
 
 Customizes the Firefox interface with blur effects and macOS style buttons
+
+用模糊效果和macOS风格按钮自定义Firefox界面

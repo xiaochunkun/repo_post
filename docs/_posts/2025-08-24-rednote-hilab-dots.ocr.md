@@ -7,3 +7,5 @@ image: assets/20250820T124915154_rednote-hilab_dots.ocr--20250823T011231678--cro
 # [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr)
 
 multilingual document layout parsing with vision-language model
+
+基于视觉语言模型的多语言文档版面解析

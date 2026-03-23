@@ -7,3 +7,5 @@ image: assets/creativetimofficial_material_kit_20260105_194226_625_20260105_1943
 # [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit/)
 
 UI kit for Bootstrap 5 based on Material Design
+
+基于 Material Design 的 Bootstrap 5 UI 套件

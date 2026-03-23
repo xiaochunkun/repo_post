@@ -7,3 +7,5 @@ image: assets/20250928T053757789--bitnami--containers--20250928T055033591--cropp
 # [bitnami/containers](https://github.com/bitnami/containers)
 
 Container images for popular open source apps, security-focused updates coming soon
+
+流行开源应用的容器镜像，即将推出安全更新

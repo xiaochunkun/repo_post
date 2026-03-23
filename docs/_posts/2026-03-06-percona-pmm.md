@@ -7,3 +7,5 @@ image: assets/percona_pmm_20260306_044640_737_20260306_044752_b70354.png
 # [percona/pmm](https://github.com/percona/pmm)
 
 Monitor database performance via dashboards
+
+通过仪表板监控数据库性能

@@ -7,3 +7,5 @@ image: assets/QobuzDL_Qobuz_DL_20251222_055340_320_20251222_055358_bc742d.png
 # [QobuzDL/Qobuz-DL](https://github.com/QobuzDL/Qobuz-DL/)
 
 Downloads music from Qobuz in a browser
+
+在浏览器中从 Qobuz 下载音乐

@@ -7,3 +7,5 @@ image: assets/metacall_core_20251107_170130_309_20251107_170204_6ffd7e--20251107
 # [metacall/core](https://github.com/metacall/core/)
 
 Call functions between programming languages
+
+在编程语言之间调用函数

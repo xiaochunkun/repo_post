@@ -7,3 +7,5 @@ image: assets/modelcontextprotocol_servers_20260225_121230_534_20260225_121435_c
 # [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 
 Connects LLMs to data sources and tools
+
+将LLM连接到数据源和工具

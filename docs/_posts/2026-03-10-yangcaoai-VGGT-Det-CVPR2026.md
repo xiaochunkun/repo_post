@@ -7,3 +7,5 @@ image: assets/yangcaoai_VGGT_Det_CVPR2026_20260303_204811_954_20260303_205010_f8
 # [yangcaoai/VGGT-Det-CVPR2026](https://github.com/yangcaoai/VGGT-Det-CVPR2026)
 
 3D object detection without sensor geometry or multi-view poses
+
+无需传感器几何或多视角姿态的3D物体检测

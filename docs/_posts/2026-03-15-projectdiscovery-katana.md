@@ -7,3 +7,5 @@ image: assets/projectdiscovery_katana_20260311_091738_234_20260311_092011_2acdf5
 # [projectdiscovery/katana](https://github.com/projectdiscovery/katana)
 
 Next-gen headless web crawler
+
+下一代无头网络爬虫

@@ -7,3 +7,5 @@ image: assets/CodSpeedHQ_codspeed_20260316_015513_786_20260316_015541_662f53.png
 # [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
 
 CPU simulation for flaky-free benchmarks
+
+CPU模拟，用于无抖动基准测试

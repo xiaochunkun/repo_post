@@ -7,3 +7,5 @@ image: assets/20250822T025308871--Jackett--Jackett--20250822T025815020--cropped.
 # [Jackett/Jackett](https://github.com/Jackett/Jackett)
 
 proxy for torrent indexers, connects apps like Sonarr and Radarr
+
+种子索引代理，连接 Sonarr、Radarr 等应用

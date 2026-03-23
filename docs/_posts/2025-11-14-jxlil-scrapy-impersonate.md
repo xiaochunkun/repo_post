@@ -7,3 +7,5 @@ image: assets/jxlil_scrapy_impersonate_20251113_180907_814_20251114_014544_e9aff
 # [jxlil/scrapy-impersonate](https://github.com/jxlil/scrapy-impersonate/)
 
 Scrapy download handler to impersonate browser TLS signatures
+
+模拟浏览器TLS签名的Scrapy下载处理器

@@ -7,3 +7,5 @@ image: assets/thomasloven_lovelace_auto_entities_20251110_023916_064_20251110_12
 # [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities/)
 
 Automatically populate Home Assistant cards with entities
+
+自动用实体填充Home Assistant卡片

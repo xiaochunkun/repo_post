@@ -7,3 +7,5 @@ image: assets/20250903T013846935--ryanoasis--nerd-fonts--20250903T014644262--cro
 # [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 
 patched fonts with icons for developers
+
+为开发者打造的带图标补丁字体

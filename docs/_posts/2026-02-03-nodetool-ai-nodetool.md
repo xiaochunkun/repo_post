@@ -7,3 +7,5 @@ image: assets/nodetool_ai_nodetool_20260202_234713_204_20260202_234752_d80782.pn
 # [nodetool-ai/nodetool](https://github.com/nodetool-ai/nodetool)
 
 Visual builder for AI workflows and agents
+
+AI 工作流和智能体的可视化构建器

@@ -7,3 +7,5 @@ image: assets/nickclyde_duckduckgo_mcp_server_20260207_034332_141_20260207_03435
 # [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server)
 
 Web search for LLMs via DuckDuckGo
+
+通过DuckDuckGo为LLM提供网络搜索

@@ -7,3 +7,5 @@ image: assets/openmule_gacua_20251121_123950_944_20251121_211826_d04d9f--2025112
 # [openmule/gacua](https://github.com/openmule/gacua/)
 
 Computer use agent powered by Gemini CLI
+
+由 Gemini CLI 驱动的计算机使用代理

@@ -7,3 +7,5 @@ image: assets/20250910T025617353--ZGGSONG--STranslate--20250910T025859561--cropp
 # [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate)
 
 translation and OCR tool for quick setup
+
+快速部署的翻译和 OCR 工具

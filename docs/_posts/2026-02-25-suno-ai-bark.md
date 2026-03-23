@@ -7,3 +7,5 @@ image: assets/suno_ai_bark_20260205_225420_050_20260205_225451_4dce74.png
 # [suno-ai/bark](https://github.com/suno-ai/bark)
 
 Generates speech and nonverbal sounds from text
+
+从文本生成语音和非语言声音

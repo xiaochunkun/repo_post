@@ -7,3 +7,5 @@ image: assets/20250915T040332355--lukas-blecher--LaTeX-OCR--20250915T040928218--
 # [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
 
 turn images of math formulas into LaTeX code
+
+将数学公式图像转换为 LaTeX 代码

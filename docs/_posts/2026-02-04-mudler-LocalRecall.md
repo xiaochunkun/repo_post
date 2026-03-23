@@ -7,3 +7,5 @@ image: assets/mudler_LocalRecall_20260202_233317_825_20260202_233405_7073d5.png
 # [mudler/LocalRecall](https://github.com/mudler/LocalRecall)
 
 RAG knowledge base without GPU or internet
+
+无需 GPU 或互联网的 RAG 知识库

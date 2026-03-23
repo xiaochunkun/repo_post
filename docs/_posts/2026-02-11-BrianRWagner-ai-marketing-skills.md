@@ -7,3 +7,5 @@ image: assets/BrianRWagner_ai_marketing_skills_20260205_001402_586_20260205_0014
 # [BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)
 
 Marketing frameworks for AI agents
+
+AI代理的营销框架

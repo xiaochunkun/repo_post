@@ -7,3 +7,5 @@ image: assets/murtazahassan_Learn_OpenCV_in_3_hours_20260120_080144_559_20260120
 # [murtazahassan/Learn-OpenCV-in-3-hours](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours)
 
 Teaches computer vision through document scanners and virtual painters
+
+通过文档扫描仪和虚拟画家教授计算机视觉

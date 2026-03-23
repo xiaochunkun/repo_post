@@ -7,3 +7,5 @@ image: assets/20251005T002107922--HFO4--gameboy.live--20251005T002733959--croppe
 # [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live)
 
 Game Boy emulator in Go you can run from your desktop or terminal
+
+Go编写的Game Boy模拟器，可在桌面或终端运行

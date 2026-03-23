@@ -7,3 +7,5 @@ image: assets/lukilabs_beautiful_mermaid_swift_20260223_124118_049_20260223_1241
 # [lukilabs/beautiful-mermaid-swift](https://github.com/lukilabs/beautiful-mermaid-swift)
 
 Renders Mermaid diagrams into images without WebViews
+
+无需 WebViews 将 Mermaid 图表渲染为图像

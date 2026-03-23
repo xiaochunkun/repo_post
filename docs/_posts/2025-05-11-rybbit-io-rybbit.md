@@ -7,3 +7,5 @@ image: assets/rybbit-io_rybbit_cropped.png
 # [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)
 
 Open-source alternative to Google Analytics without cookies
+
+开源 Google Analytics 替代方案，无需 Cookie

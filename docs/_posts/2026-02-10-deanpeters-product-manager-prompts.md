@@ -7,3 +7,5 @@ image: assets/deanpeters_product_manager_prompts_20260209_010547_963_20260209_01
 # [deanpeters/product-manager-prompts](https://github.com/deanpeters/product-manager-prompts)
 
 Prompts for product management tasks
+
+产品管理任务的提示词

@@ -7,3 +7,5 @@ image: assets/20250915T232453043--nodejs--undici--20250915T232832730--cropped.pn
 # [nodejs/undici](https://github.com/nodejs/undici)
 
 HTTP client built from scratch by Node.js team
+
+Node.js 团队从头构建的 HTTP 客户端

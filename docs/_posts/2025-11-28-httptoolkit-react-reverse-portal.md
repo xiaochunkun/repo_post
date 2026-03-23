@@ -7,3 +7,5 @@ image: assets/httptoolkit_react_reverse_portal_20251125_044946_127_20251127_1703
 # [httptoolkit/react-reverse-portal](https://github.com/httptoolkit/react-reverse-portal/)
 
 Moves React-rendered elements without re-rendering
+
+移动 React 渲染元素而无需重新渲染

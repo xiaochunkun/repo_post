@@ -7,3 +7,5 @@ image: assets/huhusmang_Subscription-Management_cropped.png
 # [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management)
 
 track and manage your subscriptions and expenses
+
+跟踪和管理订阅与支出

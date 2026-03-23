@@ -7,3 +7,5 @@ image: assets/kimai_kimai_20260203_073442_012_20260203_073504_38bcf4.png
 # [kimai/kimai](https://github.com/kimai/kimai)
 
 Tracks project times and generates invoices
+
+跟踪项目时间并生成发票

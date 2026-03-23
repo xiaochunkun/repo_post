@@ -7,3 +7,5 @@ image: assets/mukul975_Anthropic_Cybersecurity_Skills_20260316_073229_182_202603
 # [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 
 Open standard cybersecurity skills for AI agents
+
+AI 代理的开放标准网络安全技能

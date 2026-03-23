@@ -7,3 +7,5 @@ image: assets/deepseek_ai_awesome_deepseek_integration_20260210_202746_735_20260
 # [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
 List of software integrations for the DeepSeek API
+
+DeepSeek API的软件集成列表

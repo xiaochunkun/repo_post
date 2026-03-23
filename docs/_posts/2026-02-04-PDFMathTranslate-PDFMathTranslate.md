@@ -7,3 +7,5 @@ image: assets/PDFMathTranslate_PDFMathTranslate_20260203_013630_745_20260203_013
 # [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)
 
 Translates scientific papers while preserving layouts and formulas
+
+翻译科学论文，同时保留布局和公式

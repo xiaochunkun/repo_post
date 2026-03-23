@@ -7,3 +7,5 @@ image: assets/th1nhhdk_local_ai_ocr_20260114_133059_167_20260114_133113_23fbde.p
 # [th1nhhdk/local_ai_ocr](https://github.com/th1nhhdk/local_ai_ocr)
 
 Offline OCR using DeepSeek-OCR AI
+
+使用 DeepSeek-OCR AI 的离线 OCR

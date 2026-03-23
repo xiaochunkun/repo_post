@@ -7,3 +7,5 @@ image: assets/drivendataorg_cookiecutter-data-science_cropped.png
 # [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science)
 
 cookiecutter template for organizing data science projects
+
+组织数据科学项目的cookiecutter模板

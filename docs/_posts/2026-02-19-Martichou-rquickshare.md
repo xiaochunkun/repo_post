@@ -7,3 +7,5 @@ image: assets/Martichou_rquickshare_20260203_071958_927_20260203_072019_276193.p
 # [Martichou/rquickshare](https://github.com/Martichou/rquickshare)
 
 QuickShare implementation for Linux and macOS
+
+Linux和macOS的QuickShare实现

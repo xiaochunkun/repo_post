@@ -7,3 +7,5 @@ image: assets/maxnowack_signaldb_20251225_040353_093_20251225_040413_e5df1c.png
 # [maxnowack/signaldb](https://github.com/maxnowack/signaldb/)
 
 Client-side database with a MongoDB-like interface
+
+具有类似 MongoDB 接口的客户端数据库

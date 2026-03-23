@@ -7,3 +7,5 @@ image: assets/apiiro_malicious_code_ruleset_20251207_223419_242_20251207_223440_
 # [apiiro/malicious-code-ruleset](https://github.com/apiiro/malicious-code-ruleset/)
 
 Semgrep rules for detecting code obfuscation and dynamic execution
+
+检测代码混淆和动态执行的Semgrep规则集

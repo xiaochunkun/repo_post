@@ -7,3 +7,5 @@ image: assets/blankresearch_Paperion_20251217_194211_690_20251217_194232_0bac14.
 # [blankresearch/Paperion](https://github.com/blankresearch/Paperion/)
 
 Self-hosted academic search engine for 78 million papers
+
+自托管学术搜索引擎，涵盖 7800 万篇论文

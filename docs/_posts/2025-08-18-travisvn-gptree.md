@@ -7,3 +7,5 @@ image: assets/travisvn_gptree--20250817T074026109--cropped.png
 # [travisvn/gptree](https://github.com/travisvn/gptree)
 
 turns project files into a single text file with directory tree for LLMs
+
+将项目文件转换为包含目录结构的单文本文件供LLM使用

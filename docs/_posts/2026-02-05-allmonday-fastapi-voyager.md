@@ -7,3 +7,5 @@ image: assets/allmonday_fastapi_voyager_20260202_225458_682_20260202_225532_729e
 # [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager)
 
 Visualizes API endpoints and relationships
+
+可视化API端点和关系

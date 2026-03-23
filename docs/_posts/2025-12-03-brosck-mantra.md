@@ -7,3 +7,5 @@ image: assets/brosck_mantra_20251201_074222_807_20251201_074247_4a9364.png
 # [brosck/mantra](https://github.com/brosck/mantra/)
 
 Hunts down API key leaks in JS files and pages
+
+检测 JS 文件和页面中的 API 密钥泄露

@@ -7,3 +7,5 @@ image: assets/brianluft_sqlnotebook_20260101_014513_053_20260101_014527_a1c1a8.p
 # [brianluft/sqlnotebook](https://github.com/brianluft/sqlnotebook/)
 
 Notebook interface for data exploration in SQL
+
+用于SQL数据探索的笔记本界面

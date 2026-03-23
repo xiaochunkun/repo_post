@@ -7,3 +7,5 @@ image: assets/bartvantuijn_noton_20251123_200727_955_20251125_012917_06d245--202
 # [bartvantuijn/noton](https://github.com/bartvantuijn/noton/)
 
 Self-hosted documentation platform with local AI
+
+带本地 AI 的自托管文档平台

@@ -7,3 +7,5 @@ image: assets/cdgriffith_FastFlix_20260210_175708_425_20260210_175730_0f9dcc.png
 # [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix)
 
 GUI for hardware and software video encoding
+
+硬件和软件视频编码的 GUI

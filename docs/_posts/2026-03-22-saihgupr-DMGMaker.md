@@ -7,3 +7,5 @@ image: assets/saihgupr_DMGMaker_20260322_023427_864_20260322_023508_d8447a.png
 # [saihgupr/DMGMaker](https://github.com/saihgupr/DMGMaker)
 
 macOS DMG creation with SwiftUI backgrounds
+
+使用SwiftUI背景创建macOS DMG

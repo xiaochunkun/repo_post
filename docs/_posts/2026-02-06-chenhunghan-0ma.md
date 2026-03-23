@@ -7,3 +7,5 @@ image: assets/chenhunghan_0ma_20260204_230024_910_20260204_230110_17ec16.png
 # [chenhunghan/0ma](https://github.com/chenhunghan/0ma)
 
 GUI for managing Lima instances and Kubernetes clusters on macOS
+
+在macOS上管理Lima实例和Kubernetes集群的GUI

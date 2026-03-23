@@ -7,3 +7,5 @@ image: assets/pheralb_slug_20260120_122953_606_20260120_123017_b9acb3.png
 # [pheralb/slug](https://github.com/pheralb/slug)
 
 URL shortener built with T3 Stack
+
+使用 T3 Stack 构建的 URL 缩短器

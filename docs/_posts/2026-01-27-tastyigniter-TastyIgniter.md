@@ -7,3 +7,5 @@ image: assets/tastyigniter_TastyIgniter_20260126_092436_790_20260126_092540_28ce
 # [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter)
 
 Restaurant management system for online ordering and table reservations
+
+支持在线订餐和桌位预订的餐厅管理系统

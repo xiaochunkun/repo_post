@@ -7,3 +7,5 @@ image: assets/charmbracelet_bubbletea_cropped.png
 # [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 
 build terminal apps with Go
+
+用 Go 构建终端应用

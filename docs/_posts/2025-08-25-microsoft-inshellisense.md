@@ -7,3 +7,5 @@ image: assets/20250825T021216635--microsoft--inshellisense--20250825T024235792--
 # [microsoft/inshellisense](https://github.com/microsoft/inshellisense)
 
 IDE-style autocomplete for your terminal
+
+为终端提供 IDE 风格的自动补全

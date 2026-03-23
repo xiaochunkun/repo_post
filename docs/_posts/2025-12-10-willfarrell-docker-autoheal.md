@@ -7,3 +7,5 @@ image: assets/willfarrell_docker_autoheal_20251208_000704_800_20251208_000737_54
 # [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal/)
 
 Monitors and restarts unhealthy Docker containers
+
+监控并重启不健康的Docker容器

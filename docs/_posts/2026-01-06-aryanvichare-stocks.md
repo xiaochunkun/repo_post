@@ -7,3 +7,5 @@ image: assets/aryanvichare_stocks_20260106_105918_288_20260106_105934_6a8127.png
 # [aryanvichare/stocks](https://github.com/aryanvichare/stocks/)
 
 Streams stock data using React Server Components and shadcn/ui charts
+
+使用 React Server Components 和 shadcn/ui 图表流式传输股票数据

@@ -7,3 +7,5 @@ image: assets/Zaneham_BarraCUDA_20260304_095341_578_20260304_095525_27a072.png
 # [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA)
 
 Compiles CUDA code for AMD and Tenstorrent GPUs
+
+为AMD和Tenstorrent GPU编译CUDA代码

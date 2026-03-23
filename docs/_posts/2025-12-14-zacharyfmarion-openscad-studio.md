@@ -7,3 +7,5 @@ image: assets/zacharyfmarion_openscad_studio_20251213_054945_742_20251213_055009
 # [zacharyfmarion/openscad-studio](https://github.com/zacharyfmarion/openscad-studio/)
 
 OpenSCAD editor with an AI copilot
+
+集成 AI 副驾驶的 OpenSCAD 编辑器

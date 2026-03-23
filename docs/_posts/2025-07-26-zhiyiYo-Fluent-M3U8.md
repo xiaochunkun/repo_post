@@ -7,3 +7,5 @@ image: assets/zhiyiYo_Fluent-M3U8_cropped.png
 # [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8)
 
 cross-platform tool for downloading m3u8 and mpd videos
+
+跨平台下载 m3u8 和 mpd 视频的工具

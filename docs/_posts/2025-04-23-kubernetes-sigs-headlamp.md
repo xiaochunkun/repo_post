@@ -7,3 +7,5 @@ image: assets/kubernetes-sigs_headlamp_cropped.png
 # [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
 
 Kubernetes web UI for viewing and managing clusters
+
+用于查看和管理集群的Kubernetes web UI

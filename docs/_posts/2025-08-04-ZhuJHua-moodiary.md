@@ -7,3 +7,5 @@ image: assets/ZhuJHua_moodiary_cropped.png
 # [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary)
 
 cross-platform diary app with media, sync, and AI features
+
+跨平台日记应用，支持媒体、同步和AI功能

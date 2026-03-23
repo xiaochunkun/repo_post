@@ -7,3 +7,5 @@ image: assets/jakobhoeg_nextjs_ollama_llm_ui_20251218_071238_395_20251218_071259
 # [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui/)
 
 Web interface for Ollama LLMs
+
+Ollama LLM 的 Web 界面

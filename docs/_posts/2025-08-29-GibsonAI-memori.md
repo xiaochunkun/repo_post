@@ -7,3 +7,5 @@ image: assets/20250829T035612748--GibsonAI--memori--20250829T040339415--cropped.
 # [GibsonAI/memori](https://github.com/GibsonAI/memori)
 
 open-source memory engine for LLMs and AI agents
+
+大模型和 AI 智能体的开源记忆引擎

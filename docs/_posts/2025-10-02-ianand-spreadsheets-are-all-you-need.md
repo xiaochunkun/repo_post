@@ -7,3 +7,5 @@ image: assets/20251001T205201066--ianand--spreadsheets-are-all-you-need--2025100
 # [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need)
 
 AI-powered notebooks and Excel that run GPT2 logic with just spreadsheets
+
+AI驱动的笔记本和Excel，仅使用电子表格运行GPT2逻辑

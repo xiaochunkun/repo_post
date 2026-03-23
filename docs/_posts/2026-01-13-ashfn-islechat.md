@@ -7,3 +7,5 @@ image: assets/ashfn_islechat_20260112_154610_002_20260112_154624_3868d1.png
 # [ashfn/islechat](https://github.com/ashfn/islechat)
 
 SSH chat server with public and private channels
+
+具有公共和私有频道的SSH聊天服务器

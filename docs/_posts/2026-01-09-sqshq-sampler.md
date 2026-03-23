@@ -7,3 +7,5 @@ image: assets/sqshq_sampler_20260108_014827_152_20260108_014842_9c100e.png
 # [sqshq/sampler](https://github.com/sqshq/sampler)
 
 Visualizes shell command outputs in terminal dashboards
+
+在终端仪表板中可视化shell命令输出

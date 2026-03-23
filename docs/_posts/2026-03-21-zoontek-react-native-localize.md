@@ -7,3 +7,5 @@ image: assets/zoontek_react_native_localize_20260316_044130_251_20260316_044201_
 # [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize)
 
 Native localization utilities for mobile apps
+
+移动应用的原生本地化工具

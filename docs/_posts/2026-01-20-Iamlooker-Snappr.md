@@ -7,3 +7,5 @@ image: assets/Iamlooker_Snappr_20260120_012340_966_20260120_012402_4dd33f.png
 # [Iamlooker/Snappr](https://github.com/Iamlooker/Snappr)
 
 Note-taking and bookmarking app with cross-referencing and web previews
+
+笔记和书签应用，支持交叉引用和网页预览

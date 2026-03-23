@@ -7,3 +7,5 @@ image: assets/datalab_to_marker_20260225_213623_714_20260225_213816_17eb0e.png
 # [datalab-to/marker](https://github.com/datalab-to/marker)
 
 Converts documents to markdown at 25 pages per second
+
+以每秒 25 页的速度将文档转换为 Markdown

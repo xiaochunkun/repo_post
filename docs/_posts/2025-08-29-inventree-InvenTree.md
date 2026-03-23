@@ -7,3 +7,5 @@ image: assets/20250823T015006041--inventree--InvenTree--20250829T031229889--crop
 # [inventree/InvenTree](https://github.com/inventree/InvenTree)
 
 open source inventory management for parts and stock tracking
+
+开源库存管理系统，追踪零件和库存

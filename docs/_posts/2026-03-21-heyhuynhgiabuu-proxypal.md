@@ -7,3 +7,5 @@ image: assets/heyhuynhgiabuu_proxypal_20260321_024152_037_20260321_024243_9e46aa
 # [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal)
 
 Desktop app for AI subscriptions
+
+AI订阅的桌面应用

@@ -7,3 +7,5 @@ image: assets/Fredolx_open_tv_20251027_191715_264_20251028_091457_681520--202510
 # [Fredolx/open-tv](https://github.com/Fredolx/open-tv/)
 
 Cross-platform IPTV client
+
+跨平台 IPTV 客户端

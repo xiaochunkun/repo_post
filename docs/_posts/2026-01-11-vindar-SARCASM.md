@@ -7,3 +7,5 @@ image: assets/vindar_SARCASM_20260111_034752_924_20260111_034806_97ddf2.png
 # [vindar/SARCASM](https://github.com/vindar/SARCASM)
 
 Robot scans and solves Rubik's cubes with speech synthesis
+
+机器人扫描并语音合成解决魔方

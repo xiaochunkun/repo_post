@@ -7,3 +7,5 @@ image: assets/PKU_YuanGroup_ConsisID_20260130_204838_460_20260130_204918_970065.
 # [PKU-YuanGroup/ConsisID](https://github.com/PKU-YuanGroup/ConsisID)
 
 Generates videos from text while maintaining identity through frequency decomposition
+
+通过频率分解保持身份，从文本生成视频

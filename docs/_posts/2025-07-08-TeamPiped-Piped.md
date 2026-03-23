@@ -7,3 +7,5 @@ image: assets/TeamPiped_Piped_cropped.png
 # [TeamPiped/Piped](https://github.com/TeamPiped/Piped)
 
 watch YouTube videos without ads or tracking
+
+无广告或追踪观看 YouTube 视频

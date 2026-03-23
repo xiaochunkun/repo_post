@@ -7,3 +7,5 @@ image: assets/ekzhang_bore_20260222_131313_449_20260222_131401_7cd184.png
 # [ekzhang/bore](https://github.com/ekzhang/bore)
 
 TCP tunnel for exposing local ports to the internet
+
+将本地端口暴露到互联网的 TCP 隧道

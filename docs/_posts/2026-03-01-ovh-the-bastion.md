@@ -7,3 +7,5 @@ image: assets/ovh_the_bastion_20260227_171515_782_20260227_171719_a07107.png
 # [ovh/the-bastion](https://github.com/ovh/the-bastion)
 
 Entry point for SSH access management
+
+SSH 访问管理的入口点

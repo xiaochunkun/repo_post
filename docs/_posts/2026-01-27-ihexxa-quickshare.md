@@ -7,3 +7,5 @@ image: assets/ihexxa_quickshare_20260126_123529_869_20260126_123605_3f6db3.png
 # [ihexxa/quickshare](https://github.com/ihexxa/quickshare)
 
 File sharing between devices with Docker
+
+使用Docker在设备间共享文件

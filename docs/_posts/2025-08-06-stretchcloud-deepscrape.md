@@ -7,3 +7,5 @@ image: assets/stretchcloud_deepscrape_cropped.png
 # [stretchcloud/deepscrape](https://github.com/stretchcloud/deepscrape)
 
 Web scraper for extracting and parsing website data using Python
+
+使用 Python 提取和解析网站数据的网络爬虫

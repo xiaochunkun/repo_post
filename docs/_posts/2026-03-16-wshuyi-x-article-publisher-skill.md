@@ -7,3 +7,5 @@ image: assets/wshuyi_x_article_publisher_skill_20260311_120529_480_20260311_1209
 # [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)
 
 Publishes Markdown to X Articles automatically
+
+自动将Markdown发布到X文章

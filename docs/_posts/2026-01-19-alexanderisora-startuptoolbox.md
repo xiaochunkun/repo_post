@@ -7,3 +7,5 @@ image: assets/alexanderisora_startuptoolbox_20260118_155311_746_20260118_155326_
 # [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox)
 
 Collection of 700 tools for startup founders
+
+为初创创始人收集的700个工具

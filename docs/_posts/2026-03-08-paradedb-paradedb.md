@@ -7,3 +7,5 @@ image: assets/paradedb_paradedb_20260306_014853_821_20260306_015034_6748b0.png
 # [paradedb/paradedb](https://github.com/paradedb/paradedb)
 
 Search and analytics via Postgres
+
+通过 Postgres 进行搜索和分析

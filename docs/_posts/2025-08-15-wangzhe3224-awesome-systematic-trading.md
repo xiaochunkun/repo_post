@@ -7,3 +7,5 @@ image: assets/wangzhe3224_awesome-systematic-trading--20250815T015910439--croppe
 # [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)
 
 curated list of libraries for systematic and quantitative trading
+
+系统和量化交易库的精选列表

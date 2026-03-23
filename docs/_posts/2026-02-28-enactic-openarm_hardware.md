@@ -7,3 +7,5 @@ image: assets/enactic_openarm_hardware_20260226_180205_109_20260226_180359_a5cad
 # [enactic/openarm_hardware](https://github.com/enactic/openarm_hardware)
 
 CAD files for manufacturing robotic arms
+
+制造机械臂的CAD文件

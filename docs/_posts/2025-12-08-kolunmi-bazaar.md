@@ -7,3 +7,5 @@ image: assets/kolunmi_bazaar_20251207_172016_539_20251207_172100_b6dd32.png
 # [kolunmi/bazaar](https://github.com/kolunmi/bazaar/)
 
 App store for GNOME focusing on Flatpak remotes
+
+专注于 Flatpak 远程源的 GNOME 应用商店

@@ -7,3 +7,5 @@ image: assets/antfu_shiki-stream_cropped.png
 # [antfu/shiki-stream](https://github.com/antfu/shiki-stream)
 
 Shiki for text streams
+
+用于文本流的Shiki

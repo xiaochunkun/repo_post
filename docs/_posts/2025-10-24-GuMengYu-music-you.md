@@ -7,3 +7,5 @@ image: assets/GuMengYu_music_you_20251023_001521_628_20251023_213453_a73ac5--202
 # [GuMengYu/music-you](https://github.com/GuMengYu/music-you/)
 
 A Material Design 3 desktop music player
+
+Material Design 3桌面音乐播放器

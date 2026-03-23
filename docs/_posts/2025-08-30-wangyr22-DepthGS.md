@@ -7,3 +7,5 @@ image: assets/20250829T010824197--wangyr22--DepthGS--20250830T033351793--cropped
 # [wangyr22/DepthGS](https://github.com/wangyr22/DepthGS)
 
 RGB SLAM baseline using monocular depth and Gaussian scene mapping, easy to try out for 3D reconstruction from video
+
+基于单目深度和高斯场景映射的 RGB SLAM 基线，方便进行视频 3D 重建

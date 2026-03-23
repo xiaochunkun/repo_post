@@ -7,3 +7,5 @@ image: assets/mnfst_manifest_cropped.png
 # [mnfst/manifest](https://github.com/mnfst/manifest)
 
 Single-file backend for quick app setups and simple APIs
+
+单文件后端，用于快速应用设置和简单 API

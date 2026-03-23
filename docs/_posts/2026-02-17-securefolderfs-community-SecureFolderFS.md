@@ -7,3 +7,5 @@ image: assets/securefolderfs_community_SecureFolderFS_20260212_095530_991_202602
 # [securefolderfs-community/SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS)
 
 Encrypts files with on-the-fly decryption
+
+具备实时解密功能的文件加密工具

@@ -7,3 +7,5 @@ image: assets/papermerge_papermerge_core_20260130_194238_371_20260130_194328_737
 # [papermerge/papermerge-core](https://github.com/papermerge/papermerge-core)
 
 Indexes scanned documents with OCR
+
+使用OCR索引扫描文档

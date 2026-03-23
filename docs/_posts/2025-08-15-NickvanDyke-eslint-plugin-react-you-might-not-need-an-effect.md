@@ -7,3 +7,5 @@ image: assets/NickvanDyke_eslint-plugin-react-you-might-not-need-an-effect--2025
 # [NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect)
 
 eslint plugin for catching unnecessary React useEffect
+
+用于捕获不必要的 React useEffect 的 eslint 插件

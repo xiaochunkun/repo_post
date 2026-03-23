@@ -7,3 +7,5 @@ image: assets/bestxxt_SmartLedger_20260130_194940_764_20260130_195046_0df4cb.png
 # [bestxxt/SmartLedger](https://github.com/bestxxt/SmartLedger)
 
 Self-hosted expense tracker with voice and image recognition
+
+支持语音和图像识别的自托管费用追踪器

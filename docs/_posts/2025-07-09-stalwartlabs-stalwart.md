@@ -7,3 +7,5 @@ image: assets/stalwartlabs_stalwart_cropped.png
 # [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
 
 open source mail and collaboration server in Rust
+
+Rust 编写的开源邮件和协作服务器

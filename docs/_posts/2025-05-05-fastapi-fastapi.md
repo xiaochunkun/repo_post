@@ -7,3 +7,5 @@ image: assets/fastapi_fastapi_cropped.png
 # [fastapi/fastapi](https://github.com/fastapi/fastapi)
 
 Python web framework for building APIs
+
+用于构建API的Python Web框架

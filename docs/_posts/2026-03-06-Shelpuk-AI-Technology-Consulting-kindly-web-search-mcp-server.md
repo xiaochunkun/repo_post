@@ -7,3 +7,5 @@ image: assets/Shelpuk_AI_Technology_Consulting_kindly_web_search_mcp_server_2026
 # [Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server)
 
 Server for web search and content retrieval for AI agents
+
+为 AI 智能体提供网络搜索和内容检索的服务器

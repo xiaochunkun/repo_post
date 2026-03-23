@@ -7,3 +7,5 @@ image: assets/pymupdf_pymupdf4llm_20260228_005643_595_20260228_005840_edc984.png
 # [pymupdf/pymupdf4llm](https://github.com/pymupdf/pymupdf4llm)
 
 Converts PDFs into Markdown for LLMs
+
+将 PDF 转换为 Markdown 供 LLM 使用

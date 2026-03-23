@@ -7,3 +7,5 @@ image: assets/feiskyer_claude_code_settings_20260306_012544_231_20260306_012701_
 # [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings)
 
 Extend Claude Code via commands and skills
+
+通过命令和技能扩展Claude Code

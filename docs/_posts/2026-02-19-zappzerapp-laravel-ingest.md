@@ -7,3 +7,5 @@ image: assets/zappzerapp_laravel_ingest_20260207_110347_044_20260207_110401_5e69
 # [zappzerapp/laravel-ingest](https://github.com/zappzerapp/laravel-ingest)
 
 Streams data imports with relationship resolution
+
+带关系解析的数据导入流

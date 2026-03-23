@@ -7,3 +7,5 @@ image: assets/raznem_parsera_20260122_010005_449_20260122_010021_8a0939.png
 # [raznem/parsera](https://github.com/raznem/parsera)
 
 Scrapes websites with LLMs
+
+使用LLM抓取网站

@@ -7,3 +7,5 @@ image: assets/20251010T130006948--UllrAI--SaaS-Starter--20251010T131002134--crop
 # [UllrAI/SaaS-Starter](https://github.com/UllrAI/SaaS-Starter)
 
 starter kit for building SaaS apps with Next.js, authentication, payments, and PostgreSQL
+
+使用 Next.js、身份验证、支付和 PostgreSQL 构建 SaaS 应用的入门套件

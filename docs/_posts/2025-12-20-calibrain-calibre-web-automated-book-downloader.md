@@ -7,3 +7,5 @@ image: assets/calibrain_calibre_web_automated_book_downloader_20251218_084734_72
 # [calibrain/calibre-web-automated-book-downloader](https://github.com/calibrain/calibre-web-automated-book-downloader/)
 
 Automates book downloads for Calibre-Web libraries
+
+为 Calibre-Web 库自动化书籍下载

@@ -7,3 +7,5 @@ image: assets/PanXProject_awesome_certificates_20251222_200128_023_20251223_0128
 # [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates/)
 
 List of courses with certificates and badges
+
+包含证书和徽章的课程列表

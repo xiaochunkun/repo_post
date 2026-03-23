@@ -7,3 +7,5 @@ image: assets/orneryd_NornicDB_20260209_150948_990_20260209_151026_2d21cf.png
 # [orneryd/NornicDB](https://github.com/orneryd/NornicDB)
 
 Graph database with vector search and GPU acceleration
+
+带向量搜索和 GPU 加速的图数据库

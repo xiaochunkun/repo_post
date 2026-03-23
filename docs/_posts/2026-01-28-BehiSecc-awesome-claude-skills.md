@@ -7,3 +7,5 @@ image: assets/BehiSecc_awesome_claude_skills_20260122_010633_746_20260122_010701
 # [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
 
 Collection of skills for Claude
+
+Claude技能集合

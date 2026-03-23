@@ -7,3 +7,5 @@ image: assets/20250926T174858384--SoftFever--OrcaSlicer--20250926T175820016--cro
 # [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
 open-source 3D printing slicer with advanced calibration and multi-printer support
+
+开源3D打印切片软件，支持高级校准和多打印机

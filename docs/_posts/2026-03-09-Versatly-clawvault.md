@@ -7,3 +7,5 @@ image: assets/Versatly_clawvault_20260308_173038_077_20260308_173231_868329.png
 # [Versatly/clawvault](https://github.com/Versatly/clawvault)
 
 Memory system for AI agents using markdown as storage
+
+使用 markdown 作为存储的 AI 代理内存系统

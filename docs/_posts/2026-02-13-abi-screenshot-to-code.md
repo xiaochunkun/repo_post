@@ -7,3 +7,5 @@ image: assets/abi_screenshot_to_code_20260211_063049_918_20260211_063109_6dbc9b.
 # [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
 Converts screenshots into code with AI
+
+使用 AI 将截图转换为代码

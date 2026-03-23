@@ -7,3 +7,5 @@ image: assets/paololazzari_play_20251221_174840_148_20251221_174856_b783cf.png
 # [paololazzari/play](https://github.com/paololazzari/play/)
 
 TUI playground for grep, sed, and awk
+
+grep、sed 和 awk 的 TUI 游乐场

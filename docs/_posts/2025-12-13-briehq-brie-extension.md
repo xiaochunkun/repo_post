@@ -7,3 +7,5 @@ image: assets/briehq_brie_extension_20251210_020438_476_20251210_020513_fbeb2d.p
 # [briehq/brie-extension](https://github.com/briehq/brie-extension/)
 
 Captures screenshots with console logs and network errors
+
+捕获带有控制台日志和网络错误的截图

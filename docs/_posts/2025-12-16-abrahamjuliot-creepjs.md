@@ -7,3 +7,5 @@ image: assets/abrahamjuliot_creepjs_20251215_005432_682_20251215_005532_b32a0c.p
 # [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs/)
 
 Detects browser fingerprinting and privacy leaks
+
+检测浏览器指纹和隐私泄露

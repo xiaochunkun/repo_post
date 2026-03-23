@@ -7,3 +7,5 @@ image: assets/Agentfy_io_Agentfy_20260111_152653_393_20260111_152706_a78b0c.png
 # [Agentfy-io/Agentfy](https://github.com/Agentfy-io/Agentfy)
 
 Multi-agent system for social media automation via MCP
+
+通过 MCP 实现社交媒体自动化的多 agent 系统

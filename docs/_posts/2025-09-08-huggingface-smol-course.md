@@ -7,3 +7,5 @@ image: assets/20250908T091424250--huggingface--smol-course--20250908T093537731--
 # [huggingface/smol-course](https://github.com/huggingface/smol-course)
 
 practical course for aligning small language models on your own machine
+
+在自己的机器上对齐小型语言模型的实践课程

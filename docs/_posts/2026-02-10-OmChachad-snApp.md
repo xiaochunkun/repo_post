@@ -7,3 +7,5 @@ image: assets/OmChachad_snApp_20260205_194827_250_20260205_194846_985ce9.png
 # [OmChachad/snApp](https://github.com/OmChachad/snApp)
 
 Window management utility with layouts from the menu bar
+
+菜单栏布局的窗口管理工具

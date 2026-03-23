@@ -7,3 +7,5 @@ image: assets/blendi_remade_falcraft_20260204_031335_465_20260204_031351_d325f4.
 # [blendi-remade/falcraft](https://github.com/blendi-remade/falcraft)
 
 Generates 3D structures in Minecraft with AI
+
+使用 AI 在 Minecraft 中生成 3D 结构

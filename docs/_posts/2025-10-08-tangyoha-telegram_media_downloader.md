@@ -7,3 +7,5 @@ image: assets/20251007T051250409--tangyoha--telegram_media_downloader--20251007T
 # [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
 
 download media from Telegram chats and channels with a bot or web interface
+
+通过机器人或 Web 界面从 Telegram 聊天和频道下载媒体

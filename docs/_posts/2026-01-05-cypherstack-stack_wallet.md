@@ -7,3 +7,5 @@ image: assets/cypherstack_stack_wallet_20260104_133934_509_20260104_133950_4d6dc
 # [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet/)
 
 Open source wallet for 23 cryptocurrencies
+
+支持23种加密货币的开源钱包

@@ -7,3 +7,5 @@ image: assets/motion_canvas_motion_canvas_20260202_234932_612_20260202_234956_64
 # [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
 
 Generates animations with TypeScript and generators
+
+使用TypeScript和生成器生成动画

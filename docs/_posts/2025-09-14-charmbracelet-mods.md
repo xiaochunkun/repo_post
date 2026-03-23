@@ -7,3 +7,5 @@ image: assets/20250912T194145955--charmbracelet--mods--20250912T194917912--cropp
 # [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 AI tools for the command line, built for pipelines
+
+面向管道处理的命令行 AI 工具

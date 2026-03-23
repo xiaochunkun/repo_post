@@ -7,3 +7,5 @@ image: assets/stepfun-ai_Step-Audio_cropped.png
 # [stepfun-ai/Step-Audio](https://github.com/stepfun-ai/Step-Audio)
 
 Speech recognition and generation framework
+
+语音识别和生成框架

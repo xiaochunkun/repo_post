@@ -7,3 +7,5 @@ image: assets/trinodb_trino_20260128_190820_476_20260128_190902_8354e2.png
 # [trinodb/trino](https://github.com/trinodb/trino)
 
 Distributed SQL query engine for big data analytics
+
+用于大数据分析的分布式SQL查询引擎

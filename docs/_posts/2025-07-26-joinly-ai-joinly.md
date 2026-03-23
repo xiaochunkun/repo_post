@@ -7,3 +7,5 @@ image: assets/joinly-ai_joinly_cropped.png
 # [joinly-ai/joinly](https://github.com/joinly-ai/joinly)
 
 AI agents for joining video meetings
+
+加入视频会议的AI代理

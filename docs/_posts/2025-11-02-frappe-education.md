@@ -7,3 +7,5 @@ image: assets/frappe_education_20251031_064423_741_20251101_205148_326fa7--20251
 # [frappe/education](https://github.com/frappe/education/)
 
 Education management module for ERPNext
+
+ERPNext 的教育管理模块

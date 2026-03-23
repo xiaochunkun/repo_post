@@ -7,3 +7,5 @@ image: assets/icereed_paperless_gpt_20260318_100849_027_20260318_101102_92dca6.p
 # [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt)
 
 AI-powered OCR for document organization
+
+用于文档组织的 AI 驱动 OCR

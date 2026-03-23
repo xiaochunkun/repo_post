@@ -7,3 +7,5 @@ image: assets/jamcalli_Pulsarr_cropped.png
 # [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr)
 
 syncs Plex watchlists with Sonarr and Radarr for automated media downloads
+
+同步 Plex 观看列表与 Sonarr 和 Radarr，实现自动化媒体下载

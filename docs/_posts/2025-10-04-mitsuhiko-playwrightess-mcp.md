@@ -7,3 +7,5 @@ image: assets/20251003T230620933--mitsuhiko--playwrightess-mcp--20251003T2310577
 # [mitsuhiko/playwrightess-mcp](https://github.com/mitsuhiko/playwrightess-mcp)
 
 persistent Playwright server for JavaScript automation experiments
+
+用于JavaScript自动化实验的持久化Playwright服务器

@@ -7,3 +7,5 @@ image: assets/DAMO_NLP_SG_VideoLLaMA3_20251201_025403_414_20251201_025427_35e641
 # [DAMO-NLP-SG/VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3/)
 
 Multimodal foundation models for video understanding
+
+用于视频理解的多模态基础模型

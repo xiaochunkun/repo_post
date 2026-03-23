@@ -7,3 +7,5 @@ image: assets/cachethq_cachet_cropped.png
 # [cachethq/cachet](https://github.com/cachethq/cachet)
 
 open source status page for incidents and outages
+
+开源状态页面，用于事件和故障管理

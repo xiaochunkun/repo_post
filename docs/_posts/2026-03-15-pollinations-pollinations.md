@@ -7,3 +7,5 @@ image: assets/pollinations_pollinations_20260303_013614_189_20260303_013802_ce91
 # [pollinations/pollinations](https://github.com/pollinations/pollinations)
 
 Generates images and text via API
+
+通过API生成图像和文本

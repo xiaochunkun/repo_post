@@ -7,3 +7,5 @@ image: assets/20250926T004145860--wifiphisher--wifiphisher--20250926T004650141--
 # [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher)
 
 tool for Wi-Fi phishing and security testing
+
+用于 Wi-Fi 钓鱼和安全测试的工具

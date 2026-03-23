@@ -7,3 +7,5 @@ image: assets/winapps_org_winapps_launcher_20251225_191241_604_20251225_191332_a
 # [winapps-org/winapps-launcher](https://github.com/winapps-org/winapps-launcher/)
 
 Taskbar launcher for Windows applications on Linux
+
+在 Linux 上启动 Windows 应用的任务栏启动器

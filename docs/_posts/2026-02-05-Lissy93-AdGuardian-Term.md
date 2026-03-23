@@ -7,3 +7,5 @@ image: assets/Lissy93_AdGuardian_Term_20260203_213234_130_20260203_213329_ac11e4
 # [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
 
 Terminal interface for traffic monitoring of AdGuard Home instances
+
+AdGuard Home实例的流量监控终端界面

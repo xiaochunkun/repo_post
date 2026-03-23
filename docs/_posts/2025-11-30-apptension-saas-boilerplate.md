@@ -7,3 +7,5 @@ image: assets/apptension_saas_boilerplate_20251126_114744_738_20251129_022836_9a
 # [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate/)
 
 SaaS starter kit for React, Django, and AWS
+
+适用于 React、Django 和 AWS 的 SaaS 入门套件

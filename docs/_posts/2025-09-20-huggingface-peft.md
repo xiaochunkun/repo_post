@@ -7,3 +7,5 @@ image: assets/20250918T004734198--huggingface--peft--20250920T043842790--cropped
 # [huggingface/peft](https://github.com/huggingface/peft)
 
 efficient fine-tuning for large AI models with minimal extra parameters
+
+使用最少额外参数对大型AI模型进行高效微调

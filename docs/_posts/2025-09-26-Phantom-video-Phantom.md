@@ -7,3 +7,5 @@ image: assets/20250926T173221967--Phantom-video--Phantom--20250926T174549085--cr
 # [Phantom-video/Phantom](https://github.com/Phantom-video/Phantom)
 
 subject-consistent video generation using text, images, and audio
+
+使用文本、图像和音频生成主题一致视频

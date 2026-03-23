@@ -7,3 +7,5 @@ image: assets/leadita_tech_stack_datasets_20260213_122450_984_20260213_122548_a6
 # [leadita/tech-stack-datasets](https://github.com/leadita/tech-stack-datasets)
 
 Datasets of companies and technology stacks
+
+公司和技术栈的数据集

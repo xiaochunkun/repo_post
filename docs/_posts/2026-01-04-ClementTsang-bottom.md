@@ -7,3 +7,5 @@ image: assets/ClementTsang_bottom_20260103_022751_526_20260103_022806_3922ba.png
 # [ClementTsang/bottom](https://github.com/ClementTsang/bottom/)
 
 System monitor with graphs for terminal
+
+带图形界面的终端系统监控器

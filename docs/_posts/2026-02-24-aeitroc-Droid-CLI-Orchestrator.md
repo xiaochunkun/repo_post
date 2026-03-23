@@ -7,3 +7,5 @@ image: assets/aeitroc_Droid_CLI_Orchestrator_20260222_151108_327_20260222_151133
 # [aeitroc/Droid-CLI-Orchestrator](https://github.com/aeitroc/Droid-CLI-Orchestrator)
 
 Orchestrates AI agents for software development tasks
+
+编排AI代理执行软件开发任务

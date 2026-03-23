@@ -7,3 +7,5 @@ image: assets/3CORESec_AWS_TMS_Remover_20260102_195106_548_20260102_195122_e20c0
 # [3CORESec/AWS-TMS-Remover](https://github.com/3CORESec/AWS-TMS-Remover/)
 
 Automates removal of AWS VPC Traffic Mirror Sessions
+
+自动移除AWS VPC流量镜像会话

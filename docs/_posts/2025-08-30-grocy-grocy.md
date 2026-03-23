@@ -7,3 +7,5 @@ image: assets/20250830T040736711--grocy--grocy--20250830T041211282--cropped.png
 # [grocy/grocy](https://github.com/grocy/grocy)
 
 self-hosted groceries and household management for your home
+
+自托管家庭杂货和日用品管理工具

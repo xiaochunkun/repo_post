@@ -7,3 +7,5 @@ image: assets/shmuelzon_home_assistant_floor_plan_20251231_031627_670_20251231_0
 # [shmuelzon/home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan/)
 
 Renders 3D floor plans for Home Assistant from Sweet Home 3D
+
+从Sweet Home 3D渲染Home Assistant的3D平面图

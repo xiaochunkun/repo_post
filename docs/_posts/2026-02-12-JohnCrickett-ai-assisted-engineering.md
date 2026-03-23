@@ -7,3 +7,5 @@ image: assets/JohnCrickett_ai_assisted_engineering_20260208_070628_601_20260208_
 # [JohnCrickett/ai-assisted-engineering](https://github.com/JohnCrickett/ai-assisted-engineering)
 
 Guide to software engineering with LLMs
+
+使用LLM进行软件工程的指南

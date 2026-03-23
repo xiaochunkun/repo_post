@@ -7,3 +7,5 @@ image: assets/batrachianai_toad_20260206_091630_290_20260206_091703_fc3835.png
 # [batrachianai/toad](https://github.com/batrachianai/toad)
 
 Terminal interface for AI agents
+
+AI 代理的终端界面

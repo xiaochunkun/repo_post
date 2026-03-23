@@ -7,3 +7,5 @@ image: assets/bhavesh95863_firecrawl_observer_20260104_180455_171_20260104_18050
 # [bhavesh95863/firecrawl-observer](https://github.com/bhavesh95863/firecrawl-observer/)
 
 Monitors websites for changes with AI notifications
+
+监控网站变化并发送 AI 通知

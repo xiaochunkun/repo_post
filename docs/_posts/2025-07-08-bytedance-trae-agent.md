@@ -7,3 +7,5 @@ image: assets/bytedance_trae-agent_cropped.png
 # [bytedance/trae-agent](https://github.com/bytedance/trae-agent)
 
 LLM-powered CLI for automating software engineering tasks
+
+基于 LLM 的 CLI，用于自动化软件工程任务

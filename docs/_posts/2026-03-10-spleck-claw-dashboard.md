@@ -7,3 +7,5 @@ image: assets/spleck_claw_dashboard_20260212_025126_137_20260212_025153_b90a8b.p
 # [spleck/claw-dashboard](https://github.com/spleck/claw-dashboard)
 
 Terminal dashboard for monitoring OpenClaw instances
+
+用于监控OpenClaw实例的终端仪表板

@@ -7,3 +7,5 @@ image: assets/mendableai_open_lovable_20260120_000014_443_20260120_000028_39954a
 # [mendableai/open-lovable](https://github.com/mendableai/open-lovable)
 
 Builds React apps from chat prompts
+
+通过聊天提示构建React应用

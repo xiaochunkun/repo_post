@@ -7,3 +7,5 @@ image: assets/gitroomhq_postiz-app_cropped.png
 # [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 
 Social media scheduling tool
+
+社交媒体调度工具

@@ -7,3 +7,5 @@ image: assets/T_Pau_Anykey_20260309_143327_418_20260309_143521_a1b525.png
 # [T-Pau/Anykey](https://github.com/T-Pau/Anykey)
 
 Monitors keyboard and joystick inputs for retro computers
+
+监控复古计算机的键盘和摇杆输入

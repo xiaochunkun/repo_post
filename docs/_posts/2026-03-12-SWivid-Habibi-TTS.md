@@ -7,3 +7,5 @@ image: assets/SWivid_Habibi_TTS_20260304_013919_540_20260304_014105_ce038a.png
 # [SWivid/Habibi-TTS](https://github.com/SWivid/Habibi-TTS)
 
 Unified speech synthesis for Arabic dialects
+
+阿拉伯语方言的统一语音合成

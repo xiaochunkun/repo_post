@@ -7,3 +7,5 @@ image: assets/ammaarreshi_openjourney_20251213_083638_313_20251213_083703_949281
 # [ammaarreshi/openjourney](https://github.com/ammaarreshi/openjourney/)
 
 MidJourney web interface clone using Google's Gemini SDK
+
+使用 Google Gemini SDK 的 MidJourney 网页界面克隆

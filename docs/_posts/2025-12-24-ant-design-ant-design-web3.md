@@ -7,3 +7,5 @@ image: assets/ant_design_ant_design_web3_20251223_034833_851_20251223_034849_5dc
 # [ant-design/ant-design-web3](https://github.com/ant-design/ant-design-web3/)
 
 React components for building dapps with multi-chain support
+
+支持多链的React组件库，用于构建dapps

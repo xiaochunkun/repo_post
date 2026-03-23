@@ -7,3 +7,5 @@ image: assets/BandarLabs_gitpodcast_cropped.png
 # [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast)
 
 turn any github repo into a podcast in seconds
+
+几秒钟内将任何GitHub仓库转换为播客

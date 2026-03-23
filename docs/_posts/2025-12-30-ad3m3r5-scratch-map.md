@@ -7,3 +7,5 @@ image: assets/ad3m3r5_scratch_map_20251228_111921_954_20251228_111940_d28319.png
 # [ad3m3r5/scratch-map](https://github.com/ad3m3r5/scratch-map/)
 
 Scratch-off map for tracking travels
+
+用于追踪旅行的刮刮地图

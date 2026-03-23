@@ -7,3 +7,5 @@ image: assets/kubeshark_kubeshark_20251231_231312_206_20251231_231328_ad9e77.png
 # [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark/)
 
 Analyzes traffic for Kubernetes with packet inspection
+
+使用数据包检查分析Kubernetes流量

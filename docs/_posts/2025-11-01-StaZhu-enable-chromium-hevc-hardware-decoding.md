@@ -7,3 +7,5 @@ image: assets/StaZhu_enable_chromium_hevc_hardware_decoding_20251031_032955_854_
 # [StaZhu/enable-chromium-hevc-hardware-decoding](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding/)
 
 Guide to enable HEVC hardware decoding in Chromium
+
+在 Chromium 中启用 HEVC 硬件解码的指南

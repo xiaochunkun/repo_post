@@ -7,3 +7,5 @@ image: assets/20250903T023737920--skypilot-org--skypilot--20250903T024829987--cr
 # [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
 
 run and manage ai jobs across any cloud or on-prem
+
+在任何云端或本地环境中运行和管理 AI 任务

@@ -7,3 +7,5 @@ image: assets/rndnanthu_wgetGUI_20260112_015142_587_20260112_015155_51a418.png
 # [rndnanthu/wgetGUI](https://github.com/rndnanthu/wgetGUI)
 
 GUI for wget to download open directory listings
+
+wget GUI，用于下载开放目录列表

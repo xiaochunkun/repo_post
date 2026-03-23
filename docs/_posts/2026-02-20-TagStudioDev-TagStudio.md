@@ -7,3 +7,5 @@ image: assets/TagStudioDev_TagStudio_20260209_021152_415_20260209_021235_3f3b46.
 # [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio)
 
 Organizes files with a tag-based system
+
+使用基于标签的系统组织文件

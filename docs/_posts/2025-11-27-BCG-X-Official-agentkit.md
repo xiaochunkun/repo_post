@@ -7,3 +7,5 @@ image: assets/BCG_X_Official_agentkit_20251125_022745_476_20251127_161659_2b1f14
 # [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit/)
 
 LangChain-based starter kit for building agent apps
+
+基于 LangChain 的构建代理应用入门套件

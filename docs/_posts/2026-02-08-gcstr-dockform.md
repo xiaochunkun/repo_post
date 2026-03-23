@@ -7,3 +7,5 @@ image: assets/gcstr_dockform_20260202_231003_924_20260202_231025_0182a3.png
 # [gcstr/dockform](https://github.com/gcstr/dockform)
 
 Declarative layer for docker compose configurations
+
+docker compose 配置的声明式层

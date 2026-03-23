@@ -7,3 +7,5 @@ image: assets/apache_superset_cropped.png
 # [apache/superset](https://github.com/apache/superset)
 
 open-source tool for exploring and visualizing data
+
+开源工具，用于探索和可视化数据

@@ -7,3 +7,5 @@ image: assets/git_learning_game_oh_my_git_20260308_201739_694_20260308_201908_e4
 # [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git)
 
 Game for learning Git through visualization
+
+通过可视化学习Git的游戏

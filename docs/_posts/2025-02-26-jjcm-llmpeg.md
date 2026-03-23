@@ -7,3 +7,5 @@ image: assets/jjcm_llmpeg_cropped.png
 # [jjcm/llmpeg](https://github.com/jjcm/llmpeg)
 
 LLMPEG: GPU-accelerated video transcoding tool
+
+LLMPEG：GPU 加速的视频转码工具

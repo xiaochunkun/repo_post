@@ -7,3 +7,5 @@ image: assets/evgeny_nadymov_telegram_react_20260106_190056_514_20260106_190113_
 # [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react/)
 
 Telegram client with React and WebAssembly
+
+使用 React 和 WebAssembly 的 Telegram 客户端

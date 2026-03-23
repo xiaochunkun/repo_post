@@ -7,3 +7,5 @@ image: assets/20250912T002221157--memgraph--memgraph--20250912T002800956--croppe
 # [memgraph/memgraph](https://github.com/memgraph/memgraph)
 
 open source graph database for real-time streaming and analytics
+
+用于实时流处理和分析的开源图数据库

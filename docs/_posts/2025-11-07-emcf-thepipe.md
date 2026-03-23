@@ -7,3 +7,5 @@ image: assets/emcf_thepipe_20251106_161149_173_20251106_174429_4777a0--20251106T
 # [emcf/thepipe](https://github.com/emcf/thepipe/)
 
 Extracts clean data from documents using vision-language models
+
+使用视觉语言模型从文档中提取干净数据

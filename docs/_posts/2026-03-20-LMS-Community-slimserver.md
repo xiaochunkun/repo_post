@@ -7,3 +7,5 @@ image: assets/LMS_Community_slimserver_20260318_132507_084_20260318_132557_b8747
 # [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver)
 
 Server software for audio players
+
+音频播放器的服务器软件

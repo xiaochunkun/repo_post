@@ -7,3 +7,5 @@ image: assets/google-labs-code_jules-awesome-list_cropped.png
 # [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)
 
 curated tools and resources for google jules ai coding agent
+
+Google Jules AI 编码代理的精选工具和资源

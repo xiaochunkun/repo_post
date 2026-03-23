@@ -7,3 +7,5 @@ image: assets/nguyenjessev_liquor_locker_20251217_194504_828_20251217_194659_520
 # [nguyenjessev/liquor-locker](https://github.com/nguyenjessev/liquor-locker/)
 
 Home bar management with AI cocktail recommendations
+
+家庭酒吧管理，提供 AI 鸡尾酒推荐

@@ -7,3 +7,5 @@ image: assets/mifi_lossless_cut_20260208_045134_319_20260208_045158_00a435.png
 # [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
 
 Cuts video and audio without re-encoding
+
+无需重新编码即可剪切视频和音频

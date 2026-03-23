@@ -7,3 +7,5 @@ image: assets/s0md3v_XSStrike_20251031_151507_337_20251102_214520_4bdf6b--202511
 # [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike/)
 
 Cross-site scripting detection suite with an intelligent payload generator
+
+带智能载荷生成器的跨站脚本检测套件

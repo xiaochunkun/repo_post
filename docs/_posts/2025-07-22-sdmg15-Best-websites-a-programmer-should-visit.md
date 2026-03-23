@@ -7,3 +7,5 @@ image: assets/sdmg15_Best-websites-a-programmer-should-visit_cropped.png
 # [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 curated list of must-visit sites for programmers
+
+程序员必访网站的精选列表

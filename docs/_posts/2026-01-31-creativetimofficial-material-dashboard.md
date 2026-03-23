@@ -7,3 +7,5 @@ image: assets/creativetimofficial_material_dashboard_20260130_183810_089_2026013
 # [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard)
 
 React components and blocks built on shadcn/ui
+
+基于 shadcn/ui 构建的 React 组件和区块

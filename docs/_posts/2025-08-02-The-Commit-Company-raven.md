@@ -7,3 +7,5 @@ image: assets/The-Commit-Company_raven_cropped.png
 # [The-Commit-Company/raven](https://github.com/The-Commit-Company/raven)
 
 open source team chat for Frappe sites
+
+用于 Frappe 站点的开源团队聊天工具

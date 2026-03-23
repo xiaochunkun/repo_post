@@ -7,3 +7,5 @@ image: assets/TheTumultuousUnicornOfDarkness_CPU_X_20251229_130125_835_20251229_
 # [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/)
 
 Gathers information on hardware and system components
+
+收集硬件和系统组件信息

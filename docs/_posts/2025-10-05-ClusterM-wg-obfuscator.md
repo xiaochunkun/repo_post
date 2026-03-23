@@ -7,3 +7,5 @@ image: assets/20251005T100621371--ClusterM--wg-obfuscator--20251005T101321517--c
 # [ClusterM/wg-obfuscator](https://github.com/ClusterM/wg-obfuscator)
 
 Tool to disguise WireGuard traffic as random data or another protocol for bypassing DPI
+
+将WireGuard流量伪装为随机数据或其他协议的工具，用于绕过DPI

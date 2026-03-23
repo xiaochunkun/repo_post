@@ -7,3 +7,5 @@ image: assets/glanceapp_glance_20260108_032305_194_20260108_032318_4c0ef6.png
 # [glanceapp/glance](https://github.com/glanceapp/glance)
 
 Dashboard for feeds in one place
+
+一站式信息流仪表板

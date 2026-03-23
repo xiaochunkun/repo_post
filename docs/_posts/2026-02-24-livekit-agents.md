@@ -7,3 +7,5 @@ image: assets/livekit_agents_20260203_144844_636_20260203_144912_e99d49.png
 # [livekit/agents](https://github.com/livekit/agents)
 
 Framework for voice agents that see and hear
+
+具备视觉和听觉功能的语音代理框架

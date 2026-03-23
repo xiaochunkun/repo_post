@@ -7,3 +7,5 @@ image: assets/antonioribeiro_openclaw_installer_20260211_000754_424_20260211_000
 # [antonioribeiro/openclaw-installer](https://github.com/antonioribeiro/openclaw-installer)
 
 Installer for Ubuntu VPS with security hardening and Tailscale integration
+
+Ubuntu VPS 安装器，具有安全加固和 Tailscale 集成

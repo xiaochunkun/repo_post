@@ -7,3 +7,5 @@ image: assets/autodistill_autodistill_20260112_165129_816_20260112_165144_541f2f
 # [autodistill/autodistill](https://github.com/autodistill/autodistill)
 
 Trains models from unlabeled images using foundation models
+
+使用基础模型从未标记图像训练模型

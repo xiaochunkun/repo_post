@@ -7,3 +7,5 @@ image: assets/20250908T185912991--vadimdemedes--ink--20250908T190205541--cropped
 # [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
 
 React-style UI for command-line apps
+
+命令行应用的 React 风格 UI 框架

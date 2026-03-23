@@ -7,3 +7,5 @@ image: assets/Tanq16_ExpenseOwl_cropped.png
 # [Tanq16/ExpenseOwl](https://github.com/Tanq16/ExpenseOwl)
 
 self-hosted expense tracker with pie charts
+
+带饼图的自托管费用追踪器

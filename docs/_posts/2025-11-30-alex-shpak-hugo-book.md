@@ -7,3 +7,5 @@ image: assets/alex_shpak_hugo_book_20251127_182122_027_20251130_051941_a33b32--2
 # [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/)
 
 Documentation theme with book layout
+
+具有书籍布局的文档主题

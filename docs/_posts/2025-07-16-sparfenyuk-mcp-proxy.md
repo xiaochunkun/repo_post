@@ -7,3 +7,5 @@ image: assets/sparfenyuk_mcp-proxy_cropped.png
 # [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy)
 
 switches between stdio and SSE/HTTP server transports
+
+在 stdio 和 SSE/HTTP 服务器传输之间切换

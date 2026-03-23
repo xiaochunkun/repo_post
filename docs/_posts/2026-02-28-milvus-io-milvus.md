@@ -7,3 +7,5 @@ image: assets/milvus_io_milvus_20260222_122703_093_20260222_122744_eb3d2a.png
 # [milvus-io/milvus](https://github.com/milvus-io/milvus)
 
 Vector database for AI applications
+
+用于AI应用的向量数据库

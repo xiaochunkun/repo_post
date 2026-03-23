@@ -7,3 +7,5 @@ image: assets/jailbreakdotparty_PancakeStore_20260113_045701_111_20260113_045715
 # [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore)
 
 Downgrades iOS applications from the App Store
+
+从 App Store 降级 iOS 应用程序

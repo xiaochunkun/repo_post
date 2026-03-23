@@ -7,3 +7,5 @@ image: assets/zavoloklom_docker_compose_linter_20251125_000202_118_20251125_2249
 # [zavoloklom/docker-compose-linter](https://github.com/zavoloklom/docker-compose-linter/)
 
 Validates and fixes Docker Compose files
+
+验证和修复 Docker Compose 文件

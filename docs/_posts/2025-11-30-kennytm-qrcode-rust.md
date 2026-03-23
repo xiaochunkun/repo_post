@@ -7,3 +7,5 @@ image: assets/kennytm_qrcode_rust_20251127_200600_291_20251130_082922_e42c0b--20
 # [kennytm/qrcode-rust](https://github.com/kennytm/qrcode-rust/)
 
 QR code and Micro QR code encoder in Rust
+
+Rust 中的 QR 码和 Micro QR 码编码器

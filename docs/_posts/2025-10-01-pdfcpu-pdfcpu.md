@@ -7,3 +7,5 @@ image: assets/20250930T035145125--pdfcpu--pdfcpu--20250930T041058934--cropped.pn
 # [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
 
 PDF processing tools and CLI for batch editing, merging, encrypting, and more
+
+PDF处理工具和CLI，支持批量编辑、合并、加密等

@@ -7,3 +7,5 @@ image: assets/rokartur_BetterAudio_20260126_000932_497_20260126_001016_d2727a.pn
 # [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio)
 
 Controls audio per application from the menu bar
+
+从菜单栏控制每个应用的音频

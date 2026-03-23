@@ -7,3 +7,5 @@ image: assets/microsoft_genaiscript_cropped.png
 # [microsoft/genaiscript](https://github.com/microsoft/genaiscript)
 
 Scripting language for AI and LLM integration
+
+用于AI和LLM集成的脚本语言

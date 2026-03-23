@@ -7,3 +7,5 @@ image: assets/autowarefoundation_autoware_20260314_013833_758_20260314_014053_87
 # [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
 
 Open-source software stack for self-driving vehicles
+
+自动驾驶汽车的开源软件栈

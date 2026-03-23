@@ -7,3 +7,5 @@ image: assets/20250911T023329092--sentient-agi--ROMA--20250920T060153296--croppe
 # [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA)
 
 framework for building hierarchical multi-agent systems using recursive task breakdown
+
+使用递归任务分解构建分层多智能体系统的框架

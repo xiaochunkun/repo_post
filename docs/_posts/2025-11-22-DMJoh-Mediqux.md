@@ -7,3 +7,5 @@ image: assets/DMJoh_Mediqux_20251121_122408_961_20251121_211608_546e3d--20251121
 # [DMJoh/Mediqux](https://github.com/DMJoh/Mediqux/)
 
 Locally hosted medical record system
+
+本地托管的医疗记录系统

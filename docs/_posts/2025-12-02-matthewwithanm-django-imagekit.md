@@ -7,3 +7,5 @@ image: assets/matthewwithanm_django_imagekit_20251201_033423_277_20251201_033500
 # [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit/)
 
 Programmatically generate images for Django
+
+为 Django 程序化生成图像

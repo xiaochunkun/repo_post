@@ -7,3 +7,5 @@ image: assets/20251001T112242298--flipperdevices--flipperzero-firmware--20251001
 # [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
 
 official firmware and dev tools for Flipper Zero
+
+Flipper Zero的官方固件和开发工具

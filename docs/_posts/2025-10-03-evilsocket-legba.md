@@ -7,3 +7,5 @@ image: assets/20251001T205429833--evilsocket--legba--20251001T210107032--cropped
 # [evilsocket/legba](https://github.com/evilsocket/legba)
 
 multiprotocol credentials bruteforcer and password sprayer built in Rust
+
+多协议凭据暴力破解器和密码喷洒器，用Rust构建

@@ -7,3 +7,5 @@ image: assets/Appaxaap_Focus_20251210_053320_059_20251210_053341_dc9525.png
 # [Appaxaap/Focus](https://github.com/Appaxaap/Focus/)
 
 Offline Eisenhower Matrix planner built with Flutter
+
+使用 Flutter 构建的离线 Eisenhower Matrix 规划器

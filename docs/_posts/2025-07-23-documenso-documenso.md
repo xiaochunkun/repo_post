@@ -7,3 +7,5 @@ image: assets/documenso_documenso_cropped.png
 # [documenso/documenso](https://github.com/documenso/documenso)
 
 open source document signing tool, DocuSign alternative
+
+开源文档签名工具，DocuSign替代方案

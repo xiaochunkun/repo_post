@@ -7,3 +7,5 @@ image: assets/lovasoa_whitebophir_20251030_225943_653_20251030_235206_f44752--20
 # [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir/)
 
 Online collaborative whiteboard with persistent state
+
+具有持久状态的在线协作白板

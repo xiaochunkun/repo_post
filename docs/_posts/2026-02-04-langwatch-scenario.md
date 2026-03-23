@@ -7,3 +7,5 @@ image: assets/langwatch_scenario_20260202_234939_483_20260202_235002_4ca1bd.png
 # [langwatch/scenario](https://github.com/langwatch/scenario)
 
 Tests agents by simulating users in scenarios
+
+通过模拟用户在场景中测试代理

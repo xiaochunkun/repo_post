@@ -7,3 +7,5 @@ image: assets/steve_m_hsdaoh_rp2350_20260223_065646_089_20260223_065715_292bde.p
 # [steve-m/hsdaoh-rp2350](https://github.com/steve-m/hsdaoh-rp2350)
 
 Streams data from RP2350 to PC via HDMI
+
+通过 HDMI 将数据从 RP2350 流式传输到 PC

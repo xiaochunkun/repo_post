@@ -7,3 +7,5 @@ image: assets/gzzhongqi_geminicli2api_20251123_182935_681_20251124_184228_a88720
 # [gzzhongqi/geminicli2api](https://github.com/gzzhongqi/geminicli2api/)
 
 Converts Gemini CLI to OpenAI API
+
+将 Gemini CLI 转换为 OpenAI API

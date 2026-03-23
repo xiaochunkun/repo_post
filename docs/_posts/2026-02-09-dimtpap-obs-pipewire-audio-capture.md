@@ -7,3 +7,5 @@ image: assets/dimtpap_obs_pipewire_audio_capture_20260208_025546_223_20260208_02
 # [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture)
 
 Captures audio from applications and devices via PipeWire
+
+通过PipeWire捕获应用程序和设备的音频

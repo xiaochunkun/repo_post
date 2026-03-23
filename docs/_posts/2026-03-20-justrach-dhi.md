@@ -7,3 +7,5 @@ image: assets/justrach_dhi_20260320_013732_699_20260320_014136_650b08.png
 # [justrach/dhi](https://github.com/justrach/dhi)
 
 Data validation for Python and TypeScript
+
+Python 和 TypeScript 的数据验证

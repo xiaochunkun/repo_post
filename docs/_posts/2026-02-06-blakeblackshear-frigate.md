@@ -7,3 +7,5 @@ image: assets/blakeblackshear_frigate_20260202_230603_317_20260202_230655_e2ab99
 # [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
 
 NVR with object detection for IP cameras
+
+带对象检测的IP摄像头NVR

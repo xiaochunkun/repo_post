@@ -7,3 +7,5 @@ image: assets/radishzzz_astro_theme_retypeset_20251125_033606_831_20251127_16453
 # [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset/)
 
 Static blog theme based on Astro framework
+
+基于Astro框架的静态博客主题

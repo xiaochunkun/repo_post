@@ -7,3 +7,5 @@ image: assets/anthropics_prompt-eng-interactive-tutorial_cropped.png
 # [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 
 Interactive tutorial for learning how to write prompts for Claude AI
+
+学习如何为Claude AI编写提示的交互式教程

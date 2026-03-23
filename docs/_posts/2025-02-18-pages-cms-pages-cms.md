@@ -7,3 +7,5 @@ image: assets/pages-cms_pages-cms_cropped.png
 # [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms)
 
 CMS for static sites on GitHub
+
+GitHub 上静态站点的 CMS

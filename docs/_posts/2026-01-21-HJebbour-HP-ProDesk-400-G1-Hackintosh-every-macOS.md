@@ -7,3 +7,5 @@ image: assets/HJebbour_HP_ProDesk_400_G1_Hackintosh_every_macOS_20260120_104125_
 # [HJebbour/HP-ProDesk-400-G1-Hackintosh-every-macOS](https://github.com/HJebbour/HP-ProDesk-400-G1-Hackintosh-every-macOS)
 
 Runs macOS versions from Tiger to Sequoia on HP ProDesk 400 G1
+
+在 HP ProDesk 400 G1 上运行从 Tiger 到 Sequoia 的 macOS 版本

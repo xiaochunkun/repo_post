@@ -7,3 +7,5 @@ image: assets/a_ghorbani_pocketpal_ai_20260129_020850_606_20260129_020927_659294
 # [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)
 
 Runs language models on phones without internet
+
+手机离线运行语言模型

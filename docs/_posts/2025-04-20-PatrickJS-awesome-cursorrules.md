@@ -7,3 +7,5 @@ image: assets/PatrickJS_awesome-cursorrules_cropped.png
 # [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 
 Collection of .cursorrules files for customizing Cursor AI code editor
+
+.cursorrules文件集合，用于自定义Cursor AI代码编辑器

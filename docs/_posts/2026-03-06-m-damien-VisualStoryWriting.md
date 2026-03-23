@@ -7,3 +7,5 @@ image: assets/m_damien_VisualStoryWriting_20260305_083042_822_20260305_083158_34
 # [m-damien/VisualStoryWriting](https://github.com/m-damien/VisualStoryWriting)
 
 System for writing stories through manipulation of visual representations
+
+通过操作视觉表示编写故事的系统

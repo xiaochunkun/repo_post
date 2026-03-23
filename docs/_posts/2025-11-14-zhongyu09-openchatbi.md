@@ -7,3 +7,5 @@ image: assets/zhongyu09_openchatbi_20251114_043544_676_20251114_161258_e5571f--2
 # [zhongyu09/openchatbi](https://github.com/zhongyu09/openchatbi/)
 
 Chat-based BI tool that converts natural language to SQL
+
+将自然语言转换为SQL的聊天式BI工具

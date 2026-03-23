@@ -7,3 +7,5 @@ image: assets/wppconnect_team_wppconnect_server_20251123_012029_911_20251123_022
 # [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server/)
 
 API for WhatsApp automation
+
+WhatsApp 自动化 API

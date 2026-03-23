@@ -7,3 +7,5 @@ image: assets/rclone_ui_rclone_ui_20251122_173425_548_20251123_001257_441234--20
 # [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui/)
 
 GUI for Rclone cloud storage
+
+Rclone云存储的GUI

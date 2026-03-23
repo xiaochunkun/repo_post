@@ -7,3 +7,5 @@ image: assets/burhancodes_fagramdesktop_20251221_033040_520_20251221_033058_cc94
 # [burhancodes/fagramdesktop](https://github.com/burhancodes/fagramdesktop/)
 
 Fork of Telegram Desktop with upstream updates
+
+集成上游更新的 Telegram Desktop 分支

@@ -7,3 +7,5 @@ image: assets/axa_group_Parsr_20251122_204040_554_20251123_001544_caff80--202511
 # [axa-group/Parsr](https://github.com/axa-group/Parsr/)
 
 Parses documents into JSON and Markdown
+
+将文档解析为 JSON 和 Markdown

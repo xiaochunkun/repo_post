@@ -7,3 +7,5 @@ image: assets/20251016T020747561--Open-Dev-Society--OpenStock--20251016T04425609
 # [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
 open-source stock market app with real-time prices, alerts, and company insights
+
+开源股票市场应用，提供实时价格、提醒和公司洞察

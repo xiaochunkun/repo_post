@@ -7,3 +7,5 @@ image: assets/agarrharr_awesome-cli-apps_cropped.png
 # [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 
 huge list of command line apps
+
+大量命令行应用列表

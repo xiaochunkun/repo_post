@@ -7,3 +7,5 @@ image: assets/20250926T173132551--fullcalendar--fullcalendar--20250926T174048346
 # [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
 
 drag and drop calendar for web apps
+
+用于 Web 应用的拖放日历

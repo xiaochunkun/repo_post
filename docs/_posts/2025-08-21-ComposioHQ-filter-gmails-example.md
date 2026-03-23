@@ -7,3 +7,5 @@ image: assets/20250820T132117819_ComposioHQ_filter-gmails-example--20250820T1350
 # [ComposioHQ/filter-gmails-example](https://github.com/ComposioHQ/filter-gmails-example)
 
 See how to use the Composio SDK to build an AI-powered Gmail filter that labels emails automatically
+
+使用 Composio SDK 构建 AI 驱动的 Gmail 自动标签过滤器示例

@@ -7,3 +7,5 @@ image: assets/MartinPham_FindMySync_20260117_150417_952_20260117_150432_42c897.p
 # [MartinPham/FindMySync](https://github.com/MartinPham/FindMySync)
 
 Syncs Apple FindMy data to remote servers
+
+将Apple FindMy数据同步到远程服务器

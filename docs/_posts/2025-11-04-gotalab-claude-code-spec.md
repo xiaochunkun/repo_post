@@ -7,3 +7,5 @@ image: assets/gotalab_claude_code_spec_20251104_011756_710_20251104_183224_06ea2
 # [gotalab/claude-code-spec](https://github.com/gotalab/claude-code-spec/)
 
 Integrates AI assistants into a spec-driven development workflow
+
+将AI助手集成到规范驱动开发工作流中

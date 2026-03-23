@@ -7,3 +7,5 @@ image: assets/pysentimiento_pysentimiento_20251105_011955_851_20251105_013918_e7
 # [pysentimiento/pysentimiento](https://github.com/pysentimiento/pysentimiento/)
 
 Python toolkit for multilingual social NLP tasks
+
+用于多语言社交 NLP 任务的 Python 工具包

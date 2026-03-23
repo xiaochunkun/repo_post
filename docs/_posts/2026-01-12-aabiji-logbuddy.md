@@ -7,3 +7,5 @@ image: assets/aabiji_logbuddy_20260112_085826_429_20260112_085844_167c86.png
 # [aabiji/logbuddy](https://github.com/aabiji/logbuddy)
 
 Tracks nutrition, workouts, weight, and period
+
+追踪营养、锻炼、体重和经期

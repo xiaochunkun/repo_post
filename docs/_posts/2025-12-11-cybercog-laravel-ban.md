@@ -7,3 +7,5 @@ image: assets/cybercog_laravel_ban_20251208_223821_149_20251208_223911_45f752.pn
 # [cybercog/laravel-ban](https://github.com/cybercog/laravel-ban/)
 
 Simplifies blocking and banning Eloquent models
+
+简化Eloquent模型的封禁和阻止

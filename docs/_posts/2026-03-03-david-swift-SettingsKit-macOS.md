@@ -7,3 +7,5 @@ image: assets/david_swift_SettingsKit_macOS_20260213_195445_469_20260213_195555_
 # [david-swift/SettingsKit-macOS](https://github.com/david-swift/SettingsKit-macOS)
 
 Settings window for SwiftUI macOS apps
+
+SwiftUI macOS应用的设置窗口

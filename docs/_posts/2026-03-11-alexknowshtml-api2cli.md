@@ -7,3 +7,5 @@ image: assets/alexknowshtml_api2cli_20260304_043814_877_20260304_043948_85055c.p
 # [alexknowshtml/api2cli](https://github.com/alexknowshtml/api2cli)
 
 Turns APIs into CLIs and Claude Code skills
+
+将API转换为CLI和Claude Code技能

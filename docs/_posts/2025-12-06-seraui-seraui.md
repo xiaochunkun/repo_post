@@ -7,3 +7,5 @@ image: assets/seraui_seraui_20251203_003548_378_20251203_003625_1dceb2.png
 # [seraui/seraui](https://github.com/seraui/seraui/)
 
 React and Next.js component library built with Tailwind CSS
+
+使用Tailwind CSS构建的React和Next.js组件库

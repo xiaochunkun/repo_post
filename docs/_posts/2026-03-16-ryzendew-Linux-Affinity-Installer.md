@@ -7,3 +7,5 @@ image: assets/ryzendew_Linux_Affinity_Installer_20260316_165244_811_20260316_165
 # [ryzendew/Linux-Affinity-Installer](https://github.com/ryzendew/Linux-Affinity-Installer)
 
 Runs Affinity software on GNU/Linux systems
+
+在 GNU/Linux 系统上运行 Affinity 软件

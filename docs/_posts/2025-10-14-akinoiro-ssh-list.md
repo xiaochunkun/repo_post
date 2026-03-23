@@ -7,3 +7,5 @@ image: assets/20251014T014742932--akinoiro--ssh-list--20251014T015523628--croppe
 # [akinoiro/ssh-list](https://github.com/akinoiro/ssh-list)
 
 terminal-based SSH connection manager with search and edit features
+
+基于终端的 SSH 连接管理器，支持搜索和编辑功能

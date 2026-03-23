@@ -7,3 +7,5 @@ image: assets/brandonyoungdev_tldx_cropped.png
 # [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx)
 
 cli tool for quick domain name checks
+
+用于快速域名检查的 CLI 工具

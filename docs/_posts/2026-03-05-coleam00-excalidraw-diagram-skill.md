@@ -7,3 +7,5 @@ image: assets/coleam00_excalidraw_diagram_skill_20260303_164956_780_20260303_165
 # [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill)
 
 Coding agent skill for diagrams with visual validation
+
+带视觉验证的图表编码代理技能

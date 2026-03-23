@@ -7,3 +7,5 @@ image: assets/labbots_NiimPrintX_20260209_135517_896_20260209_135540_5f5a8c.png
 # [labbots/NiimPrintX](https://github.com/labbots/NiimPrintX)
 
 Interfaces with label printers via Bluetooth
+
+通过蓝牙与标签打印机接口

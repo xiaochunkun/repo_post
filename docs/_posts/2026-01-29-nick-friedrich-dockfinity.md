@@ -7,3 +7,5 @@ image: assets/nick_friedrich_dockfinity_20260111_082841_499_20260111_082901_4f0b
 # [nick-friedrich/dockfinity](https://github.com/nick-friedrich/dockfinity)
 
 Switches between dock profiles from the menu bar
+
+从菜单栏切换dock配置文件

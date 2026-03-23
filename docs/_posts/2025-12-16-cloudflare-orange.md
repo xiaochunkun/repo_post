@@ -7,3 +7,5 @@ image: assets/cloudflare_orange_20251213_135023_793_20251213_135112_6299b7.png
 # [cloudflare/orange](https://github.com/cloudflare/orange/)
 
 Demo application built using Cloudflare Calls
+
+使用Cloudflare Calls构建的演示应用

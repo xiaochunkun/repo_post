@@ -7,3 +7,5 @@ image: assets/parawanderer_OpenTagViewer_20260129_014904_770_20260129_014939_a2d
 # [parawanderer/OpenTagViewer](https://github.com/parawanderer/OpenTagViewer)
 
 Tracks Apple AirTags on Android devices
+
+在Android设备上追踪Apple AirTags

@@ -7,3 +7,5 @@ image: assets/hhftechnology_middleware-manager_cropped.png
 # [hhftechnology/middleware-manager](https://github.com/hhftechnology/middleware-manager)
 
 manage custom Traefik middleware for your services
+
+管理您服务的自定义 Traefik 中间件

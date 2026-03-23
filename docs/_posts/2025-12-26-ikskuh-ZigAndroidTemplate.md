@@ -7,3 +7,5 @@ image: assets/ikskuh_ZigAndroidTemplate_20251224_192601_556_20251224_192618_99c1
 # [ikskuh/ZigAndroidTemplate](https://github.com/ikskuh/ZigAndroidTemplate/)
 
 Android apps in Zig without C dependencies
+
+使用 Zig 构建 Android 应用，无需 C 依赖

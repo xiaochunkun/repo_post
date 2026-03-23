@@ -7,3 +7,5 @@ image: assets/xynehq_xyne_20251031_051416_596_20251031_210151_74fff8--20251031T2
 # [xynehq/xyne](https://github.com/xynehq/xyne/)
 
 Open-source search engine for work applications
+
+工作应用的开源搜索引擎

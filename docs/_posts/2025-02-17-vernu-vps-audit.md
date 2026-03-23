@@ -7,3 +7,5 @@ image: assets/vernu_vps-audit_cropped.png
 # [vernu/vps-audit](https://github.com/vernu/vps-audit)
 
 Linux server audit script
+
+Linux 服务器审计脚本

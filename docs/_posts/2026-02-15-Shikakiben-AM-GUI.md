@@ -7,3 +7,5 @@ image: assets/Shikakiben_AM_GUI_20260208_012531_433_20260208_012549_ad16e4.png
 # [Shikakiben/AM-GUI](https://github.com/Shikakiben/AM-GUI)
 
 Frontend to manage AppImages on Linux
+
+Linux 上管理 AppImages 的前端界面

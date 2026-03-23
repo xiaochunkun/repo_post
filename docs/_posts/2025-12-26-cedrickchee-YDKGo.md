@@ -7,3 +7,5 @@ image: assets/cedrickchee_YDKGo_20251225_062546_752_20251225_062602_038605.png
 # [cedrickchee/YDKGo](https://github.com/cedrickchee/YDKGo/)
 
 Go study notes in a book
+
+Go 学习笔记书籍

@@ -7,3 +7,5 @@ image: assets/deusyu_translate_book_20260316_054402_275_20260316_054435_730cef.p
 # [deusyu/translate-book](https://github.com/deusyu/translate-book)
 
 Translates entire books using parallel subagents
+
+使用并行子代理翻译整本书

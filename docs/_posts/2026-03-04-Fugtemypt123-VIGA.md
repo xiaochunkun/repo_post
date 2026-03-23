@@ -7,3 +7,5 @@ image: assets/Fugtemypt123_VIGA_20260203_005500_665_20260203_005523_2f658f.png
 # [Fugtemypt123/VIGA](https://github.com/Fugtemypt123/VIGA)
 
 Agent reconstructs scenes through code generation and verification
+
+代理通过代码生成和验证重建场景

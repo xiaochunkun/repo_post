@@ -7,3 +7,5 @@ image: assets/btd_rollup_plugin_visualizer_20251105_050836_753_20251105_123540_6
 # [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer/)
 
 Visualize and analyze a Rollup bundle
+
+可视化分析Rollup打包文件

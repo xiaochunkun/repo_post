@@ -7,3 +7,5 @@ image: assets/langwatch_scenario_cropped.png
 # [langwatch/scenario](https://github.com/langwatch/scenario)
 
 test AI agents with conversation scenarios
+
+使用对话场景测试AI代理

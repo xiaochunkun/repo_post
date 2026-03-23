@@ -7,3 +7,5 @@ image: assets/srbhr_Resume_Matcher_20251020_065024_786_20251020_070706--20251020
 # [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher/)
 
 AI-powered resume tailoring
+
+AI 驱动的简历定制

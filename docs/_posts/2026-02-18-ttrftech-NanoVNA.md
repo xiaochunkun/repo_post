@@ -7,3 +7,5 @@ image: assets/ttrftech_NanoVNA_20260212_134222_742_20260212_134301_b293b5.png
 # [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA)
 
 Handheld vector network analyzer with LCD display
+
+带有 LCD 显示屏的手持矢量网络分析仪

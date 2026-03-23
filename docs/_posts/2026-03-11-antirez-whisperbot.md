@@ -7,3 +7,5 @@ image: assets/antirez_whisperbot_20260212_125229_492_20260212_125248_996a32.png
 # [antirez/whisperbot](https://github.com/antirez/whisperbot)
 
 Transcribes Telegram voice messages locally using whisper.cpp
+
+使用whisper.cpp本地转录Telegram语音消息

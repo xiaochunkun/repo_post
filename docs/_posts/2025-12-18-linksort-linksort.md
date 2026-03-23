@@ -7,3 +7,5 @@ image: assets/linksort_linksort_20251217_111917_321_20251217_111938_27d830.png
 # [linksort/linksort](https://github.com/linksort/linksort/)
 
 Open source bookmarking application
+
+开源书签应用

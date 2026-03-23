@@ -7,3 +7,5 @@ image: assets/20250925T044944457--lldap--lldap--20250925T045518955--cropped.png
 # [lldap/lldap](https://github.com/lldap/lldap)
 
 lightweight LDAP server for simple authentication and user management
+
+用于简单身份验证和用户管理的轻量级LDAP服务器

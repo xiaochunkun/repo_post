@@ -7,3 +7,5 @@ image: assets/NativeMindBrowser_NativeMindExtension_cropped.png
 # [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension)
 
 private AI assistant that runs in your browser
+
+在浏览器中运行的私有 AI 助手

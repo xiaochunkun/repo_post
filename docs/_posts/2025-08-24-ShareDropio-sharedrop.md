@@ -7,3 +7,5 @@ image: assets/20250823T012802040--ShareDropio--sharedrop--20250823T013217096--cr
 # [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop)
 
 peer-to-peer file sharing in your browser
+
+浏览器中的点对点文件分享

@@ -7,3 +7,5 @@ image: assets/hudy9x_namviek_20260208_091643_408_20260208_091658_6f6f0d.png
 # [hudy9x/namviek](https://github.com/hudy9x/namviek)
 
 Self-hosted project management tool for teams on budgets
+
+面向预算团队的自主托管项目管理工具

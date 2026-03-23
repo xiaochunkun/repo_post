@@ -7,3 +7,5 @@ image: assets/surendranb_google-analytics-mcp_cropped.png
 # [surendranb/google-analytics-mcp](https://github.com/surendranb/google-analytics-mcp)
 
 chat with Google Analytics data using AI
+
+使用 AI 与 Google Analytics 数据对话

@@ -7,3 +7,5 @@ image: assets/Climactic_laravel_credits_20251229_080716_385_20251229_080741_55dd
 # [Climactic/laravel-credits](https://github.com/Climactic/laravel-credits/)
 
 Ledger for credit systems in Laravel
+
+Laravel 积分系统的分类账

@@ -7,3 +7,5 @@ image: assets/nickytonline_dev-to-mcp--20250816T044746391--cropped.png
 # [nickytonline/dev-to-mcp](https://github.com/nickytonline/dev-to-mcp)
 
 lets ai tools access dev.to articles and users with mcp
+
+让AI工具通过MCP访问dev.to文章和用户

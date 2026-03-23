@@ -7,3 +7,5 @@ image: assets/datasets_s_and_p_500_companies_20260111_051253_042_20260111_051307
 # [datasets/s-and-p-500-companies](https://github.com/datasets/s-and-p-500-companies)
 
 List of companies in the S&P 500 with financials
+
+S&P 500公司列表，包含财务数据

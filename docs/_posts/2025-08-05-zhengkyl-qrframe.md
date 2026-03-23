@@ -7,3 +7,5 @@ image: assets/zhengkyl_qrframe_cropped.png
 # [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe)
 
 code your own custom qr codes
+
+编写自定义二维码

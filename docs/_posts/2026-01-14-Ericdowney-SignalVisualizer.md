@@ -7,3 +7,5 @@ image: assets/Ericdowney_SignalVisualizer_20260112_021707_181_20260112_021721_43
 # [Ericdowney/SignalVisualizer](https://github.com/Ericdowney/SignalVisualizer)
 
 Displays signals and connections in a graph for Godot
+
+Godot 的信号和连接图显示工具

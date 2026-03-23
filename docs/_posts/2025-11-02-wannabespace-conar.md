@@ -7,3 +7,5 @@ image: assets/wannabespace_conar_20251031_060605_731_20251031_210625_0659e3--202
 # [wannabespace/conar](https://github.com/wannabespace/conar/)
 
 Uses AI to write and optimize SQL queries
+
+使用 AI 编写和优化 SQL 查询

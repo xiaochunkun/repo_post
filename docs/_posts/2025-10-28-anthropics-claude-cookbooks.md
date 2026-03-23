@@ -7,3 +7,5 @@ image: assets/anthropics_claude_cookbooks_20251026_233202_605_20251027_002401_bb
 # [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks/)
 
 Code snippets and guides for building with Anthropic's AI
+
+使用 Anthropic AI 构建的代码片段和指南

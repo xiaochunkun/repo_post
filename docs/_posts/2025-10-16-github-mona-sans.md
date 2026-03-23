@@ -7,3 +7,5 @@ image: assets/20251015T033329932--github--mona-sans--20251016T044734124--cropped
 # [github/mona-sans](https://github.com/github/mona-sans)
 
 Versatile variable font for web and print projects
+
+适用于 Web 和打印项目的多功能可变字体

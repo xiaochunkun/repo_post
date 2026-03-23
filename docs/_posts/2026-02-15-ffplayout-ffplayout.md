@@ -7,3 +7,5 @@ image: assets/ffplayout_ffplayout_20260116_175854_590_20260116_175910_f9fd34.png
 # [ffplayout/ffplayout](https://github.com/ffplayout/ffplayout)
 
 Broadcasting solution for 24/7 playout from folders or playlists
+
+从文件夹或播放列表进行24/7播放的广播解决方案

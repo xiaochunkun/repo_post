@@ -7,3 +7,5 @@ image: assets/awesome_lists_awesome_bash_20251203_002022_091_20251203_002046_0aa
 # [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash/)
 
 Curated list of Bash scripts and resources
+
+精选的Bash脚本和资源列表

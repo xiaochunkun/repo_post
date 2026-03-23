@@ -7,3 +7,5 @@ image: assets/once_ui_system_nextjs_starter_20260111_085140_550_20260111_085154_
 # [once-ui-system/nextjs-starter](https://github.com/once-ui-system/nextjs-starter)
 
 Design system for Next.js with 100 components
+
+Next.js设计系统，包含100个组件

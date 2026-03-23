@@ -7,3 +7,5 @@ image: assets/jez500_pricebuddy_20251121_134507_347_20251122_033938_65cc92--2025
 # [jez500/pricebuddy](https://github.com/jez500/pricebuddy/)
 
 Self-hosted product price tracker
+
+自托管的产品价格追踪器

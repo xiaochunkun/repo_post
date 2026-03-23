@@ -7,3 +7,5 @@ image: assets/20250922T024304745--wenyuanw--quick-prompt--20250922T025252762--cr
 # [wenyuanw/quick-prompt](https://github.com/wenyuanw/quick-prompt)
 
 Browser extension for managing and quickly inserting prompts anywhere online
+
+浏览器扩展，用于管理和快速在线插入提示

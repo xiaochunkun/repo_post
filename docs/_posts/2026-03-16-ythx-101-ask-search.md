@@ -7,3 +7,5 @@ image: assets/ythx_101_ask_search_20260316_064518_083_20260316_064549_4e2047.png
 # [ythx-101/ask-search](https://github.com/ythx-101/ask-search)
 
 Self-hosted web search for AI agents
+
+AI代理的自托管网络搜索

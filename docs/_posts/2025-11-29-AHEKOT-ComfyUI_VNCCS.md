@@ -7,3 +7,5 @@ image: assets/AHEKOT_ComfyUI_VNCCS_20251126_011353_564_20251129_021915_740a27--2
 # [AHEKOT/ComfyUI_VNCCS](https://github.com/AHEKOT/ComfyUI_VNCCS/)
 
 Creates consistent visual novel character sprites
+
+创建一致的视觉小说角色精灵

@@ -7,3 +7,5 @@ image: assets/Jason2Brownlee_awesome_llm_books_20251126_103738_783_20251129_0222
 # [Jason2Brownlee/awesome-llm-books](https://github.com/Jason2Brownlee/awesome-llm-books/)
 
 Curated list of books on Large Language Models
+
+大型语言模型书籍精选列表

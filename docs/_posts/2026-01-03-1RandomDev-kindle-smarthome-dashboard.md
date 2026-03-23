@@ -7,3 +7,5 @@ image: assets/1RandomDev_kindle_smarthome_dashboard_20260102_044703_644_20260102
 # [1RandomDev/kindle-smarthome-dashboard](https://github.com/1RandomDev/kindle-smarthome-dashboard/)
 
 Turns Kindle into smarthome dashboard
+
+将Kindle转换为智能家居仪表板

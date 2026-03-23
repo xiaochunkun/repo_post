@@ -7,3 +7,5 @@ image: assets/martinwoodward_octolamp_20251223_091759_907_20251223_091817_d5718d
 # [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp/)
 
 3D printable light with WiFi and Home Assistant integration
+
+支持WiFi和Home Assistant集成的3D打印灯

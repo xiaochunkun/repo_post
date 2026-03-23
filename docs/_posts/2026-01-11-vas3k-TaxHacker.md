@@ -7,3 +7,5 @@ image: assets/vas3k_TaxHacker_20260111_132704_908_20260111_132725_6bbf9a.png
 # [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)
 
 Analyzes receipts and invoices with LLMs
+
+使用 LLM 分析收据和发票

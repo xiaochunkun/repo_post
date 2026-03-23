@@ -7,3 +7,5 @@ image: assets/gildas_lormeau_SingleFile_20260320_223321_404_20260320_223410_6b32
 # [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)
 
 Self-extracting web page archiver
+
+自解压网页归档器

@@ -7,3 +7,5 @@ image: assets/LukeGus_Termix_cropped.png
 # [LukeGus/Termix](https://github.com/LukeGus/Termix)
 
 android terminal emulator, linux in your pocket
+
+Android 终端模拟器，口袋里的 Linux

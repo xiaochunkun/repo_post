@@ -7,3 +7,5 @@ image: assets/20250830T032724106--DengKaiCQ--GigaSLAM--20250830T033326680--cropp
 # [DengKaiCQ/GigaSLAM](https://github.com/DengKaiCQ/GigaSLAM)
 
 monocular SLAM for huge outdoor scenes using hierarchical Gaussian splats
+
+使用层级高斯泼溅的大场景户外单目 SLAM

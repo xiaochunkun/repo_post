@@ -7,3 +7,5 @@ image: assets/20251007T025612113--EvolutionAPI--evo-ai--20251007T030319225--crop
 # [EvolutionAPI/evo-ai](https://github.com/EvolutionAPI/evo-ai)
 
 open-source platform for building and managing AI agents with multi-model integration
+
+开源平台，用于构建和管理 AI 代理，支持多模型集成

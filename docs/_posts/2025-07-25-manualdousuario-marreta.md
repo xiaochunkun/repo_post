@@ -7,3 +7,5 @@ image: assets/manualdousuario_marreta_cropped.png
 # [manualdousuario/marreta](https://github.com/manualdousuario/marreta)
 
 remove web clutter and access barriers with marreta
+
+移除网络杂乱和访问障碍的工具

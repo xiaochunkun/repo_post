@@ -7,3 +7,5 @@ image: assets/umputun_spot_20251207_182456_748_20251207_182518_df1d76.png
 # [umputun/spot](https://github.com/umputun/spot/)
 
 Deployment and configuration management tool
+
+部署和配置管理工具

@@ -7,3 +7,5 @@ image: assets/20251016T010157119--brunostjohn--perplexideez--20251016T065703167-
 # [brunostjohn/perplexideez](https://github.com/brunostjohn/perplexideez)
 
 self-hosted AI search with multi-user support and SSO
+
+自托管的 AI 搜索工具，支持多用户和 SSO

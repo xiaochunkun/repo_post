@@ -7,3 +7,5 @@ image: assets/DD3Boh_better_sync_siyuan_20251126_115513_629_20251129_022907_7894
 # [DD3Boh/better-sync-siyuan](https://github.com/DD3Boh/better-sync-siyuan/)
 
 Peer-to-peer synchronization plugin for SiYuan
+
+思源笔记的点对点同步插件

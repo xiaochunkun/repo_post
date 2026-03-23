@@ -7,3 +7,5 @@ image: assets/mediar_ai_mcp_server_macos_use_20260317_104035_980_20260317_104229
 # [mediar-ai/mcp-server-macos-use](https://github.com/mediar-ai/mcp-server-macos-use)
 
 Swift MCP server for macOS automation
+
+macOS自动化的Swift MCP服务器

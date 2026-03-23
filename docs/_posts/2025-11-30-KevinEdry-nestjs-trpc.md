@@ -7,3 +7,5 @@ image: assets/KevinEdry_nestjs_trpc_20251127_184738_844_20251130_052308_5923ec--
 # [KevinEdry/nestjs-trpc](https://github.com/KevinEdry/nestjs-trpc/)
 
 End-to-end typesafe APIs with tRPC within NestJS
+
+在 NestJS 中使用 tRPC 实现端到端类型安全 API

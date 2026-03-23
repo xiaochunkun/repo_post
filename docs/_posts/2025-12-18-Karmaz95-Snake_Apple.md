@@ -7,3 +7,5 @@ image: assets/Karmaz95_Snake_Apple_20251216_203104_284_20251216_203145_f0a84b.pn
 # [Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple/)
 
 Research and tools for macOS security
+
+macOS 安全的研究和工具

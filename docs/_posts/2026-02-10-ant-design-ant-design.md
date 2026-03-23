@@ -7,3 +7,5 @@ image: assets/ant_design_ant_design_20260206_003707_052_20260206_003725_167ea1.p
 # [ant-design/ant-design](https://github.com/ant-design/ant-design)
 
 React UI library for web applications
+
+用于 Web 应用的 React UI 库

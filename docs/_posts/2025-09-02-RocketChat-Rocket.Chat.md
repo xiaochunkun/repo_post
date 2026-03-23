@@ -7,3 +7,5 @@ image: assets/20250831T020055010--RocketChat--Rocket.Chat--20250831T020711600--c
 # [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
 open source team chat platform for secure collaboration
+
+安全协作的开源团队聊天平台

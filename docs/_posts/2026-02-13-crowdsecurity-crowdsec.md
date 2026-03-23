@@ -7,3 +7,5 @@ image: assets/crowdsecurity_crowdsec_20260209_071156_946_20260209_071244_83f0b5.
 # [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
 
 Blocks malicious IPs through crowdsourced threat intelligence
+
+通过众包威胁情报阻止恶意 IP

@@ -7,3 +7,5 @@ image: assets/Zouuup_landrun_cropped.png
 # [Zouuup/landrun](https://github.com/Zouuup/landrun)
 
 run Linux apps in a secure sandbox with Landlock, no root needed
+
+使用Landlock在安全沙箱中运行Linux应用，无需root权限

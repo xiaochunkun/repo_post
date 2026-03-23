@@ -7,3 +7,5 @@ image: assets/L1AD_claude_task_viewer_20260131_171423_585_20260131_171500_11d973
 # [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer)
 
 Kanban board for Claude Code tasks
+
+Claude Code任务的看板面板

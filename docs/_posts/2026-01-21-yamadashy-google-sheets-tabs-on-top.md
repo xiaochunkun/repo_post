@@ -7,3 +7,5 @@ image: assets/yamadashy_google_sheets_tabs_on_top_20260121_001231_611_20260121_0
 # [yamadashy/google-sheets-tabs-on-top](https://github.com/yamadashy/google-sheets-tabs-on-top)
 
 Moves Google Sheets tabs to the top of the screen
+
+将 Google Sheets 标签页移至屏幕顶部

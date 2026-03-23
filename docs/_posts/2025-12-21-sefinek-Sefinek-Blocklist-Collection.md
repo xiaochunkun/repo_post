@@ -7,3 +7,5 @@ image: assets/sefinek_Sefinek_Blocklist_Collection_20251219_103024_604_20251219_
 # [sefinek/Sefinek-Blocklist-Collection](https://github.com/sefinek/Sefinek-Blocklist-Collection/)
 
 Blocklists for DNS servers and content filtering
+
+DNS服务器和内容过滤的屏蔽列表

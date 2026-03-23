@@ -7,3 +7,5 @@ image: assets/lyqht_mini-qr_cropped.png
 # [lyqht/mini-qr](https://github.com/lyqht/mini-qr)
 
 make and scan qr codes
+
+制作和扫描二维码

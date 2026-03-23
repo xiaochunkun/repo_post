@@ -7,3 +7,5 @@ image: assets/zerocore_ai_microsandbox_20260122_013904_372_20260122_013921_eba49
 # [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox)
 
 Executes untrusted code in hardware-isolated microVMs
+
+在硬件隔离的微虚拟机中执行不可信代码

@@ -7,3 +7,5 @@ image: assets/Milkdown_milkdown_20251109_152826_889_20251109_163542_f311fc--2025
 # [Milkdown/milkdown](https://github.com/Milkdown/milkdown/)
 
 Plugin-driven WYSIWYG markdown editor built on ProseMirror and Remark
+
+基于ProseMirror和Remark的插件驱动WYSIWYG Markdown编辑器

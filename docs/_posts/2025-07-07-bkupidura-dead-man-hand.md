@@ -7,3 +7,5 @@ image: assets/bkupidura_dead-man-hand_cropped.png
 # [bkupidura/dead-man-hand](https://github.com/bkupidura/dead-man-hand)
 
 Dead-man-switch software that triggers actions automatically when user check-ins stop
+
+死亡开关软件，当用户签到停止时自动触发操作

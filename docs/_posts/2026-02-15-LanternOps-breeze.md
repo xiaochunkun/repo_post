@@ -7,3 +7,5 @@ image: assets/LanternOps_breeze_20260214_173057_463_20260214_173151_f2729e.png
 # [LanternOps/breeze](https://github.com/LanternOps/breeze)
 
 RMM with AI agent for device management
+
+带有AI代理的RMM，用于设备管理

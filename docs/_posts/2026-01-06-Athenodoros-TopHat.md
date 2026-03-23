@@ -7,3 +7,5 @@ image: assets/Athenodoros_TopHat_20260105_191527_899_20260105_191545_a881bd.png
 # [Athenodoros/TopHat](https://github.com/Athenodoros/TopHat/)
 
 Offline finance tracker for multiple currencies
+
+支持多货币的离线财务追踪器

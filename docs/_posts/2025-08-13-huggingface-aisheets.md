@@ -7,3 +7,5 @@ image: assets/20250812T225511--huggingface--aisheets--20250812T230115--cropped.p
 # [huggingface/aisheets](https://github.com/huggingface/aisheets)
 
 no‑code AI spreadsheet to build and enrich datasets
+
+无代码AI电子表格，用于构建和丰富数据集

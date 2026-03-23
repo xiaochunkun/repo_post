@@ -7,3 +7,5 @@ image: assets/EricYufengWu_q8bot_20251215_002456_078_20251215_002524_fa0a12.png
 # [EricYufengWu/q8bot](https://github.com/EricYufengWu/q8bot/)
 
 Miniature quadruped robot with no wires
+
+无线的微型四足机器人

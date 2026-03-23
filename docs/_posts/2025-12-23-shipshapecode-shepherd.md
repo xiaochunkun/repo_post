@@ -7,3 +7,5 @@ image: assets/shipshapecode_shepherd_20251222_081027_514_20251222_081044_f7372c.
 # [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd/)
 
 Guides users through tours of an app
+
+引导用户完成应用导览

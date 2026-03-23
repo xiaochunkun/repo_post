@@ -7,3 +7,5 @@ image: assets/hackerschoice_bincrypter_cropped.png
 # [hackerschoice/bincrypter](https://github.com/hackerschoice/bincrypter)
 
 pack and encrypt ELF and shell scripts
+
+打包和加密 ELF 与 shell 脚本

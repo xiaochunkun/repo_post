@@ -7,3 +7,5 @@ image: assets/20250924T055957250--Konstantin-vanov-hub--Article-Assistant--RAG-T
 # [Konstantin-vanov-hub/Article-Assistant--RAG-Telegram-Bot](https://github.com/Konstantin-vanov-hub/Article-Assistant--RAG-Telegram-Bot)
 
 Telegram bot for article Q&A, web and PDF content, with summarization and multilingual support
+
+Telegram 机器人，用于文章问答，支持网页和 PDF 内容，具备摘要和多语言支持

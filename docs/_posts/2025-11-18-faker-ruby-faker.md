@@ -7,3 +7,5 @@ image: assets/faker_ruby_faker_20251118_020545_286_20251118_020632_c6cdc4--20251
 # [faker-ruby/faker](https://github.com/faker-ruby/faker/)
 
 Library for generating fake names, addresses, and phone numbers
+
+生成虚假姓名、地址和电话号码的库

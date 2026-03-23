@@ -7,3 +7,5 @@ image: assets/langchain_ai_langgraph_bigtool_20251201_094312_982_20251201_094334
 # [langchain-ai/langgraph-bigtool](https://github.com/langchain-ai/langgraph-bigtool/)
 
 Agents access thousands of tools via memory search
+
+代理通过内存搜索访问数千种工具

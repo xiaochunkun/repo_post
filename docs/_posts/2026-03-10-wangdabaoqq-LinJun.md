@@ -7,3 +7,5 @@ image: assets/wangdabaoqq_LinJun_20260302_222059_961_20260302_222258_317528.png
 # [wangdabaoqq/LinJun](https://github.com/wangdabaoqq/LinJun)
 
 Proxy manager for AI coding agents
+
+AI编程代理的代理管理器

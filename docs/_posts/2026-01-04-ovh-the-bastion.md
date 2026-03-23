@@ -7,3 +7,5 @@ image: assets/ovh_the_bastion_20260103_151611_372_20260103_151627_140d92.png
 # [ovh/the-bastion](https://github.com/ovh/the-bastion/)
 
 SSH gateway for authentication and auditability
+
+用于身份验证和审计的 SSH 网关

@@ -7,3 +7,5 @@ image: assets/catppuccin_home_assistant_20260120_113354_058_20260120_113409_1f84
 # [catppuccin/home-assistant](https://github.com/catppuccin/home-assistant)
 
 Color palette for Home Assistant
+
+Home Assistant 的调色板

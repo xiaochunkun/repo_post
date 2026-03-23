@@ -7,3 +7,5 @@ image: assets/microsoft_graphrag_20260203_170809_465_20260203_170833_5c76d1.png
 # [microsoft/graphrag](https://github.com/microsoft/graphrag)
 
 Extracts structured data from text using LLMs
+
+使用 LLM 从文本中提取结构化数据

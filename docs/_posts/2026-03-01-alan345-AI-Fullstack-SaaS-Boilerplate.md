@@ -7,3 +7,5 @@ image: assets/alan345_AI_Fullstack_SaaS_Boilerplate_20260227_111622_851_20260227
 # [alan345/AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate)
 
 Fullstack SaaS starter with Fastify, tRPC, and React
+
+使用Fastify、tRPC和React的全栈SaaS启动器

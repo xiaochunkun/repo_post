@@ -7,3 +7,5 @@ image: assets/mautrix_whatsapp--20250815T020546012--cropped.png
 # [mautrix/whatsapp](https://github.com/mautrix/whatsapp)
 
 bridge WhatsApp and Matrix chats
+
+桥接 WhatsApp 和 Matrix 聊天

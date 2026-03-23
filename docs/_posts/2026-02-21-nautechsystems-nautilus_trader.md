@@ -7,3 +7,5 @@ image: assets/nautechsystems_nautilus_trader_20260221_003143_286_20260221_003205
 # [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
 Backtests and deploys trading strategies
+
+回测和部署交易策略

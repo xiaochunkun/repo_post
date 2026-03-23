@@ -7,3 +7,5 @@ image: assets/H_M_H_Weylus_20260210_125319_617_20260210_125432_12dd13.png
 # [H-M-H/Weylus](https://github.com/H-M-H/Weylus)
 
 Turns tablets into graphic tablets for computers
+
+将平板电脑变为计算机的绘图板

@@ -7,3 +7,5 @@ image: assets/devhotteok_TwitchLink_20251115_054124_964_20251117_031123_0cddf8--
 # [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink/)
 
 GUI tool for downloading Twitch streams, videos, and clips
+
+下载 Twitch 流、视频和片段的 GUI 工具

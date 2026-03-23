@@ -7,3 +7,5 @@ image: assets/game1024_OpenSpeedy_cropped.png
 # [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
 
 open-source tool to change game speed
+
+改变游戏速度的开源工具

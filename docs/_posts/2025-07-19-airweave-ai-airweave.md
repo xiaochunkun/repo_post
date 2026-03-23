@@ -7,3 +7,5 @@ image: assets/airweave-ai_airweave_cropped.png
 # [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
 
 connects your apps and databases for agent-ready search
+
+连接应用和数据库，实现代理就绪搜索

@@ -7,3 +7,5 @@ image: assets/dandaka_traul_20260319_054700_130_20260319_054830_230c4d.png
 # [dandaka/traul](https://github.com/dandaka/traul)
 
 Database for AI agent memory
+
+用于 AI 代理记忆的数据库

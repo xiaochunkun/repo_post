@@ -7,3 +7,5 @@ image: assets/arpanghosh8453_garmin_grafana_20251031_035524_773_20251031_205237_
 # [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana/)
 
 Fetches Garmin data for visualization with Grafana
+
+获取 Garmin 数据以在 Grafana 中可视化

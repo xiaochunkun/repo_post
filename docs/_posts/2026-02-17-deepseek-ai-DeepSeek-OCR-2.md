@@ -7,3 +7,5 @@ image: assets/deepseek_ai_DeepSeek_OCR_2_20260206_174957_831_20260206_175025_ea4
 # [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
 OCR model using causal flow for document understanding
+
+使用因果流进行文档理解的OCR模型

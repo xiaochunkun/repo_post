@@ -7,3 +7,5 @@ image: assets/ulixee_hero_20260130_024018_722_20260130_024052_542bcb.png
 # [ulixee/hero](https://github.com/ulixee/hero)
 
 Headless browser for scraping with TLS fingerprinting protection
+
+带TLS指纹保护的无头浏览器用于抓取

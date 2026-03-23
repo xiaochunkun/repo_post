@@ -7,3 +7,5 @@ image: assets/SimoneAvogadro_android_reverse_engineering_skill_20260316_093204_1
 # [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
 
 Decompiles Android APK files and extracts HTTP APIs
+
+反编译 Android APK 文件并提取 HTTP API

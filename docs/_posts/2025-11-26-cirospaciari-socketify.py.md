@@ -7,3 +7,5 @@ image: assets/cirospaciari_socketify_py_20251123_202006_050_20251125_163907_6406
 # [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py/)
 
 Http, Https, and WebSockets servers for PyPy3 and Python3
+
+用于 PyPy3 和 Python3 的 Http、Https 和 WebSockets 服务器

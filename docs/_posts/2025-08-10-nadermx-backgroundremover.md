@@ -7,3 +7,5 @@ image: assets/nadermx_backgroundremover_cropped.png
 # [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)
 
 remove backgrounds from images or videos with AI
+
+使用 AI 移除图像或视频背景

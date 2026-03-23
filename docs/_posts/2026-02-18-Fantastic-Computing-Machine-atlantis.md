@@ -7,3 +7,5 @@ image: assets/Fantastic_Computing_Machine_atlantis_20260205_160013_422_20260205_
 # [Fantastic-Computing-Machine/atlantis](https://github.com/Fantastic-Computing-Machine/atlantis)
 
 Self-hosted platform for diagrams and knowledge management
+
+图表和知识管理的自托管平台

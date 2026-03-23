@@ -7,3 +7,5 @@ image: assets/Hmbown_Toulmini_20260308_191237_380_20260308_191357_cf7b3a.png
 # [Hmbown/Toulmini](https://github.com/Hmbown/Toulmini)
 
 Forces LLMs into structured reasoning through argumentation models
+
+通过论证模型强制LLM进行结构化推理

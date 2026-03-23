@@ -7,3 +7,5 @@ image: assets/anndrox_brew-web_cropped.png
 # [anndrox/brew-web](https://github.com/anndrox/brew-web)
 
 self-hosted web app for managing mead brewing recipes and batches
+
+自托管Web应用，用于管理蜂蜜酒酿造配方和批次

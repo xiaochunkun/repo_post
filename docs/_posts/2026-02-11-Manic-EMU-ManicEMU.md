@@ -7,3 +7,5 @@ image: assets/Manic_EMU_ManicEMU_20260206_141857_745_20260206_141926_d3f3b1.png
 # [Manic-EMU/ManicEMU](https://github.com/Manic-EMU/ManicEMU)
 
 Retro game emulator for iOS with cloud sync
+
+支持云同步的 iOS 复古游戏模拟器

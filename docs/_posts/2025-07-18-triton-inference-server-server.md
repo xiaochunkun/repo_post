@@ -7,3 +7,5 @@ image: assets/triton-inference-server_server_cropped.png
 # [triton-inference-server/server](https://github.com/triton-inference-server/server)
 
 serving AI models from any framework with optimized inference
+
+从任何框架提供AI模型，优化推理

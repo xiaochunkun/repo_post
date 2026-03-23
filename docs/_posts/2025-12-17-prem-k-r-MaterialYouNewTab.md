@@ -7,3 +7,5 @@ image: assets/prem_k_r_MaterialYouNewTab_20251216_155451_310_20251216_155516_439
 # [prem-k-r/MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab/)
 
 Browser new tab page with Material You design
+
+采用Material You设计的浏览器新标签页

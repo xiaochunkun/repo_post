@@ -7,3 +7,5 @@ image: assets/thiagokokada_gitk_go_20260213_234424_930_20260213_234530_bc2b22.pn
 # [thiagokokada/gitk-go](https://github.com/thiagokokada/gitk-go)
 
 Git history explorer written in Go
+
+用Go编写的git历史浏览器

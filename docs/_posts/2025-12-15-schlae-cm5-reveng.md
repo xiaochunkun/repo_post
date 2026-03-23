@@ -7,3 +7,5 @@ image: assets/schlae_cm5_reveng_20251213_061623_305_20251213_061647_7d7165.png
 # [schlae/cm5-reveng](https://github.com/schlae/cm5-reveng/)
 
 Reverse engineered Raspberry Pi Compute Module 5 schematics
+
+逆向工程的Raspberry Pi Compute Module 5原理图

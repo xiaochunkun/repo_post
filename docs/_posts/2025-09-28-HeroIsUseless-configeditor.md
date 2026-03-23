@@ -7,3 +7,5 @@ image: assets/20250928T060059085--HeroIsUseless--configeditor--20250928T06090353
 # [HeroIsUseless/configeditor](https://github.com/HeroIsUseless/configeditor)
 
 config file manager with AI assistant, supports local and remote editing
+
+配置文件管理器，配备AI助手，支持本地和远程编辑

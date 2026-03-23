@@ -7,3 +7,5 @@ image: assets/IceWhaleTech_ZimaOS_cropped.png
 # [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS)
 
 personal cloud OS for home servers and Zima hardware
+
+用于家庭服务器和Zima硬件的个人云操作系统

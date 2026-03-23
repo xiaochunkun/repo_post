@@ -7,3 +7,5 @@ image: assets/dittofeed_dittofeed_20260321_020850_115_20260321_020928_5df47c.png
 # [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)
 
 Automates user journeys across channels
+
+跨渠道自动化用户旅程

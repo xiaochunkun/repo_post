@@ -7,3 +7,5 @@ image: assets/TandoorRecipes_recipes_cropped.png
 # [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes)
 
 self-hosted recipe manager for meal planning and sharing
+
+自托管食谱管理器，用于膳食规划和分享

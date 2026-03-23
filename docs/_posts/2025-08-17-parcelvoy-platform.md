@@ -7,3 +7,5 @@ image: assets/parcelvoy_platform--20250816T204614450--cropped.png
 # [parcelvoy/platform](https://github.com/parcelvoy/platform)
 
 open source multi-channel marketing automation platform
+
+开源多渠道营销自动化平台

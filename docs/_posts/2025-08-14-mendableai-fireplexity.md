@@ -7,3 +7,5 @@ image: assets/mendableai_fireplexity--20250814T050433558--cropped.png
 # [mendableai/fireplexity](https://github.com/mendableai/fireplexity)
 
 AI search with live web data and citations
+
+使用实时网络数据和引用的 AI 搜索工具

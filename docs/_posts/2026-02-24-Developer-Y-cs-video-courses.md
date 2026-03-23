@@ -7,3 +7,5 @@ image: assets/Developer_Y_cs_video_courses_20260221_133549_906_20260221_133612_3
 # [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
 List of university computer science courses with video lectures
+
+带视频讲座的大学计算机科学课程列表

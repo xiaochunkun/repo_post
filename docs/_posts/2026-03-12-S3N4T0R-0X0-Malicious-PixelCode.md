@@ -7,3 +7,5 @@ image: assets/S3N4T0R_0X0_Malicious_PixelCode_20260311_182046_679_20260311_18264
 # [S3N4T0R-0X0/Malicious-PixelCode](https://github.com/S3N4T0R-0X0/Malicious-PixelCode)
 
 Encodes executable files into pixel data
+
+将可执行文件编码为像素数据

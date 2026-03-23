@@ -7,3 +7,5 @@ image: assets/Oudwins_zog_cropped.png
 # [Oudwins/zog](https://github.com/Oudwins/zog)
 
 Go library for Zod-style schema validation
+
+Go 库，用于 Zod 风格的 schema 验证

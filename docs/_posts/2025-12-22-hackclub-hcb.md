@@ -7,3 +7,5 @@ image: assets/hackclub_hcb_20251221_151058_400_20251221_151126_46cf7a.png
 # [hackclub/hcb](https://github.com/hackclub/hcb/)
 
 Fiscal sponsorship platform for hackathons and student organizations
+
+黑客马拉松和学生组织财务赞助平台

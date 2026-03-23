@@ -7,3 +7,5 @@ image: assets/going_doer_Paper2Code_20260129_061054_021_20260129_061145_1ff1a9.p
 # [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code)
 
 Generates code from machine learning papers
+
+从机器学习论文生成代码

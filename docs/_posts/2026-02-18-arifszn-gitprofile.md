@@ -7,3 +7,5 @@ image: assets/arifszn_gitprofile_20260119_165523_652_20260119_165538_1a0571.png
 # [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
 
 Generates portfolio from GitHub profile
+
+从 GitHub 个人资料生成作品集

@@ -7,3 +7,5 @@ image: assets/WJDDesigns_Ultra_Card_20251213_111742_409_20251213_111806_6a92aa.p
 # [WJDDesigns/Ultra-Card](https://github.com/WJDDesigns/Ultra-Card/)
 
 Visual dashboard builder for Home Assistant
+
+Home Assistant的可视化仪表板构建器

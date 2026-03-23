@@ -7,3 +7,5 @@ image: assets/davidvkimball_vault_cms_20260115_231125_799_20260115_231138_3f860c
 # [davidvkimball/vault-cms](https://github.com/davidvkimball/vault-cms)
 
 Obsidian as a content management system for Astro websites
+
+将 Obsidian 用作 Astro 网站的内容管理系统

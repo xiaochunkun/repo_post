@@ -7,3 +7,5 @@ image: assets/TanixLu_pyfuze_cropped.png
 # [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze)
 
 turn python projects into executables
+
+将Python项目转换为可执行文件

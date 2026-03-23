@@ -7,3 +7,5 @@ image: assets/20251001T133022700--photopea--photopea--20251001T133414606--croppe
 # [photopea/photopea](https://github.com/photopea/photopea)
 
 edit raster and vector graphics in your browser, supports PSD, AI, Sketch
+
+浏览器中编辑光栅和矢量图形，支持PSD、AI、Sketch

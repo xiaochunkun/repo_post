@@ -7,3 +7,5 @@ image: assets/itsOwen_CyberScraper_2077_20260206_125805_286_20260206_125827_fce9
 # [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
 
 Web scraper using LLMs for data extraction
+
+使用 LLM 进行数据提取的网络爬虫

@@ -7,3 +7,5 @@ image: assets/20250915T223107421--superlinear-ai--raglite--20250918T043254144--c
 # [superlinear-ai/raglite](https://github.com/superlinear-ai/raglite)
 
 Python toolkit for RAG with DuckDB or PostgreSQL
+
+使用DuckDB或PostgreSQL的RAG Python工具包

@@ -7,3 +7,5 @@ image: assets/ericknamukolo_pulse_20251127_213428_086_20251130_083735_5bb9a0--20
 # [ericknamukolo/pulse](https://github.com/ericknamukolo/pulse/)
 
 Client for Umami analytics
+
+Umami 分析客户端

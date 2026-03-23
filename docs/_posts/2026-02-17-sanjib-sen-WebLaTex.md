@@ -7,3 +7,5 @@ image: assets/sanjib_sen_WebLaTex_20260124_094856_675_20260124_094917_944b6b.png
 # [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex)
 
 LaTeX editor with VSCode and Git integration
+
+集成VSCode和Git的LaTeX编辑器

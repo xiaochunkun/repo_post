@@ -7,3 +7,5 @@ image: assets/BLE_Research_Group_MetaRadar_20260204_032014_674_20260204_032038_d
 # [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar)
 
 Tracks Bluetooth devices to detect stalking
+
+追踪蓝牙设备以检测跟踪

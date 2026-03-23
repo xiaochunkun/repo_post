@@ -7,3 +7,5 @@ image: assets/ecubus_EcuBus_Pro_20260209_002143_571_20260209_002205_29ba27.png
 # [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro)
 
 Automotive ECU development tool for UDS and CAN-TP protocols
+
+用于 UDS 和 CAN-TP 协议的汽车 ECU 开发工具

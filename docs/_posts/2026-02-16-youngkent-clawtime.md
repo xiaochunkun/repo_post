@@ -7,3 +7,5 @@ image: assets/youngkent_clawtime_20260212_154205_195_20260212_154235_588db5.png
 # [youngkent/clawtime](https://github.com/youngkent/clawtime)
 
 Self-hosted interface for voice conversations with local AI agents
+
+自托管界面，用于与本地AI代理进行语音对话

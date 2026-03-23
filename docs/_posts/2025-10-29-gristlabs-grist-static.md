@@ -7,3 +7,5 @@ image: assets/gristlabs_grist_static_20251029_085143_836_20251029_093637_38c5ff-
 # [gristlabs/grist-static](https://github.com/gristlabs/grist-static/)
 
 View and interact with spreadsheets on static websites
+
+在静态网站上查看和交互电子表格

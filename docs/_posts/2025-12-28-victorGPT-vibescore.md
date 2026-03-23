@@ -7,3 +7,5 @@ image: assets/victorGPT_vibescore_20251226_172820_310_20251226_172840_81e4df.png
 # [victorGPT/vibescore](https://github.com/victorGPT/vibescore/)
 
 Real-time token usage analytics for macOS developers
+
+为 macOS 开发者提供实时令牌使用分析

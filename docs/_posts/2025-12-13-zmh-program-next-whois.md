@@ -7,3 +7,5 @@ image: assets/zmh_program_next_whois_20251210_024433_125_20251210_024455_e89af7.
 # [zmh-program/next-whois](https://github.com/zmh-program/next-whois/)
 
 Whois lookup tool with RDAP support
+
+支持 RDAP 的 Whois 查询工具

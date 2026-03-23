@@ -7,3 +7,5 @@ image: assets/shanselman_cert_inspector_20260214_231052_535_20260214_231141_3cf9
 # [shanselman/cert-inspector](https://github.com/shanselman/cert-inspector)
 
 Maps network footprints to inspect SSL certificates and DNS records
+
+映射网络足迹以检查 SSL 证书和 DNS 记录

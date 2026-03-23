@@ -7,3 +7,5 @@ image: assets/steveyegge_beads_20251108_010614_341_20251108_180832_c53562--20251
 # [steveyegge/beads](https://github.com/steveyegge/beads/)
 
 Issue tracker for coding agents
+
+编码代理的问题跟踪器

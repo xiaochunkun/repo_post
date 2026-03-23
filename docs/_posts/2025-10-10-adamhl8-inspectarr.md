@@ -7,3 +7,5 @@ image: assets/20251010T130218004--adamhl8--inspectarr--20251010T131950060--cropp
 # [adamhl8/inspectarr](https://github.com/adamhl8/inspectarr)
 
 CLI tool for querying Radarr and Sonarr media
+
+用于查询 Radarr 和 Sonarr 媒体的 CLI 工具

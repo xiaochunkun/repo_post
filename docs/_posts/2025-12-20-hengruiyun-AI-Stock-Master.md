@@ -7,3 +7,5 @@ image: assets/hengruiyun_AI_Stock_Master_20251218_030224_406_20251218_030241_264
 # [hengruiyun/AI-Stock-Master](https://github.com/hengruiyun/AI-Stock-Master/)
 
 Analyzes stock trends with large language models
+
+使用大语言模型分析股票趋势

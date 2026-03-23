@@ -7,3 +7,5 @@ image: assets/jazz_it_dline_20251107_194838_787_20251107_235754_558623--20251108
 # [jazz-it/dline](https://github.com/jazz-it/dline/)
 
 Command-line calendar with dynamic and static views
+
+具有动态和静态视图的命令行日历

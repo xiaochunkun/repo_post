@@ -7,3 +7,5 @@ image: assets/20250903T010617585--wavetermdev--waveterm--20250903T011239107--cro
 # [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 
 open-source terminal with file previews, web browsing, and AI tools
+
+支持文件预览、网页浏览和 AI 工具的开源终端

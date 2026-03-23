@@ -7,3 +7,5 @@ image: assets/hywax_mafl_20260122_104512_609_20260122_104536_460802.png
 # [hywax/mafl](https://github.com/hywax/mafl)
 
 Homepage for organizing services and links
+
+用于组织服务和链接的主页

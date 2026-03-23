@@ -7,3 +7,5 @@ image: assets/Commando-X_vuln-bank_cropped.png
 # [Commando-X/vuln-bank](https://github.com/Commando-X/vuln-bank)
 
 Practice security testing on banking app code, APIs, and AI features
+
+在银行应用代码、API 和 AI 功能上进行安全测试练习

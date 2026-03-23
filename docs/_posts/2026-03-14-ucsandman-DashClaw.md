@@ -7,3 +7,5 @@ image: assets/ucsandman_DashClaw_20260313_143506_435_20260313_144115_071c0c.png
 # [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw)
 
 Govern AI agent decisions before action
+
+在行动前治理AI代理决策

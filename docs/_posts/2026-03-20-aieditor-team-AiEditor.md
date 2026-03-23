@@ -7,3 +7,5 @@ image: assets/aieditor_team_AiEditor_20260301_210944_287_20260301_211111_82a4d1.
 # [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor)
 
 Rich text editor with AI integration for web frameworks
+
+面向Web框架的集成AI的富文本编辑器

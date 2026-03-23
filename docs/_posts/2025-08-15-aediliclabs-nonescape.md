@@ -7,3 +7,5 @@ image: assets/aediliclabs_nonescape--20250815T012044934--cropped.png
 # [aediliclabs/nonescape](https://github.com/aediliclabs/nonescape)
 
 AI-generated image detection for JavaScript and Python
+
+用于JavaScript和Python的AI生成图像检测

@@ -7,3 +7,5 @@ image: assets/antmicro_pmod_i3c_driver_20260309_190956_649_20260309_191144_7ed28
 # [antmicro/pmod-i3c-driver](https://github.com/antmicro/pmod-i3c-driver)
 
 Design files for expansion PCB with digital output drivers
+
+带数字输出驱动器的扩展 PCB 设计文件

@@ -7,3 +7,5 @@ image: assets/20251014T014802065--whyisdifficult--jiratui--20251014T015546834--c
 # [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui)
 
 manage Jira issues from your terminal with a text-based interface
+
+通过基于文本的界面在终端中管理 Jira 问题

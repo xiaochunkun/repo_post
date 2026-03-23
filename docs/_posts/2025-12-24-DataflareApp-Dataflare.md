@@ -7,3 +7,5 @@ image: assets/DataflareApp_Dataflare_20251223_062245_693_20251223_062304_10b036.
 # [DataflareApp/Dataflare](https://github.com/DataflareApp/Dataflare/)
 
 Database manager for SQL and NoSQL across platforms
+
+跨平台SQL和NoSQL数据库管理器

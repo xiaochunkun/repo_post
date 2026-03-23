@@ -7,3 +7,5 @@ image: assets/microsoft_call_center_ai_20251108_180810_136_20251108_181658_07c90
 # [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai/)
 
 Initiate phone calls from an AI agent via an API call
+
+通过API调用从AI代理发起电话呼叫
