@@ -45,7 +45,7 @@ Live: https://tom-doerr.github.io/repo_posts/
 Run tests: `python -m pytest tests/ -q`
 Generate embeddings locally: `python tools/export_embeddings_bin.py`
 Generate 3D coords: `python tools/export_3d_coords.py` (requires umap-learn)
-Embedding model: `sentence-transformers/all-MiniLM-L6-v2` (384 dims)
+Embedding model: `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` (384 dims, multilingual zh/en)
 
 ### Local Jekyll Server
 

@@ -25,7 +25,7 @@ OUT = ROOT / "docs" / "_data" / "related.json"
 EMB = ROOT / "docs" / "_data" / "embeddings.npz"
 
 # Embedding model constants (avoid drift)
-EMB_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+EMB_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 EMB_EXPECTED_DIM = 384
 
 def _slug(p: Path) -> str:

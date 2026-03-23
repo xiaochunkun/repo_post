@@ -32,6 +32,7 @@ jobs:
       - name: Generate related data (full on dispatch)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
+          rm -f docs/_data/embeddings.npz
           RELATED_MODE=emb python tools/generate_related.py
           python tools/generate_search_index.py
           python tools/generate_image_dims.py
@@ -51,7 +52,7 @@ jobs:
           # semantic client assets
           f32='docs/assets/embeddings.f32'; meta='docs/assets/embeddings.meta.json'; f32sz=(os.path.getsize(f32) if os.path.exists(f32) else 0); sem_assets=bool(f32sz and os.path.exists(meta));
           status={'posts':posts,'related_keys':len(rel),'nonempty':non,'missing':max(posts-len(rel),0),'related_renderable':non,
-          'embeddings_count':emb_n,'embeddings_size_bytes':(os.path.getsize(emb_p) if os.path.exists(emb_p) else 0),'embeddings_model':'sentence-transformers/all-MiniLM-L6-v2','embeddings_dim':384,
+          'embeddings_count':emb_n,'embeddings_size_bytes':(os.path.getsize(emb_p) if os.path.exists(emb_p) else 0),'embeddings_model':'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2','embeddings_dim':384,
           'search_index_entries':idxn,'search_index_size_bytes':(os.path.getsize(idx) if os.path.exists(idx) else 0),
           'images_total':len(imgs),'images_with_dims':with_dims,
           'embeddings_f32_size_bytes':f32sz,'sem_assets':sem_assets};

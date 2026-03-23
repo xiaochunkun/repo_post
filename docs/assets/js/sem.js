@@ -61,7 +61,7 @@
         }
       }
       if (!t) throw lastImportErr || new Error('Failed to import transformers');
-      model = await t.pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
+      model = await t.pipeline('feature-extraction', 'Xenova/paraphrase-multilingual-MiniLM-L12-v2', {
         progress_callback: (p) => {
           if (!p) return;
           if (p.status === 'progress' && typeof p.progress === 'number') {
