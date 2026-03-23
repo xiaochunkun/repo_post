@@ -7,3 +7,5 @@ image: assets/20250830T051421657--mulaRahul--keyviz--20250830T052111681--cropped
 # [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz)
 
 shows keystrokes and mouse actions on screen
+
+在屏幕上显示按键和鼠标操作

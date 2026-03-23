@@ -7,3 +7,5 @@ image: assets/CrociDB_bulletty_20251216_040234_027_20251216_040303_d2dd40.png
 # [CrociDB/bulletty](https://github.com/CrociDB/bulletty/)
 
 TUI RSS/ATOM feed reader storing data as Markdown
+
+将数据存储为 Markdown 的 TUI RSS/ATOM 阅读器

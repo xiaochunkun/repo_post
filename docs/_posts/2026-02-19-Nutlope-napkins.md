@@ -7,3 +7,5 @@ image: assets/Nutlope_napkins_20260122_015856_732_20260122_015911_0dcd75.png
 # [Nutlope/napkins](https://github.com/Nutlope/napkins)
 
 Generates React apps from wireframe screenshots
+
+从线框图截图生成React应用

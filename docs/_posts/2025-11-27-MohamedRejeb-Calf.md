@@ -7,3 +7,5 @@ image: assets/MohamedRejeb_Calf_20251125_003614_107_20251126_100507_cb5005--2025
 # [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf/)
 
 Create adaptive UIs for Compose Multiplatform apps
+
+为 Compose Multiplatform 应用创建自适应 UI

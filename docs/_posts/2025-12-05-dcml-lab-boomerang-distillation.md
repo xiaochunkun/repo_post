@@ -7,3 +7,5 @@ image: assets/dcml_lab_boomerang_distillation_20251202_233239_502_20251202_23330
 # [dcml-lab/boomerang-distillation](https://github.com/dcml-lab/boomerang-distillation/)
 
 Distills teacher models into students for zero-shot interpolation
+
+将教师模型蒸馏为学生模型，实现零样本插值

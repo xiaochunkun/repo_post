@@ -7,3 +7,5 @@ image: assets/sahaj_b_wakafetch_20260111_163931_195_20260111_163946_e9f4c9.png
 # [sahaj-b/wakafetch](https://github.com/sahaj-b/wakafetch)
 
 Terminal dashboard for coding activity from WakaTime or Wakapi
+
+基于WakaTime或Wakapi的编码活动终端仪表板

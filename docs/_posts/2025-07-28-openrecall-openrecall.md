@@ -7,3 +7,5 @@ image: assets/openrecall_openrecall_cropped.png
 # [openrecall/openrecall](https://github.com/openrecall/openrecall)
 
 open-source tool to search and revisit your digital history locally
+
+本地搜索和回顾数字历史记录的开源工具

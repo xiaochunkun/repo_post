@@ -7,3 +7,5 @@ image: assets/20250912T002216374--GoogleCloudPlatform--generative-ai--20250912T0
 # [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
 
 Notebooks and code samples for building generative AI apps on Google Cloud
+
+在 Google Cloud 上构建生成式 AI 应用的笔记本和代码示例

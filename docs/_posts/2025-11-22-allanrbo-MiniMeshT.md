@@ -7,3 +7,5 @@ image: assets/allanrbo_MiniMeshT_20251122_060703_359_20251122_111137_f1a805--202
 # [allanrbo/MiniMeshT](https://github.com/allanrbo/MiniMeshT/)
 
 Terminal chat client for Meshtastic
+
+Meshtastic 的终端聊天客户端

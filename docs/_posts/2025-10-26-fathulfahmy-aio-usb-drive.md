@@ -7,3 +7,5 @@ image: assets/fathulfahmy_aio_usb_drive_20251025_051421_424_20251025_101517_1059
 # [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive/)
 
 Collection of tools for a multiboot USB drive
+
+多启动USB驱动器的工具集合

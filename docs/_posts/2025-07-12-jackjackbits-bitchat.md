@@ -7,3 +7,5 @@ image: assets/jackjackbits_bitchat_cropped.png
 # [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)
 
 bluetooth mesh group chat, no internet needed
+
+蓝牙网状群聊，无需互联网

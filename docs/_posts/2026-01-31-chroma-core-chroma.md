@@ -7,3 +7,5 @@ image: assets/chroma_core_chroma_20260129_005517_329_20260129_005553_f81169.png
 # [chroma-core/chroma](https://github.com/chroma-core/chroma)
 
 Vector database for LLM applications
+
+用于 LLM 应用的向量数据库

@@ -7,3 +7,5 @@ image: assets/kelvinq_family_chess_20251217_135749_636_20251217_135815_d79d8d.pn
 # [kelvinq/family-chess](https://github.com/kelvinq/family-chess/)
 
 Real-time chess for restrictive networks
+
+适用于受限网络的实时国际象棋

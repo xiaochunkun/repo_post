@@ -7,3 +7,5 @@ image: assets/20250830T175030541--chaqchase--lla--20250830T184205109--cropped.pn
 # [chaqchase/lla](https://github.com/chaqchase/lla)
 
 modern ls replacement with plugins and git integration
+
+现代 ls 替代工具，支持插件和 Git 集成

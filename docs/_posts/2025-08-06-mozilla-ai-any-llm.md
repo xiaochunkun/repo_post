@@ -7,3 +7,5 @@ image: assets/mozilla-ai_any-llm_cropped.png
 # [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm)
 
 Python library for using different language model APIs with one interface
+
+使用一个接口调用不同语言模型 API 的 Python 库

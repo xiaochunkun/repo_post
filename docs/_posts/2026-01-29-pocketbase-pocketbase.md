@@ -7,3 +7,5 @@ image: assets/pocketbase_pocketbase_20260128_235741_063_20260128_235817_ae7790.p
 # [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 
 Backend in a file with database and dashboard
+
+文件中的后端，带数据库和仪表板

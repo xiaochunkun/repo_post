@@ -7,3 +7,5 @@ image: assets/osintph_darkweb_scanner_20260305_150335_623_20260305_150457_798827
 # [osintph/darkweb-scanner](https://github.com/osintph/darkweb-scanner)
 
 Platform for intelligence on threat actors and ransomware groups
+
+威胁参与者和勒索软件团伙情报平台

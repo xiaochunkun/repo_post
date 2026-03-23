@@ -7,3 +7,5 @@ image: assets/vllm_project_vllm_omni_20260318_000335_584_20260318_000534_358b01.
 # [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)
 
 Serving framework for text, image, video, and audio models
+
+文本、图像、视频和音频模型的服务框架

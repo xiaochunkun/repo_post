@@ -7,3 +7,5 @@ image: assets/20251001T205304782--kanboard--kanboard--20251001T205752332--croppe
 # [kanboard/kanboard](https://github.com/kanboard/kanboard)
 
 Kanban board tool for managing tasks and workflows
+
+用于管理任务和工作流的看板工具

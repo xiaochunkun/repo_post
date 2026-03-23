@@ -7,3 +7,5 @@ image: assets/Zipstack_unstract_cropped.png
 # [Zipstack/unstract](https://github.com/Zipstack/unstract)
 
 Unstract LLM platform for structured data extraction
+
+Unstract LLM平台，用于结构化数据提取

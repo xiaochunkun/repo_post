@@ -7,3 +7,5 @@ image: assets/dianprata_nuxt_shadcn_dashboard_20251106_000457_328_20251106_00205
 # [dianprata/nuxt-shadcn-dashboard](https://github.com/dianprata/nuxt-shadcn-dashboard/)
 
 Dashboard admin built with Nuxt and Shadcn-vue
+
+使用 Nuxt 和 Shadcn-vue 构建的仪表板管理界面

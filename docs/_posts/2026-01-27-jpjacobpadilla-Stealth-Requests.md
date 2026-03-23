@@ -7,3 +7,5 @@ image: assets/jpjacobpadilla_Stealth_Requests_20260126_140838_105_20260126_14094
 # [jpjacobpadilla/Stealth-Requests](https://github.com/jpjacobpadilla/Stealth-Requests)
 
 Mimics browsers for scraping and parses HTML to Markdown
+
+模拟浏览器进行爬取，并将HTML解析为Markdown

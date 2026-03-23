@@ -7,3 +7,5 @@ image: assets/rybbit_io_rybbit_20260211_022819_733_20260211_022847_d7b918.png
 # [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)
 
 Open source alternative to Google Analytics
+
+Google Analytics 的开源替代品

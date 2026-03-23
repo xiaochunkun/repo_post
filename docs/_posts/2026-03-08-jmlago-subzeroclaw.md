@@ -7,3 +7,5 @@ image: assets/jmlago_subzeroclaw_20260302_030155_311_20260302_030313_488b1a.png
 # [jmlago/subzeroclaw](https://github.com/jmlago/subzeroclaw)
 
 Agentic loop in C for edge hardware
+
+用于边缘硬件的 C 语言代理循环

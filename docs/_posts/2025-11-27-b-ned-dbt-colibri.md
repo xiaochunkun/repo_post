@@ -7,3 +7,5 @@ image: assets/b_ned_dbt_colibri_20251125_010452_554_20251126_101008_dd6981--2025
 # [b-ned/dbt-colibri](https://github.com/b-ned/dbt-colibri/)
 
 Extracts and visualizes column-level lineage for dbt projects
+
+提取和可视化 dbt 项目的列级血缘关系

@@ -7,3 +7,5 @@ image: assets/diego3g_video_to_reels_20260104_190258_059_20260104_190314_aa545b.
 # [diego3g/video-to-reels](https://github.com/diego3g/video-to-reels/)
 
 Converts videos to Instagram Reels with face positioning
+
+通过面部定位将视频转换为 Instagram Reels

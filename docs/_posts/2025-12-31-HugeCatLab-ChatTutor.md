@@ -7,3 +7,5 @@ image: assets/HugeCatLab_ChatTutor_20251229_232015_538_20251229_232033_f5366e.pn
 # [HugeCatLab/ChatTutor](https://github.com/HugeCatLab/ChatTutor/)
 
 AI teacher with an electronic whiteboard
+
+带电子白板的AI教师

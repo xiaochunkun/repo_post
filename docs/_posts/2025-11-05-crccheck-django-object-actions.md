@@ -7,3 +7,5 @@ image: assets/crccheck_django_object_actions_20251104_222847_729_20251104_233921
 # [crccheck/django-object-actions](https://github.com/crccheck/django-object-actions/)
 
 Adds object-specific actions to the Django admin
+
+为Django管理后台添加对象特定操作

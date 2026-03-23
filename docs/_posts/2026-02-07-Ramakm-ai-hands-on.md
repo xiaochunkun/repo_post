@@ -7,3 +7,5 @@ image: assets/Ramakm_ai_hands_on_20260205_141300_009_20260205_141316_bf4fa3.png
 # [Ramakm/ai-hands-on](https://github.com/Ramakm/ai-hands-on)
 
 Guide for building neural networks and LLM systems from scratch
+
+从零构建神经网络和LLM系统的指南

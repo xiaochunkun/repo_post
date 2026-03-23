@@ -7,3 +7,5 @@ image: assets/Intrect_io_OpenSwarm_20260303_171303_941_20260303_171448_68f891.pn
 # [Intrect-io/OpenSwarm](https://github.com/Intrect-io/OpenSwarm)
 
 Orchestrates Claude Code instances into agent pipelines
+
+将 Claude Code 实例编排为代理管道

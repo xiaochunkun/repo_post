@@ -7,3 +7,5 @@ image: assets/Starosdev_scrutiny_20260205_195846_021_20260205_195902_3558e3.png
 # [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny)
 
 Monitors hard drive health and S.M.A.R.T. metrics
+
+监控硬盘健康状态和S.M.A.R.T.指标

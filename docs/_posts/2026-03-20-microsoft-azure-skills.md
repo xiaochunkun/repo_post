@@ -7,3 +7,5 @@ image: assets/microsoft_azure_skills_20260318_075655_283_20260318_075759_c1296b.
 # [microsoft/azure-skills](https://github.com/microsoft/azure-skills)
 
 Azure agent skills with MCP execution
+
+带 MCP 执行的 Azure 代理技能

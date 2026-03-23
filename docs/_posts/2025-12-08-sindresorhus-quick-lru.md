@@ -7,3 +7,5 @@ image: assets/sindresorhus_quick_lru_20251207_192504_528_20251207_192539_19a92a.
 # [sindresorhus/quick-lru](https://github.com/sindresorhus/quick-lru/)
 
 Least Recently Used (LRU) cache implementation
+
+最近最少使用（LRU）缓存实现

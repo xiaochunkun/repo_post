@@ -7,3 +7,5 @@ image: assets/20250912T003834706--PennyroyalTea--gibberlink--20250915T041302381-
 # [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)
 
 AI agents switch to sound-based language for faster conversations
+
+AI 代理切换到基于声音的语言以加速对话

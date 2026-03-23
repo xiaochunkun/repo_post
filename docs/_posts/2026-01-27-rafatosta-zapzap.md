@@ -7,3 +7,5 @@ image: assets/rafatosta_zapzap_20260126_202650_905_20260126_202724_36f584.png
 # [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
 
 WhatsApp client for Linux with system tray integration
+
+集成系统托盘的Linux版WhatsApp客户端

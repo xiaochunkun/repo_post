@@ -7,3 +7,5 @@ image: assets/colonelpanichacks_Sky_Spy_20260111_132724_882_20260111_132739_686b
 # [colonelpanichacks/Sky-Spy](https://github.com/colonelpanichacks/Sky-Spy)
 
 Tracks drone RemoteID via WiFi and Bluetooth
+
+通过WiFi和蓝牙追踪无人机RemoteID

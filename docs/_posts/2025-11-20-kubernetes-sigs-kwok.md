@@ -7,3 +7,5 @@ image: assets/kubernetes_sigs_kwok_20251118_180911_265_20251119_235910_de8204--2
 # [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok/)
 
 Simulates thousands of Kubernetes nodes
+
+模拟数千Kubernetes节点

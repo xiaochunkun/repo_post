@@ -7,3 +7,5 @@ image: assets/20250917T011343995--markedjs--marked--20250917T012004839--cropped.
 # [markedjs/marked](https://github.com/markedjs/marked)
 
 Markdown to HTML parser for browser, server, or CLI
+
+Markdown 到 HTML 解析器，适用于浏览器、服务器或 CLI

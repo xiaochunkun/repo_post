@@ -7,3 +7,5 @@ image: assets/RoastSlav_quickdrop_cropped.png
 # [RoastSlav/quickdrop](https://github.com/RoastSlav/quickdrop)
 
 self-hosted file sharing with upload links
+
+自托管文件分享，支持上传链接

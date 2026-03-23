@@ -7,3 +7,5 @@ image: assets/mrousavy_react-native-vision-camera_cropped.png
 # [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)
 
 react native camera library for photos, videos, scanning
+
+React Native 相机库，用于照片、视频和扫描

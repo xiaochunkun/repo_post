@@ -7,3 +7,5 @@ image: assets/mujocolab_mjlab_20260318_105737_833_20260318_105846_4cc496.png
 # [mujocolab/mjlab](https://github.com/mujocolab/mjlab)
 
 GPU accelerated robotics simulation API
+
+GPU 加速的机器人仿真 API

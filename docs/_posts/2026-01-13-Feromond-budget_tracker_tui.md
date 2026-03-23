@@ -7,3 +7,5 @@ image: assets/Feromond_budget_tracker_tui_20260111_110846_651_20260111_110900_ba
 # [Feromond/budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui)
 
 Terminal budget tracker with charts and data visualization
+
+终端预算追踪器，带图表和数据可视化

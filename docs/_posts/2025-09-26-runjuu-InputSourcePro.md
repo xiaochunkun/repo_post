@@ -7,3 +7,5 @@ image: assets/20250926T173502722--runjuu--InputSourcePro--20250926T175011749--cr
 # [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro)
 
 macOS tool for automatic input source switching and custom shortcuts
+
+macOS 自动输入源切换和自定义快捷键工具

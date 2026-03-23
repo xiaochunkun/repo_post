@@ -7,3 +7,5 @@ image: assets/JetSquirrel_cloudbridge_20251226_214802_879_20251226_214821_78abe3
 # [JetSquirrel/cloudbridge](https://github.com/JetSquirrel/cloudbridge/)
 
 Desktop application for multi-cloud cost management
+
+多云成本管理的桌面应用

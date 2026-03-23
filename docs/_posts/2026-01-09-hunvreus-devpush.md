@@ -7,3 +7,5 @@ image: assets/hunvreus_devpush_20260108_020154_409_20260108_020240_c5f93c.png
 # [hunvreus/devpush](https://github.com/hunvreus/devpush)
 
 Self-hostable alternative to Vercel for any language
+
+适用于任何语言的自托管Vercel替代品

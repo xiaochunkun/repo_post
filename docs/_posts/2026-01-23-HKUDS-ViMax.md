@@ -7,3 +7,5 @@ image: assets/HKUDS_ViMax_20260122_002250_102_20260122_002307_735834.png
 # [HKUDS/ViMax](https://github.com/HKUDS/ViMax)
 
 Agentic video generation through scriptwriting and storyboarding
+
+通过脚本编写和故事板进行代理视频生成

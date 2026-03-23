@@ -7,3 +7,5 @@ image: assets/jamwithai_production_agentic_rag_course_20260217_022558_867_202602
 # [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 
 Builds RAG systems for research papers
+
+为研究论文构建RAG系统

@@ -7,3 +7,5 @@ image: assets/20251015T031725109--Unmanic--unmanic--20251015T032047655--cropped.
 # [Unmanic/unmanic](https://github.com/Unmanic/unmanic)
 
 automates file library optimization and format conversion
+
+自动化文件库优化和格式转换

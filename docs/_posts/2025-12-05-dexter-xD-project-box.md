@@ -7,3 +7,5 @@ image: assets/dexter_xD_project_box_20251202_210611_502_20251202_210636_af41ea.p
 # [dexter-xD/project-box](https://github.com/dexter-xD/project-box/)
 
 Collection of C programming projects for learning
+
+用于学习的 C 编程项目集合

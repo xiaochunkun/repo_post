@@ -7,3 +7,5 @@ image: assets/BehiSecc_bugSkills_20260316_095533_734_20260316_095640_d37266.png
 # [BehiSecc/bugSkills](https://github.com/BehiSecc/bugSkills)
 
 Converts HackerOne reports to reusable skills
+
+将HackerOne报告转换为可重用技能

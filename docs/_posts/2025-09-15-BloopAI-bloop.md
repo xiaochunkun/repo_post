@@ -7,3 +7,5 @@ image: assets/20250915T045026142--BloopAI--bloop--20250915T045318717--cropped.pn
 # [BloopAI/bloop](https://github.com/BloopAI/bloop)
 
 AI-powered code search and chat for your codebase
+
+AI 驱动的代码搜索和代码库聊天

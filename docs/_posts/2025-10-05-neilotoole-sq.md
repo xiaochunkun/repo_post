@@ -7,3 +7,5 @@ image: assets/20251005T100629052--neilotoole--sq--20251005T101702852--cropped.pn
 # [neilotoole/sq](https://github.com/neilotoole/sq)
 
 command line tool for querying and transforming SQL, CSV, and Excel data
+
+用于查询和转换 SQL、CSV 及 Excel 数据的命令行工具

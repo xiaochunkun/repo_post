@@ -7,3 +7,5 @@ image: assets/ArchiveBox_ArchiveBox_cropped.png
 # [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 
 self-hosted tool to save and browse websites offline
+
+用于离线保存和浏览网站的自托管工具

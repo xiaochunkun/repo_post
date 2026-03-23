@@ -7,3 +7,5 @@ image: assets/xeji01_nothingfont_20260113_104234_804_20260113_104248_2e0605.png
 # [xeji01/nothingfont](https://github.com/xeji01/nothingfont)
 
 Typeface from nothing.tech website
+
+来自nothing.tech网站的字体系列

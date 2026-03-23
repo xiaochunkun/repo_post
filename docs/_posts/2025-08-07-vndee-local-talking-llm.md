@@ -7,3 +7,5 @@ image: assets/vndee_local-talking-llm_cropped.png
 # [vndee/local-talking-llm](https://github.com/vndee/local-talking-llm)
 
 Run a talking AI on your computer
+
+在计算机上运行语音 AI

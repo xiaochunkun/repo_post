@@ -7,3 +7,5 @@ image: assets/pocket-id_pocket-id_cropped.png
 # [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
 
 self-hosted passkey login with OIDC
+
+自托管的 Passkey 登录，支持 OIDC

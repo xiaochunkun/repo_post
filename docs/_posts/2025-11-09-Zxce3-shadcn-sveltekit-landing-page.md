@@ -7,3 +7,5 @@ image: assets/Zxce3_shadcn_sveltekit_landing_page_20251109_145015_193_20251109_1
 # [Zxce3/shadcn-sveltekit-landing-page](https://github.com/Zxce3/shadcn-sveltekit-landing-page/)
 
 Landing page template using Shadcn-Svelte and SvelteKit
+
+使用Shadcn-Svelte和SvelteKit的着陆页模板

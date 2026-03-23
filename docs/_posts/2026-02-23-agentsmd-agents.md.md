@@ -7,3 +7,5 @@ image: assets/agentsmd_agents_md_20260222_091028_077_20260222_091043_211e87.png
 # [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
 
 Standard for guiding coding agents
+
+指导编码代理的标准

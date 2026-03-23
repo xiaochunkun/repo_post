@@ -7,3 +7,5 @@ image: assets/chaitanyya_sales_20260208_163535_208_20260208_163646_dd4ce6.png
 # [chaitanyya/sales](https://github.com/chaitanyya/sales)
 
 Researches and scores leads using Claude Code
+
+使用 Claude Code 研究和评分潜在客户

@@ -7,3 +7,5 @@ image: assets/fffaraz_awesome_selfhosted_aws_20260118_211126_843_20260118_211142
 # [fffaraz/awesome-selfhosted-aws](https://github.com/fffaraz/awesome-selfhosted-aws)
 
 Self-hosted alternatives to Amazon Web Services
+
+Amazon Web Services 的自托管替代方案

@@ -7,3 +7,5 @@ image: assets/x1xhlol_system_prompts_and_models_of_ai_tools_20260108_041719_251_
 # [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 Collection of system prompts for AI tools
+
+AI 工具系统提示集合

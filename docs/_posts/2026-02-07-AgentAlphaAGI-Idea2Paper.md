@@ -7,3 +7,5 @@ image: assets/AgentAlphaAGI_Idea2Paper_20260205_143610_508_20260205_143626_26235
 # [AgentAlphaAGI/Idea2Paper](https://github.com/AgentAlphaAGI/Idea2Paper)
 
 Research agent framework for scientific paradigm generation
+
+用于科学范式生成的研究代理框架

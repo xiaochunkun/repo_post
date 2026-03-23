@@ -7,3 +7,5 @@ image: assets/brobertsaz_claude_os_20260111_100536_119_20260111_100550_415bb2.pn
 # [brobertsaz/claude-os](https://github.com/brobertsaz/claude-os)
 
 Persistent memory for AI agents
+
+AI 代理的持久内存

@@ -7,3 +7,5 @@ image: assets/icebob_fastest_validator_20260120_223045_191_20260120_223106_b4587
 # [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
 
 Validates schemas at 8 million operations per second
+
+以每秒 800 万次操作验证模式

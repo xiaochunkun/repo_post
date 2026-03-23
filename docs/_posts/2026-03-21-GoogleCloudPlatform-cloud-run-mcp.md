@@ -7,3 +7,5 @@ image: assets/GoogleCloudPlatform_cloud_run_mcp_20260321_070850_935_20260321_070
 # [GoogleCloudPlatform/cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp)
 
 AI agents deploy apps to Cloud Run
+
+AI代理将应用部署到Cloud Run

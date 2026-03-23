@@ -7,3 +7,5 @@ image: assets/norish_recipes_norish_20251223_182354_190_20251223_182418_fd8bd0.p
 # [norish-recipes/norish](https://github.com/norish-recipes/norish/)
 
 Self-hosted recipe app for families and friends
+
+面向家庭和朋友的自主托管食谱应用

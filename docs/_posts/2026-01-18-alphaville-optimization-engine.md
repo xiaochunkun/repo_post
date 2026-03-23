@@ -7,3 +7,5 @@ image: assets/alphaville_optimization_engine_20260117_142937_279_20260117_142953
 # [alphaville/optimization-engine](https://github.com/alphaville/optimization-engine)
 
 Code generation for real-time optimization in robotics
+
+机器人实时优化代码生成

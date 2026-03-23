@@ -7,3 +7,5 @@ image: assets/AmanVarshney01_create_better_t_stack_20260227_191301_264_20260227_
 # [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack)
 
 CLI for scaffolding TypeScript projects
+
+TypeScript项目脚手架CLI

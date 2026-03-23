@@ -7,3 +7,5 @@ image: assets/openvideodev_openvideo_20260213_141144_060_20260213_141243_c1c2ec.
 # [openvideodev/openvideo](https://github.com/openvideodev/openvideo)
 
 Video rendering and processing library for the web
+
+用于 Web 的视频渲染和处理库

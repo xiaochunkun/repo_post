@@ -7,3 +7,5 @@ image: assets/pablogila_WakeMyPotato_20251031_045315_789_20251031_205931_6822f4-
 # [pablogila/WakeMyPotato](https://github.com/pablogila/WakeMyPotato/)
 
 Linux service to keep old laptops alive after power failures
+
+在电源故障后保持旧笔记本电脑运行的 Linux 服务

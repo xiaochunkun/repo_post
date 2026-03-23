@@ -7,3 +7,5 @@ image: assets/bloomberg_memray_cropped.png
 # [bloomberg/memray](https://github.com/bloomberg/memray)
 
 memray: memory profiler for Python that tracks allocations in Python code and native extensions
+
+memray：Python内存分析器，跟踪Python代码和原生扩展中的分配

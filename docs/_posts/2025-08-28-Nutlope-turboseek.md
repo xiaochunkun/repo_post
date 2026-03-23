@@ -7,3 +7,5 @@ image: assets/20250827T101243902--Nutlope--turboseek--20250827T221230579--croppe
 # [Nutlope/turboseek](https://github.com/Nutlope/turboseek)
 
 open source AI search engine powered by Together AI
+
+基于 Together AI 的开源 AI 搜索引擎

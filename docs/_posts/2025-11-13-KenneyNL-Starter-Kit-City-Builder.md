@@ -7,3 +7,5 @@ image: assets/KenneyNL_Starter_Kit_City_Builder_20251112_083041_206_20251113_164
 # [KenneyNL/Starter-Kit-City-Builder](https://github.com/KenneyNL/Starter-Kit-City-Builder/)
 
 Template for a 3D city builder in Godot
+
+Godot 中 3D 城市建造者的模板

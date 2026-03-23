@@ -7,3 +7,5 @@ image: assets/deeppavlov_chatsky_20251123_184336_346_20251124_184338_49050f--202
 # [deeppavlov/chatsky](https://github.com/deeppavlov/chatsky/)
 
 Python DSL for dialog graphs
+
+用于对话图的 Python DSL

@@ -7,3 +7,5 @@ image: assets/fiddyschmitt_File_Tunnel_20251230_063836_667_20251230_063900_fa6a3
 # [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel/)
 
 Tunnels TCP connections through a file system
+
+通过文件系统隧道化 TCP 连接

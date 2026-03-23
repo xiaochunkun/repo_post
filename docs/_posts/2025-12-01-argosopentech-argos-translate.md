@@ -7,3 +7,5 @@ image: assets/argosopentech_argos_translate_20251130_060139_781_20251130_084311_
 # [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate/)
 
 Library for translation without internet connection
+
+无需互联网连接的翻译库

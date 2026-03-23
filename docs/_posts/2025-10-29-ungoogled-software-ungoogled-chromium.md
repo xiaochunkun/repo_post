@@ -7,3 +7,5 @@ image: assets/ungoogled_software_ungoogled_chromium_20251029_200827_121_20251029
 # [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium/)
 
 Version of Chromium without Google web service dependency
+
+无 Google 网络服务依赖的 Chromium 版本

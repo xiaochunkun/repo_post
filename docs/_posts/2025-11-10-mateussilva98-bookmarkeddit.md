@@ -7,3 +7,5 @@ image: assets/mateussilva98_bookmarkeddit_20251110_022130_107_20251110_121616_4f
 # [mateussilva98/bookmarkeddit](https://github.com/mateussilva98/bookmarkeddit/)
 
 Tool to organize, search, and manage saved Reddit posts
+
+整理、搜索和管理Reddit收藏帖子的工具

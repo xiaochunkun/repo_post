@@ -7,3 +7,5 @@ image: assets/20251009T061529986--Superalgos--Superalgos--20251009T062420321--cr
 # [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos)
 
 open-source platform for automated crypto trading and social strategy sharing
+
+用于自动化加密货币交易和社交策略共享的开源平台

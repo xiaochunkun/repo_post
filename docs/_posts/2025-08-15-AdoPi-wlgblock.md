@@ -7,3 +7,5 @@ image: assets/20250815T020615211_AdoPi_wlgblock--20250815T021056622--cropped.png
 # [AdoPi/wlgblock](https://github.com/AdoPi/wlgblock)
 
 unlock your Wayland session by solving a Pokémon puzzle
+
+通过解决宝可梦谜题解锁你的Wayland会话

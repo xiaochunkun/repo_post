@@ -7,3 +7,5 @@ image: assets/TailAdmin_tailadmin_free_tailwind_dashboard_template_20260106_2045
 # [TailAdmin/tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template/)
 
 Dashboard template using Tailwind CSS and Alpine.js
+
+使用 Tailwind CSS 和 Alpine.js 的仪表板模板

@@ -7,3 +7,5 @@ image: assets/crusher_dev_crusher_20260123_115547_001_20260123_115605_2ad157.png
 # [crusher-dev/crusher](https://github.com/crusher-dev/crusher)
 
 Low-code alternative to Selenium and Cypress
+
+Selenium和Cypress的低代码替代方案

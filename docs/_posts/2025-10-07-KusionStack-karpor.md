@@ -7,3 +7,5 @@ image: assets/20251007T020324912--KusionStack--karpor--20251007T022837630--cropp
 # [KusionStack/karpor](https://github.com/KusionStack/karpor)
 
 Kubernetes cluster search and visualization with AI-powered insights
+
+Kubernetes 集群搜索和可视化工具，带 AI 驱动的洞察

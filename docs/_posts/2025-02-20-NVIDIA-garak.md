@@ -7,3 +7,5 @@ image: assets/NVIDIA_garak_cropped.png
 # [NVIDIA/garak](https://github.com/NVIDIA/garak)
 
 Tool for testing LLM vulnerabilities
+
+测试LLM漏洞的工具

@@ -7,3 +7,5 @@ image: assets/marceloprates_prettymaps_20260203_023245_013_20260203_023303_ee47d
 # [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)
 
 Draws maps from OpenStreetMap data
+
+从OpenStreetMap数据绘制地图

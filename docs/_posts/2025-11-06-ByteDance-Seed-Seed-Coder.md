@@ -7,3 +7,5 @@ image: assets/ByteDance_Seed_Seed_Coder_20251105_120656_737_20251105_123913_53ec
 # [ByteDance-Seed/Seed-Coder](https://github.com/ByteDance-Seed/Seed-Coder/)
 
 Code LLM that curates its own training data
+
+策划自身训练数据的代码 LLM

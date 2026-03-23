@@ -7,3 +7,5 @@ image: assets/AIcrowd_global_chess_challenge_2025_starter_kit_20260114_034631_70
 # [AIcrowd/global-chess-challenge-2025-starter-kit](https://github.com/AIcrowd/global-chess-challenge-2025-starter-kit)
 
 Trains LLMs to play chess
+
+训练LLM下棋

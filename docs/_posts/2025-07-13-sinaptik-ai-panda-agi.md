@@ -7,3 +7,5 @@ image: assets/sinaptik-ai_panda-agi_cropped.png
 # [sinaptik-ai/panda-agi](https://github.com/sinaptik-ai/panda-agi)
 
 agentic AI SDK for building real-time, stateful applications
+
+构建实时、有状态应用的智能体AI SDK

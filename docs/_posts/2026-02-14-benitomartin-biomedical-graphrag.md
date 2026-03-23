@@ -7,3 +7,5 @@ image: assets/benitomartin_biomedical_graphrag_20260115_212905_840_20260115_2129
 # [benitomartin/biomedical-graphrag](https://github.com/benitomartin/biomedical-graphrag)
 
 Combines knowledge graphs with vector search for research
+
+结合知识图谱与向量搜索用于研究

@@ -7,3 +7,5 @@ image: assets/pot_app_pot_desktop_20251023_181116_640_20251023_192752_a85825--20
 # [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop/)
 
 Cross-platform desktop translator with OCR
+
+跨平台桌面翻译器，支持OCR

@@ -7,3 +7,5 @@ image: assets/claromes_waybacktweets_20251209_052950_392_20251209_053024_64f3d5.
 # [claromes/waybacktweets](https://github.com/claromes/waybacktweets/)
 
 Retrieves archived tweets from the Wayback Machine
+
+从 Wayback Machine 检索存档推文

@@ -7,3 +7,5 @@ image: assets/sanyuan0704_sanyuan_skills_20260318_170332_584_20260318_170418_597
 # [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)
 
 Skills for code review and tutoring
+
+代码审查和辅导技能

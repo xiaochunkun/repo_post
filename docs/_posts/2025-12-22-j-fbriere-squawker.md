@@ -7,3 +7,5 @@ image: assets/j_fbriere_squawker_20251221_024450_028_20251221_024508_aa9422.png
 # [j-fbriere/squawker](https://github.com/j-fbriere/squawker/)
 
 Twitter client for privacy
+
+注重隐私的 Twitter 客户端

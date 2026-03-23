@@ -7,3 +7,5 @@ image: assets/jeantimex_flight_path_20260125_002705_149_20260125_002743_55b438.p
 # [jeantimex/flight-path](https://github.com/jeantimex/flight-path)
 
 Visualizes flight paths on a globe with Three.js
+
+使用Three.js在地球上可视化飞行路径

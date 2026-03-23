@@ -7,3 +7,5 @@ image: assets/dontriskit_awesome-ai-system-prompts_cropped.png
 # [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
 
 collection of system prompts for top ai tools
+
+顶级AI工具的系统提示集合

@@ -7,3 +7,5 @@ image: assets/android_nowinandroid_20251218_011225_326_20251218_011245_9914c5.pn
 # [android/nowinandroid](https://github.com/android/nowinandroid/)
 
 Android app with Kotlin and Jetpack Compose
+
+使用 Kotlin 和 Jetpack Compose 开发的 Android 应用

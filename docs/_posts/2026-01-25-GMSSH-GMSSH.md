@@ -7,3 +7,5 @@ image: assets/GMSSH_GMSSH_20260112_034455_385_20260112_034509_36d3f6.png
 # [GMSSH/GMSSH](https://github.com/GMSSH/GMSSH)
 
 Desktop AI system for server management
+
+服务器管理的桌面AI系统

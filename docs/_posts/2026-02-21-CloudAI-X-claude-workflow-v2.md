@@ -7,3 +7,5 @@ image: assets/CloudAI_X_claude_workflow_v2_20260220_151636_910_20260220_151702_d
 # [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)
 
 Workflow plugin for AI agents
+
+AI 代理的工作流插件

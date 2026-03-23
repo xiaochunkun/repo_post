@@ -7,3 +7,5 @@ image: assets/wendy7756_AI_Video_Transcriber_20260208_025849_602_20260208_025907
 # [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber)
 
 Transcribes and summarizes videos from multiple platforms
+
+转录和总结多平台视频

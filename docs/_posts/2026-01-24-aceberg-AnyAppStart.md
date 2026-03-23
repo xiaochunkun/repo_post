@@ -7,3 +7,5 @@ image: assets/aceberg_AnyAppStart_20260122_100823_975_20260122_100850_dea659.png
 # [aceberg/AnyAppStart](https://github.com/aceberg/AnyAppStart)
 
 Control panel for apps in Docker, Systemd, or VMs via SSH
+
+通过SSH控制Docker、Systemd或VM中应用的仪表板

@@ -7,3 +7,5 @@ image: assets/digininja_CeWL_20251123_014338_523_20251123_022830_ac7795--2025112
 # [digininja/CeWL](https://github.com/digininja/CeWL/)
 
 Spiders websites to generate word lists
+
+爬取网站以生成单词列表

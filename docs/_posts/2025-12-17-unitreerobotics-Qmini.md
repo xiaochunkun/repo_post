@@ -7,3 +7,5 @@ image: assets/unitreerobotics_Qmini_20251216_082911_613_20251216_083035_0e8b70.p
 # [unitreerobotics/Qmini](https://github.com/unitreerobotics/Qmini/)
 
 Open-source 3D printable bipedal robot
+
+开源3D可打印双足机器人

@@ -7,3 +7,5 @@ image: assets/OpenCut-app_OpenCut_cropped.png
 # [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 
 open-source video editor for web, desktop, mobile; timeline editing; multi-track; no watermarks
+
+适用于 Web、桌面、移动端的开源视频编辑器；时间线编辑；多轨道；无水印

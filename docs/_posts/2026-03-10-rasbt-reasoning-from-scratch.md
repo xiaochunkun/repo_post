@@ -7,3 +7,5 @@ image: assets/rasbt_reasoning_from_scratch_20260302_020407_063_20260302_020536_a
 # [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch)
 
 Builds reasoning LLM in PyTorch from scratch
+
+在PyTorch中从零构建推理LLM

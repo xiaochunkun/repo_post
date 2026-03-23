@@ -7,3 +7,5 @@ image: assets/dkapur17_streamlit_flow_20251203_003952_151_20251203_004027_af34ec
 # [dkapur17/streamlit-flow](https://github.com/dkapur17/streamlit-flow/)
 
 Interactive flow diagrams component for Streamlit
+
+Streamlit的交互式流程图组件

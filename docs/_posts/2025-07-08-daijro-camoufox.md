@@ -7,3 +7,5 @@ image: assets/daijro_camoufox_cropped.png
 # [daijro/camoufox](https://github.com/daijro/camoufox)
 
 anti-detect browser for stealth web scraping and fingerprint rotation
+
+反检测浏览器，用于隐蔽网络爬取和指纹轮换

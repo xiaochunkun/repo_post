@@ -7,3 +7,5 @@ image: assets/NativeMindBrowser_NativeMindExtension_20260122_035836_985_20260122
 # [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension)
 
 Browser extension runs local AI models via Ollama
+
+浏览器扩展通过Ollama运行本地AI模型

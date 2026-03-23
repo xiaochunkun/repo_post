@@ -7,3 +7,5 @@ image: assets/20250903T030733270--smicallef--spiderfoot--20250903T031427943--cro
 # [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
 
 automates OSINT scans and data gathering
+
+自动化开源情报扫描和数据收集

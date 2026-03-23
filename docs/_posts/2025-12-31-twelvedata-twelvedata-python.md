@@ -7,3 +7,5 @@ image: assets/twelvedata_twelvedata_python_20251231_031058_391_20251231_031115_6
 # [twelvedata/twelvedata-python](https://github.com/twelvedata/twelvedata-python/)
 
 Python client for financial data and technical indicators
+
+金融数据和技术指标的Python客户端

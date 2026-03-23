@@ -7,3 +7,5 @@ image: assets/allenai_pdffigures2_20251204_212402_161_20251204_212437_f8206f.png
 # [allenai/pdffigures2](https://github.com/allenai/pdffigures2/)
 
 Extracts figures and tables from scholarly PDFs
+
+从学术PDF中提取图表和表格

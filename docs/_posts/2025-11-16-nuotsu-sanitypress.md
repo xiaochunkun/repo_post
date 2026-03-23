@@ -7,3 +7,5 @@ image: assets/nuotsu_sanitypress_20251114_223737_644_20251115_201952_55968f--202
 # [nuotsu/sanitypress](https://github.com/nuotsu/sanitypress/)
 
 Next.js and Sanity starter template with Tailwind CSS
+
+使用 Tailwind CSS 的 Next.js 和 Sanity 启动模板

@@ -7,3 +7,5 @@ image: assets/Caprox_eu_Proxmox_Kubernetes_Engine_20260103_131228_746_20260103_1
 # [Caprox-eu/Proxmox-Kubernetes-Engine](https://github.com/Caprox-eu/Proxmox-Kubernetes-Engine/)
 
 Deploys Kubernetes clusters on Proxmox without SSH access
+
+在 Proxmox 上无需 SSH 访问部署 Kubernetes 集群

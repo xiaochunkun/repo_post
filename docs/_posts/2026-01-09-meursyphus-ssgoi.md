@@ -7,3 +7,5 @@ image: assets/meursyphus_ssgoi_20260108_160702_690_20260108_160750_6a6746.png
 # [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi)
 
 Native page transitions for web frameworks
+
+Web框架的原生页面过渡效果

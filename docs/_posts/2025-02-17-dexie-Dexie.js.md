@@ -7,4 +7,6 @@ image: assets/dexie_Dexie.js_cropped.png
 
 IndexedDB wrapper library
 
+IndexedDB 包装库
+
 [View Repository](https://github.com/dexie/Dexie.js)

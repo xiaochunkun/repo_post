@@ -7,3 +7,5 @@ image: assets/20250917T003345388--lm-sys--FastChat--20250918T030537499--cropped.
 # [lm-sys/FastChat](https://github.com/lm-sys/FastChat)
 
 platform for training and serving large language model chatbots
+
+用于训练和服务大型语言模型聊天机器人的平台

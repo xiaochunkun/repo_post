@@ -7,3 +7,5 @@ image: assets/buckster123_NeoCortex_20260205_174312_117_20260205_174337_0eef07.p
 # [buckster123/NeoCortex](https://github.com/buckster123/NeoCortex)
 
 Memory system for AI agents
+
+AI代理的内存系统

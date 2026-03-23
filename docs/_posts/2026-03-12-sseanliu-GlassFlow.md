@@ -7,3 +7,5 @@ image: assets/sseanliu_GlassFlow_20260308_173252_325_20260308_173416_8bba1d.png
 # [sseanliu/GlassFlow](https://github.com/sseanliu/GlassFlow)
 
 Transcribes audio from smart glasses in real-time
+
+实时转录智能眼镜音频

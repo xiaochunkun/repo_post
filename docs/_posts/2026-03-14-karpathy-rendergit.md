@@ -7,3 +7,5 @@ image: assets/karpathy_rendergit_20260305_100928_801_20260305_101110_a61c35.png
 # [karpathy/rendergit](https://github.com/karpathy/rendergit)
 
 Tool to render git repositories into a file for humans and LLMs
+
+将git仓库渲染为人类和LLM可读文件的工具

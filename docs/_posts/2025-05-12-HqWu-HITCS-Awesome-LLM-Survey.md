@@ -7,3 +7,5 @@ image: assets/HqWu-HITCS_Awesome-LLM-Survey_cropped.png
 # [HqWu-HITCS/Awesome-LLM-Survey](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)
 
 list of LLM survey topics and papers, covers tuning, alignment, agents, multimodal, evaluation, downstream apps, more
+
+LLM调查主题和论文列表，涵盖调优、对齐、代理、多模态、评估、下游应用等

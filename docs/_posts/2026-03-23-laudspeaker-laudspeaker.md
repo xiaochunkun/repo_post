@@ -7,3 +7,5 @@ image: assets/laudspeaker_laudspeaker_20260322_221734_647_20260322_221840_b3a759
 # [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker)
 
 Visual journey builder for customer engagement
+
+客户互动的可视化旅程构建器

@@ -7,3 +7,5 @@ image: assets/diffusionstudio_agent_20260104_122819_760_20260104_122908_2e0ae5.p
 # [diffusionstudio/agent](https://github.com/diffusionstudio/agent/)
 
 Agentic framework for video editing
+
+视频编辑的代理框架

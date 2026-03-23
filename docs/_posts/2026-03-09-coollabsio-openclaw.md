@@ -7,3 +7,5 @@ image: assets/coollabsio_openclaw_20260225_212203_425_20260225_212404_277b5e.png
 # [coollabsio/openclaw](https://github.com/coollabsio/openclaw)
 
 Automated Docker images for browser-based agents
+
+基于浏览器代理的自动化Docker镜像

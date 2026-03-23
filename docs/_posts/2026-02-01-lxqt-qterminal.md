@@ -7,3 +7,5 @@ image: assets/lxqt_qterminal_20260201_005602_005_20260201_005638_1cc683.png
 # [lxqt/qterminal](https://github.com/lxqt/qterminal)
 
 Terminal emulator based on Qt
+
+基于 Qt 的终端模拟器

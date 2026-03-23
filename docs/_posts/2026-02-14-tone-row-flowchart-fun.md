@@ -7,3 +7,5 @@ image: assets/tone_row_flowchart_fun_20260122_164432_234_20260122_164449_3fc375.
 # [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun)
 
 Generates flowcharts from text
+
+从文本生成流程图

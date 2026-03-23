@@ -7,3 +7,5 @@ image: assets/plasmicapp_plasmic_20260202_183147_415_20260202_183303_27620e.png
 # [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic)
 
 Visual builder for React codebases
+
+React 代码库的可视化构建器

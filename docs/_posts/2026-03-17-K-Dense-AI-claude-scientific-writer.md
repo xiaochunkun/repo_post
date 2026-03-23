@@ -7,3 +7,5 @@ image: assets/K_Dense_AI_claude_scientific_writer_20260317_042427_779_20260317_0
 # [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer)
 
 AI deep research and writing tool
+
+AI 深度研究和写作工具

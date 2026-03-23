@@ -7,3 +7,5 @@ image: assets/20250823T014531332--Nutlope--restorePhotos--20250823T015004335--cr
 # [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos)
 
 AI tool to restore old face photos
+
+AI 修复老照片中的人脸

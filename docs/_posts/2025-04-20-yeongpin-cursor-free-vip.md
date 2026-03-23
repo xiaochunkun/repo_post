@@ -7,3 +7,5 @@ image: assets/yeongpin_cursor-free-vip_cropped.png
 # [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)
 
 "currently the repo does not violate any laws" 
+
+“当前仓库未违反任何法律”

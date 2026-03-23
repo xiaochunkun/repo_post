@@ -7,3 +7,5 @@ image: assets/20250912T195449152--open-thoughts--open-thoughts--20250915T0445361
 # [open-thoughts/open-thoughts](https://github.com/open-thoughts/open-thoughts)
 
 open datasets and models for training reasoning AI
+
+用于训练推理 AI 的开放数据集和模型

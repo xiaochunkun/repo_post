@@ -7,3 +7,5 @@ image: assets/monitoror_monitoror_20260119_221833_701_20260119_221855_3a4068.png
 # [monitoror/monitoror](https://github.com/monitoror/monitoror)
 
 Wallboard monitoring app for server status and CI builds
+
+用于服务器状态和CI构建的墙板监控应用

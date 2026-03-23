@@ -7,3 +7,5 @@ image: assets/josean_dev_dev_environment_files_20251201_090251_754_20251201_0903
 # [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files/)
 
 Configuration files for macOS development environment
+
+macOS开发环境的配置文件

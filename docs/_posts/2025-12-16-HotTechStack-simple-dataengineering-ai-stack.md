@@ -7,3 +7,5 @@ image: assets/HotTechStack_simple_dataengineering_ai_stack_20251214_214157_994_2
 # [HotTechStack/simple-dataengineering-ai-stack](https://github.com/HotTechStack/simple-dataengineering-ai-stack/)
 
 Dockerized blueprints for data and AI platforms
+
+用于数据和AI平台的Docker化蓝图

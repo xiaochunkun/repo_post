@@ -7,3 +7,5 @@ image: assets/apernet_OpenGFW_20251023_202116_262_20251024_223712_c37078--202510
 # [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)
 
 A DIY version of the Great Firewall
+
+DIY版防火墙

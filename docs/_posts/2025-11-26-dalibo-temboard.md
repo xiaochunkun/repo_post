@@ -7,3 +7,5 @@ image: assets/dalibo_temboard_20251123_204638_333_20251125_215916_d1e4dc--202511
 # [dalibo/temboard](https://github.com/dalibo/temboard/)
 
 Remote control for PostgreSQL instances
+
+PostgreSQL 实例的远程控制工具

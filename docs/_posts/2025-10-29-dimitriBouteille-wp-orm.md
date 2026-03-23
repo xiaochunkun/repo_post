@@ -7,3 +7,5 @@ image: assets/dimitriBouteille_wp_orm_20251029_025846_779_20251029_030106_9fb2b6
 # [dimitriBouteille/wp-orm](https://github.com/dimitriBouteille/wp-orm/)
 
 ORM for WordPress based on Eloquent
+
+基于 Eloquent 的 WordPress ORM

@@ -7,3 +7,5 @@ image: assets/20250830T030835665--HKUDS--DeepCode--20250830T032209075--cropped.p
 # [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
 
 AI agents turn research papers and specs into working code
+
+AI 智能体将研究论文和规范转化为可运行代码

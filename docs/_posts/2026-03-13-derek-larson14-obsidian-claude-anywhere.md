@@ -7,3 +7,5 @@ image: assets/derek_larson14_obsidian_claude_anywhere_20260309_221223_441_202603
 # [derek-larson14/obsidian-claude-anywhere](https://github.com/derek-larson14/obsidian-claude-anywhere)
 
 Access to Claude Code from mobile devices
+
+从移动设备访问 Claude Code

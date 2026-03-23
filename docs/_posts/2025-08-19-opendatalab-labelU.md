@@ -7,3 +7,5 @@ image: assets/20250818T114723565_opendatalab_labelU--20250818T115256459--cropped
 # [opendatalab/labelU](https://github.com/opendatalab/labelU)
 
 multimodal data annotation for images, video, audio
+
+支持图像、视频、音频的多模态数据标注工具

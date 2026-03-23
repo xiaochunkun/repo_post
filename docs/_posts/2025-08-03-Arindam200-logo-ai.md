@@ -7,3 +7,5 @@ image: assets/Arindam200_logo-ai_cropped.png
 # [Arindam200/logo-ai](https://github.com/Arindam200/logo-ai)
 
 AI logo generator using Nebius models
+
+使用Nebius模型的AI标志生成器

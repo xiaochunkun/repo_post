@@ -7,3 +7,5 @@ image: assets/OliveTin_OliveTin_20260212_054825_104_20260212_054849_f962a8.png
 # [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin)
 
 Web interface for shell commands
+
+Shell 命令的 Web 界面

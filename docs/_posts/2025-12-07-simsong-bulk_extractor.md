@@ -7,3 +7,5 @@ image: assets/simsong_bulk_extractor_20251205_003025_181_20251205_003120_81144d.
 # [simsong/bulk_extractor](https://github.com/simsong/bulk_extractor/)
 
 Scans disk images for structured information
+
+扫描磁盘镜像以提取结构化信息

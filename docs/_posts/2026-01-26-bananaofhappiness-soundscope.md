@@ -7,3 +7,5 @@ image: assets/bananaofhappiness_soundscope_20260122_131123_869_20260122_131140_e
 # [bananaofhappiness/soundscope](https://github.com/bananaofhappiness/soundscope)
 
 Analyzes audio frequencies and loudness in a terminal
+
+终端音频频率和响度分析器

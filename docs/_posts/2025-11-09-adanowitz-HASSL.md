@@ -7,3 +7,5 @@ image: assets/adanowitz_HASSL_20251109_160322_507_20251109_163814_d946fb--202511
 # [adanowitz/HASSL](https://github.com/adanowitz/HASSL/)
 
 Human-friendly scripting language for Home Assistant
+
+为Home Assistant设计的人性化脚本语言

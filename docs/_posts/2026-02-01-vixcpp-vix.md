@@ -7,3 +7,5 @@ image: assets/vixcpp_vix_20260201_013712_324_20260201_013749_c8ca45.png
 # [vixcpp/vix](https://github.com/vixcpp/vix)
 
 C++ runtime for peer-to-peer applications
+
+点对点应用的 C++ 运行时

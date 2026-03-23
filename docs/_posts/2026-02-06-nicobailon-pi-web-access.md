@@ -7,3 +7,5 @@ image: assets/nicobailon_pi_web_access_20260205_132512_901_20260205_132528_8f803
 # [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access)
 
 Web search and video understanding for Pi agent
+
+为Pi代理提供网络搜索和视频理解

@@ -7,3 +7,5 @@ image: assets/azimuttapp_azimutt_20260209_002058_647_20260209_002143_0721b5.png
 # [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt)
 
 Explores and documents database schemas
+
+探索和记录数据库模式

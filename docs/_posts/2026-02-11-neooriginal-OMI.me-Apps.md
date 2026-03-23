@@ -7,3 +7,5 @@ image: assets/neooriginal_OMI_me_Apps_20260205_031648_289_20260205_031719_d72ce6
 # [neooriginal/OMI.me-Apps](https://github.com/neooriginal/OMI.me-Apps)
 
 Visual memory maps from conversations
+
+从对话生成视觉记忆地图

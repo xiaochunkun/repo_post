@@ -7,3 +7,5 @@ image: assets/NabokD_pockettube_20251225_152303_025_20251225_152319_4ab6c9.png
 # [NabokD/pockettube](https://github.com/NabokD/pockettube/)
 
 Organizes subscriptions into groups on YouTube
+
+在 YouTube 上将订阅分组组织

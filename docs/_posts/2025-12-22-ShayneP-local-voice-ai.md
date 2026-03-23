@@ -7,3 +7,5 @@ image: assets/ShayneP_local_voice_ai_20251221_031544_123_20251221_031601_3c51bc.
 # [ShayneP/local-voice-ai](https://github.com/ShayneP/local-voice-ai/)
 
 Local voice assistant with RAG and LLMs
+
+具有 RAG 和 LLM 的本地语音助手

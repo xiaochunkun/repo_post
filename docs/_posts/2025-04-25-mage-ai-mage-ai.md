@@ -7,3 +7,5 @@ image: assets/mage-ai_mage-ai_cropped.png
 # [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
 
 Build, orchestrate, and run data pipelines using Python, SQL, and R
+
+使用Python、SQL和R构建、编排和运行数据管道

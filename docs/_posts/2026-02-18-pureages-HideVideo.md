@@ -7,3 +7,5 @@ image: assets/pureages_HideVideo_20260216_194648_449_20260216_194738_2e893b.png
 # [pureages/HideVideo](https://github.com/pureages/HideVideo)
 
 Manages video collections with Go and FFmpeg
+
+使用 Go 和 FFmpeg 管理视频集合

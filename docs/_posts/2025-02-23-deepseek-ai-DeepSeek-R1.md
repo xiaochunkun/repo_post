@@ -7,3 +7,5 @@ image: assets/deepseek-ai_DeepSeek-R1_cropped.png
 # [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 
 DeepSeek-R1 GitHub repo with model code and info
+
+DeepSeek-R1 GitHub 仓库，包含模型代码和信息

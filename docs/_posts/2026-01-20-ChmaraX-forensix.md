@@ -7,3 +7,5 @@ image: assets/ChmaraX_forensix_20260119_185753_409_20260119_185806_c45ffd.png
 # [ChmaraX/forensix](https://github.com/ChmaraX/forensix)
 
 Visualizes Google Chrome artifacts for forensics
+
+可视化Google Chrome取证数据

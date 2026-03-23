@@ -7,3 +7,5 @@ image: assets/zhouxiaoka_autoclip_mvp_cropped.png
 # [zhouxiaoka/autoclip_mvp](https://github.com/zhouxiaoka/autoclip_mvp)
 
 AI video highlights and clipping tool
+
+AI 视频亮点和剪辑工具

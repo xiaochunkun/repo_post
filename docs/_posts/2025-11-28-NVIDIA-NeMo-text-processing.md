@@ -7,3 +7,5 @@ image: assets/NVIDIA_NeMo_text_processing_20251125_230533_615_20251127_171537_23
 # [NVIDIA/NeMo-text-processing](https://github.com/NVIDIA/NeMo-text-processing/)
 
 Python package for text normalization and inverse text normalization
+
+用于文本规范化和逆文本规范化的Python包

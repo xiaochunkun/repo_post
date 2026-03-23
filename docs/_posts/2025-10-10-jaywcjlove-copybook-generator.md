@@ -7,3 +7,5 @@ image: assets/20251010T064529891--jaywcjlove--copybook-generator--20251010T06522
 # [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
 customizable copybook templates for handwriting and math practice
+
+可定制的字帖模板，用于手写和数学练习

@@ -7,3 +7,5 @@ image: assets/mishamyrt_Lilex_20251025_045659_370_20251025_101118_3cb991--202510
 # [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex/)
 
 Developer font with ligatures and PowerLine characters
+
+带有连字和PowerLine字符的开发字体

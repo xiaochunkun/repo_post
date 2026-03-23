@@ -7,3 +7,5 @@ image: assets/transitive-bullshit_agentic_cropped.png
 # [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
 
 AI agent standard library for LLMs and TypeScript SDKs
+
+用于LLM和TypeScript SDK的AI代理标准库

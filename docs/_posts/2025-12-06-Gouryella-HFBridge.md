@@ -7,3 +7,5 @@ image: assets/Gouryella_HFBridge_20251204_225412_881_20251204_225435_ffaa63.png
 # [Gouryella/HFBridge](https://github.com/Gouryella/HFBridge/)
 
 Hugging Face proxy with web dashboard
+
+带有Web仪表板的Hugging Face代理

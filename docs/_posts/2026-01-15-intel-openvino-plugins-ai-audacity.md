@@ -7,3 +7,5 @@ image: assets/intel_openvino_plugins_ai_audacity_20260115_083736_226_20260115_08
 # [intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity)
 
 Runs AI models for audio processing locally on hardware
+
+在硬件上本地运行音频处理的 AI 模型

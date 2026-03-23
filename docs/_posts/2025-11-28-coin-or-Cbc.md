@@ -7,3 +7,5 @@ image: assets/coin_or_Cbc_20251125_052735_590_20251127_170805_113404--20251127T1
 # [coin-or/Cbc](https://github.com/coin-or/Cbc/)
 
 Mixed integer linear programming solver
+
+混合整数线性规划求解器

@@ -7,3 +7,5 @@ image: assets/OpenImagingLab_FlashVSR_20251023_194924_187_20251024_184359_0707ec
 # [OpenImagingLab/FlashVSR](https://github.com/OpenImagingLab/FlashVSR/)
 
 Real-time diffusion-based video super-resolution
+
+基于扩散的实时视频超分辨率

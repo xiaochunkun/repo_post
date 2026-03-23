@@ -7,3 +7,5 @@ image: assets/boidushya_better_lyrics_20251231_043812_356_20251231_043827_e9128d
 # [boidushya/better-lyrics](https://github.com/boidushya/better-lyrics/)
 
 Syncs lyrics for YouTube Music
+
+为YouTube Music同步歌词

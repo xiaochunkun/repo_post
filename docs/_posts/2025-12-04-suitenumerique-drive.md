@@ -7,3 +7,5 @@ image: assets/suitenumerique_drive_20251201_101910_487_20251201_101934_cffd55.pn
 # [suitenumerique/drive](https://github.com/suitenumerique/drive/)
 
 Collaborative file sharing platform built with Django and React
+
+基于Django和React构建的协作文件共享平台

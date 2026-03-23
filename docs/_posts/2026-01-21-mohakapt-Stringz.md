@@ -7,3 +7,5 @@ image: assets/mohakapt_Stringz_20260120_234352_475_20260120_234446_14bd88.png
 # [mohakapt/Stringz](https://github.com/mohakapt/Stringz)
 
 Editor for localizing Xcode projects
+
+本地化 Xcode 项目的编辑器

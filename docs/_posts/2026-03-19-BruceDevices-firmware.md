@@ -7,3 +7,5 @@ image: assets/BruceDevices_firmware_20260318_220818_668_20260318_221051_2ec134.p
 # [BruceDevices/firmware](https://github.com/BruceDevices/firmware)
 
 Firmware for offensive security operations
+
+用于攻击性安全操作的固件

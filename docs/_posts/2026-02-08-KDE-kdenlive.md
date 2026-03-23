@@ -7,3 +7,5 @@ image: assets/KDE_kdenlive_20260204_063547_829_20260204_063602_bc5f98.png
 # [KDE/kdenlive](https://github.com/KDE/kdenlive)
 
 Video editor based on MLT Framework
+
+基于MLT Framework的视频编辑器

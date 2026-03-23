@@ -7,3 +7,5 @@ image: assets/padok_team_burrito_20251231_164446_686_20251231_164505_8ae235.png
 # [padok-team/burrito](https://github.com/padok-team/burrito/)
 
 Kubernetes operator for Terraform automation and state drift management
+
+用于Terraform自动化和状态漂移管理的Kubernetes操作器

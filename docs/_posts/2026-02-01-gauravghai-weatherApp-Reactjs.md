@@ -7,3 +7,5 @@ image: assets/gauravghai_weatherApp_Reactjs_20260131_080308_800_20260131_080353_
 # [gauravghai/weatherApp-Reactjs](https://github.com/gauravghai/weatherApp-Reactjs)
 
 Weather app with location tracking and city search
+
+带有位置追踪和城市搜索的天气应用

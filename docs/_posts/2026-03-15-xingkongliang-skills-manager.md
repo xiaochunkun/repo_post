@@ -7,3 +7,5 @@ image: assets/xingkongliang_skills_manager_20260314_000829_303_20260314_001015_6
 # [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
 
 Manage skills across coding tools
+
+跨编码工具管理技能

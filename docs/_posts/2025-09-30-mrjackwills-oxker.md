@@ -7,3 +7,5 @@ image: assets/20250929T215932905--mrjackwills--oxker--20250929T220744463--croppe
 # [mrjackwills/oxker](https://github.com/mrjackwills/oxker)
 
 terminal UI for managing Docker containers
+
+用于管理 Docker 容器的终端 UI

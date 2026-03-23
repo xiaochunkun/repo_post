@@ -7,3 +7,5 @@ image: assets/flattool_ignition_20251121_113510_880_20251121_211524_c691ec--2025
 # [flattool/ignition](https://github.com/flattool/ignition/)
 
 Edits autostart entries on Linux
+
+编辑 Linux 上的自启动条目

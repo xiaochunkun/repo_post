@@ -7,3 +7,5 @@ image: assets/openai_codex_20260224_194655_824_20260224_194711_6942d0.png
 # [openai/codex](https://github.com/openai/codex)
 
 Coding agent in the terminal
+
+终端中的编码代理

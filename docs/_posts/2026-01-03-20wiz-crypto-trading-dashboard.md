@@ -7,3 +7,5 @@ image: assets/20wiz_crypto_trading_dashboard_20260102_115058_064_20260102_115114
 # [20wiz/crypto-trading-dashboard](https://github.com/20wiz/crypto-trading-dashboard/)
 
 Streamlit dashboard for backtesting and trading cryptocurrency strategies
+
+用于加密货币策略回测和交易的Streamlit仪表板

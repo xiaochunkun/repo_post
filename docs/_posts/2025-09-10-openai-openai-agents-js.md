@@ -7,3 +7,5 @@ image: assets/20250910T024059362--openai--openai-agents-js--20250910T024149247--
 # [openai/openai-agents-js](https://github.com/openai/openai-agents-js)
 
 framework for building multi-agent workflows in JavaScript and TypeScript
+
+用 JavaScript 和 TypeScript 构建多智能体工作流的框架

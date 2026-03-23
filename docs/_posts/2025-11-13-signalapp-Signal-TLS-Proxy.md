@@ -7,3 +7,5 @@ image: assets/signalapp_Signal_TLS_Proxy_20251112_082747_215_20251113_164606_54e
 # [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy/)
 
 Proxy to help bypass censorship of Signal
+
+帮助绕过 Signal 审查的代理

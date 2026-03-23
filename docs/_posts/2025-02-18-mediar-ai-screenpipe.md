@@ -7,3 +7,5 @@ image: assets/mediar-ai_screenpipe_cropped.png
 # [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)
 
 Screen and audio capture for AI integration
+
+用于 AI 集成的屏幕和音频捕获工具

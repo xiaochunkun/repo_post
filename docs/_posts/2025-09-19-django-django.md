@@ -7,3 +7,5 @@ image: assets/20250919T020425898--django--django--20250919T021524083--cropped.pn
 # [django/django](https://github.com/django/django)
 
 Python web framework for building secure, scalable web apps
+
+用于构建安全、可扩展Web应用的Python Web框架

@@ -7,3 +7,5 @@ image: assets/20250915T230610057--huggingface--picotron--20250915T231211807--cro
 # [huggingface/picotron](https://github.com/huggingface/picotron)
 
 minimal 4D-parallelism framework for distributed LLM training and experimentation
+
+最小化 4D 并行框架，用于分布式 LLM 训练和实验

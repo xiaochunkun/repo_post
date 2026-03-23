@@ -7,3 +7,5 @@ image: assets/spipm_Depixelization_poc_20251023_194231_354_20251025_011837_78448
 # [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc/)
 
 Recovers text from pixelized screenshots
+
+从像素化截图恢复文本

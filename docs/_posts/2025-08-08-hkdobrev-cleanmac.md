@@ -7,3 +7,5 @@ image: assets/hkdobrev_cleanmac_cropped.png
 # [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)
 
 macOS cleanup script for deleting caches and junk
+
+macOS清理脚本，用于删除缓存和垃圾文件

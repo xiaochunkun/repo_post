@@ -7,3 +7,5 @@ image: assets/20250912T000550260--allenai--open-instruct--20250912T001037150--cr
 # [allenai/open-instruct](https://github.com/allenai/open-instruct)
 
 tools for finetuning language models with instruction datasets and preference optimization
+
+用指令数据集和偏好优化微调语言模型的工具

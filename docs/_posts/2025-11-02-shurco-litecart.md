@@ -7,3 +7,5 @@ image: assets/shurco_litecart_20251031_080634_223_20251101_210915_e27445--202511
 # [shurco/litecart](https://github.com/shurco/litecart/)
 
 An open source shopping cart in a single file
+
+单文件开源购物车

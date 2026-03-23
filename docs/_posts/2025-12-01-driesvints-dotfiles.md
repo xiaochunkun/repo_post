@@ -7,3 +7,5 @@ image: assets/driesvints_dotfiles_20251130_054036_650_20251130_084109_f657a2--20
 # [driesvints/dotfiles](https://github.com/driesvints/dotfiles/)
 
 Automates macOS setup and maintenance
+
+自动化 macOS 设置和维护

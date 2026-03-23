@@ -7,3 +7,5 @@ image: assets/DirectorySurf_awesome_launch_platforms_20260224_065843_332_2026022
 # [DirectorySurf/awesome-launch-platforms](https://github.com/DirectorySurf/awesome-launch-platforms)
 
 Directory of platforms for product launches
+
+产品发布平台目录

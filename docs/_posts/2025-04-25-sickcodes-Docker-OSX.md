@@ -7,3 +7,5 @@ image: assets/sickcodes_Docker-OSX_cropped.png
 # [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 
 Run macOS in Docker containers using QEMU and Linux tools
+
+使用QEMU和Linux工具在Docker容器中运行macOS

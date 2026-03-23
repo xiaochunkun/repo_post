@@ -7,3 +7,5 @@ image: assets/OpenDroneMap_ODM_20251221_193538_512_20251221_193556_a169c9.png
 # [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM/)
 
 Processes drone imagery into maps and 3D models
+
+将无人机图像处理成地图和 3D 模型

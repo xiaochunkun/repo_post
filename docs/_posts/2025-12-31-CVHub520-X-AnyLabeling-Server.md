@@ -7,3 +7,5 @@ image: assets/CVHub520_X_AnyLabeling_Server_20251230_170414_592_20251230_170432_
 # [CVHub520/X-AnyLabeling-Server](https://github.com/CVHub520/X-AnyLabeling-Server/)
 
 Serves AI models for auto-labeling tasks
+
+为自动标注任务提供 AI 模型服务

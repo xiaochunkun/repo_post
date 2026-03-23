@@ -7,3 +7,5 @@ image: assets/20251009T061434316--checkmarble--marble--20251009T062132484--cropp
 # [checkmarble/marble](https://github.com/checkmarble/marble)
 
 real-time decision engine and case manager for detecting money laundering and fraud
+
+用于检测洗钱和欺诈的实时决策引擎和案例管理器

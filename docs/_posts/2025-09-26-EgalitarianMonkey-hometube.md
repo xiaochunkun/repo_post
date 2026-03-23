@@ -7,3 +7,5 @@ image: assets/20250926T004225668--EgalitarianMonkey--hometube--20250926T00475068
 # [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube)
 
 web UI for downloading and organizing videos to your home media server
+
+用于下载和组织视频到家庭媒体服务器的 Web UI

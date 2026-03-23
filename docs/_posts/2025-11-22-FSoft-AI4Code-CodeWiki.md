@@ -7,3 +7,5 @@ image: assets/FSoft_AI4Code_CodeWiki_20251122_104628_207_20251122_111533_4bbe1b-
 # [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki/)
 
 Generates documentation and diagrams for codebases
+
+为代码库生成文档和图表

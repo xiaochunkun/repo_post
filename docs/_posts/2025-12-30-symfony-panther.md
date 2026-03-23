@@ -7,3 +7,5 @@ image: assets/symfony_panther_20251228_043239_499_20251228_043257_2a3e3c.png
 # [symfony/panther](https://github.com/symfony/panther/)
 
 Scrapes websites and runs tests using real browsers
+
+使用真实浏览器抓取网站和运行测试

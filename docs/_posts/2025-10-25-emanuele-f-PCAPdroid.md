@@ -7,3 +7,5 @@ image: assets/emanuele_f_PCAPdroid_20251025_013823_760_20251025_014548_5c1d81--2
 # [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid/)
 
 Track, analyze, and block network connections on Android without root
+
+无需root在Android上追踪、分析和阻止网络连接

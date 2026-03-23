@@ -7,3 +7,5 @@ image: assets/responsively-org_responsively-app_cropped.png
 # [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
 
 preview websites on multiple devices at once for web dev
+
+为Web开发同时预览多个设备上的网站

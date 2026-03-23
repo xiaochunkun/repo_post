@@ -7,3 +7,5 @@ image: assets/rzane_docker2exe_20260320_233442_585_20260320_233613_511c15.png
 # [rzane/docker2exe](https://github.com/rzane/docker2exe)
 
 Converts Docker images to executables
+
+将Docker镜像转换为可执行文件

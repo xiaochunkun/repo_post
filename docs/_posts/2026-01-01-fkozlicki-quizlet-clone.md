@@ -7,3 +7,5 @@ image: assets/fkozlicki_quizlet_clone_20260101_001256_628_20260101_001312_d01427
 # [fkozlicki/quizlet-clone](https://github.com/fkozlicki/quizlet-clone/)
 
 Flashcards with four learning modes
+
+包含四种学习模式的闪卡应用

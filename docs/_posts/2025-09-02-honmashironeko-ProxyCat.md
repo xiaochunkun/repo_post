@@ -7,3 +7,5 @@ image: assets/20250831T020055124--honmashironeko--ProxyCat--20250831T020849610--
 # [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat)
 
 proxy pool middleware with auto IP rotation for testing and scraping
+
+代理池中间件，自动轮换 IP，用于测试和爬虫

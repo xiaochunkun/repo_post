@@ -7,3 +7,5 @@ image: assets/20250915T231331494--pyscript--pyscript--20250918T051246261--croppe
 # [pyscript/pyscript](https://github.com/pyscript/pyscript)
 
 run Python code directly in your browser
+
+直接在浏览器中运行Python代码

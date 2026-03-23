@@ -7,3 +7,5 @@ image: assets/shannonhochkins_ha_component_kit_20251217_174935_763_20251217_1749
 # [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit/)
 
 React packages for Home Assistant dashboards
+
+用于 Home Assistant 仪表板的 React 包

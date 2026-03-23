@@ -7,3 +7,5 @@ image: assets/20251005T003308510--coder--httpjail--20251005T003847744--cropped.p
 # [coder/httpjail](https://github.com/coder/httpjail)
 
 tool for monitoring and restricting HTTP/HTTPS requests from processes with network isolation
+
+监控和限制进程HTTP/HTTPS请求的工具，具有网络隔离功能

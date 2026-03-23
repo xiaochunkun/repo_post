@@ -7,3 +7,5 @@ image: assets/MatthewWid_better_sse_20251209_040239_898_20251209_040304_174cd6.p
 # [MatthewWid/better-sse](https://github.com/MatthewWid/better-sse/)
 
 Dependency-less server-sent events implementation in TypeScript
+
+TypeScript 中无依赖的服务器发送事件实现

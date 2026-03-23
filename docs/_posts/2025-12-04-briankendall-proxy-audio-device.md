@@ -7,3 +7,5 @@ image: assets/briankendall_proxy_audio_device_20251202_203230_363_20251202_20325
 # [briankendall/proxy-audio-device](https://github.com/briankendall/proxy-audio-device/)
 
 Virtual audio driver enabling macOS system volume control for external interfaces
+
+虚拟音频驱动，支持macOS系统对外部接口的音量控制

@@ -7,3 +7,5 @@ image: assets/20250822T015608236--pydantic--pydantic-ai--20250903T015312037--cro
 # [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
 build AI agents in Python with Pydantic, supports multiple LLMs
+
+基于 Pydantic 用 Python 构建 AI 智能体，支持多种大模型

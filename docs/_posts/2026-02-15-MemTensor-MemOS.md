@@ -7,3 +7,5 @@ image: assets/MemTensor_MemOS_20260214_211611_989_20260214_211746_95683b.png
 # [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
 Memory system for AI agents
+
+AI代理的内存系统

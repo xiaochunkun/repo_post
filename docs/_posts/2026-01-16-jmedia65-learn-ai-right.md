@@ -7,3 +7,5 @@ image: assets/jmedia65_learn_ai_right_20260115_165713_407_20260115_165728_9bb7eb
 # [jmedia65/learn-ai-right](https://github.com/jmedia65/learn-ai-right)
 
 Teaches AI development through Python and APIs
+
+通过 Python 和 API 教授 AI 开发

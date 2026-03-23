@@ -7,3 +7,5 @@ image: assets/going-doer_Paper2Code_cropped.png
 # [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code)
 
 Reads a machine learning paper and generates a code repository using AI agents
+
+读取机器学习论文，并使用 AI 代理生成代码仓库

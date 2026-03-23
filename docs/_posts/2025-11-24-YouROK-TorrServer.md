@@ -7,3 +7,5 @@ image: assets/YouROK_TorrServer_20251123_175839_798_20251124_095555_49bd15--2025
 # [YouROK/TorrServer](https://github.com/YouROK/TorrServer/)
 
 Caches and streams torrents via HTTP
+
+通过 HTTP 缓存和流式传输种子文件

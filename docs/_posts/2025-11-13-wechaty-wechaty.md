@@ -7,3 +7,5 @@ image: assets/wechaty_wechaty_20251112_051626_057_20251113_035737_483b81--202511
 # [wechaty/wechaty](https://github.com/wechaty/wechaty/)
 
 Build chatbots for WhatsApp and WeChat with one codebase
+
+使用单一代码库构建WhatsApp和微信聊天机器人

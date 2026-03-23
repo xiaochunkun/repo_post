@@ -7,3 +7,5 @@ image: assets/TortugaPower_BookPlayer_20251130_063342_393_20251130_084605_658802
 # [TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer/)
 
 Player for DRM-free audiobooks
+
+无DRM有声书播放器

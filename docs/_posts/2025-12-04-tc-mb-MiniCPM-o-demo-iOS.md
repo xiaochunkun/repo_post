@@ -7,3 +7,5 @@ image: assets/tc_mb_MiniCPM_o_demo_iOS_20251201_090935_545_20251201_091014_34648
 # [tc-mb/MiniCPM-o-demo-iOS](https://github.com/tc-mb/MiniCPM-o-demo-iOS/)
 
 Deploys MiniCPM-V 4.0 on iOS devices
+
+在iOS设备上部署MiniCPM-V 4.0

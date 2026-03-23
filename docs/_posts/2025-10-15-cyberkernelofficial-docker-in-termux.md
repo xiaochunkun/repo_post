@@ -7,3 +7,5 @@ image: assets/20251015T032209312--cyberkernelofficial--docker-in-termux--2025101
 # [cyberkernelofficial/docker-in-termux](https://github.com/cyberkernelofficial/docker-in-termux)
 
 guide for running Docker inside Termux on Android
+
+在 Android 的 Termux 中运行 Docker 的指南

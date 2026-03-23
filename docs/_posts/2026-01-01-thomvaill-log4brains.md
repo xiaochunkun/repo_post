@@ -7,3 +7,5 @@ image: assets/thomvaill_log4brains_20260101_032932_343_20260101_032948_1454d6.pn
 # [thomvaill/log4brains](https://github.com/thomvaill/log4brains/)
 
 Logs architecture decisions from the IDE to a website
+
+从IDE记录架构决策到网站

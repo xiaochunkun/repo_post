@@ -7,3 +7,5 @@ image: assets/mag37_dockcheck_cropped.png
 # [mag37/dockcheck](https://github.com/mag37/dockcheck)
 
 CLI tool for automating Docker image updates and notifications
+
+CLI工具，用于自动化Docker镜像更新和通知

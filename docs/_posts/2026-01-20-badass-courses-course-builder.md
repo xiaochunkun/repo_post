@@ -7,3 +7,5 @@ image: assets/badass_courses_course_builder_20260116_112223_588_20260116_112245_
 # [badass-courses/course-builder](https://github.com/badass-courses/course-builder)
 
 CMS for developer education products
+
+开发者教育产品的CMS

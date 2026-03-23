@@ -7,3 +7,5 @@ image: assets/xuri_excelize_wasm_20251208_000402_811_20251208_000426_e4ce74.png
 # [xuri/excelize-wasm](https://github.com/xuri/excelize-wasm/)
 
 WebAssembly build of the Go Excelize library
+
+Go Excelize库的WebAssembly构建

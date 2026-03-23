@@ -7,3 +7,5 @@ image: assets/20250829T043138422--david-tejada--rango--20250829T043716940--cropp
 # [david-tejada/rango](https://github.com/david-tejada/rango)
 
 voice control for your browser with element labels and commands
+
+用语音控制浏览器，标记元素并发出命令

@@ -7,3 +7,5 @@ image: assets/lazy_luo_smarGate_20260109_062526_707_20260109_062540_1c269d.png
 # [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate)
 
 Intranet penetration tool with multi-link aggregation
+
+内网穿透工具，支持多链路聚合

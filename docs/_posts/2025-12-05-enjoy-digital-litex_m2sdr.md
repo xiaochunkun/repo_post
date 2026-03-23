@@ -7,3 +7,5 @@ image: assets/enjoy_digital_litex_m2sdr_20251203_001750_271_20251203_001826_f6b3
 # [enjoy-digital/litex_m2sdr](https://github.com/enjoy-digital/litex_m2sdr/)
 
 M.2 SDR board with Artix-7 FPGA
+
+搭载 Artix-7 FPGA 的 M.2 SDR 板

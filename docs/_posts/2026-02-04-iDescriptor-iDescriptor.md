@@ -7,3 +7,5 @@ image: assets/iDescriptor_iDescriptor_20260202_222435_083_20260202_222510_002c99
 # [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor)
 
 Manages iDevices across platforms via C++
+
+通过 C++ 跨平台管理 iDevices

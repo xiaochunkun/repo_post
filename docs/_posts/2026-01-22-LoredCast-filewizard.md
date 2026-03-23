@@ -7,3 +7,5 @@ image: assets/LoredCast_filewizard_20260122_005535_746_20260122_005552_061732.pn
 # [LoredCast/filewizard](https://github.com/LoredCast/filewizard)
 
 Converts files, performs OCR, and transcribes audio in a browser
+
+在浏览器中转换文件、执行OCR和转录音频

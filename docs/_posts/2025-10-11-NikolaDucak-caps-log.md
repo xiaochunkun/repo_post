@@ -7,3 +7,5 @@ image: assets/20251010T205457300--NikolaDucak--caps-log--20251010T210451200--cro
 # [NikolaDucak/caps-log](https://github.com/NikolaDucak/caps-log)
 
 terminal journal with calendar view, markdown entries, git sync and encryption
+
+带有日历视图、Markdown 条目、git 同步和加密的终端日志

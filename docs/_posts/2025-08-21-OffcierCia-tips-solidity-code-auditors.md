@@ -7,3 +7,5 @@ image: assets/20250820T131355445_OffcierCia_tips-solidity-code-auditors--2025082
 # [OffcierCia/tips-solidity-code-auditors](https://github.com/OffcierCia/tips-solidity-code-auditors)
 
 tips and tools for solidity smart contract auditors
+
+Solidity 智能合约审计的技巧和工具集

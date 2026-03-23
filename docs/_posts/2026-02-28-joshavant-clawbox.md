@@ -7,3 +7,5 @@ image: assets/joshavant_clawbox_20260217_165144_782_20260217_165210_da38b4.png
 # [joshavant/clawbox](https://github.com/joshavant/clawbox)
 
 Deploys macOS virtual machines for OpenClaw
+
+为OpenClaw部署macOS虚拟机

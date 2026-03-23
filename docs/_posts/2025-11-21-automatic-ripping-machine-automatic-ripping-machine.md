@@ -7,3 +7,5 @@ image: assets/automatic_ripping_machine_automatic_ripping_machine_20251121_06572
 # [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine/)
 
 Automates optical disc ripping and transcoding
+
+自动化光盘抓取与转码

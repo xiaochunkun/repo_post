@@ -7,3 +7,5 @@ image: assets/josdejong_jsonrepair_cropped.png
 # [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair)
 
 fixes broken JSON automatically
+
+自动修复损坏的JSON

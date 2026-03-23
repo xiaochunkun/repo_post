@@ -7,3 +7,5 @@ image: assets/20250925T045209484--Radarr--Radarr--20250925T045723384--cropped.pn
 # [Radarr/Radarr](https://github.com/Radarr/Radarr)
 
 Automates movie downloads, sorting, and upgrades for your collection
+
+自动化电影下载、排序和升级，用于您的收藏

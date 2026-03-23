@@ -7,3 +7,5 @@ image: assets/flexn_io_renative_20260122_080324_539_20260122_080418_b8d84d.png
 # [flexn-io/renative](https://github.com/flexn-io/renative)
 
 Deploys apps across mobile, web, and TV platforms from a codebase
+
+从一个代码库部署应用到移动、Web 和 TV 平台

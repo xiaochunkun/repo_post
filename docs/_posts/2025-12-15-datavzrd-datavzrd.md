@@ -7,3 +7,5 @@ image: assets/datavzrd_datavzrd_20251213_114818_352_20251213_114843_217c8e.png
 # [datavzrd/datavzrd](https://github.com/datavzrd/datavzrd/)
 
 Creates visual HTML reports from tabular data
+
+从表格数据创建可视化 HTML 报告

@@ -7,3 +7,5 @@ image: assets/mosdehcom_neuralagent_20251105_133635_338_20251105_210749_9f85f3--
 # [mosdehcom/neuralagent](https://github.com/mosdehcom/neuralagent/)
 
 Open source AI assistant for desktop automation
+
+用于桌面自动化的开源 AI 助手

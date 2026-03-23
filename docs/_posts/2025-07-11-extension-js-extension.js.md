@@ -7,3 +7,5 @@ image: assets/extension-js_extension.js_cropped.png
 # [extension-js/extension.js](https://github.com/extension-js/extension.js)
 
 utility functions for JavaScript projects
+
+JavaScript项目的实用函数

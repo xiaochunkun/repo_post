@@ -7,3 +7,5 @@ image: assets/20251001T205935749--TheJoeFin--Text-Grab--20251001T211146011--crop
 # [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
 grab text from anywhere on your screen using OCR
+
+使用 OCR 从屏幕任意位置抓取文本

@@ -7,3 +7,5 @@ image: assets/BasedHardware_omi_cropped.png
 # [BasedHardware/omi](https://github.com/BasedHardware/omi)
 
 open-source AI wearable that transcribes conversations and summarizes meetings
+
+开源AI可穿戴设备，用于转录对话和总结会议

@@ -7,3 +7,5 @@ image: assets/instructa_ai-prompts_cropped.png
 # [instructa/ai-prompts](https://github.com/instructa/ai-prompts)
 
 curated prompts for AI coding tools
+
+精选的 AI 编码工具提示

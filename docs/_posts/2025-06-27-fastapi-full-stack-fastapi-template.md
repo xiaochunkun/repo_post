@@ -7,3 +7,5 @@ image: assets/fastapi_full-stack-fastapi-template_cropped.png
 # [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)
 
 Full stack project starter with FastAPI,React, SQLModel, PostgreSQL, Docker, and GitHub Actions
+
+全栈项目启动器，包含 FastAPI、React、SQLModel、PostgreSQL、Docker 和 GitHub Actions

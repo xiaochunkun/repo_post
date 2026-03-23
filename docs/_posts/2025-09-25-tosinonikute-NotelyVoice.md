@@ -7,3 +7,5 @@ image: assets/20250925T045748484--tosinonikute--NotelyVoice--20250925T051836474-
 # [tosinonikute/NotelyVoice](https://github.com/tosinonikute/NotelyVoice)
 
 AI voice transcription and note-taking app with privacy focus
+
+注重隐私的AI语音转录和笔记应用

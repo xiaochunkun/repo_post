@@ -7,3 +7,5 @@ image: assets/xournalpp_xournalpp_cropped.png
 # [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
 
 handwriting note-taking and PDF markup tool for desktops
+
+桌面手写笔记和PDF标记工具

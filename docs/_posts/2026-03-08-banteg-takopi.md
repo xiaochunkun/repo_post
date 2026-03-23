@@ -7,3 +7,5 @@ image: assets/banteg_takopi_20260223_015836_268_20260223_015908_682a51.png
 # [banteg/takopi](https://github.com/banteg/takopi)
 
 Telegram bridge for agent sessions
+
+智能体会话的Telegram桥接

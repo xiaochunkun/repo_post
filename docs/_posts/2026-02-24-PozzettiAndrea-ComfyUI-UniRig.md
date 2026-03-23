@@ -7,3 +7,5 @@ image: assets/PozzettiAndrea_ComfyUI_UniRig_20260224_190605_281_20260224_190658_
 # [PozzettiAndrea/ComfyUI-UniRig](https://github.com/PozzettiAndrea/ComfyUI-UniRig)
 
 Extracts skeletons and rigs meshes for character animation
+
+提取骨骼和绑定网格用于角色动画

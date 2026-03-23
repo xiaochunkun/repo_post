@@ -7,3 +7,5 @@ image: assets/looplj_axonhub_20260222_112854_491_20260222_112936_da8a4e.png
 # [looplj/axonhub](https://github.com/looplj/axonhub)
 
 Gateway for LLM APIs with failover and load balancing
+
+具有故障转移和负载均衡的 LLM API 网关

@@ -7,3 +7,5 @@ image: assets/20250820T132649369_dohsimpson_TaskTrove--20250820T135611032--cropp
 # [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove)
 
 self-hosted task manager focused on privacy
+
+注重隐私的自托管任务管理工具

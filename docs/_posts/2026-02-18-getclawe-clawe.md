@@ -7,3 +7,5 @@ image: assets/getclawe_clawe_20260211_111438_850_20260211_111500_49eaa0.png
 # [getclawe/clawe](https://github.com/getclawe/clawe)
 
 Coordinates AI agents through shared files and a dashboard
+
+通过共享文件和仪表板协调 AI 代理

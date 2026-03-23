@@ -7,3 +7,5 @@ image: assets/shrimqy_Sefirah-Android--20250816T013731949--cropped.png
 # [shrimqy/Sefirah-Android](https://github.com/shrimqy/Sefirah-Android)
 
 clipboard and notification sharing between Android and Windows
+
+Android 和 Windows 之间的剪贴板和通知共享

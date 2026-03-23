@@ -7,3 +7,5 @@ image: assets/OSU_NLP_Group_SeeAct_20260228_132033_637_20260228_132236_979464.pn
 # [OSU-NLP-Group/SeeAct](https://github.com/OSU-NLP-Group/SeeAct)
 
 Web agent for tasks on live websites
+
+用于实时网站任务的 Web 代理

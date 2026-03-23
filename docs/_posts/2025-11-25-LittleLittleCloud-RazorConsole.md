@@ -7,3 +7,5 @@ image: assets/LittleLittleCloud_RazorConsole_20251123_180716_882_20251124_095933
 # [LittleLittleCloud/RazorConsole](https://github.com/LittleLittleCloud/RazorConsole/)
 
 Builds console applications using Razor components
+
+使用 Razor 组件构建控制台应用

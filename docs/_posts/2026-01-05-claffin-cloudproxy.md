@@ -7,3 +7,5 @@ image: assets/claffin_cloudproxy_20260104_071534_876_20260104_071551_92759e.png
 # [claffin/cloudproxy](https://github.com/claffin/cloudproxy/)
 
 Hides scrapers behind cloud providers
+
+将爬虫隐藏在云提供商后面

@@ -7,3 +7,5 @@ image: assets/felipeDS91_whatsapp_api_20260103_035410_690_20260103_035425_68247f
 # [felipeDS91/whatsapp-api](https://github.com/felipeDS91/whatsapp-api/)
 
 REST API for sending WhatsApp messages
+
+发送WhatsApp消息的REST API

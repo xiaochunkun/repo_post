@@ -7,3 +7,5 @@ image: assets/nicebucket_org_nicebucket_20251027_012127_503_20251027_014757_7a8d
 # [nicebucket-org/nicebucket](https://github.com/nicebucket-org/nicebucket/)
 
 S3 GUI built with Tauri
+
+使用 Tauri 构建的 S3 GUI

@@ -7,3 +7,5 @@ image: assets/skypilot_org_skypilot_20260111_091344_968_20260111_091400_4eb052.p
 # [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
 
 Runs AI workloads on any infrastructure
+
+在任何基础设施上运行AI工作负载

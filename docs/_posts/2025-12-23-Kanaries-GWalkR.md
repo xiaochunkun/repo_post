@@ -7,3 +7,5 @@ image: assets/Kanaries_GWalkR_20251222_102921_735_20251222_102941_fa41b1.png
 # [Kanaries/GWalkR](https://github.com/Kanaries/GWalkR/)
 
 Turns data frames into interactive interfaces for exploration in R
+
+将数据框转换为 R 中的交互式探索界面

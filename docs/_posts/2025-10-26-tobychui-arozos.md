@@ -7,3 +7,5 @@ image: assets/tobychui_arozos_20251025_113644_958_20251025_223519_7c96a6--202510
 # [tobychui/arozos](https://github.com/tobychui/arozos/)
 
 Web desktop operating system for low power devices
+
+适用于低功耗设备的Web桌面操作系统

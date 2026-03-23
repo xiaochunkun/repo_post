@@ -7,3 +7,5 @@ image: assets/Belval_TextRecognitionDataGenerator_20251205_020650_804_20251205_0
 # [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator/)
 
 Generates synthetic text images for OCR training
+
+生成用于OCR训练的合成文本图像

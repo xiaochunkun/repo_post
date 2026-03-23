@@ -7,3 +7,5 @@ image: assets/AjayAntoIsDev_WaSonar_20260113_105259_309_20260113_105316_48a6a7.p
 # [AjayAntoIsDev/WaSonar](https://github.com/AjayAntoIsDev/WaSonar)
 
 Tracks device status and probes latency on WhatsApp protocol
+
+追踪设备状态并探测WhatsApp协议的延迟

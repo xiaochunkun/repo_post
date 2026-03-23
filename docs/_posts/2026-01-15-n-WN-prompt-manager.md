@@ -7,3 +7,5 @@ image: assets/n_WN_prompt_manager_20260114_104320_915_20260114_104334_aab83b.png
 # [n-WN/prompt-manager](https://github.com/n-WN/prompt-manager)
 
 TUI to search and manage prompts from AI coding assistants
+
+用于搜索和管理 AI 编程助手提示的 TUI

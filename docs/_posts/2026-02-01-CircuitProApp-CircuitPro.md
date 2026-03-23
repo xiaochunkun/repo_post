@@ -7,3 +7,5 @@ image: assets/CircuitProApp_CircuitPro_20260131_195742_914_20260131_195819_3e71b
 # [CircuitProApp/CircuitPro](https://github.com/CircuitProApp/CircuitPro)
 
 PCB design tool for macOS
+
+macOS 的 PCB 设计工具

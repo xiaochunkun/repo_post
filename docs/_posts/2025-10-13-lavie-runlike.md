@@ -7,3 +7,5 @@ image: assets/20251013T000156182--lavie--runlike--20251013T000823208--cropped.pn
 # [lavie/runlike](https://github.com/lavie/runlike)
 
 reverse engineer docker run commands from existing containers
+
+从现有容器反向生成 Docker run 命令

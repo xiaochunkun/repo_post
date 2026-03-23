@@ -7,3 +7,5 @@ image: assets/RapidAI_RapidOCR_20260129_044752_028_20260129_044828_fd07da.png
 # [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR)
 
 OCR tool for multiple platforms and languages
+
+多平台和语言的OCR工具

@@ -7,3 +7,5 @@ image: assets/basicmachines_co_basic_memory_20251026_233651_098_20251027_002425_
 # [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory/)
 
 Builds knowledge through conversations with LLMs
+
+通过与 LLM 对话构建知识

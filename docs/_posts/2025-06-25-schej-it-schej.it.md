@@ -7,3 +7,5 @@ image: assets/schej-it_schej.it_cropped.png
 # [schej-it/schej.it](https://github.com/schej-it/schej.it)
 
 find a time slot for group meetings
+
+为小组会议寻找时间槽

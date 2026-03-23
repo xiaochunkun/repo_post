@@ -7,3 +7,5 @@ image: assets/apirrone_Open_Duck_Mini_20260316_033347_030_20260316_033423_00508b
 # [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini)
 
 BDX Droid robot hardware and software
+
+BDX Droid机器人硬件和软件

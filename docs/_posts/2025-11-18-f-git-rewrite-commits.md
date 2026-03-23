@@ -7,3 +7,5 @@ image: assets/f_git_rewrite_commits_20251118_022307_456_20251118_024940_054957--
 # [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits/)
 
 Rewrites git commit history with conventional commit messages using AI
+
+使用AI重写git提交历史，采用约定式提交消息

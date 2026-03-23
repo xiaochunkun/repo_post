@@ -7,3 +7,5 @@ image: assets/HKUDS_OpenPhone_20260121_235729_080_20260121_235756_881fac.png
 # [HKUDS/OpenPhone](https://github.com/HKUDS/OpenPhone)
 
 Agentic foundation model for smartphone interaction
+
+智能手机交互的代理式基础模型

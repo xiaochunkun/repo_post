@@ -7,3 +7,5 @@ image: assets/budtmo_docker_android_20251018_040459_650_20251018_041813--2025101
 # [budtmo/docker-android](https://github.com/budtmo/docker-android/)
 
 Docker image for Android development and testing
+
+用于Android开发和测试的Docker镜像

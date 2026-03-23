@@ -7,3 +7,5 @@ image: assets/20250816T004903175_onhexgroup_Vulnerable-WordPress--20250816T01081
 # [onhexgroup/Vulnerable-WordPress](https://github.com/onhexgroup/Vulnerable-WordPress)
 
 collection of vulnerable wordpress plugins for security testing
+
+用于安全测试的易受攻击WordPress插件集合

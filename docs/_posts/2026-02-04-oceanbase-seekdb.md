@@ -7,3 +7,5 @@ image: assets/oceanbase_seekdb_20260203_003457_982_20260203_003515_8ec48e.png
 # [oceanbase/seekdb](https://github.com/oceanbase/seekdb)
 
 Unifies vector and text data in a search engine
+
+在搜索引擎中统一向量和文本数据

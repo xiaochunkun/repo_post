@@ -7,3 +7,5 @@ image: assets/TanStack_ai_20260319_060744_993_20260319_060823_e53e17.png
 # [TanStack/ai](https://github.com/TanStack/ai)
 
 Type-safe AI SDK for building apps
+
+用于构建应用的类型安全AI SDK

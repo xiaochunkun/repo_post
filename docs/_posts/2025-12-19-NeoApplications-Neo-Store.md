@@ -7,3 +7,5 @@ image: assets/NeoApplications_Neo_Store_20251217_221751_876_20251217_221842_b25e
 # [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store/)
 
 F-Droid client with built-in repositories and privacy panel
+
+内置仓库和隐私面板的 F-Droid 客户端

@@ -7,3 +7,5 @@ image: assets/20250923T020159053--maplibre--maplibre-gl-js--20250923T020733276--
 # [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
 
 open-source JavaScript library for interactive maps in web apps
+
+用于 Web 应用中交互式地图的开源 JavaScript 库

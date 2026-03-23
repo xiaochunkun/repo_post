@@ -7,3 +7,5 @@ image: assets/ThomasAribart_json-schema-to-ts_cropped.png
 # [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts)
 
 infer TypeScript types from JSON Schema
+
+从 JSON Schema 推断 TypeScript 类型

@@ -7,3 +7,5 @@ image: assets/HemmeligOrg_Hemmelig_app_20251112_061950_750_20251113_035908_52b07
 # [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app/)
 
 Share secrets with client-side encryption
+
+使用客户端加密分享秘密

@@ -7,3 +7,5 @@ image: assets/josStorer_chatGPTBox_cropped.png
 # [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox)
 
 Browser extension that integrates ChatGPT into your browsing experience
+
+将 ChatGPT 集成到浏览体验中的浏览器扩展

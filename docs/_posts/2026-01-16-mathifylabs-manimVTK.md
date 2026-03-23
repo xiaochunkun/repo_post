@@ -7,3 +7,5 @@ image: assets/mathifylabs_manimVTK_20260115_110119_936_20260115_110141_e8ca22.pn
 # [mathifylabs/manimVTK](https://github.com/mathifylabs/manimVTK)
 
 Exports mathematical animations as assets for scientific visualization
+
+将数学动画导出为科学可视化资产

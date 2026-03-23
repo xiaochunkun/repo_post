@@ -7,3 +7,5 @@ image: assets/sitraorg_sitra_20260212_133729_082_20260212_133748_c12c2c.png
 # [sitraorg/sitra](https://github.com/sitraorg/sitra)
 
 Installs and previews fonts from online sources
+
+从在线源安装和预览字体

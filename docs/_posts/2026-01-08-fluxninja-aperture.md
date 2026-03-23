@@ -7,3 +7,5 @@ image: assets/fluxninja_aperture_20251223_024432_067_20251223_024452_535b57.png
 # [fluxninja/aperture](https://github.com/fluxninja/aperture/)
 
 Load management platform for rate limiting and caching
+
+用于速率限制和缓存的负载管理平台

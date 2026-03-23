@@ -7,3 +7,5 @@ image: assets/muhammedaksam_waha_tui_20260126_040427_141_20260126_040511_1bf8c0.
 # [muhammedaksam/waha-tui](https://github.com/muhammedaksam/waha-tui)
 
 Terminal interface for WhatsApp via WAHA
+
+通过WAHA访问WhatsApp的终端界面

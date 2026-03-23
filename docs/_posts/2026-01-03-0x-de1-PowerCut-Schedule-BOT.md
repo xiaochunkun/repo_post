@@ -7,3 +7,5 @@ image: assets/0x_de1_PowerCut_Schedule_BOT_20260102_084312_276_20260102_084327_0
 # [0x-de1/PowerCut-Schedule-BOT](https://github.com/0x-de1/PowerCut-Schedule-BOT/)
 
 Sends power cut schedules via WhatsApp messages
+
+通过 WhatsApp 消息发送停电计划

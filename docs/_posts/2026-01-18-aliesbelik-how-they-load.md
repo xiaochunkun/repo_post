@@ -7,3 +7,5 @@ image: assets/aliesbelik_how_they_load_20260117_112033_497_20260117_112049_4ec76
 # [aliesbelik/how-they-load](https://github.com/aliesbelik/how-they-load)
 
 Resources on load testing at technology companies
+
+科技公司负载测试资源

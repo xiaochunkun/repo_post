@@ -7,3 +7,5 @@ image: assets/vivid_labs_vivid_landing_template_20260130_214238_435_20260130_214
 # [vivid-labs/vivid-landing-template](https://github.com/vivid-labs/vivid-landing-template)
 
 Landing page template with React and Tailwind CSS
+
+使用 React 和 Tailwind CSS 的落地页模板

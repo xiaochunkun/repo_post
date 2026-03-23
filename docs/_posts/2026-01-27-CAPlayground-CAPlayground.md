@@ -7,3 +7,5 @@ image: assets/CAPlayground_CAPlayground_20260113_004432_212_20260113_004451_d4b6
 # [CAPlayground/CAPlayground](https://github.com/CAPlayground/CAPlayground)
 
 Core Animation editor for iOS wallpapers
+
+用于iOS壁纸的Core Animation编辑器

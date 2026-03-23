@@ -7,3 +7,5 @@ image: assets/netdata_netdata_cropped.png
 # [netdata/netdata](https://github.com/netdata/netdata)
 
 collects and shows system, app, and infrastructure metrics in real time
+
+实时收集和显示系统、应用和基础设施指标

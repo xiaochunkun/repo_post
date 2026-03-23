@@ -7,3 +7,5 @@ image: assets/Tbeninnovation_Baiss_20251223_054952_723_20251223_055009_e2928c.pn
 # [Tbeninnovation/Baiss](https://github.com/Tbeninnovation/Baiss/)
 
 Runs LLMs and RAG locally on desktops
+
+在桌面上本地运行LLM和RAG

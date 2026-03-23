@@ -7,3 +7,5 @@ image: assets/apoorvnandan_tensor_h_20251224_182731_614_20251224_182749_59d93b.p
 # [apoorvnandan/tensor.h](https://github.com/apoorvnandan/tensor.h/)
 
 Neural network library in C from scratch
+
+用 C 语言从头实现的神经网络库

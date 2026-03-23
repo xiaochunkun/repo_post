@@ -7,3 +7,5 @@ image: assets/WebsiteBeaver_capacitor_document_scanner_20260207_121557_863_20260
 # [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner)
 
 Scans documents on Android and iOS
+
+在 Android 和 iOS 上扫描文档

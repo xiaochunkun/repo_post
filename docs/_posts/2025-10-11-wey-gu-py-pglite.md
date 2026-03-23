@@ -7,3 +7,5 @@ image: assets/20251010T211926802--wey-gu--py-pglite--20251010T212713040--cropped
 # [wey-gu/py-pglite](https://github.com/wey-gu/py-pglite)
 
 test postgres like sqlite, no docker needed
+
+像 SQLite 一样测试 PostgreSQL，无需 Docker

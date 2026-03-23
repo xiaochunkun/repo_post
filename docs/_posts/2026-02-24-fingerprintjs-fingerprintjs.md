@@ -7,3 +7,5 @@ image: assets/fingerprintjs_fingerprintjs_20260203_023841_881_20260203_023857_60
 # [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
 
 Identifies visitors across browser sessions and incognito mode
+
+跨浏览器会话和无痕模式识别访客

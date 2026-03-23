@@ -7,3 +7,5 @@ image: assets/charmbracelet_mods_20260204_141323_012_20260204_141341_92d16c.png
 # [charmbracelet/mods](https://github.com/charmbracelet/mods)
 
 Pipes command output into LLMs
+
+将命令输出管道传输到 LLM

@@ -7,3 +7,5 @@ image: assets/caronc_apprise_cropped.png
 # [caronc/apprise](https://github.com/caronc/apprise)
 
 Notification tool for sending messages to various services
+
+用于向各种服务发送消息的通知工具

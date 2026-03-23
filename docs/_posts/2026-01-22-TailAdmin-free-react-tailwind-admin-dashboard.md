@@ -7,3 +7,5 @@ image: assets/TailAdmin_free_react_tailwind_admin_dashboard_20260121_012540_952_
 # [TailAdmin/free-react-tailwind-admin-dashboard](https://github.com/TailAdmin/free-react-tailwind-admin-dashboard)
 
 Admin dashboard template using React 19 and Tailwind CSS v4
+
+使用React 19和Tailwind CSS v4的管理仪表板模板

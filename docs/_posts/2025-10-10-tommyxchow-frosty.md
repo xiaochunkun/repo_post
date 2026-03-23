@@ -7,3 +7,5 @@ image: assets/20251010T065504444--tommyxchow--frosty--20251010T070933578--croppe
 # [tommyxchow/frosty](https://github.com/tommyxchow/frosty)
 
 mobile Twitch app that actually shows 7TV, BTTV, and FFZ emotes instead of text codes
+
+移动端 Twitch 应用，实际显示 7TV、BTTV 和 FFZ 表情，而非文本代码

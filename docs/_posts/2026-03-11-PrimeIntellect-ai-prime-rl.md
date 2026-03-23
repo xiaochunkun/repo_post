@@ -7,3 +7,5 @@ image: assets/PrimeIntellect_ai_prime_rl_20260309_110524_606_20260309_110736_211
 # [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl)
 
 Framework for asynchronous reinforcement learning training at scale
+
+大规模异步强化学习训练框架

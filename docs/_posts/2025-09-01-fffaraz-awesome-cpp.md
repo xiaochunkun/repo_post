@@ -7,3 +7,5 @@ image: assets/20250830T185455646--fffaraz--awesome-cpp--20250830T185739676--crop
 # [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 
 curated list of C++ libraries, frameworks, and tools
+
+C++ 库、框架和工具精选列表

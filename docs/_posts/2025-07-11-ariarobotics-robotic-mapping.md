@@ -7,3 +7,5 @@ image: assets/ariarobotics_robotic-mapping_cropped.png
 # [ariarobotics/robotic-mapping](https://github.com/ariarobotics/robotic-mapping)
 
 robot mapping course materials and SLAM projects
+
+机器人映射课程材料和SLAM项目

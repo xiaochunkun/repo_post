@@ -7,3 +7,5 @@ image: assets/kernc_backtesting_py_20251122_075101_286_20251122_111358_838783--2
 # [kernc/backtesting.py](https://github.com/kernc/backtesting.py/)
 
 Backtests trading strategies in Python
+
+用 Python 回测交易策略

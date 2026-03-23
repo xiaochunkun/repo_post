@@ -7,3 +7,5 @@ image: assets/presentator_presentator_20260209_011951_848_20260209_012029_4f78f6
 # [presentator/presentator](https://github.com/presentator/presentator)
 
 Design feedback and presentation platform
+
+设计反馈和演示平台

@@ -7,3 +7,5 @@ image: assets/anliyuan_Ultralight-Digital-Human_cropped.png
 # [anliyuan/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)
 
 Digital human model for real-time use on mobile devices
+
+适用于移动设备实时使用的数字人模型

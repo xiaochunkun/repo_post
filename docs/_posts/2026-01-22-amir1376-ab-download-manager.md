@@ -7,3 +7,5 @@ image: assets/amir1376_ab_download_manager_20260121_232901_395_20260121_232918_c
 # [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
 Speeds up downloads across platforms
+
+跨平台加速下载

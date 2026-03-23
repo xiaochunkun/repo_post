@@ -7,3 +7,5 @@ image: assets/QwenLM_qwen_code_20260318_102355_422_20260318_102454_69457f.png
 # [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 Terminal AI agent for coding
+
+用于编码的终端AI代理

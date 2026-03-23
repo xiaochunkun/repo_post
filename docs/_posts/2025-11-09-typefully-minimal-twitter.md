@@ -7,3 +7,5 @@ image: assets/typefully_minimal_twitter_20251109_162047_510_20251109_163853_61b1
 # [typefully/minimal-twitter](https://github.com/typefully/minimal-twitter/)
 
 Browser extension to declutter the Twitter interface
+
+简化Twitter界面的浏览器扩展

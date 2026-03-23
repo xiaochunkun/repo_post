@@ -7,3 +7,5 @@ image: assets/JayZeeDesign_ManyMany_dev_20251126_012305_756_20251129_022008_77cd
 # [JayZeeDesign/ManyMany.dev](https://github.com/JayZeeDesign/ManyMany.dev/)
 
 Desktop app for managing Git worktrees
+
+用于管理Git工作树的桌面应用

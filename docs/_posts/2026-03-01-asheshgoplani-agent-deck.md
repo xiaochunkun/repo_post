@@ -7,3 +7,5 @@ image: assets/asheshgoplani_agent_deck_20260227_062015_133_20260227_062155_db8a1
 # [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
 
 Terminal session manager for AI coding agents
+
+AI编码代理的终端会话管理器

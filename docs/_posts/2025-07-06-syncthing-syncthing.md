@@ -7,3 +7,5 @@ image: assets/syncthing_syncthing_cropped.png
 # [syncthing/syncthing](https://github.com/syncthing/syncthing)
 
 peer-to-peer file sync between devices
+
+设备间的点对点文件同步

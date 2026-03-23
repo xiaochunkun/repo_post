@@ -7,3 +7,5 @@ image: assets/qemus_qemu_20251112_070931_801_20251113_035950_7dfc88--20251113T05
 # [qemus/qemu](https://github.com/qemus/qemu/)
 
 Run virtual machines in a Docker container
+
+在 Docker 容器中运行虚拟机

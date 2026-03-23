@@ -7,3 +7,5 @@ image: assets/ai_robots_txt_ai_robots_txt_20260114_081059_909_20260114_081112_6e
 # [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
 
 Blocks AI crawlers from websites
+
+阻止AI爬虫访问网站

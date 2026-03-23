@@ -7,3 +7,5 @@ image: assets/ccbrown_cloud-snitch_cropped.png
 # [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch)
 
 visualizes AWS activity like Little Snitch firewall
+
+可视化AWS活动，类似Little Snitch防火墙

@@ -7,3 +7,5 @@ image: assets/iBotPeaches_Apktool_cropped.png
 # [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
 
 Tool for reverse engineering Android apps
+
+用于逆向工程Android应用的工具

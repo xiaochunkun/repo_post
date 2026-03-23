@@ -7,3 +7,5 @@ image: assets/browserstack_mcp_server_20260115_195937_199_20260115_195952_2284a8
 # [browserstack/mcp-server](https://github.com/browserstack/mcp-server)
 
 Executes tests through AI tools via MCP
+
+通过MCP使用AI工具执行测试

@@ -7,3 +7,5 @@ image: assets/harry0703_MoneyPrinterTurbo_cropped.png
 # [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 AI video generator
+
+AI视频生成器

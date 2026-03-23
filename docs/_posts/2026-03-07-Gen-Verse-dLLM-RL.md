@@ -7,3 +7,5 @@ image: assets/Gen_Verse_dLLM_RL_20260304_172053_298_20260304_172230_22aa50.png
 # [Gen-Verse/dLLM-RL](https://github.com/Gen-Verse/dLLM-RL)
 
 Framework for reinforcement learning on diffusion language models
+
+用于扩散语言模型强化学习的框架

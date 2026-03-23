@@ -7,3 +7,5 @@ image: assets/berty_berty_20260121_231050_388_20260121_231134_c7b497.png
 # [berty/berty](https://github.com/berty/berty)
 
 Messaging app for communication without internet access
+
+无需互联网访问的通信消息应用

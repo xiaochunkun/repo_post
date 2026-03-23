@@ -7,3 +7,5 @@ image: assets/AI4Finance_Foundation_FinRL_Tutorials_20260112_044109_229_20260112
 # [AI4Finance-Foundation/FinRL-Tutorials](https://github.com/AI4Finance-Foundation/FinRL-Tutorials)
 
 Tutorials for reinforcement learning in finance
+
+金融强化学习教程

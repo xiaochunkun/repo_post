@@ -7,3 +7,5 @@ image: assets/Kometa_Team_Kometa_20251120_071300_422_20251121_055128_2dbd0d--202
 # [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa/)
 
 Updates Plex metadata and builds collections
+
+更新 Plex 元数据并构建收藏

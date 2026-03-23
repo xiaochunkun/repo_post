@@ -7,3 +7,5 @@ image: assets/20250927T040155790--Qovery--Replibyte--20250927T041319193--cropped
 # [Qovery/Replibyte](https://github.com/Qovery/Replibyte)
 
 Tool for seeding dev databases with production data while masking sensitive info
+
+用生产数据填充开发数据库的工具，同时屏蔽敏感信息

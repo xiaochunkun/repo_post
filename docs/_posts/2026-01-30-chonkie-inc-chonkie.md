@@ -7,3 +7,5 @@ image: assets/chonkie_inc_chonkie_20260129_025352_060_20260129_025441_2e6704.png
 # [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie)
 
 Chunks text for RAG pipelines
+
+为 RAG 管道分块文本

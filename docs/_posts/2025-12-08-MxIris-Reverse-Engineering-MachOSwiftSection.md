@@ -7,3 +7,5 @@ image: assets/MxIris_Reverse_Engineering_MachOSwiftSection_20251207_171309_554_2
 # [MxIris-Reverse-Engineering/MachOSwiftSection](https://github.com/MxIris-Reverse-Engineering/MachOSwiftSection/)
 
 Parses Mach-O files to extract Swift type information
+
+解析 Mach-O 文件以提取 Swift 类型信息

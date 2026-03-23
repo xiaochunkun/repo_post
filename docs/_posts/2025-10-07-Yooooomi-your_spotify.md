@@ -7,3 +7,5 @@ image: assets/20251007T015400340--Yooooomi--your_spotify--20251007T021852662--cr
 # [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify)
 
 self-hosted dashboard for Spotify listening stats
+
+自托管 Spotify 收听统计仪表盘

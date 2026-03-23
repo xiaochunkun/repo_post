@@ -7,3 +7,5 @@ image: assets/JayLZhou_GraphRAG_20251231_023728_947_20251231_023745_c5bb32.png
 # [JayLZhou/GraphRAG](https://github.com/JayLZhou/GraphRAG/)
 
 Modularizes and decouples graph-based retrieval-augmented generation methods
+
+模块化并解耦基于图的检索增强生成方法

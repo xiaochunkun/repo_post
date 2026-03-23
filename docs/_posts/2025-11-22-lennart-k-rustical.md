@@ -7,3 +7,5 @@ image: assets/lennart_k_rustical_20251121_135310_384_20251122_034157_fbdd09--202
 # [lennart-k/rustical](https://github.com/lennart-k/rustical/)
 
 CalDAV and CardDAV server in Rust
+
+Rust 编写的 CalDAV 和 CardDAV 服务器

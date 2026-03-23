@@ -7,3 +7,5 @@ image: assets/oauth2-proxy_oauth2-proxy_cropped.png
 # [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 reverse proxy for authentication using external identity providers
+
+使用外部身份提供商进行身份验证的反向代理

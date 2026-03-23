@@ -7,3 +7,5 @@ image: assets/aithing_lab_aithing_mac_20260123_002453_292_20260123_002509_e94f7f
 # [aithing-lab/aithing-mac](https://github.com/aithing-lab/aithing-mac)
 
 Automates tasks with agents on a schedule
+
+按计划使用智能体自动化任务

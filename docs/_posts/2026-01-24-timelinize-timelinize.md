@@ -7,3 +7,5 @@ image: assets/timelinize_timelinize_20260122_022954_062_20260122_023046_19b020.p
 # [timelinize/timelinize](https://github.com/timelinize/timelinize)
 
 Aggregates personal data into a timeline on a local computer
+
+在本地计算机上将个人数据聚合为时间线

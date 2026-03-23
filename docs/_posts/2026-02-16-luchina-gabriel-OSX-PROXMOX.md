@@ -7,3 +7,5 @@ image: assets/luchina_gabriel_OSX_PROXMOX_20260210_163403_069_20260210_163421_9b
 # [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)
 
 Installs macOS on Proxmox VE
+
+在 Proxmox VE 上安装 macOS

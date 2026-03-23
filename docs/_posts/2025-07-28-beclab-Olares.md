@@ -7,3 +7,5 @@ image: assets/beclab_Olares_cropped.png
 # [beclab/Olares](https://github.com/beclab/Olares)
 
 turn your hardware into a local AI server with Olares
+
+使用 Olares 将硬件转换为本地 AI 服务器

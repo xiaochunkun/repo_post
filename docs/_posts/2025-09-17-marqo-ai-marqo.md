@@ -7,3 +7,5 @@ image: assets/20250917T010832278--marqo-ai--marqo--20250917T010928185--cropped.p
 # [marqo-ai/marqo](https://github.com/marqo-ai/marqo)
 
 end-to-end vector search engine for text and images, handles embeddings and search out of the box
+
+面向文本和图像的端到端向量搜索引擎，开箱即用处理嵌入和搜索

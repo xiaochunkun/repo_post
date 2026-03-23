@@ -7,3 +7,5 @@ image: assets/ankane_lockbox_20251203_013842_757_20251203_013904_bb69cc.png
 # [ankane/lockbox](https://github.com/ankane/lockbox/)
 
 Encryption for Ruby and Rails
+
+Ruby和Rails的加密工具

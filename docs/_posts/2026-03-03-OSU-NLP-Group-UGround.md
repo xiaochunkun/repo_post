@@ -7,3 +7,5 @@ image: assets/OSU_NLP_Group_UGround_20260228_205130_339_20260228_205316_059207.p
 # [OSU-NLP-Group/UGround](https://github.com/OSU-NLP-Group/UGround)
 
 Grounds GUI agents across platforms
+
+跨平台 GUI 代理的接地

@@ -7,3 +7,5 @@ image: assets/agentset_ai_agentset_20260224_231758_368_20260224_231919_a4cac6.pn
 # [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
 
 Platform for RAG and agentic applications
+
+RAG和智能体应用平台

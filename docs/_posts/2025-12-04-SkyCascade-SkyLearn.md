@@ -7,3 +7,5 @@ image: assets/SkyCascade_SkyLearn_20251202_201340_463_20251202_201408_480455.png
 # [SkyCascade/SkyLearn](https://github.com/SkyCascade/SkyLearn/)
 
 Open source learning management system built with Django
+
+基于Django构建的开源学习管理系统

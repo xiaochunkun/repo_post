@@ -7,3 +7,5 @@ image: assets/metehan777_google-search-console-mcp--20250817T075909900--cropped.
 # [metehan777/google-search-console-mcp](https://github.com/metehan777/google-search-console-mcp)
 
 connect Claude AI to Google Search Console data
+
+将 Claude AI 连接到 Google Search Console 数据

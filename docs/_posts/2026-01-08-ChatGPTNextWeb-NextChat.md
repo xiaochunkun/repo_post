@@ -7,3 +7,5 @@ image: assets/ChatGPTNextWeb_NextChat_20260108_043547_689_20260108_043602_b96331
 # [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 Cross-platform AI assistant with support for multiple models
+
+跨平台 AI 助手，支持多种模型

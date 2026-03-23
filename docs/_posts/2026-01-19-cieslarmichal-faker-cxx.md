@@ -7,3 +7,5 @@ image: assets/cieslarmichal_faker_cxx_20260114_030757_553_20260114_030812_34320f
 # [cieslarmichal/faker-cxx](https://github.com/cieslarmichal/faker-cxx)
 
 Generates data for C++ developers
+
+为C++开发者生成数据

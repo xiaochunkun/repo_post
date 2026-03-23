@@ -7,3 +7,5 @@ image: assets/robertdavidgraham_masscan_20260103_201954_540_20260103_202018_2fa8
 # [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan/)
 
 Scans the Internet in under five minutes
+
+五分钟内扫描整个互联网

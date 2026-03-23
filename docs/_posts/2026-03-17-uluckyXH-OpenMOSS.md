@@ -7,3 +7,5 @@ image: assets/uluckyXH_OpenMOSS_20260316_221518_538_20260316_221539_069704.png
 # [uluckyXH/OpenMOSS](https://github.com/uluckyXH/OpenMOSS)
 
 Self-organizing multi-agent system for OpenClaw
+
+OpenClaw的自组织多智能体系统

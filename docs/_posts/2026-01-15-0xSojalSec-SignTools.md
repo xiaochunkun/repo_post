@@ -7,3 +7,5 @@ image: assets/0xSojalSec_SignTools_20260114_082440_516_20260114_082454_059809.pn
 # [0xSojalSec/SignTools](https://github.com/0xSojalSec/SignTools)
 
 Sideloads iOS apps without a computer
+
+无需电脑侧载 iOS 应用

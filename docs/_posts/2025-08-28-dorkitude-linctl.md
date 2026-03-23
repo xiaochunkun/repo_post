@@ -7,3 +7,5 @@ image: assets/20250826T033440917--dorkitude--linctl--20250826T034520938--cropped
 # [dorkitude/linctl](https://github.com/dorkitude/linctl)
 
 CLI for managing Linear issues, projects, and teams from your terminal
+
+在终端管理 Linear 工单、项目和团队的 CLI 工具

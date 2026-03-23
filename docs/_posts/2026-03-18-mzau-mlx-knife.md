@@ -7,3 +7,5 @@ image: assets/mzau_mlx_knife_20260318_151206_673_20260318_151242_31a27d.png
 # [mzau/mlx-knife](https://github.com/mzau/mlx-knife)
 
 Runs local AI models on Apple Silicon
+
+在Apple Silicon上运行本地AI模型

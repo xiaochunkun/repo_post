@@ -7,3 +7,5 @@ image: assets/brentvollebregt_auto_py_to_exe_20260204_072224_490_20260204_072256
 # [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 
 GUI for PyInstaller to convert Python scripts to executables
+
+PyInstaller 的 GUI，用于将 Python 脚本转换为可执行文件

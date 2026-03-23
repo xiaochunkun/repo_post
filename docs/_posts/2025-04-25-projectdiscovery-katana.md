@@ -7,3 +7,5 @@ image: assets/projectdiscovery_katana_cropped.png
 # [projectdiscovery/katana](https://github.com/projectdiscovery/katana)
 
 CLI tool for crawling sites and mapping endpoints
+
+用于爬取网站和映射端点的CLI工具

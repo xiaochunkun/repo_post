@@ -7,3 +7,5 @@ image: assets/20251009T195041951--geek-cookbook--geek-cookbook--20251009T1959074
 # [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook)
 
 Guides for self-hosting apps with Docker Swarm or Kubernetes
+
+使用 Docker Swarm 或 Kubernetes 自托管应用的指南

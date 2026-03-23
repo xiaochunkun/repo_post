@@ -7,3 +7,5 @@ image: assets/RandomCoderOrg_ubuntu_on_android_20251228_190650_134_20251228_1907
 # [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android/)
 
 Installs Ubuntu with desktop environments on Android via Termux
+
+通过Termux在Android上安装带桌面环境的Ubuntu

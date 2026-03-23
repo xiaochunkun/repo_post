@@ -7,3 +7,5 @@ image: assets/kdeldycke_awesome-falsehood_cropped.png
 # [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
 
 List of things programmers often get wrong about common concepts and data
+
+程序员常对常见概念和数据误解的列表

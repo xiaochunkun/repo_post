@@ -7,3 +7,5 @@ image: assets/axivo_k3s_cluster_20251127_214009_987_20251130_083818_99e27b--2025
 # [axivo/k3s-cluster](https://github.com/axivo/k3s-cluster/)
 
 Automates K3s deployment via Ansible
+
+通过 Ansible 自动化 K3s 部署

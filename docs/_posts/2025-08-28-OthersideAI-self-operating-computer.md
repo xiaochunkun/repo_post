@@ -7,3 +7,5 @@ image: assets/20250826T032442170--OthersideAI--self-operating-computer--20250826
 # [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer)
 
 AI framework lets models control your computer like a human
+
+AI 框架让模型像人一样操控你的电脑

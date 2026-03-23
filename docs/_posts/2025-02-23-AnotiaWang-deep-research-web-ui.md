@@ -7,3 +7,5 @@ image: assets/AnotiaWang_deep-research-web-ui_cropped.png
 # [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui)
 
 Web UI for AI-powered research assistant
+
+AI驱动研究助手的Web UI

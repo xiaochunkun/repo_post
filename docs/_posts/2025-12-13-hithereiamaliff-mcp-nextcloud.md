@@ -7,3 +7,5 @@ image: assets/hithereiamaliff_mcp_nextcloud_20251209_072109_491_20251210_012048_
 # [hithereiamaliff/mcp-nextcloud](https://github.com/hithereiamaliff/mcp-nextcloud/)
 
 Connects AI assistants to Nextcloud instances
+
+将 AI 助手连接到 Nextcloud 实例

@@ -7,3 +7,5 @@ image: assets/20251014T014138782--nasa--openmct--20251014T015011728--cropped.png
 # [nasa/openmct](https://github.com/nasa/openmct)
 
 web-based framework for mission control dashboards and telemetry visualization
+
+用于任务控制仪表板和遥测可视化的基于 Web 的框架

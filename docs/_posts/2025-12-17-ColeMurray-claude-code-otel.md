@@ -7,3 +7,5 @@ image: assets/ColeMurray_claude_code_otel_20251216_044309_714_20251216_044336_fe
 # [ColeMurray/claude-code-otel](https://github.com/ColeMurray/claude-code-otel/)
 
 Observability solution for monitoring Claude Code usage
+
+监控 Claude Code 使用情况的可观测性解决方案

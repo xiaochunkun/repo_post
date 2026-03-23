@@ -7,3 +7,5 @@ image: assets/Jerry23011_VirusTotal_macOS_20260214_022745_104_20260214_022849_c0
 # [Jerry23011/VirusTotal-macOS](https://github.com/Jerry23011/VirusTotal-macOS)
 
 Analyzes files and URLs for malware on macOS
+
+在 macOS 上分析文件和 URL 的恶意软件

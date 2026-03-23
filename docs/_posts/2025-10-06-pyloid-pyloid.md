@@ -7,3 +7,5 @@ image: assets/20251005T225458693--pyloid--pyloid--20251005T225914802--cropped.pn
 # [pyloid/pyloid](https://github.com/pyloid/pyloid)
 
 build desktop apps with Python and web tech
+
+使用 Python 和 Web 技术构建桌面应用

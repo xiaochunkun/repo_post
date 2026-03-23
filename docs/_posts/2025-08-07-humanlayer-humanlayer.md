@@ -7,3 +7,5 @@ image: assets/humanlayer_humanlayer_cropped.png
 # [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
 
 API and SDK for letting AI contact humans for approvals, feedback, or help
+
+让 AI 联系人类进行审批、反馈或帮助的 API 和 SDK

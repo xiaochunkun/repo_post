@@ -7,3 +7,5 @@ image: assets/opengeos_geoai_20251209_015246_055_20251209_015321_1f341a.png
 # [opengeos/geoai](https://github.com/opengeos/geoai/)
 
 Integrates artificial intelligence with geospatial data analysis
+
+将人工智能与地理空间数据分析集成

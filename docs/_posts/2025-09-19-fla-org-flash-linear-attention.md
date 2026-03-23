@@ -7,3 +7,5 @@ image: assets/20250919T023737444--fla-org--flash-linear-attention--20250919T0252
 # [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention)
 
 Efficient Triton-based linear attention kernels for PyTorch and multiple hardware platforms
+
+基于Triton的高效线性注意力内核，支持PyTorch和多种硬件平台

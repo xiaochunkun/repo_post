@@ -7,3 +7,5 @@ image: assets/bucanero_pkgi_ps3_20251219_024413_471_20251219_024431_c549ca.png
 # [bucanero/pkgi-ps3](https://github.com/bucanero/pkgi-ps3/)
 
 Downloads and installs packages on a PlayStation 3
+
+在 PlayStation 3 上下载安装软件包

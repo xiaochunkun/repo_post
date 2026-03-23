@@ -7,3 +7,5 @@ image: assets/Noovolari_leapp_20251127_183523_500_20251130_052123_d962b3--202511
 # [Noovolari/leapp](https://github.com/Noovolari/leapp/)
 
 Cross-platform app for managing cloud credentials
+
+跨平台云凭证管理应用

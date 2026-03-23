@@ -7,3 +7,5 @@ image: assets/TesslateAI_Studio_20251203_013051_137_20251204_210312_ceb68b.png
 # [TesslateAI/Studio](https://github.com/TesslateAI/Studio/)
 
 Self-hosted AI development platform with agent orchestration
+
+自托管的 AI 开发平台，支持智能体编排

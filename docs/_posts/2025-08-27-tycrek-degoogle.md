@@ -7,3 +7,5 @@ image: assets/20250826T030937594--tycrek--degoogle--20250826T031300103--cropped.
 # [tycrek/degoogle](https://github.com/tycrek/degoogle)
 
 list of privacy-friendly alternatives to Google services
+
+Google 服务的隐私友好替代方案列表

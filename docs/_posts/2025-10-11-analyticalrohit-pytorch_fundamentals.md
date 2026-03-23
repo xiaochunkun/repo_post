@@ -7,3 +7,5 @@ image: assets/20251010T205929294--analyticalrohit--pytorch_fundamentals--2025101
 # [analyticalrohit/pytorch_fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals)
 
 intro to PyTorch tensors, operations, and reshaping with hands-on examples
+
+PyTorch 张量、操作和重塑入门，带实践示例

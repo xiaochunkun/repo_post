@@ -7,3 +7,5 @@ image: assets/mikel_brostrom_boxmot_20251025_002123_199_20251025_004542_656cd6--
 # [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot/)
 
 Pluggable modules for multi-object tracking
+
+多目标跟踪的可插拔模块

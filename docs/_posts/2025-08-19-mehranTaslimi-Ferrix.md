@@ -7,3 +7,5 @@ image: assets/20250818T112329655_mehranTaslimi_Ferrix--20250818T112519432--cropp
 # [mehranTaslimi/Ferrix](https://github.com/mehranTaslimi/Ferrix)
 
 Rust-powered download manager with chunked downloads and cross-platform support
+
+支持分块下载和跨平台的Rust驱动下载管理器

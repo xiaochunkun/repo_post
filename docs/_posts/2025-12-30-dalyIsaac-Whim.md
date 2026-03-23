@@ -7,3 +7,5 @@ image: assets/dalyIsaac_Whim_20251228_215822_136_20251228_215842_ac3ff0.png
 # [dalyIsaac/Whim](https://github.com/dalyIsaac/Whim/)
 
 Window manager for Windows with C# scripting
+
+支持 C# 脚本的 Windows 窗口管理器

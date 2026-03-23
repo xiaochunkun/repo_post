@@ -7,3 +7,5 @@ image: assets/pennersr_django_allauth_20251118_013550_156_20251118_014421_6a4e9c
 # [pennersr/django-allauth](https://github.com/pennersr/django-allauth/)
 
 Integrated Django authentication, registration, and social account management
+
+集成的Django认证、注册和社交账户管理

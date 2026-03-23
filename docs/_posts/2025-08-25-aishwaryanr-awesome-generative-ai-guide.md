@@ -7,3 +7,5 @@ image: assets/20250823T014115891--aishwaryanr--awesome-generative-ai-guide--2025
 # [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
 hub for generative AI papers, courses, interviews, and tools
+
+生成式 AI 论文、课程、面试和工具汇总

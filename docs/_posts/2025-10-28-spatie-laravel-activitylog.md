@@ -7,3 +7,5 @@ image: assets/spatie_laravel_activitylog_20251026_230437_161_20251027_002019_4fd
 # [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog/)
 
 Log user activity in a Laravel app
+
+在 Laravel 应用中记录用户活动

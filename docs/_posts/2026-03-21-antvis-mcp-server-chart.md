@@ -7,3 +7,5 @@ image: assets/antvis_mcp_server_chart_20260321_003220_054_20260321_003324_38c496
 # [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart)
 
 AntV chart generation MCP server
+
+AntV图表生成MCP服务器

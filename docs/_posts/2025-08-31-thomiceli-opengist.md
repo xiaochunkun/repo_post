@@ -7,3 +7,5 @@ image: assets/20250830T145710597--thomiceli--opengist--20250830T173221606--cropp
 # [thomiceli/opengist](https://github.com/thomiceli/opengist)
 
 self-hosted pastebin with Git-powered snippets
+
+自托管的 Git 驱动代码片段分享平台

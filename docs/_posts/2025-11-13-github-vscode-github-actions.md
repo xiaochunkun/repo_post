@@ -7,3 +7,5 @@ image: assets/github_vscode_github_actions_20251111_220932_466_20251112_033353_1
 # [github/vscode-github-actions](https://github.com/github/vscode-github-actions/)
 
 Manage GitHub Actions workflows from VS Code
+
+从 VS Code 管理 GitHub Actions 工作流

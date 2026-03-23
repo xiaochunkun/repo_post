@@ -7,3 +7,5 @@ image: assets/zorazrw_agent_workflow_memory_20260227_111409_195_20260227_111551_
 # [zorazrw/agent-workflow-memory](https://github.com/zorazrw/agent-workflow-memory)
 
 Induces workflows from experiences into agent memory
+
+从经验中诱导工作流到代理内存

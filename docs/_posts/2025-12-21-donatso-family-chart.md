@@ -7,3 +7,5 @@ image: assets/donatso_family_chart_20251219_124352_737_20251219_124418_8b09f4.pn
 # [donatso/family-chart](https://github.com/donatso/family-chart/)
 
 Visualizes family trees with D3.js and TypeScript
+
+使用 D3.js 和 TypeScript 可视化家谱

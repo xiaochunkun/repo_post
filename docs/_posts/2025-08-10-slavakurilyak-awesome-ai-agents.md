@@ -7,3 +7,5 @@ image: assets/slavakurilyak_awesome-ai-agents_cropped.png
 # [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
 
 curated list of AI agent tools and projects
+
+AI 代理工具和项目的精选列表

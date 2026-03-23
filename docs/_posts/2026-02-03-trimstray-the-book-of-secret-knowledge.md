@@ -7,3 +7,5 @@ image: assets/trimstray_the_book_of_secret_knowledge_20260203_070906_434_2026020
 # [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 Repository of manuals and tools for system administrators
+
+系统管理员手册和工具库

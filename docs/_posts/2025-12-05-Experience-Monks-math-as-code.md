@@ -7,3 +7,5 @@ image: assets/Experience_Monks_math_as_code_20251202_230710_107_20251202_230746_
 # [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code/)
 
 Reference for understanding mathematical notation via JavaScript code
+
+通过 JavaScript 代码理解数学符号的参考

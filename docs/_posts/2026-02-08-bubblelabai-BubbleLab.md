@@ -7,3 +7,5 @@ image: assets/bubblelabai_BubbleLab_20260203_024525_603_20260203_024600_4ede03.p
 # [bubblelabai/BubbleLab](https://github.com/bubblelabai/BubbleLab)
 
 Compiles agentic workflows into TypeScript
+
+将代理工作流编译为 TypeScript

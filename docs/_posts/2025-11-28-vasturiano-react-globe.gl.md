@@ -7,3 +7,5 @@ image: assets/vasturiano_react_globe_gl_20251125_031919_177_20251127_164138_5d24
 # [vasturiano/react-globe.gl](https://github.com/vasturiano/react-globe.gl/)
 
 React component for 3D globe data visualization
+
+用于3D地球数据可视化的React组件

@@ -7,3 +7,5 @@ image: assets/cipherstash_protectjs_20260131_004205_923_20260131_004250_b4f5fa.p
 # [cipherstash/protectjs](https://github.com/cipherstash/protectjs)
 
 Encrypts data fields without preventing searches
+
+加密数据字段，同时允许搜索

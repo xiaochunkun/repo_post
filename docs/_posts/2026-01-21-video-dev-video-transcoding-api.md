@@ -7,3 +7,5 @@ image: assets/video_dev_video_transcoding_api_20260120_120047_877_20260120_12010
 # [video-dev/video-transcoding-api](https://github.com/video-dev/video-transcoding-api)
 
 Transcodes media across cloud providers
+
+跨云提供商转码媒体

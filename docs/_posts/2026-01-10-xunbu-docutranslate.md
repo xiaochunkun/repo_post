@@ -7,3 +7,5 @@ image: assets/xunbu_docutranslate_20260108_120103_677_20260108_120118_19e1f2.png
 # [xunbu/docutranslate](https://github.com/xunbu/docutranslate)
 
 Translates files using language models
+
+使用语言模型翻译文件

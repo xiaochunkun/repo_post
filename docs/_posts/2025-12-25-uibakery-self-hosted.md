@@ -7,3 +7,5 @@ image: assets/uibakery_self_hosted_20251224_151954_145_20251224_152015_43206c.pn
 # [uibakery/self-hosted](https://github.com/uibakery/self-hosted/)
 
 Builds tools and automations on-premise
+
+在本地构建工具和自动化

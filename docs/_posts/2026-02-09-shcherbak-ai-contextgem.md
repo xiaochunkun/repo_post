@@ -7,3 +7,5 @@ image: assets/shcherbak_ai_contextgem_20260204_120240_732_20260204_120255_21254e
 # [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)
 
 Extracts structured data from documents
+
+从文档中提取结构化数据

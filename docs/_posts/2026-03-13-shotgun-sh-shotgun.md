@@ -7,3 +7,5 @@ image: assets/shotgun_sh_shotgun_20260312_212051_461_20260312_212356_cd15ae.png
 # [shotgun-sh/shotgun](https://github.com/shotgun-sh/shotgun)
 
 Splits features into staged PRs for AI agents
+
+将功能拆分为AI代理的分阶段PR

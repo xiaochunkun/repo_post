@@ -7,3 +7,5 @@ image: assets/trimstray_the_practical_linux_hardening_guide_20251115_052712_284_
 # [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide/)
 
 Guide for Linux system hardening
+
+Linux系统加固指南

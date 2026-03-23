@@ -7,3 +7,5 @@ image: assets/pg1_paper_profit_20260116_003032_238_20260116_003045_379cbb.png
 # [pg1/paper-profit](https://github.com/pg1/paper-profit)
 
 Simulates trading strategies with real market data
+
+使用真实市场数据模拟交易策略

@@ -7,3 +7,5 @@ image: assets/dipampaul17_AgentGuard_cropped.png
 # [dipampaul17/AgentGuard](https://github.com/dipampaul17/AgentGuard)
 
 stop runaway AI costs with real-time budget guardrails
+
+实时预算护栏，防止AI成本失控

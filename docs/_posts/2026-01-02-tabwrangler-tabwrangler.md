@@ -7,3 +7,5 @@ image: assets/tabwrangler_tabwrangler_20260101_162127_063_20260101_162143_6c4483
 # [tabwrangler/tabwrangler](https://github.com/tabwrangler/tabwrangler/)
 
 Closes unused browser tabs automatically
+
+自动关闭未使用的浏览器标签页

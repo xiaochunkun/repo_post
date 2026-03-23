@@ -7,3 +7,5 @@ image: assets/bytebot_ai_bytebot_20260108_024359_102_20260108_024419_3ddbae.png
 # [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
 
 Agent with a desktop environment for tasks
+
+具备桌面环境的任务代理

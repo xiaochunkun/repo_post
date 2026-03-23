@@ -7,3 +7,5 @@ image: assets/20251007T030127926--ArtalkJS--Artalk--20251007T031534902--cropped.
 # [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
 
 self-hosted comment system with moderation, markdown, social login, and more
+
+自托管评论系统，支持审核、Markdown、社交登录等功能

@@ -7,3 +7,5 @@ image: assets/neondatabase_labs_elephantshark_20251107_170325_425_20251107_21265
 # [neondatabase-labs/elephantshark](https://github.com/neondatabase-labs/elephantshark/)
 
 Monitors and troubleshoots Postgres network traffic
+
+监控和排查Postgres网络流量

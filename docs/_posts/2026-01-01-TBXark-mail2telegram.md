@@ -7,3 +7,5 @@ image: assets/TBXark_mail2telegram_20251231_235107_382_20251231_235122_3bfdea.pn
 # [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram/)
 
 Forwards emails to Telegram via Cloudflare Workers
+
+通过Cloudflare Workers将电子邮件转发到Telegram

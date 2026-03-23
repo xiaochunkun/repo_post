@@ -7,3 +7,5 @@ image: assets/comet-ml_opik_cropped.png
 # [comet-ml/opik](https://github.com/comet-ml/opik)
 
 Opik: Monitor and debug LLM applications
+
+Opik：监控和调试 LLM 应用

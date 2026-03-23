@@ -7,3 +7,5 @@ image: assets/dfgHiatus_VRCFaceTracking_Avalonia_20260111_172201_389_20260111_17
 # [dfgHiatus/VRCFaceTracking.Avalonia](https://github.com/dfgHiatus/VRCFaceTracking.Avalonia)
 
 Face tracking for VRChat on Windows, macOS, and Linux
+
+在Windows、macOS和Linux上为VRChat进行面部追踪

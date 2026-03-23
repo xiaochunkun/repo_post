@@ -7,3 +7,5 @@ image: assets/AshBuk_FingerGo_20260115_222805_970_20260115_222819_f10e5e.png
 # [AshBuk/FingerGo](https://github.com/AshBuk/FingerGo)
 
 Touch-typing trainer with keyboard visualization and live statistics
+
+带键盘可视化和实时统计的触摸打字训练器

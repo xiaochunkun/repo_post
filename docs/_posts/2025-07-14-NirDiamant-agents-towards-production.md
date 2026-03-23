@@ -7,3 +7,5 @@ image: assets/NirDiamant_agents-towards-production_cropped.png
 # [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
 
 production-ready GenAI agent patterns and tutorials
+
+生产就绪的 GenAI 代理模式和教程

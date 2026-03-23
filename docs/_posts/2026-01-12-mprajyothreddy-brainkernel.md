@@ -7,3 +7,5 @@ image: assets/mprajyothreddy_brainkernel_20260112_112404_336_20260112_112417_593
 # [mprajyothreddy/brainkernel](https://github.com/mprajyothreddy/brainkernel)
 
 Process manager using LLMs to analyze and roast system activity
+
+使用LLM分析和吐槽系统活动的进程管理器

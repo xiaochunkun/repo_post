@@ -7,3 +7,5 @@ image: assets/grab_cursor_talk_to_figma_mcp_20260314_032935_541_20260314_033145_
 # [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp)
 
 Connects AI agents to Figma via MCP
+
+通过MCP连接AI代理到Figma

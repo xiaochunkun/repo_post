@@ -7,3 +7,5 @@ image: assets/aviaryan_chattt_20260118_183336_638_20260118_183351_7153a8.png
 # [aviaryan/chattt](https://github.com/aviaryan/chattt)
 
 Chat system for the terminal
+
+终端的聊天系统

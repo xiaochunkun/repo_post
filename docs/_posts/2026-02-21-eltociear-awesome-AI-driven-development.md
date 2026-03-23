@@ -7,3 +7,5 @@ image: assets/eltociear_awesome_AI_driven_development_20260220_235605_893_202602
 # [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development)
 
 Directory of 498 tools for AI development
+
+包含 498 个 AI 开发工具的目录

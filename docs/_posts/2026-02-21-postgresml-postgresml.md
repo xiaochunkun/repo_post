@@ -7,3 +7,5 @@ image: assets/postgresml_postgresml_20260212_123957_979_20260212_124037_44b4d5.p
 # [postgresml/postgresml](https://github.com/postgresml/postgresml)
 
 Machine learning inference inside the database
+
+数据库内的机器学习推理

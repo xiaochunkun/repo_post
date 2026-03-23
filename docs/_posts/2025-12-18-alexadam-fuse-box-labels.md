@@ -7,3 +7,5 @@ image: assets/alexadam_fuse_box_labels_20251217_192701_013_20251217_192722_0545f
 # [alexadam/fuse-box-labels](https://github.com/alexadam/fuse-box-labels/)
 
 Drag and drop tool for documenting fuse boxes
+
+用于记录保险丝盒的拖放工具

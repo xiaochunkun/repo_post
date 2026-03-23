@@ -7,3 +7,5 @@ image: assets/requestly_requestly_20260203_023843_810_20260203_023909_28129f.png
 # [requestly/requestly](https://github.com/requestly/requestly)
 
 API client and HTTP interceptor for browsers and desktops
+
+适用于浏览器和桌面的 API 客户端和 HTTP 拦截器

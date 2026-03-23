@@ -7,3 +7,5 @@ image: assets/tuanchauict_MonoSketch_20251225_192038_293_20251225_192055_2c25d4.
 # [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch/)
 
 Web tool for drawing ASCII diagrams
+
+用于绘制 ASCII 图表的 Web 工具

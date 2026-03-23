@@ -7,3 +7,5 @@ image: assets/tisfeng_Easydict--20250918T222300868--cropped.png
 # [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
 
 macOS app for quick word lookup, translation, and OCR with support for multiple translation services
+
+macOS应用，用于快速查词、翻译和OCR，支持多种翻译服务

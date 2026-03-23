@@ -7,3 +7,5 @@ image: assets/BolajiAyodeji_awesome_technical_writing_20260111_050508_455_202601
 # [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 
 Resources for technical writing
+
+技术写作资源

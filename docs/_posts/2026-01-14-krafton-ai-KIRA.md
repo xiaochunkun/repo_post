@@ -7,3 +7,5 @@ image: assets/krafton_ai_KIRA_20260113_030142_494_20260113_030157_103e39.png
 # [krafton-ai/KIRA](https://github.com/krafton-ai/KIRA)
 
 Claude agent for desktop automation
+
+用于桌面自动化的 Claude 代理

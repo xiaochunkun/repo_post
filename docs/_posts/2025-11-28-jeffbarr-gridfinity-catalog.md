@@ -7,3 +7,5 @@ image: assets/jeffbarr_gridfinity_catalog_20251125_031713_438_20251127_163813_0b
 # [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog/)
 
 Catalog of designs for modular storage system
+
+模块化存储系统的设计目录

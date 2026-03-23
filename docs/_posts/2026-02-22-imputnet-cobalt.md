@@ -7,3 +7,5 @@ image: assets/imputnet_cobalt_20260220_143535_365_20260220_143617_0cf708.png
 # [imputnet/cobalt](https://github.com/imputnet/cobalt)
 
 Downloads media without ads or trackers
+
+无广告或追踪器的媒体下载工具

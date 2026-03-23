@@ -7,3 +7,5 @@ image: assets/rtuszik_KoalaKeys_20251207_173237_920_20251207_173301_c6aac8.png
 # [rtuszik/KoalaKeys](https://github.com/rtuszik/KoalaKeys/)
 
 Generates interactive keyboard shortcut cheat sheets
+
+生成交互式键盘快捷键速查表

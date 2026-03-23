@@ -7,3 +7,5 @@ image: assets/jacoknapp_EternalVows_20251213_035428_497_20251213_035458_13bf32.p
 # [jacoknapp/EternalVows](https://github.com/jacoknapp/EternalVows/)
 
 Self-hosted wedding website template
+
+自托管婚礼网站模板

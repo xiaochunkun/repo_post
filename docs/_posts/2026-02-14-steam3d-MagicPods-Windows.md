@@ -7,3 +7,5 @@ image: assets/steam3d_MagicPods_Windows_20260213_211141_885_20260213_211232_d5a5
 # [steam3d/MagicPods-Windows](https://github.com/steam3d/MagicPods-Windows)
 
 AirPods integration for Windows with battery indicators and ear detection
+
+Windows 的 AirPods 集成，带电池指示器和入耳检测

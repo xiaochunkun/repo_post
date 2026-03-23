@@ -7,3 +7,5 @@ image: assets/mrtian2016_hass-panel--20250817T072108282--cropped.png
 # [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel)
 
 Home Assistant control panel with drag-and-drop, camera support, and mobile-friendly UI
+
+Home Assistant 控制面板，支持拖放、摄像头和移动友好 UI

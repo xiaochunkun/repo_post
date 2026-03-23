@@ -7,3 +7,5 @@ image: assets/HugoBlox_hugo_theme_academic_cv_20260223_105021_323_20260223_10503
 # [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv)
 
 Generates academic portfolios from Markdown
+
+从 Markdown 生成学术作品集

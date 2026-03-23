@@ -7,3 +7,5 @@ image: assets/magic_spells_figma_mcp_bridge_20260311_061405_001_20260311_061547_
 # [magic-spells/figma-mcp-bridge](https://github.com/magic-spells/figma-mcp-bridge)
 
 Enables AI to manipulate Figma documents
+
+使 AI 能够操作 Figma 文档

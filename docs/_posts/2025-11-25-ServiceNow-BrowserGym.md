@@ -7,3 +7,5 @@ image: assets/ServiceNow_BrowserGym_20251123_200630_572_20251125_012853_c80d2e--
 # [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym/)
 
 Gym environment for web task automation
+
+用于网页任务自动化的 Gym 环境

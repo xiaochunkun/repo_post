@@ -7,3 +7,5 @@ image: assets/DannyMang_more_compute_20260208_072722_227_20260208_072748_a8bfcf.
 # [DannyMang/more-compute](https://github.com/DannyMang/more-compute)
 
 Python notebook environment with GPU compute
+
+带 GPU 计算的 Python 笔记本环境

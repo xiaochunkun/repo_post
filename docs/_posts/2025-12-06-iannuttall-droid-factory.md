@@ -7,3 +7,5 @@ image: assets/iannuttall_droid_factory_20251204_220946_635_20251204_221021_2efdb
 # [iannuttall/droid-factory](https://github.com/iannuttall/droid-factory/)
 
 Install custom subagents and delegate work via slash commands
+
+通过斜杠命令安装自定义子代理并委派工作

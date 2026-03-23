@@ -7,3 +7,5 @@ image: assets/AsmSafone_RadioPlayerV3_20260106_024949_252_20260106_040021_7c8e1b
 # [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3/)
 
 Streams radio and YouTube into Telegram voice chats
+
+将广播和 YouTube 流式传输到 Telegram 语音聊天

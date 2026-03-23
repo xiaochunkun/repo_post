@@ -7,3 +7,5 @@ image: assets/ekzhang_sshx_20260306_192217_363_20260306_192341_476835.png
 # [ekzhang/sshx](https://github.com/ekzhang/sshx)
 
 Share terminal sessions via web browsers
+
+通过网页浏览器共享终端会话

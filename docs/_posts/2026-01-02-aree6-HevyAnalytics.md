@@ -7,3 +7,5 @@ image: assets/aree6_HevyAnalytics_20260101_102435_738_20260101_102451_7506b8.png
 # [aree6/HevyAnalytics](https://github.com/aree6/HevyAnalytics/)
 
 Converts workout logs into muscle heatmaps and progress analytics
+
+将锻炼日志转换为肌肉热图和进度分析

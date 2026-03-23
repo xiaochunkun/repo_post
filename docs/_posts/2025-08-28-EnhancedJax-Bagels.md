@@ -7,3 +7,5 @@ image: assets/20250827T221026526--EnhancedJax--Bagels--20250827T221203034--cropp
 # [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels)
 
 terminal-based expense tracker with budgeting and graphs
+
+终端记账工具，支持预算管理和图表展示

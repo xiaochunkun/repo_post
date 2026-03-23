@@ -7,3 +7,5 @@ image: assets/crocodilestick_Calibre-Web-Automated_cropped.png
 # [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated)
 
 automates Calibre-Web with extra ebook management features
+
+自动化Calibre-Web，提供额外的电子书管理功能

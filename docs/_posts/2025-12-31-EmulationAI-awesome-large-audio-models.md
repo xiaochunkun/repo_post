@@ -7,3 +7,5 @@ image: assets/EmulationAI_awesome_large_audio_models_20251230_082501_547_2025123
 # [EmulationAI/awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models/)
 
 Resources for large language models in audio AI
+
+音频 AI 中大型语言模型的资源

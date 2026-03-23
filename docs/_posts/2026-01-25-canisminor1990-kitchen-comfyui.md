@@ -7,3 +7,5 @@ image: assets/canisminor1990_kitchen_comfyui_20260112_003046_110_20260112_003101
 # [canisminor1990/kitchen-comfyui](https://github.com/canisminor1990/kitchen-comfyui)
 
 Reactflow interface for stable diffusion
+
+稳定扩散的Reactflow界面

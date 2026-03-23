@@ -7,3 +7,5 @@ image: assets/eriklangille_clauntty_20260228_013158_846_20260228_013336_3658ea.p
 # [eriklangille/clauntty](https://github.com/eriklangille/clauntty)
 
 iOS terminal with session persistence and GPU rendering
+
+具有会话持久性和 GPU 渲染的 iOS 终端

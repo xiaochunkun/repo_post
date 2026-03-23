@@ -7,3 +7,5 @@ image: assets/KuroLabs_stegcloak_20251111_203224_194_20251112_031312_a2eebc--202
 # [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak/)
 
 Hides secrets in text using invisible unicode characters
+
+使用不可见 Unicode 字符隐藏文本中的秘密

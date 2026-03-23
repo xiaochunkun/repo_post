@@ -7,3 +7,5 @@ image: assets/Tencent_Hunyuan_HunyuanImage_3_0_20251127_215015_728_20251130_0840
 # [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0/)
 
 Native multimodal model for image generation
+
+用于图像生成的原生多模态模型

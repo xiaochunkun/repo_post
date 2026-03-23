@@ -7,3 +7,5 @@ image: assets/coddrago_Heroku_20251025_000915_439_20251025_004100_7e23c4--202510
 # [coddrago/Heroku](https://github.com/coddrago/Heroku/)
 
 Telegram userbot with enhanced security
+
+增强安全性的Telegram用户机器人

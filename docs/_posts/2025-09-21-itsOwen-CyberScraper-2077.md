@@ -7,3 +7,5 @@ image: assets/20250921T021210824--itsOwen--CyberScraper-2077--20250921T022020083
 # [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
 
 AI-powered web scraper with export options, stealth, and Tor support
+
+AI 驱动的网页爬虫，支持导出、隐身和 Tor

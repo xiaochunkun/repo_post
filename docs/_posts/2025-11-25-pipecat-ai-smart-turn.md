@@ -7,3 +7,5 @@ image: assets/pipecat_ai_smart_turn_20251123_200303_682_20251125_012752_dd86d3--
 # [pipecat-ai/smart-turn](https://github.com/pipecat-ai/smart-turn/)
 
 Native audio turn detection model
+
+原生音频转向检测模型

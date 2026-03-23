@@ -7,3 +7,5 @@ image: assets/karthikmudunuri_eldoraui_20260116_112404_128_20260116_112417_2f8a1
 # [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui)
 
 Animated components for React and Tailwind CSS
+
+React和Tailwind CSS的动画组件

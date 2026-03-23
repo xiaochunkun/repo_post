@@ -7,3 +7,5 @@ image: assets/Elleo_pied_20251025_195258_483_20251025_230726_5631bf--20251026T01
 # [Elleo/pied](https://github.com/Elleo/pied/)
 
 Install and manage text-to-speech Piper voices
+
+安装和管理文本转语音Piper语音

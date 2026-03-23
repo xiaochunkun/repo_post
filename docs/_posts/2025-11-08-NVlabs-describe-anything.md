@@ -7,3 +7,5 @@ image: assets/NVlabs_describe_anything_20251107_190932_995_20251107_235613_c4c6d
 # [NVlabs/describe-anything](https://github.com/NVlabs/describe-anything/)
 
 Generates localized descriptions for images and videos
+
+为图像和视频生成本地化描述

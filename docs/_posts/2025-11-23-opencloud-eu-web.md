@@ -7,3 +7,5 @@ image: assets/opencloud_eu_web_20251122_221057_871_20251123_001711_326fd1--20251
 # [opencloud-eu/web](https://github.com/opencloud-eu/web/)
 
 Vue.js frontend for cloud storage
+
+云存储的Vue.js前端

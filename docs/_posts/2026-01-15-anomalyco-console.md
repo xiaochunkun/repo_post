@@ -7,3 +7,5 @@ image: assets/anomalyco_console_20260114_013003_315_20260114_013049_f9a6fe.png
 # [anomalyco/console](https://github.com/anomalyco/console)
 
 Dashboard for managing SST applications
+
+管理 SST 应用的仪表板

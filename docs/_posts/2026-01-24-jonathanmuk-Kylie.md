@@ -7,3 +7,5 @@ image: assets/jonathanmuk_Kylie_20260122_221704_067_20260122_221721_e3ed2d.png
 # [jonathanmuk/Kylie](https://github.com/jonathanmuk/Kylie)
 
 WhatsApp agent with LangGraph brain
+
+具有 LangGraph 大脑的 WhatsApp 智能体

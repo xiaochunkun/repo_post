@@ -7,3 +7,5 @@ image: assets/20250915T043617379--ibelick--motion-primitives--20250915T043801393
 # [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives)
 
 UI kit for animated interfaces using motion and Tailwind CSS
+
+使用 motion 和 Tailwind CSS 的动画界面 UI 套件

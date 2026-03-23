@@ -7,3 +7,5 @@ image: assets/iflow_ai_iflow_cli_20260316_135941_551_20260316_140026_d23c01.png
 # [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli)
 
 Terminal AI assistant for code analysis and automation
+
+终端 AI 助手，用于代码分析和自动化

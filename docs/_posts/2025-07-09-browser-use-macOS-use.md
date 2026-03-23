@@ -7,3 +7,5 @@ image: assets/browser-use_macOS-use_cropped.png
 # [browser-use/macOS-use](https://github.com/browser-use/macOS-use)
 
 AI agent lets you control Mac apps with natural language
+
+AI 代理让您用自然语言控制 Mac 应用

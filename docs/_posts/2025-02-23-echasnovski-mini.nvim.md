@@ -7,3 +7,5 @@ image: assets/echasnovski_mini.nvim_cropped.png
 # [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)
 
 Collection of small, independent Neovim plugins
+
+小型独立的 Neovim 插件集合

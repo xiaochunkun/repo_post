@@ -7,3 +7,5 @@ image: assets/ljagiello_ctf_skills_20260315_000242_643_20260315_000428_59dbc5.pn
 # [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
 
 Agent skills for solving CTF challenges
+
+解决 CTF 挑战的代理技能

@@ -7,3 +7,5 @@ image: assets/roboflow_dji_aerial_georeferencing_20260209_072449_307_20260209_07
 # [roboflow/dji-aerial-georeferencing](https://github.com/roboflow/dji-aerial-georeferencing)
 
 Maps objects from drone videos to GPS coordinates
+
+将无人机视频中的对象映射到 GPS 坐标

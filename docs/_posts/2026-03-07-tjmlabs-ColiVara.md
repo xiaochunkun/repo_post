@@ -7,3 +7,5 @@ image: assets/tjmlabs_ColiVara_20260306_024955_540_20260306_025120_f49e43.png
 # [tjmlabs/ColiVara](https://github.com/tjmlabs/ColiVara)
 
 Retrieve documents via vision embeddings
+
+通过视觉嵌入检索文档

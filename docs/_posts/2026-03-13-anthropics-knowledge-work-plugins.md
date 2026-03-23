@@ -7,3 +7,5 @@ image: assets/anthropics_knowledge_work_plugins_20260227_063454_172_20260227_063
 # [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 
 Connects Claude to enterprise tools for specialized roles
+
+将 Claude 连接到企业工具以支持专业角色

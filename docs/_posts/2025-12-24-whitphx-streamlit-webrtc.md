@@ -7,3 +7,5 @@ image: assets/whitphx_streamlit_webrtc_20251222_213321_774_20251222_213341_b9841
 # [whitphx/streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc/)
 
 Transmits video and audio streams through Streamlit via WebRTC
+
+通过WebRTC在Streamlit中传输视频和音频流

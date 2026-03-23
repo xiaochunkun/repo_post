@@ -7,3 +7,5 @@ image: assets/dsward2_macSVG_20251222_190013_561_20251222_190041_c378be.png
 # [dsward2/macSVG](https://github.com/dsward2/macSVG/)
 
 Designs HTML5 SVG graphics and animations on macOS
+
+在macOS上设计HTML5 SVG图形和动画

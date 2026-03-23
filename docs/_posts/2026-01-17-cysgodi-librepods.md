@@ -7,3 +7,5 @@ image: assets/cysgodi_librepods_20260116_073152_327_20260116_073205_2db15f.png
 # [cysgodi/librepods](https://github.com/cysgodi/librepods)
 
 Unlocks AirPods features on Android and Linux
+
+在 Android 和 Linux 上解锁 AirPods 功能

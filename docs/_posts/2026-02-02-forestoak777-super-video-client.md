@@ -7,3 +7,5 @@ image: assets/forestoak777_super_video_client_20260201_052754_366_20260201_05283
 # [forestoak777/super-video-client](https://github.com/forestoak777/super-video-client)
 
 Aggregates video feeds via RSS
+
+通过RSS聚合视频源

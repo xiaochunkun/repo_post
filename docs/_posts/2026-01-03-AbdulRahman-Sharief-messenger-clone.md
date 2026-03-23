@@ -7,3 +7,5 @@ image: assets/AbdulRahman_Sharief_messenger_clone_20260102_144752_992_20260102_1
 # [AbdulRahman-Sharief/messenger-clone](https://github.com/AbdulRahman-Sharief/messenger-clone/)
 
 Real-time messaging with group chats and file uploads
+
+支持群聊和文件上传的实时消息应用

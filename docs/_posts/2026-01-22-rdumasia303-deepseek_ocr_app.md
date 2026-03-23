@@ -7,3 +7,5 @@ image: assets/rdumasia303_deepseek_ocr_app_20260122_002707_892_20260122_002725_8
 # [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)
 
 OCR app with PDF processing and document conversion
+
+具有PDF处理和文档转换功能的OCR应用

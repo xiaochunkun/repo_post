@@ -7,3 +7,5 @@ image: assets/RVC_Boss_GPT_SoVITS_20260128_233851_113_20260128_233930_2d1307.png
 # [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
 Clones voices across languages with few-shot training
+
+通过少样本训练跨语言克隆语音

@@ -7,3 +7,5 @@ image: assets/bwya77_DockAnchor_20260206_003022_196_20260206_003044_fa5f6a.png
 # [bwya77/DockAnchor](https://github.com/bwya77/DockAnchor)
 
 Locks the macOS Dock to a single display
+
+将 macOS Dock 锁定到单个显示器

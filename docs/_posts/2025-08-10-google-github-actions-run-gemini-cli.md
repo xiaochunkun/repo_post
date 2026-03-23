@@ -7,3 +7,5 @@ image: assets/google-github-actions_run-gemini-cli_cropped.png
 # [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli)
 
 AI teammate for GitHub repos, automates PR reviews and issue triage
+
+GitHub 仓库的 AI 助手，自动执行 PR 审查和问题分类

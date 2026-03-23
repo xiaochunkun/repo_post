@@ -7,3 +7,5 @@ image: assets/seydx_camera_ui_20251221_175611_457_20251221_175634_206680.png
 # [seydx/camera.ui](https://github.com/seydx/camera.ui/)
 
 NVR interface for RTSP cameras with motion detection and HomeKit support
+
+支持运动检测和 HomeKit 的 RTSP 摄像头 NVR 界面

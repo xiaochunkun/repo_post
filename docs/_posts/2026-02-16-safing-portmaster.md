@@ -7,3 +7,5 @@ image: assets/safing_portmaster_20260210_162602_983_20260210_162637_92ba4c.png
 # [safing/portmaster](https://github.com/safing/portmaster)
 
 Application firewall for network activity control
+
+控制网络活动的应用程序防火墙

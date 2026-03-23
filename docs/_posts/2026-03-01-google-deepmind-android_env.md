@@ -7,3 +7,5 @@ image: assets/google_deepmind_android_env_20260228_195340_921_20260228_195538_fc
 # [google-deepmind/android_env](https://github.com/google-deepmind/android_env)
 
 Reinforcement learning environment for Android devices
+
+Android 设备的强化学习环境

@@ -7,3 +7,5 @@ image: assets/straussmaximilian_ocrmac_20251207_215111_964_20251207_215135_0dda0
 # [straussmaximilian/ocrmac](https://github.com/straussmaximilian/ocrmac/)
 
 Extracts text from images using Apple Vision framework
+
+使用Apple Vision框架从图像中提取文本

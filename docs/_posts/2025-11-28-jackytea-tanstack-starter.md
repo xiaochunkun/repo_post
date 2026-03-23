@@ -7,3 +7,5 @@ image: assets/jackytea_tanstack_starter_20251125_043751_661_20251127_165648_74d4
 # [jackytea/tanstack-starter](https://github.com/jackytea/tanstack-starter/)
 
 Full-stack template with TanStack Start and Drizzle
+
+使用 TanStack Start 和 Drizzle 的全栈模板

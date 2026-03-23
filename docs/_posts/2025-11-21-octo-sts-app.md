@@ -7,3 +7,5 @@ image: assets/octo_sts_app_20251120_063827_251_20251121_015834_be6e0f--20251121T
 # [octo-sts/app](https://github.com/octo-sts/app/)
 
 Security Token Service for GitHub
+
+GitHub 的安全令牌服务

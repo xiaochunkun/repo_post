@@ -7,3 +7,5 @@ image: assets/go_routeros_routeros_20251202_211723_094_20251202_211747_51ca6e.pn
 # [go-routeros/routeros](https://github.com/go-routeros/routeros/)
 
 Go library for accessing Mikrotik devices via RouterOS API
+
+通过 RouterOS API 访问 Mikrotik 设备的 Go 库

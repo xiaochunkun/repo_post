@@ -7,3 +7,5 @@ image: assets/20250906T022628864--fastfetch-cli--fastfetch--20250906T022947312--
 # [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 command-line tool for showing system info
+
+展示系统信息的命令行工具

@@ -7,3 +7,5 @@ image: assets/scaleflex_filerobot_image_editor_20260204_075349_990_20260204_0754
 # [scaleflex/filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor)
 
 Integrates image editor into web applications
+
+将图像编辑器集成到Web应用中

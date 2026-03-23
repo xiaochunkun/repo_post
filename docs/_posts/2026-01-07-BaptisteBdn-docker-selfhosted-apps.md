@@ -7,3 +7,5 @@ image: assets/BaptisteBdn_docker_selfhosted_apps_20260106_113059_312_20260106_11
 # [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps/)
 
 Guides for self-hosting apps with Docker
+
+使用 Docker 自托管应用的指南

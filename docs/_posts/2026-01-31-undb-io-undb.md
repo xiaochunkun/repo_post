@@ -7,3 +7,5 @@ image: assets/undb_io_undb_20260129_104239_069_20260129_104335_03ac3a.png
 # [undb-io/undb](https://github.com/undb-io/undb)
 
 Self-hosted database and backend service on SQLite
+
+基于SQLite的自托管数据库和后端服务

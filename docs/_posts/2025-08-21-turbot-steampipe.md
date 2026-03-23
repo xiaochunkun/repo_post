@@ -7,3 +7,5 @@ image: assets/20250820T132528561_turbot_steampipe--20250820T135511255--cropped.p
 # [turbot/steampipe](https://github.com/turbot/steampipe)
 
 query APIs with SQL, zero-ETL style
+
+用 SQL 直接查询各类 API，零 ETL

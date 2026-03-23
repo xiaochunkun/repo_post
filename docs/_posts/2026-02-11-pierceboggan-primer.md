@@ -7,3 +7,5 @@ image: assets/pierceboggan_primer_20260202_060240_269_20260202_060314_9e7032.png
 # [pierceboggan/primer](https://github.com/pierceboggan/primer)
 
 Generates instructions for AI coding assistants
+
+为 AI 编码助手生成指令

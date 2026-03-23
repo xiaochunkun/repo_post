@@ -7,3 +7,5 @@ image: assets/Shopee_MUG_MUG_V_20251215_022153_307_20251215_022217_7677bb.png
 # [Shopee-MUG/MUG-V](https://github.com/Shopee-MUG/MUG-V/)
 
 High-efficiency training pipeline for video generation
+
+用于视频生成的高效训练管道

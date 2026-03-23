@@ -7,3 +7,5 @@ image: assets/crawlab_team_crawlab_20251025_121444_258_20251025_224803_bdc912--2
 # [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab/)
 
 Distributed web crawler management platform
+
+分布式网络爬虫管理平台

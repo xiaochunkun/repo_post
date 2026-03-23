@@ -7,3 +7,5 @@ image: assets/0xsha_PayloadDetector_20260102_162707_075_20260102_162724_b0e75c.p
 # [0xsha/PayloadDetector](https://github.com/0xsha/PayloadDetector/)
 
 Detects web attacks with machine learning
+
+使用机器学习检测 Web 攻击

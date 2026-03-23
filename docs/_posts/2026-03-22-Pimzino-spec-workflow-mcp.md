@@ -7,3 +7,5 @@ image: assets/Pimzino_spec_workflow_mcp_20260318_051952_116_20260318_052059_639d
 # [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)
 
 MCP server for spec-driven development with dashboard and VSCode extension
+
+带仪表板和VSCode扩展的规范驱动开发MCP服务器

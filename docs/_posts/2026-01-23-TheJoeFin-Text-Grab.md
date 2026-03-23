@@ -7,3 +7,5 @@ image: assets/TheJoeFin_Text_Grab_20260122_050708_759_20260122_050729_562993.png
 # [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
 OCR utility for copying text from images or videos
+
+从图像或视频复制文本的OCR工具

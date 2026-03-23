@@ -7,3 +7,5 @@ image: assets/victorqribeiro_isocity_20260210_165342_609_20260210_165419_965d82.
 # [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity)
 
 City builder in JavaScript
+
+用JavaScript构建的城市模拟器

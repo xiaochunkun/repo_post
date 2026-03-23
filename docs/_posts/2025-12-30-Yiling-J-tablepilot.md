@@ -7,3 +7,5 @@ image: assets/Yiling_J_tablepilot_20251229_102009_426_20251229_102036_f2004f.png
 # [Yiling-J/tablepilot](https://github.com/Yiling-J/tablepilot/)
 
 Generates tabular data with AI workflows
+
+通过 AI 工作流生成表格数据

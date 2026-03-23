@@ -7,3 +7,5 @@ image: assets/rclement_datasette_dashboards_20251210_034540_494_20251210_034612_
 # [rclement/datasette-dashboards](https://github.com/rclement/datasette-dashboards/)
 
 Plugin adds dashboards to Datasette
+
+为 Datasette 添加仪表板的插件

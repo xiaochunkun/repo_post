@@ -7,3 +7,5 @@ image: assets/cruip_tailwind_landing_page_template_20260122_025712_908_20260122_
 # [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template)
 
 Landing page template with Tailwind CSS and Next.js
+
+带有 Tailwind CSS 和 Next.js 的落地页模板

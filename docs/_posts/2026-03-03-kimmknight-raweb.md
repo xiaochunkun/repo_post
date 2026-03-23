@@ -7,3 +7,5 @@ image: assets/kimmknight_raweb_20260303_084340_720_20260303_084507_26c419.png
 # [kimmknight/raweb](https://github.com/kimmknight/raweb)
 
 Web interface for RemoteApps on Windows
+
+Windows RemoteApps 的 Web 界面

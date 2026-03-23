@@ -7,3 +7,5 @@ image: assets/Philo_Li_claudebot_20260213_212515_762_20260213_212611_dbf932.png
 # [Philo-Li/claudebot](https://github.com/Philo-Li/claudebot)
 
 Controls Claude Code via Telegram
+
+通过 Telegram 控制 Claude Code

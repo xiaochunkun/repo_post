@@ -7,3 +7,5 @@ image: assets/sassanix_Warracker_cropped.png
 # [sassanix/Warracker](https://github.com/sassanix/Warracker)
 
 track and manage product warranties in one place
+
+在一个地方跟踪和管理产品保修

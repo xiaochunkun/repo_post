@@ -7,3 +7,5 @@ image: assets/kortix_ai_suna_20260202_082142_376_20260202_082218_84fcaa.png
 # [kortix-ai/suna](https://github.com/kortix-ai/suna)
 
 Platform to build and train agents for browser automation and workflows
+
+构建和训练浏览器自动化和工作流代理的平台

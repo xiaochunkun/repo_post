@@ -7,3 +7,5 @@ image: assets/overleaf_overleaf_cropped.png
 # [overleaf/overleaf](https://github.com/overleaf/overleaf)
 
 online LaTeX editor for writing and collaborating on documents
+
+在线LaTeX编辑器，用于编写和协作文档

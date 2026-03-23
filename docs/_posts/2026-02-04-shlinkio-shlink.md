@@ -7,3 +7,5 @@ image: assets/shlinkio_shlink_20260203_024601_225_20260203_024618_b566f4.png
 # [shlinkio/shlink](https://github.com/shlinkio/shlink)
 
 Self-hosted URL shortener for custom domains
+
+适用于自定义域名的自托管 URL 缩短器

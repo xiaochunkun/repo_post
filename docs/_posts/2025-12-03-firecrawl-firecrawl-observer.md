@@ -7,3 +7,5 @@ image: assets/firecrawl_firecrawl_observer_20251201_053732_462_20251201_053825_5
 # [firecrawl/firecrawl-observer](https://github.com/firecrawl/firecrawl-observer/)
 
 Tracks website changes and sends notifications
+
+跟踪网站变更并发送通知

@@ -7,3 +7,5 @@ image: assets/ninxsoft_Mist_20260209_145801_914_20260209_145840_f1e782.png
 # [ninxsoft/Mist](https://github.com/ninxsoft/Mist)
 
 Downloads macOS firmwares and installers
+
+下载 macOS 固件和安装程序

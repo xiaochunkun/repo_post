@@ -7,3 +7,5 @@ image: assets/HeyNina101_generative_ai_project_cropped.png
 # [HeyNina101/generative_ai_project](https://github.com/HeyNina101/generative_ai_project)
 
 template for organizing generative AI projects
+
+用于组织生成式 AI 项目的模板

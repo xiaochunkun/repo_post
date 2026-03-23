@@ -7,3 +7,5 @@ image: assets/showlab_Paper2Video_20260306_035913_461_20260306_040044_36727f.png
 # [showlab/Paper2Video](https://github.com/showlab/Paper2Video)
 
 Generate presentation videos from research papers
+
+从研究论文生成演示视频

@@ -7,3 +7,5 @@ image: assets/enescingoz_awesome_n8n_templates_20260216_084708_652_20260216_0848
 # [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 
 Collection of automation templates for n8n
+
+n8n自动化模板集合

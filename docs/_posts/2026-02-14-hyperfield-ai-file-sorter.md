@@ -7,3 +7,5 @@ image: assets/hyperfield_ai_file_sorter_20260210_161241_130_20260210_161316_76e1
 # [hyperfield/ai-file-sorter](https://github.com/hyperfield/ai-file-sorter)
 
 Organizes files with local LLMs
+
+使用本地 LLM 组织文件

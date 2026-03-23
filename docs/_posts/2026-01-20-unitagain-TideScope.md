@@ -7,3 +7,5 @@ image: assets/unitagain_TideScope_20260119_225206_379_20260119_225221_80661f.png
 # [unitagain/TideScope](https://github.com/unitagain/TideScope)
 
 Visualizes technical debt as star maps
+
+将技术债务可视化为星图

@@ -7,3 +7,5 @@ image: assets/TencentCloudADP_youtu_graphrag_20260305_083701_002_20260305_083824
 # [TencentCloudADP/youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag)
 
 Framework for graph retrieval-augmented reasoning
+
+图检索增强推理框架

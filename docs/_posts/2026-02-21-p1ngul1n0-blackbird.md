@@ -7,3 +7,5 @@ image: assets/p1ngul1n0_blackbird_20260209_155454_518_20260209_155524_63bd36.png
 # [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird)
 
 OSINT tool for account searches with AI profiling
+
+用于账户搜索和 AI 画像的 OSINT 工具

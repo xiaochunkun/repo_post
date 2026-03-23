@@ -7,3 +7,5 @@ image: assets/projectdiscovery_urlfinder_20251025_193837_218_20251025_230504_dae
 # [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder/)
 
 High-speed tool for passive URL discovery
+
+用于被动 URL 发现的高速工具

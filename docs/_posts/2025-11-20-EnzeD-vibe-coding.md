@@ -7,3 +7,5 @@ image: assets/EnzeD_vibe_coding_20251118_183203_820_20251120_000208_41a0ae--2025
 # [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding/)
 
 Guide for coding with LLMs
+
+使用 LLM 进行编码的指南

@@ -7,3 +7,5 @@ image: assets/braden_w_whispering_20260112_115913_011_20260112_115927_5a1e2c.png
 # [braden-w/whispering](https://github.com/braden-w/whispering)
 
 Converts speech to text via keyboard shortcuts
+
+通过键盘快捷键将语音转换为文本

@@ -7,3 +7,5 @@ image: assets/arpanghosh8453_fitbit_grafana_20251217_194257_704_20251217_194319_
 # [arpanghosh8453/fitbit-grafana](https://github.com/arpanghosh8453/fitbit-grafana/)
 
 Fetches Fitbit data for InfluxDB storage and Grafana visualization
+
+获取 Fitbit 数据用于 InfluxDB 存储和 Grafana 可视化

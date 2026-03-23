@@ -7,3 +7,5 @@ image: assets/calvinkNT_WhatsAppX_20260209_104118_767_20260209_104140_e9849e.png
 # [calvinkNT/WhatsAppX](https://github.com/calvinkNT/WhatsAppX)
 
 WhatsApp client for legacy iOS
+
+适用于旧版 iOS 的 WhatsApp 客户端

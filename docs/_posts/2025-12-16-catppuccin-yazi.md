@@ -7,3 +7,5 @@ image: assets/catppuccin_yazi_20251215_001038_269_20251215_001146_8fb948.png
 # [catppuccin/yazi](https://github.com/catppuccin/yazi/)
 
 Theme port for Yazi file manager
+
+Yazi文件管理器的主题移植

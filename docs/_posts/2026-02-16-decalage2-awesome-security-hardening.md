@@ -7,3 +7,5 @@ image: assets/decalage2_awesome_security_hardening_20260215_032442_267_20260215_
 # [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
 
 Guides and tools for security hardening
+
+安全加固指南和工具

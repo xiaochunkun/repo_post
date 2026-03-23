@@ -7,3 +7,5 @@ image: assets/20250927T040318699--timvisee--ffsend--20250927T041446397--cropped.
 # [timvisee/ffsend](https://github.com/timvisee/ffsend)
 
 Command line tool for secure, encrypted file sharing with download limits and password options
+
+命令行工具，用于安全加密的文件共享，支持下载限制和密码选项

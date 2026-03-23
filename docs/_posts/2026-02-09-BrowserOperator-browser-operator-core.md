@@ -7,3 +7,5 @@ image: assets/BrowserOperator_browser_operator_core_20260207_081133_619_20260207
 # [BrowserOperator/browser-operator-core](https://github.com/BrowserOperator/browser-operator-core)
 
 Browser for research and automation running locally
+
+本地运行的研究和自动化浏览器

@@ -7,3 +7,5 @@ image: assets/karanpratapsingh_system_design_20260212_052624_694_20260212_052723
 # [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
 
 Course on system design fundamentals
+
+系统设计基础课程

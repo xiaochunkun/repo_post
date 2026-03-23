@@ -7,3 +7,5 @@ image: assets/wapiti_scanner_wapiti_20251121_133914_321_20251122_033929_79fd01--
 # [wapiti-scanner/wapiti](https://github.com/wapiti-scanner/wapiti/)
 
 Black-box web vulnerability scanner
+
+黑盒 Web 漏洞扫描器

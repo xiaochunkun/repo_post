@@ -7,3 +7,5 @@ image: assets/chenfengxu714_StreamDiffusionV2_20260113_160059_119_20260113_16011
 # [chenfengxu714/StreamDiffusionV2](https://github.com/chenfengxu714/StreamDiffusionV2)
 
 Generates video from streams in real time
+
+实时从流生成视频

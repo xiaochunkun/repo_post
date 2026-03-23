@@ -7,3 +7,5 @@ image: assets/20250927T044630959--fmaclen--hollama--20250927T045501454--cropped.
 # [fmaclen/hollama](https://github.com/fmaclen/hollama)
 
 minimal LLM chat app runs in your browser, supports Ollama and OpenAI, multi-server, text and vision models
+
+在浏览器中运行的极简LLM聊天应用，支持Ollama和OpenAI、多服务器、文本和视觉模型

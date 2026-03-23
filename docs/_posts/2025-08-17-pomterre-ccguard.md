@@ -7,3 +7,5 @@ image: assets/pomterre_ccguard--20250816T205221276--cropped.png
 # [pomterre/ccguard](https://github.com/pomterre/ccguard)
 
 blocks code changes that increase line count
+
+阻止增加代码行数的更改

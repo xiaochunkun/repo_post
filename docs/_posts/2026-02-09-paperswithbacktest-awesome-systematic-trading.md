@@ -7,3 +7,5 @@ image: assets/paperswithbacktest_awesome_systematic_trading_20260206_001747_215_
 # [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)
 
 Resources for quantitative trading strategies
+
+量化交易策略资源

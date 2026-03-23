@@ -7,3 +7,5 @@ image: assets/20250830T173808757--gojue--ecapture--20250830T174253361--cropped.p
 # [gojue/ecapture](https://github.com/gojue/ecapture)
 
 capture SSL/TLS plaintext on Linux with eBPF
+
+基于 eBPF 在 Linux 上捕获 SSL/TLS 明文流量

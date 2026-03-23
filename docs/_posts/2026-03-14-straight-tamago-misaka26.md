@@ -7,3 +7,5 @@ image: assets/straight_tamago_misaka26_20260311_095609_943_20260311_095810_0f6b9
 # [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)
 
 iOS customization tool using TrollRestore bug
+
+使用TrollRestore漏洞的iOS定制工具

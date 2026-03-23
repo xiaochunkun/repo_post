@@ -7,3 +7,5 @@ image: assets/20251012T023755841--jaywcjlove--quick-rss--20251012T024334437--cro
 # [jaywcjlove/quick-rss](https://github.com/jaywcjlove/quick-rss)
 
 private, customizable RSS reader for macOS and iOS
+
+macOS 和 iOS 的私有可定制 RSS 阅读器

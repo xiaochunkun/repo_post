@@ -7,3 +7,5 @@ image: assets/crewAIInc_crewAI_cropped.png
 # [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
 
 CrewAI is a Python framework to build and manage teams of AI agents working together autonomously on tasks
+
+CrewAI是Python框架，用于构建和管理自主协作的AI代理团队

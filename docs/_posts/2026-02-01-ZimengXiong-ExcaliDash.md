@@ -7,3 +7,5 @@ image: assets/ZimengXiong_ExcaliDash_20260128_145142_982_20260128_145231_3cc86f.
 # [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)
 
 Self-hosted dashboard for Excalidraw with live collaboration
+
+支持实时协作的 Excalidraw 自托管仪表板

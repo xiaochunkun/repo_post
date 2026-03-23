@@ -7,3 +7,5 @@ image: assets/chonkie_inc_chunk_20260209_040920_586_20260209_041002_8fcba2.png
 # [chonkie-inc/chunk](https://github.com/chonkie-inc/chunk)
 
 Chunks text at 1 TB/s throughput
+
+以1 TB/s吞吐量分块文本

@@ -7,3 +7,5 @@ image: assets/SadServers_sadservers_20251031_052430_033_20251031_210255_54e20b--
 # [SadServers/sadservers](https://github.com/SadServers/sadservers/)
 
 Test Linux and DevOps troubleshooting skills on real servers
+
+在真实服务器上测试 Linux 和 DevOps 故障排除技能

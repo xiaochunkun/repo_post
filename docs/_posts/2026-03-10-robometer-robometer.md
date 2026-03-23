@@ -7,3 +7,5 @@ image: assets/robometer_robometer_20260304_072940_408_20260304_073127_bb2f40.png
 # [robometer/robometer](https://github.com/robometer/robometer)
 
 Trains robotic reward models using trajectory comparisons
+
+使用轨迹比较训练机器人奖励模型

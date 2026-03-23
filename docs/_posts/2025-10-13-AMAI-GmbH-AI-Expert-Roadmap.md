@@ -7,3 +7,5 @@ image: assets/20251013T000826890--AMAI-GmbH--AI-Expert-Roadmap--20251013T0015329
 # [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 
 visual guide to AI career paths and essential skills
+
+AI 职业路径和必备技能的可视化指南

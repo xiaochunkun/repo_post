@@ -7,3 +7,5 @@ image: assets/98mohitkumar_Cinephiled_20260116_211316_522_20260116_211332_03e72c
 # [98mohitkumar/Cinephiled](https://github.com/98mohitkumar/Cinephiled)
 
 TMDB client for movie previews and watchlist management
+
+TMDB客户端，用于电影预览和观看列表管理

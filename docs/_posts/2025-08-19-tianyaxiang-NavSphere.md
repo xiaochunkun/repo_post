@@ -7,3 +7,5 @@ image: assets/20250818T103758922_tianyaxiang_NavSphere--20250818T105113815--crop
 # [tianyaxiang/NavSphere](https://github.com/tianyaxiang/NavSphere)
 
 web app for managing navigation links and categories
+
+管理导航链接和分类的网页应用

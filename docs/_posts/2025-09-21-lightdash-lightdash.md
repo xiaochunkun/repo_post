@@ -7,3 +7,5 @@ image: assets/20250921T021208745--lightdash--lightdash--20250921T021454676--crop
 # [lightdash/lightdash](https://github.com/lightdash/lightdash)
 
 Open-source BI tool for teams to explore and visualize data from dbt projects
+
+开源 BI 工具，供团队探索和可视化 dbt 项目数据

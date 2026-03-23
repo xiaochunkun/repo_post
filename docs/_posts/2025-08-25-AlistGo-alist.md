@@ -7,3 +7,5 @@ image: assets/20250825T023935793--AlistGo--alist--20250825T024334495--cropped.pn
 # [AlistGo/alist](https://github.com/AlistGo/alist)
 
 file list tool with multi-cloud storage support
+
+多云存储聚合的文件列表工具

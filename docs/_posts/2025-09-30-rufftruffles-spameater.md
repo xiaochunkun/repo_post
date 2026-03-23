@@ -7,3 +7,5 @@ image: assets/20250930T032921010--rufftruffles--spameater--20250930T033535775--c
 # [rufftruffles/spameater](https://github.com/rufftruffles/spameater)
 
 self-hosted temporary email with auto-delete
+
+自托管的临时电子邮件服务，支持自动删除

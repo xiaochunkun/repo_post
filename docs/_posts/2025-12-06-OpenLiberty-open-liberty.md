@@ -7,3 +7,5 @@ image: assets/OpenLiberty_open_liberty_20251203_010137_585_20251203_010200_f418c
 # [OpenLiberty/open-liberty](https://github.com/OpenLiberty/open-liberty/)
 
 Framework for cloud-native Java microservices
+
+云原生Java微服务框架

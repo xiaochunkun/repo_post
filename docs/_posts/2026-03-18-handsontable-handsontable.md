@@ -7,3 +7,5 @@ image: assets/handsontable_handsontable_20260317_222521_191_20260317_223050_26cb
 # [handsontable/handsontable](https://github.com/handsontable/handsontable)
 
 JavaScript data grid with spreadsheet look
+
+JavaScript数据网格，具有电子表格外观

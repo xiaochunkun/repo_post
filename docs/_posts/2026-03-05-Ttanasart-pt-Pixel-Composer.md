@@ -7,3 +7,5 @@ image: assets/Ttanasart_pt_Pixel_Composer_20260304_204145_113_20260304_204329_5f
 # [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer)
 
 Editor for visual effects in pixel art using nodes
+
+使用节点编辑像素艺术视觉效果的编辑器

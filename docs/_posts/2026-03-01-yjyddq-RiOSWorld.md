@@ -7,3 +7,5 @@ image: assets/yjyddq_RiOSWorld_20260228_135548_033_20260228_135725_63dab8.png
 # [yjyddq/RiOSWorld](https://github.com/yjyddq/RiOSWorld)
 
 Benchmark for risks of computer-use agents
+
+计算机使用代理风险的基准测试

@@ -7,3 +7,5 @@ image: assets/the_ora_browser_20251123_193826_371_20251125_012326_54c7e7--202511
 # [the-ora/browser](https://github.com/the-ora/browser/)
 
 Native macOS browser built with SwiftUI
+
+基于 SwiftUI 构建的原生 macOS 浏览器

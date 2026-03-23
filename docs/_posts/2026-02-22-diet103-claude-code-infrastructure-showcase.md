@@ -7,3 +7,5 @@ image: assets/diet103_claude_code_infrastructure_showcase_20260210_150918_564_20
 # [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)
 
 Infrastructure for auto-activating skills in Claude Code
+
+在Claude Code中自动激活技能的基础设施

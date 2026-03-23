@@ -7,3 +7,5 @@ image: assets/daytonaio_daytona_20260212_173936_028_20260212_174125_684623.png
 # [daytonaio/daytona](https://github.com/daytonaio/daytona)
 
 Infrastructure for execution of code from AI
+
+执行 AI 生成代码的基础设施

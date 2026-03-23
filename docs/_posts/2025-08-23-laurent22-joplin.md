@@ -7,3 +7,5 @@ image: assets/20250822T023346206--laurent22--joplin--20250822T023813163--cropped
 # [laurent22/joplin](https://github.com/laurent22/joplin)
 
 open source note-taking and to-do app with sync and markdown
+
+开源笔记和待办应用，支持同步和 Markdown

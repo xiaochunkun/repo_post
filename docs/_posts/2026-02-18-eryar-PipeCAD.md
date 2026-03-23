@@ -7,3 +7,5 @@ image: assets/eryar_PipeCAD_20260128_142352_466_20260128_142435_7d6ae0.png
 # [eryar/PipeCAD](https://github.com/eryar/PipeCAD)
 
 Design software for plant piping systems
+
+工厂管道系统的设计软件

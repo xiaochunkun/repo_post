@@ -7,3 +7,5 @@ image: assets/20251012T024849030--IvanMathy--Boop--20251012T025408310--cropped.p
 # [IvanMathy/Boop](https://github.com/IvanMathy/Boop)
 
 scriptable scratchpad for quick text transformations on macOS
+
+可脚本化的便签，用于在 macOS 上快速进行文本转换

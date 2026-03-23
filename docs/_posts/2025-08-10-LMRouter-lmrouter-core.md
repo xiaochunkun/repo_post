@@ -7,3 +7,5 @@ image: assets/LMRouter_lmrouter-core_cropped.png
 # [LMRouter/lmrouter-core](https://github.com/LMRouter/lmrouter-core)
 
 core AI model router for language, image, and video
+
+语言、图像和视频的核心 AI 模型路由器

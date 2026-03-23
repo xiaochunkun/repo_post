@@ -7,3 +7,5 @@ image: assets/georapbox_barcode_scanner_20251201_065221_303_20251201_065258_0903
 # [georapbox/barcode-scanner](https://github.com/georapbox/barcode-scanner/)
 
 PWA scans barcodes using Barcode Detection API
+
+使用 Barcode Detection API 扫描条形码的 PWA

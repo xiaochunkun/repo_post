@@ -7,3 +7,5 @@ image: assets/apiel_zicBox_20251123_210139_098_20251125_221219_f3c739--20251125T
 # [apiel/zicBox](https://github.com/apiel/zicBox/)
 
 C++ framework for building music applications
+
+构建音乐应用的 C++ 框架

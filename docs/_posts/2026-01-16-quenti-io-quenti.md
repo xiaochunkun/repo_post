@@ -7,3 +7,5 @@ image: assets/quenti_io_quenti_20260115_135818_330_20260115_135833_54b252.png
 # [quenti-io/quenti](https://github.com/quenti-io/quenti)
 
 Quizlet alternative using Next.js and MySQL
+
+基于 Next.js 和 MySQL 的 Quizlet 替代方案

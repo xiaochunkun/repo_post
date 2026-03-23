@@ -7,3 +7,5 @@ image: assets/jamesmawm_High-Frequency-Trading-Model-with-IB_cropped.png
 # [jamesmawm/High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
 
 Python model for automated high-frequency trading using Interactive Brokers API
+
+使用Interactive Brokers API进行自动化高频交易的Python模型

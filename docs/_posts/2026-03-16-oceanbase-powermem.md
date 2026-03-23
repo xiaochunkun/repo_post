@@ -7,3 +7,5 @@ image: assets/oceanbase_powermem_20260316_030418_581_20260316_030505_36a840.png
 # [oceanbase/powermem](https://github.com/oceanbase/powermem)
 
 AI long-term memory system for LLMs
+
+LLM 的 AI 长期记忆系统

@@ -7,3 +7,5 @@ image: assets/gurgeous_tennis_20260316_063347_450_20260316_063419_08bfb5.png
 # [gurgeous/tennis](https://github.com/gurgeous/tennis)
 
 Stylish CSV tables in terminal
+
+终端中的时尚 CSV 表格

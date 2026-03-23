@@ -7,3 +7,5 @@ image: assets/thumbmarkjs_thumbmarkjs_20251204_224656_127_20251204_224731_f357f7
 # [thumbmarkjs/thumbmarkjs](https://github.com/thumbmarkjs/thumbmarkjs/)
 
 Browser fingerprinting library for fraud prevention
+
+用于欺诈预防的浏览器指纹库

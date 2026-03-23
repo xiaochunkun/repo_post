@@ -7,3 +7,5 @@ image: assets/anhvth_opensloth_20251205_014347_521_20251205_014408_7c6d6d.png
 # [anhvth/opensloth](https://github.com/anhvth/opensloth/)
 
 Scales Unsloth to multiple GPUs with pure PyTorch DDP
+
+使用纯PyTorch DDP将Unsloth扩展到多GPU

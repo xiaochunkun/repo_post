@@ -7,3 +7,5 @@ image: assets/DocumindHQ_documind--20250817T073956766--cropped.png
 # [DocumindHQ/documind](https://github.com/DocumindHQ/documind)
 
 AI tool for extracting structured data from PDFs
+
+从 PDF 提取结构化数据的 AI 工具

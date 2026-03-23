@@ -7,3 +7,5 @@ image: assets/SpriteOvO_AirPodsDesktop_20251221_031929_525_20251221_031946_fba5a
 # [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop/)
 
 Battery and ear detection for Apple headphones on Windows and Linux
+
+在 Windows 和 Linux 上为 Apple 耳机提供电池和入耳检测

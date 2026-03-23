@@ -7,3 +7,5 @@ image: assets/bizz84_starter_architecture_flutter_firebase_20260118_080252_339_2
 # [bizz84/starter_architecture_flutter_firebase](https://github.com/bizz84/starter_architecture_flutter_firebase)
 
 Time tracking app with Flutter and Firebase
+
+使用Flutter和Firebase的时间追踪应用

@@ -7,3 +7,5 @@ image: assets/jurplel_qView_20251030_235702_057_20251031_000825_320940--20251031
 # [jurplel/qView](https://github.com/jurplel/qView/)
 
 Image viewer with a minimal design
+
+极简设计的图像查看器

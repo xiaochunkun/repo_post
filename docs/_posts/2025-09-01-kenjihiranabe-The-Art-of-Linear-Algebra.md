@@ -7,3 +7,5 @@ image: assets/20250831T002925192--kenjihiranabe--The-Art-of-Linear-Algebra--2025
 # [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
 visual notes on linear algebra concepts and matrix factorizations
+
+线性代数概念和矩阵分解的图解笔记

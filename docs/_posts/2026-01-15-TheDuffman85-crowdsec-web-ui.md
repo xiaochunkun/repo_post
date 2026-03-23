@@ -7,3 +7,5 @@ image: assets/TheDuffman85_crowdsec_web_ui_20260115_104203_479_20260115_104239_7
 # [TheDuffman85/crowdsec-web-ui](https://github.com/TheDuffman85/crowdsec-web-ui)
 
 Interface for managing security alerts and decisions
+
+用于管理安全警报和决策的界面

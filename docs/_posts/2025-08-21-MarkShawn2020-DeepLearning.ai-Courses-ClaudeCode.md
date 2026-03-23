@@ -7,3 +7,5 @@ image: assets/20250820T132818798_MarkShawn2020_DeepLearning.ai-Courses-ClaudeCod
 # [MarkShawn2020/DeepLearning.ai-Courses-ClaudeCode](https://github.com/MarkShawn2020/DeepLearning.ai-Courses-ClaudeCode)
 
 notes and code for DeepLearning.AI Claude Code course
+
+DeepLearning.AI Claude Code 课程的笔记和代码

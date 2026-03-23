@@ -7,3 +7,5 @@ image: assets/ZeroLeaks_zeroleaks_20260227_142727_841_20260227_142856_712661.png
 # [ZeroLeaks/zeroleaks](https://github.com/ZeroLeaks/zeroleaks)
 
 Scans LLM systems for prompt injection vulnerabilities
+
+扫描LLM系统的提示注入漏洞

@@ -7,3 +7,5 @@ image: assets/20250829T043233465--srijanshukla18--xray--20250829T043931152--crop
 # [srijanshukla18/xray](https://github.com/srijanshukla18/xray)
 
 progressive code navigation for AI assistants
+
+AI 助手的渐进式代码导航工具

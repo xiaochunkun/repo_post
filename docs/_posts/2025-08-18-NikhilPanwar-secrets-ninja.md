@@ -7,3 +7,5 @@ image: assets/NikhilPanwar_secrets-ninja--20250817T071520638--cropped.png
 # [NikhilPanwar/secrets-ninja](https://github.com/NikhilPanwar/secrets-ninja)
 
 tool for validating API keys and credentials across services
+
+跨服务验证 API 密钥和凭据的工具

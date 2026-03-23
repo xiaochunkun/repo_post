@@ -7,3 +7,5 @@ image: assets/aidenybai_react-scan_cropped.png
 # [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
 
 Automated tool to find React performance issues
+
+自动查找 React 性能问题的工具

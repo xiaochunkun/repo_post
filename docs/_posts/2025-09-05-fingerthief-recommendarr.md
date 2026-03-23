@@ -7,3 +7,5 @@ image: assets/fingerthief_recommendarr--20250905T025445438--cropped.png
 # [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr)
 
 AI-powered TV and movie recommendations from your own media library
+
+基于你自有媒体库的 AI 影视推荐

@@ -7,3 +7,5 @@ image: assets/photoview_photoview_20260122_020810_527_20260122_020825_58bcb5.png
 # [photoview/photoview](https://github.com/photoview/photoview)
 
 Photo gallery for self-hosted servers
+
+自托管服务器的相册

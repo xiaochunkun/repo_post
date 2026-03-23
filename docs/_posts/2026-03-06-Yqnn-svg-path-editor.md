@@ -7,3 +7,5 @@ image: assets/Yqnn_svg_path_editor_20260305_131559_901_20260305_131744_ae9964.pn
 # [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor)
 
 Editor for SVG paths in a browser
+
+浏览器中的 SVG 路径编辑器

@@ -7,3 +7,5 @@ image: assets/SPThole_CoexistAI_20251025_191036_752_20251025_230201_45da5e--2025
 # [SPThole/CoexistAI](https://github.com/SPThole/CoexistAI/)
 
 Research assistant framework using LLMs to search and summarize
+
+使用 LLM 进行搜索和总结的研究助手框架

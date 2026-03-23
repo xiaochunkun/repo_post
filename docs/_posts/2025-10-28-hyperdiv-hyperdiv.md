@@ -7,3 +7,5 @@ image: assets/hyperdiv_hyperdiv_20251026_234021_061_20251027_002500_e23b6f--2025
 # [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv/)
 
 Build reactive browser UIs in Python
+
+用 Python 构建响应式浏览器 UI

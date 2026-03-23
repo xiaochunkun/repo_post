@@ -7,3 +7,5 @@ image: assets/sharkdp_fd_cropped.png
 # [sharkdp/fd](https://github.com/sharkdp/fd)
 
 find files and directories in a folder with patterns
+
+使用模式在文件夹中查找文件和目录

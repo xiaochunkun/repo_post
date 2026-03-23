@@ -7,3 +7,5 @@ image: assets/20250926T004129713--sdras--awesome-actions--20250926T004613756--cr
 # [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
 
 curated list of useful GitHub Actions and workflow resources
+
+精选的 GitHub Actions 和工作流资源列表

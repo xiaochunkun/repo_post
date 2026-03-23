@@ -7,3 +7,5 @@ image: assets/Netflix_bpftop_20251214_222256_621_20251214_222428_ed4a97.png
 # [Netflix/bpftop](https://github.com/Netflix/bpftop/)
 
 View eBPF program statistics
+
+查看eBPF程序统计信息

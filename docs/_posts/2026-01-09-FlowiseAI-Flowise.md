@@ -7,3 +7,5 @@ image: assets/FlowiseAI_Flowise_20260108_160840_083_20260108_160859_58443f.png
 # [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
 Builds AI agents visually
+
+可视化构建AI代理

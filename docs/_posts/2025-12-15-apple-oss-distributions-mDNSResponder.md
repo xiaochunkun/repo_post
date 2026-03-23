@@ -7,3 +7,5 @@ image: assets/apple_oss_distributions_mDNSResponder_20251213_093913_251_20251213
 # [apple-oss-distributions/mDNSResponder](https://github.com/apple-oss-distributions/mDNSResponder/)
 
 Collection of daemons for DNS Service Discovery
+
+DNS 服务发现的守护进程集合

@@ -7,3 +7,5 @@ image: assets/20250830T173235272--thomasschafer--scooter--20250830T173827028--cr
 # [thomasschafer/scooter](https://github.com/thomasschafer/scooter)
 
 interactive terminal find and replace tool
+
+终端交互式查找和替换工具

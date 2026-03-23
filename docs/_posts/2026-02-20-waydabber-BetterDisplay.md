@@ -7,3 +7,5 @@ image: assets/waydabber_BetterDisplay_20260209_163103_208_20260209_163137_acd033
 # [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
 
 Manages display resolutions and brightness via software
+
+通过软件管理显示分辨率和亮度

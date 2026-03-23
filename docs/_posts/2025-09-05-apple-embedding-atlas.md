@@ -7,3 +7,5 @@ image: assets/20250905T020004159--apple--embedding-atlas--20250905T020201057--cr
 # [apple/embedding-atlas](https://github.com/apple/embedding-atlas)
 
 interactive tool for visualizing and exploring large embeddings
+
+交互式大规模 Embedding 可视化与探索工具

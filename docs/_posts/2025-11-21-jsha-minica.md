@@ -7,3 +7,5 @@ image: assets/jsha_minica_20251120_065039_173_20251121_054939_d59761--20251121T0
 # [jsha/minica](https://github.com/jsha/minica/)
 
 Generates keys and certificates for microservices
+
+为微服务生成密钥和证书

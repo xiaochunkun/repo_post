@@ -7,3 +7,5 @@ image: assets/themepark-dev_theme.park_cropped.png
 # [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park)
 
 themes and skins for self-hosted apps
+
+自托管应用的主题和皮肤

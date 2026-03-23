@@ -7,3 +7,5 @@ image: assets/docling_project_docling_mcp_20260210_124016_765_20260210_124059_c9
 # [docling-project/docling-mcp](https://github.com/docling-project/docling-mcp)
 
 Converts documents into formats for agents via MCP
+
+通过 MCP 将文档转换为代理可用的格式

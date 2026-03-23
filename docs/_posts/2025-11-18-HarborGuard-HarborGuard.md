@@ -7,3 +7,5 @@ image: assets/HarborGuard_HarborGuard_20251118_031400_924_20251118_035000_1444cc
 # [HarborGuard/HarborGuard](https://github.com/HarborGuard/HarborGuard/)
 
 Container security scanning platform for Docker images
+
+用于Docker镜像的容器安全扫描平台

@@ -7,3 +7,5 @@ image: assets/micro_nova_AmpliPi_20260123_153602_191_20260123_153636_ade342.png
 # [micro-nova/AmpliPi](https://github.com/micro-nova/AmpliPi)
 
 Multi-room audio system on Raspberry Pi
+
+基于 Raspberry Pi 的多房间音频系统

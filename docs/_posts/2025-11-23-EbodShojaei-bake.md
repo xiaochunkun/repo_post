@@ -7,3 +7,5 @@ image: assets/EbodShojaei_bake_20251123_002234_046_20251123_022722_8f00a0--20251
 # [EbodShojaei/bake](https://github.com/EbodShojaei/bake/)
 
 Formats Makefiles and validates syntax
+
+格式化 Makefile 并验证语法

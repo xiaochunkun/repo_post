@@ -7,3 +7,5 @@ image: assets/bryanroscoe_shield_optimizer_20260313_175959_168_20260313_180401_6
 # [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer)
 
 Debloats Android TV devices
+
+精简Android TV设备的工具

@@ -7,3 +7,5 @@ image: assets/ether_etherpad_lite_20251102_223952_879_20251103_211805_bf0797--20
 # [ether/etherpad-lite](https://github.com/ether/etherpad-lite/)
 
 Self-hostable collaborative editor for the web
+
+可自托管的Web协作编辑器

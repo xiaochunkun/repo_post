@@ -7,3 +7,5 @@ image: assets/amwx_FluentAvalonia_20251201_040914_562_20251201_040952_d10cf4.png
 # [amwx/FluentAvalonia](https://github.com/amwx/FluentAvalonia/)
 
 WinUI controls for Avalonia apps
+
+Avalonia应用的WinUI控件

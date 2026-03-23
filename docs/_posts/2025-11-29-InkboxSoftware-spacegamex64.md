@@ -7,3 +7,5 @@ image: assets/InkboxSoftware_spacegamex64_20251126_004614_305_20251129_021700_fa
 # [InkboxSoftware/spacegamex64](https://github.com/InkboxSoftware/spacegamex64/)
 
 Zaxxon recreation as a UEFI application
+
+作为UEFI应用程序的Zaxxon重制版

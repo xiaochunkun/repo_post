@@ -7,3 +7,5 @@ image: assets/BloopAI_vibe_kanban_20260206_164628_927_20260206_164708_088d1f.png
 # [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 
 Kanban board for managing AI coding agents
+
+管理AI编码代理的看板

@@ -7,3 +7,5 @@ image: assets/gotify_server_20260108_025949_545_20260108_030002_939436.png
 # [gotify/server](https://github.com/gotify/server)
 
 Server for sending and receiving messages via WebSocket
+
+通过WebSocket发送和接收消息的服务器

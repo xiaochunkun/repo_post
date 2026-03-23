@@ -7,3 +7,5 @@ image: assets/maybe-finance_maybe_cropped.png
 # [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
 
 Open-source personal finance app and platform
+
+开源个人理财应用和平台

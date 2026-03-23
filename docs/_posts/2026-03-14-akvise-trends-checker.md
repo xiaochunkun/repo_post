@@ -7,3 +7,5 @@ image: assets/akvise_trends_checker_20260313_165759_021_20260313_170114_e4f400.p
 # [akvise/trends-checker](https://github.com/akvise/trends-checker)
 
 Analyze Google Trends interest across categories
+
+跨类别分析Google Trends兴趣度

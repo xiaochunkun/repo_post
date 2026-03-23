@@ -7,3 +7,5 @@ image: assets/emuell_restic_browser_20251125_021321_958_20251126_150226_ad30f0--
 # [emuell/restic-browser](https://github.com/emuell/restic-browser/)
 
 GUI for browsing and restoring restic backup repositories
+
+浏览和恢复 restic 备份仓库的 GUI

@@ -7,3 +7,5 @@ image: assets/browseros-ai_BrowserOS_cropped.png
 # [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS)
 
 AI-powered browser automates tasks and boosts privacy
+
+AI 驱动的浏览器，可自动化任务并增强隐私

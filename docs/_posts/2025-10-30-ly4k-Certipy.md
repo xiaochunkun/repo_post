@@ -7,3 +7,5 @@ image: assets/ly4k_Certipy_20251029_215950_929_20251029_222329_8b6462--20251029T
 # [ly4k/Certipy](https://github.com/ly4k/Certipy/)
 
 Toolkit for AD CS with support for all known ESC1-ESC16 attack paths
+
+AD CS 工具包，支持所有已知的 ESC1-ESC16 攻击路径

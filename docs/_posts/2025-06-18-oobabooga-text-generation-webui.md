@@ -7,3 +7,5 @@ image: assets/oobabooga_text-generation-webui_cropped.png
 # [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 Web interface for running language models in your browser
+
+在浏览器中运行语言模型的Web界面

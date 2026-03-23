@@ -7,3 +7,5 @@ image: assets/jobitjoseph_owonconnect_20260205_014515_435_20260205_014603_afaafd
 # [jobitjoseph/owonconnect](https://github.com/jobitjoseph/owonconnect)
 
 Controls electronic loads via the Web Serial API
+
+通过Web Serial API控制电子负载

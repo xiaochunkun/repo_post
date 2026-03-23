@@ -7,3 +7,5 @@ image: assets/osquery_osquery_cropped.png
 # [osquery/osquery](https://github.com/osquery/osquery)
 
 osquery lets you use SQL to explore operating system data and monitor devices
+
+osquery允许使用SQL探索操作系统数据并监控设备

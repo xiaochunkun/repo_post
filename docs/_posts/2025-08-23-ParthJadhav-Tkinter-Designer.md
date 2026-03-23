@@ -7,3 +7,5 @@ image: assets/20250822T023009199--ParthJadhav--Tkinter-Designer--20250822T023529
 # [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)
 
 turn Figma designs into Python Tkinter GUIs with drag and drop
+
+将 Figma 设计稿转换为 Python Tkinter GUI

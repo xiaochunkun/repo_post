@@ -7,3 +7,5 @@ image: assets/20250830T173914117--josephmisiti--awesome-machine-learning--202508
 # [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 curated list of machine learning libraries and frameworks by language
+
+按语言分类的机器学习库和框架精选列表

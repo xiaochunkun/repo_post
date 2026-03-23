@@ -7,3 +7,5 @@ image: assets/leochen_g_dify_schedule_20251120_072046_535_20251121_173957_31f460
 # [leochen-g/dify-schedule](https://github.com/leochen-g/dify-schedule/)
 
 Schedules Dify workflows via GitHub Actions
+
+通过 GitHub Actions 调度 Dify 工作流

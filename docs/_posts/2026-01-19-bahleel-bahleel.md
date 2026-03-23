@@ -7,3 +7,5 @@ image: assets/bahleel_bahleel_20260115_091317_212_20260115_091331_d35635.png
 # [bahleel/bahleel](https://github.com/bahleel/bahleel)
 
 PHP framework for web scraping and data mining
+
+用于网络爬虫和数据挖掘的PHP框架

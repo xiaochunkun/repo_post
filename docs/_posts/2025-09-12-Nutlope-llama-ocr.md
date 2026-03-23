@@ -7,3 +7,5 @@ image: assets/20250911T163134628--Nutlope--llama-ocr--20250911T164348949--croppe
 # [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr)
 
 npm library for OCR using Llama 3.2 Vision, outputs markdown from images
+
+基于 Llama 3.2 Vision 的 npm OCR 库，从图像输出 Markdown

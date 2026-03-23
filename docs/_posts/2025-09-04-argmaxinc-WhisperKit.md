@@ -7,3 +7,5 @@ image: assets/20250903T024915260--argmaxinc--WhisperKit--20250903T030051545--cro
 # [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)
 
 on-device speech-to-text for Apple Silicon using Whisper
+
+基于 Whisper 的 Apple Silicon 本地语音转文字

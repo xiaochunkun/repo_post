@@ -7,3 +7,5 @@ image: assets/20250917T003851816--microg--GmsCore--20250917T004601828--cropped.p
 # [microg/GmsCore](https://github.com/microg/GmsCore)
 
 lets you run apps that need Google Play Services without Google
+
+让你无需 Google 即可运行需要 Google Play 服务的应用

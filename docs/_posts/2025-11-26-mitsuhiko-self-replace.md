@@ -7,3 +7,5 @@ image: assets/mitsuhiko_self_replace_20251123_205700_656_20251125_220752_27fe9a-
 # [mitsuhiko/self-replace](https://github.com/mitsuhiko/self-replace/)
 
 Utility for self-replacing executables
+
+用于自替换可执行文件的实用工具

@@ -7,3 +7,5 @@ image: assets/francoismichel_ssh3_20260317_154456_565_20260317_154613_e4ea2b.png
 # [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
 
 Secure shell over HTTP3
+
+基于HTTP3的安全外壳

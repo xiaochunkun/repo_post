@@ -7,3 +7,5 @@ image: assets/0xDanielLopez_TweetFeed_20251223_093410_635_20251223_093427_9250fb
 # [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed/)
 
 Aggregates indicators of compromise from Twitter
+
+聚合 Twitter 上的威胁指标

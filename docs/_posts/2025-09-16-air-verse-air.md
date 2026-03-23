@@ -7,3 +7,5 @@ image: assets/20250915T223328546--air-verse--air--20250915T225423611--cropped.pn
 # [air-verse/air](https://github.com/air-verse/air)
 
 live reload tool for Go apps, automatic rebuilds on code changes
+
+Go 应用的实时重载工具，代码更改时自动重建

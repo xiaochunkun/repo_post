@@ -7,3 +7,5 @@ image: assets/KohakuBlueleaf_LyCORIS_20251207_200107_299_20251207_200142_e541bc.
 # [KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS/)
 
 Parameter-efficient fine-tuning algorithms for Stable Diffusion
+
+Stable Diffusion的参数高效微调算法

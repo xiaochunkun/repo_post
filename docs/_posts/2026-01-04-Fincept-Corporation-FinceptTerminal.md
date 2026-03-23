@@ -7,3 +7,5 @@ image: assets/Fincept_Corporation_FinceptTerminal_20260103_033307_089_20260103_0
 # [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal/)
 
 Platform for market analytics and automation
+
+市场分析和自动化平台

@@ -7,3 +7,5 @@ image: assets/0xjuanma_helm_20260102_154042_138_20260102_154104_a27c3e.png
 # [0xjuanma/helm](https://github.com/0xjuanma/helm/)
 
 Terminal timer with customizable workflows
+
+带有可定制工作流的终端计时器

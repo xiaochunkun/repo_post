@@ -7,3 +7,5 @@ image: assets/justcallmekoko_ESP32Marauder_20260222_104451_010_20260222_104539_8
 # [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
 
 WiFi and Bluetooth tools for the ESP32
+
+适用于 ESP32 的 WiFi 和蓝牙工具

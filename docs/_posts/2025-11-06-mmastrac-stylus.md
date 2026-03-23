@@ -7,3 +7,5 @@ image: assets/mmastrac_stylus_20251105_225935_800_20251106_001637_118227--202511
 # [mmastrac/stylus](https://github.com/mmastrac/stylus/)
 
 Generates a status page for infrastructure from bash scripts
+
+从 bash 脚本生成基础设施状态页面

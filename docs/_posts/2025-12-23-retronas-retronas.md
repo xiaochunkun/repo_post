@@ -7,3 +7,5 @@ image: assets/retronas_retronas_20251222_154308_030_20251222_154329_15bfb2.png
 # [retronas/retronas](https://github.com/retronas/retronas/)
 
 Network storage for retro computers and consoles
+
+用于复古计算机和游戏机的网络存储

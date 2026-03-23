@@ -7,3 +7,5 @@ image: assets/callstackincubator_react_native_grab_20260304_090633_625_20260304_
 # [callstackincubator/react-native-grab](https://github.com/callstackincubator/react-native-grab)
 
 Captures React Native UI context for AI agents
+
+捕获React Native UI上下文供AI代理使用

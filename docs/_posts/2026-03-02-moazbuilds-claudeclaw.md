@@ -7,3 +7,5 @@ image: assets/moazbuilds_claudeclaw_20260216_190433_682_20260216_190522_d4d2f8.p
 # [moazbuilds/claudeclaw](https://github.com/moazbuilds/claudeclaw)
 
 Daemon for Claude Code with Telegram integration
+
+集成 Telegram 的 Claude Code 守护进程

@@ -7,3 +7,5 @@ image: assets/themactep_thingino_firmware_20251112_084122_417_20251113_164741_d6
 # [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware/)
 
 Alternative firmware for IP cameras with Ingenic SoCs
+
+适用于Ingenic SoC IP摄像头的替代固件

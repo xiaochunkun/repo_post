@@ -7,3 +7,5 @@ image: assets/VibiumDev_vibium_20260208_060613_954_20260208_060632_413bcb.png
 # [VibiumDev/vibium](https://github.com/VibiumDev/vibium)
 
 Browser automation for AI agents
+
+AI代理的浏览器自动化

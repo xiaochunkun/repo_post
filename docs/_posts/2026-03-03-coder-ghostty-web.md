@@ -7,3 +7,5 @@ image: assets/coder_ghostty_web_20260228_073200_113_20260228_073338_2cc890.png
 # [coder/ghostty-web](https://github.com/coder/ghostty-web)
 
 WASM-compiled terminal emulator for the browser
+
+浏览器WASM编译的终端模拟器

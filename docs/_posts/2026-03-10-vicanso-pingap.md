@@ -7,3 +7,5 @@ image: assets/vicanso_pingap_20260309_084232_789_20260309_084433_600249.png
 # [vicanso/pingap](https://github.com/vicanso/pingap)
 
 Reverse proxy built on Pingora
+
+基于Pingora构建的反向代理

@@ -7,3 +7,5 @@ image: assets/Delgan_loguru_cropped.png
 # [Delgan/loguru](https://github.com/Delgan/loguru)
 
 Python logging library with simple setup and usage
+
+Python日志库，设置和使用简单

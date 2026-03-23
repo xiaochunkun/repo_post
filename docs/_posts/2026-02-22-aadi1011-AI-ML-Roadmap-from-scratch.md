@@ -7,3 +7,5 @@ image: assets/aadi1011_AI_ML_Roadmap_from_scratch_20260221_134833_305_20260221_1
 # [aadi1011/AI-ML-Roadmap-from-scratch](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)
 
 Roadmap for AI and machine learning from scratch
+
+从零开始的AI和机器学习路线图

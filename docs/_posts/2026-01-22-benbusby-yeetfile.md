@@ -7,3 +7,5 @@ image: assets/benbusby_yeetfile_20260121_214249_071_20260121_214306_e3f495.png
 # [benbusby/yeetfile](https://github.com/benbusby/yeetfile)
 
 Self-hosted service for encrypted file sharing and storage
+
+用于加密文件共享和存储的自托管服务

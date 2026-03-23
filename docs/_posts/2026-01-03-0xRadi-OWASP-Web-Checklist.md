@@ -7,3 +7,5 @@ image: assets/0xRadi_OWASP_Web_Checklist_20260102_025330_017_20260102_025346_79d
 # [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist/)
 
 Checklist for web security testing
+
+Web 安全测试清单

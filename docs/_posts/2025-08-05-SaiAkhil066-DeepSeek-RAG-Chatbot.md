@@ -7,3 +7,5 @@ image: assets/SaiAkhil066_DeepSeek-RAG-Chatbot_cropped.png
 # [SaiAkhil066/DeepSeek-RAG-Chatbot](https://github.com/SaiAkhil066/DeepSeek-RAG-Chatbot)
 
 local chatbot for docs using DeepSeek-7B, RAG, FAISS, chat history
+
+使用 DeepSeek-7B、RAG、FAISS 和聊天历史的本地文档聊天机器人

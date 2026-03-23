@@ -7,3 +7,5 @@ image: assets/20251014T014720071--bradtraversy--vanillawebprojects--20251014T015
 # [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
 
 20+ mini web projects using just HTML, CSS, and JavaScript
+
+20+ 个仅使用 HTML、CSS 和 JavaScript 的迷你网页项目

@@ -7,3 +7,5 @@ image: assets/20250923T032429934--PrunaAI--pruna--20250923T032530599--cropped.pn
 # [PrunaAI/pruna](https://github.com/PrunaAI/pruna)
 
 toolkit for making AI models faster, smaller, and more efficient
+
+使 AI 模型更快、更小、更高效的工具包

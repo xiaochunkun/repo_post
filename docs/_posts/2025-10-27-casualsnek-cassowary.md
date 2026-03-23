@@ -7,3 +7,5 @@ image: assets/casualsnek_cassowary_20251026_224306_986_20251027_001654_285bb3--2
 # [casualsnek/cassowary](https://github.com/casualsnek/cassowary/)
 
 Run Windows applications on Linux as if they were native
+
+在Linux上原生运行Windows应用程序

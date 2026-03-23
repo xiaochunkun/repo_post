@@ -7,3 +7,5 @@ image: assets/vasturiano_3d_force_graph_20251105_034240_791_20251105_123413_a773
 # [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph/)
 
 Web component for 3D force-directed graphs
+
+用于 3D 力导向图的 Web 组件

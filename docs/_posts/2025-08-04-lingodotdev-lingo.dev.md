@@ -7,3 +7,5 @@ image: assets/lingodotdev_lingo.dev_cropped.png
 # [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 
 make your React app multilingual at build time
+
+在构建时使React应用支持多语言

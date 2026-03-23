@@ -7,3 +7,5 @@ image: assets/lk_geimfari_awesomo_20260116_171845_799_20260116_171905_c18827.png
 # [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)
 
 List of open source projects by language
+
+按语言分类的开源项目列表

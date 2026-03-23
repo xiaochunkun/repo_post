@@ -7,3 +7,5 @@ image: assets/camel-ai_owl_cropped.png
 # [camel-ai/owl](https://github.com/camel-ai/owl)
 
 multi-agent framework for automating tasks with AI agents
+
+用于通过AI代理自动化任务的多代理框架

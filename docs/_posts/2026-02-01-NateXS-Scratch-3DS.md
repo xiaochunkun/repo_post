@@ -7,3 +7,5 @@ image: assets/NateXS_Scratch_3DS_20260131_024021_716_20260131_024107_11cc03.png
 # [NateXS/Scratch-3DS](https://github.com/NateXS/Scratch-3DS)
 
 C++ runtime for Scratch 3 projects on consoles
+
+在游戏机上运行 Scratch 3 项目的 C++ 运行时

@@ -7,3 +7,5 @@ image: assets/yformer_EfficientTAM_20251205_034732_000_20251205_034830_cdcdee.pn
 # [yformer/EfficientTAM](https://github.com/yformer/EfficientTAM/)
 
 Video segmentation model runs on phones
+
+可在手机上运行的视频分割模型

@@ -7,3 +7,5 @@ image: assets/element_hq_ess_helm_20251031_044023_266_20251031_205804_eb5979--20
 # [element-hq/ess-helm](https://github.com/element-hq/ess-helm/)
 
 Matrix stack for non-commercial use
+
+非商业用途的 Matrix 堆栈

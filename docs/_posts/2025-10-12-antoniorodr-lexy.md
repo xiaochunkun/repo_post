@@ -7,3 +7,5 @@ image: assets/20251012T023617251--antoniorodr--lexy--20251012T024131184--cropped
 # [antoniorodr/lexy](https://github.com/antoniorodr/lexy)
 
 programming tutorials from Learn X in Y Minutes, searchable in your terminal
+
+来自 Learn X in Y Minutes 的编程教程，可在终端中搜索

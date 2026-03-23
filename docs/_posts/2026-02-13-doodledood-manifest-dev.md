@@ -7,3 +7,5 @@ image: assets/doodledood_manifest_dev_20260212_184657_619_20260212_184746_586504
 # [doodledood/manifest-dev](https://github.com/doodledood/manifest-dev)
 
 Automates AI implementation through acceptance criteria
+
+通过验收标准自动化 AI 实现

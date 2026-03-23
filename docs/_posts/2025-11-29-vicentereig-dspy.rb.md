@@ -7,3 +7,5 @@ image: assets/vicentereig_dspy_rb_20251126_001952_174_20251128_213627_95677a--20
 # [vicentereig/dspy.rb](https://github.com/vicentereig/dspy.rb/)
 
 Ruby port of Stanford's DSPy framework
+
+斯坦福 DSPy 框架的 Ruby 移植版

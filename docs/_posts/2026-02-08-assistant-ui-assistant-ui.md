@@ -7,3 +7,5 @@ image: assets/assistant_ui_assistant_ui_20260204_031825_068_20260204_031903_7085
 # [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
 
 React components for AI chat interfaces
+
+AI 聊天界面的 React 组件

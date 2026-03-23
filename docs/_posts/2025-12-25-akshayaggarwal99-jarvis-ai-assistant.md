@@ -7,3 +7,5 @@ image: assets/akshayaggarwal99_jarvis_ai_assistant_20251223_135103_626_20251223_
 # [akshayaggarwal99/jarvis-ai-assistant](https://github.com/akshayaggarwal99/jarvis-ai-assistant/)
 
 Voice dictation with local LLMs
+
+使用本地 LLM 进行语音听写

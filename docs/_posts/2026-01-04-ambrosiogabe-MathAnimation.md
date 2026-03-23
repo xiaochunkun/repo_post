@@ -7,3 +7,5 @@ image: assets/ambrosiogabe_MathAnimation_20260103_134316_436_20260103_134405_807
 # [ambrosiogabe/MathAnimation](https://github.com/ambrosiogabe/MathAnimation/)
 
 C++ tool for math animations with realtime GUI previews
+
+带实时 GUI 预览的 C++ 数学动画工具

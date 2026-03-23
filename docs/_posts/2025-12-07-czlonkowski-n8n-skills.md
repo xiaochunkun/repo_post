@@ -7,3 +7,5 @@ image: assets/czlonkowski_n8n_skills_20251205_010823_545_20251205_010845_4b1a7a.
 # [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills/)
 
 Teaches Claude Code to build n8n workflows
+
+教Claude Code构建n8n工作流

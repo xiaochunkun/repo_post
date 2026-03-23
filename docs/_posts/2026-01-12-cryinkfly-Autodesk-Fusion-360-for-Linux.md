@@ -7,3 +7,5 @@ image: assets/cryinkfly_Autodesk_Fusion_360_for_Linux_20260111_203535_249_202601
 # [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
 
 Runs CAD software on Linux via Wine
+
+通过 Wine 在 Linux 上运行 CAD 软件

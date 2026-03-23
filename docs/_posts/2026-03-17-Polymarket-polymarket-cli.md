@@ -7,3 +7,5 @@ image: assets/Polymarket_polymarket_cli_20260316_140323_807_20260316_140424_9f03
 # [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli)
 
 Terminal interface for onchain market trading
+
+链上市场交易的终端界面

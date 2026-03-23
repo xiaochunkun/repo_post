@@ -7,3 +7,5 @@ image: assets/plankanban_planka_20260108_035151_025_20260108_035204_2ca328.png
 # [plankanban/planka](https://github.com/plankanban/planka)
 
 Kanban project management tool with real-time updates
+
+看板项目管理工具，支持实时更新

@@ -7,3 +7,5 @@ image: assets/FrizzleM_BreakFree_20251224_121630_972_20251224_121649_a06338.png
 # [FrizzleM/BreakFree](https://github.com/FrizzleM/BreakFree/)
 
 Sideloads apps on iOS using DNS and certificates
+
+使用 DNS 和证书在 iOS 上侧载应用

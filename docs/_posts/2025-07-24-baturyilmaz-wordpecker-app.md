@@ -7,3 +7,5 @@ image: assets/baturyilmaz_wordpecker-app_cropped.png
 # [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app)
 
 Duolingo-style app for learning with your own vocab lists
+
+Duolingo风格的应用，使用自定义词汇表学习

@@ -7,3 +7,5 @@ image: assets/MilesCranmer_rip2_20251111_050031_073_20251111_151145_ca398b--2025
 # [MilesCranmer/rip2](https://github.com/MilesCranmer/rip2/)
 
 `rm` replacement that sends files to a graveyard
+
+将文件发送到回收站的rm替代工具

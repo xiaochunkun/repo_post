@@ -7,3 +7,5 @@ image: assets/lucide-icons_lucide_cropped.png
 # [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
 
 Open-source icon library with SVG files and components for projects
+
+开源图标库，提供SVG文件和项目组件

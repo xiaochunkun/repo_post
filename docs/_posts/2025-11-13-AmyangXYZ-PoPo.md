@@ -7,3 +7,5 @@ image: assets/AmyangXYZ_PoPo_20251111_202851_157_20251112_031224_49488b--2025111
 # [AmyangXYZ/PoPo](https://github.com/AmyangXYZ/PoPo/)
 
 Generates 3D character poses from natural language
+
+从自然语言生成 3D 角色姿势

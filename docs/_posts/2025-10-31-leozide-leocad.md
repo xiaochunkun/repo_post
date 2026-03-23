@@ -7,3 +7,5 @@ image: assets/leozide_leocad_20251031_020205_982_20251031_140506_a18371--2025103
 # [leozide/leocad](https://github.com/leozide/leocad/)
 
 CAD program for creating virtual LEGO models
+
+创建虚拟 LEGO 模型的 CAD 程序

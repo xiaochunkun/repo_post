@@ -7,3 +7,5 @@ image: assets/debloper_xiosk_20260305_090021_792_20260305_090135_5c29f8.png
 # [debloper/xiosk](https://github.com/debloper/xiosk)
 
 Setup for Raspberry Pi in kiosk mode to shuffle webpages via web interface
+
+为树莓派设置信息亭模式，通过网页界面轮播网页

@@ -7,3 +7,5 @@ image: assets/20251003T231654691--azat-io--eyecons--20251003T231948206--cropped.
 # [azat-io/eyecons](https://github.com/azat-io/eyecons)
 
 VS Code icons that adapt colors to match your theme
+
+VS Code 图标，可自适应颜色以匹配主题

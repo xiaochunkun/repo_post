@@ -7,3 +7,5 @@ image: assets/gavrielc_Nano_PDF_20260305_063436_317_20260305_063625_145ad0.png
 # [gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF)
 
 Tool for editing PDF slides with natural language prompts
+
+用自然语言提示编辑 PDF 幻灯片的工具

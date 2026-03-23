@@ -7,3 +7,5 @@ image: assets/raphaelsty_knowledge_20260121_175355_034_20260121_175423_a89f63.pn
 # [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge)
 
 Turns digital footprints into a search engine and knowledge graph
+
+将数字足迹转换为搜索引擎和知识图谱

@@ -7,3 +7,5 @@ image: assets/Suwayomi_Suwayomi_Server_20251031_134229_136_20251101_210732_2d549
 # [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server/)
 
 Manga reader server for Mihon extensions
+
+用于 Mihon 扩展的漫画阅读器服务器

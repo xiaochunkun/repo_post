@@ -7,3 +7,5 @@ image: assets/LiveBench_LiveBench_20260228_124820_345_20260228_125010_d03d8c.png
 # [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench)
 
 Benchmark for LLMs with monthly questions to prevent contamination
+
+防止污染的月度问题 LLM 基准测试

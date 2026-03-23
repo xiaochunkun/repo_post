@@ -7,3 +7,5 @@ image: assets/enactic_openarm_hardware_20251222_113618_400_20251222_113635_0c66a
 # [enactic/openarm_hardware](https://github.com/enactic/openarm_hardware/)
 
 CAD data for manufacturing robotic arms
+
+制造机械臂的CAD数据

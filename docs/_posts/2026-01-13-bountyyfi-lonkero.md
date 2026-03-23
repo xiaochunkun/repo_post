@@ -7,3 +7,5 @@ image: assets/bountyyfi_lonkero_20260113_030048_838_20260113_030102_52c613.png
 # [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)
 
 Web security scanner with machine learning for penetration testing
+
+用于渗透测试的机器学习Web安全扫描器

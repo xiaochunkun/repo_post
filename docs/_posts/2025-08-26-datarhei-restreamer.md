@@ -7,3 +7,5 @@ image: assets/20250825T030107740--datarhei--restreamer--20250825T030802532--crop
 # [datarhei/restreamer](https://github.com/datarhei/restreamer)
 
 self-host live video streams to YouTube, Twitch, and more
+
+自托管直播推流到 YouTube、Twitch 等平台

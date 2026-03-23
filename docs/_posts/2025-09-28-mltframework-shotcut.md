@@ -7,3 +7,5 @@ image: assets/20250928T051711892--mltframework--shotcut--20250928T052410904--cro
 # [mltframework/shotcut](https://github.com/mltframework/shotcut)
 
 cross-platform open source video editor
+
+跨平台开源视频编辑器

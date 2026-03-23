@@ -7,3 +7,5 @@ image: assets/ajalt_clikt_20251104_183915_515_20251104_223226_493510--20251104T2
 # [ajalt/clikt](https://github.com/ajalt/clikt/)
 
 Multiplatform command line interfaces for Kotlin
+
+Kotlin的多平台命令行界面

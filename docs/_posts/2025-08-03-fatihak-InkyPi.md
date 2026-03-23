@@ -7,3 +7,5 @@ image: assets/fatihak_InkyPi_cropped.png
 # [fatihak/InkyPi](https://github.com/fatihak/InkyPi)
 
 turn a Raspberry Pi into a smart e-ink display with web and AI plugins
+
+将Raspberry Pi转换为智能电子墨水屏，支持Web和AI插件

@@ -7,3 +7,5 @@ image: assets/iAmCorey_awesome-indie-hacker-tools_cropped.png
 # [iAmCorey/awesome-indie-hacker-tools](https://github.com/iAmCorey/awesome-indie-hacker-tools)
 
 curated list of tools for indie hackers
+
+独立开发者工具精选列表

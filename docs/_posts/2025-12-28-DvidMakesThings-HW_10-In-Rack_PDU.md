@@ -7,3 +7,5 @@ image: assets/DvidMakesThings_HW_10_In_Rack_PDU_20251227_012425_919_20251227_012
 # [DvidMakesThings/HW_10-In-Rack_PDU](https://github.com/DvidMakesThings/HW_10-In-Rack_PDU/)
 
 Managed power distribution unit for 10-inch racks
+
+10 英寸机架的托管电源分配单元

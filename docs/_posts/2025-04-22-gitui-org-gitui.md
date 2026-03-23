@@ -7,3 +7,5 @@ image: assets/gitui-org_gitui_cropped.png
 # [gitui-org/gitui](https://github.com/gitui-org/gitui)
 
 Terminal-based git interface for managing repositories with keyboard shortcuts and interactive views
+
+基于终端的 git 界面，用于通过键盘快捷键和交互视图管理仓库

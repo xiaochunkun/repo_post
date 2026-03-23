@@ -7,3 +7,5 @@ image: assets/overtake_TelegramSwift_20260120_092326_305_20260120_092341_bf7b67.
 # [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
 
 Source code for the macOS client in Swift
+
+macOS 客户端的 Swift 源代码

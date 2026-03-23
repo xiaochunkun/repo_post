@@ -7,3 +7,5 @@ image: assets/hxehex_russia_mobile_internet_whitelist_20260111_060419_982_202601
 # [hxehex/russia-mobile-internet-whitelist](https://github.com/hxehex/russia-mobile-internet-whitelist)
 
 Domains and IPs accessible during internet restrictions in Russia
+
+俄罗斯互联网限制期间可访问的域名和IP

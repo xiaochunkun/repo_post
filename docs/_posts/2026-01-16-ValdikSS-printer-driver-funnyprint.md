@@ -7,3 +7,5 @@ image: assets/ValdikSS_printer_driver_funnyprint_20260115_160852_757_20260115_16
 # [ValdikSS/printer-driver-funnyprint](https://github.com/ValdikSS/printer-driver-funnyprint)
 
 CUPS driver for Bluetooth thermal printers
+
+蓝牙热敏打印机的 CUPS 驱动

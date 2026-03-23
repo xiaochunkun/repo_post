@@ -7,3 +7,5 @@ image: assets/aio_libs_janus_20251207_210458_952_20251207_210535_1c460f.png
 # [aio-libs/janus](https://github.com/aio-libs/janus/)
 
 Thread-safe asyncio-aware queue for Python
+
+Python的线程安全asyncio感知队列

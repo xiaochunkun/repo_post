@@ -7,3 +7,5 @@ image: assets/DataPupOrg_DataPup_20251031_132308_351_20251031_210007_f18bbe--202
 # [DataPupOrg/DataPup](https://github.com/DataPupOrg/DataPup/)
 
 Cross-platform database client with AI query assistance
+
+跨平台数据库客户端，带 AI 查询辅助

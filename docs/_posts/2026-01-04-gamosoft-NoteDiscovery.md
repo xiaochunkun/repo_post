@@ -7,3 +7,5 @@ image: assets/gamosoft_NoteDiscovery_20260103_004140_149_20260103_004155_4ee1da.
 # [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery/)
 
 Self-hosted knowledge base for markdown files
+
+Markdown文件的自托管知识库

@@ -7,3 +7,5 @@ image: assets/20250820T132657722_moonbeam-nyc_snorlax--20250820T135820462--cropp
 # [moonbeam-nyc/snorlax](https://github.com/moonbeam-nyc/snorlax)
 
 Kubernetes operator to schedule sleeping and waking deployments
+
+Kubernetes 定时休眠和唤醒 Deployment 的 Operator

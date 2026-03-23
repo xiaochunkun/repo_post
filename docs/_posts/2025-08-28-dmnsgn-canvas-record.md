@@ -7,3 +7,5 @@ image: assets/20250827T221205643--dmnsgn--canvas-record--20250827T221618120--cro
 # [dmnsgn/canvas-record](https://github.com/dmnsgn/canvas-record)
 
 record canvas animations or regions as video files
+
+将 Canvas 动画或区域录制为视频文件

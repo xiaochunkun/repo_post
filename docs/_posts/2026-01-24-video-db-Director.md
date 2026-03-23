@@ -7,3 +7,5 @@ image: assets/video_db_Director_20260122_030539_549_20260122_030628_0c092b.png
 # [video-db/Director](https://github.com/video-db/Director)
 
 Framework for video agents to search and edit media
+
+视频智能体搜索和编辑媒体的框架

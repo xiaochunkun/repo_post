@@ -7,3 +7,5 @@ image: assets/evangelosmeklis_deepdrone_20260111_075529_564_20260111_075553_dad0
 # [evangelosmeklis/deepdrone](https://github.com/evangelosmeklis/deepdrone)
 
 Controls drones with natural language through LLMs
+
+通过LLM用自然语言控制无人机

@@ -7,3 +7,5 @@ image: assets/mobile-next_mobile-mcp_cropped.png
 # [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 
 lets agents automate iOS and Android apps
+
+让代理自动化iOS和Android应用

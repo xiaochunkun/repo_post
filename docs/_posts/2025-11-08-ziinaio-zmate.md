@@ -7,3 +7,5 @@ image: assets/ziinaio_zmate_20251107_202430_875_20251108_000033_d68b52--20251108
 # [ziinaio/zmate](https://github.com/ziinaio/zmate/)
 
 Share a Zellij session behind a NAT gateway
+
+在NAT网关后共享Zellij会话

@@ -7,3 +7,5 @@ image: assets/20250823T012247591--leaperone--MultiPost-Extension--20250823T01360
 # [leaperone/MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension)
 
 browser extension for posting to multiple social platforms at once
+
+浏览器扩展，一键同步发布到多个社交平台

@@ -7,3 +7,5 @@ image: assets/yogesh43221_SentinelSight_AI_Video_Analytics_20260217_160601_232_2
 # [yogesh43221/SentinelSight_AI_Video_Analytics](https://github.com/yogesh43221/SentinelSight_AI_Video_Analytics)
 
 Monitors CCTV streams with object detection and zone rules
+
+通过对象检测和区域规则监控CCTV流

@@ -7,3 +7,5 @@ image: assets/FuzzyIdeas_Clop_20260111_084907_858_20260111_084921_234240.png
 # [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop)
 
 Optimises images and videos on the clipboard
+
+优化剪贴板中的图像和视频

@@ -7,3 +7,5 @@ image: assets/puemos_craftplan_20260205_101747_596_20260205_101813_8c10b7.png
 # [puemos/craftplan](https://github.com/puemos/craftplan)
 
 ERP for production planning and inventory management
+
+生产计划和库存管理的 ERP

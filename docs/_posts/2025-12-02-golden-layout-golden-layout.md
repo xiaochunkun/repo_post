@@ -7,3 +7,5 @@ image: assets/golden_layout_golden_layout_20251201_014108_598_20251201_014132_6c
 # [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout/)
 
 JavaScript layout manager for web components
+
+Web组件的JavaScript布局管理器

@@ -7,3 +7,5 @@ image: assets/TermoraDev_termora_cropped.png
 # [TermoraDev/termora](https://github.com/TermoraDev/termora)
 
 Terminal emulator and SSH client for Windows, macOS, and Linux
+
+Windows、macOS 和 Linux 的终端模拟器和 SSH 客户端

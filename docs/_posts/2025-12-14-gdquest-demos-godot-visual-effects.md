@@ -7,3 +7,5 @@ image: assets/gdquest_demos_godot_visual_effects_20251210_050523_455_20251210_05
 # [gdquest-demos/godot-visual-effects](https://github.com/gdquest-demos/godot-visual-effects/)
 
 Set of 2D visual effects for Godot
+
+Godot 2D 视觉效果合集

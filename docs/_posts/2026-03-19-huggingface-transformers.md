@@ -7,3 +7,5 @@ image: assets/huggingface_transformers_20260319_040814_408_20260319_041009_38226
 # [huggingface/transformers](https://github.com/huggingface/transformers)
 
 Framework for pretraining machine learning models
+
+用于预训练机器学习模型的框架

@@ -7,3 +7,5 @@ image: assets/Lissy93_domain-locker_cropped.png
 # [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker)
 
 Track domain names
+
+追踪域名

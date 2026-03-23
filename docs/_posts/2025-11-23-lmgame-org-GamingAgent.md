@@ -7,3 +7,5 @@ image: assets/lmgame_org_GamingAgent_20251122_224745_779_20251123_001720_302447-
 # [lmgame-org/GamingAgent](https://github.com/lmgame-org/GamingAgent/)
 
 Evaluates agents in video games
+
+在视频游戏中评估智能体

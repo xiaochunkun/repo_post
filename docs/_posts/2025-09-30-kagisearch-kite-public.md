@@ -7,3 +7,5 @@ image: assets/20250930T033432509--kagisearch--kite-public--20250930T034634644--c
 # [kagisearch/kite-public](https://github.com/kagisearch/kite-public)
 
 open source daily news app with curated feeds and no ads
+
+开源每日新闻应用，提供精选订阅源且无广告

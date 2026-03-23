@@ -7,3 +7,5 @@ image: assets/20250912T002132362--systemdesign42--system-design--20250912T002404
 # [systemdesign42/system-design](https://github.com/systemdesign42/system-design)
 
 system design case studies and fundamentals for real-world architectures
+
+面向真实架构的系统设计案例分析和基础知识

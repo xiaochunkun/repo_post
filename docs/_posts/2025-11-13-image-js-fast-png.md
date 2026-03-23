@@ -7,3 +7,5 @@ image: assets/image_js_fast_png_20251111_220541_062_20251112_032928_d5e9ef--2025
 # [image-js/fast-png](https://github.com/image-js/fast-png/)
 
 PNG decoder and encoder in JavaScript
+
+JavaScript 中的 PNG 解码器和编码器

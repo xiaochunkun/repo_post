@@ -7,3 +7,5 @@ image: assets/thedotmack_claude_mem_20260122_020804_105_20260122_020825_ff68f6.p
 # [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
 Persistent memory system for Claude Code sessions
+
+Claude Code会话持久内存系统

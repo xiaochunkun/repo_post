@@ -7,3 +7,5 @@ image: assets/martiliones_icon_set_creator_20260106_092154_001_20260106_092218_6
 # [martiliones/icon-set-creator](https://github.com/martiliones/icon-set-creator/)
 
 Generates app icons for React Native
+
+为 React Native 生成应用图标

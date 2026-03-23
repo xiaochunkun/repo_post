@@ -7,3 +7,5 @@ image: assets/jasonwitty_socktop_20251029_203743_852_20251029_212947_6d94d9--202
 # [jasonwitty/socktop](https://github.com/jasonwitty/socktop/)
 
 Remote system monitor with a TUI over WebSockets
+
+通过 WebSockets 的远程系统监控 TUI

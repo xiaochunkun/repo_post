@@ -7,3 +7,5 @@ image: assets/oddlama_nix_topology_20260210_172451_678_20260210_172541_30608e.pn
 # [oddlama/nix-topology](https://github.com/oddlama/nix-topology)
 
 Generates network diagrams from NixOS configurations
+
+从 NixOS 配置生成网络图

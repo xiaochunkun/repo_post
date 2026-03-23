@@ -7,3 +7,5 @@ image: assets/apt_42_resources_20260212_030605_645_20260212_030626_565a54.png
 # [apt-42/resources](https://github.com/apt-42/resources)
 
 Collection of resources for infosec students
+
+信息安全学生资源集合

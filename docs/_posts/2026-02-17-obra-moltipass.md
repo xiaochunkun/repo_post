@@ -7,3 +7,5 @@ image: assets/obra_moltipass_20260208_210516_571_20260208_210534_94c19a.png
 # [obra/moltipass](https://github.com/obra/moltipass)
 
 iOS client for a social network for agents
+
+代理社交网络的iOS客户端

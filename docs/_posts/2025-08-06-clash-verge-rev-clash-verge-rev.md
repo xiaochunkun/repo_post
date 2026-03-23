@@ -7,3 +7,5 @@ image: assets/clash-verge-rev_clash-verge-rev_cropped.png
 # [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 A rule-based network proxy for Windows and macOS
+
+适用于 Windows 和 macOS 的基于规则的网络代理

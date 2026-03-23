@@ -7,3 +7,5 @@ image: assets/Dennis960_BackApp_20251226_182343_134_20251226_182400_7cd963.png
 # [Dennis960/BackApp](https://github.com/Dennis960/BackApp/)
 
 Schedules and inspects backups of servers via SSH
+
+通过 SSH 调度和检查服务器备份

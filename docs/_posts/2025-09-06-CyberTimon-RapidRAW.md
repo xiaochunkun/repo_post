@@ -7,3 +7,5 @@ image: assets/20250906T022827788--CyberTimon--RapidRAW--20250906T023003445--crop
 # [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)
 
 Open-source RAW photo editor, fast and lightweight alternative to Lightroom
+
+开源 RAW 照片编辑器，Lightroom 的快速轻量替代品

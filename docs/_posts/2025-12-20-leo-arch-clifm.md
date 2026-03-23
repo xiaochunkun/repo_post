@@ -7,3 +7,5 @@ image: assets/leo_arch_clifm_20251218_084449_022_20251218_084510_4dd976.png
 # [leo-arch/clifm](https://github.com/leo-arch/clifm/)
 
 File manager for the command line without a TUI
+
+无 TUI 的命令行文件管理器

@@ -7,3 +7,5 @@ image: assets/20250818T110743330_e2b-dev_open-computer-use--20250820T132556174--
 # [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use)
 
 cloud Linux computer controlled by open-source LLMs
+
+由开源大模型控制的云端 Linux 电脑

@@ -7,3 +7,5 @@ image: assets/20251010T130007521--wimpysworld--deb-get--20251010T131054536--crop
 # [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
 
 install and update .deb packages from third-party sources on Debian and Ubuntu
+
+在 Debian 和 Ubuntu 上从第三方源安装和更新 .deb 包

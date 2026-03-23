@@ -7,3 +7,5 @@ image: assets/WithSecureLabs_chainsaw_20251202_223040_457_20251202_223106_19f831
 # [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw/)
 
 Identify threats in Windows event logs
+
+识别 Windows 事件日志中的威胁

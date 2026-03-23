@@ -7,3 +7,5 @@ image: assets/ruvnet_dspy_ts_20251201_082646_117_20251201_082710_4ec900.png
 # [ruvnet/dspy.ts](https://github.com/ruvnet/dspy.ts/)
 
 TypeScript framework for building compositional AI systems
+
+用于构建组合式AI系统的TypeScript框架

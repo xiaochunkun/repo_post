@@ -7,3 +7,5 @@ image: assets/ethanopp_fitly_20260112_083522_991_20260112_083545_0987dc.png
 # [ethanopp/fitly](https://github.com/ethanopp/fitly)
 
 Self-hosted dashboard for endurance training data
+
+自托管耐力训练数据仪表板

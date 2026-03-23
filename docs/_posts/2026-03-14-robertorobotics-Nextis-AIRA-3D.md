@@ -7,3 +7,5 @@ image: assets/robertorobotics_Nextis_AIRA_3D_20260314_054858_776_20260314_055319
 # [robertorobotics/Nextis-AIRA-3D](https://github.com/robertorobotics/Nextis-AIRA-3D)
 
 3D-printable 7DoF robotic arm for LeRobot
+
+用于LeRobot的3D可打印7自由度机械臂

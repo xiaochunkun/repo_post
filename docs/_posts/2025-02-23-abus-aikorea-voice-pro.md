@@ -7,3 +7,5 @@ image: assets/abus-aikorea_voice-pro_cropped.png
 # [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)
 
 AI-powered audio processing tool with speech recognition, translation, and TTS
+
+具有语音识别、翻译和TTS功能的AI音频处理工具

@@ -7,3 +7,5 @@ image: assets/20250822T022359017--veeso--termscp--20250822T023344718--cropped.pn
 # [veeso/termscp](https://github.com/veeso/termscp)
 
 terminal file transfer tool with tui and scp, sftp, cloud support
+
+终端文件传输工具，支持 SCP、SFTP 和云存储

@@ -7,3 +7,5 @@ image: assets/yee_yore_DorkAgent_20260105_061816_037_20260105_061833_d7161a.png
 # [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent/)
 
 Agent for Google Dorking via LLMs
+
+通过 LLM 进行 Google Dorking 的代理

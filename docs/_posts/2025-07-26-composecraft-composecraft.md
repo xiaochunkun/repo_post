@@ -7,3 +7,5 @@ image: assets/composecraft_composecraft_cropped.png
 # [composecraft/composecraft](https://github.com/composecraft/composecraft)
 
 manage docker compose files with a simple GUI
+
+通过简单GUI管理Docker Compose文件

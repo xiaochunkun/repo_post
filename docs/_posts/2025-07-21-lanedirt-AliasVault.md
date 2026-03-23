@@ -7,3 +7,5 @@ image: assets/lanedirt_AliasVault_cropped.png
 # [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault)
 
 open source password and email alias manager for privacy and self-hosting
+
+用于隐私保护和自托管的开源密码和邮箱别名管理器

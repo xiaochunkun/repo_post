@@ -7,3 +7,5 @@ image: assets/smallstep_certificates_20251025_005200_884_20251025_005236_97bc34-
 # [smallstep/certificates](https://github.com/smallstep/certificates/)
 
 A private certificate authority for DevOps
+
+DevOps的私有证书颁发机构

@@ -7,3 +7,5 @@ image: assets/20250926T001857232--mhogomchungu--media-downloader--20250926T00440
 # [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)
 
 GUI for batch downloading media from many sites using yt-dlp and other tools
+
+使用 yt-dlp 等工具批量下载媒体文件的 GUI

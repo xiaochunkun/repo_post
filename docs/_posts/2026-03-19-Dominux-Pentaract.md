@@ -7,3 +7,5 @@ image: assets/Dominux_Pentaract_20260319_081800_708_20260319_081925_b6a1ad.png
 # [Dominux/Pentaract](https://github.com/Dominux/Pentaract)
 
 Telegram API cloud storage system
+
+Telegram API 云存储系统

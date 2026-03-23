@@ -7,3 +7,5 @@ image: assets/open_meteo_open_meteo_20260202_231909_205_20260202_231934_e9a4db.p
 # [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo)
 
 Weather API without API keys
+
+无需API密钥的天气API

@@ -7,3 +7,5 @@ image: assets/plemeri_transparent_background_20251124_232231_957_20251125_221300
 # [plemeri/transparent-background](https://github.com/plemeri/transparent-background/)
 
 Removes backgrounds from images and videos
+
+从图像和视频中移除背景

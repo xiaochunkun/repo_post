@@ -7,3 +7,5 @@ image: assets/nothing2obvi_pixelfin_20251114_232550_284_20251116_032433_466857--
 # [nothing2obvi/pixelfin](https://github.com/nothing2obvi/pixelfin/)
 
 Tool to inspect and back up Jellyfin library images
+
+检查和备份 Jellyfin 库图像的工具

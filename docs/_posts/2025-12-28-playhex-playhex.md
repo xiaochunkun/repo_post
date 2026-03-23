@@ -7,3 +7,5 @@ image: assets/playhex_playhex_20251226_202932_071_20251226_202949_7a1979.png
 # [playhex/playhex](https://github.com/playhex/playhex/)
 
 Online board game with AI
+
+在线棋盘游戏，带 AI

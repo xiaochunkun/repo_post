@@ -7,3 +7,5 @@ image: assets/11notes_docker_cron_20260102_023026_353_20260102_023042_166a1a.png
 # [11notes/docker-cron](https://github.com/11notes/docker-cron/)
 
 Cron scheduler for tasks without root privileges via command socket
+
+通过命令套接字实现无需root权限的Cron任务调度器

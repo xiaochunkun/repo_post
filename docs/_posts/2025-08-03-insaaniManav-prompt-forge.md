@@ -7,3 +7,5 @@ image: assets/insaaniManav_prompt-forge_cropped.png
 # [insaaniManav/prompt-forge](https://github.com/insaaniManav/prompt-forge)
 
 ai prompt workbench for crafting and testing prompts
+
+AI提示词工作台，用于制作和测试提示

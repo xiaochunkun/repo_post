@@ -7,3 +7,5 @@ image: assets/abus-aikorea_voice-pro_cropped.png
 # [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)
 
 YouTube downloader, speech separation, transcription, translation, TTS, and voice cloning toolkit for creators
+
+创作者工具包：YouTube 下载器、语音分离、转录、翻译、TTS 和语音克隆

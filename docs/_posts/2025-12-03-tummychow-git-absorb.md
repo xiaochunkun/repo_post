@@ -7,3 +7,5 @@ image: assets/tummychow_git_absorb_20251201_072050_784_20251201_072125_fa1f49.pn
 # [tummychow/git-absorb](https://github.com/tummychow/git-absorb/)
 
 Automatically absorbs changes into git commits
+
+自动将更改吸收到git提交中

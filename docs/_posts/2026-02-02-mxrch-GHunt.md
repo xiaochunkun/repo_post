@@ -7,3 +7,5 @@ image: assets/mxrch_GHunt_20260202_162234_294_20260202_162324_6319a7.png
 # [mxrch/GHunt](https://github.com/mxrch/GHunt)
 
 OSINT framework for Google accounts
+
+Google账户的OSINT框架

@@ -7,3 +7,5 @@ image: assets/dinoki_ai_tweaks_20260115_084607_408_20260115_084621_5a80fb.png
 # [dinoki-ai/tweaks](https://github.com/dinoki-ai/tweaks)
 
 Rewrites clipboard text with local AI models
+
+使用本地 AI 模型重写剪贴板文本

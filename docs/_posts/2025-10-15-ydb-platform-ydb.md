@@ -7,3 +7,5 @@ image: assets/20251015T010835294--ydb-platform--ydb--20251015T011435470--cropped
 # [ydb-platform/ydb](https://github.com/ydb-platform/ydb)
 
 open source distributed SQL database with ACID transactions and horizontal scalability
+
+开源分布式 SQL 数据库，支持 ACID 事务和水平扩展

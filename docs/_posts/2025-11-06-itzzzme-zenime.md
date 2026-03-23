@@ -7,3 +7,5 @@ image: assets/itzzzme_zenime_20251106_043650_366_20251106_133811_0b2004--2025110
 # [itzzzme/zenime](https://github.com/itzzzme/zenime/)
 
 Anime streaming platform without ads
+
+无广告的动漫流媒体平台

@@ -7,3 +7,5 @@ image: assets/colanode_colanode_20251018_205311_905_20251018_230243--20251019T01
 # [colanode/colanode](https://github.com/colanode/colanode/)
 
 Open-source, local-first, self-hostable collaboration workspace
+
+开源、本地优先、可自托管的协作工作区

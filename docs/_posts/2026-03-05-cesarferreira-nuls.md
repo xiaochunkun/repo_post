@@ -7,3 +7,5 @@ image: assets/cesarferreira_nuls_20260305_141122_601_20260305_141243_c4d2e0.png
 # [cesarferreira/nuls](https://github.com/cesarferreira/nuls)
 
 Tool for directory listing with tables and git status
+
+带表格和 git 状态的目录列表工具

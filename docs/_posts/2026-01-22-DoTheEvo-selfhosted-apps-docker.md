@@ -7,3 +7,5 @@ image: assets/DoTheEvo_selfhosted_apps_docker_20260122_010535_074_20260122_01055
 # [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker)
 
 Guides for deploying applications with Docker
+
+使用Docker部署应用的指南

@@ -7,3 +7,5 @@ image: assets/caddymanager_caddymanager_cropped.png
 # [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager)
 
 web UI to manage multiple Caddy servers
+
+管理多个Caddy服务器的Web UI

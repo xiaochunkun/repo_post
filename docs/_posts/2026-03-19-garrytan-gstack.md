@@ -7,3 +7,5 @@ image: assets/garrytan_gstack_20260319_065444_785_20260319_065534_a363da.png
 # [garrytan/gstack](https://github.com/garrytan/gstack)
 
 Turns Claude Code into virtual engineering team
+
+将 Claude Code 转变为虚拟工程团队

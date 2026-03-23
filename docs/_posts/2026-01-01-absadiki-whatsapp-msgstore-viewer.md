@@ -7,3 +7,5 @@ image: assets/absadiki_whatsapp_msgstore_viewer_20251231_192645_608_20251231_192
 # [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer/)
 
 Decrypts and views WhatsApp database files
+
+解密和查看WhatsApp数据库文件

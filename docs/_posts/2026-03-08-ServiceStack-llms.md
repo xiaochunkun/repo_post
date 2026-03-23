@@ -7,3 +7,5 @@ image: assets/ServiceStack_llms_20260305_024758_811_20260305_024935_890ff9.png
 # [ServiceStack/llms](https://github.com/ServiceStack/llms)
 
 CLI and server gateway for LLMs with a web interface
+
+带Web界面的LLM CLI和服务器网关

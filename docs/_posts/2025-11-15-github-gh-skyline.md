@@ -7,3 +7,5 @@ image: assets/github_gh_skyline_20251114_183843_129_20251115_035146_cb5788--2025
 # [github/gh-skyline](https://github.com/github/gh-skyline/)
 
 Generates 3D-printable STL files from a GitHub contribution graph
+
+从GitHub贡献图生成可3D打印的STL文件

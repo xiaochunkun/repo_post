@@ -7,3 +7,5 @@ image: assets/bookstairs_bookhunter_20251218_025815_687_20251218_025833_35e626.p
 # [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter/)
 
 Downloads books from websites and Telegram channels
+
+从网站和 Telegram 频道下载书籍

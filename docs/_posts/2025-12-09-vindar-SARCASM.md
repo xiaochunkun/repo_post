@@ -7,3 +7,5 @@ image: assets/vindar_SARCASM_20251207_215703_117_20251207_215724_b97123.png
 # [vindar/SARCASM](https://github.com/vindar/SARCASM/)
 
 Robot solves Rubik's cubes with sass
+
+带有讽刺风格的魔方解谜机器人

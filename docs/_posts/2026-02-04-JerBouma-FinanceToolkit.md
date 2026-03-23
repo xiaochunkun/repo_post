@@ -7,3 +7,5 @@ image: assets/JerBouma_FinanceToolkit_20260203_021852_474_20260203_021914_22c4ec
 # [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit)
 
 Calculates financial ratios with transparent methodology
+
+使用透明方法计算财务比率

@@ -7,3 +7,5 @@ image: assets/nari_labs_dia2_20260209_142047_159_20260209_142220_3d5ff2.png
 # [nari-labs/dia2](https://github.com/nari-labs/dia2)
 
 Streams dialogue audio from text input
+
+从文本输入流式传输对话音频

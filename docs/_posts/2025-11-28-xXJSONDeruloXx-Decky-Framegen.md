@@ -7,3 +7,5 @@ image: assets/xXJSONDeruloXx_Decky_Framegen_20251125_231944_666_20251128_212609_
 # [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen/)
 
 Enables DLSS upscaling and frame generation on Steam Deck
+
+在Steam Deck上启用DLSS超分辨率和帧生成

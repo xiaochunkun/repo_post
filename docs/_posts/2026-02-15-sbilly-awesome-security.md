@@ -7,3 +7,5 @@ image: assets/sbilly_awesome_security_20260117_072026_297_20260117_072040_6a36a2
 # [sbilly/awesome-security](https://github.com/sbilly/awesome-security)
 
 Collection of security software and resources
+
+安全软件和资源集合

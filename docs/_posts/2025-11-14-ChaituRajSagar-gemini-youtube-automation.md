@@ -7,3 +7,5 @@ image: assets/ChaituRajSagar_gemini_youtube_automation_20251114_044411_045_20251
 # [ChaituRajSagar/gemini-youtube-automation](https://github.com/ChaituRajSagar/gemini-youtube-automation/)
 
 GitHub Actions workflow that automates YouTube video creation
+
+自动化YouTube视频创建的GitHub Actions工作流

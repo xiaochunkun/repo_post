@@ -7,3 +7,5 @@ image: assets/custom_components_ble_monitor_20260114_015211_220_20260114_015224_
 # [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor)
 
 Monitors passive BLE sensors for Home Assistant
+
+为 Home Assistant 监控被动 BLE 传感器

@@ -7,3 +7,5 @@ image: assets/KarlPiper_apple_wasd_keyboards_20260205_080656_121_20260205_080737
 # [KarlPiper/apple-wasd-keyboards](https://github.com/KarlPiper/apple-wasd-keyboards)
 
 Apple keyboard layout for WASD Keyboards
+
+WASD键盘的Apple键盘布局

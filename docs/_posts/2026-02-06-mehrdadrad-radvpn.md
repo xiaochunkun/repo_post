@@ -7,3 +7,5 @@ image: assets/mehrdadrad_radvpn_20260204_030528_429_20260204_030543_ea6dca.png
 # [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn)
 
 Full mesh VPN without central points
+
+无中心节点的全网状VPN

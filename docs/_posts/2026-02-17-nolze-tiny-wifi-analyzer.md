@@ -7,3 +7,5 @@ image: assets/nolze_tiny_wifi_analyzer_20260213_123418_948_20260213_123509_c4dda
 # [nolze/tiny-wifi-analyzer](https://github.com/nolze/tiny-wifi-analyzer)
 
 Wi-Fi analyzer for macOS with support for 6 GHz bands
+
+支持6GHz频段的macOS Wi-Fi分析器

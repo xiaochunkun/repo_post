@@ -7,3 +7,5 @@ image: assets/tobozo_WiFiChanViz_20260131_091727_174_20260131_091805_80d11d.png
 # [tobozo/WiFiChanViz](https://github.com/tobozo/WiFiChanViz)
 
 WiFi scanner for finding idlest channels
+
+用于寻找最空闲信道的 WiFi 扫描器

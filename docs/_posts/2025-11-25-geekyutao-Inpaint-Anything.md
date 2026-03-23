@@ -7,3 +7,5 @@ image: assets/geekyutao_Inpaint_Anything_20251123_192638_640_20251125_011719_6ae
 # [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything/)
 
 Combines Segment Anything with image inpainting
+
+结合 Segment Anything 与图像修复

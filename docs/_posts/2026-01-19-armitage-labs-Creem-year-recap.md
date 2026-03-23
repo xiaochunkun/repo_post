@@ -7,3 +7,5 @@ image: assets/armitage_labs_Creem_year_recap_20260114_003756_218_20260114_003809
 # [armitage-labs/Creem-year-recap](https://github.com/armitage-labs/Creem-year-recap)
 
 Generates videos using React
+
+使用React生成视频

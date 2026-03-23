@@ -7,3 +7,5 @@ image: assets/aheze_OpenFind_20260103_053402_713_20260103_053440_904d75.png
 # [aheze/OpenFind](https://github.com/aheze/OpenFind/)
 
 Finds text in real life offline
+
+离线在现实世界中查找文本

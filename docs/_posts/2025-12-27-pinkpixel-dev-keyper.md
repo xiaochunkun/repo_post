@@ -7,3 +7,5 @@ image: assets/pinkpixel_dev_keyper_20251225_211403_912_20251225_211421_9c46da.pn
 # [pinkpixel-dev/keyper](https://github.com/pinkpixel-dev/keyper/)
 
 Credential manager for self-hosting with encryption
+
+支持自托管和加密的凭证管理器

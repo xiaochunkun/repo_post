@@ -7,3 +7,5 @@ image: assets/20250826T032014069--axiomhq--mcp-server-axiom--20250826T032918773-
 # [axiomhq/mcp-server-axiom](https://github.com/axiomhq/mcp-server-axiom)
 
 lets AI agents query Axiom data with APL
+
+让 AI 智能体使用 APL 查询 Axiom 数据

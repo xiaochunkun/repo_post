@@ -7,3 +7,5 @@ image: assets/tractorjuice_arc_kit_20260204_033030_912_20260204_033059_bcaa45.pn
 # [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit)
 
 AI workflow for architecture governance and vendor procurement
+
+用于架构治理和供应商采购的 AI 工作流

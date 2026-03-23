@@ -7,3 +7,5 @@ image: assets/blacklanternsecurity_bbot_cropped.png
 # [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)
 
 BBOT: Automated OSINT scanner for hackers
+
+BBOT：面向黑客的自动化OSINT扫描器

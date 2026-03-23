@@ -7,3 +7,5 @@ image: assets/Computer_use_agents_MacOS_Agent_20260228_130637_172_20260228_13082
 # [Computer-use-agents/MacOS-Agent](https://github.com/Computer-use-agents/MacOS-Agent)
 
 Automates macOS applications through natural language commands
+
+通过自然语言命令自动化 macOS 应用

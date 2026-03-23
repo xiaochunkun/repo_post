@@ -7,3 +7,5 @@ image: assets/DominikPieper_obsidian_ReadItLater_20251125_041223_987_20251127_16
 # [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater/)
 
 Saves web pages to Obsidian as Markdown
+
+将网页保存为 Markdown 到 Obsidian

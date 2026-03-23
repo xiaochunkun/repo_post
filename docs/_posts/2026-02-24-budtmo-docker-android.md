@@ -7,3 +7,5 @@ image: assets/budtmo_docker_android_20260203_071922_299_20260203_071942_667239.p
 # [budtmo/docker-android](https://github.com/budtmo/docker-android)
 
 Android emulator in a docker container with noVNC and video recording
+
+带noVNC和视频录制的Docker容器Android模拟器

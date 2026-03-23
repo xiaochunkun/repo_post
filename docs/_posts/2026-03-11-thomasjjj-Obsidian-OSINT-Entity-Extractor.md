@@ -7,3 +7,5 @@ image: assets/thomasjjj_Obsidian_OSINT_Entity_Extractor_20260304_160739_994_2026
 # [thomasjjj/Obsidian-OSINT-Entity-Extractor](https://github.com/thomasjjj/Obsidian-OSINT-Entity-Extractor)
 
 Tool for extraction of entities from articles into Obsidian
+
+从文章中提取实体到 Obsidian 的工具

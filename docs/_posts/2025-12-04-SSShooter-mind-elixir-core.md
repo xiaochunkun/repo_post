@@ -7,3 +7,5 @@ image: assets/SSShooter_mind_elixir_core_20251201_100050_588_20251201_100134_25f
 # [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core/)
 
 Framework-agnostic JavaScript mind map core
+
+框架无关的JavaScript思维导图核心库

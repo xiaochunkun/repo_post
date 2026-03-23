@@ -7,3 +7,5 @@ image: assets/reagent_systems_tetra_20251127_172302_831_20251129_023058_313016--
 # [reagent-systems/tetra](https://github.com/reagent-systems/tetra/)
 
 AI-powered Android automation agent using GPT models
+
+基于 GPT 模型的 AI 驱动 Android 自动化代理

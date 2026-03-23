@@ -7,3 +7,5 @@ image: assets/aptabase_tauri_plugin_aptabase_20260113_155506_637_20260113_155553
 # [aptabase/tauri-plugin-aptabase](https://github.com/aptabase/tauri-plugin-aptabase)
 
 Analytics for desktop and mobile apps
+
+桌面和移动应用分析工具

@@ -7,3 +7,5 @@ image: assets/AkiraBit_PicSharp_cropped.png
 # [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp)
 
 Desktop tool for image compression and processing
+
+桌面工具，用于图像压缩和处理

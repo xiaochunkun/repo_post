@@ -7,3 +7,5 @@ image: assets/CapSoftware_Cap_cropped.png
 # [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 
 Open source screen recording and sharing tool
+
+开源屏幕录制和共享工具

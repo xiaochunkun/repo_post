@@ -7,3 +7,5 @@ image: assets/sharkdp_binocle_20251114_174621_563_20251115_034915_99796a--202511
 # [sharkdp/binocle](https://github.com/sharkdp/binocle/)
 
 Visualizes binary data as colorized pixels
+
+将二进制数据可视化为彩色像素

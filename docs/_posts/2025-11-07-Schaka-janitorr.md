@@ -7,3 +7,5 @@ image: assets/Schaka_janitorr_20251106_175523_900_20251106_175601_62660b--202511
 # [Schaka/janitorr](https://github.com/Schaka/janitorr/)
 
 Cleans up Jellyfin and Emby media libraries
+
+清理Jellyfin和Emby媒体库的工具

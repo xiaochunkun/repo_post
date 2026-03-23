@@ -7,3 +7,5 @@ image: assets/automataIA_graphrag_rs_20260205_175424_126_20260205_175442_544ac6.
 # [automataIA/graphrag-rs](https://github.com/automataIA/graphrag-rs)
 
 Builds knowledge graphs from documents with WebGPU acceleration
+
+使用 WebGPU 加速从文档构建知识图谱

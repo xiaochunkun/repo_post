@@ -7,3 +7,5 @@ image: assets/dortania_OpenCore-Legacy-Patcher_cropped.png
 # [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
 Tool for running newer macOS versions on unsupported Macs
+
+在不支持的Mac上运行新版macOS的工具

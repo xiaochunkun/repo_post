@@ -7,3 +7,5 @@ image: assets/saulpw_visidata_20251223_090632_337_20251223_090653_887fdb.png
 # [saulpw/visidata](https://github.com/saulpw/visidata/)
 
 Terminal tool for tabular data across many formats
+
+支持多种格式表格数据的终端工具

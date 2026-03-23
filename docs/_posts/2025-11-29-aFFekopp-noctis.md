@@ -7,3 +7,5 @@ image: assets/aFFekopp_noctis_20251126_005006_989_20251129_021717_a3bc69--202511
 # [aFFekopp/noctis](https://github.com/aFFekopp/noctis/)
 
 Dark blue theme for Home Assistant
+
+Home Assistant的深蓝色主题

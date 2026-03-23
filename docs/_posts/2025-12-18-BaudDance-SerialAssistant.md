@@ -7,3 +7,5 @@ image: assets/BaudDance_SerialAssistant_20251217_095631_322_20251217_095704_8517
 # [BaudDance/SerialAssistant](https://github.com/BaudDance/SerialAssistant/)
 
 Serial port assistant in the browser
+
+浏览器中的串口助手

@@ -7,3 +7,5 @@ image: assets/giovantenne_lastsignal_20260222_093914_682_20260222_093930_b0f84d.
 # [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal)
 
 Sends encrypted messages when check-ins stop
+
+签到停止时发送加密消息

@@ -7,3 +7,5 @@ image: assets/gyoridavid_ai_agents_az_cropped.png
 # [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
 
 n8n workflow templates for building AI agents
+
+用于构建 AI 代理的 n8n 工作流模板

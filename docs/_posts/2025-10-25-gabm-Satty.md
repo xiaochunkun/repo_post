@@ -7,3 +7,5 @@ image: assets/gabm_Satty_20251025_000652_174_20251025_004027_4c90c5--20251025T02
 # [gabm/Satty](https://github.com/gabm/Satty/)
 
 Hardware-accelerated screenshot annotation tool
+
+硬件加速的截图标注工具

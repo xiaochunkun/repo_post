@@ -7,3 +7,5 @@ image: assets/kousen_claude_code_training_20260116_071206_753_20260116_071219_54
 # [kousen/claude-code-training](https://github.com/kousen/claude-code-training)
 
 Training materials for software development with Claude Code
+
+使用 Claude Code 进行软件开发的培训材料

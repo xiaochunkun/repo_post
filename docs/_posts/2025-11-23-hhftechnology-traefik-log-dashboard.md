@@ -7,3 +7,5 @@ image: assets/hhftechnology_traefik_log_dashboard_20251122_210340_994_20251123_0
 # [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard/)
 
 Traefik analytics in terminal or browser
+
+终端或浏览器中的 Traefik 分析

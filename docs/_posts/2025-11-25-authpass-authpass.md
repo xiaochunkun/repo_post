@@ -7,3 +7,5 @@ image: assets/authpass_authpass_20251123_191543_091_20251125_011205_79bb1a--2025
 # [authpass/authpass](https://github.com/authpass/authpass/)
 
 Open source password manager compatible with Keepass
+
+兼容 Keepass 的开源密码管理器

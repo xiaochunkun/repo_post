@@ -7,3 +7,5 @@ image: assets/el_falso_gdlinter_20251123_210244_753_20251125_221230_a30b2c--2025
 # [el-falso/gdlinter](https://github.com/el-falso/gdlinter/)
 
 Automatically lints GDScript on save in Godot
+
+在 Godot 中保存时自动检查 GDScript

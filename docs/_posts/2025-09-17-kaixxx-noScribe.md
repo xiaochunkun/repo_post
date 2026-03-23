@@ -7,3 +7,5 @@ image: assets/20250917T003851877--kaixxx--noScribe--20250917T004627044--cropped.
 # [kaixxx/noScribe](https://github.com/kaixxx/noScribe)
 
 AI tool for local interview transcription with speaker detection, no cloud needed
+
+本地访谈转录 AI 工具，支持说话人检测，无需云端

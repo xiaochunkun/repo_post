@@ -7,3 +7,5 @@ image: assets/ChristianLempa_cheat_sheets_20260203_003050_808_20260203_003117_36
 # [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets)
 
 Knowledge base for IT and homelab documentation
+
+IT和家庭实验室文档知识库

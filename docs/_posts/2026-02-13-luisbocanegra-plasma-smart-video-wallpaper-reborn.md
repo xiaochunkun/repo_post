@@ -7,3 +7,5 @@ image: assets/luisbocanegra_plasma_smart_video_wallpaper_reborn_20260209_013407_
 # [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn)
 
 Plays videos as desktop wallpapers on Plasma 6
+
+在 Plasma 6 上播放视频作为桌面壁纸

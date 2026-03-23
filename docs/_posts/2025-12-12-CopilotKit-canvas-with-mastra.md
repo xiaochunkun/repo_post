@@ -7,3 +7,5 @@ image: assets/CopilotKit_canvas_with_mastra_20251209_050545_757_20251209_050620_
 # [CopilotKit/canvas-with-mastra](https://github.com/CopilotKit/canvas-with-mastra/)
 
 Starter template for AI-powered canvas apps with real-time synchronization
+
+具有实时同步功能的AI画布应用入门模板

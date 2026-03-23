@@ -7,3 +7,5 @@ image: assets/denizsafak_AutoSubSync_20251115_053332_234_20251116_222133_b911d7-
 # [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync/)
 
 Python tool for automatic subtitle synchronization
+
+自动字幕同步的 Python 工具

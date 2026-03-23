@@ -7,3 +7,5 @@ image: assets/graphql_editor_graphql_editor_20260129_133544_995_20260129_133627_
 # [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor)
 
 Visual editor for GraphQL schemas
+
+GraphQL模式的可视化编辑器

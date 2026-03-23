@@ -7,3 +7,5 @@ image: assets/Physton_sd-webui-prompt-all-in-one_cropped.png
 # [Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)
 
 Stable Diffusion prompt tool
+
+Stable Diffusion 提示工具

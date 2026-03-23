@@ -7,3 +7,5 @@ image: assets/MightyMoud_sidekick_20260108_020725_219_20260108_020812_0d39dc.png
 # [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)
 
 Deploys applications to servers with zero downtime
+
+零停机时间部署应用到服务器

@@ -7,3 +7,5 @@ image: assets/slowlydev_f1_dash_20251102_224207_302_20251103_211938_814d25--2025
 # [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash/)
 
 Real-time Formula 1 telemetry dashboard
+
+实时F1赛车遥测仪表板

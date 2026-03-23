@@ -7,3 +7,5 @@ image: assets/ashishpatel26_500-AI-Agents-Projects_cropped.png
 # [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
 500+ AI agent use cases and project links across industries
+
+跨行业的 500 多个 AI 代理用例和项目链接

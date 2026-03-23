@@ -7,3 +7,5 @@ image: assets/mrgoonie_claudekit_skills_20260204_052729_684_20260204_052801_9538
 # [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills)
 
 Workflows for Claude to automate tasks through subagents
+
+通过子智能体自动化任务的 Claude 工作流

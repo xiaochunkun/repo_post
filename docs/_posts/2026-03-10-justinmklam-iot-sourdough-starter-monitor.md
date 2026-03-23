@@ -7,3 +7,5 @@ image: assets/justinmklam_iot_sourdough_starter_monitor_20260309_212609_068_2026
 # [justinmklam/iot-sourdough-starter-monitor](https://github.com/justinmklam/iot-sourdough-starter-monitor)
 
 Tracks sourdough fermentation with sensors and cloud logging
+
+使用传感器和云日志追踪酸面团发酵过程

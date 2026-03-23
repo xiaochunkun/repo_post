@@ -7,3 +7,5 @@ image: assets/20250921T024653340--cloudflare--cloudflared--20250921T030215545--c
 # [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 
 command-line tool for secure Cloudflare Tunnels to your servers
+
+用于安全 Cloudflare Tunnels 到服务器的命令行工具

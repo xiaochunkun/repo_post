@@ -7,3 +7,5 @@ image: assets/BeryJu_gravity_20260121_235249_232_20260121_235310_9aae39.png
 # [BeryJu/gravity](https://github.com/BeryJu/gravity)
 
 DNS and DHCP server backed by etcd
+
+由etcd支持的DNS和DHCP服务器

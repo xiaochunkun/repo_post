@@ -7,3 +7,5 @@ image: assets/noctalia_dev_noctalia_shell_20251202_232522_457_20251202_232556_4e
 # [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell/)
 
 Desktop shell for Wayland built on Quickshell
+
+基于 Quickshell 构建的 Wayland 桌面 shell

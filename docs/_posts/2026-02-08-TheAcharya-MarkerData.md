@@ -7,3 +7,5 @@ image: assets/TheAcharya_MarkerData_20260207_042835_046_20260207_042932_fb1c41.p
 # [TheAcharya/MarkerData](https://github.com/TheAcharya/MarkerData)
 
 Extracts Final Cut Pro markers into databases
+
+将Final Cut Pro标记提取到数据库

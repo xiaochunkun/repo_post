@@ -7,3 +7,5 @@ image: assets/krateng_maloja_20251113_172716_361_20251114_014305_77e326--2025111
 # [krateng/maloja](https://github.com/krateng/maloja/)
 
 Self-hosted music scrobble database for listening statistics
+
+用于收听统计的自托管音乐播放记录数据库

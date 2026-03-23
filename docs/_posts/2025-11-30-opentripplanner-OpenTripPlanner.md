@@ -7,3 +7,5 @@ image: assets/opentripplanner_OpenTripPlanner_20251127_185456_219_20251130_05235
 # [opentripplanner/OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner/)
 
 Multi-modal trip planner for public transportation
+
+公共交通的多模式行程规划器

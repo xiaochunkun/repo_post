@@ -7,3 +7,5 @@ image: assets/FastEndpoints_FastEndpoints_20251130_065339_761_20251130_084829_7c
 # [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints/)
 
 Alternative to Minimal APIs using REPR pattern
+
+使用REPR模式的Minimal APIs替代方案

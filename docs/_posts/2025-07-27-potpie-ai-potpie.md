@@ -7,3 +7,5 @@ image: assets/potpie-ai_potpie_cropped.png
 # [potpie-ai/potpie](https://github.com/potpie-ai/potpie)
 
 open-source platform for custom AI code agents
+
+开源平台，用于自定义 AI 代码代理

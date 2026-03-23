@@ -7,3 +7,5 @@ image: assets/kraanzu_smassh_20251031_061437_425_20251101_203414_04e7d1--2025110
 # [kraanzu/smassh](https://github.com/kraanzu/smassh/)
 
 TUI based typing test application
+
+基于 TUI 的打字测试应用

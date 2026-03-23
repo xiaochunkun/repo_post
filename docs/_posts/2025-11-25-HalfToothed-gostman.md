@@ -7,3 +7,5 @@ image: assets/HalfToothed_gostman_20251123_185457_612_20251124_184543_962b30--20
 # [HalfToothed/gostman](https://github.com/HalfToothed/gostman/)
 
 API client in the terminal
+
+终端中的 API 客户端

@@ -7,3 +7,5 @@ image: assets/siliconflow_onediff--20250905T032349651--cropped.png
 # [siliconflow/onediff](https://github.com/siliconflow/onediff)
 
 library for speeding up diffusion models
+
+加速扩散模型的库

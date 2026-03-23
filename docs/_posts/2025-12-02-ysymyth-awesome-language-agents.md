@@ -7,3 +7,5 @@ image: assets/ysymyth_awesome_language_agents_20251201_030516_241_20251201_03054
 # [ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents/)
 
 Compilation of language agents using cognitive architectures
+
+使用认知架构的语言智能体合集

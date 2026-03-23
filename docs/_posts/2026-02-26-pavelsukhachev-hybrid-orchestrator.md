@@ -7,3 +7,5 @@ image: assets/pavelsukhachev_hybrid_orchestrator_20260213_114108_606_20260213_11
 # [pavelsukhachev/hybrid-orchestrator](https://github.com/pavelsukhachev/hybrid-orchestrator)
 
 Coordinates human workers and AI agents
+
+协调人类工作者和AI代理

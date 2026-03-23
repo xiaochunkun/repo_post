@@ -7,3 +7,5 @@ image: assets/chrisbenincasa_tunarr_20260128_235929_339_20260129_000005_907cfb.p
 # [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr)
 
 Turns media servers into IPTV channels
+
+将媒体服务器转换为IPTV频道

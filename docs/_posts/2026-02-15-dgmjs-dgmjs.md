@@ -7,3 +7,5 @@ image: assets/dgmjs_dgmjs_20260126_220138_705_20260126_220215_db1c45.png
 # [dgmjs/dgmjs](https://github.com/dgmjs/dgmjs)
 
 Canvas for diagrams with constraints and scripting
+
+具有约束和脚本功能的图表画布

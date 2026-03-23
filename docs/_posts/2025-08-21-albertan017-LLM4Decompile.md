@@ -7,3 +7,5 @@ image: assets/20250818T105251290_albertan017_LLM4Decompile--20250820T132759786--
 # [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
 
 decompiling binaries to C with language models
+
+利用大语言模型将二进制文件反编译为 C 代码

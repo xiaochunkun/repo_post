@@ -7,3 +7,5 @@ image: assets/ZiYang_xie_WorldGen_20260207_013910_354_20260207_013947_43abb6.png
 # [ZiYang-xie/WorldGen](https://github.com/ZiYang-xie/WorldGen)
 
 Generates 3D scenes from text prompts and images
+
+从文本提示和图像生成3D场景

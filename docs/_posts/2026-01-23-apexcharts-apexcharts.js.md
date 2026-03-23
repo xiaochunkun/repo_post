@@ -7,3 +7,5 @@ image: assets/apexcharts_apexcharts_js_20260121_234603_406_20260121_234651_0db08
 # [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
 
 Interactive charts for web applications
+
+Web应用的交互式图表

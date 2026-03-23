@@ -7,3 +7,5 @@ image: assets/picolove_picolove_20251126_004308_332_20251129_021639_1d915b--2025
 # [picolove/picolove](https://github.com/picolove/picolove/)
 
 Reimplementation of PICO-8 in LÖVE
+
+在LÖVE中重新实现PICO-8

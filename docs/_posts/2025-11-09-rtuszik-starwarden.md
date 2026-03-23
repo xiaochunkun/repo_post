@@ -7,3 +7,5 @@ image: assets/rtuszik_starwarden_20251108_202243_724_20251108_215955_b583db--202
 # [rtuszik/starwarden](https://github.com/rtuszik/starwarden/)
 
 Export GitHub stars to Linkwarden
+
+将GitHub星标导出到Linkwarden

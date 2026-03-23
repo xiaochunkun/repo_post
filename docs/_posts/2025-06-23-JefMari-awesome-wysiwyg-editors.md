@@ -7,3 +7,5 @@ image: assets/JefMari_awesome-wysiwyg-editors_cropped.png
 # [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors)
 
 List of WYSIWYG editors and related tools
+
+WYSIWYG 编辑器及相关工具列表

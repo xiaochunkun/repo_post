@@ -7,3 +7,5 @@ image: assets/lak7_devildev_20260123_110439_396_20260123_110456_485b45.png
 # [lak7/devildev](https://github.com/lak7/devildev)
 
 Generates software architecture from specifications
+
+从规范生成软件架构

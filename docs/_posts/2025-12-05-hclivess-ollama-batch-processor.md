@@ -7,3 +7,5 @@ image: assets/hclivess_ollama_batch_processor_20251202_231436_857_20251202_23153
 # [hclivess/ollama-batch-processor](https://github.com/hclivess/ollama-batch-processor/)
 
 GUI for batch processing text files with Ollama
+
+用于使用 Ollama 批量处理文本文件的 GUI

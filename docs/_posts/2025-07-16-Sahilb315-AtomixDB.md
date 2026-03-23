@@ -7,3 +7,5 @@ image: assets/Sahilb315_AtomixDB_cropped.png
 # [Sahilb315/AtomixDB](https://github.com/Sahilb315/AtomixDB)
 
 mini relational database built in Go
+
+用 Go 构建的迷你关系型数据库

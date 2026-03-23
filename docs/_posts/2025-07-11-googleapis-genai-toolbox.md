@@ -7,3 +7,5 @@ image: assets/googleapis_genai-toolbox_cropped.png
 # [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
 
 tools for building gen ai agents that connect to databases
+
+用于构建连接到数据库的生成式AI代理的工具

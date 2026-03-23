@@ -7,3 +7,5 @@ image: assets/psviderski_unregistry_20260129_032655_717_20260129_032736_563575.p
 # [psviderski/unregistry](https://github.com/psviderski/unregistry)
 
 Pushes docker images to servers over SSH
+
+通过SSH将docker镜像推送到服务器

@@ -7,3 +7,5 @@ image: assets/20250910T024205839--zama-ai--fhevm--20250910T024859650--cropped.pn
 # [zama-ai/fhevm](https://github.com/zama-ai/fhevm)
 
 confidential smart contracts for EVM blockchains using homomorphic encryption
+
+使用同态加密的 EVM 区块链隐私智能合约

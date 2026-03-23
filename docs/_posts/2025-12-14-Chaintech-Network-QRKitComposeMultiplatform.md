@@ -7,3 +7,5 @@ image: assets/Chaintech_Network_QRKitComposeMultiplatform_20251210_043541_432_20
 # [Chaintech-Network/QRKitComposeMultiplatform](https://github.com/Chaintech-Network/QRKitComposeMultiplatform/)
 
 Compose Multiplatform library for scanning and generating QR codes
+
+用于扫描和生成 QR 码的 Compose Multiplatform 库

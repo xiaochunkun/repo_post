@@ -7,3 +7,5 @@ image: assets/20250922T030459829--OpenMaxIO--openmaxio-object-browser--20250922T
 # [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser)
 
 community-driven fork restoring the full MinIO object browser UI
+
+社区驱动的分支，恢复完整的 MinIO 对象浏览器 UI

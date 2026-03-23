@@ -7,3 +7,5 @@ image: assets/bytedance_LatentSync_cropped.png
 # [bytedance/LatentSync](https://github.com/bytedance/LatentSync)
 
 Lip-sync videos to audio using a diffusion model
+
+使用扩散模型将视频与音频进行口型同步

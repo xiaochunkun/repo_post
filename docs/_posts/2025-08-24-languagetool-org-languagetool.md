@@ -7,3 +7,5 @@ image: assets/20250822T025408298--languagetool-org--languagetool--20250822T03011
 # [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)
 
 open source proofreading tool for grammar and style checks in many languages
+
+开源多语言语法和风格检查工具

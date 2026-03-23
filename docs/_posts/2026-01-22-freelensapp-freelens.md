@@ -7,3 +7,5 @@ image: assets/freelensapp_freelens_20260122_005059_884_20260122_005115_a44d64.pn
 # [freelensapp/freelens](https://github.com/freelensapp/freelens)
 
 Interface for managing Kubernetes clusters
+
+管理Kubernetes集群的界面

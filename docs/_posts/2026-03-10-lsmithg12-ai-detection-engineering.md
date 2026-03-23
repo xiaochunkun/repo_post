@@ -7,3 +7,5 @@ image: assets/lsmithg12_ai_detection_engineering_20260308_202330_327_20260308_20
 # [lsmithg12/ai-detection-engineering](https://github.com/lsmithg12/ai-detection-engineering)
 
 Automates detection engineering lifecycle with AI agents
+
+使用AI代理自动化检测工程生命周期

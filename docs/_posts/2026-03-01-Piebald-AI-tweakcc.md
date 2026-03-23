@@ -7,3 +7,5 @@ image: assets/Piebald_AI_tweakcc_20260227_105354_855_20260227_105600_605324.png
 # [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc)
 
 Customizes Claude Code system prompts and themes
+
+自定义 Claude Code 的系统提示和主题

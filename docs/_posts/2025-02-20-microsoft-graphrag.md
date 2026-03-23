@@ -7,3 +7,5 @@ image: assets/microsoft_graphrag_cropped.png
 # [microsoft/graphrag](https://github.com/microsoft/graphrag)
 
 Graph-based RAG for text datasets
+
+基于图的RAG，用于文本数据集

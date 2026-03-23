@@ -7,3 +7,5 @@ image: assets/20251001T113612358--vasanthk--how-web-works--20251001T121754400--c
 # [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
 
 step-by-step breakdown of what happens when you visit a website
+
+逐步分解访问网站时发生的过程

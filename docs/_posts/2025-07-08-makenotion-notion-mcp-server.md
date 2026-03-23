@@ -7,3 +7,5 @@ image: assets/makenotion_notion-mcp-server_cropped.png
 # [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server)
 
 lets AI assistants work with your Notion workspace
+
+让 AI 助手与您的 Notion 工作空间协作

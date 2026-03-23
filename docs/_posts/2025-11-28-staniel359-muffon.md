@@ -7,3 +7,5 @@ image: assets/staniel359_muffon_20251125_052331_752_20251127_170717_f1455f--2025
 # [staniel359/muffon](https://github.com/staniel359/muffon/)
 
 Cross-platform music streaming client for desktop
+
+跨平台桌面音乐流媒体客户端

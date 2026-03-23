@@ -7,3 +7,5 @@ image: assets/cristeigabriela_bb_20260313_172953_986_20260313_173154_f3c2d5.png
 # [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
 
 Parse Windows SDK headers in terminal
+
+在终端解析 Windows SDK 头文件

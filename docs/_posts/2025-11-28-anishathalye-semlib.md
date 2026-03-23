@@ -7,3 +7,5 @@ image: assets/anishathalye_semlib_20251125_044704_321_20251127_170308_1dbebf--20
 # [anishathalye/semlib](https://github.com/anishathalye/semlib/)
 
 Functional programming primitives powered by LLMs
+
+由 LLM 驱动的函数式编程原语

@@ -7,3 +7,5 @@ image: assets/daya0576_beaverhabits_cropped.png
 # [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits)
 
 self-hosted habit tracker without goals
+
+自托管习惯追踪器，无目标设定

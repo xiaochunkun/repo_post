@@ -7,3 +7,5 @@ image: assets/yipeeka_comfyui_sg_llama_cpp_20260309_182136_537_20260309_182338_9
 # [yipeeka/comfyui-sg-llama-cpp](https://github.com/yipeeka/comfyui-sg-llama-cpp)
 
 ComfyUI nodes for llama.cpp with vision and OCR support
+
+支持视觉和OCR的llama.cpp ComfyUI节点

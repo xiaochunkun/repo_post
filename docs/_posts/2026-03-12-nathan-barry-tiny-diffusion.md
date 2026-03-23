@@ -7,3 +7,5 @@ image: assets/nathan_barry_tiny_diffusion_20260305_090957_930_20260305_091115_84
 # [nathan-barry/tiny-diffusion](https://github.com/nathan-barry/tiny-diffusion)
 
 Language diffusion model for text generation in 365 lines of code
+
+365行代码实现的文本生成语言扩散模型

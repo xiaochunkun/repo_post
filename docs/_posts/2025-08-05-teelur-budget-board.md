@@ -7,3 +7,5 @@ image: assets/teelur_budget-board_cropped.png
 # [teelur/budget-board](https://github.com/teelur/budget-board)
 
 self-hosted app for tracking spending and budgets
+
+用于跟踪支出和预算的自托管应用

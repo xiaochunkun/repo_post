@@ -7,3 +7,5 @@ image: assets/codingjerk_dotfiles_20251207_203030_095_20251207_203051_016c8f.png
 # [codingjerk/dotfiles](https://github.com/codingjerk/dotfiles/)
 
 Configuration for Hyprland, foot, tmux and neovim
+
+Hyprland、foot、tmux和neovim的配置文件

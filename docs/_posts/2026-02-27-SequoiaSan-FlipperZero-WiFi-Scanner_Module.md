@@ -7,3 +7,5 @@ image: assets/SequoiaSan_FlipperZero_WiFi_Scanner_Module_20260215_001453_740_202
 # [SequoiaSan/FlipperZero-WiFi-Scanner_Module](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
 
 WiFi scanner for FlipperZero using ESP8266 or ESP32
+
+使用ESP8266或ESP32的FlipperZero WiFi扫描器

@@ -7,3 +7,5 @@ image: assets/rxliuli_LinkPure_20251225_005101_199_20251225_005119_bd9bef.png
 # [rxliuli/LinkPure](https://github.com/rxliuli/LinkPure/)
 
 Rewrites clipboard URLs based on rules
+
+基于规则重写剪贴板 URL

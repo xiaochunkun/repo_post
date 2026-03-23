@@ -7,3 +7,5 @@ image: assets/itsmylife44_cliproxyapi_dashboard_20260315_101114_587_20260315_101
 # [itsmylife44/cliproxyapi-dashboard](https://github.com/itsmylife44/cliproxyapi-dashboard)
 
 Manage OAuth CLI tools without YAML
+
+无需 YAML 管理 OAuth CLI 工具

@@ -7,3 +7,5 @@ image: assets/bytedance_UMO_20251210_051255_642_20251210_051316_486c96.png
 # [bytedance/UMO](https://github.com/bytedance/UMO/)
 
 Scales multi-identity consistency for image customization
+
+扩展多身份一致性以进行图像定制

@@ -7,3 +7,5 @@ image: assets/firecrawl_open_researcher_20260116_053831_242_20260116_053844_32a7
 # [firecrawl/open-researcher](https://github.com/firecrawl/open-researcher)
 
 Web scraper with reasoning for research
+
+带有推理功能的网络爬虫，用于研究

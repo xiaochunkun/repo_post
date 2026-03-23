@@ -7,3 +7,5 @@ image: assets/IgorWarzocha_opencode_planning_toolkit_20260307_175500_351_2026030
 # [IgorWarzocha/opencode-planning-toolkit](https://github.com/IgorWarzocha/opencode-planning-toolkit)
 
 Orchestrate AI agent planning workflows
+
+编排 AI 代理规划工作流

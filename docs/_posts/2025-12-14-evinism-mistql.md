@@ -7,3 +7,5 @@ image: assets/evinism_mistql_20251213_053806_841_20251213_053832_7d59d5.png
 # [evinism/mistql](https://github.com/evinism/mistql/)
 
 Query language for JSON-like structures
+
+JSON 类结构查询语言

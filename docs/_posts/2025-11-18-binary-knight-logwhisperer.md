@@ -7,3 +7,5 @@ image: assets/binary_knight_logwhisperer_20251118_042808_052_20251118_045802_bda
 # [binary-knight/logwhisperer](https://github.com/binary-knight/logwhisperer/)
 
 Log analysis and monitoring with LLMs
+
+使用LLM进行日志分析和监控

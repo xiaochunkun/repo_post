@@ -7,3 +7,5 @@ image: assets/chvmp_champ_20251207_173609_662_20251207_173643_69b5a3.png
 # [chvmp/champ](https://github.com/chvmp/champ/)
 
 Open source development framework for quadrupedal robots
+
+四足机器人的开源开发框架

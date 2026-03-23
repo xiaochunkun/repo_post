@@ -7,3 +7,5 @@ image: assets/20251012T024104451--jamebal--jmal-cloud-view--20251012T024726151--
 # [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view)
 
 private cloud storage with file previews, editing, large uploads, WebDAV
+
+私有云存储，支持文件预览、编辑、大文件上传和 WebDAV

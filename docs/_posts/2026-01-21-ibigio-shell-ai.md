@@ -7,3 +7,5 @@ image: assets/ibigio_shell_ai_20260120_044455_422_20260120_044518_94f130.png
 # [ibigio/shell-ai](https://github.com/ibigio/shell-ai)
 
 Terminal assistant for shell commands and explanations
+
+终端助手，用于 shell 命令和解释

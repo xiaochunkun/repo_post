@@ -7,3 +7,5 @@ image: assets/Textualize_frogmouth_20260202_221701_742_20260202_221752_a4da56.pn
 # [Textualize/frogmouth](https://github.com/Textualize/frogmouth)
 
 Markdown browser for the terminal
+
+终端的Markdown浏览器

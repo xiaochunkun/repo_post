@@ -7,3 +7,5 @@ image: assets/parcadei_Continuous_Claude_v3_20260305_040601_359_20260305_040809_
 # [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3)
 
 Environment for development using agents and memory on Claude Code
+
+在Claude Code上使用代理和记忆进行开发的环境

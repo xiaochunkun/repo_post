@@ -7,3 +7,5 @@ image: assets/tensorzero_llmgym_cropped.png
 # [tensorzero/llmgym](https://github.com/tensorzero/llmgym)
 
 Unified environment for developing and testing LLM agents with feedback
+
+用于开发和测试LLM代理的统一环境，带反馈

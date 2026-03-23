@@ -7,3 +7,5 @@ image: assets/20250903T011935663--stas00--ml-engineering--20250903T012426239--cr
 # [stas00/ml-engineering](https://github.com/stas00/ml-engineering)
 
 open notes and guides for training large language models
+
+大语言模型训练笔记与指南

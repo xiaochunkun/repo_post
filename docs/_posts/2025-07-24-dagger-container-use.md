@@ -7,3 +7,5 @@ image: assets/dagger_container-use_cropped.png
 # [dagger/container-use](https://github.com/dagger/container-use)
 
 container-use: coding agents run in parallel in separate environments without blocking each other
+
+容器使用：编码代理在独立环境中并行运行，互不阻塞

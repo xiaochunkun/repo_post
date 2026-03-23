@@ -7,3 +7,5 @@ image: assets/jaxxstorm_stunner--20250816T054552092--cropped.png
 # [jaxxstorm/stunner](https://github.com/jaxxstorm/stunner)
 
 CLI tool for NAT type detection using STUN servers
+
+使用STUN服务器检测NAT类型的CLI工具

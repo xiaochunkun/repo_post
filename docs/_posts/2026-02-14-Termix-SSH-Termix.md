@@ -7,3 +7,5 @@ image: assets/Termix_SSH_Termix_20260209_112750_475_20260209_112830_9f3775.png
 # [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
 
 Web-based server management platform with SSH terminal
+
+具有 SSH 终端的基于 Web 的服务器管理平台

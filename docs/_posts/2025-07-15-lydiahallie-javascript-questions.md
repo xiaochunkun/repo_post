@@ -7,3 +7,5 @@ image: assets/lydiahallie_javascript-questions_cropped.png
 # [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
 
 JavaScript interview questions and answers collection
+
+JavaScript面试问题和答案集合

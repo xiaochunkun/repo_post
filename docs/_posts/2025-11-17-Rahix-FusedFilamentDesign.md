@@ -7,3 +7,5 @@ image: assets/Rahix_FusedFilamentDesign_20251115_060050_136_20251117_032009_1701
 # [Rahix/FusedFilamentDesign](https://github.com/Rahix/FusedFilamentDesign/)
 
 CAD addon with tools for 3D printing geometry
+
+用于3D打印几何的CAD插件

@@ -7,3 +7,5 @@ image: assets/Azr43lKn1ght_DFIR-LABS--20250812T010145--cropped.png
 # [Azr43lKn1ght/DFIR-LABS](https://github.com/Azr43lKn1ght/DFIR-LABS)
 
 hands-on DFIR challenge labs with flags
+
+带有标志的动手DFIR挑战实验室

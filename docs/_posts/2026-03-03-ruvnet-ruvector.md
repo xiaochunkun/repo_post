@@ -7,3 +7,5 @@ image: assets/ruvnet_ruvector_20260227_114114_302_20260227_114307_1b8e3f.png
 # [ruvnet/ruvector](https://github.com/ruvnet/ruvector)
 
 Vector database with graph intelligence and PostgreSQL
+
+具备图智能的向量数据库，基于 PostgreSQL

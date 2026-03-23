@@ -7,3 +7,5 @@ image: assets/a-ghorbani_pocketpal-ai_cropped.png
 # [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)
 
 run AI language models offline on your phone with PocketPal
+
+通过PocketPal在手机上离线运行AI语言模型

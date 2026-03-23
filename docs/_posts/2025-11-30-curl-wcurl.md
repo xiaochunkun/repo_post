@@ -7,3 +7,5 @@ image: assets/curl_wcurl_20251127_180323_958_20251130_040755_35bbaf--20251130T05
 # [curl/wcurl](https://github.com/curl/wcurl/)
 
 Wrapper around curl for downloading files
+
+用于下载文件的 curl 包装器

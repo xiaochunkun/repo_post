@@ -7,3 +7,5 @@ image: assets/x011_smtp_tunnel_proxy_20260122_020955_677_20260122_021010_efff7d.
 # [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)
 
 Disguises TCP traffic as SMTP communication to bypass firewalls
+
+将TCP流量伪装为SMTP通信以绕过防火墙

@@ -7,3 +7,5 @@ image: assets/ricardodantas_hazelnut_20260215_022335_128_20260215_022424_095ff7.
 # [ricardodantas/hazelnut](https://github.com/ricardodantas/hazelnut)
 
 Automates file organization through terminal rules
+
+通过终端规则自动化文件组织

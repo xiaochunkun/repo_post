@@ -7,3 +7,5 @@ image: assets/oblador_hush_20260119_221355_767_20260119_221411_623cce.png
 # [oblador/hush](https://github.com/oblador/hush)
 
 Blocks cookie consent notices and tracking in Safari
+
+在Safari中屏蔽Cookie同意通知和追踪

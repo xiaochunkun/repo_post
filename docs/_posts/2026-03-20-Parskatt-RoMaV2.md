@@ -7,3 +7,5 @@ image: assets/Parskatt_RoMaV2_20260311_005856_176_20260311_010043_14d4b3.png
 # [Parskatt/RoMaV2](https://github.com/Parskatt/RoMaV2)
 
 Dense feature matching for images
+
+图像密集特征匹配

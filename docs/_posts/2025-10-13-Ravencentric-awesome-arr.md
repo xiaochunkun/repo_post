@@ -7,3 +7,5 @@ image: assets/20251013T001727739--Ravencentric--awesome-arr--20251013T002323353-
 # [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr)
 
 Curated list of tools and apps for automating and managing media libraries with *arr software
+
+精选工具和应用列表，用于通过 *arr 软件自动化和管理媒体库

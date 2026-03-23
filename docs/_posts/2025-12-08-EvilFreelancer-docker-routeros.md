@@ -7,3 +7,5 @@ image: assets/EvilFreelancer_docker_routeros_20251207_180242_335_20251207_180304
 # [EvilFreelancer/docker-routeros](https://github.com/EvilFreelancer/docker-routeros/)
 
 Runs RouterOS inside Docker via QEMU
+
+通过 QEMU 在 Docker 内运行 RouterOS

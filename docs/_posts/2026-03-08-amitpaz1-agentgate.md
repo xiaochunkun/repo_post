@@ -7,3 +7,5 @@ image: assets/amitpaz1_agentgate_20260212_160402_823_20260212_160451_893609.png
 # [amitpaz1/agentgate](https://github.com/amitpaz1/agentgate)
 
 Approval workflows for autonomous agents
+
+自主智能体的审批工作流

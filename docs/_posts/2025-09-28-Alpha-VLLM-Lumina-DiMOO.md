@@ -7,3 +7,5 @@ image: assets/20250928T053642587--Alpha-VLLM--Lumina-DiMOO--20250928T054908884--
 # [Alpha-VLLM/Lumina-DiMOO](https://github.com/Alpha-VLLM/Lumina-DiMOO)
 
 multimodal model for text-to-image, image editing, and image understanding
+
+多模态模型，支持文本到图像、图像编辑和图像理解

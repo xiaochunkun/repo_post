@@ -7,3 +7,5 @@ image: assets/20251007T190458474--AndnixSH--APKToolGUI--20251007T191525827--crop
 # [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI)
 
 GUI wrapper for Android APK reverse engineering tools
+
+Android APK 逆向工程工具的 GUI 封装

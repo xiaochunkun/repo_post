@@ -7,3 +7,5 @@ image: assets/notdp_worktree_sh_20251204_225643_183_20251204_225706_56beec.png
 # [notdp/worktree.sh](https://github.com/notdp/worktree.sh/)
 
 Git worktree manager for parallel development
+
+用于并行开发的Git worktree管理器

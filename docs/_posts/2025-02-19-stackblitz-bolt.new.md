@@ -7,3 +7,5 @@ image: assets/stackblitz_bolt.new_cropped.png
 # [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)
 
 AI-powered web development in the browser
+
+浏览器中的AI驱动Web开发

@@ -7,3 +7,5 @@ image: assets/Buage_SelfHostList_20251221_225046_594_20251221_225110_5b1249.png
 # [Buage/SelfHostList](https://github.com/Buage/SelfHostList/)
 
 Directory of self-hosted applications with tag search
+
+带标签搜索的自托管应用目录

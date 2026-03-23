@@ -7,3 +7,5 @@ image: assets/zachlatta_sshtron_cropped.png
 # [zachlatta/sshtron](https://github.com/zachlatta/sshtron)
 
 play Tron in your terminal with friends using SSH
+
+通过 SSH 在终端中与朋友玩 Tron 游戏

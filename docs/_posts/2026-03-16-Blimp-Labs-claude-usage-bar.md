@@ -7,3 +7,5 @@ image: assets/Blimp_Labs_claude_usage_bar_20260315_013357_196_20260315_013515_a2
 # [Blimp-Labs/claude-usage-bar](https://github.com/Blimp-Labs/claude-usage-bar)
 
 macOS menu bar app for Claude API usage tracking
+
+macOS菜单栏应用，用于跟踪Claude API使用情况

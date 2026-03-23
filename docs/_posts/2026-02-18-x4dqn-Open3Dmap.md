@@ -7,3 +7,5 @@ image: assets/x4dqn_Open3Dmap_20260205_234544_547_20260205_234600_5d452d.png
 # [x4dqn/Open3Dmap](https://github.com/x4dqn/Open3Dmap)
 
 Crowdsourced 3D mapping with Gaussian Splats
+
+基于高斯泼溅的众包3D地图构建

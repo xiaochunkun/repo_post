@@ -7,3 +7,5 @@ image: assets/maccman_ai-monorepo-scaffold_cropped.png
 # [maccman/ai-monorepo-scaffold](https://github.com/maccman/ai-monorepo-scaffold)
 
 monorepo project scaffold using turbo, trpc, react, postgres, auth, cursor ai rules
+
+使用turbo、trpc、React、Postgres、auth和cursor AI规则的monorepo项目脚手架

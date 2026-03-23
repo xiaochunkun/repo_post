@@ -7,3 +7,5 @@ image: assets/robinkarlberg_transfer.zip-web_cropped.png
 # [robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web)
 
 send files between browsers with no size limit
+
+在浏览器间传输文件，无大小限制

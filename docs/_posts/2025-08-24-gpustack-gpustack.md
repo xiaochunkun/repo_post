@@ -7,3 +7,5 @@ image: assets/20250822T025509286--gpustack--gpustack--20250822T030219941--croppe
 # [gpustack/gpustack](https://github.com/gpustack/gpustack)
 
 open-source GPU cluster manager for AI models
+
+开源 GPU 集群管理器，用于 AI 模型部署

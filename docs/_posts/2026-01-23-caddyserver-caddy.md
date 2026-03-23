@@ -7,3 +7,5 @@ image: assets/caddyserver_caddy_20260122_173559_088_20260122_173618_c4c0b4.png
 # [caddyserver/caddy](https://github.com/caddyserver/caddy)
 
 Server with automatic HTTPS by default
+
+默认自动启用HTTPS的服务器

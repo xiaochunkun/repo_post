@@ -7,3 +7,5 @@ image: assets/20250929T215417404--uazo--cromite--20250929T220220056--cropped.png
 # [uazo/cromite](https://github.com/uazo/cromite)
 
 Chromium-based browser with built-in ad blocking and privacy focus
+
+基于 Chromium 的浏览器，内置广告拦截和隐私保护功能

@@ -7,3 +7,5 @@ image: assets/AI_in_Health_MedLLMsPracticalGuide_20251203_005834_155_20251203_00
 # [AI-in-Health/MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide/)
 
 Guide for medical large language models
+
+医疗大语言模型实用指南

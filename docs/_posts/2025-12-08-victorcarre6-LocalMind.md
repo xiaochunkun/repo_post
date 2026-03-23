@@ -7,3 +7,5 @@ image: assets/victorcarre6_LocalMind_20251207_173347_126_20251207_173531_98a5f9.
 # [victorcarre6/LocalMind](https://github.com/victorcarre6/LocalMind/)
 
 Chat interface for local LLMs with persistent memory
+
+具有持久记忆的本地LLM聊天界面

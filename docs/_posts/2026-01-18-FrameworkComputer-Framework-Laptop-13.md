@@ -7,3 +7,5 @@ image: assets/FrameworkComputer_Framework_Laptop_13_20260117_142823_793_20260117
 # [FrameworkComputer/Framework-Laptop-13](https://github.com/FrameworkComputer/Framework-Laptop-13)
 
 CAD and documentation for laptop hardware
+
+笔记本电脑硬件的CAD和文档

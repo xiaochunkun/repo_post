@@ -7,3 +7,5 @@ image: assets/20250915T232308480--github--CopilotForXcode--20250915T232615431--c
 # [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
 
 AI code suggestions and chat assistant for Xcode
+
+Xcode 的 AI 代码建议和聊天助手

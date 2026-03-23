@@ -7,3 +7,5 @@ image: assets/koutto_pi_pwnbox_rogueap_20251228_174403_991_20251228_174426_f81cd
 # [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap/)
 
 Raspberry Pi for WiFi security assessments
+
+用于WiFi安全评估的Raspberry Pi

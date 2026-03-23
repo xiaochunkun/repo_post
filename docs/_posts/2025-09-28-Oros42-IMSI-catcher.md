@@ -7,3 +7,5 @@ image: assets/20250928T052413814--Oros42--IMSI-catcher--20250928T053534121--crop
 # [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher)
 
 tool for detecting IMSI numbers and mobile operators nearby using SDR
+
+使用SDR检测附近IMSI号码和移动运营商的工具

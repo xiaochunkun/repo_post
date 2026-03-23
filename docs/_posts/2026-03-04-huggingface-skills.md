@@ -7,3 +7,5 @@ image: assets/huggingface_skills_20260304_063940_372_20260304_064203_71a178.png
 # [huggingface/skills](https://github.com/huggingface/skills)
 
 Task definitions for AI coding agents
+
+AI 编码代理的任务定义

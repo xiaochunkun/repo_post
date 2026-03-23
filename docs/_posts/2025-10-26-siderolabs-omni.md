@@ -7,3 +7,5 @@ image: assets/siderolabs_omni_20251025_052759_622_20251025_101839_413758--202510
 # [siderolabs/omni](https://github.com/siderolabs/omni/)
 
 Deploy Kubernetes on your own hardware
+
+在自有硬件上部署Kubernetes

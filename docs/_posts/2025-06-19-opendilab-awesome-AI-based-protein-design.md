@@ -7,3 +7,5 @@ image: assets/opendilab_awesome-AI-based-protein-design_cropped.png
 # [opendilab/awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design)
 
 Papers and resources list for AI-driven protein design research
+
+AI驱动蛋白质设计研究的论文和资源列表

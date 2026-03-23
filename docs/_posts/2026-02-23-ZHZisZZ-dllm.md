@@ -7,3 +7,5 @@ image: assets/ZHZisZZ_dllm_20260221_005741_273_20260221_005800_647d35.png
 # [ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm)
 
 Unifies training and evaluation of diffusion language models
+
+统一扩散语言模型的训练和评估

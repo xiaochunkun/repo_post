@@ -7,3 +7,5 @@ image: assets/allmonday_fastapi_voyager_20251123_045532_826_20251123_215156_f8a0
 # [allmonday/fastapi-voyager](https://github.com/allmonday/fastapi-voyager/)
 
 Visualizes FastAPI endpoints and dependencies
+
+可视化 FastAPI 端点和依赖关系

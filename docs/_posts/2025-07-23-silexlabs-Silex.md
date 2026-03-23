@@ -7,3 +7,5 @@ image: assets/silexlabs_Silex_cropped.png
 # [silexlabs/Silex](https://github.com/silexlabs/Silex)
 
 drag and drop website builder, no code needed
+
+无需代码的拖放式网站构建器

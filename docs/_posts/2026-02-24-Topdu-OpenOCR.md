@@ -7,3 +7,5 @@ image: assets/Topdu_OpenOCR_20260224_145517_363_20260224_145537_733bf2.png
 # [Topdu/OpenOCR](https://github.com/Topdu/OpenOCR)
 
 Toolkit for text detection and document parsing
+
+文本检测与文档解析工具包

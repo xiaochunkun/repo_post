@@ -7,3 +7,5 @@ image: assets/jinek_Consolonia_20251114_222315_620_20251115_201926_400c4e--20251
 # [jinek/Consolonia](https://github.com/jinek/Consolonia/)
 
 Modern UI framework for .NET console applications
+
+.NET 控制台应用的现代 UI 框架

@@ -7,3 +7,5 @@ image: assets/wangzhe3224_awesome_systematic_trading_20260116_115642_929_2026011
 # [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)
 
 Resources for systematic trading and quantitative finance
+
+系统化交易和量化金融资源

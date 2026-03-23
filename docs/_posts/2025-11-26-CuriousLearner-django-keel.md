@@ -7,3 +7,5 @@ image: assets/CuriousLearner_django_keel_20251124_232702_028_20251125_222116_10f
 # [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel/)
 
 Production-ready Django template for SaaS and APIs
+
+适用于 SaaS 和 API 的生产就绪 Django 模板

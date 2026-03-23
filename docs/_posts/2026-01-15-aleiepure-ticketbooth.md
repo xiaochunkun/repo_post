@@ -7,3 +7,5 @@ image: assets/aleiepure_ticketbooth_20260114_085605_815_20260114_085621_43f847.p
 # [aleiepure/ticketbooth](https://github.com/aleiepure/ticketbooth)
 
 Watchlist for movies and shows using the TMDB API
+
+使用 TMDB API 的电影和节目观看列表

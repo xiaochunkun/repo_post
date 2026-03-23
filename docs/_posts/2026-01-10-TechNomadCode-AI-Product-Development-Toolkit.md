@@ -7,3 +7,5 @@ image: assets/TechNomadCode_AI_Product_Development_Toolkit_20260108_155418_079_2
 # [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)
 
 Prompts for product development from idea to MVP
+
+从创意到MVP的产品开发提示

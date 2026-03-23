@@ -7,3 +7,5 @@ image: assets/LearningCircuit_local-deep-research_cropped.png
 # [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
 
 AI tool for local, automated research with LLMs and web search
+
+使用LLM和网络搜索进行本地自动化研究的AI工具

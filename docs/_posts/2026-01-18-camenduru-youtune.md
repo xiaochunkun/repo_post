@@ -7,3 +7,5 @@ image: assets/camenduru_youtune_20260118_124917_915_20260118_124933_252e17.png
 # [camenduru/youtune](https://github.com/camenduru/youtune)
 
 Fine-tunes SDXL on images from YouTube videos
+
+在YouTube视频图像上微调SDXL

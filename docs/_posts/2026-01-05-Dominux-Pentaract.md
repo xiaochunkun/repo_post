@@ -7,3 +7,5 @@ image: assets/Dominux_Pentaract_20260103_164916_068_20260103_164935_97465e.png
 # [Dominux/Pentaract](https://github.com/Dominux/Pentaract/)
 
 Cloud storage using Telegram as a backend
+
+使用Telegram作为后端的云存储

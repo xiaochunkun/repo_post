@@ -7,3 +7,5 @@ image: assets/ydkhatri_mac_apt_20260212_181817_540_20260212_181850_ccb3ad.png
 # [ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt)
 
 Extracts forensic artifacts from macOS and iOS images
+
+从 macOS 和 iOS 镜像中提取取证工件

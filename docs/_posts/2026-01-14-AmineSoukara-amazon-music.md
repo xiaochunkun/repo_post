@@ -7,3 +7,5 @@ image: assets/AmineSoukara_amazon_music_20260113_145036_125_20260113_145050_ccb0
 # [AmineSoukara/amazon-music](https://github.com/AmineSoukara/amazon-music)
 
 Extracts metadata and streaming URLs with DRM key retrieval
+
+提取元数据和流媒体 URL，支持 DRM 密钥检索

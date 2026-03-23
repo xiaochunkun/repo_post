@@ -7,3 +7,5 @@ image: assets/20251003T230100167--sbcrumb--remediarr--20251003T230643407--croppe
 # [sbcrumb/remediarr](https://github.com/sbcrumb/remediarr)
 
 automates fixing media issues in Jellyseerr using Sonarr and Radarr webhooks
+
+使用Sonarr和Radarr webhook自动化修复Jellyseerr中的媒体问题

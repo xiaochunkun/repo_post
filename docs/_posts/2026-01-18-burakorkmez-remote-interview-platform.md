@@ -7,3 +7,5 @@ image: assets/burakorkmez_remote_interview_platform_20260118_072319_350_20260118
 # [burakorkmez/remote-interview-platform](https://github.com/burakorkmez/remote-interview-platform)
 
 Video interview platform with screen recording
+
+带屏幕录制的视频面试平台

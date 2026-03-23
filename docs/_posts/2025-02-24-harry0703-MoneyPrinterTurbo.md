@@ -7,3 +7,5 @@ image: assets/harry0703_MoneyPrinterTurbo_cropped.png
 # [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 AI-powered short video generator
+
+AI驱动的短视频生成器

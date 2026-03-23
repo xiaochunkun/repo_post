@@ -7,3 +7,5 @@ image: assets/mistweaverco_bananas_cropped.png
 # [mistweaverco/bananas](https://github.com/mistweaverco/bananas)
 
 Cross-platform screen sharing tool
+
+跨平台屏幕共享工具

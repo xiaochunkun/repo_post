@@ -7,3 +7,5 @@ image: assets/arpitbbhayani_lofi_player_20251227_145001_650_20251227_145020_b79d
 # [arpitbbhayani/lofi-player](https://github.com/arpitbbhayani/lofi-player/)
 
 Music player using YouTube APIs and JavaScript
+
+使用 YouTube API 和 JavaScript 的音乐播放器

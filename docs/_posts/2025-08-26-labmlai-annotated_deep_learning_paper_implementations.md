@@ -7,3 +7,5 @@ image: assets/20250826T023848639--labmlai--annotated_deep_learning_paper_impleme
 # [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 PyTorch code for deep learning papers with explanations
+
+深度学习论文的 PyTorch 代码实现与注释

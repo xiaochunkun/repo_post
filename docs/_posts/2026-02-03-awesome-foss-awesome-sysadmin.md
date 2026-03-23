@@ -7,3 +7,5 @@ image: assets/awesome_foss_awesome_sysadmin_20260202_211228_688_20260202_211318_
 # [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
 Directory of open-source resources for system administration
+
+系统管理的开源资源目录

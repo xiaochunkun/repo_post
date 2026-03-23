@@ -7,3 +7,5 @@ image: assets/EnterpriseDB_barman_cropped.png
 # [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)
 
 PostgreSQL backup and recovery tool
+
+PostgreSQL备份和恢复工具

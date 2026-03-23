@@ -7,3 +7,5 @@ image: assets/mariotaku_moonlight_tv_20260306_183735_352_20260306_183853_c62498.
 # [mariotaku/moonlight-tv](https://github.com/mariotaku/moonlight-tv)
 
 Stream games to webOS televisions
+
+将游戏流式传输到 webOS 电视

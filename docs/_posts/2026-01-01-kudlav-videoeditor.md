@@ -7,3 +7,5 @@ image: assets/kudlav_videoeditor_20251231_203631_929_20251231_203646_e60125.png
 # [kudlav/videoeditor](https://github.com/kudlav/videoeditor/)
 
 Video editor using MLT framework and Node.js
+
+使用MLT框架和Node.js的视频编辑器

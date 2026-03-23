@@ -7,3 +7,5 @@ image: assets/BeehiveInnovations_pal_mcp_server_20260225_195932_654_20260225_200
 # [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)
 
 Abstraction layer for AI providers
+
+AI 提供商的抽象层

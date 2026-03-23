@@ -7,3 +7,5 @@ image: assets/gkoh_pico_cec_20260113_120827_440_20260113_120841_4139fa.png
 # [gkoh/pico-cec](https://github.com/gkoh/pico-cec)
 
 Bridges HDMI CEC to USB HID keyboard control
+
+将HDMI CEC桥接至USB HID键盘控制

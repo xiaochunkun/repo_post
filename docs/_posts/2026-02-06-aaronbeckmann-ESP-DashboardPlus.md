@@ -7,3 +7,5 @@ image: assets/aaronbeckmann_ESP_DashboardPlus_20260204_230119_346_20260204_23014
 # [aaronbeckmann/ESP-DashboardPlus](https://github.com/aaronbeckmann/ESP-DashboardPlus)
 
 Web dashboard for ESP32 microcontrollers using WebSockets
+
+使用WebSockets的ESP32微控制器Web仪表板

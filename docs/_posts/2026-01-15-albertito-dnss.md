@@ -7,3 +7,5 @@ image: assets/albertito_dnss_20260115_103212_261_20260115_103226_196993.png
 # [albertito/dnss](https://github.com/albertito/dnss)
 
 Proxy and server for DNS over HTTPS
+
+DNS over HTTPS 的代理和服务器

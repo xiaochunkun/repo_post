@@ -7,3 +7,5 @@ image: assets/Ephemeral182_PosterCraft_20251202_223555_878_20251202_223632_40312
 # [Ephemeral182/PosterCraft](https://github.com/Ephemeral182/PosterCraft/)
 
 Generates aesthetic posters from text prompts
+
+根据文本提示生成美观海报

@@ -7,3 +7,5 @@ image: assets/fjykTec_ModernWMS_20260111_211840_264_20260111_211854_273345.png
 # [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS)
 
 Warehouse management system for cross-platform use
+
+跨平台使用的仓库管理系统

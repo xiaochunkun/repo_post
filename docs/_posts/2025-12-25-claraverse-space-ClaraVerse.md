@@ -7,3 +7,5 @@ image: assets/claraverse_space_ClaraVerse_20251223_114447_481_20251223_114504_22
 # [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse/)
 
 Local AI workspace with automation
+
+带自动化的本地 AI 工作空间

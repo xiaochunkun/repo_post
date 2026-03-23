@@ -7,3 +7,5 @@ image: assets/supabase_etl_20260108_055450_544_20260108_055505_ba6d39.png
 # [supabase/etl](https://github.com/supabase/etl)
 
 Streams Postgres changes to destinations using Rust
+
+使用Rust将Postgres变更流式传输到目的地

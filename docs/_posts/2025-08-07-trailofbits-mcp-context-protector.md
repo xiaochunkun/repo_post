@@ -7,3 +7,5 @@ image: assets/trailofbits_mcp-context-protector_cropped.png
 # [trailofbits/mcp-context-protector](https://github.com/trailofbits/mcp-context-protector)
 
 security wrapper for MCP servers blocking prompt injection
+
+保护 MCP 服务器免受提示注入攻击的安全包装器

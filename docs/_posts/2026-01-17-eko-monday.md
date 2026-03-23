@@ -7,3 +7,5 @@ image: assets/eko_monday_20260116_200012_404_20260116_200034_90d2f3.png
 # [eko/monday](https://github.com/eko/monday)
 
 CLI tool for microservice development and Kubernetes port-forwarding
+
+用于微服务开发和Kubernetes端口转发的CLI工具

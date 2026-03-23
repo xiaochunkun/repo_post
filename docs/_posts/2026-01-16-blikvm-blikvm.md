@@ -7,3 +7,5 @@ image: assets/blikvm_blikvm_20260115_204111_641_20260115_204126_167e9e.png
 # [blikvm/blikvm](https://github.com/blikvm/blikvm)
 
 KVM over IP for remote server management via a browser
+
+通过浏览器进行远程服务器管理的 KVM over IP

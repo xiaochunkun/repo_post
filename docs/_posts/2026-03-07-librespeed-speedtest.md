@@ -7,3 +7,5 @@ image: assets/librespeed_speedtest_20260221_131003_715_20260221_131019_6dfedb.pn
 # [librespeed/speedtest](https://github.com/librespeed/speedtest)
 
 Speed test without Flash or Java
+
+无需Flash或Java的速度测试

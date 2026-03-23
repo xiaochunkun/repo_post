@@ -7,3 +7,5 @@ image: assets/grishy_any_sync_bundle_20251222_033002_771_20251222_033023_d7eda2.
 # [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle/)
 
 Self-hosted server for note-taking in a single binary
+
+单二进制自托管笔记服务器

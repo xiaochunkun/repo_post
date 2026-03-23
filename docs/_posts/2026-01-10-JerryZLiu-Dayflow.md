@@ -7,3 +7,5 @@ image: assets/JerryZLiu_Dayflow_20260108_061915_853_20260108_061931_652e4e.png
 # [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
 
 Timeline of screen activity with AI summaries
+
+屏幕活动时间线，带AI摘要

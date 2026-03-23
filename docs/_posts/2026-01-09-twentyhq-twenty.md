@@ -7,3 +7,5 @@ image: assets/twentyhq_twenty_20260108_015636_117_20260108_015649_24409d.png
 # [twentyhq/twenty](https://github.com/twentyhq/twenty)
 
 Open-source alternative to Salesforce
+
+Salesforce的开源替代品

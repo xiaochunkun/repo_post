@@ -7,3 +7,5 @@ image: assets/akaunting_akaunting_20260203_211553_682_20260203_211643_8ddbc3.png
 # [akaunting/akaunting](https://github.com/akaunting/akaunting)
 
 Accounting software with an app store
+
+带应用商店的会计软件

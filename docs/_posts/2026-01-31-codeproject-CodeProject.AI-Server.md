@@ -7,3 +7,5 @@ image: assets/codeproject_CodeProject_AI_Server_20260130_153146_399_20260130_153
 # [codeproject/CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server)
 
 Self-hosted AI microserver for local data processing
+
+用于本地数据处理的自托管 AI 微服务器

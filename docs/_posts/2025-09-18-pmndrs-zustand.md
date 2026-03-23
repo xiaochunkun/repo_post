@@ -7,3 +7,5 @@ image: assets/pmndrs_zustand--20250918T045657462--cropped.png
 # [pmndrs/zustand](https://github.com/pmndrs/zustand)
 
 state management for React apps with hooks
+
+使用hooks的React应用状态管理

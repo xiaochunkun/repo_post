@@ -7,3 +7,5 @@ image: assets/henrythe9th_AI-Crash-Course_cropped.png
 # [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
 
 AI crash course for busy builders
+
+面向忙碌开发者的 AI 速成课程

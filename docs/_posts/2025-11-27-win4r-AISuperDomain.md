@@ -7,3 +7,5 @@ image: assets/win4r_AISuperDomain_20251125_000646_930_20251125_225028_2f4672--20
 # [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain/)
 
 Ask 10+ AIs simultaneously on desktop
+
+在桌面上同时询问 10+ 个 AI

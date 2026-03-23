@@ -7,3 +7,5 @@ image: assets/pgsty_pigsty_cropped.png
 # [pgsty/pigsty](https://github.com/pgsty/pigsty)
 
 Open-source PostgreSQL distribution that functions as a free RDS alternative
+
+开源PostgreSQL发行版，作为免费RDS替代品

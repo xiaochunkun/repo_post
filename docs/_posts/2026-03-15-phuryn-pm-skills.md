@@ -7,3 +7,5 @@ image: assets/phuryn_pm_skills_20260315_013250_382_20260315_013354_aec5ab.png
 # [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
 
 AI framework for structured product decisions
+
+结构化产品决策的 AI 框架

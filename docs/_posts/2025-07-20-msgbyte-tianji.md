@@ -7,3 +7,5 @@ image: assets/msgbyte_tianji_cropped.png
 # [msgbyte/tianji](https://github.com/msgbyte/tianji)
 
 website analytics and uptime monitor in one
+
+网站分析与正常运行时间监控一体化工具

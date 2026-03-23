@@ -7,3 +7,5 @@ image: assets/shaneholloman_mcp_knowledge_graph_20251202_230235_941_20251202_230
 # [shaneholloman/mcp-knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph/)
 
 Persistent memory for AI models via local knowledge graph
+
+通过本地知识图谱为 AI 模型提供持久内存

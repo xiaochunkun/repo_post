@@ -7,3 +7,5 @@ image: assets/appleboy_drone_telegram_20260104_195720_873_20260104_195736_53abd0
 # [appleboy/drone-telegram](https://github.com/appleboy/drone-telegram/)
 
 Sends Telegram notifications from Drone CI
+
+从 Drone CI 发送 Telegram 通知

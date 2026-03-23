@@ -7,3 +7,5 @@ image: assets/openwisp_openwisp_controller_20260306_051022_140_20260306_051148_1
 # [openwisp/openwisp-controller](https://github.com/openwisp/openwisp-controller)
 
 Automate network configuration and WiFi provisioning
+
+自动化网络配置和 WiFi 部署

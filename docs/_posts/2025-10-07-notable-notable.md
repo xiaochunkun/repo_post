@@ -7,3 +7,5 @@ image: assets/20251007T015410537--notable--notable--20251007T022024802--cropped.
 # [notable/notable](https://github.com/notable/notable)
 
 Markdown note-taking app with tags, attachments, and VS Code editor features
+
+Markdown 笔记应用，支持标签、附件和 VS Code 编辑器功能

@@ -7,3 +7,5 @@ image: assets/betomoedano_snapai_20260221_124143_588_20260221_124210_eb1bc0.png
 # [betomoedano/snapai](https://github.com/betomoedano/snapai)
 
 Generates app icons from the terminal
+
+从终端生成应用图标

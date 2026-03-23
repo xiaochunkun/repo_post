@@ -7,3 +7,5 @@ image: assets/MITDeepLearning_introtodeeplearning_20251125_014227_886_20251126_1
 # [MITDeepLearning/introtodeeplearning](https://github.com/MITDeepLearning/introtodeeplearning/)
 
 Code and labs for MIT's deep learning course
+
+MIT 深度学习课程的代码和实验

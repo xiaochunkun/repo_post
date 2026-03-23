@@ -7,3 +7,5 @@ image: assets/umlx5h_LLPlayer_cropped.png
 # [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 media player for language learning with dual subtitles, AI subtitles, real-time translation
+
+支持双字幕、AI 字幕和实时翻译的语言学习媒体播放器

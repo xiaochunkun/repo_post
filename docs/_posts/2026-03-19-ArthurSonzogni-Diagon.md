@@ -7,3 +7,5 @@ image: assets/ArthurSonzogni_Diagon_20260319_075856_396_20260319_080026_75b054.p
 # [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
 
 Generates ASCII art diagrams from markdown
+
+从 Markdown 生成 ASCII 艺术图表

@@ -7,3 +7,5 @@ image: assets/StrikerX3_Ymir_20251125_232809_720_20251128_212848_7500e1--2025112
 # [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir/)
 
 Work-in-progress Sega Saturn emulator
+
+开发中的 Sega Saturn 模拟器

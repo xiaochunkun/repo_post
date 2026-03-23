@@ -7,3 +7,5 @@ image: assets/gunnartorfis_sonner_native_20251209_030830_401_20251209_030852_345
 # [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native/)
 
 Port of Sonner toast component for React Native
+
+React Native 的 Sonner 提示组件移植

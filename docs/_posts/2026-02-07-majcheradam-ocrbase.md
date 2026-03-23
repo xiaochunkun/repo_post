@@ -7,3 +7,5 @@ image: assets/majcheradam_ocrbase_20260204_132953_009_20260204_133020_9d8b91.png
 # [majcheradam/ocrbase](https://github.com/majcheradam/ocrbase)
 
 Extracts structured data from documents via OCR
+
+通过OCR从文档中提取结构化数据

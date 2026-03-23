@@ -7,3 +7,5 @@ image: assets/antonreshetov_mysigmail_20260122_033726_461_20260122_033747_2cb651
 # [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail)
 
 Generates email signatures for Gmail and Outlook
+
+为Gmail和Outlook生成电子邮件签名

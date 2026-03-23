@@ -7,3 +7,5 @@ image: assets/hpcaitech_ColossalAI_20260129_172526_436_20260129_172606_d11a63.pn
 # [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)
 
 Trains large models with distributed computing
+
+使用分布式计算训练大模型

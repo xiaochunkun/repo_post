@@ -7,3 +7,5 @@ image: assets/xing5_mcp_google_sheets_20251202_211155_725_20251202_211224_9871ee
 # [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets/)
 
 Connects MCP clients to Google Sheets
+
+连接 MCP 客户端到 Google Sheets

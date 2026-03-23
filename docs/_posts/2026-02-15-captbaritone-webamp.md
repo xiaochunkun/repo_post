@@ -7,3 +7,5 @@ image: assets/captbaritone_webamp_20260123_193641_373_20260123_193658_bce121.png
 # [captbaritone/webamp](https://github.com/captbaritone/webamp)
 
 Media player in a browser
+
+浏览器中的媒体播放器

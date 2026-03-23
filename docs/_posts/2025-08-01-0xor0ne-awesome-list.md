@@ -7,3 +7,5 @@ image: assets/0xor0ne_awesome-list_cropped.png
 # [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list)
 
 cybersecurity resources, writeups, tools, and awesome links
+
+网络安全资源、报告、工具和精选链接

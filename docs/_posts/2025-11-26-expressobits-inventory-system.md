@@ -7,3 +7,5 @@ image: assets/expressobits_inventory_system_20251123_210206_767_20251125_221225_
 # [expressobits/inventory-system](https://github.com/expressobits/inventory-system/)
 
 Modular inventory system for Godot 4
+
+Godot 4 的模块化库存系统

@@ -7,3 +7,5 @@ image: assets/Combodo_iTop_20260122_151325_587_20260122_151349_e031a7.png
 # [Combodo/iTop](https://github.com/Combodo/iTop)
 
 IT service management platform with a CMDB
+
+含CMDB的IT服务管理平台

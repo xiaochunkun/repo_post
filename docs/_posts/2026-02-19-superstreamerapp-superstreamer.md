@@ -7,3 +7,5 @@ image: assets/superstreamerapp_superstreamer_20260122_000729_565_20260122_000818
 # [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer)
 
 Self-hostable toolkit for video ingest to adaptive playback
+
+视频摄取到自适应播放的自托管工具包

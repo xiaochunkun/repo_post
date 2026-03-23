@@ -7,3 +7,5 @@ image: assets/20250823T013751852--TomSchimansky--CustomTkinter--20250823T0141142
 # [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 
 modern customizable widgets for Python GUIs with Tkinter
+
+Python GUI 的现代化可定制 Tkinter 组件

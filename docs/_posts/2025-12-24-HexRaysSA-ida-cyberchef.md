@@ -7,3 +7,5 @@ image: assets/HexRaysSA_ida_cyberchef_20251222_225948_798_20251222_230006_323b22
 # [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef/)
 
 CyberChef interface for IDA Pro malware analysis workflows
+
+IDA Pro恶意软件分析工作流的CyberChef界面

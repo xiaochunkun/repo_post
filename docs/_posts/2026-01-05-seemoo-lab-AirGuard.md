@@ -7,3 +7,5 @@ image: assets/seemoo_lab_AirGuard_20260104_081423_710_20260104_081440_340708.png
 # [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard/)
 
 Scans for trackers on Android devices
+
+扫描Android设备上的追踪器

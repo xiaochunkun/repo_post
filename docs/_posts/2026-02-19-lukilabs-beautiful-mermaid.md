@@ -7,3 +7,5 @@ image: assets/lukilabs_beautiful_mermaid_20260216_102800_880_20260216_102850_3fe
 # [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
 
 Renders diagrams to SVG or ASCII without DOM dependencies
+
+将图表渲染为SVG或ASCII，无需DOM依赖

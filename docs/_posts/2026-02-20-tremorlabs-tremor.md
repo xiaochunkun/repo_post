@@ -7,3 +7,5 @@ image: assets/tremorlabs_tremor_20260203_013612_141_20260203_013635_3be2aa.png
 # [tremorlabs/tremor](https://github.com/tremorlabs/tremor)
 
 React components for charts and dashboards
+
+用于图表和仪表板的 React 组件

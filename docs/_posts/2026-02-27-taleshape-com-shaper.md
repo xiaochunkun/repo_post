@@ -7,3 +7,5 @@ image: assets/taleshape_com_shaper_20260224_122324_944_20260224_122418_8bbe0a.pn
 # [taleshape-com/shaper](https://github.com/taleshape-com/shaper)
 
 SQL dashboards using DuckDB
+
+使用DuckDB的SQL仪表板

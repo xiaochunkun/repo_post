@@ -7,3 +7,5 @@ image: assets/healthchecks_healthchecks_cropped.png
 # [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
 
 cron job monitoring with alerts
+
+带警报的 cron 作业监控

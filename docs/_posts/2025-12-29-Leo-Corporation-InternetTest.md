@@ -7,3 +7,5 @@ image: assets/Leo_Corporation_InternetTest_20251228_010645_071_20251228_010706_9
 # [Leo-Corporation/InternetTest](https://github.com/Leo-Corporation/InternetTest/)
 
 Locates IP addresses and recovers WiFi passwords
+
+定位 IP 地址并恢复 WiFi 密码

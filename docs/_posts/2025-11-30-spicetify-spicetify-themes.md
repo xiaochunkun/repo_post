@@ -7,3 +7,5 @@ image: assets/spicetify_spicetify_themes_20251126_151931_270_20251129_022958_479
 # [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes/)
 
 Collection of themes for customizing Spotify
+
+Spotify 自定义主题集合

@@ -7,3 +7,5 @@ image: assets/iamsrikanthnani_pluely_20260305_225725_309_20260305_225858_f98803.
 # [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely)
 
 Assist meetings via translucent desktop overlay
+
+通过半透明桌面覆盖层辅助会议

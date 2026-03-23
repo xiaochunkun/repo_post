@@ -7,3 +7,5 @@ image: assets/dr34mhacks_jwtauditor_20260111_104912_897_20260111_104926_033c85.p
 # [dr34mhacks/jwtauditor](https://github.com/dr34mhacks/jwtauditor)
 
 Tests JWT security in the browser
+
+在浏览器中测试JWT安全性

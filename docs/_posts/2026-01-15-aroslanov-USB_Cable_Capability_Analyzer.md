@@ -7,3 +7,5 @@ image: assets/aroslanov_USB_Cable_Capability_Analyzer_20260114_081757_985_202601
 # [aroslanov/USB_Cable_Capability_Analyzer](https://github.com/aroslanov/USB_Cable_Capability_Analyzer)
 
 Infers USB-C cable capabilities from pin connections
+
+从引脚连接推断 USB-C 线缆能力

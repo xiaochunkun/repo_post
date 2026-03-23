@@ -7,3 +7,5 @@ image: assets/mosaico_labs_mosaico_20260101_030630_371_20260101_030645_2d793d.pn
 # [mosaico-labs/mosaico](https://github.com/mosaico-labs/mosaico/)
 
 Data platform for robotics and physical AI
+
+用于机器人和物理AI的数据平台

@@ -7,3 +7,5 @@ image: assets/reubeno_brush_cropped.png
 # [reubeno/brush](https://github.com/reubeno/brush)
 
 bash/POSIX shell written in Rust
+
+用Rust编写的bash/POSIX shell

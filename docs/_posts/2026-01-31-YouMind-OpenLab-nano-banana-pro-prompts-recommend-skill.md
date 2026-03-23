@@ -7,3 +7,5 @@ image: assets/YouMind_OpenLab_nano_banana_pro_prompts_recommend_skill_20260130_0
 # [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
 
 Claude skill for image prompt recommendations
+
+Claude 技能，用于图像提示推荐

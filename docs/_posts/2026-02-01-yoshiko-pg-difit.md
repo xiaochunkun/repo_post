@@ -7,3 +7,5 @@ image: assets/yoshiko_pg_difit_20260131_122416_957_20260131_122453_3b73fc.png
 # [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit)
 
 Local git diff viewer with GitHub interface and AI prompt export
+
+带有 GitHub 界面和 AI 提示导出的本地 git diff 查看器

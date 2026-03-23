@@ -7,3 +7,5 @@ image: assets/crystaldba_postgres_mcp_20260218_005802_821_20260218_005834_2f057b
 # [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp)
 
 MCP server for Postgres index tuning and performance analysis
+
+用于Postgres索引调优和性能分析的MCP服务器

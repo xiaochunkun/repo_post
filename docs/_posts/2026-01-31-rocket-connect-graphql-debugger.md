@@ -7,3 +7,5 @@ image: assets/rocket_connect_graphql_debugger_20260130_212922_397_20260130_21300
 # [rocket-connect/graphql-debugger](https://github.com/rocket-connect/graphql-debugger)
 
 Platform for debugging a GraphQL server
+
+调试GraphQL服务器的平台

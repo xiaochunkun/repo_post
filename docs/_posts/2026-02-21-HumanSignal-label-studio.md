@@ -7,3 +7,5 @@ image: assets/HumanSignal_label_studio_20260209_214010_685_20260209_214029_999e7
 # [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
 
 Labels data for machine learning
+
+为机器学习标注数据

@@ -7,3 +7,5 @@ image: assets/20250903T031511788--tonsky--FiraCode--20250903T035408564--cropped.
 # [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
 monospaced font with programming ligatures
+
+带编程连字的等宽字体

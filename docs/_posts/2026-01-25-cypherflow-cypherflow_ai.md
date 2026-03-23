@@ -7,3 +7,5 @@ image: assets/cypherflow_cypherflow_ai_20260113_002746_319_20260113_002800_c9eab
 # [cypherflow/cypherflow_ai](https://github.com/cypherflow/cypherflow_ai)
 
 AI conversations with Bitcoin micropayments
+
+支持比特币微支付的AI对话

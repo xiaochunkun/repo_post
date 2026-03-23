@@ -7,3 +7,5 @@ image: assets/castar_ventures_castari_proxy_20251213_103117_171_20251213_103154_
 # [castar-ventures/castari-proxy](https://github.com/castar-ventures/castari-proxy/)
 
 Runs Claude Agent SDK against any model
+
+针对任何模型运行 Claude Agent SDK

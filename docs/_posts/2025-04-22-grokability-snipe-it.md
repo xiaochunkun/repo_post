@@ -7,3 +7,5 @@ image: assets/grokability_snipe-it_cropped.png
 # [grokability/snipe-it](https://github.com/grokability/snipe-it)
 
 IT asset and license tracking tool for teams
+
+团队 IT 资产和许可证跟踪工具

@@ -7,3 +7,5 @@ image: assets/endorhq_rover_20260221_063443_109_20260221_063530_4b16b4.png
 # [endorhq/rover](https://github.com/endorhq/rover)
 
 Manager for AI coding agents on a codebase
+
+管理代码库上的 AI 编码代理

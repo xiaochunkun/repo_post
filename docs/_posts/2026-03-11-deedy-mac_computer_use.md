@@ -7,3 +7,5 @@ image: assets/deedy_mac_computer_use_20260309_084040_066_20260309_084245_6cded1.
 # [deedy/mac_computer_use](https://github.com/deedy/mac_computer_use)
 
 Controls macOS through LLM agents
+
+通过LLM代理控制macOS

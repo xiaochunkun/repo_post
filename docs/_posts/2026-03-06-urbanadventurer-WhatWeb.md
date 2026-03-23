@@ -7,3 +7,5 @@ image: assets/urbanadventurer_WhatWeb_20260305_123004_746_20260305_123122_805e14
 # [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
 
 Scanner for identification of technologies on websites
+
+识别网站技术的扫描器

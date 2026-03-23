@@ -7,3 +7,5 @@ image: assets/masonr_yet-another-bench-script_cropped.png
 # [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)
 
 quick Linux server benchmark with cpu, disk, and network tests
+
+快速Linux服务器基准测试，涵盖CPU、磁盘和网络

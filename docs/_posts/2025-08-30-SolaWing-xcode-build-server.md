@@ -7,3 +7,5 @@ image: assets/20250830T041220665--SolaWing--xcode-build-server--20250830T0422002
 # [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server)
 
 connect xcode projects to sourcekit-lsp for multi-language support
+
+将 Xcode 项目连接到 SourceKit-LSP 实现多语言支持

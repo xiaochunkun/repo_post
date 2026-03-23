@@ -7,3 +7,5 @@ image: assets/20250827T101319437--codelucas--newspaper--20250830T040921803--crop
 # [codelucas/newspaper](https://github.com/codelucas/newspaper)
 
 extract news articles with Python
+
+Python 新闻文章提取工具

@@ -7,3 +7,5 @@ image: assets/20250912T170911382--SylphAI-Inc--LLM-engineer-handbook--20250912T1
 # [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook)
 
 Curated resources and tools for building, fine-tuning, and deploying large language models
+
+精选的大语言模型构建、微调和部署资源与工具

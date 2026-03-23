@@ -7,3 +7,5 @@ image: assets/tomoyaf_logifai_20260212_162331_937_20260212_162402_ddaf9f.png
 # [tomoyaf/logifai](https://github.com/tomoyaf/logifai)
 
 Captures terminal logs for Claude Code
+
+捕获 Claude Code 的终端日志

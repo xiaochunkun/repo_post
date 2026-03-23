@@ -7,3 +7,5 @@ image: assets/20250829T043016957--yuis-ice--visited--20250829T043502282--cropped
 # [yuis-ice/visited](https://github.com/yuis-ice/visited)
 
 collects browser history in one place with a simple CLI
+
+用简单 CLI 将浏览器历史记录统一管理

@@ -7,3 +7,5 @@ image: assets/WojciechMula_pyahocorasick_20251209_052154_220_20251209_052326_0c8
 # [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick/)
 
 Multi-pattern string search library in Python
+
+Python 多模式字符串搜索库

@@ -7,3 +7,5 @@ image: assets/magnitudedev_magnitude_20260108_024828_812_20260108_024843_4ad527.
 # [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
 
 Browser agent using vision AI to automate tasks
+
+利用视觉AI自动化任务的浏览器代理

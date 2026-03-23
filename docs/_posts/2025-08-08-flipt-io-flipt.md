@@ -7,3 +7,5 @@ image: assets/flipt-io_flipt_cropped.png
 # [flipt-io/flipt](https://github.com/flipt-io/flipt)
 
 Git-native, self-hosted feature flag management for DevOps teams
+
+Git原生、自托管的DevOps团队功能标志管理

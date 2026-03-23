@@ -7,3 +7,5 @@ image: assets/PostHog_posthog_cropped.png
 # [PostHog/posthog](https://github.com/PostHog/posthog)
 
 Open-source platform for web analytics, session recording, feature flags, and A/B testing you can self-host
+
+可自托管的开源平台，用于网络分析、会话录制、功能标志和 A/B 测试

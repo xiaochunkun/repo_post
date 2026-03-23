@@ -7,3 +7,5 @@ image: assets/AnswerOverflow_AnswerOverflow_20260305_002416_816_20260305_002550_
 # [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow)
 
 Indexes Discord channels for search engines
+
+为搜索引擎索引 Discord 频道

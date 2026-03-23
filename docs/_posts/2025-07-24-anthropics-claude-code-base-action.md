@@ -7,3 +7,5 @@ image: assets/anthropics_claude-code-base-action_cropped.png
 # [anthropics/claude-code-base-action](https://github.com/anthropics/claude-code-base-action)
 
 Claude Code GitHub Action for automating code reviews and changes
+
+用于自动化代码审查和更改的Claude Code GitHub Action

@@ -7,3 +7,5 @@ image: assets/voideditor_void_cropped.png
 # [voideditor/void](https://github.com/voideditor/void)
 
 Open-source AI code editor, fork of VS Code
+
+开源 AI 代码编辑器，基于 VS Code 分支

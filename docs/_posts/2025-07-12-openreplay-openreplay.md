@@ -7,3 +7,5 @@ image: assets/openreplay_openreplay_cropped.png
 # [openreplay/openreplay](https://github.com/openreplay/openreplay)
 
 self-hosted session replay for web apps
+
+用于 Web 应用的自托管会话回放

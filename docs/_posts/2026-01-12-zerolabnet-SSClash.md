@@ -7,3 +7,5 @@ image: assets/zerolabnet_SSClash_20260112_103320_366_20260112_103334_3544e3.png
 # [zerolabnet/SSClash](https://github.com/zerolabnet/SSClash)
 
 Bypasses blocks on OpenWrt routers
+
+绕过OpenWrt路由器的封锁

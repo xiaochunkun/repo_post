@@ -7,3 +7,5 @@ image: assets/owasp-amass_amass_cropped.png
 # [owasp-amass/amass](https://github.com/owasp-amass/amass)
 
 finds domains and maps attack surfaces
+
+发现域名并映射攻击面

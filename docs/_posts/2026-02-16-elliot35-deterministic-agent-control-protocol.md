@@ -7,3 +7,5 @@ image: assets/elliot35_deterministic_agent_control_protocol_20260212_154706_852_
 # [elliot35/deterministic-agent-control-protocol](https://github.com/elliot35/deterministic-agent-control-protocol)
 
 Governance gateway for AI agents
+
+AI 代理的治理网关

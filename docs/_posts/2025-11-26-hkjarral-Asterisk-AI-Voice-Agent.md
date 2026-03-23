@@ -7,3 +7,5 @@ image: assets/hkjarral_Asterisk_AI_Voice_Agent_20251123_203311_191_20251125_2144
 # [hkjarral/Asterisk-AI-Voice-Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent/)
 
 Open-source AI voice agent for Asterisk/FreePBX
+
+用于 Asterisk/FreePBX 的开源 AI 语音代理

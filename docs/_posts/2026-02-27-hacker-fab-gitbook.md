@@ -7,3 +7,5 @@ image: assets/hacker_fab_gitbook_20260215_130320_210_20260215_130416_9e6cb8.png
 # [hacker-fab/gitbook](https://github.com/hacker-fab/gitbook)
 
 Open-source semiconductor fabrication documentation
+
+开源半导体制造文档

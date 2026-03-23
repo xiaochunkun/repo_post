@@ -7,3 +7,5 @@ image: assets/baryhuang_mcp-remote-macos-use_cropped.png
 # [baryhuang/mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use)
 
 remote macOS control for AI agents
+
+用于 AI 代理的远程 macOS 控制

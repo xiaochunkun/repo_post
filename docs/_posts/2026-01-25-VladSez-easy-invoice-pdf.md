@@ -7,3 +7,5 @@ image: assets/VladSez_easy_invoice_pdf_20260121_190449_892_20260121_190514_99e8c
 # [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf)
 
 Generates invoices in the browser with live PDF previews
+
+浏览器实时PDF预览发票生成器

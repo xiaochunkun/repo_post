@@ -7,3 +7,5 @@ image: assets/adafruit_awesome_circuitpython_20260116_155425_952_20260116_155441
 # [adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython)
 
 Curated list of resources for microcontrollers
+
+微控制器资源精选列表

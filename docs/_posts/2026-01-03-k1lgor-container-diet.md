@@ -7,3 +7,5 @@ image: assets/k1lgor_container_diet_20260102_024024_614_20260102_024041_359356.p
 # [k1lgor/container-diet](https://github.com/k1lgor/container-diet/)
 
 Optimizes Docker images using AI
+
+使用 AI 优化 Docker 镜像

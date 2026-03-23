@@ -7,3 +7,5 @@ image: assets/RafalWilinski_aws_mcp_20260321_071450_802_20260321_071614_826841.p
 # [RafalWilinski/aws-mcp](https://github.com/RafalWilinski/aws-mcp)
 
 AWS MCP server for Claude
+
+Claude的AWS MCP服务器

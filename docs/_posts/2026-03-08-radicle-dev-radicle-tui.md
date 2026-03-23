@@ -7,3 +7,5 @@ image: assets/radicle_dev_radicle_tui_20260217_175718_240_20260217_175752_3626c3
 # [radicle-dev/radicle-tui](https://github.com/radicle-dev/radicle-tui)
 
 Terminal interfaces for the Radicle code forge
+
+Radicle代码协作平台的终端界面

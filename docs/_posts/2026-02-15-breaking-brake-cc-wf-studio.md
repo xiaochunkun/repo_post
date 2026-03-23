@@ -7,3 +7,5 @@ image: assets/breaking_brake_cc_wf_studio_20260209_125325_302_20260209_125433_b3
 # [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio)
 
 Visual workflow editor for AI agent orchestrations
+
+AI 代理编排的可视化工作流编辑器

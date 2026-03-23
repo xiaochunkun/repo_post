@@ -7,3 +7,5 @@ image: assets/maposia_remnawave_telegram_sub_mini_app_20251210_041842_744_202512
 # [maposia/remnawave-telegram-sub-mini-app](https://github.com/maposia/remnawave-telegram-sub-mini-app/)
 
 Telegram mini app for subscription management
+
+Telegram 订阅管理迷你应用

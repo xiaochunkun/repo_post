@@ -7,3 +7,5 @@ image: assets/subhashchy_The_Accidental_CTO_20251104_234107_711_20251104_234137_
 # [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO/)
 
 A book on scaling from an MVP to a million users
+
+关于从 MVP 扩展到百万用户的书

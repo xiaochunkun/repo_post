@@ -7,3 +7,5 @@ image: assets/AmineDjeghri_awesome_os_setup_20260122_195134_757_20260122_195151_
 # [AmineDjeghri/awesome-os-setup](https://github.com/AmineDjeghri/awesome-os-setup)
 
 Automates OS setup and productivity workflows
+
+自动化操作系统设置和生产力工作流

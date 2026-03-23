@@ -7,3 +7,5 @@ image: assets/Bearologics_AppLandingPage_20260120_024456_337_20260120_024510_493
 # [Bearologics/AppLandingPage](https://github.com/Bearologics/AppLandingPage)
 
 Generates iOS app websites with Publish
+
+使用Publish生成iOS应用网站

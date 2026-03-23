@@ -7,3 +7,5 @@ image: assets/surrealdb_surrealdb_cropped.png
 # [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 
 Multi-model database for storing and managing different types of data
+
+用于存储和管理不同类型数据的多模型数据库

@@ -7,3 +7,5 @@ image: assets/nuxt_ui_templates_chat_20251123_201019_313_20251125_013005_9768bf-
 # [nuxt-ui-templates/chat](https://github.com/nuxt-ui-templates/chat/)
 
 Full-featured AI chatbot template for Nuxt
+
+功能齐全的 Nuxt AI 聊天机器人模板

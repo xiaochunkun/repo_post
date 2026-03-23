@@ -7,3 +7,5 @@ image: assets/seifrajhi_awesome_platform_engineering_tools_20251107_020353_004_2
 # [seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools/)
 
 Curated list of platform engineering tools
+
+精选的平台工程工具列表

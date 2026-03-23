@@ -7,3 +7,5 @@ image: assets/NickvisionApps_Parabolic--20250815T024636351--cropped.png
 # [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
 
 download web videos and audio with a simple yt-dlp frontend
+
+使用简单的 yt-dlp 前端下载网络视频和音频

@@ -7,3 +7,5 @@ image: assets/yuka_friends_Windrecorder_20260108_135259_760_20260108_135316_ed79
 # [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)
 
 Local screen recording with text and image search
+
+本地屏幕录制，支持文本和图像搜索

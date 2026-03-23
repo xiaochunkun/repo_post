@@ -7,3 +7,5 @@ image: assets/ofriw_chunkhound_20251123_204113_602_20251125_215726_d0adb7--20251
 # [ofriw/chunkhound](https://github.com/ofriw/chunkhound/)
 
 Searchable knowledge base for AI assistants
+
+AI 助手的可搜索知识库

@@ -7,3 +7,5 @@ image: assets/qwerasd205_PixelCode_20251216_122743_666_20251216_122809_576be7.pn
 # [qwerasd205/PixelCode](https://github.com/qwerasd205/PixelCode/)
 
 Pixel font designed for programming
+
+专为编程设计的像素字体

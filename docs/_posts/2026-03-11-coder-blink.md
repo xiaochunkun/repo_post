@@ -7,3 +7,5 @@ image: assets/coder_blink_20260311_025838_732_20260311_030016_e7a9df.png
 # [coder/blink](https://github.com/coder/blink)
 
 Run AI agents in Slack, GitHub, or web UI
+
+在Slack、GitHub或Web UI中运行AI代理

@@ -7,3 +7,5 @@ image: assets/20250908T191100521--weaviate--Verba--20250908T191516363--cropped.p
 # [weaviate/Verba](https://github.com/weaviate/Verba)
 
 open-source RAG app for querying your data with LLMs
+
+用 LLM 查询你的数据的开源 RAG 应用

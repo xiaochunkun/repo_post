@@ -7,3 +7,5 @@ image: assets/moson_mo_pacseek_20251224_162132_726_20251224_162150_4b2c3f.png
 # [moson-mo/pacseek](https://github.com/moson-mo/pacseek/)
 
 Terminal interface for searching and installing Arch Linux packages
+
+搜索和安装 Arch Linux 包的终端界面

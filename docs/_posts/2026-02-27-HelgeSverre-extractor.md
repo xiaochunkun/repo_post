@@ -7,3 +7,5 @@ image: assets/HelgeSverre_extractor_20260222_120439_937_20260222_120505_6847bd.p
 # [HelgeSverre/extractor](https://github.com/HelgeSverre/extractor)
 
 Extracts structured data from images and documents via OpenAI
+
+通过OpenAI从图像和文档提取结构化数据

@@ -7,3 +7,5 @@ image: assets/flowforfrank_seo_checklist_20260214_001654_704_20260214_001756_771
 # [flowforfrank/seo-checklist](https://github.com/flowforfrank/seo-checklist)
 
 Checklist for search engine optimization requirements
+
+搜索引擎优化要求清单

@@ -7,3 +7,5 @@ image: assets/openai_Video_Pre_Training_20251222_032808_511_20251222_032825_b6db
 # [openai/Video-Pre-Training](https://github.com/openai/Video-Pre-Training/)
 
 Trains agents to act from videos
+
+训练智能体从视频中学习行动

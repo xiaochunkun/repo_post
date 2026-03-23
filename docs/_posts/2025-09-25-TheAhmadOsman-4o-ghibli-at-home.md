@@ -7,3 +7,5 @@ image: assets/20250925T011032102--TheAhmadOsman--4o-ghibli-at-home--20250925T011
 # [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home)
 
 turn photos into ghibli-style art locally, no cloud needed
+
+本地将照片转换为吉卜力风格艺术，无需云端

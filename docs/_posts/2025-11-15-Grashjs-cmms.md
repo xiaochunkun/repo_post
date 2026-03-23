@@ -7,3 +7,5 @@ image: assets/Grashjs_cmms_20251114_164716_650_20251115_034608_7cdd9a--20251115T
 # [Grashjs/cmms](https://github.com/Grashjs/cmms/)
 
 Self-hosted maintenance management system like Jira for technicians
+
+面向技术人员的自托管维护管理系统，类似Jira

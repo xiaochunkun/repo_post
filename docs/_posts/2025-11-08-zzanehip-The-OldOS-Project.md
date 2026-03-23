@@ -7,3 +7,5 @@ image: assets/zzanehip_The_OldOS_Project_20251108_005111_361_20251108_180753_808
 # [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project/)
 
 Recreation of iOS 4 in SwiftUI
+
+用SwiftUI复现iOS 4

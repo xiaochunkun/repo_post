@@ -7,3 +7,5 @@ image: assets/AI4Finance_Foundation_FinRL_Trading_20260122_024420_187_20260122_0
 # [AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading)
 
 Trading platform with reinforcement learning strategies
+
+带强化学习策略的交易平台

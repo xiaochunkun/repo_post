@@ -7,3 +7,5 @@ image: assets/frappe_frappe_cropped.png
 # [frappe/frappe](https://github.com/frappe/frappe)
 
 Open source web framework in Python and JavaScript
+
+基于 Python 和 JavaScript 的开源 Web 框架

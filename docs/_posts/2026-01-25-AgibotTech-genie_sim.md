@@ -7,3 +7,5 @@ image: assets/AgibotTech_genie_sim_20260113_012434_780_20260113_012448_044408.pn
 # [AgibotTech/genie_sim](https://github.com/AgibotTech/genie_sim)
 
 Simulation platform for robot training and evaluation
+
+机器人训练与评估的仿真平台

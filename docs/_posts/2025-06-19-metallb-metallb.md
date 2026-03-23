@@ -7,3 +7,5 @@ image: assets/metallb_metallb_cropped.png
 # [metallb/metallb](https://github.com/metallb/metallb)
 
 MetalLB: load balancer for bare metal Kubernetes clusters
+
+MetalLB：适用于裸金属Kubernetes集群的负载均衡器

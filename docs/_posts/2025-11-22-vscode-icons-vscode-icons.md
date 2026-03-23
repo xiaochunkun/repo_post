@@ -7,3 +7,5 @@ image: assets/vscode_icons_vscode_icons_20251121_134728_994_20251122_033955_6ea0
 # [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons/)
 
 File and folder icons for Visual Studio Code
+
+Visual Studio Code 的文件和文件夹图标

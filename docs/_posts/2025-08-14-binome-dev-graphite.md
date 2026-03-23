@@ -7,3 +7,5 @@ image: assets/binome-dev_graphite--20250814T044135147--cropped.png
 # [binome-dev/graphite](https://github.com/binome-dev/graphite)
 
 event-driven AI agent framework with modular workflows
+
+具有模块化工作流的事件驱动 AI 代理框架

@@ -7,3 +7,5 @@ image: assets/excalidraw_excalidraw_vscode_20251123_132658_316_20251124_003420_7
 # [excalidraw/excalidraw-vscode](https://github.com/excalidraw/excalidraw-vscode/)
 
 Whiteboard editor inside VS Code
+
+VS Code 内的白板编辑器

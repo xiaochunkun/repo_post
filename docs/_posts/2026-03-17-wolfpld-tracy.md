@@ -7,3 +7,5 @@ image: assets/wolfpld_tracy_20260317_052518_949_20260317_052608_05110c.png
 # [wolfpld/tracy](https://github.com/wolfpld/tracy)
 
 Nanosecond resolution CPU GPU profiler
+
+纳秒级分辨率CPU GPU性能分析器

@@ -7,3 +7,5 @@ image: assets/20251010T064527788--neur0map--manx--20251010T064930232--cropped.pn
 # [neur0map/manx](https://github.com/neur0map/manx)
 
 find code snippets and docs instantly from your terminal
+
+从终端即时查找代码片段和文档

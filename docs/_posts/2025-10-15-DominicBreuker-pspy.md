@@ -7,3 +7,5 @@ image: assets/20251015T031755737--DominicBreuker--pspy--20251015T032443399--crop
 # [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)
 
 monitor linux processes and cron jobs without root
+
+无需 root 权限监控 Linux 进程和 cron 作业

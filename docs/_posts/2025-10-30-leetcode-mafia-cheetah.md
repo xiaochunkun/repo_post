@@ -7,3 +7,5 @@ image: assets/leetcode_mafia_cheetah_20251029_214255_975_20251029_222143_fbebe7-
 # [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah/)
 
 AI-powered macOS app for software engineering interview practice
+
+AI 驱动的 macOS 应用，用于软件工程面试练习

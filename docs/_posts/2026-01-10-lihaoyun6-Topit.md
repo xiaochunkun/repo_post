@@ -7,3 +7,5 @@ image: assets/lihaoyun6_Topit_20260108_123840_174_20260108_123853_c7cdb0.png
 # [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit)
 
 Pins windows to the top of the screen
+
+将窗口固定在屏幕顶部

@@ -7,3 +7,5 @@ image: assets/wasabeef_claude_code_cookbook_20251031_060015_853_20251031_210535_
 # [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook/)
 
 Custom slash commands and expert roles for Claude Code
+
+Claude Code 的自定义斜杠命令和专家角色

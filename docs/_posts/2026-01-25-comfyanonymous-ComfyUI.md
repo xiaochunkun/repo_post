@@ -7,3 +7,5 @@ image: assets/comfyanonymous_ComfyUI_20260122_063925_185_20260122_064000_5a33b5.
 # [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
 Node-based interface for stable diffusion pipelines
+
+稳定扩散流程的节点式界面

@@ -7,3 +7,5 @@ image: assets/akvorado_akvorado_20260207_073058_713_20260207_073140_e7af33.png
 # [akvorado/akvorado](https://github.com/akvorado/akvorado)
 
 Exports network flows to ClickHouse for visualization
+
+将网络流导出到 ClickHouse 进行可视化

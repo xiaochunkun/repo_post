@@ -7,3 +7,5 @@ image: assets/dvorka_mindforger_20251208_002158_638_20251208_002232_bf10cf.png
 # [dvorka/mindforger](https://github.com/dvorka/mindforger/)
 
 Markdown editor for knowledge management
+
+用于知识管理的 Markdown 编辑器

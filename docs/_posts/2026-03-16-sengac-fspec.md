@@ -7,3 +7,5 @@ image: assets/sengac_fspec_20260213_231439_772_20260213_231530_0bb0d2.png
 # [sengac/fspec](https://github.com/sengac/fspec)
 
 Generates tests from Gherkin scenarios for AI agents
+
+为 AI 代理从 Gherkin 场景生成测试

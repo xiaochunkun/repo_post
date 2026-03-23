@@ -7,3 +7,5 @@ image: assets/ServiceNow_BrowserGym_20260205_093442_565_20260205_093517_4b8568.p
 # [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym)
 
 Environment for web agent research
+
+用于Web代理研究的环境

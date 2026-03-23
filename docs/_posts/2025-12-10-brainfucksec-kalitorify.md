@@ -7,3 +7,5 @@ image: assets/brainfucksec_kalitorify_20251207_232002_088_20251207_232055_893246
 # [brainfucksec/kalitorify](https://github.com/brainfucksec/kalitorify/)
 
 Proxy traffic through Tor on Kali Linux
+
+在Kali Linux上通过Tor代理流量

@@ -7,3 +7,5 @@ image: assets/epicmaxco_epic_spinners_20251111_154954_621_20251112_020619_39ec29
 # [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners/)
 
 Collection of CSS spinners with Vue.js integration
+
+集成Vue.js的CSS旋转器集合

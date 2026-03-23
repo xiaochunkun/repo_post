@@ -7,3 +7,5 @@ image: assets/20250811T235042--hakluke--hakoriginfinder--20250811T235502--croppe
 # [hakluke/hakoriginfinder](https://github.com/hakluke/hakoriginfinder)
 
 find origin IP behind reverse proxies using response similarity
+
+使用响应相似性查找反向代理后的原始IP

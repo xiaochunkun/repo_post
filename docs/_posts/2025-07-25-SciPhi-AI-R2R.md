@@ -7,3 +7,5 @@ image: assets/SciPhi-AI_R2R_cropped.png
 # [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 
 Open-source toolkit for agentic retrieval, research, and question answering over docs and web
+
+开源工具包，用于代理检索、研究和文档与网络问答

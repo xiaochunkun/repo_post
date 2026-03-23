@@ -7,3 +7,5 @@ image: assets/HaveIBeenPwned_EmailAddressExtractor_20251031_093517_349_20251102_
 # [HaveIBeenPwned/EmailAddressExtractor](https://github.com/HaveIBeenPwned/EmailAddressExtractor/)
 
 Extracts email addresses from data breach files
+
+从数据泄露文件中提取邮箱地址

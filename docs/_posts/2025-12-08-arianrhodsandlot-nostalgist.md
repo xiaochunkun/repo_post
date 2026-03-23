@@ -7,3 +7,5 @@ image: assets/arianrhodsandlot_nostalgist_20251207_181135_049_20251207_181207_b8
 # [arianrhodsandlot/nostalgist](https://github.com/arianrhodsandlot/nostalgist/)
 
 Run retro console emulators in browsers
+
+在浏览器中运行复古游戏机模拟器

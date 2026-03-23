@@ -7,3 +7,5 @@ image: assets/simplex_chat_simplexmq_20251203_001344_167_20251203_001412_24c50d.
 # [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq/)
 
 Message broker for unidirectional queues
+
+用于单向队列的消息代理

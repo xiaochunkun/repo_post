@@ -7,3 +7,5 @@ image: assets/SendWithSES_Drag-and-Drop-Email-Designer_cropped.png
 # [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
 
 drag and drop to build html emails, no coding needed
+
+无需编码，通过拖放构建 HTML 邮件

@@ -7,3 +7,5 @@ image: assets/biati_digital_glightbox_20251031_092803_548_20251102_210826_9d50e6
 # [biati-digital/glightbox](https://github.com/biati-digital/glightbox/)
 
 Javascript lightbox for images, videos, and iframes
+
+用于图像、视频和 iframe 的 JavaScript 灯箱

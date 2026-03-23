@@ -7,3 +7,5 @@ image: assets/nas5w_interview_guide_20251118_062020_277_20251118_160115_e90ca7--
 # [nas5w/interview-guide](https://github.com/nas5w/interview-guide/)
 
 Opinionated software engineering interview guide
+
+有主见的软件工程面试指南

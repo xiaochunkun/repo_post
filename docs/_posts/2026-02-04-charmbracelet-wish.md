@@ -7,3 +7,5 @@ image: assets/charmbracelet_wish_20260203_013251_763_20260203_013310_201231.png
 # [charmbracelet/wish](https://github.com/charmbracelet/wish)
 
 Builds SSH servers with Go middlewares
+
+使用 Go 中间件构建 SSH 服务器

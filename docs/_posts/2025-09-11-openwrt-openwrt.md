@@ -7,3 +7,5 @@ image: assets/20250911T013855128--openwrt--openwrt--20250911T014139746--cropped.
 # [openwrt/openwrt](https://github.com/openwrt/openwrt)
 
 Linux-based OS for customizing routers and embedded devices
+
+用于定制路由器和嵌入式设备的 Linux 操作系统

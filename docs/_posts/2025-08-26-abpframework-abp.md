@@ -7,3 +7,5 @@ image: assets/20250825T030603256--abpframework--abp--20250825T031116278--cropped
 # [abpframework/abp](https://github.com/abpframework/abp)
 
 platform for building modular .NET business apps
+
+构建模块化 .NET 商业应用的平台

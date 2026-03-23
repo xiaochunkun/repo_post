@@ -7,3 +7,5 @@ image: assets/jeffreybergier_Hipstapaper_20260120_175956_210_20260120_180032_fde
 # [jeffreybergier/Hipstapaper](https://github.com/jeffreybergier/Hipstapaper)
 
 Reading list app for Apple devices with iCloud sync
+
+支持 iCloud 同步的 Apple 设备阅读列表应用

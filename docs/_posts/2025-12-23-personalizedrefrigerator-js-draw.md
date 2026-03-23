@@ -7,3 +7,5 @@ image: assets/personalizedrefrigerator_js_draw_20251222_055151_178_20251222_0552
 # [personalizedrefrigerator/js-draw](https://github.com/personalizedrefrigerator/js-draw/)
 
 Freehand drawing library for JavaScript and TypeScript
+
+用于 JavaScript 和 TypeScript 的自由绘图库

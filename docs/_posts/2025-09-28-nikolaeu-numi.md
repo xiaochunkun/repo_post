@@ -7,3 +7,5 @@ image: assets/20250928T053637828--nikolaeu--numi--20250928T054812935--cropped.pn
 # [nikolaeu/numi](https://github.com/nikolaeu/numi)
 
 notepad-style calculator that understands natural language and handles units, dates, and currency
+
+支持自然语言、单位、日期和货币的记事本风格计算器

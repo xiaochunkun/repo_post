@@ -7,3 +7,5 @@ image: assets/DevER_M_yami_20251031_071033_740_20251101_205524_08a727--20251101T
 # [DevER-M/yami](https://github.com/DevER-M/yami/)
 
 Open-source music player for local files and online sources
+
+用于本地文件和在线资源的开源音乐播放器

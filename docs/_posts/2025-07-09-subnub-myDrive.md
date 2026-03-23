@@ -7,3 +7,5 @@ image: assets/subnub_myDrive_cropped.png
 # [subnub/myDrive](https://github.com/subnub/myDrive)
 
 self-hosted cloud file storage like Google Drive
+
+自托管的云文件存储，类似 Google Drive

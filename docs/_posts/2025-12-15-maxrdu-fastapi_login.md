@@ -7,3 +7,5 @@ image: assets/maxrdu_fastapi_login_20251213_094833_135_20251213_095015_c8e2ed.pn
 # [maxrdu/fastapi_login](https://github.com/maxrdu/fastapi_login/)
 
 Flask-Login functionality for FastAPI
+
+FastAPI的Flask-Login功能

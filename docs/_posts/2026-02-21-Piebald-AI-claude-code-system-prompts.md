@@ -7,3 +7,5 @@ image: assets/Piebald_AI_claude_code_system_prompts_20260220_145545_494_20260220
 # [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
 
 Extracts system prompts from Claude Code
+
+从Claude Code提取系统提示

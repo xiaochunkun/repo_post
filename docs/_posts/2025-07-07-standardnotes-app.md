@@ -7,3 +7,5 @@ image: assets/standardnotes_app_cropped.png
 # [standardnotes/app](https://github.com/standardnotes/app)
 
 note-taking app with encryption, syncing, open source code
+
+笔记应用，具有加密、同步和开源代码

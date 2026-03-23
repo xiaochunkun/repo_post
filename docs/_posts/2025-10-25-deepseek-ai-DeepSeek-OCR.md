@@ -7,3 +7,5 @@ image: assets/deepseek_ai_DeepSeek_OCR_20251023_193731_994_20251024_223856_092aa
 # [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR/)
 
 An OCR model for visual text compression
+
+视觉文本压缩的OCR模型

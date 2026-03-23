@@ -7,3 +7,5 @@ image: assets/cjbassi_gotop_20260116_112427_047_20260116_112457_7a4cdb.png
 # [cjbassi/gotop](https://github.com/cjbassi/gotop)
 
 Terminal activity monitor written in Go
+
+用 Go 编写的终端活动监视器

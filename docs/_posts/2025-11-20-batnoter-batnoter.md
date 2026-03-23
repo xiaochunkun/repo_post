@@ -7,3 +7,5 @@ image: assets/batnoter_batnoter_20251120_025239_357_20251120_041005_a921dc--2025
 # [batnoter/batnoter](https://github.com/batnoter/batnoter/)
 
 Stores markdown notes in git repositories
+
+在 git 仓库中存储 Markdown 笔记

@@ -7,3 +7,5 @@ image: assets/20250830T041157753--zabel-xyz--local-history--20250830T042117823--
 # [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history)
 
 VS Code plugin for file change history and easy restore
+
+VS Code 文件变更历史和快速恢复插件

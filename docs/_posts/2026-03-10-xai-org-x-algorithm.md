@@ -7,3 +7,5 @@ image: assets/xai_org_x_algorithm_20260307_163054_780_20260307_163216_f789de.png
 # [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 
 Rank social media feeds via transformer models
+
+通过transformer模型对社交媒体信息流进行排序

@@ -7,3 +7,5 @@ image: assets/streetwriters_notesnook_cropped.png
 # [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
 
 open source encrypted note-taking app
+
+开源加密笔记应用

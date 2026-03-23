@@ -7,3 +7,5 @@ image: assets/20250815T012234400_aditisingh2707_Meta-GraphQL-Beautifier--2025081
 # [aditisingh2707/Meta-GraphQL-Beautifier](https://github.com/aditisingh2707/Meta-GraphQL-Beautifier)
 
 Burp Suite extension for beautifying Meta GraphQL requests
+
+Burp Suite扩展，用于美化Meta GraphQL请求

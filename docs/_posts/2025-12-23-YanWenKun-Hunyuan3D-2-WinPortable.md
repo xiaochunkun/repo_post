@@ -7,3 +7,5 @@ image: assets/YanWenKun_Hunyuan3D_2_WinPortable_20251222_130857_732_20251222_130
 # [YanWenKun/Hunyuan3D-2-WinPortable](https://github.com/YanWenKun/Hunyuan3D-2-WinPortable/)
 
 Generates 3D models from images on Windows
+
+在 Windows 上从图像生成 3D 模型

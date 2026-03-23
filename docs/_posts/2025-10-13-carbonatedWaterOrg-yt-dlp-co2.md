@@ -7,3 +7,5 @@ image: assets/20251012T030033898--carbonatedWaterOrg--yt-dlp-co2--20251012T03051
 # [carbonatedWaterOrg/yt-dlp-co2](https://github.com/carbonatedWaterOrg/yt-dlp-co2)
 
 web interface for yt-dlp with themes and real-time progress
+
+yt-dlp 的 Web 界面，支持主题和实时进度

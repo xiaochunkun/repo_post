@@ -7,3 +7,5 @@ image: assets/ivansaul_cheat_sheets_20260209_225605_370_20260209_225628_71d171.p
 # [ivansaul/cheat-sheets](https://github.com/ivansaul/cheat-sheets)
 
 Developer guide for learning programming languages
+
+学习编程语言的开发者指南

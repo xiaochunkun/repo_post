@@ -7,3 +7,5 @@ image: assets/jo_inc_camofox_browser_20260212_172834_933_20260212_172955_e931f5.
 # [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)
 
 Spoofs fingerprints at the C++ level for AI agents
+
+在 C++ 级别为 AI 智能体伪造指纹

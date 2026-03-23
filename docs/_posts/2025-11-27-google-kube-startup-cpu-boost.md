@@ -7,3 +7,5 @@ image: assets/google_kube_startup_cpu_boost_20251125_000820_380_20251125_225038_
 # [google/kube-startup-cpu-boost](https://github.com/google/kube-startup-cpu-boost/)
 
 Increases CPU resources during Kubernetes workload startup
+
+在 Kubernetes 工作负载启动时增加 CPU 资源

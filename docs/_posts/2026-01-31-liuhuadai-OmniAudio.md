@@ -7,3 +7,5 @@ image: assets/liuhuadai_OmniAudio_20260130_170335_250_20260130_170423_d179c0.png
 # [liuhuadai/OmniAudio](https://github.com/liuhuadai/OmniAudio)
 
 Generates spatial audio from 360-degree video
+
+从360度视频生成空间音频

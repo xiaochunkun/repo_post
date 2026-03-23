@@ -7,3 +7,5 @@ image: assets/20250904T000859322--node-red--node-red--20250904T001752484--croppe
 # [node-red/node-red](https://github.com/node-red/node-red)
 
 low-code tool for building event-driven flows
+
+用于构建事件驱动流程的低代码工具

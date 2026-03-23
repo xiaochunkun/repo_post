@@ -7,3 +7,5 @@ image: assets/souzatharsis_podcastfy_20260129_024659_304_20260129_024741_a03fc1.
 # [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy)
 
 Converts multimodal content into audio conversations with GenAI
+
+使用GenAI将多模态内容转换为音频对话

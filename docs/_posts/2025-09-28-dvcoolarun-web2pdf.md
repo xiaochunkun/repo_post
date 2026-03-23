@@ -7,3 +7,5 @@ image: assets/20250928T055320214--dvcoolarun--web2pdf--20250928T060209932--cropp
 # [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf)
 
 convert webpages to PDFs from the command line
+
+从命令行将网页转换为PDF

@@ -7,3 +7,5 @@ image: assets/yunginnanet_HellPot_cropped.png
 # [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot)
 
 honeypot that trolls bots with endless fake data
+
+蜜罐，用无限假数据愚弄机器人

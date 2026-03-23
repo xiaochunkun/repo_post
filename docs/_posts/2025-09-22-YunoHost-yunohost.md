@@ -7,3 +7,5 @@ image: assets/20250922T024718440--YunoHost--yunohost--20250922T025708490--croppe
 # [YunoHost/yunohost](https://github.com/YunoHost/yunohost)
 
 makes running your own server and apps simple
+
+简化运行自有服务器和应用的流程

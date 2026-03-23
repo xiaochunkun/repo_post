@@ -7,3 +7,5 @@ image: assets/Nutlope_self.so_cropped.png
 # [Nutlope/self.so](https://github.com/Nutlope/self.so)
 
 turn your LinkedIn into a personal website
+
+将你的LinkedIn转化为个人网站

@@ -7,3 +7,5 @@ image: assets/20250825T030100656--Deepractice--PromptX--20250825T030642638--crop
 # [Deepractice/PromptX](https://github.com/Deepractice/PromptX)
 
 AI role management and memory for pro-level assistants
+
+AI 角色管理和记忆系统，打造专业级助手

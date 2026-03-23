@@ -7,3 +7,5 @@ image: assets/20250822T014948440--apernet--hysteria--20250822T020618749--cropped
 # [apernet/hysteria](https://github.com/apernet/hysteria)
 
 proxy tool for fast, censorship-resistant connections over unstable networks
+
+代理工具，在不稳定网络上实现快速、抗审查的连接

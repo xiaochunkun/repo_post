@@ -7,3 +7,5 @@ image: assets/lowcarbdev_sbv_20251123_171224_466_20251124_094707_0afcc6--2025112
 # [lowcarbdev/sbv](https://github.com/lowcarbdev/sbv/)
 
 View SMS Backup & Restore files in a browser
+
+在浏览器中查看 SMS Backup & Restore 文件

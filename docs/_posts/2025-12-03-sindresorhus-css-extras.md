@@ -7,3 +7,5 @@ image: assets/sindresorhus_css_extras_20251201_050028_008_20251201_050103_3748c0
 # [sindresorhus/css-extras](https://github.com/sindresorhus/css-extras/)
 
 Collection of CSS custom functions using the @function rule
+
+使用@function规则的CSS自定义函数集合

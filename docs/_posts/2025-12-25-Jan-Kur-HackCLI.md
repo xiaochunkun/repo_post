@@ -7,3 +7,5 @@ image: assets/Jan_Kur_HackCLI_20251224_131827_889_20251224_131901_5e5b03.png
 # [Jan-Kur/HackCLI](https://github.com/Jan-Kur/HackCLI/)
 
 Slack terminal client for developers
+
+面向开发者的 Slack 终端客户端

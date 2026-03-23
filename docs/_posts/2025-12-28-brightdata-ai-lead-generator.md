@@ -7,3 +7,5 @@ image: assets/brightdata_ai_lead_generator_20251226_061742_566_20251226_061833_2
 # [brightdata/ai-lead-generator](https://github.com/brightdata/ai-lead-generator/)
 
 Scrapes B2B leads and generates outreach strategies with OpenAI
+
+使用 OpenAI 抓取 B2B 线索并生成外联策略

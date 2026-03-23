@@ -7,3 +7,5 @@ image: assets/billchurch_webssh2_20251218_021242_487_20251218_021300_09f7d1.png
 # [billchurch/webssh2](https://github.com/billchurch/webssh2/)
 
 SSH client in a browser via a websocket proxy
+
+通过 WebSocket 代理在浏览器中使用的 SSH 客户端

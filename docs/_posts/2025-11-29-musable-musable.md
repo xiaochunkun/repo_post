@@ -7,3 +7,5 @@ image: assets/musable_musable_20251126_012733_723_20251129_022029_831fab--202511
 # [musable/musable](https://github.com/musable/musable/)
 
 Self-hosted music library with Spotify-like interface
+
+具有Spotify风格界面的自托管音乐库

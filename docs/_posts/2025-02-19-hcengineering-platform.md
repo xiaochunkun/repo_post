@@ -7,3 +7,5 @@ image: assets/hcengineering_platform_cropped.png
 # [hcengineering/platform](https://github.com/hcengineering/platform)
 
 Framework for developing business applications 
+
+开发业务应用的框架

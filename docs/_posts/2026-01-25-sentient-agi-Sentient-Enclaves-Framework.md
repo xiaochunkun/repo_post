@@ -7,3 +7,5 @@ image: assets/sentient_agi_Sentient_Enclaves_Framework_20260111_230624_095_20260
 # [sentient-agi/Sentient-Enclaves-Framework](https://github.com/sentient-agi/Sentient-Enclaves-Framework)
 
 Framework for AI in trusted execution environments
+
+可信执行环境中AI应用的框架

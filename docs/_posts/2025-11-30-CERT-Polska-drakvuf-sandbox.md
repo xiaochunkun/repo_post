@@ -7,3 +7,5 @@ image: assets/CERT_Polska_drakvuf_sandbox_20251127_190531_034_20251130_070738_d7
 # [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox/)
 
 Automated agentless black-box malware analysis system
+
+自动化无代理黑盒恶意软件分析系统

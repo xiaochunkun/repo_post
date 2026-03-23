@@ -7,3 +7,5 @@ image: assets/20250928T055519364--swingmx--swingmusic--20250928T060456206--cropp
 # [swingmx/swingmusic](https://github.com/swingmx/swingmusic)
 
 self-hosted music player for your local audio files, browser-based UI, daily mixes, playlists, stats
+
+自托管音乐播放器，用于本地音频文件，基于浏览器UI，支持每日混音、播放列表和统计

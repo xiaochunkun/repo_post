@@ -7,3 +7,5 @@ image: assets/MODSetter_SurfSense_cropped.png
 # [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
 
 open source tool connecting search, Slack, Notion, GitHub, and more
+
+开源工具，连接搜索、Slack、Notion、GitHub 等

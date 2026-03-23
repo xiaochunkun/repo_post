@@ -7,3 +7,5 @@ image: assets/20250903T235136948--openai--swarm--20250903T235559574--cropped.png
 # [openai/swarm](https://github.com/openai/swarm)
 
 experimental Python framework for lightweight multi-agent AI orchestration
+
+轻量级多智能体 AI 编排的实验性 Python 框架

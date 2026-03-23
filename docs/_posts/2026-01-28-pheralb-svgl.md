@@ -7,3 +7,5 @@ image: assets/pheralb_svgl_20260116_112504_947_20260116_112551_381fcd.png
 # [pheralb/svgl](https://github.com/pheralb/svgl)
 
 Library of SVG logos with an API and extensions
+
+提供API和扩展的SVG图标库

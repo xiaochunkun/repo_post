@@ -7,3 +7,5 @@ image: assets/microsoft_ai_dev_gallery_20251121_070333_142_20251121_174050_a0995
 # [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery/)
 
 Integrates local AI models into Windows apps
+
+将本地 AI 模型集成到 Windows 应用中

@@ -7,3 +7,5 @@ image: assets/amilich_isometric_city_20260209_222838_203_20260209_222929_cf6891.
 # [amilich/isometric-city](https://github.com/amilich/isometric-city)
 
 Isometric simulation games in the browser
+
+浏览器中的等距模拟游戏

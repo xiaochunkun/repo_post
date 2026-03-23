@@ -7,3 +7,5 @@ image: assets/20250820T133553098_agentheroes_agentheroes--20250820T133836504--cr
 # [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes)
 
 generate and animate ai characters, schedule videos
+
+AI 角色生成与动画制作，可定时发布视频

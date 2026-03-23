@@ -7,3 +7,5 @@ image: assets/carterlasalle_mac_messages_mcp_20251223_192820_019_20251223_192841
 # [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp/)
 
 MCP server for iMessage interactions
+
+用于 iMessage 交互的 MCP 服务器

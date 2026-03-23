@@ -7,3 +7,5 @@ image: assets/open_source_ideas_ideas_20251123_141731_792_20251124_003442_3cab3f
 # [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas/)
 
 Collection of open source project ideas
+
+开源项目创意集合

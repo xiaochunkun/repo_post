@@ -7,3 +7,5 @@ image: assets/openobserve_openobserve_20260209_085116_904_20260209_085138_d69caa
 # [openobserve/openobserve](https://github.com/openobserve/openobserve)
 
 Observability platform for logs and metrics with SQL support
+
+支持 SQL 的日志和指标可观测性平台

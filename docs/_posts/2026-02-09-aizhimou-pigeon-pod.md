@@ -7,3 +7,5 @@ image: assets/aizhimou_pigeon_pod_20260207_175328_712_20260207_175516_d272b4.png
 # [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod)
 
 Converts YouTube channels into podcast feeds
+
+将YouTube频道转换为播客源

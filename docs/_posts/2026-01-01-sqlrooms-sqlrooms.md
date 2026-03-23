@@ -7,3 +7,5 @@ image: assets/sqlrooms_sqlrooms_20260101_021953_298_20260101_022009_7b9486.png
 # [sqlrooms/sqlrooms](https://github.com/sqlrooms/sqlrooms/)
 
 React building blocks for browser data analytics with DuckDB
+
+使用DuckDB进行浏览器数据分析的React构建块

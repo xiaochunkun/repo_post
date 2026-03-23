@@ -7,3 +7,5 @@ image: assets/cyb3rxp_awesome_soc_20251123_173259_990_20251124_095201_6a8910--20
 # [cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc/)
 
 Resources to build and run SOCs
+
+构建和运行 SOC 的资源

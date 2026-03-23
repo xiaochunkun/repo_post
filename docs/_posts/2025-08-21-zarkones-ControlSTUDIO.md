@@ -7,3 +7,5 @@ image: assets/20250820T131520422_zarkones_ControlSTUDIO--20250820T131942200--cro
 # [zarkones/ControlSTUDIO](https://github.com/zarkones/ControlSTUDIO)
 
 adversary simulation framework in Go with C2 profile support
+
+Go 语言编写的对抗模拟框架，支持 C2 配置

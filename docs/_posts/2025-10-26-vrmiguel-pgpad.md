@@ -7,3 +7,5 @@ image: assets/vrmiguel_pgpad_20251025_053951_739_20251025_102429_2dbd0b--2025102
 # [vrmiguel/pgpad](https://github.com/vrmiguel/pgpad/)
 
 Cross-platform database client built with Rust and Svelte
+
+用Rust和Svelte构建的跨平台数据库客户端

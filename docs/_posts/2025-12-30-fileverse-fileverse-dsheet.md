@@ -7,3 +7,5 @@ image: assets/fileverse_fileverse_dsheet_20251228_171426_944_20251228_171445_fb4
 # [fileverse/fileverse-dsheet](https://github.com/fileverse/fileverse-dsheet/)
 
 Spreadsheet for onchain data with end-to-end encryption
+
+具备端到端加密功能的链上数据电子表格

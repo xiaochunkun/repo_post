@@ -7,3 +7,5 @@ image: assets/BenMakesEverything_cyberdeck_20260106_152549_452_20260106_152638_9
 # [BenMakesEverything/cyberdeck](https://github.com/BenMakesEverything/cyberdeck/)
 
 Portable computer from laptop components
+
+用笔记本电脑组件打造的便携式计算机

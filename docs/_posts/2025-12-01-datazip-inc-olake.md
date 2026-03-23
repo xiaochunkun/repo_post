@@ -7,3 +7,5 @@ image: assets/datazip_inc_olake_20251130_074541_105_20251201_004019_998331--2025
 # [datazip-inc/olake](https://github.com/datazip-inc/olake/)
 
 Replicates databases to Apache Iceberg
+
+将数据库复制到 Apache Iceberg

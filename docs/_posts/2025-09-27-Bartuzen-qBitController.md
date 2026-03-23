@@ -7,3 +7,5 @@ image: assets/20250927T041133123--Bartuzen--qBitController--20250927T041926587--
 # [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController)
 
 control qBittorrent from your phone or computer
+
+从手机或电脑控制 qBittorrent

@@ -7,3 +7,5 @@ image: assets/Ildaron_Laser_control_20251125_010052_646_20251126_100939_b6f88e--
 # [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control/)
 
 Laser device neutralizes mosquitoes and pests
+
+激光设备用于消灭蚊虫和害虫

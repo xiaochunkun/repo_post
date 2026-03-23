@@ -7,3 +7,5 @@ image: assets/devflowinc_trieve_20260322_094810_016_20260322_094841_5285ba.png
 # [devflowinc/trieve](https://github.com/devflowinc/trieve)
 
 Search recommendations and RAG solution
+
+搜索推荐与RAG解决方案

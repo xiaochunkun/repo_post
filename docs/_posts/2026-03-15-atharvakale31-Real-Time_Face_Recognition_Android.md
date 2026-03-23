@@ -7,3 +7,5 @@ image: assets/atharvakale31_Real_Time_Face_Recognition_Android_20260314_234339_6
 # [atharvakale31/Real-Time_Face_Recognition_Android](https://github.com/atharvakale31/Real-Time_Face_Recognition_Android)
 
 Offline face recognition on Android
+
+Android上的离线人脸识别

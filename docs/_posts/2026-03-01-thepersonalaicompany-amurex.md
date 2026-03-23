@@ -7,3 +7,5 @@ image: assets/thepersonalaicompany_amurex_20260129_054507_192_20260129_054552_a3
 # [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex)
 
 Summarizes meetings and suggests actions in real-time
+
+实时总结会议并建议行动

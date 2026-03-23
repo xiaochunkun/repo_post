@@ -7,3 +7,5 @@ image: assets/stefanprodan_dockprom--20250814T045421081--cropped.png
 # [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom)
 
 docker monitoring stack with Prometheus and Grafana
+
+使用Prometheus和Grafana的Docker监控堆栈

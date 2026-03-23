@@ -7,3 +7,5 @@ image: assets/gomlx_gomlx_cropped.png
 # [gomlx/gomlx](https://github.com/gomlx/gomlx)
 
 machine learning tools and libraries for Go
+
+Go 的机器学习工具和库

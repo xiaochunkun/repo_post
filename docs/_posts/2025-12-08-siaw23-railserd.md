@@ -7,3 +7,5 @@ image: assets/siaw23_railserd_20251205_031003_381_20251205_031035_e0cbb5.png
 # [siaw23/railserd](https://github.com/siaw23/railserd/)
 
 Generates interactive ERDs from Rails schema.rb
+
+从Rails schema.rb生成交互式ERD

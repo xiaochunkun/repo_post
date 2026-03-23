@@ -7,3 +7,5 @@ image: assets/leshicodes_lrclib_fetcher_ts_20251127_213315_443_20251130_083724_6
 # [leshicodes/lrclib-fetcher-ts](https://github.com/leshicodes/lrclib-fetcher-ts/)
 
 Fetches synchronized lyrics for music files
+
+为音乐文件获取同步歌词

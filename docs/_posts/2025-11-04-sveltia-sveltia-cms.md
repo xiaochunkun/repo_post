@@ -7,3 +7,5 @@ image: assets/sveltia_sveltia_cms_20251103_235020_256_20251104_182351_127869--20
 # [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms/)
 
 Git-based headless CMS as a successor to Netlify/Decap CMS
+
+基于Git的无头CMS，作为Netlify/Decap CMS的继任者

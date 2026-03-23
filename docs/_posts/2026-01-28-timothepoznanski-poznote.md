@@ -7,3 +7,5 @@ image: assets/timothepoznanski_poznote_20260122_102549_047_20260122_102647_ee7ea
 # [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote)
 
 Note-taking platform with MCP server and Excalidraw integration
+
+集成MCP服务器和Excalidraw的笔记平台

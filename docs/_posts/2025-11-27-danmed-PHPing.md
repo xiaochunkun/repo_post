@@ -7,3 +7,5 @@ image: assets/danmed_PHPing_20251125_013726_577_20251126_101237_7049d4--20251126
 # [danmed/PHPing](https://github.com/danmed/PHPing/)
 
 Self-hosted PHP host and service monitor
+
+自托管的 PHP 主机和服务监控器

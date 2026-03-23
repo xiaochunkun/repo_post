@@ -7,3 +7,5 @@ image: assets/wrwrabbit_Partisan_Telegram_Android_20260111_033744_922_20260111_0
 # [wrwrabbit/Partisan-Telegram-Android](https://github.com/wrwrabbit/Partisan-Telegram-Android)
 
 Telegram client with a duress passcode for data deletion
+
+带胁迫密码以删除数据的 Telegram 客户端

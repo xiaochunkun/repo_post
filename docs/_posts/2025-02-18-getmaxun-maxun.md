@@ -7,3 +7,5 @@ image: assets/getmaxun_maxun_cropped.png
 # [getmaxun/maxun](https://github.com/getmaxun/maxun)
 
 No-code web data extraction platform
+
+无代码网页数据提取平台

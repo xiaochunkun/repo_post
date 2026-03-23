@@ -7,3 +7,5 @@ image: assets/Mortennn_Dozer_20260106_075528_009_20260106_075544_ce91a5.png
 # [Mortennn/Dozer](https://github.com/Mortennn/Dozer/)
 
 Hides menu bar icons on macOS
+
+在 macOS 上隐藏菜单栏图标

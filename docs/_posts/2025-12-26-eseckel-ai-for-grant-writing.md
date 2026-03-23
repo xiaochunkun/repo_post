@@ -7,3 +7,5 @@ image: assets/eseckel_ai_for_grant_writing_20251224_220415_271_20251224_220506_8
 # [eseckel/ai-for-grant-writing](https://github.com/eseckel/ai-for-grant-writing/)
 
 Resources for grant writing with AI
+
+使用 AI 进行资助申请的资源

@@ -7,3 +7,5 @@ image: assets/raj457036_CopyCat_Clipboard_20260121_173404_893_20260121_173422_3f
 # [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard)
 
 Syncs clipboard history across devices
+
+跨设备同步剪贴板历史

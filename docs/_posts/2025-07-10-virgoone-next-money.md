@@ -7,3 +7,5 @@ image: assets/virgoone_next-money_cropped.png
 # [virgoone/next-money](https://github.com/virgoone/next-money)
 
 Next.js SaaS starter with Stripe, Supabase, Clerk, and more
+
+Next.js SaaS启动套件，集成Stripe、Supabase、Clerk等

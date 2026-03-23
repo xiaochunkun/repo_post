@@ -7,3 +7,5 @@ image: assets/Breakthrough_PySceneDetect_20251124_233050_257_20251125_223324_1fe
 # [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect/)
 
 Python and OpenCV-based video scene cut detection
+
+基于 Python 和 OpenCV 的视频场景切割检测

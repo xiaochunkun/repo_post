@@ -7,3 +7,5 @@ image: assets/20250912T010342531--joonspk-research--generative_agents--20250912T
 # [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)
 
 simulates human-like agents in interactive environments
+
+在交互环境中模拟类人智能体

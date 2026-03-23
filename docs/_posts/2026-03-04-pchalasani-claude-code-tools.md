@@ -7,3 +7,5 @@ image: assets/pchalasani_claude_code_tools_20260228_100833_844_20260228_101009_6
 # [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools)
 
 CLI tools and plugins for coding agents
+
+用于编码代理的CLI工具和插件

@@ -7,3 +7,5 @@ image: assets/LCEMP_LCEMP_20260316_032501_823_20260316_032536_638a97.png
 # [LCEMP/LCEMP](https://github.com/LCEMP/LCEMP)
 
 Enables LAN multiplayer for Minecraft Legacy Console Edition
+
+为 Minecraft Legacy Console Edition 启用 LAN 多人游戏

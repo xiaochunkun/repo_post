@@ -7,3 +7,5 @@ image: assets/STRRL_cloudflare-tunnel-ingress-controller_cropped.png
 # [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller)
 
 Kubernetes Ingress controller for exposing services using Cloudflare Tunnel
+
+使用Cloudflare Tunnel暴露服务的Kubernetes Ingress控制器

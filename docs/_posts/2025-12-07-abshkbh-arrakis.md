@@ -7,3 +7,5 @@ image: assets/abshkbh_arrakis_20251204_232331_190_20251204_232354_6a038e.png
 # [abshkbh/arrakis](https://github.com/abshkbh/arrakis/)
 
 Self-hosted sandboxing for AI agent code execution
+
+用于AI代理代码执行的自托管沙箱

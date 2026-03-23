@@ -7,3 +7,5 @@ image: assets/20251010T211006055--centrifugal--centrifugo--20251010T212322314--c
 # [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo)
 
 scalable real-time messaging server for web, mobile, and desktop apps
+
+可扩展的实时消息服务器，适用于 Web、移动和桌面应用

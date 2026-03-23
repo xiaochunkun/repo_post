@@ -7,3 +7,5 @@ image: assets/Sathvik_Rao_ClipCascade_20260204_134914_642_20260204_134935_1d3e3c
 # [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)
 
 Syncs clipboards across devices with end-to-end encryption
+
+跨设备同步剪贴板，支持端到端加密

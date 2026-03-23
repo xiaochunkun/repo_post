@@ -7,3 +7,5 @@ image: assets/DavidHDev_vue_bits_20251031_002918_625_20251031_003007_24d631--202
 # [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits/)
 
 Collection of animated VueJS UI components
+
+动画 VueJS UI 组件集合

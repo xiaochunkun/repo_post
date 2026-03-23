@@ -7,3 +7,5 @@ image: assets/20250918T040634227--AnswerDotAI--RAGatouille--20250920T032516740--
 # [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille)
 
 toolkit for using and training advanced retrieval models in RAG pipelines
+
+在RAG管道中使用和训练高级检索模型的工具包

@@ -7,3 +7,5 @@ image: assets/nanbingxyz_5ire_20260108_045159_649_20260108_045213_72cd08.png
 # [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)
 
 Desktop AI assistant and MCP client
+
+桌面AI助手和MCP客户端

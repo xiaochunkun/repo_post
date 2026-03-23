@@ -7,3 +7,5 @@ image: assets/nineninesix_ai_kani_tts_20251204_214332_525_20251204_214355_45a0d0
 # [nineninesix-ai/kani-tts](https://github.com/nineninesix-ai/kani-tts/)
 
 Modular text-to-speech system with multilingual support
+
+支持多语言的模块化文本转语音系统

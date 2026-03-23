@@ -7,3 +7,5 @@ image: assets/leomoon_studios_wiki_go_20251114_232111_978_20251115_202202_07e631
 # [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go/)
 
 Database-less flat-file wiki platform built with Go
+
+基于 Go 的无数据库扁平文件 wiki 平台

@@ -7,3 +7,5 @@ image: assets/stackblitz_alien-signals_cropped.png
 # [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals)
 
 signal algorithm for managing reactivity in frontend projects
+
+信号算法，用于管理前端项目中的响应性

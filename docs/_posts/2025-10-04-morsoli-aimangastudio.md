@@ -7,3 +7,5 @@ image: assets/20251003T230029484--morsoli--aimangastudio--20251003T230521329--cr
 # [morsoli/aimangastudio](https://github.com/morsoli/aimangastudio)
 
 AI-powered tool for creating manga scripts, layouts, and character designs
+
+AI驱动的工具，用于创建漫画脚本、布局和角色设计

@@ -7,3 +7,5 @@ image: assets/Nutlope_logocreator_cropped.png
 # [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
 
 Open source AI logo generator using Flux
+
+使用 Flux 的开源 AI 徽标生成器

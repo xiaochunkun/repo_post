@@ -7,3 +7,5 @@ image: assets/scottyhardy_docker_wine_20251208_234439_900_20251208_234502_5c4d99
 # [scottyhardy/docker-wine](https://github.com/scottyhardy/docker-wine/)
 
 Run Windows apps on Linux and macOS via Docker
+
+通过Docker在Linux和macOS上运行Windows应用

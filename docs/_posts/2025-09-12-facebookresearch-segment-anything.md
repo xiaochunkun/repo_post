@@ -7,3 +7,5 @@ image: assets/20250903T020454930--facebookresearch--segment-anything--20250911T2
 # [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
 
 AI model for cutting out objects from images with simple prompts
+
+用简单提示词从图像中抠取物体的 AI 模型

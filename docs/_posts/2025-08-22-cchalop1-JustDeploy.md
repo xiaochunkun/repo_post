@@ -7,3 +7,5 @@ image: assets/20250818T125244311_cchalop1_JustDeploy--20250820T143335591--croppe
 # [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy)
 
 self-host your apps from GitHub to any VPS in one click
+
+一键将 GitHub 项目自托管部署到任意 VPS

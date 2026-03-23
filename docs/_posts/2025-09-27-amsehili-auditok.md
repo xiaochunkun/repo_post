@@ -7,3 +7,5 @@ image: assets/20250926T175040249--amsehili--auditok--20250926T175855675--cropped
 # [amsehili/auditok](https://github.com/amsehili/auditok)
 
 audio activity detection for splitting and processing audio files
+
+用于分割和处理音频文件的音频活动检测

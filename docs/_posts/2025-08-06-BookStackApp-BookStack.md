@@ -7,3 +7,5 @@ image: assets/BookStackApp_BookStack_cropped.png
 # [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
 
 BookStack – platform for storing and organizing documentation and information
+
+BookStack – 用于存储和组织文档信息的平台

@@ -7,3 +7,5 @@ image: assets/20251007T030713369--xemle--home-gallery--20251007T032103497--cropp
 # [xemle/home-gallery](https://github.com/xemle/home-gallery)
 
 self-hosted web gallery for browsing and tagging your photos and videos
+
+自托管网络相册，用于浏览和标记照片和视频

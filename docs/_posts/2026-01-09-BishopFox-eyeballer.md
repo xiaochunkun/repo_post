@@ -7,3 +7,5 @@ image: assets/BishopFox_eyeballer_20260108_185046_611_20260108_185100_d83293.png
 # [BishopFox/eyeballer](https://github.com/BishopFox/eyeballer)
 
 Neural network for identifying targets from pentest screenshots
+
+用于从渗透测试截图中识别目标的神经网络

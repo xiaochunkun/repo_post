@@ -7,3 +7,5 @@ image: assets/infinitepower18_WSA_Sideloader_20260108_162050_374_20260108_162111
 # [infinitepower18/WSA-Sideloader](https://github.com/infinitepower18/WSA-Sideloader)
 
 Installs Android files on Windows
+
+在Windows上安装Android文件

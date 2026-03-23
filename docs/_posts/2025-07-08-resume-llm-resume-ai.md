@@ -7,3 +7,5 @@ image: assets/resume-llm_resume-ai_cropped.png
 # [resume-llm/resume-ai](https://github.com/resume-llm/resume-ai)
 
 AI tool for making job-ready resumes from your info
+
+从您的信息生成求职简历的 AI 工具

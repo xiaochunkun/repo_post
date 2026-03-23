@@ -7,3 +7,5 @@ image: assets/Vesperino_MerMarkEditor_20260306_194339_887_20260306_194504_d4289a
 # [Vesperino/MerMarkEditor](https://github.com/Vesperino/MerMarkEditor)
 
 Edit Markdown with Mermaid diagram support
+
+支持Mermaid图表的Markdown编辑器

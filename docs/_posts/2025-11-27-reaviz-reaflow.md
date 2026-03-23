@@ -7,3 +7,5 @@ image: assets/reaviz_reaflow_20251125_021535_324_20251126_150239_263cf6--2025112
 # [reaviz/reaflow](https://github.com/reaviz/reaflow/)
 
 Modular diagram engine for React
+
+用于 React 的模块化图表引擎

@@ -7,3 +7,5 @@ image: assets/microsoft_mcp_20260318_040504_945_20260318_040602_571b94.png
 # [microsoft/mcp](https://github.com/microsoft/mcp)
 
 Standardizes context for large language models
+
+标准化大型语言模型的上下文

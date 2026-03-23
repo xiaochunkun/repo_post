@@ -7,3 +7,5 @@ image: assets/Chleba_netscanner_cropped.png
 # [Chleba/netscanner](https://github.com/Chleba/netscanner)
 
 Terminal tool for network scanning and diagnostics
+
+终端工具，用于网络扫描和诊断

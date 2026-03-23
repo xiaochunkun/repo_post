@@ -7,3 +7,5 @@ image: assets/workout_lol_workout_lol_20260206_190249_246_20260206_190312_fbb4dc
 # [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol)
 
 Generates workouts based on equipment and muscles
+
+根据设备和肌肉生成锻炼计划

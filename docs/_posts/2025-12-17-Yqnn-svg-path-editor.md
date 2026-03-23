@@ -7,3 +7,5 @@ image: assets/Yqnn_svg_path_editor_20251216_100647_268_20251216_100721_cff163.pn
 # [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor/)
 
 Edit and manipulate SVG paths in a browser
+
+在浏览器中编辑和操作SVG路径

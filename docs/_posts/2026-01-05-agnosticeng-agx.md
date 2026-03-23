@@ -7,3 +7,5 @@ image: assets/agnosticeng_agx_20260104_132425_333_20260104_132445_8331b8.png
 # [agnosticeng/agx](https://github.com/agnosticeng/agx/)
 
 SQL editor with LLM integration and data visualization
+
+集成 LLM 和数据可视化的 SQL 编辑器

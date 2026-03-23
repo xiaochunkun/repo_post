@@ -7,3 +7,5 @@ image: assets/msoedov_agentic_security_cropped.png
 # [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
 
 agentic_security: tools for scanning and securing LLMs against emerging threats in CI/CD workflows
+
+工具集，用于扫描和保护LLM，防范CI/CD工作流中的新兴威胁

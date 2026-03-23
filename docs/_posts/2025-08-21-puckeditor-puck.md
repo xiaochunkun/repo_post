@@ -7,3 +7,5 @@ image: assets/20250818T110743330_puckeditor_puck--20250820T132256924--cropped.pn
 # [puckeditor/puck](https://github.com/puckeditor/puck)
 
 drag-and-drop visual editor for React apps
+
+React 应用的拖拽式可视化编辑器

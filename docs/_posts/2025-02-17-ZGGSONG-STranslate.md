@@ -7,3 +7,5 @@ image: assets/ZGGSONG_STranslate_cropped.png
 # [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate)
 
 Translation and OCR tool
+
+翻译和 OCR 工具

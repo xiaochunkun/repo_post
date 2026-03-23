@@ -7,3 +7,5 @@ image: assets/20251008T180841217--rudi-q--leed_pdf_viewer--20251008T181205342--c
 # [rudi-q/leed_pdf_viewer](https://github.com/rudi-q/leed_pdf_viewer)
 
 open source PDF annotator with drawing, notes, and search features in your browser
+
+开源 PDF 注释器，在浏览器中支持绘图、笔记和搜索功能

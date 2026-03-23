@@ -7,3 +7,5 @@ image: assets/medama_io_medama_20260111_083224_919_20260111_083238_e4547f.png
 # [medama-io/medama](https://github.com/medama-io/medama)
 
 Self-hostable analytics with a tracker under 1KB
+
+自托管分析工具，追踪器小于1KB

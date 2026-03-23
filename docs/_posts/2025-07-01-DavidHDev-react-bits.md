@@ -7,3 +7,5 @@ image: assets/DavidHDev_react-bits_cropped.png
 # [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
 
 Collection of animated React components and UI bits for web projects
+
+用于Web项目的动画React组件和UI片段集合

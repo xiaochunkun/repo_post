@@ -7,3 +7,5 @@ image: assets/Blazity_next_enterprise_20251115_052143_636_20251116_150516_4a265e
 # [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise/)
 
 Next.js boilerplate for enterprise teams focused on simplicity
+
+面向企业团队的简洁型 Next.js 样板

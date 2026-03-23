@@ -7,3 +7,5 @@ image: assets/rocksdanister_lively_20260207_085750_202_20260207_085808_0cd41c.pn
 # [rocksdanister/lively](https://github.com/rocksdanister/lively)
 
 Sets videos and webpages as desktop wallpapers
+
+将视频和网页设置为桌面壁纸

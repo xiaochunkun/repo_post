@@ -7,3 +7,5 @@ image: assets/Renumics_spotlight_20251219_115735_579_20251219_115753_16da33.png
 # [Renumics/spotlight](https://github.com/Renumics/spotlight/)
 
 Explores unstructured datasets from dataframes
+
+从数据框架探索非结构化数据集

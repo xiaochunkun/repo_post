@@ -7,3 +7,5 @@ image: assets/zen_browser_desktop_20260129_014728_919_20260129_014809_bf70c0.png
 # [zen-browser/desktop](https://github.com/zen-browser/desktop)
 
 Firefox-based browser for productivity
+
+基于Firefox的生产力浏览器

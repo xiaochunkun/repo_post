@@ -7,3 +7,5 @@ image: assets/illixion_vscode_vibrancy_continued_20251207_213624_172_20251207_21
 # [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued/)
 
 Enables acrylic glass effect in VS Code
+
+在VS Code中启用亚克力玻璃效果

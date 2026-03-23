@@ -7,3 +7,5 @@ image: assets/doitintl_kube_no_trouble_20251203_005711_526_20251203_005805_4c27c
 # [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble/)
 
 Checks Kubernetes clusters for deprecated APIs
+
+检查Kubernetes集群中的废弃API

@@ -7,3 +7,5 @@ image: assets/20251007T015411060--antares-sql--antares--20251007T022156096--crop
 # [antares-sql/antares](https://github.com/antares-sql/antares)
 
 SQL client for managing multiple databases with a simple interface
+
+SQL 客户端，通过简易界面管理多个数据库

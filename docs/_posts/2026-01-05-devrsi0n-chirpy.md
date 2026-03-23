@@ -7,3 +7,5 @@ image: assets/devrsi0n_chirpy_20260104_071705_129_20260104_071721_6becd6.png
 # [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy/)
 
 Disqus alternative with privacy and live comments
+
+注重隐私和实时评论的Disqus替代方案

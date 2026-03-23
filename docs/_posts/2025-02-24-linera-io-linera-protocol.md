@@ -7,3 +7,5 @@ image: assets/linera-io_linera-protocol_cropped.png
 # [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
 
 GitHub repo for Linera, a modular blockchain protocol
+
+模块化区块链协议Linera的GitHub仓库

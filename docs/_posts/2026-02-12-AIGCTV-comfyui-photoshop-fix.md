@@ -7,3 +7,5 @@ image: assets/AIGCTV_comfyui_photoshop_fix_20260114_034618_290_20260114_034632_f
 # [AIGCTV/comfyui-photoshop-fix](https://github.com/AIGCTV/comfyui-photoshop-fix)
 
 Integrates ComfyUI into Photoshop workflows
+
+将ComfyUI集成到Photoshop工作流中

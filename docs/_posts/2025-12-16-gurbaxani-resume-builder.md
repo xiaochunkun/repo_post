@@ -7,3 +7,5 @@ image: assets/gurbaxani_resume_builder_20251214_232256_758_20251214_232319_80fd4
 # [gurbaxani/resume-builder](https://github.com/gurbaxani/resume-builder/)
 
 Offline-first resume builder with local storage
+
+基于本地存储的离线优先简历构建器

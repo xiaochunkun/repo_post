@@ -7,3 +7,5 @@ image: assets/20251015T031725124--timeplus-io--proton--20251015T032142492--cropp
 # [timeplus-io/proton](https://github.com/timeplus-io/proton)
 
 SQL engine for real-time stream processing, analytics, and observability
+
+用于实时流处理、分析和可观测性的 SQL 引擎

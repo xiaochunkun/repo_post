@@ -7,3 +7,5 @@ image: assets/bunkerity_bunkerweb_20260207_194854_544_20260207_194944_c90427.png
 # [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 
 Web application firewall based on NGINX
+
+基于NGINX的Web应用防火墙

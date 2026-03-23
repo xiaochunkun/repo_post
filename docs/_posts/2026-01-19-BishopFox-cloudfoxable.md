@@ -7,3 +7,5 @@ image: assets/BishopFox_cloudfoxable_20260115_192143_526_20260115_192229_a0aef9.
 # [BishopFox/cloudfoxable](https://github.com/BishopFox/cloudfoxable)
 
 Sandbox for AWS penetration testing
+
+AWS渗透测试的沙盒

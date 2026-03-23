@@ -7,3 +7,5 @@ image: assets/fmeringdal_nettu_meet_20260103_174647_857_20260103_174703_3429ee.p
 # [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet/)
 
 Video conferencing with shared whiteboard and graph plotter
+
+支持共享白板和图表绘制器的视频会议

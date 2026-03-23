@@ -7,3 +7,5 @@ image: assets/PatrikFehrenbach_h1_brain_20260315_021941_973_20260315_022054_4bd0
 # [PatrikFehrenbach/h1-brain](https://github.com/PatrikFehrenbach/h1-brain)
 
 MCP server connecting AI assistants to HackerOne API
+
+连接 AI 助手到 HackerOne API 的 MCP 服务器

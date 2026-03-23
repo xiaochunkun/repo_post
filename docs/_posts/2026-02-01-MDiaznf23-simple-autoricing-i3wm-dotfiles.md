@@ -7,3 +7,5 @@ image: assets/MDiaznf23_simple_autoricing_i3wm_dotfiles_20260131_205025_260_2026
 # [MDiaznf23/simple-autoricing-i3wm-dotfiles](https://github.com/MDiaznf23/simple-autoricing-i3wm-dotfiles)
 
 Automates i3wm theming from wallpapers using Material 3
+
+使用 Material 3 从壁纸自动生成 i3wm 主题

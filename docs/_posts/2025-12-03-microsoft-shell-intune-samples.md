@@ -7,3 +7,5 @@ image: assets/microsoft_shell_intune_samples_20251201_065334_487_20251201_065440
 # [microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples/)
 
 Shell script samples for Intune admins
+
+为Intune管理员提供的Shell脚本示例

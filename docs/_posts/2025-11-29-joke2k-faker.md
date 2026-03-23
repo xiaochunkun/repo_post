@@ -7,3 +7,5 @@ image: assets/joke2k_faker_20251126_001842_968_20251128_213608_a69737--20251128T
 # [joke2k/faker](https://github.com/joke2k/faker/)
 
 Generates fake data for Python
+
+为Python生成虚假数据

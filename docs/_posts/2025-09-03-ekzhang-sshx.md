@@ -7,3 +7,5 @@ image: assets/20250903T011601706--ekzhang--sshx--20250903T012136826--cropped.png
 # [ekzhang/sshx](https://github.com/ekzhang/sshx)
 
 web-based collaborative terminal for sharing sessions
+
+基于 Web 的协作终端，支持共享会话

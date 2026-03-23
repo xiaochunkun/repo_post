@@ -7,3 +7,5 @@ image: assets/dessalines_thumb_key_20260124_100933_491_20260124_101001_74e805.pn
 # [dessalines/thumb-key](https://github.com/dessalines/thumb-key)
 
 Android keyboard using swipes on a 3x3 grid
+
+在3x3网格上滑动的Android键盘

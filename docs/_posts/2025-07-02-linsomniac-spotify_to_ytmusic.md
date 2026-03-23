@@ -7,3 +7,5 @@ image: assets/linsomniac_spotify_to_ytmusic_cropped.png
 # [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)
 
 Copy playlists and liked songs from Spotify to YouTube Music
+
+将播放列表和喜欢的歌曲从Spotify复制到YouTube Music

@@ -7,3 +7,5 @@ image: assets/blackboardsh_colab_20260309_140839_943_20260309_141032_478ce5.png
 # [blackboardsh/colab](https://github.com/blackboardsh/colab)
 
 Web browser with integrated code editor and terminal
+
+集成代码编辑器和终端的网页浏览器

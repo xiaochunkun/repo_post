@@ -7,3 +7,5 @@ image: assets/Atlas_OS_Atlas_20251018_165349_305_20251018_182429--20251018T20243
 # [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas/)
 
 Optimizes Windows performance, privacy, usability
+
+优化 Windows 性能、隐私和可用性

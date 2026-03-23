@@ -7,3 +7,5 @@ image: assets/frappe_erpnext_cropped.png
 # [frappe/erpnext](https://github.com/frappe/erpnext)
 
 Open-source ERP system built with Python and JavaScript
+
+基于Python和JavaScript的开源ERP系统

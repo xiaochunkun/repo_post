@@ -7,3 +7,5 @@ image: assets/fenrus75_powertop_20251122_152812_528_20251123_001122_c49940--2025
 # [fenrus75/powertop](https://github.com/fenrus75/powertop/)
 
 Diagnoses Linux power consumption issues
+
+诊断 Linux 功耗问题

@@ -7,3 +7,5 @@ image: assets/finos_open_source_readiness_20260206_213721_640_20260206_213750_7b
 # [finos/open-source-readiness](https://github.com/finos/open-source-readiness)
 
 Guides financial firms toward open source adoption
+
+指导金融机构采用开源

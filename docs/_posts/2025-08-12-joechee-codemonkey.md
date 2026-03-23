@@ -7,3 +7,5 @@ image: assets/20250810T061248--joechee--codemonkey--20250812T004316--cropped.png
 # [joechee/codemonkey](https://github.com/joechee/codemonkey)
 
 multiplayer web game to learn coding by scripting monkeys
+
+通过脚本猴子学习编程的多人在线网页游戏

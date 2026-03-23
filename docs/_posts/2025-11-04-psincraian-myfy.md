@@ -7,3 +7,5 @@ image: assets/psincraian_myfy_20251103_220559_827_20251103_220907_9a0e03--202511
 # [psincraian/myfy](https://github.com/psincraian/myfy/)
 
 A Python framework with FastAPI ergonomics and enterprise architecture
+
+具有FastAPI人体工程学和企业架构的Python框架

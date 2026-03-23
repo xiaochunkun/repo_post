@@ -7,3 +7,5 @@ image: assets/Picovoice_rhino_20251125_015451_800_20251126_101459_5ceacf--202511
 # [Picovoice/rhino](https://github.com/Picovoice/rhino/)
 
 On-device speech-to-intent engine
+
+设备端语音转意图引擎

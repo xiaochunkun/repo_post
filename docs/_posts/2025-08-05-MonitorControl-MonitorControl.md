@@ -7,3 +7,5 @@ image: assets/MonitorControl_MonitorControl_cropped.png
 # [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 control external display brightness and volume from your Mac
+
+从 Mac 控制外部显示器亮度和音量

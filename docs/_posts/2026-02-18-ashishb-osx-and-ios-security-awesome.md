@@ -7,3 +7,5 @@ image: assets/ashishb_osx_and_ios_security_awesome_20260119_212158_756_20260119_
 # [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome)
 
 Collection of security tools for macOS and iOS
+
+macOS 和 iOS 安全工具集合

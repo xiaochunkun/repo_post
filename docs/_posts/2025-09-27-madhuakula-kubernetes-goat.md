@@ -7,3 +7,5 @@ image: assets/20250927T042050502--madhuakula--kubernetes-goat--20250927T04351219
 # [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)
 
 intentionally vulnerable Kubernetes cluster for hands-on security learning
+
+故意设置漏洞的Kubernetes集群，用于动手安全学习

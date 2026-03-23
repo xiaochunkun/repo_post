@@ -7,3 +7,5 @@ image: assets/doganarif_GoVisual_cropped.png
 # [doganarif/GoVisual](https://github.com/doganarif/GoVisual)
 
 visualizes and debugs HTTP requests for Go web apps
+
+可视化和调试 Go Web 应用的 HTTP 请求

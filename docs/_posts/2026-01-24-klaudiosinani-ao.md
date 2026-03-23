@@ -7,3 +7,5 @@ image: assets/klaudiosinani_ao_20260124_050712_279_20260124_050749_5657d0.png
 # [klaudiosinani/ao](https://github.com/klaudiosinani/ao)
 
 Desktop application for Microsoft To-Do
+
+Microsoft To-Do 的桌面应用

@@ -7,3 +7,5 @@ image: assets/sabamdarif_termux_desktop_20251218_085921_070_20251218_085937_ea6f
 # [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop/)
 
 Linux desktop environment on Android with hardware acceleration
+
+Android 上带硬件加速的 Linux 桌面环境

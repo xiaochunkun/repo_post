@@ -7,3 +7,5 @@ image: assets/CyberSecurityUP_NeuroSploit_20260222_112554_087_20260222_112645_3d
 # [CyberSecurityUP/NeuroSploit](https://github.com/CyberSecurityUP/NeuroSploit)
 
 Autonomous agents for penetration testing in Kali Linux containers
+
+在 Kali Linux 容器中用于渗透测试的自主代理

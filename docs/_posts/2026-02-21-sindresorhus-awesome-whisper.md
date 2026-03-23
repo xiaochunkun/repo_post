@@ -7,3 +7,5 @@ image: assets/sindresorhus_awesome_whisper_20260221_063706_448_20260221_063726_8
 # [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper)
 
 List of speech recognition resources for OpenAI Whisper
+
+OpenAI Whisper的语音识别资源列表

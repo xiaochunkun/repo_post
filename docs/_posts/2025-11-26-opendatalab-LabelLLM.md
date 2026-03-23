@@ -7,3 +7,5 @@ image: assets/opendatalab_LabelLLM_20251123_201501_662_20251125_013135_ddb809--2
 # [opendatalab/LabelLLM](https://github.com/opendatalab/LabelLLM/)
 
 Open-source data annotation platform for LLM development
+
+用于 LLM 开发的开源数据标注平台

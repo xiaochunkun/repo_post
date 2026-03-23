@@ -7,3 +7,5 @@ image: assets/yuzeguitarist_Deck_20260213_201322_181_20260213_201413_e4100d.png
 # [yuzeguitarist/Deck](https://github.com/yuzeguitarist/Deck)
 
 Clipboard manager with encryption and automation
+
+带加密和自动化的剪贴板管理器

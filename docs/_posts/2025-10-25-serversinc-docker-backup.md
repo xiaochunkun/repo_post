@@ -7,3 +7,5 @@ image: assets/serversinc_docker_backup_20251023_215820_158_20251025_021459_1d7df
 # [serversinc/docker-backup](https://github.com/serversinc/docker-backup/)
 
 CLI for backing up Docker containers, including physical volume data
+
+备份Docker容器的CLI，包括物理卷数据

@@ -7,3 +7,5 @@ image: assets/MarkusPfundstein_mcp_obsidian_20260317_163533_515_20260317_163645_
 # [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)
 
 Interacts with Obsidian via REST API
+
+通过REST API与Obsidian交互

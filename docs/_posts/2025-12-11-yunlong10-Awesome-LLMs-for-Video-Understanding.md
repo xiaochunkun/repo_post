@@ -7,3 +7,5 @@ image: assets/yunlong10_Awesome_LLMs_for_Video_Understanding_20251208_225102_436
 # [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/)
 
 Survey of LLMs for video understanding
+
+视频理解LLM综述

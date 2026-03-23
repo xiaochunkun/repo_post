@@ -7,3 +7,5 @@ image: assets/unicodeveloper_globalthreatmap_20260202_060432_677_20260202_060509
 # [unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)
 
 Plots security events and threat indicators on a map
+
+在地图上绘制安全事件和威胁指标

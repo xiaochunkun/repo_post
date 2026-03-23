@@ -7,3 +7,5 @@ image: assets/mohyware_clip_js_20260309_082813_939_20260309_083038_34fe2c.png
 # [mohyware/clip-js](https://github.com/mohyware/clip-js)
 
 Video editor in a browser using Remotion and ffmpeg
+
+使用Remotion和ffmpeg的浏览器视频编辑器

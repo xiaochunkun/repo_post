@@ -7,3 +7,5 @@ image: assets/kleneway_pastemax_20251028_095133_378_20251029_004735_3dda5c--2025
 # [kleneway/pastemax](https://github.com/kleneway/pastemax/)
 
 File viewer that creates LLM-ready code snippets
+
+创建 LLM 就绪代码片段的文件查看器

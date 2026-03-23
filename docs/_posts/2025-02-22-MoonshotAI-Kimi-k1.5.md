@@ -7,3 +7,5 @@ image: assets/MoonshotAI_Kimi-k1.5_cropped.png
 # [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5)
 
 GitHub repo for Kimi k1.5 AI model
+
+Kimi k1.5 AI模型的GitHub仓库

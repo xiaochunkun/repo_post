@@ -7,3 +7,5 @@ image: assets/itsmejoeeey_linkarr_20251127_175619_532_20251130_035245_2a7274--20
 # [itsmejoeeey/linkarr](https://github.com/itsmejoeeey/linkarr/)
 
 Organizes media libraries using symlinks
+
+使用符号链接组织媒体库

@@ -7,3 +7,5 @@ image: assets/HatScripts_circle_flags_20251030_133226_718_20251030_164958_cf3d5f
 # [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags/)
 
 Collection of 400+ circular SVG country flags
+
+400 多个圆形 SVG 国旗集合

@@ -7,3 +7,5 @@ image: assets/KudoAI_amazongpt_20260123_005809_211_20260123_005829_61544c.png
 # [KudoAI/amazongpt](https://github.com/KudoAI/amazongpt)
 
 Summarizes Amazon products with LLMs
+
+使用 LLMs 总结亚马逊产品

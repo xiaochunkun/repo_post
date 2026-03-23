@@ -7,3 +7,5 @@ image: assets/udecode_plate_cropped.png
 # [udecode/plate](https://github.com/udecode/plate)
 
 Rich-text editor with various plugins
+
+带有多种插件的富文本编辑器

@@ -7,3 +7,5 @@ image: assets/AmbitionEng_django_pghistory_20251126_113018_273_20251129_022719_4
 # [AmbitionEng/django-pghistory](https://github.com/AmbitionEng/django-pghistory/)
 
 Tracks Django model changes using Postgres triggers
+
+使用Postgres触发器追踪Django模型变更

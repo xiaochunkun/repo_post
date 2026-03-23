@@ -7,3 +7,5 @@ image: assets/khellang_Scrutor_20251127_210141_852_20251130_083438_31dd12--20251
 # [khellang/Scrutor](https://github.com/khellang/Scrutor/)
 
 Assembly scanning extensions for Microsoft.Extensions.DependencyInjection
+
+Microsoft.Extensions.DependencyInjection的程序集扫描扩展

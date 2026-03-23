@@ -7,3 +7,5 @@ image: assets/hpcaitech_Open_Sora_20260221_003407_685_20260221_003506_43f1e5.png
 # [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
 
 Generates videos from text prompts
+
+从文本提示生成视频

@@ -7,3 +7,5 @@ image: assets/immichFrame_ImmichFrame_cropped.png
 # [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame)
 
 ImmichFrame: digital photo frame app for showing photos from an Immich server
+
+ImmichFrame：从 Immich 服务器显示照片的数字相框应用

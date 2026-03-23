@@ -7,3 +7,5 @@ image: assets/20250908T091653296--Tencent-Hunyuan--Hunyuan3D-2--20250908T0922461
 # [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)
 
 AI tool for generating high-res 3D models from text or images
+
+从文本或图像生成高分辨率 3D 模型的 AI 工具

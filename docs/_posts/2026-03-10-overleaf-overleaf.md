@@ -7,3 +7,5 @@ image: assets/overleaf_overleaf_20260309_144317_335_20260309_144518_5b17c9.png
 # [overleaf/overleaf](https://github.com/overleaf/overleaf)
 
 Collaborative LaTeX editor for real-time document creation
+
+用于实时文档创建的协作LaTeX编辑器

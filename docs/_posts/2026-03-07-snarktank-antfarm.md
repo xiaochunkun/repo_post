@@ -7,3 +7,5 @@ image: assets/snarktank_antfarm_20260228_115124_788_20260228_115301_7f732b.png
 # [snarktank/antfarm](https://github.com/snarktank/antfarm)
 
 Deploys AI agent teams for software development workflows
+
+为软件开发工作流部署AI智能体团队

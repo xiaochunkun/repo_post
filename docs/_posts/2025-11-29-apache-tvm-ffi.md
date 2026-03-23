@@ -7,3 +7,5 @@ image: assets/apache_tvm_ffi_20251126_001409_725_20251128_213431_aac301--2025112
 # [apache/tvm-ffi](https://github.com/apache/tvm-ffi/)
 
 Open ABI for machine learning systems
+
+机器学习系统的开放ABI

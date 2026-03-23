@@ -7,3 +7,5 @@ image: assets/micahmo_WgServerforWindows_20260111_052510_469_20260111_052523_dc4
 # [micahmo/WgServerforWindows](https://github.com/micahmo/WgServerforWindows)
 
 Manages WireGuard server endpoints on Windows
+
+在 Windows 上管理 WireGuard 服务器端点

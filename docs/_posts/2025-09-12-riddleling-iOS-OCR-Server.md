@@ -7,3 +7,5 @@ image: assets/20250911T212825403--riddleling--iOS-OCR-Server--20250911T212954645
 # [riddleling/iOS-OCR-Server](https://github.com/riddleling/iOS-OCR-Server)
 
 turn your iPhone into a local OCR server with on-device text recognition and API access
+
+将 iPhone 变成本地 OCR 服务器，支持设备端文字识别和 API 访问

@@ -7,3 +7,5 @@ image: assets/rendi_api_ffmpeg_cheatsheet_20251125_005909_660_20251126_100905_df
 # [rendi-api/ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet/)
 
 Collection of FFmpeg commands for video automation
+
+用于视频自动化的 FFmpeg 命令集合

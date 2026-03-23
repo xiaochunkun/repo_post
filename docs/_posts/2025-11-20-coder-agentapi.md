@@ -7,3 +7,5 @@ image: assets/coder_agentapi_20251120_043100_129_20251120_143032_59e876--2025112
 # [coder/agentapi](https://github.com/coder/agentapi/)
 
 Control coding agents with an HTTP API
+
+通过 HTTP API 控制编码代理

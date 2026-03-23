@@ -7,3 +7,5 @@ image: assets/akkva_gwfox_20251218_101900_536_20251218_101917_7d90a9.png
 # [akkva/gwfox](https://github.com/akkva/gwfox/)
 
 Firefox theme for macOS, Linux, and Windows
+
+适用于 macOS、Linux 和 Windows 的 Firefox 主题

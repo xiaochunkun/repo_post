@@ -7,3 +7,5 @@ image: assets/tfeldmann_organize_20260119_232748_634_20260119_232803_f22f7c.png
 # [tfeldmann/organize](https://github.com/tfeldmann/organize)
 
 Automates file management through rules
+
+通过规则自动化文件管理

@@ -7,3 +7,5 @@ image: assets/ai_robots_txt_ai_robots_txt_20251213_083916_346_20251213_083956_e8
 # [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt/)
 
 List of AI agents and robots to block
+
+需屏蔽的 AI 代理和机器人列表

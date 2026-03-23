@@ -7,3 +7,5 @@ image: assets/CryoByte33_steam_deck_utilities_20251110_030550_113_20251110_12011
 # [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities/)
 
 Scripts to improve performance on the Steam Deck
+
+提升Steam Deck性能的脚本

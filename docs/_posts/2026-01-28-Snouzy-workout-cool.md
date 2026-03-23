@@ -7,3 +7,5 @@ image: assets/Snouzy_workout_cool_20260121_235214_315_20260121_235242_8ea941.png
 # [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool)
 
 Fitness coaching platform with exercise database
+
+含运动数据库的健身指导平台

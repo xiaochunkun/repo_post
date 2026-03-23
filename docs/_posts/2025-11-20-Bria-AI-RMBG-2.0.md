@@ -7,3 +7,5 @@ image: assets/Bria_AI_RMBG_2_0_20251119_192547_158_20251120_003406_3c7bab--20251
 # [Bria-AI/RMBG-2.0](https://github.com/Bria-AI/RMBG-2.0/)
 
 Source-available model for image background removal
+
+用于图像背景去除的开源可用模型

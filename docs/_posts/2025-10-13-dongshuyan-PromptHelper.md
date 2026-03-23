@@ -7,3 +7,5 @@ image: assets/20251013T001046049--dongshuyan--PromptHelper--20251013T001739469--
 # [dongshuyan/PromptHelper](https://github.com/dongshuyan/PromptHelper)
 
 AI prompt template manager for multiple chat platforms
+
+用于多个聊天平台的 AI 提示模板管理器

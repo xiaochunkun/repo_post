@@ -7,3 +7,5 @@ image: assets/20250825T024427279--BrowserBox--BrowserBox--20250829T035310307--cr
 # [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox)
 
 remote browser isolation for secure web access
+
+远程浏览器隔离，安全访问 Web

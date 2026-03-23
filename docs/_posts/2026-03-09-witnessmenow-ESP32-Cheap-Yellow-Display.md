@@ -7,3 +7,5 @@ image: assets/witnessmenow_ESP32_Cheap_Yellow_Display_20260308_171110_817_202603
 # [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 
 Documentation and examples for ESP32 display with touch screen
+
+ESP32 触摸屏显示器的文档和示例

@@ -7,3 +7,5 @@ image: assets/reacherhq_check_if_email_exists_20260202_133814_930_20260202_13390
 # [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
 
 Verifies email addresses without sending messages
+
+验证电子邮件地址而不发送消息

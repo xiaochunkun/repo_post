@@ -7,3 +7,5 @@ image: assets/TypeError_secure_20251106_170953_255_20251106_174907_1f325b--20251
 # [TypeError/secure](https://github.com/TypeError/secure/)
 
 Add security headers across multiple Python web frameworks
+
+为多个Python Web框架添加安全头

@@ -7,3 +7,5 @@ image: assets/user1342_Awesome_Android_Reverse_Engineering_20260212_060722_448_2
 # [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
 
 Resources for Android reverse engineering
+
+Android 逆向工程资源

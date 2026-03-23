@@ -7,3 +7,5 @@ image: assets/toeverything_AFFiNE_cropped.png
 # [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 
 workspace for docs, whiteboards, databases, and knowledge management
+
+用于文档、白板、数据库和知识管理的工作空间

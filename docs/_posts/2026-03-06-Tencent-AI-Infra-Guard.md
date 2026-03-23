@@ -7,3 +7,5 @@ image: assets/Tencent_AI_Infra_Guard_20260305_021348_484_20260305_021507_063b72.
 # [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
 
 Platform for security testing of AI infrastructure
+
+AI 基础设施安全测试平台

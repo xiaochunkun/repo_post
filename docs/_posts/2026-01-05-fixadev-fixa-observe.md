@@ -7,3 +7,5 @@ image: assets/fixadev_fixa_observe_20260103_164742_919_20260103_164805_488feb.pn
 # [fixadev/fixa-observe](https://github.com/fixadev/fixa-observe/)
 
 Tests and monitors voice agents
+
+测试和监控语音代理

@@ -7,3 +7,5 @@ image: assets/zasper_io_zasper_20260129_233142_195_20260129_233231_da6d02.png
 # [zasper-io/zasper](https://github.com/zasper-io/zasper)
 
 IDE for Jupyter Notebooks with concurrency
+
+支持并发的 Jupyter Notebooks IDE

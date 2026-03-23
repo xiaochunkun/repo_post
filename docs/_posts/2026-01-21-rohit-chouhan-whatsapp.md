@@ -7,3 +7,5 @@ image: assets/rohit_chouhan_whatsapp_20260120_183224_372_20260120_183253_7834a7.
 # [rohit-chouhan/whatsapp](https://github.com/rohit-chouhan/whatsapp)
 
 Flutter package for the WhatsApp Business API
+
+WhatsApp Business API 的 Flutter 包

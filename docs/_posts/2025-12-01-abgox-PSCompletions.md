@@ -7,3 +7,5 @@ image: assets/abgox_PSCompletions_20251127_210610_566_20251130_083500_511cd8--20
 # [abgox/PSCompletions](https://github.com/abgox/PSCompletions/)
 
 Completion manager for PowerShell tab-completion
+
+PowerShell 标签补全的补全管理器

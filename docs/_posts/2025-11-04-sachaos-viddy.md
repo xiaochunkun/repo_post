@@ -7,3 +7,5 @@ image: assets/sachaos_viddy_20251031_154838_653_20251102_215123_90927d--20251102
 # [sachaos/viddy](https://github.com/sachaos/viddy/)
 
 Watch command with time travel and diffs
+
+具有时间旅行和差异对比的watch命令

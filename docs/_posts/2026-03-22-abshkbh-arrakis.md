@@ -7,3 +7,5 @@ image: assets/abshkbh_arrakis_20260322_090530_730_20260322_090558_b7e0bd.png
 # [abshkbh/arrakis](https://github.com/abshkbh/arrakis)
 
 Secure sandbox for AI agents
+
+AI 代理的安全沙箱

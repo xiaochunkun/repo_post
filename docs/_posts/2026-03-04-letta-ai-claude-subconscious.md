@@ -7,3 +7,5 @@ image: assets/letta_ai_claude_subconscious_20260212_025339_979_20260212_025413_8
 # [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)
 
 Adds persistent memory to Claude Code
+
+为Claude Code添加持久性记忆

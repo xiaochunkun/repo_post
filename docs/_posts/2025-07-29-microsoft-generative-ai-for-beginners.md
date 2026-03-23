@@ -7,3 +7,5 @@ image: assets/microsoft_generative-ai-for-beginners_cropped.png
 # [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
 step-by-step intro to generative AI with hands-on lessons
+
+带实践课程的生成式 AI 分步入门指南

@@ -7,3 +7,5 @@ image: assets/hrvach_deskhop_20260202_234042_928_20260202_234138_f99f8d.png
 # [hrvach/deskhop](https://github.com/hrvach/deskhop)
 
 Switches mouse and keyboard between computers by dragging the cursor
+
+通过拖拽光标在计算机间切换鼠标和键盘

@@ -7,3 +7,5 @@ image: assets/wemake_services_django_modern_rest_20251104_190109_165_20251104_22
 # [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest/)
 
 REST framework for Django with types and async support
+
+支持类型和异步的 Django REST 框架

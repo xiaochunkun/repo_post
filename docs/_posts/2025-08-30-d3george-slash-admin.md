@@ -7,3 +7,5 @@ image: assets/20250826T032425008--d3george--slash-admin--20250830T042335621--cro
 # [d3george/slash-admin](https://github.com/d3george/slash-admin)
 
 React 19 admin dashboard template with Vite and TypeScript
+
+基于 React 19、Vite 和 TypeScript 的管理后台模板

@@ -7,3 +7,5 @@ image: assets/altstoreio_AltStore_cropped.png
 # [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
 
 sideload iOS apps without jailbreak using your Apple ID
+
+使用Apple ID侧载iOS应用，无需越狱

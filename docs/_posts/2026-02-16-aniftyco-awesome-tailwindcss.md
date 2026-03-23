@@ -7,3 +7,5 @@ image: assets/aniftyco_awesome_tailwindcss_20260122_030958_412_20260122_031018_c
 # [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss)
 
 Curated list of Tailwind CSS resources
+
+精选 Tailwind CSS 资源列表

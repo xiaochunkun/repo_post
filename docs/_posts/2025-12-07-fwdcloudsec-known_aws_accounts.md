@@ -7,3 +7,5 @@ image: assets/fwdcloudsec_known_aws_accounts_20251205_011113_923_20251205_011136
 # [fwdcloudsec/known_aws_accounts](https://github.com/fwdcloudsec/known_aws_accounts/)
 
 Dataset of known AWS account IDs
+
+已知AWS账户ID数据集

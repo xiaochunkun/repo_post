@@ -7,3 +7,5 @@ image: assets/scylladb_scylladb_cropped.png
 # [scylladb/scylladb](https://github.com/scylladb/scylladb)
 
 Building ScyllaDB from source
+
+从源代码构建 ScyllaDB

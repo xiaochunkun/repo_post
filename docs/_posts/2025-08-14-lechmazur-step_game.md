@@ -7,3 +7,5 @@ image: assets/lechmazur_step_game--20250814T032742614--cropped.png
 # [lechmazur/step_game](https://github.com/lechmazur/step_game)
 
 LLM agents compete and collaborate in a multiplayer step race game
+
+LLM 代理在多人步数竞赛游戏中竞争和协作

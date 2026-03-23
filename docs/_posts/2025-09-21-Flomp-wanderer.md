@@ -7,3 +7,5 @@ image: assets/20250921T022710408--Flomp--wanderer--20250921T025236606--cropped.p
 # [Flomp/wanderer](https://github.com/Flomp/wanderer)
 
 self-hosted app for managing and sharing GPS trails
+
+自托管应用，用于管理和分享 GPS 轨迹

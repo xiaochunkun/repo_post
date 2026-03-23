@@ -7,3 +7,5 @@ image: assets/AgentX-ai_agentx-python_cropped.png
 # [AgentX-ai/agentx-python](https://github.com/AgentX-ai/agentx-python)
 
 AgentX Python SDK for building and managing AI agent teams, tools for conversation, voice, images, and data
+
+AgentX Python SDK，用于构建和管理AI代理团队，支持对话、语音、图像和数据工具

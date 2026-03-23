@@ -7,3 +7,5 @@ image: assets/20250924T055757826--ferdous-alam--GenCAD--20250924T060226266--crop
 # [ferdous-alam/GenCAD](https://github.com/ferdous-alam/GenCAD)
 
 turns images into editable 3D CAD models using AI
+
+使用 AI 将图像转换为可编辑的 3D CAD 模型

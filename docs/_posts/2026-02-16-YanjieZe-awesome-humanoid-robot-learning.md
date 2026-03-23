@@ -7,3 +7,5 @@ image: assets/YanjieZe_awesome_humanoid_robot_learning_20260214_180540_285_20260
 # [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)
 
 Curated list of papers on humanoid robot learning
+
+人形机器人学习论文精选列表

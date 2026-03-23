@@ -7,3 +7,5 @@ image: assets/hangwin_mcp_chrome_20260225_221404_135_20260225_221605_dc3354.png
 # [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome)
 
 Exposes browser functionality to AI assistants
+
+向 AI 助手暴露浏览器功能

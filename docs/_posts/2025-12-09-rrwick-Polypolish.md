@@ -7,3 +7,5 @@ image: assets/rrwick_Polypolish_20251207_204049_679_20251207_204122_78401a.png
 # [rrwick/Polypolish](https://github.com/rrwick/Polypolish/)
 
 Polishes genome assemblies with short reads
+
+使用短读序列优化基因组组装

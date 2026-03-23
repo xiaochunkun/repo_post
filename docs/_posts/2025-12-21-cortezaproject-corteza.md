@@ -7,3 +7,5 @@ image: assets/cortezaproject_corteza_20251219_075535_945_20251219_075554_7d88f8.
 # [cortezaproject/corteza](https://github.com/cortezaproject/corteza/)
 
 Low-code platform for building CRM and business process apps
+
+构建 CRM 和业务流程应用的低代码平台

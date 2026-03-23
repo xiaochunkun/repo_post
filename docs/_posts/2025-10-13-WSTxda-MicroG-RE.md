@@ -7,3 +7,5 @@ image: assets/20251013T001209168--WSTxda--MicroG-RE--20251013T001826157--cropped
 # [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE)
 
 GmsCore fork for ReVanced apps with Material 3 design and Google account support
+
+GmsCore 分支，用于 ReVanced 应用，支持 Material 3 设计和 Google 账户

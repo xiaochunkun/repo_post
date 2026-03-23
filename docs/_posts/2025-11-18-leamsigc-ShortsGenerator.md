@@ -7,3 +7,5 @@ image: assets/leamsigc_ShortsGenerator_20251118_020815_473_20251118_021257_9fb88
 # [leamsigc/ShortsGenerator](https://github.com/leamsigc/ShortsGenerator/)
 
 Generates short-form videos from a text script
+
+从文本脚本生成短视频

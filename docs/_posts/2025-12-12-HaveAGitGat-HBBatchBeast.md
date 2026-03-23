@@ -7,3 +7,5 @@ image: assets/HaveAGitGat_HBBatchBeast_20251209_035657_235_20251209_035806_a61b6
 # [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast/)
 
 GUI for HandBrake and FFmpeg batch conversion
+
+HandBrake 和 FFmpeg 批量转换的 GUI 工具

@@ -7,3 +7,5 @@ image: assets/VirusTotal_vt_cli_20251201_004144_859_20251201_012301_096045.png
 # [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli/)
 
 Command-line interface for interacting with VirusTotal
+
+与 VirusTotal 交互的命令行界面

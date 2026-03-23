@@ -7,3 +7,5 @@ image: assets/291_Group_LAN_Orangutan_20260113_175225_801_20260113_175239_d64248
 # [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan)
 
 Network scanner with Tailscale integration and device labeling
+
+集成 Tailscale 和设备标签的网络扫描器

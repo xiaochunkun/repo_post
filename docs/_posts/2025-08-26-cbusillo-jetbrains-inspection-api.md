@@ -7,3 +7,5 @@ image: assets/20250825T034130145--cbusillo--jetbrains-inspection-api--20250825T0
 # [cbusillo/jetbrains-inspection-api](https://github.com/cbusillo/jetbrains-inspection-api)
 
 Lets you get JetBrains IDE inspection results over HTTP for automating code checks or plugging into AI tools
+
+通过 HTTP 获取 JetBrains IDE 代码检查结果，方便自动化和 AI 工具集成

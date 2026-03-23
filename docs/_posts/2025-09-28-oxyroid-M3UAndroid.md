@@ -7,3 +7,5 @@ image: assets/20250928T061837918--oxyroid--M3UAndroid--20250928T064745684--cropp
 # [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid)
 
 Android streaming app with playlist management, casting, and multi-device support
+
+Android流媒体应用，支持播放列表管理、投屏和多设备

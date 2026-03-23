@@ -7,3 +7,5 @@ image: assets/RajnishOne_qbitconnect_20251031_151346_926_20251102_214505_5fcdbc-
 # [RajnishOne/qbitconnect](https://github.com/RajnishOne/qbitconnect/)
 
 Flutter app for remote qBittorrent management
+
+远程管理qBittorrent的Flutter应用

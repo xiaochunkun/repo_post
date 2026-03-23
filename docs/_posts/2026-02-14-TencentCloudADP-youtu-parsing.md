@@ -7,3 +7,5 @@ image: assets/TencentCloudADP_youtu_parsing_20260131_195102_234_20260131_195143_
 # [TencentCloudADP/youtu-parsing](https://github.com/TencentCloudADP/youtu-parsing)
 
 Parses documents via parallel decoding
+
+通过并行解码解析文档

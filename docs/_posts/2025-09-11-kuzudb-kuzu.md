@@ -7,3 +7,5 @@ image: assets/20250911T012115377--kuzudb--kuzu--20250911T012647108--cropped.png
 # [kuzudb/kuzu](https://github.com/kuzudb/kuzu)
 
 embedded graph database for fast, scalable analytics and easy integration
+
+嵌入式图数据库，实现快速可扩展的分析和简易集成

@@ -7,3 +7,5 @@ image: assets/20251015T031725091--genai-works-org--genai-agentos--20251015T03223
 # [genai-works-org/genai-agentos](https://github.com/genai-works-org/genai-agentos)
 
 infrastructure for running and managing GenAI agents with backend, frontend, and protocol support
+
+运行和管理 GenAI 代理的基础设施，支持后端、前端和协议

@@ -7,3 +7,5 @@ image: assets/droidrun_droidrun_cropped.png
 # [droidrun/droidrun](https://github.com/droidrun/droidrun)
 
 control Android devices with AI and natural language
+
+使用AI和自然语言控制Android设备

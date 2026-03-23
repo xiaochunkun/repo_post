@@ -7,3 +7,5 @@ image: assets/LinwoodDev_Butterfly_20260121_232813_184_20260121_232830_414e37.pn
 # [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly)
 
 Note-taking app for painting and exporting on any device
+
+用于在任何设备上绘画和导出的笔记应用

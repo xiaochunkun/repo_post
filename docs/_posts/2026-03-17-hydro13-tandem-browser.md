@@ -7,3 +7,5 @@ image: assets/hydro13_tandem_browser_20260316_011336_781_20260316_011440_37975e.
 # [hydro13/tandem-browser](https://github.com/hydro13/tandem-browser)
 
 Local-first browser for human AI collaboration
+
+本地优先浏览器，用于人机 AI 协作

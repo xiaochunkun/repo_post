@@ -7,3 +7,5 @@ image: assets/Shrikshel_server_tools_20260120_063647_736_20260120_063702_3bf167.
 # [Shrikshel/server-tools](https://github.com/Shrikshel/server-tools)
 
 CLI for managing headless Ubuntu servers
+
+管理无头 Ubuntu 服务器的 CLI

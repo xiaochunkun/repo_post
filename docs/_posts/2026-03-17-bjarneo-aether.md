@@ -7,3 +7,5 @@ image: assets/bjarneo_aether_20260224_121020_294_20260224_121056_0a245a.png
 # [bjarneo/aether](https://github.com/bjarneo/aether)
 
 Generates desktop themes from wallpapers
+
+从壁纸生成桌面主题

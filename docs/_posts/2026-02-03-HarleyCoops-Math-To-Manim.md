@@ -7,3 +7,5 @@ image: assets/HarleyCoops_Math_To_Manim_20260203_004803_127_20260203_004837_de54
 # [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim)
 
 Generates math animations from text using LLMs
+
+使用 LLM 从文本生成数学动画

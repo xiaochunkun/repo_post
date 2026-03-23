@@ -7,3 +7,5 @@ image: assets/owasp_noir_noir_20260209_105258_670_20260209_105335_71ba3b.png
 # [owasp-noir/noir](https://github.com/owasp-noir/noir)
 
 Maps attack surfaces by finding endpoints in source code
+
+通过在源代码中查找端点来映射攻击面

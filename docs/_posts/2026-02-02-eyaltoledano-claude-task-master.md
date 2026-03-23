@@ -7,3 +7,5 @@ image: assets/eyaltoledano_claude_task_master_20260202_114801_669_20260202_11484
 # [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)
 
 Task management system for AI development
+
+AI开发的任务管理系统

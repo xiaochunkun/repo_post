@@ -7,3 +7,5 @@ image: assets/ckolderup_postmarks_20251030_192507_742_20251030_210818_86fe94--20
 # [ckolderup/postmarks](https://github.com/ckolderup/postmarks/)
 
 Self-hosted bookmarking for the Fediverse
+
+Fediverse 的自托管书签服务

@@ -7,3 +7,5 @@ image: assets/RUC_NLPIR_FlashRAG_20260301_212410_115_20260301_212600_f89097.png
 # [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
 
 Toolkit for research on retrieval augmented generation
+
+检索增强生成研究工具包

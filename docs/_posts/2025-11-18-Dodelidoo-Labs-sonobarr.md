@@ -7,3 +7,5 @@ image: assets/Dodelidoo_Labs_sonobarr_20251118_052636_602_20251118_155726_44d5b1
 # [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr/)
 
 Music discovery for Lidarr using Last.fm and ListenBrainz
+
+使用Last.fm和ListenBrainz为Lidarr进行音乐发现

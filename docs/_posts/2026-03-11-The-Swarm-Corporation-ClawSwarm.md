@@ -7,3 +7,5 @@ image: assets/The_Swarm_Corporation_ClawSwarm_20260302_052600_995_20260302_05272
 # [The-Swarm-Corporation/ClawSwarm](https://github.com/The-Swarm-Corporation/ClawSwarm)
 
 Unified messaging across platforms with Claude reasoning
+
+跨平台统一消息传递，集成 Claude 推理

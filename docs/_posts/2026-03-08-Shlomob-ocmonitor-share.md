@@ -7,3 +7,5 @@ image: assets/Shlomob_ocmonitor_share_20260215_071158_331_20260215_071253_300153
 # [Shlomob/ocmonitor-share](https://github.com/Shlomob/ocmonitor-share)
 
 CLI tool for monitoring OpenCode AI coding sessions
+
+监控OpenCode AI编码会话的CLI工具

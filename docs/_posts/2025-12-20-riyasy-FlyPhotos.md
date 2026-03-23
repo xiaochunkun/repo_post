@@ -7,3 +7,5 @@ image: assets/riyasy_FlyPhotos_20251218_050953_315_20251218_051016_304e50.png
 # [riyasy/FlyPhotos](https://github.com/riyasy/FlyPhotos/)
 
 Photo viewer for Windows built with WinUI 3
+
+使用 WinUI 3 构建的 Windows 照片查看器

@@ -7,3 +7,5 @@ image: assets/20250906T223812279--PicoTrex--Awesome-Nano-Banana-images--20250906
 # [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 
 gallery of Nano-banana AI image generations and prompts
+
+Nano-banana AI 图像生成作品和提示词画廊

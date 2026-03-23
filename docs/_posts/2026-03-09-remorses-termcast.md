@@ -7,3 +7,5 @@ image: assets/remorses_termcast_20260222_051104_928_20260222_051140_730f2e.png
 # [remorses/termcast](https://github.com/remorses/termcast)
 
 Builds terminal interfaces with React and Raycast APIs
+
+使用React和Raycast API构建终端界面

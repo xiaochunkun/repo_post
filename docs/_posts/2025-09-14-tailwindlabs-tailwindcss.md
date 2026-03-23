@@ -7,3 +7,5 @@ image: assets/20250912T200559050--tailwindlabs--tailwindcss--20250912T201027756-
 # [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
 utility-first CSS framework for building custom user interfaces
+
+实用优先的 CSS 框架，构建自定义用户界面

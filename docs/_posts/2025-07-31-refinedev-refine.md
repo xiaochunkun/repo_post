@@ -7,3 +7,5 @@ image: assets/refinedev_refine_cropped.png
 # [refinedev/refine](https://github.com/refinedev/refine)
 
 React framework for building admin panels and internal tools
+
+用于构建管理面板和内部工具的 React 框架

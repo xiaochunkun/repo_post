@@ -7,3 +7,5 @@ image: assets/Aayush9029_NativeTwitch_20260102_003145_946_20260102_003210_237f6e
 # [Aayush9029/NativeTwitch](https://github.com/Aayush9029/NativeTwitch/)
 
 Twitch client for macOS
+
+macOS的Twitch客户端

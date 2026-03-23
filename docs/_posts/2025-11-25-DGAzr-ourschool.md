@@ -7,3 +7,5 @@ image: assets/DGAzr_ourschool_20251123_180517_083_20251124_095638_c49353--202511
 # [DGAzr/ourschool](https://github.com/DGAzr/ourschool/)
 
 Manages homeschool attendance, lessons, and grades
+
+管理家庭学校的出勤、课程和成绩

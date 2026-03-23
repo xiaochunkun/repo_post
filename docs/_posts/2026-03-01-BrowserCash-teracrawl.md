@@ -7,3 +7,5 @@ image: assets/BrowserCash_teracrawl_20260228_010516_350_20260228_010731_13fa48.p
 # [BrowserCash/teracrawl](https://github.com/BrowserCash/teracrawl)
 
 Scraper with top benchmark coverage for LLMs
+
+为 LLMs 提供顶级基准覆盖的爬虫工具

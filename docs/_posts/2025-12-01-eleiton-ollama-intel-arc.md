@@ -7,3 +7,5 @@ image: assets/eleiton_ollama_intel_arc_20251130_063033_217_20251130_084548_9ab53
 # [eleiton/ollama-intel-arc](https://github.com/eleiton/ollama-intel-arc/)
 
 Run Ollama and Stable Diffusion on Intel Arc GPUs
+
+在 Intel Arc GPU 上运行 Ollama 和 Stable Diffusion

@@ -7,3 +7,5 @@ image: assets/rcalixte_awesome_wayland_20251115_054341_429_20251117_031235_54b7c
 # [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland/)
 
 Curated list of Wayland resources
+
+Wayland资源的精选列表

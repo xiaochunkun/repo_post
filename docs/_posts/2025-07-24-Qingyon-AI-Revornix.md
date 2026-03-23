@@ -7,3 +7,5 @@ image: assets/Qingyon-AI_Revornix_cropped.png
 # [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix)
 
 all-in-one AI platform with chat and content tools
+
+集聊天和内容工具于一体的AI平台

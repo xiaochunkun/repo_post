@@ -7,3 +7,5 @@ image: assets/timqian_bambot_cropped.png
 # [timqian/bambot](https://github.com/timqian/bambot)
 
 open source low-cost humanoid robot project
+
+开源低成本人形机器人项目

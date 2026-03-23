@@ -7,3 +7,5 @@ image: assets/ZhangHanDong_claude_code_api_rs_20260223_134510_289_20260223_13454
 # [ZhangHanDong/claude-code-api-rs](https://github.com/ZhangHanDong/claude-code-api-rs)
 
 OpenAI-compatible API gateway for Claude Code CLI
+
+Claude Code CLI的OpenAI兼容API网关

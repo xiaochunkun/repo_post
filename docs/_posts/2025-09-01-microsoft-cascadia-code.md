@@ -7,3 +7,5 @@ image: assets/20250831T004603983--microsoft--cascadia-code--20250831T005051403--
 # [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)
 
 monospaced coding font with ligatures and Powerline support
+
+微软等宽编程字体，支持连字和 Powerline

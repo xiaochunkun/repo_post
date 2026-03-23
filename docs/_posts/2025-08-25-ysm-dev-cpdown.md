@@ -7,3 +7,5 @@ image: assets/20250823T014933898--ysm-dev--cpdown--20250825T020640262--cropped.p
 # [ysm-dev/cpdown](https://github.com/ysm-dev/cpdown)
 
 copy any webpage or YouTube subtitles as clean markdown
+
+将网页或 YouTube 字幕复制为整洁的 Markdown

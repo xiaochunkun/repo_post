@@ -7,3 +7,5 @@ image: assets/hudson_and_thames_mlfinlab_20251218_103120_633_20251218_103137_cc0
 # [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab/)
 
 Machine learning library for portfolio managers and traders
+
+投资组合经理和交易员的机器学习库

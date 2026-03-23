@@ -7,3 +7,5 @@ image: assets/fcwu_docker_ubuntu_vnc_desktop_20251213_135645_632_20251213_135708
 # [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop/)
 
 Docker image providing web VNC interface for Ubuntu LXDE/LxQT desktop
+
+提供Ubuntu LXDE/LxQT桌面Web VNC接口的Docker镜像

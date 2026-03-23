@@ -7,3 +7,5 @@ image: assets/chonkie-ai_chonkie_cropped.png
 # [chonkie-ai/chonkie](https://github.com/chonkie-ai/chonkie)
 
 Text chunking library for RAG applications
+
+用于RAG应用的文本分块库

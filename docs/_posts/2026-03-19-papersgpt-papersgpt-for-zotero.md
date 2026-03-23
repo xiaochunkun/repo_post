@@ -7,3 +7,5 @@ image: assets/papersgpt_papersgpt_for_zotero_20260302_163311_370_20260302_163453
 # [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero)
 
 Automates research by syncing AI insights into Zotero
+
+通过将AI见解同步到Zotero实现研究自动化

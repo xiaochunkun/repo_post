@@ -7,3 +7,5 @@ image: assets/stdware_qwindowkit_20251126_104225_788_20251129_022305_03c37b--202
 # [stdware/qwindowkit](https://github.com/stdware/qwindowkit/)
 
 Cross-platform window customization framework for Qt
+
+Qt 的跨平台窗口自定义框架

@@ -7,3 +7,5 @@ image: assets/20250822T030221542--bagisto--bagisto--20250822T033515724--cropped.
 # [bagisto/bagisto](https://github.com/bagisto/bagisto)
 
 open source Laravel eCommerce framework with headless and mobile support
+
+开源 Laravel 电商框架，支持 Headless 和移动端

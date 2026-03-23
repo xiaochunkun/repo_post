@@ -7,3 +7,5 @@ image: assets/Mega4alik_ollm_20260221_051617_349_20260221_051656_48d784.png
 # [Mega4alik/ollm](https://github.com/Mega4alik/ollm)
 
 Inference for large-context models on consumer GPUs
+
+在消费级GPU上运行大上下文模型的推理

@@ -7,3 +7,5 @@ image: assets/Picovoice_porcupine_20251123_131505_157_20251124_003407_edc2a1--20
 # [Picovoice/porcupine](https://github.com/Picovoice/porcupine/)
 
 On-device wake word engine
+
+设备端唤醒词引擎

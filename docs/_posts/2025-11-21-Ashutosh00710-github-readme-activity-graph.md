@@ -7,3 +7,5 @@ image: assets/Ashutosh00710_github_readme_activity_graph_20251120_051518_124_202
 # [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph/)
 
 Generates GitHub activity graphs for Readmes
+
+生成GitHub Readme活动图表

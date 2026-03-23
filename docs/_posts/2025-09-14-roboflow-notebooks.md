@@ -7,3 +7,5 @@ image: assets/20250912T010259437--roboflow--notebooks--20250912T010531184--cropp
 # [roboflow/notebooks](https://github.com/roboflow/notebooks)
 
 Notebooks for computer vision tasks like detection, segmentation, and OCR using popular models
+
+使用流行模型完成检测、分割和 OCR 等计算机视觉任务的笔记本

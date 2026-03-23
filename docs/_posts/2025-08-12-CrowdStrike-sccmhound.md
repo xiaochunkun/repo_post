@@ -7,3 +7,5 @@ image: assets/20250810T054047--CrowdStrike--sccmhound--20250812T003653--cropped.
 # [CrowdStrike/sccmhound](https://github.com/CrowdStrike/sccmhound)
 
 BloodHound collector for Microsoft Configuration Manager
+
+Microsoft Configuration Manager的BloodHound收集器

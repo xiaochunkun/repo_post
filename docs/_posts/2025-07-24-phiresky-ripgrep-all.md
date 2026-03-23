@@ -7,3 +7,5 @@ image: assets/phiresky_ripgrep-all_cropped.png
 # [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)
 
 Search in all file types
+
+在所有文件类型中搜索

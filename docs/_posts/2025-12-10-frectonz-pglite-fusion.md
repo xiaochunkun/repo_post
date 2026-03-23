@@ -7,3 +7,5 @@ image: assets/frectonz_pglite_fusion_20251208_010149_746_20251208_010220_1ad714.
 # [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion/)
 
 Embeds SQLite databases in PostgreSQL tables
+
+在 PostgreSQL 表中嵌入 SQLite 数据库

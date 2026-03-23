@@ -7,3 +7,5 @@ image: assets/SakanaAI_shachi_20251215_034136_726_20251215_034209_a00cbf.png
 # [SakanaAI/shachi](https://github.com/SakanaAI/shachi/)
 
 Modular framework for building LLM-based agents for Agent-Based Modeling
+
+用于构建基于LLM的Agent-Based Modeling Agent的模块化框架

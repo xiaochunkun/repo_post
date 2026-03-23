@@ -7,3 +7,5 @@ image: assets/AboloreDev_go_payroll_processor_system_20260316_015459_512_2026031
 # [AboloreDev/go-payroll-processor-system](https://github.com/AboloreDev/go-payroll-processor-system)
 
 Concurrent Go payroll engine with React dashboard
+
+具有 React 仪表板的并发 Go 薪资引擎

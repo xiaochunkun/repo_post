@@ -7,3 +7,5 @@ image: assets/LumePart_Explo_20251106_165659_083_20251106_174814_138958--2025110
 # [LumePart/Explo](https://github.com/LumePart/Explo/)
 
 Music discovery for self-hosted music systems
+
+自托管音乐系统的音乐发现工具

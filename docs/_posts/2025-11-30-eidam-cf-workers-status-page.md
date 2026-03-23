@@ -7,3 +7,5 @@ image: assets/eidam_cf_workers_status_page_20251127_190902_571_20251130_070805_d
 # [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page/)
 
 Status page running on Cloudflare Workers
+
+运行在 Cloudflare Workers 上的状态页面

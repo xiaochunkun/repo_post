@@ -7,3 +7,5 @@ image: assets/animate_css_animate_css_20251209_032253_849_20251209_032333_dff0de
 # [animate-css/animate.css](https://github.com/animate-css/animate.css/)
 
 Cross-browser library of CSS animations
+
+跨浏览器CSS动画库

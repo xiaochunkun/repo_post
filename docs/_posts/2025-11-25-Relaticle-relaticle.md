@@ -7,3 +7,5 @@ image: assets/Relaticle_relaticle_20251123_185931_655_20251124_184721_2368b3--20
 # [Relaticle/relaticle](https://github.com/Relaticle/relaticle/)
 
 Open-source CRM built with Laravel and Filament
+
+基于 Laravel 和 Filament 构建的开源 CRM

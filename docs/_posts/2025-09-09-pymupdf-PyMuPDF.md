@@ -7,3 +7,5 @@ image: assets/20250908T190013129--pymupdf--PyMuPDF--20250908T190825683--cropped.
 # [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 
 Python library for extracting and working with PDFs
+
+用于提取和处理 PDF 的 Python 库

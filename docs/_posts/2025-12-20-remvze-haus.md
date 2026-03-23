@@ -7,3 +7,5 @@ image: assets/remvze_haus_20251218_060853_681_20251218_060912_8045f9.png
 # [remvze/haus](https://github.com/remvze/haus/)
 
 Workstation with movable windows in a browser
+
+浏览器中带可移动窗口的工作站

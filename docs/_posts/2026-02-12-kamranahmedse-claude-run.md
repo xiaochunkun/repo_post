@@ -7,3 +7,5 @@ image: assets/kamranahmedse_claude_run_20260211_084636_435_20260211_084659_68d89
 # [kamranahmedse/claude-run](https://github.com/kamranahmedse/claude-run)
 
 Web interface for Claude Code conversation history
+
+Claude Code 对话历史的 Web 界面

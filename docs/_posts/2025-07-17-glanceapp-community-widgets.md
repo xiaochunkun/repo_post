@@ -7,3 +7,5 @@ image: assets/glanceapp_community-widgets_cropped.png
 # [glanceapp/community-widgets](https://github.com/glanceapp/community-widgets)
 
 community-made widgets for Glance dashboard
+
+Glance 仪表板的社区制作小部件

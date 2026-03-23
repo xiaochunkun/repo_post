@@ -7,3 +7,5 @@ image: assets/schollz_croc_cropped.png
 # [schollz/croc](https://github.com/schollz/croc)
 
 send files securely between computers with croc
+
+使用croc在计算机间安全传输文件

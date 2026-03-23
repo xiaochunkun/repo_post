@@ -7,3 +7,5 @@ image: assets/Rongronggg9_RSS_to_Telegram_Bot_20260320_033248_916_20260320_03364
 # [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
 
 RSS feeds to Telegram with rich media
+
+RSS源到Telegram，支持富媒体

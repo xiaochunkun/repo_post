@@ -7,3 +7,5 @@ image: assets/microsoft_ai_agents_for_beginners_20260108_032830_369_20260108_032
 # [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
 Course for building agents with multi-language support
+
+构建代理的课程，支持多语言

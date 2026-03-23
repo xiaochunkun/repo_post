@@ -7,3 +7,5 @@ image: assets/livekit_examples_meet_20260111_144252_373_20260111_144305_4f5dd1.p
 # [livekit-examples/meet](https://github.com/livekit-examples/meet)
 
 Video conferencing app on Next.js
+
+基于Next.js的视频会议应用

@@ -7,3 +7,5 @@ image: assets/every_app_every_app_20260214_003203_723_20260214_003310_0ce409.png
 # [every-app/every-app](https://github.com/every-app/every-app)
 
 Self-host software platform on Cloudflare with AI integration
+
+在Cloudflare上自托管并集成AI的软件平台

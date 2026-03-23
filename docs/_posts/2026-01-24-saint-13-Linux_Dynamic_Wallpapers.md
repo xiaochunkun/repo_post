@@ -7,3 +7,5 @@ image: assets/saint_13_Linux_Dynamic_Wallpapers_20260123_055637_491_20260123_055
 # [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
 
 Wallpapers that change with the time of day
+
+随时间变化的壁纸

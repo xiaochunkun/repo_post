@@ -7,3 +7,5 @@ image: assets/20250918T124222584--tekaratzas--RustGPT--20250918T124427973--cropp
 # [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT)
 
 builds a transformer-based language model from scratch in Rust
+
+在Rust中从零开始构建基于transformer的语言模型

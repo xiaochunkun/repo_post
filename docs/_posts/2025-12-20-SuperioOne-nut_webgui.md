@@ -7,3 +7,5 @@ image: assets/SuperioOne_nut_webgui_20251218_080130_149_20251218_080145_f88ae6.p
 # [SuperioOne/nut_webgui](https://github.com/SuperioOne/nut_webgui/)
 
 Interface for Network UPS Tools
+
+Network UPS Tools 的 Web 界面

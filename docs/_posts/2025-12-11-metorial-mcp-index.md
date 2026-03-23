@@ -7,3 +7,5 @@ image: assets/metorial_mcp_index_20251208_223938_960_20251208_224015_ec3bd9.png
 # [metorial/mcp-index](https://github.com/metorial/mcp-index/)
 
 Curated list of MCP servers
+
+精选的MCP服务器列表

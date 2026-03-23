@@ -7,3 +7,5 @@ image: assets/orhun_git_cliff_20251213_063801_419_20251213_063825_d1d459.png
 # [orhun/git-cliff](https://github.com/orhun/git-cliff/)
 
 Generates changelogs from Git history using conventional commits
+
+使用约定式提交从Git历史生成变更日志

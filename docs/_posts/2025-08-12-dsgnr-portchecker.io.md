@@ -7,3 +7,5 @@ image: assets/20250810T054016--dsgnr--portchecker.io--20250812T001915--cropped.p
 # [dsgnr/portchecker.io](https://github.com/dsgnr/portchecker.io)
 
 open-source API to check port availability on hosts or IPs
+
+检查主机或IP端口可用性的开源API

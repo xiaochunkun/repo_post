@@ -7,3 +7,5 @@ image: assets/solidtime_io_solidtime_desktop_20260225_200028_456_20260225_200211
 # [solidtime-io/solidtime-desktop](https://github.com/solidtime-io/solidtime-desktop)
 
 Open-source time-tracker for macOS, Windows, and Linux
+
+开源时间追踪工具，支持 macOS、Windows 和 Linux

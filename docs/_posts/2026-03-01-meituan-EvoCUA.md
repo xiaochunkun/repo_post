@@ -7,3 +7,5 @@ image: assets/meituan_EvoCUA_20260227_103934_438_20260227_104113_bb074d.png
 # [meituan/EvoCUA](https://github.com/meituan/EvoCUA)
 
 Agent for computer use on OSWorld
+
+在 OSWorld 上使用的计算机代理

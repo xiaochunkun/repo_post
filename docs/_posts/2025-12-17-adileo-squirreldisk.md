@@ -7,3 +7,5 @@ image: assets/adileo_squirreldisk_20251215_021644_904_20251215_021708_7adbd1.png
 # [adileo/squirreldisk](https://github.com/adileo/squirreldisk/)
 
 Cross-platform disk usage analysis tool built with Rust
+
+使用 Rust 构建的跨平台磁盘使用分析工具

@@ -7,3 +7,5 @@ image: assets/elementdavv_internet_archive_downloader_20251225_195328_355_202512
 # [elementdavv/internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader/)
 
 Downloads books from Internet Archive as PDF files
+
+从 Internet Archive 下载书籍为 PDF 文件

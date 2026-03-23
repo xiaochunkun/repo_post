@@ -7,3 +7,5 @@ image: assets/kangvcar_ais_20251031_075343_852_20251101_210219_bdc71b--20251101T
 # [kangvcar/ais](https://github.com/kangvcar/ais/)
 
 Terminal assistant that analyzes command failures and suggests solutions
+
+分析命令失败并提供解决方案的终端助手

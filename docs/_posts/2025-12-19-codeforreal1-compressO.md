@@ -7,3 +7,5 @@ image: assets/codeforreal1_compressO_20251217_232958_712_20251217_233015_85a830.
 # [codeforreal1/compressO](https://github.com/codeforreal1/compressO/)
 
 Compresses videos using FFmpeg and Tauri
+
+使用 FFmpeg 和 Tauri 压缩视频

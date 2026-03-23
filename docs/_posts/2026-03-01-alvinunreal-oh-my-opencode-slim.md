@@ -7,3 +7,5 @@ image: assets/alvinunreal_oh_my_opencode_slim_20260227_161315_151_20260227_16142
 # [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)
 
 Multi-agent suite for model orchestration and task delegation
+
+用于模型编排和任务委派的多代理套件

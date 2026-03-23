@@ -7,3 +7,5 @@ image: assets/Lifailon_lazyjournal_20251105_132839_111_20251105_210659_32049b--2
 # [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal/)
 
 Terminal UI for reading logs from multiple sources
+
+从多个来源读取日志的终端用户界面

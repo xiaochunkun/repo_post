@@ -7,3 +7,5 @@ image: assets/Prem_ium_Spotify_Wrapped_365_20260124_011201_151_20260124_011226_2
 # [Prem-ium/Spotify-Wrapped-365](https://github.com/Prem-ium/Spotify-Wrapped-365)
 
 Generates Spotify playlists from listening habits
+
+根据收听习惯生成 Spotify 播放列表

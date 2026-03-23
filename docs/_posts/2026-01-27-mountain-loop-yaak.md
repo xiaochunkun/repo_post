@@ -7,3 +7,5 @@ image: assets/mountain_loop_yaak_20260121_234408_006_20260121_234426_8e3953.png
 # [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
 
 Desktop API client for REST, GraphQL, and gRPC
+
+用于REST、GraphQL和gRPC的桌面API客户端

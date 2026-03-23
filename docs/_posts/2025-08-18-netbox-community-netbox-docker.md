@@ -7,3 +7,5 @@ image: assets/netbox-community_netbox-docker--20250817T100536444--cropped.png
 # [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker)
 
 NetBox in Docker containers for easy deployment
+
+Docker 容器中的 NetBox，便于部署

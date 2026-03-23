@@ -7,3 +7,5 @@ image: assets/vijaythecoder_awesome-claude-agents_cropped.png
 # [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)
 
 Collection of Claude Code sub-agents that build, debug, and automate coding tasks together
+
+Claude Code 子代理集合，共同构建、调试和自动化编码任务

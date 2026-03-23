@@ -7,3 +7,5 @@ image: assets/20251013T000932704--Leezekun--MassGen--20251013T001614387--cropped
 # [Leezekun/MassGen](https://github.com/Leezekun/MassGen)
 
 runs multiple AI agents in parallel, they share updates and refine each other's work until reaching consensus
+
+并行运行多个 AI 代理，共享更新并相互完善直至达成共识

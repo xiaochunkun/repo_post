@@ -7,3 +7,5 @@ image: assets/20250914T182510523--thewh1teagle--vibe--20250914T190751953--croppe
 # [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe)
 
 offline audio and video transcription with whisper, batch support, privacy focused
+
+基于 Whisper 的离线音视频转录，支持批量处理，注重隐私

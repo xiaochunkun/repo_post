@@ -7,3 +7,5 @@ image: assets/caprover_caprover_cropped.png
 # [caprover/caprover](https://github.com/caprover/caprover)
 
 Docker app deployment tool with web dashboard and CLI
+
+Docker应用部署工具，带Web仪表板和CLI

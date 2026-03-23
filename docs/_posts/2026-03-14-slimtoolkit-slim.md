@@ -7,3 +7,5 @@ image: assets/slimtoolkit_slim_20260304_145312_742_20260304_145454_db7f69.png
 # [slimtoolkit/slim](https://github.com/slimtoolkit/slim)
 
 Toolkit for inspection and optimization of container images
+
+用于检查和优化容器镜像的工具包

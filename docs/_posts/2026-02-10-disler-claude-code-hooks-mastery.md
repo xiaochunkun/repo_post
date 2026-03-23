@@ -7,3 +7,5 @@ image: assets/disler_claude_code_hooks_mastery_20260204_035434_766_20260204_0354
 # [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)
 
 Controls Claude Code behavior with hooks
+
+使用钩子控制 Claude Code 行为

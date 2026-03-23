@@ -6,3 +6,5 @@ image: assets/Nixtla_nixtla_20251025_040435_087_20251025_041258_353433--20251025
 # [Nixtla/nixtla](https://github.com/Nixtla/nixtla/)
 
 A foundation model for time series forecasting
+
+用于时间序列预测的基础模型

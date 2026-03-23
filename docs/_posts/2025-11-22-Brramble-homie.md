@@ -7,3 +7,5 @@ image: assets/Brramble_homie_20251122_050646_809_20251122_111020_76458f--2025112
 # [Brramble/homie](https://github.com/Brramble/homie/)
 
 Manages chores and bills
+
+管理家务和账单

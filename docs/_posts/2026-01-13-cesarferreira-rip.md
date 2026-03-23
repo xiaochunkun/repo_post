@@ -7,3 +7,5 @@ image: assets/cesarferreira_rip_20260113_024337_208_20260113_024350_b2e1d0.png
 # [cesarferreira/rip](https://github.com/cesarferreira/rip)
 
 Fuzzy finder to kill processes from the terminal
+
+从终端模糊查找并终止进程

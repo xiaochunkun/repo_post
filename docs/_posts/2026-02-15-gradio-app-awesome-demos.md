@@ -7,3 +7,5 @@ image: assets/gradio_app_awesome_demos_20260205_143219_242_20260205_143238_b9f87
 # [gradio-app/awesome-demos](https://github.com/gradio-app/awesome-demos)
 
 Demos for machine learning applications
+
+机器学习应用演示

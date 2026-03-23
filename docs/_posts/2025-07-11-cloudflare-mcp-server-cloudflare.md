@@ -7,3 +7,5 @@ image: assets/cloudflare_mcp-server-cloudflare_cropped.png
 # [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)
 
 lets ai agents manage cloudflare stuff with mcp servers
+
+让AI代理通过MCP服务器管理Cloudflare事务

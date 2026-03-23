@@ -7,3 +7,5 @@ image: assets/FreeTubeApp_FreeTube_cropped.png
 # [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
 Open source YouTube client focused on privacy
+
+注重隐私的开源YouTube客户端

@@ -7,3 +7,5 @@ image: assets/akuse_app_akuse_20260112_000008_224_20260112_000021_c114bf.png
 # [akuse-app/akuse](https://github.com/akuse-app/akuse)
 
 Anime streaming desktop app without ads
+
+无广告的动漫流媒体桌面应用

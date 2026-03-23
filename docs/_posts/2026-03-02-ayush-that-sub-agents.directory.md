@@ -7,3 +7,5 @@ image: assets/ayush_that_sub_agents_directory_20260213_201116_334_20260213_20115
 # [ayush-that/sub-agents.directory](https://github.com/ayush-that/sub-agents.directory)
 
 Directory of prompts and MCP servers for Claude Code
+
+Claude Code 的提示和 MCP 服务器目录

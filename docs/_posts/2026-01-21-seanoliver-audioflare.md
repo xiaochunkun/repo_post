@@ -7,3 +7,5 @@ image: assets/seanoliver_audioflare_20260120_082245_958_20260120_082335_9ef24f.p
 # [seanoliver/audioflare](https://github.com/seanoliver/audioflare)
 
 Transcribes and summarizes audio with Cloudflare AI Workers
+
+使用 Cloudflare AI Workers 转录和总结音频

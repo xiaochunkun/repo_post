@@ -7,3 +7,5 @@ image: assets/ssp_data_practical_data_engineering_20251229_031358_592_20251229_0
 # [ssp-data/practical-data-engineering](https://github.com/ssp-data/practical-data-engineering/)
 
 Data engineering pipeline for real estate data on Kubernetes
+
+Kubernetes上的房地产数据工程管道

@@ -7,3 +7,5 @@ image: assets/1sadjlk_bounty_hunter_skill_20260308_210125_139_20260308_210304_ca
 # [1sadjlk/bounty-hunter-skill](https://github.com/1sadjlk/bounty-hunter-skill)
 
 Agent skill for finding and executing tasks on bounty platforms
+
+在赏金平台上查找和执行任务的代理技能

@@ -7,3 +7,5 @@ image: assets/lemonade_sdk_lemonade_arcade_20251217_082601_609_20251217_082625_3
 # [lemonade-sdk/lemonade-arcade](https://github.com/lemonade-sdk/lemonade-arcade/)
 
 Generates playable retro-style games with LLMs
+
+利用 LLM 生成可玩的复古风格游戏

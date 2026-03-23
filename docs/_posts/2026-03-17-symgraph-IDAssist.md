@@ -7,3 +7,5 @@ image: assets/symgraph_IDAssist_20260316_101554_279_20260316_101650_ba4bb3.png
 # [symgraph/IDAssist](https://github.com/symgraph/IDAssist)
 
 IDA Pro plugin for LLM-powered reverse engineering
+
+IDA Pro 插件，用于 LLM 驱动的逆向工程

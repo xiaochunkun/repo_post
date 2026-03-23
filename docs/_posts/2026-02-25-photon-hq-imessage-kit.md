@@ -7,3 +7,5 @@ image: assets/photon_hq_imessage_kit_20260213_053044_402_20260213_053144_26940f.
 # [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit)
 
 SDK for automating iMessage on macOS
+
+macOS 上自动化 iMessage 的 SDK

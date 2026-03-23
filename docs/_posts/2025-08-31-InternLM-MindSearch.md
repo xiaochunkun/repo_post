@@ -7,3 +7,5 @@ image: assets/20250830T174119238--InternLM--MindSearch--20250830T174455018--crop
 # [InternLM/MindSearch](https://github.com/InternLM/MindSearch)
 
 multi-agent AI search engine mimicking human info seeking
+
+多智能体 AI 搜索引擎，模拟人类信息检索过程

@@ -7,3 +7,5 @@ image: assets/Brktrlw_django_admin_collaborator_20251130_054506_932_20251130_084
 # [Brktrlw/django-admin-collaborator](https://github.com/Brktrlw/django-admin-collaborator/)
 
 Real-time collaborative editing for Django admin
+
+Django 管理界面的实时协作编辑

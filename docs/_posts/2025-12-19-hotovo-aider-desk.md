@@ -7,3 +7,5 @@ image: assets/hotovo_aider_desk_20251217_225642_072_20251217_225659_f80547.png
 # [hotovo/aider-desk](https://github.com/hotovo/aider-desk/)
 
 Desktop interface for AI coding assistant
+
+AI 编码助手的桌面界面

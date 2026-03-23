@@ -7,3 +7,5 @@ image: assets/vadimen_awesome_llm_api_with_web_search_20260212_153550_068_202602
 # [vadimen/awesome_llm_api_with_web_search](https://github.com/vadimen/awesome_llm_api_with_web_search)
 
 List of LLM APIs with web search capabilities and pricing
+
+具备网络搜索功能和定价的LLM API列表

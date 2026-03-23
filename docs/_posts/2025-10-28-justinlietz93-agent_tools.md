@@ -7,3 +7,5 @@ image: assets/justinlietz93_agent_tools_20251027_175541_200_20251028_084943_e0ac
 # [justinlietz93/agent_tools](https://github.com/justinlietz93/agent_tools/)
 
 Framework for building AI agent tools for Deepseek Reasoner
+
+为 Deepseek Reasoner 构建 AI 代理工具的框架

@@ -7,3 +7,5 @@ image: assets/HichemTab_tech_react_shared_states_20251205_011325_838_20251205_01
 # [HichemTab-tech/react-shared-states](https://github.com/HichemTab-tech/react-shared-states/)
 
 Global state management with zero configuration
+
+零配置的全局状态管理

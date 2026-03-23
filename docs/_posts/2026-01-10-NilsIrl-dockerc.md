@@ -7,3 +7,5 @@ image: assets/NilsIrl_dockerc_20260108_024916_864_20260108_024930_87b563.png
 # [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)
 
 Compiles docker images into binaries
+
+将Docker镜像编译为二进制文件

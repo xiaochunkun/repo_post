@@ -7,3 +7,5 @@ image: assets/edk2_porting_edk2_msm_20260206_170112_681_20260206_170139_6b6ceb.p
 # [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm)
 
 UEFI firmware for Snapdragon platforms
+
+Snapdragon 平台的 UEFI 固件

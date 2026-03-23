@@ -7,3 +7,5 @@ image: assets/20250923T024201977--alan2207--bulletproof-react--20250923T02481862
 # [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
 
 project structure and best practices for scalable React apps
+
+可扩展 React 应用的项目结构和最佳实践

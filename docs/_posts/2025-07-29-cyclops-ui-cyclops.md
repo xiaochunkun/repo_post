@@ -7,3 +7,5 @@ image: assets/cyclops-ui_cyclops_cropped.png
 # [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops)
 
 no-code Kubernetes dashboard for app deployment
+
+用于应用部署的无代码 Kubernetes 仪表板

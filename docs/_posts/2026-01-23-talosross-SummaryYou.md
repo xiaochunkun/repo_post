@@ -7,3 +7,5 @@ image: assets/talosross_SummaryYou_20260122_055406_495_20260122_055433_0562d6.pn
 # [talosross/SummaryYou](https://github.com/talosross/SummaryYou)
 
 Summarizes videos and documents with AI
+
+使用AI总结视频和文档

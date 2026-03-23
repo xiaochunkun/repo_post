@@ -7,3 +7,5 @@ image: assets/michaldrabik_showly_20251103_215736_280_20251103_220533_4f6af9--20
 # [michaldrabik/showly](https://github.com/michaldrabik/showly/)
 
 TV show and movie tracking app with an open-source, Google-free Android version
+
+开源无谷歌的Android影视追踪应用

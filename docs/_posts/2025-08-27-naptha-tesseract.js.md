@@ -7,3 +7,5 @@ image: assets/20250826T024407707--naptha--tesseract.js--20250826T024723072--crop
 # [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
 
 javascript OCR library for extracting text from images
+
+JavaScript OCR 库，从图像中提取文字

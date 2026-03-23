@@ -7,3 +7,5 @@ image: assets/mizchi_similarity_cropped.png
 # [mizchi/similarity](https://github.com/mizchi/similarity)
 
 finds similar code and patterns across files
+
+跨文件查找相似代码和模式

@@ -7,3 +7,5 @@ image: assets/loctvl842_monokai_pro_nvim_20251209_024644_461_20251209_024711_261
 # [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim/)
 
 Neovim theme written in Lua
+
+用 Lua 编写的 Neovim 主题

@@ -7,3 +7,5 @@ image: assets/awslabs_eks_node_viewer_20251125_032015_206_20251127_164155_879aa5
 # [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer/)
 
 Visualizes node usage within clusters
+
+可视化集群内的节点使用情况

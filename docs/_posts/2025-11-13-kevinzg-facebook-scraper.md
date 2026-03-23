@@ -7,3 +7,5 @@ image: assets/kevinzg_facebook_scraper_20251112_031641_533_20251112_033518_1e684
 # [kevinzg/facebook-scraper](https://github.com/kevinzg/facebook-scraper/)
 
 Scrape Facebook public pages without an API key
+
+无需 API 密钥抓取 Facebook 公共页面

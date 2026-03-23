@@ -7,3 +7,5 @@ image: assets/explosion_spacy_llm_20251030_013650_714_20251030_163223_40b67b--20
 # [explosion/spacy-llm](https://github.com/explosion/spacy-llm/)
 
 Integrates large language models into a spaCy pipeline
+
+将大语言模型集成到 spaCy 管道中

@@ -7,3 +7,5 @@ image: assets/YougLin_dev_electron_async_storage_20251121_140259_108_20251122_05
 # [YougLin-dev/electron-async-storage](https://github.com/YougLin-dev/electron-async-storage/)
 
 Type-safe asynchronous storage for Electron
+
+Electron 的类型安全异步存储

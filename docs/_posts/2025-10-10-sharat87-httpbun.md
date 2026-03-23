@@ -7,3 +7,5 @@ image: assets/20251010T131419540--sharat87--httpbun--20251010T131545069--cropped
 # [sharat87/httpbun](https://github.com/sharat87/httpbun)
 
 HTTP endpoints for testing clients and APIs
+
+用于测试客户端和 API 的 HTTP 端点

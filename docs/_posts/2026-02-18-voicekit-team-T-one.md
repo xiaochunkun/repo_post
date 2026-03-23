@@ -7,3 +7,5 @@ image: assets/voicekit_team_T_one_20260209_004005_415_20260209_004140_39067d.png
 # [voicekit-team/T-one](https://github.com/voicekit-team/T-one)
 
 Streams Russian speech recognition for telephony
+
+流式俄语语音识别用于电话系统

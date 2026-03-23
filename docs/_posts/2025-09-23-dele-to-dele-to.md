@@ -7,3 +7,5 @@ image: assets/20250923T020609405--dele-to--dele-to--20250923T021911289--cropped.
 # [dele-to/dele-to](https://github.com/dele-to/dele-to)
 
 secure credential sharing with client-side encryption and auto self-destruction
+
+客户端加密和自动自毁的安全凭据共享

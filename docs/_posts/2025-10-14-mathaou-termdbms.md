@@ -7,3 +7,5 @@ image: assets/20251014T013209048--mathaou--termdbms--20251014T014151925--cropped
 # [mathaou/termdbms](https://github.com/mathaou/termdbms)
 
 terminal UI for browsing and editing SQLite and CSV databases
+
+用于浏览和编辑 SQLite 与 CSV 数据库的终端 UI

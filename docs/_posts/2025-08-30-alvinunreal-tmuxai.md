@@ -7,3 +7,5 @@ image: assets/20250830T034851203--alvinunreal--tmuxai--20250830T035033032--cropp
 # [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai)
 
 AI assistant for tmux that helps in your terminal sessions
+
+在 tmux 终端会话中使用 AI 助手

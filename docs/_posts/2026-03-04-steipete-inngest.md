@@ -7,3 +7,5 @@ image: assets/steipete_inngest_20260301_201237_438_20260301_201411_beea70.png
 # [steipete/inngest](https://github.com/steipete/inngest)
 
 CLI to query and manage background jobs
+
+查询和管理后台作业的CLI

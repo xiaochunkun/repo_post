@@ -7,3 +7,5 @@ image: assets/bluzi_jsonstore_20260116_113924_965_20260116_113941_14f74a.png
 # [bluzi/jsonstore](https://github.com/bluzi/jsonstore)
 
 Cloud datastore for small projects
+
+小型项目的云数据存储

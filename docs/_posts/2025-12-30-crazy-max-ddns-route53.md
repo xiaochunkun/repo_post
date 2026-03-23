@@ -7,3 +7,5 @@ image: assets/crazy_max_ddns_route53_20251228_084617_262_20251228_084634_576385.
 # [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53/)
 
 Dynamic DNS for Amazon Route 53
+
+Amazon Route 53 的动态 DNS

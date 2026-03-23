@@ -7,3 +7,5 @@ image: assets/microsoft_ai-agents-for-beginners_cropped.png
 # [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
 Building AI agents with Microsoft tools
+
+使用Microsoft工具构建AI代理

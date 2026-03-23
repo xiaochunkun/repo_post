@@ -7,3 +7,5 @@ image: assets/ludoguenet_laravel_zap_20251125_024845_310_20251127_163122_481eb2-
 # [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap/)
 
 Calendar and scheduling system for Laravel
+
+Laravel 的日历和调度系统

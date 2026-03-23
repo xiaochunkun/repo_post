@@ -7,3 +7,5 @@ image: assets/olivierkes_manuskript_20260117_055606_662_20260117_055620_bc6e4b.p
 # [olivierkes/manuskript](https://github.com/olivierkes/manuskript)
 
 Tool for writers to organize plots and characters
+
+作家组织情节和角色的工具

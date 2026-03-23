@@ -7,3 +7,5 @@ image: assets/s1ntoneli_AppUpdater_20251209_015636_768_20251209_015717_b4047f.pn
 # [s1ntoneli/AppUpdater](https://github.com/s1ntoneli/AppUpdater/)
 
 Updates macOS apps via GitHub releases
+
+通过 GitHub releases 更新 macOS 应用

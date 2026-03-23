@@ -7,3 +7,5 @@ image: assets/facebookresearch_omnilingual_asr_20260215_050849_687_20260215_0509
 # [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)
 
 Speech recognition for 1600 languages
+
+支持1600种语言的语音识别

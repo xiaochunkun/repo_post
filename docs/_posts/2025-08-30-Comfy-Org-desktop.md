@@ -7,3 +7,5 @@ image: assets/20250822T015828562--Comfy-Org--desktop--20250830T041122001--croppe
 # [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop)
 
 ComfyUI desktop app for easy local AI workflows on Windows and Mac
+
+ComfyUI 桌面应用，Windows 和 Mac 上轻松运行本地 AI 工作流

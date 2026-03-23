@@ -7,3 +7,5 @@ image: assets/InterceptSuite_InterceptSuite_20260122_004148_320_20260122_004204_
 # [InterceptSuite/InterceptSuite](https://github.com/InterceptSuite/InterceptSuite)
 
 Intercepts traffic for IoT devices and thick clients
+
+拦截IoT设备和厚客户端的流量

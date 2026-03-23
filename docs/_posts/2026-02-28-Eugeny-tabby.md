@@ -7,3 +7,5 @@ image: assets/Eugeny_tabby_20260227_095131_011_20260227_095332_ed9fa9.png
 # [Eugeny/tabby](https://github.com/Eugeny/tabby)
 
 Terminal for SSH, Telnet, and serial connections
+
+支持SSH、Telnet和串行连接的终端

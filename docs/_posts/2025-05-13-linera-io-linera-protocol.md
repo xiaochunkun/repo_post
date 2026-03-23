@@ -7,3 +7,5 @@ image: assets/linera-io_linera-protocol_cropped.png
 # [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
 
 Blockchain protocol for scalable Web3 apps
+
+用于可扩展Web3应用的区块链协议

@@ -7,3 +7,5 @@ image: assets/DouweM_pixbyt_20251210_050111_906_20251210_050134_22e1a7.png
 # [DouweM/pixbyt](https://github.com/DouweM/pixbyt/)
 
 Run Python scripts on Tidbyt
+
+在 Tidbyt 上运行 Python 脚本

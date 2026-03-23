@@ -7,3 +7,5 @@ image: assets/CaviraOSS_OpenMemory_20260121_232004_286_20260121_232035_8e3fc3.pn
 # [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
 
 Cognitive memory engine for agents
+
+用于agent的认知记忆引擎

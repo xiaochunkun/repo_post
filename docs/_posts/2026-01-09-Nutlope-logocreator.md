@@ -7,3 +7,5 @@ image: assets/Nutlope_logocreator_20260108_015755_189_20260108_015808_122aa2.png
 # [Nutlope/logocreator](https://github.com/Nutlope/logocreator)
 
 Generates logos using Flux on Together AI
+
+使用Together AI上的Flux生成徽标

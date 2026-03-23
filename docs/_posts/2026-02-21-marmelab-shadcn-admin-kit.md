@@ -7,3 +7,5 @@ image: assets/marmelab_shadcn_admin_kit_20260220_151823_924_20260220_151843_485c
 # [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit)
 
 Admin kit for shadcn/ui
+
+shadcn/ui 的管理套件

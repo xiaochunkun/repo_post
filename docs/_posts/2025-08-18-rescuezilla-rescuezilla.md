@@ -7,3 +7,5 @@ image: assets/rescuezilla_rescuezilla--20250817T071341638--cropped.png
 # [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla)
 
 disk cloning and backup tool with Clonezilla compatibility
+
+磁盘克隆和备份工具，兼容 Clonezilla

@@ -7,3 +7,5 @@ image: assets/deepsense-ai_ragbits_cropped.png
 # [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits)
 
 rag app building blocks for GenAI projects
+
+GenAI项目的RAG应用构建模块

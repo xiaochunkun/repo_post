@@ -7,3 +7,5 @@ image: assets/GUI_for_Cores_GUI_for_Clash_20251123_180555_960_20251124_095736_b9
 # [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash/)
 
 Clash GUI built with Vue3 and Wails
+
+基于 Vue3 和 Wails 构建的 Clash GUI

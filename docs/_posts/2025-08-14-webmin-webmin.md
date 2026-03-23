@@ -7,3 +7,5 @@ image: assets/webmin_webmin--20250814T040209004--cropped.png
 # [webmin/webmin](https://github.com/webmin/webmin)
 
 web-based server admin tool for Unix systems
+
+用于Unix系统的基于Web的服务器管理工具

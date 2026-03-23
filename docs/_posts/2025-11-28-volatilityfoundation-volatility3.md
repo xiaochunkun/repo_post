@@ -7,3 +7,5 @@ image: assets/volatilityfoundation_volatility3_20251125_042105_290_20251127_1653
 # [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3/)
 
 Extracts digital artifacts from volatile memory
+
+从易失性内存中提取数字证据的工具

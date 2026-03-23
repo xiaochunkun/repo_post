@@ -7,3 +7,5 @@ image: assets/authelia_authelia_20260206_143014_418_20260206_143116_de2680.png
 # [authelia/authelia](https://github.com/authelia/authelia)
 
 Authentication server for single sign-on and two-factor authentication
+
+单点登录和双因素认证的认证服务器

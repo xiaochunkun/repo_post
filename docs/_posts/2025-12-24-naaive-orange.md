@@ -7,3 +7,5 @@ image: assets/naaive_orange_20251222_212727_069_20251222_212746_162006.png
 # [naaive/orange](https://github.com/naaive/orange/)
 
 Cross-platform file search engine for local files
+
+本地文件的跨平台文件搜索引擎

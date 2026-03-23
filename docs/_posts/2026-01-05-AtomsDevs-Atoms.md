@@ -7,3 +7,5 @@ image: assets/AtomsDevs_Atoms_20260104_085603_034_20260104_085626_4c5c3c.png
 # [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms/)
 
 GUI for managing Linux chroots
+
+管理 Linux chroot 的 GUI

@@ -7,3 +7,5 @@ image: assets/007revad_Synology_HDD_db_20251029_174845_570_20251029_181458_089ba
 # [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db/)
 
 Adds any drive to a Synology NAS compatible drive database
+
+将任何驱动器添加到 Synology NAS 兼容驱动器数据库

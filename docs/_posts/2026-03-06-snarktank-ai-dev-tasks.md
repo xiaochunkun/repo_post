@@ -7,3 +7,5 @@ image: assets/snarktank_ai_dev_tasks_20260306_043049_204_20260306_043205_47a832.
 # [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks)
 
 Manage AI agents via markdown files
+
+通过 markdown 文件管理 AI 智能体

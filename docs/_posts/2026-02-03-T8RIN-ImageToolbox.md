@@ -7,3 +7,5 @@ image: assets/T8RIN_ImageToolbox_20260202_222805_641_20260202_222856_12db34.png
 # [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 
 Image editor with background removal and OCR
+
+图像编辑器，支持背景移除和 OCR

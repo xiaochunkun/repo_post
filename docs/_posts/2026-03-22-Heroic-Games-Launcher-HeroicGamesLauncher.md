@@ -7,3 +7,5 @@ image: assets/Heroic_Games_Launcher_HeroicGamesLauncher_20260321_134127_526_2026
 # [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 
 Open source game launcher for Epic, GOG, and Amazon
+
+Epic、GOG和Amazon的开源游戏启动器

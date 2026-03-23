@@ -7,3 +7,5 @@ image: assets/89luca89_distrobox_20260203_074317_305_20260203_074344_91b8f4.png
 # [89luca89/distrobox](https://github.com/89luca89/distrobox)
 
 Runs Linux distributions inside the terminal
+
+在终端内运行 Linux 发行版

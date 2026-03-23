@@ -7,3 +7,5 @@ image: assets/rommapp_romm_cropped.png
 # [rommapp/romm](https://github.com/rommapp/romm)
 
 Self-hosted ROM manager for game collections
+
+用于游戏收藏的自托管ROM管理器

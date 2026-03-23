@@ -7,3 +7,5 @@ image: assets/archisvaze_liquid_glass_20251213_045531_770_20251213_045556_d1a154
 # [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass/)
 
 Interactive iOS-style liquid glass effect for the web
+
+Web 上的交互式 iOS 风格液态玻璃效果

@@ -7,3 +7,5 @@ image: assets/AKS_Labs_Tulsi_20260122_224816_407_20260122_224833_f7c38f.png
 # [AKS-Labs/Tulsi](https://github.com/AKS-Labs/Tulsi)
 
 Gallery with offline OCR and text selection
+
+带离线OCR和文本选择的图库

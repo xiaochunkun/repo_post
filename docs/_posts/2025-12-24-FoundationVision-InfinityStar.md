@@ -7,3 +7,5 @@ image: assets/FoundationVision_InfinityStar_20251223_030138_141_20251223_030201_
 # [FoundationVision/InfinityStar](https://github.com/FoundationVision/InfinityStar/)
 
 Generates videos through spacetime autoregressive modeling
+
+通过时空自回归建模生成视频

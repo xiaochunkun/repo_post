@@ -7,3 +7,5 @@ image: assets/lmarzen_esp32_weather_epd_20260204_141500_798_20260204_141526_7ca6
 # [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd)
 
 Weather display with ESP32 and E-Paper screen
+
+使用ESP32和电子纸屏幕显示天气

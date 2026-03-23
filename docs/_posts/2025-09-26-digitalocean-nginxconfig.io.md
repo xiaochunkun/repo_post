@@ -7,3 +7,5 @@ image: assets/20250926T004339772--digitalocean--nginxconfig.io--20250926T0050266
 # [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)
 
 NGINX config generator for quick, custom server setups
+
+用于快速、自定义服务器设置的NGINX配置生成器

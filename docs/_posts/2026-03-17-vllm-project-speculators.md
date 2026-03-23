@@ -7,3 +7,5 @@ image: assets/vllm_project_speculators_20260303_193706_265_20260303_193902_c6c23
 # [vllm-project/speculators](https://github.com/vllm-project/speculators)
 
 Speeds up LLM inference with speculative decoding
+
+通过推测解码加速LLM推理

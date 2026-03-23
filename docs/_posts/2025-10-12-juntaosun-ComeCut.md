@@ -7,3 +7,5 @@ image: assets/20251012T023108797--juntaosun--ComeCut--20251012T023617833--croppe
 # [juntaosun/ComeCut](https://github.com/juntaosun/ComeCut)
 
 open source video editor for web and desktop with AI subtitle translation
+
+支持 AI 字幕翻译的网页和桌面开源视频编辑器

@@ -7,3 +7,5 @@ image: assets/ManimCommunity_manim_20260309_103925_265_20260309_104108_650d16.pn
 # [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 
 Animation engine for math videos
+
+用于数学视频的动画引擎

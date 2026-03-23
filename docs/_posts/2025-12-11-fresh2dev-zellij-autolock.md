@@ -7,3 +7,5 @@ image: assets/fresh2dev_zellij_autolock_20251209_003800_810_20251209_003921_e5a0
 # [fresh2dev/zellij-autolock](https://github.com/fresh2dev/zellij-autolock/)
 
 Switches Zellij modes based on running commands
+
+基于运行命令切换Zellij模式

@@ -7,3 +7,5 @@ image: assets/gskinnerTeam_flutter_wonderous_app_20260119_222726_989_20260119_22
 # [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app)
 
 Showcase app for the Flutter SDK
+
+Flutter SDK 的展示应用

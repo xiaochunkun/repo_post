@@ -7,3 +7,5 @@ image: assets/Alex313031_Thorium_Raspi_20260106_072411_407_20260106_072434_24f3d
 # [Alex313031/Thorium-Raspi](https://github.com/Alex313031/Thorium-Raspi/)
 
 Browser builds for Raspberry Pi
+
+为 Raspberry Pi 构建的浏览器

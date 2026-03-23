@@ -7,3 +7,5 @@ image: assets/ksnip_ksnip_20260301_200754_297_20260301_200947_c567a8.png
 # [ksnip/ksnip](https://github.com/ksnip/ksnip)
 
 Screenshot tool with annotation features
+
+带注释功能的截图工具

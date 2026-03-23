@@ -7,3 +7,5 @@ image: assets/hywax_mafl_cropped.png
 # [hywax/mafl](https://github.com/hywax/mafl)
 
 minimal homepage for organizing and customizing your start page
+
+用于组织和自定义起始页的极简主页

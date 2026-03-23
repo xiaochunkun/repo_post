@@ -7,3 +7,5 @@ image: assets/wppconnect_team_wppconnect_server_20260122_022840_051_20260122_022
 # [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server)
 
 API for WhatsApp communication via JavaScript
+
+通过JavaScript进行WhatsApp通信的API

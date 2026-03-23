@@ -7,3 +7,5 @@ image: assets/20251007T030924701--budgetbee--budgetbee--20251007T032228449--crop
 # [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee)
 
 personal finance management system with budgeting, categories, and multi-user support
+
+个人财务管理系统，支持预算、分类和多用户

@@ -7,3 +7,5 @@ image: assets/Relaticle_relaticle_20260122_011004_832_20260122_011030_903865.png
 # [Relaticle/relaticle](https://github.com/Relaticle/relaticle)
 
 CRM platform with Laravel and Filament
+
+基于 Laravel 和 Filament 的 CRM 平台

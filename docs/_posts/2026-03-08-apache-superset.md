@@ -7,3 +7,5 @@ image: assets/apache_superset_20260227_133657_221_20260227_133844_0ef088.png
 # [apache/superset](https://github.com/apache/superset)
 
 Data visualization and exploration platform for databases
+
+数据库数据可视化和探索平台

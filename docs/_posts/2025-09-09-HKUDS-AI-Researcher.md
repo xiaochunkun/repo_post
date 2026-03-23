@@ -7,3 +7,5 @@ image: assets/20250908T191427683--HKUDS--AI-Researcher--20250908T191950641--crop
 # [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
 
 AI-powered tool for automating scientific research and paper writing
+
+AI 驱动的科研自动化和论文写作工具

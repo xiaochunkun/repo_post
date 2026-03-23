@@ -7,3 +7,5 @@ image: assets/roryclear_clearcam_20260122_031101_706_20260122_031129_c6f669.png
 # [roryclear/clearcam](https://github.com/roryclear/clearcam)
 
 Converts RTSP cameras or phones into AI security systems
+
+将RTSP摄像头或手机转换为AI安防系统

@@ -7,3 +7,5 @@ image: assets/aarab_abderrahmane_messager_20260311_051628_159_20260311_051803_a4
 # [aarab-abderrahmane/messager](https://github.com/aarab-abderrahmane/messager)
 
 Real-time messaging over local network without internet.
+
+无需互联网的本地网络实时消息传递

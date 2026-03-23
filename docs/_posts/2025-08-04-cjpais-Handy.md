@@ -7,3 +7,5 @@ image: assets/cjpais_Handy_cropped.png
 # [cjpais/Handy](https://github.com/cjpais/Handy)
 
 offline speech-to-text app for desktop
+
+桌面离线语音转文本应用

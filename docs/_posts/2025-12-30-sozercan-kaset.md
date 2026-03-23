@@ -7,3 +7,5 @@ image: assets/sozercan_kaset_20251229_042435_732_20251229_042454_e76485.png
 # [sozercan/kaset](https://github.com/sozercan/kaset/)
 
 YouTube Music client for macOS
+
+macOS的YouTube Music客户端

@@ -7,3 +7,5 @@ image: assets/20250823T012512361--apple--ml-mobileclip--20250823T013152291--crop
 # [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip)
 
 MobileCLIP brings fast image-text AI models to mobile devices
+
+MobileCLIP 为移动设备带来快速的图文 AI 模型

@@ -7,3 +7,5 @@ image: assets/vkohaupt_vokoscreenNG_20251029_013447_644_20251029_025633_095e4b--
 # [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG/)
 
 Screencast creator for Windows and Linux
+
+适用于 Windows 和 Linux 的屏幕录制工具

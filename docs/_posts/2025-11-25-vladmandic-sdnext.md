@@ -7,3 +7,5 @@ image: assets/vladmandic_sdnext_20251123_193454_338_20251125_012157_f874e9--2025
 # [vladmandic/sdnext](https://github.com/vladmandic/sdnext/)
 
 Web interface for creating AI images and videos
+
+创建 AI 图像和视频的网页界面

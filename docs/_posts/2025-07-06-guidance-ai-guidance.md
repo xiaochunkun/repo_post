@@ -7,3 +7,5 @@ image: assets/guidance-ai_guidance_cropped.png
 # [guidance-ai/guidance](https://github.com/guidance-ai/guidance)
 
 Guidance for Large Language Models
+
+大型语言模型的指导

@@ -7,3 +7,5 @@ image: assets/tonybaloney_vscode_pets_20251023_212038_815_20251023_212227_f18dd7
 # [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets/)
 
 Pets inside your code editor
+
+代码编辑器内的宠物

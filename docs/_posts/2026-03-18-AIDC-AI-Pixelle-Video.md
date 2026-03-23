@@ -7,3 +7,5 @@ image: assets/AIDC_AI_Pixelle_Video_20260317_180816_316_20260317_180930_9e8469.p
 # [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
 
 Generates videos from single topic input
+
+从单一主题输入生成视频

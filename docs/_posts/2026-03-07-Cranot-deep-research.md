@@ -7,3 +7,5 @@ image: assets/Cranot_deep_research_20260306_192026_119_20260306_192143_f8916d.pn
 # [Cranot/deep-research](https://github.com/Cranot/deep-research)
 
 Explore questions via recursive agents
+
+通过递归智能体探索问题

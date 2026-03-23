@@ -7,3 +7,5 @@ image: assets/hesreallyhim_awesome_claude_code_20260122_101703_028_20260122_1017
 # [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
 Resources for the Claude Code CLI
+
+Claude Code CLI的资源

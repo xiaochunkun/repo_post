@@ -7,3 +7,5 @@ image: assets/0xrajneesh_Checkpoint_Firewall_Home_Lab_20260102_174944_383_202601
 # [0xrajneesh/Checkpoint-Firewall-Home-Lab](https://github.com/0xrajneesh/Checkpoint-Firewall-Home-Lab/)
 
 Lab for firewall configuration and network attack defense
+
+防火墙配置和网络攻击防御的实验室

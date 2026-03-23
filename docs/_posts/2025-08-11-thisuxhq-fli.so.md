@@ -7,3 +7,5 @@ image: assets/thisuxhq_fli.so_cropped.png
 # [thisuxhq/fli.so](https://github.com/thisuxhq/fli.so)
 
 Fast link shortener using SvelteKit and PocketBase
+
+使用SvelteKit和PocketBase的快速链接缩短器

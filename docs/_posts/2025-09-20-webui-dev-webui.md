@@ -7,3 +7,5 @@ image: assets/20250917T003040828--webui-dev--webui--20250920T042751968--cropped.
 # [webui-dev/webui](https://github.com/webui-dev/webui)
 
 use any web browser as a GUI for your app backend with a lightweight C library
+
+使用轻量级 C 库将任何网页浏览器作为应用后端的 GUI

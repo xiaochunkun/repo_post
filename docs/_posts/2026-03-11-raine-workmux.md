@@ -7,3 +7,5 @@ image: assets/raine_workmux_20260304_222920_729_20260304_223122_5e2bb1.png
 # [raine/workmux](https://github.com/raine/workmux)
 
 Tool for managing git worktrees and tmux windows for development environments
+
+管理开发环境中 git worktrees 和 tmux 窗口的工具

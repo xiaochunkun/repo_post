@@ -7,3 +7,5 @@ image: assets/xataio_pgroll--20250815T022344141--cropped.png
 # [xataio/pgroll](https://github.com/xataio/pgroll)
 
 pgroll lets you update your Postgres schema with zero downtime, so your apps keep running while you make changes
+
+pgroll允许零停机更新Postgres模式，应用在更改时持续运行

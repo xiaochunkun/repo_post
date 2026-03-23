@@ -7,3 +7,5 @@ image: assets/Mirix_AI_MIRIX_20251216_080948_690_20251216_081038_dc5512.png
 # [Mirix-AI/MIRIX](https://github.com/Mirix-AI/MIRIX/)
 
 Multi-agent personal assistant with screen observation memory
+
+具有屏幕观察记忆的多Agent个人助手

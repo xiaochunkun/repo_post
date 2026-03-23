@@ -7,3 +7,5 @@ image: assets/20250925T045331025--ciur--papermerge--20250925T045849802--cropped.
 # [ciur/papermerge](https://github.com/ciur/papermerge)
 
 manage scanned documents with OCR and full text search
+
+通过OCR和全文搜索管理扫描文档

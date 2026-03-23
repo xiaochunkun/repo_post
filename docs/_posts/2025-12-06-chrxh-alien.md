@@ -7,3 +7,5 @@ image: assets/chrxh_alien_20251203_011327_567_20251203_011514_55653b.png
 # [chrxh/alien](https://github.com/chrxh/alien/)
 
 CUDA artificial life simulation engine
+
+CUDA人工生命模拟引擎

@@ -7,3 +7,5 @@ image: assets/Hamed233_Cybersecurity_Mastery_Roadmap_20251111_034240_065_2025111
 # [Hamed233/Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap/)
 
 Roadmap for mastering cybersecurity
+
+掌握网络安全的路线图

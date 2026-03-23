@@ -7,3 +7,5 @@ image: assets/Hack_with_Github_Awesome_Hacking_20260111_183724_180_20260111_1837
 # [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 Lists of resources for security researchers
+
+安全研究人员的资源列表

@@ -7,3 +7,5 @@ image: assets/ElementZoom_Material_Design_3_Dynamic_Mobile_Dashboard_20260306_04
 # [ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard)
 
 Control home automation via Material Design dashboards
+
+通过Material Design仪表板控制家庭自动化

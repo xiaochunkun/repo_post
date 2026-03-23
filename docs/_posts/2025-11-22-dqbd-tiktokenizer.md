@@ -7,3 +7,5 @@ image: assets/dqbd_tiktokenizer_20251122_081237_850_20251122_111406_b81a84--2025
 # [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer/)
 
 Playground for OpenAI tiktoken
+
+OpenAI tiktoken 的游乐场

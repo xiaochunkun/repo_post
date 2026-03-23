@@ -7,3 +7,5 @@ image: assets/readur_readur_20260129_063950_187_20260129_064033_53daa0.png
 # [readur/readur](https://github.com/readur/readur)
 
 OCR platform for document management
+
+用于文档管理的 OCR 平台

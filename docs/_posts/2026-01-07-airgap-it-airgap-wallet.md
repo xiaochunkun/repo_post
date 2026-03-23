@@ -7,3 +7,5 @@ image: assets/airgap_it_airgap_wallet_20260106_151226_754_20260106_151247_0a7cb2
 # [airgap-it/airgap-wallet](https://github.com/airgap-it/airgap-wallet/)
 
 Stores private keys on offline devices
+
+在离线设备上存储私钥

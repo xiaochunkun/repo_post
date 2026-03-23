@@ -7,3 +7,5 @@ image: assets/chatclimate_ai_ParseStudio_20260126_184017_360_20260126_184051_a3f
 # [chatclimate-ai/ParseStudio](https://github.com/chatclimate-ai/ParseStudio)
 
 Extracts content from PDF files using multiple backends
+
+使用多个后端从 PDF 文件中提取内容

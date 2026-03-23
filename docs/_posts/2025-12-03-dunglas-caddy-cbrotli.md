@@ -7,3 +7,5 @@ image: assets/dunglas_caddy_cbrotli_20251201_064927_629_20251201_065024_94bb9b.p
 # [dunglas/caddy-cbrotli](https://github.com/dunglas/caddy-cbrotli/)
 
 Brotli compression support for Caddy
+
+Caddy 的 Brotli 压缩支持

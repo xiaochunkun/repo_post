@@ -7,3 +7,5 @@ image: assets/bytefer_awesome_shadcn_ui_20260204_160612_885_20260204_160627_48d9
 # [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui)
 
 Collection of resources for shadcn/ui
+
+shadcn/ui的资源集合

@@ -7,3 +7,5 @@ image: assets/tuanngocptn_nport_20260114_055000_674_20260114_055015_fcfa54.png
 # [tuanngocptn/nport](https://github.com/tuanngocptn/nport)
 
 Exposes local ports to public URLs through Cloudflare Edge
+
+通过 Cloudflare Edge 将本地端口暴露到公共 URL

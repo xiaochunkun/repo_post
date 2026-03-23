@@ -7,3 +7,5 @@ image: assets/0xSojalSec_LLMs_local_20260113_105442_944_20260113_105456_aebfb5.p
 # [0xSojalSec/LLMs-local](https://github.com/0xSojalSec/LLMs-local)
 
 Resources for running LLMs on local hardware
+
+在本地硬件上运行 LLM 的资源

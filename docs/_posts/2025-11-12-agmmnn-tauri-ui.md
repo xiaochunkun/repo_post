@@ -7,3 +7,5 @@ image: assets/agmmnn_tauri_ui_20251111_155517_437_20251112_020712_9b3e6f--202511
 # [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui/)
 
 UI components for Tauri desktop apps
+
+用于Tauri桌面应用的UI组件

@@ -7,3 +7,5 @@ image: assets/vinta_awesome-python_cropped.png
 # [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
 Huge list of Python libraries, frameworks, and tools
+
+庞大的Python库、框架和工具列表

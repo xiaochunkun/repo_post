@@ -7,3 +7,5 @@ image: assets/moonshine_software_moonshine_20251127_184335_328_20251130_052229_7
 # [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine/)
 
 Admin panel for Laravel framework
+
+Laravel 框架的管理面板

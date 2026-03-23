@@ -7,3 +7,5 @@ image: assets/EasyJailbreak_EasyJailbreak_20251218_094052_306_20251218_094108_87
 # [EasyJailbreak/EasyJailbreak](https://github.com/EasyJailbreak/EasyJailbreak/)
 
 Framework for generation of adversarial jailbreak prompts
+
+生成对抗性越狱提示的框架

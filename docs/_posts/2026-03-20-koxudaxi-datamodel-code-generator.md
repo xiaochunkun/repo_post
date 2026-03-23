@@ -7,3 +7,5 @@ image: assets/koxudaxi_datamodel_code_generator_20260318_172220_156_20260318_172
 # [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator)
 
 Generates Python models from schemas
+
+从模式生成 Python 模型

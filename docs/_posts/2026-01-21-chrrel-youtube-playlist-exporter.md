@@ -7,3 +7,5 @@ image: assets/chrrel_youtube_playlist_exporter_20260120_073042_240_20260120_0730
 # [chrrel/youtube-playlist-exporter](https://github.com/chrrel/youtube-playlist-exporter)
 
 Exports YouTube playlists to HTML and JSON files
+
+将 YouTube 播放列表导出为 HTML 和 JSON 文件

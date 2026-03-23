@@ -7,3 +7,5 @@ image: assets/dend_awesome_product_management_20260116_171703_660_20260116_17172
 # [dend/awesome-product-management](https://github.com/dend/awesome-product-management)
 
 Resources for product managers
+
+产品经理资源集合

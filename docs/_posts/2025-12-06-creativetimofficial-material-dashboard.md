@@ -7,3 +7,5 @@ image: assets/creativetimofficial_material_dashboard_20251203_013152_001_2025120
 # [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard/)
 
 Component library built on shadcn/ui
+
+基于shadcn/ui构建的组件库

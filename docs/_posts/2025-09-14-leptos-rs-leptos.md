@@ -7,3 +7,5 @@ image: assets/20250914T190650419--leptos-rs--leptos--20250914T191137751--cropped
 # [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
 
 build web apps in Rust with reactive UI and server functions
+
+用 Rust 构建响应式 UI 和服务器函数的 Web 应用

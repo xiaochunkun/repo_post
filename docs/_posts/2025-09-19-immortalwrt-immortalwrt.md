@@ -7,3 +7,5 @@ image: assets/20250919T022025559--immortalwrt--immortalwrt--20250919T022831995--
 # [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt)
 
 OpenWrt fork with more device support and features for routers
+
+OpenWrt分支，提供更多设备支持和路由器功能

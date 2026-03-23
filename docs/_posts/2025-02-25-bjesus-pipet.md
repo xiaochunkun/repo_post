@@ -7,3 +7,5 @@ image: assets/bjesus_pipet_cropped.png
 # [bjesus/pipet](https://github.com/bjesus/pipet)
 
 Web scraping tool for hackers
+
+面向黑客的网页抓取工具

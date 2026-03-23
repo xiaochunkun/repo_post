@@ -7,3 +7,5 @@ image: assets/promptslab_Awesome_Prompt_Engineering_20260204_065938_252_20260204
 # [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 
 Curated resources for prompt engineering
+
+精选的提示工程资源

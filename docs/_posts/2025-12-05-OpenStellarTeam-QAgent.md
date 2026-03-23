@@ -7,3 +7,5 @@ image: assets/OpenStellarTeam_QAgent_20251202_234346_208_20251202_234427_3bab48.
 # [OpenStellarTeam/QAgent](https://github.com/OpenStellarTeam/QAgent/)
 
 Modular search agent for adaptive retrieval
+
+用于自适应检索的模块化搜索代理

@@ -7,3 +7,5 @@ image: assets/Ucas-HaoranWei_GOT-OCR2.0_cropped.png
 # [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
 
 Official code for GOT-OCR2.0, an end-to-end OCR model implementation
+
+GOT-OCR2.0端到端OCR模型实现的官方代码

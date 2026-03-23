@@ -7,3 +7,5 @@ image: assets/20250925T043658323--themesberg--flowbite--20250925T045107388--crop
 # [themesberg/flowbite](https://github.com/themesberg/flowbite)
 
 UI components for Tailwind CSS projects
+
+用于Tailwind CSS项目的UI组件

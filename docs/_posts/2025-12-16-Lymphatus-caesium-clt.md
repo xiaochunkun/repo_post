@@ -7,3 +7,5 @@ image: assets/Lymphatus_caesium_clt_20251215_002950_409_20251215_003024_6fd445.p
 # [Lymphatus/caesium-clt](https://github.com/Lymphatus/caesium-clt/)
 
 Rust command-line tool for image compression
+
+用于图像压缩的Rust命令行工具

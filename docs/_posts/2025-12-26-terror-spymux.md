@@ -7,3 +7,5 @@ image: assets/terror_spymux_20251225_030658_873_20251225_030748_cdca15.png
 # [terror/spymux](https://github.com/terror/spymux/)
 
 Terminal interface for watching tmux panes
+
+用于监视 tmux 窗格的终端界面

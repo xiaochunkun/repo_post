@@ -7,3 +7,5 @@ image: assets/Alibaba_NLP_DeepResearch_20260203_143053_224_20260203_143146_a2195
 # [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 
 Agent for information seeking tasks
+
+用于信息检索任务的智能体

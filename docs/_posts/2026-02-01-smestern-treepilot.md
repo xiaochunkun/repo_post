@@ -7,3 +7,5 @@ image: assets/smestern_treepilot_20260131_221123_334_20260131_221207_5e296a.png
 # [smestern/treepilot](https://github.com/smestern/treepilot)
 
 AI agent for genealogy research
+
+用于家谱研究的 AI 代理

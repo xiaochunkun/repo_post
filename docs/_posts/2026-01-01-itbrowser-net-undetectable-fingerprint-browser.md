@@ -7,3 +7,5 @@ image: assets/itbrowser_net_undetectable_fingerprint_browser_20251231_233852_184
 # [itbrowser-net/undetectable-fingerprint-browser](https://github.com/itbrowser-net/undetectable-fingerprint-browser/)
 
 Browser for automation with fingerprint spoofing
+
+用于自动化的浏览器，支持指纹欺骗

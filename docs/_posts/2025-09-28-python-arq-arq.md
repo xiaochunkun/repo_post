@@ -7,3 +7,5 @@ image: assets/20250928T061058650--python-arq--arq--20250928T064551298--cropped.p
 # [python-arq/arq](https://github.com/python-arq/arq)
 
 Job queues in Python using asyncio and Redis
+
+使用asyncio和Redis的Python作业队列

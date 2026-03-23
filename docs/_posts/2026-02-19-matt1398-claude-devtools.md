@@ -7,3 +7,5 @@ image: assets/matt1398_claude_devtools_20260214_092802_818_20260214_092902_541b0
 # [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools)
 
 Visualizes Claude Code session logs
+
+可视化Claude Code会话日志

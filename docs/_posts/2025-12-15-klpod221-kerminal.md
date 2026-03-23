@@ -7,3 +7,5 @@ image: assets/klpod221_kerminal_20251213_110611_580_20251213_110634_2df9ba.png
 # [klpod221/kerminal](https://github.com/klpod221/kerminal/)
 
 Terminal emulator and SSH manager built with Tauri
+
+使用Tauri构建的终端模拟器和SSH管理器

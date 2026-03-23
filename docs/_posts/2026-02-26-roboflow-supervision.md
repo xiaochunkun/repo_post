@@ -7,3 +7,5 @@ image: assets/roboflow_supervision_20260225_002616_876_20260225_002749_391c51.pn
 # [roboflow/supervision](https://github.com/roboflow/supervision)
 
 Loads datasets and draws detections on images or video
+
+加载数据集并在图像或视频上绘制检测结果

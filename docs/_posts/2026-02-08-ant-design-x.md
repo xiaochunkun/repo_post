@@ -7,3 +7,5 @@ image: assets/ant_design_x_20260207_221309_999_20260207_221334_980836.png
 # [ant-design/x](https://github.com/ant-design/x)
 
 Components for AI interfaces
+
+AI 界面组件

@@ -7,3 +7,5 @@ image: assets/20251009T050518571--DRYTRIX--TimeTracker--20251009T050730144--crop
 # [DRYTRIX/TimeTracker](https://github.com/DRYTRIX/TimeTracker)
 
 Track time, manage projects, and generate invoices in one web app
+
+在一个 Web 应用中跟踪时间、管理项目和生成发票

@@ -7,3 +7,5 @@ image: assets/ItzCrazyKns_Perplexica_cropped.png
 # [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
 
 AI search engine project using local models, web search, and various modes for different queries
+
+AI 搜索引擎项目，使用本地模型、网络搜索和多种模式处理不同查询

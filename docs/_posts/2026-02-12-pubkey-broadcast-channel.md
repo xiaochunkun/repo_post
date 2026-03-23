@@ -7,3 +7,5 @@ image: assets/pubkey_broadcast_channel_20260209_214111_685_20260209_214130_1c035
 # [pubkey/broadcast-channel](https://github.com/pubkey/broadcast-channel)
 
 Sends data across browser tabs and nodejs processes
+
+跨浏览器标签和 Node.js 进程发送数据

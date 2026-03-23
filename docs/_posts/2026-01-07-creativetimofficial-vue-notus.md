@@ -7,3 +7,5 @@ image: assets/creativetimofficial_vue_notus_20260106_234607_639_20260106_234623_
 # [creativetimofficial/vue-notus](https://github.com/creativetimofficial/vue-notus/)
 
 UI kit and admin dashboard for Tailwind CSS and Vue.js
+
+Tailwind CSS 和 Vue.js 的 UI 套件和管理仪表板

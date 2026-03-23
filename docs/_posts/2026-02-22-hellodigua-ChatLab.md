@@ -7,3 +7,5 @@ image: assets/hellodigua_ChatLab_20260209_210701_743_20260209_210740_b006ea.png
 # [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
 
 Analyzes chat records with SQL and AI agents locally
+
+本地使用 SQL 和 AI 智能体分析聊天记录

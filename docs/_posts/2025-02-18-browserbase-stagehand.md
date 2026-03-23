@@ -7,3 +7,5 @@ image: assets/browserbase_stagehand_cropped.png
 # [browserbase/stagehand](https://github.com/browserbase/stagehand)
 
 AI web browsing framework
+
+AI 网页浏览框架

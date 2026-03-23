@@ -7,3 +7,5 @@ image: assets/anthropics_anthropic-cookbook_cropped.png
 # [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 
 Code recipes and guides for building with Claude AI
+
+使用Claude AI构建的代码配方和指南

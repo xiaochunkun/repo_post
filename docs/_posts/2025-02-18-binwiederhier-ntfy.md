@@ -7,3 +7,5 @@ image: assets/binwiederhier_ntfy_cropped.png
 # [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 
 Open-source notification service
+
+开源通知服务

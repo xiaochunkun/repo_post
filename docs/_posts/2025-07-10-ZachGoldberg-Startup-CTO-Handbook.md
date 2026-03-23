@@ -7,3 +7,5 @@ image: assets/ZachGoldberg_Startup-CTO-Handbook_cropped.png
 # [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
 guide for startup CTOs on leadership, management, and tech team building
+
+初创公司CTO的领导力、管理和技术团队建设指南

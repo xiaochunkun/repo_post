@@ -7,3 +7,5 @@ image: assets/wesammustafa_Claude_Code_Everything_You_Need_to_Know_20260226_0540
 # [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know)
 
 Guide for Claude Code automation and MCP integrations
+
+Claude Code自动化和MCP集成指南

@@ -7,3 +7,5 @@ image: assets/octelium_octelium_cropped.png
 # [octelium/octelium](https://github.com/octelium/octelium)
 
 open source platform for zero trust secure access and remote resource management
+
+用于零信任安全访问和远程资源管理的开源平台

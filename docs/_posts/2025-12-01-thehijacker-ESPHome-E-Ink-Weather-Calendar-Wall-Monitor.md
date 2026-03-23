@@ -7,3 +7,5 @@ image: assets/thehijacker_ESPHome_E_Ink_Weather_Calendar_Wall_Monitor_20251130_0
 # [thehijacker/ESPHome-E-Ink-Weather-Calendar-Wall-Monitor](https://github.com/thehijacker/ESPHome-E-Ink-Weather-Calendar-Wall-Monitor/)
 
 ESPHome-powered e-ink wall display for Home Assistant
+
+基于ESPHome的电子墨水墙显，用于Home Assistant

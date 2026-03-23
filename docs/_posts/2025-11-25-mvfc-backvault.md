@@ -7,3 +7,5 @@ image: assets/mvfc_backvault_20251123_180911_807_20251124_100031_1f1fc7--2025112
 # [mvfc/backvault](https://github.com/mvfc/backvault/)
 
 Automates encrypted Bitwarden vault backups
+
+自动化加密 Bitwarden 保险库备份

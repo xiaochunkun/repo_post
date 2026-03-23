@@ -7,3 +7,5 @@ image: assets/HITsz_TMG_FilmAgent_20251218_094746_802_20251218_094810_b54196.png
 # [HITsz-TMG/FilmAgent](https://github.com/HITsz-TMG/FilmAgent/)
 
 Multi-agent framework for film automation in 3D spaces
+
+用于 3D 空间电影自动化的多代理框架

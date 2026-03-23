@@ -7,3 +7,5 @@ image: assets/Makio64_makio_meshline_20260116_030356_194_20260116_030411_9e723e.
 # [Makio64/makio-meshline](https://github.com/Makio64/makio-meshline)
 
 TSL-powered meshline solution for Three.js
+
+Three.js的TSL驱动meshline解决方案

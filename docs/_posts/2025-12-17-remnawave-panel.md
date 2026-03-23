@@ -7,3 +7,5 @@ image: assets/remnawave_panel_20251215_024725_257_20251215_024751_cf9f26.png
 # [remnawave/panel](https://github.com/remnawave/panel/)
 
 Xray-core proxy management tool
+
+Xray-core代理管理工具

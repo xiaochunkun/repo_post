@@ -7,3 +7,5 @@ image: assets/booklore_app_booklore_20251127_201318_628_20251130_082953_efbe40--
 # [booklore-app/booklore](https://github.com/booklore-app/booklore/)
 
 Self-hosted web app for organizing personal book collections
+
+用于组织个人书籍收藏的自托管 Web 应用

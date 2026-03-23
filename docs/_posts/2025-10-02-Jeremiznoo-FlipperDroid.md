@@ -7,3 +7,5 @@ image: assets/20251001T203543064--Jeremiznoo--FlipperDroid--20251001T204044765--
 # [Jeremiznoo/FlipperDroid](https://github.com/Jeremiznoo/FlipperDroid)
 
 Android app for wireless and hardware security testing, inspired by Flipper Zero
+
+Android应用，用于无线和硬件安全测试，灵感来自Flipper Zero

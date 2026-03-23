@@ -7,3 +7,5 @@ image: assets/nuxtlabs_docus_20251216_115548_549_20251216_115732_1a8bcc.png
 # [nuxtlabs/docus](https://github.com/nuxtlabs/docus/)
 
 Documentation generator using Markdown and Vue
+
+使用Markdown和Vue的文档生成器

@@ -7,3 +7,5 @@ image: assets/joshpatten_PVE_VDIClient_20251122_164428_489_20251123_001201_8a54c
 # [joshpatten/PVE-VDIClient](https://github.com/joshpatten/PVE-VDIClient/)
 
 Proxmox VDI client using Spice
+
+使用Spice的Proxmox VDI客户端

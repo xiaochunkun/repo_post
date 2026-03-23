@@ -7,3 +7,5 @@ image: assets/KrishMunot_awesome_startup_20251229_031813_704_20251229_031832_5fd
 # [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup/)
 
 Curated resources for startup founders
+
+为初创创始人精选的资源

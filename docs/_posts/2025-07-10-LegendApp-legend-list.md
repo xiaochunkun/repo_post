@@ -7,3 +7,5 @@ image: assets/LegendApp_legend-list_cropped.png
 # [LegendApp/legend-list](https://github.com/LegendApp/legend-list)
 
 React Native list component for fast, dynamic scrolling
+
+React Native 列表组件，用于快速动态滚动

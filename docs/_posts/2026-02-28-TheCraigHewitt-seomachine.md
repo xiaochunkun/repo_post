@@ -7,3 +7,5 @@ image: assets/TheCraigHewitt_seomachine_20260228_075659_390_20260228_075837_4eec
 # [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)
 
 Claude Code workspace for SEO content creation
+
+用于SEO内容创建的Claude Code工作空间

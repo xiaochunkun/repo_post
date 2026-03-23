@@ -7,3 +7,5 @@ image: assets/20251014T014936856--academicpages--academicpages.github.io--202510
 # [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
 
 template for academic personal sites and portfolios
+
+学术个人站点和作品集模板

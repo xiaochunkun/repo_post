@@ -7,3 +7,5 @@ image: assets/AI4Finance_Foundation_FinRobot_20260121_232817_535_20260121_232845
 # [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)
 
 AI agents for financial analysis using large language models
+
+使用大语言模型的金融分析 AI 代理

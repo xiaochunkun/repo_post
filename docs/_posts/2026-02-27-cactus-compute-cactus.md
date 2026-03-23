@@ -7,3 +7,5 @@ image: assets/cactus_compute_cactus_20260227_153945_537_20260227_154055_38b362.p
 # [cactus-compute/cactus](https://github.com/cactus-compute/cactus)
 
 AI engine for mobile devices and wearables
+
+移动设备和可穿戴设备的AI引擎

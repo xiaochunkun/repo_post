@@ -7,3 +7,5 @@ image: assets/wger_project_wger_20260202_212904_858_20260202_212943_1c1f1c.png
 # [wger-project/wger](https://github.com/wger-project/wger)
 
 Self-hosted fitness and nutrition manager
+
+自托管的健身与营养管理工具

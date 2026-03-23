@@ -7,3 +7,5 @@ image: assets/debezium_debezium_cropped.png
 # [debezium/debezium](https://github.com/debezium/debezium)
 
 Change data capture platform for databases using Kafka
+
+使用Kafka的数据库变更数据捕获平台

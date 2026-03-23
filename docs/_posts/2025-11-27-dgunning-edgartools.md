@@ -7,3 +7,5 @@ image: assets/dgunning_edgartools_20251125_025913_432_20251127_163346_7da29a--20
 # [dgunning/edgartools](https://github.com/dgunning/edgartools/)
 
 AI-native Python library for SEC EDGAR data
+
+用于 SEC EDGAR 数据的 AI 原生 Python 库

@@ -7,3 +7,5 @@ image: assets/20250911T015645257--langchain-ai--langmem--20250911T020433547--cro
 # [langchain-ai/langmem](https://github.com/langchain-ai/langmem)
 
 lets agents remember and learn from past chats
+
+让智能体记住并从历史对话中学习

@@ -7,3 +7,5 @@ image: assets/javedh_dev_tracktor_20260122_000837_081_20260122_000900_92c0a4.png
 # [javedh-dev/tracktor](https://github.com/javedh-dev/tracktor)
 
 Tracks vehicle fuel, maintenance, and documents
+
+跟踪车辆燃料、维护和文档

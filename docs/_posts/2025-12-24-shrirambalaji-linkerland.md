@@ -7,3 +7,5 @@ image: assets/shrirambalaji_linkerland_20251222_230126_693_20251222_230147_26f04
 # [shrirambalaji/linkerland](https://github.com/shrirambalaji/linkerland/)
 
 TUI for parsing and analyzing linker map files
+
+用于解析和分析链接器映射文件的TUI

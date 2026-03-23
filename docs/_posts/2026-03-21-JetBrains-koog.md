@@ -7,3 +7,5 @@ image: assets/JetBrains_koog_20260321_005839_956_20260321_005925_c4c5a6.png
 # [JetBrains/koog](https://github.com/JetBrains/koog)
 
 JVM framework for building AI agents
+
+构建AI代理的JVM框架

@@ -7,3 +7,5 @@ image: assets/woct0rdho_transformers-qwen3-moe-fused_cropped.png
 # [woct0rdho/transformers-qwen3-moe-fused](https://github.com/woct0rdho/transformers-qwen3-moe-fused)
 
 Qwen3 MoE fused layer for Transformers, LoRA, quant, Unsloth
+
+Transformers 的 Qwen3 MoE 融合层，支持 LoRA、量化和 Unsloth

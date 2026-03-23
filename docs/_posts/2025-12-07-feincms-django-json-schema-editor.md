@@ -7,3 +7,5 @@ image: assets/feincms_django_json_schema_editor_20251205_023348_944_20251205_023
 # [feincms/django-json-schema-editor](https://github.com/feincms/django-json-schema-editor/)
 
 Schema-based JSON editor for Django forms
+
+基于模式的Django表单JSON编辑器

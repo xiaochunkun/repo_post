@@ -7,3 +7,5 @@ image: assets/bytedance_Repo2Run_20251215_030943_375_20251215_031045_465be0.png
 # [bytedance/Repo2Run](https://github.com/bytedance/Repo2Run/)
 
 LLM-based build agent automates containerized environments
+
+基于 LLM 的构建代理，自动化容器化环境

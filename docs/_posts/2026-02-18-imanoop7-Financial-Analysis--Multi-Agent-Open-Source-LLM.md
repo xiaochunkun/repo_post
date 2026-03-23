@@ -7,3 +7,5 @@ image: assets/imanoop7_Financial_Analysis_Multi_Agent_Open_Source_LLM_20260120_0
 # [imanoop7/Financial-Analysis--Multi-Agent-Open-Source-LLM](https://github.com/imanoop7/Financial-Analysis--Multi-Agent-Open-Source-LLM)
 
 AI agents perform stock analysis using open-source models
+
+AI 代理使用开源模型进行股票分析

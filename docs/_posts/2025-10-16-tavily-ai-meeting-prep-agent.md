@@ -7,3 +7,5 @@ image: assets/tavily-ai_meeting-prep-agent--20251016T072548456--cropped.png
 # [tavily-ai/meeting-prep-agent](https://github.com/tavily-ai/meeting-prep-agent)
 
 AI agent for meeting prep with real-time web search and Google Calendar integration
+
+AI代理，用于会议准备，支持实时网络搜索和Google Calendar集成

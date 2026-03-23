@@ -7,3 +7,5 @@ image: assets/20250831T020054887--mpv-player--mpv--20250831T020630790--cropped.p
 # [mpv-player/mpv](https://github.com/mpv-player/mpv)
 
 command line media player that plays almost anything
+
+几乎能播放任何格式的命令行媒体播放器

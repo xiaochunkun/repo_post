@@ -7,3 +7,5 @@ image: assets/IPADS_SAI_MobiAgent_20251121_125136_431_20251121_211850_c1e465--20
 # [IPADS-SAI/MobiAgent](https://github.com/IPADS-SAI/MobiAgent/)
 
 Framework for mobile agents with model and benchmark
+
+带模型和基准的移动代理框架

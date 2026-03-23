@@ -7,3 +7,5 @@ image: assets/anasty17_mirror_leech_telegram_bot_20251029_073027_368_20251029_08
 # [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot/)
 
 A Telegram bot for mirroring files to cloud storage
+
+将文件镜像到云存储的 Telegram 机器人

@@ -7,3 +7,5 @@ image: assets/AppajiDheeraj_meetai_20260113_204731_939_20260113_204745_bab3e0.pn
 # [AppajiDheeraj/meetai](https://github.com/AppajiDheeraj/meetai)
 
 Platform for custom AI agents and meeting assistants
+
+自定义 AI 代理和会议助手平台

@@ -7,3 +7,5 @@ image: assets/lucide_icons_lucide_20251020_045553_060_20251020_051539--20251020T
 # [lucide-icons/lucide](https://github.com/lucide-icons/lucide/)
 
 1000+ open-source vector icons for multiple frameworks
+
+1000+ 开源矢量图标，支持多框架

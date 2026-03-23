@@ -7,3 +7,5 @@ image: assets/benbusby_farside_cropped.png
 # [benbusby/farside](https://github.com/benbusby/farside)
 
 tool for redirecting to alternative frontends for sites like Reddit or Twitter
+
+重定向到Reddit或Twitter等网站替代前端的工具

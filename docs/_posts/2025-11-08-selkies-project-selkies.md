@@ -7,3 +7,5 @@ image: assets/selkies_project_selkies_20251107_001139_197_20251107_214818_27b5bd
 # [selkies-project/selkies](https://github.com/selkies-project/selkies/)
 
 Low-latency Linux remote desktop in a browser
+
+浏览器中的低延迟Linux远程桌面

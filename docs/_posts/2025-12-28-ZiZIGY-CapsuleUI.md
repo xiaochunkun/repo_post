@@ -7,3 +7,5 @@ image: assets/ZiZIGY_CapsuleUI_20251226_190533_626_20251226_190553_c7f35a.png
 # [ZiZIGY/CapsuleUI](https://github.com/ZiZIGY/CapsuleUI/)
 
 Web components for design systems
+
+用于设计系统的 Web 组件

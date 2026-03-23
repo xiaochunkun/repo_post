@@ -7,3 +7,5 @@ image: assets/pomber_didact_20260130_135306_789_20260130_135346_150c84.png
 # [pomber/didact](https://github.com/pomber/didact)
 
 Guide to build React from scratch
+
+从零构建React的指南

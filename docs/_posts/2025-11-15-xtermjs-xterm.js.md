@@ -7,3 +7,5 @@ image: assets/xtermjs_xterm_js_20251114_183724_693_20251115_035122_9c7557--20251
 # [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js/)
 
 Front-end component for terminals in the browser
+
+浏览器中终端的前端组件

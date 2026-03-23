@@ -7,3 +7,5 @@ image: assets/Flowframe_laravel_trend_20251125_005324_124_20251126_100702_92e9fb
 # [Flowframe/laravel-trend](https://github.com/Flowframe/laravel-trend/)
 
 Generates trends for Laravel models
+
+为 Laravel 模型生成趋势

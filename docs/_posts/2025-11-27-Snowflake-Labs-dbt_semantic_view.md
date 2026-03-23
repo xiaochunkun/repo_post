@@ -7,3 +7,5 @@ image: assets/Snowflake_Labs_dbt_semantic_view_20251125_010629_023_20251126_1010
 # [Snowflake-Labs/dbt_semantic_view](https://github.com/Snowflake-Labs/dbt_semantic_view/)
 
 Materializes Snowflake Semantic Views via dbt
+
+通过 dbt 物化 Snowflake 语义视图

@@ -7,3 +7,5 @@ image: assets/AKS_Labs_CloudGallery_20251223_161548_308_20251223_161609_150713.p
 # [AKS-Labs/CloudGallery](https://github.com/AKS-Labs/CloudGallery/)
 
 Backs up photos to Telegram
+
+将照片备份到 Telegram

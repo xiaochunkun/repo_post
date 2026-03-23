@@ -7,3 +7,5 @@ image: assets/syntaxpresso_bufstate_nvim_20251226_193757_471_20251226_193815_956
 # [syntaxpresso/bufstate.nvim](https://github.com/syntaxpresso/bufstate.nvim/)
 
 Persistent tmux-like workspaces inside Neovim
+
+在 Neovim 内实现类似 tmux 的持久化工作区

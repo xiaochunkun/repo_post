@@ -7,3 +7,5 @@ image: assets/microsoft_playwright_20260222_101619_258_20260222_101709_01423e.pn
 # [microsoft/playwright](https://github.com/microsoft/playwright)
 
 Automates testing across browser engines
+
+跨浏览器引擎自动化测试

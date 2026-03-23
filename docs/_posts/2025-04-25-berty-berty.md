@@ -7,3 +7,5 @@ image: assets/berty_berty_cropped.png
 # [berty/berty](https://github.com/berty/berty)
 
 peer-to-peer messaging app for offline and online chat
+
+用于离线和在线聊天的点对点消息应用

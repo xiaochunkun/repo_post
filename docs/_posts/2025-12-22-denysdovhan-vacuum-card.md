@@ -7,3 +7,5 @@ image: assets/denysdovhan_vacuum_card_20251221_051241_752_20251221_051257_812b4f
 # [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card/)
 
 Card for controlling vacuum cleaners in Home Assistant
+
+Home Assistant 吸尘器控制卡片

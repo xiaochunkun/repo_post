@@ -7,3 +7,5 @@ image: assets/20250820T132844925_zh-lx_code-inspector--20250820T133219074--cropp
 # [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
 
 click page element to jump to code in your editor
+
+点击页面元素即可在编辑器中跳转到对应代码

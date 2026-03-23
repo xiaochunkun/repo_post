@@ -7,3 +7,5 @@ image: assets/rednote_hilab_dots_llm1_20251207_183037_141_20251207_183057_b36865
 # [rednote-hilab/dots.llm1](https://github.com/rednote-hilab/dots.llm1/)
 
 Large-scale MoE model activating 14B parameters
+
+激活140亿参数的大规模MoE模型

@@ -7,3 +7,5 @@ image: assets/20250930T034733897--MCDFsteve--NipaPlay-Reload--20250930T035932998
 # [MCDFsteve/NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload)
 
 cross-platform video player with danmaku, subtitle, and anime tracking support
+
+跨平台视频播放器，支持弹幕、字幕和动漫追踪

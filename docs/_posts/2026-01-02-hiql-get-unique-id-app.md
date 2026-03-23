@@ -7,3 +7,5 @@ image: assets/hiql_get_unique_id_app_20260101_080729_716_20260101_080744_f7fbcc.
 # [hiql/get-unique-id-app](https://github.com/hiql/get-unique-id-app/)
 
 Generates unique identifiers in various formats
+
+生成各种格式的唯一标识符

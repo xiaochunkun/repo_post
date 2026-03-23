@@ -7,3 +7,5 @@ image: assets/patched_codes_patchwork_20251031_070758_802_20251101_205512_61ae4d
 # [patched-codes/patchwork](https://github.com/patched-codes/patchwork/)
 
 AI framework for automating development tasks
+
+用于自动化开发任务的 AI 框架

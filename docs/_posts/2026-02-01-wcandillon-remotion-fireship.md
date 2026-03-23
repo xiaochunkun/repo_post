@@ -7,3 +7,5 @@ image: assets/wcandillon_remotion_fireship_20260131_220806_368_20260131_220841_8
 # [wcandillon/remotion-fireship](https://github.com/wcandillon/remotion-fireship)
 
 Creates videos using React
+
+使用 React 创建视频

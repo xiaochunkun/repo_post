@@ -7,3 +7,5 @@ image: assets/eduardolat_pgbackweb_cropped.png
 # [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb)
 
 web tool for managing PostgreSQL backups
+
+PostgreSQL备份管理网页工具

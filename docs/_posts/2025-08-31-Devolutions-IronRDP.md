@@ -7,3 +7,5 @@ image: assets/20250830T115350826--Devolutions--IronRDP--20250830T173523574--crop
 # [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP)
 
 Rust crates for secure Microsoft Remote Desktop Protocol, supports async and multiple video codecs
+
+Rust 实现的微软远程桌面协议库，支持异步和多种视频编解码器

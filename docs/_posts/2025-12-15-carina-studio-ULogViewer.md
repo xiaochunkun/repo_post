@@ -7,3 +7,5 @@ image: assets/carina_studio_ULogViewer_20251213_062256_707_20251213_062319_d2b94
 # [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer/)
 
 Cross-platform log viewer and analyzer
+
+跨平台日志查看器和分析器

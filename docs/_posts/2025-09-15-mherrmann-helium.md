@@ -7,3 +7,5 @@ image: assets/20250825T025038978--mherrmann--helium--20250915T020436827--cropped
 # [mherrmann/helium](https://github.com/mherrmann/helium)
 
 browser automation in Python made simpler
+
+简化 Python 中的浏览器自动化

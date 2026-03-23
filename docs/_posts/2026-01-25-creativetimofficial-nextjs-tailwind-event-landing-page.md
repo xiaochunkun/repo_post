@@ -7,3 +7,5 @@ image: assets/creativetimofficial_nextjs_tailwind_event_landing_page_20260117_09
 # [creativetimofficial/nextjs-tailwind-event-landing-page](https://github.com/creativetimofficial/nextjs-tailwind-event-landing-page)
 
 Event landing page with Next.js and Tailwind CSS
+
+基于Next.js和Tailwind CSS的活动落地页

@@ -7,3 +7,5 @@ image: assets/llmgenai_LLMInterviewQuestions_20251122_144102_465_20251123_001038
 # [llmgenai/LLMInterviewQuestions](https://github.com/llmgenai/LLMInterviewQuestions/)
 
 100+ questions for LLM interviews
+
+100多个LLM面试问题

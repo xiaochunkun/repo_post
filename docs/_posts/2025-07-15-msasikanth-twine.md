@@ -7,3 +7,5 @@ image: assets/msasikanth_twine_cropped.png
 # [msasikanth/twine](https://github.com/msasikanth/twine)
 
 multiplatform RSS reader built with Kotlin and Compose
+
+使用Kotlin和Compose构建的多平台RSS阅读器

@@ -7,3 +7,5 @@ image: assets/EleutherAI_nanoGPT_mup_20251204_222326_740_20251204_222402_1a8096.
 # [EleutherAI/nanoGPT-mup](https://github.com/EleutherAI/nanoGPT-mup/)
 
 Implements maximal update parameterization technique
+
+实现最大更新参数化技术

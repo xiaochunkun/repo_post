@@ -7,3 +7,5 @@ image: assets/akveo_react_native_ui_kitten_20251210_024157_282_20251210_024229_c
 # [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten/)
 
 React Native UI library based on Eva Design System
+
+基于 Eva Design System 的 React Native UI 库

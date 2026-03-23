@@ -7,3 +7,5 @@ image: assets/aidenybai_react_grab_20251029_065058_478_20251029_082741_a1ca62--2
 # [aidenybai/react-grab](https://github.com/aidenybai/react-grab/)
 
 Give coding agents access to page elements
+
+为编码代理提供页面元素访问权限

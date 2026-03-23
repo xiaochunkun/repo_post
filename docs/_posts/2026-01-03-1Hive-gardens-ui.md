@@ -7,3 +7,5 @@ image: assets/1Hive_gardens_ui_20260102_090507_221_20260102_090529_c30e32.png
 # [1Hive/gardens-ui](https://github.com/1Hive/gardens-ui/)
 
 Interface for community digital economies
+
+社区数字经济的界面

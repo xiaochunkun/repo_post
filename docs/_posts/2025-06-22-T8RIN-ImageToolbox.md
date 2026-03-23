@@ -7,3 +7,5 @@ image: assets/T8RIN_ImageToolbox_cropped.png
 # [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 
 Image toolbox for cropping, filters, drawing, OCR, and image tweaks
+
+用于裁剪、滤镜、绘图、OCR和图像调整的图像工具箱

@@ -7,3 +7,5 @@ image: assets/inertiajs_pingcrm_20251125_032945_716_20251127_164448_daafad--2025
 # [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm/)
 
 Demo application illustrating how Inertia.js works
+
+演示 Inertia.js 工作原理的示例应用

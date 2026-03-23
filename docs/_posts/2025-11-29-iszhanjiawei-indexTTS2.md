@@ -7,3 +7,5 @@ image: assets/iszhanjiawei_indexTTS2_20251126_000537_651_20251128_213333_525b06-
 # [iszhanjiawei/indexTTS2](https://github.com/iszhanjiawei/indexTTS2/)
 
 Duration-controlled zero-shot text-to-speech
+
+时长控制的零样本文本转语音

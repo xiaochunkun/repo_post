@@ -7,3 +7,5 @@ image: assets/usetrmnl_byos_laravel_20260101_020622_964_20260101_020637_f0dca4.p
 # [usetrmnl/byos_laravel](https://github.com/usetrmnl/byos_laravel/)
 
 Self-hosted server for TRMNL devices
+
+用于TRMNL设备的自托管服务器

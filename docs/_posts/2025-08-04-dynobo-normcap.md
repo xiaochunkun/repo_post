@@ -7,3 +7,5 @@ image: assets/dynobo_normcap_cropped.png
 # [dynobo/normcap](https://github.com/dynobo/normcap)
 
 grab text from screenshots on any OS
+
+跨操作系统从截图抓取文本

@@ -7,3 +7,5 @@ image: assets/EveryInc_charlie_cfo_skill_20260206_124520_936_20260206_124537_462
 # [EveryInc/charlie-cfo-skill](https://github.com/EveryInc/charlie-cfo-skill)
 
 Claude Code skill for startup financial management
+
+用于初创公司财务管理的 Claude Code 技能

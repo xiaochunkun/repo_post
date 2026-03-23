@@ -7,3 +7,5 @@ image: assets/wala_graph4code_20251204_222932_399_20251204_222957_c70bc9.png
 # [wala/graph4code](https://github.com/wala/graph4code/)
 
 Toolkit for building code knowledge graphs
+
+构建代码知识图谱的工具包

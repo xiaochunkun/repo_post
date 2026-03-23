@@ -7,3 +7,5 @@ image: assets/20250822T023958745--HumanSignal--label-studio--20250822T024528713-
 # [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
 
 open source tool for labeling images, text, audio, video, and more
+
+开源数据标注工具，支持图像、文本、音频、视频等

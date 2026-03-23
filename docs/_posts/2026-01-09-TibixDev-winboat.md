@@ -7,3 +7,5 @@ image: assets/TibixDev_winboat_20260108_015023_875_20260108_015037_85d946.png
 # [TibixDev/winboat](https://github.com/TibixDev/winboat)
 
 Runs Windows apps on Linux via containerized virtual machines
+
+通过容器化虚拟机在Linux上运行Windows应用

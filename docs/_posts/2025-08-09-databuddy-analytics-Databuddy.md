@@ -7,3 +7,5 @@ image: assets/databuddy-analytics_Databuddy_cropped.png
 # [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy)
 
 privacy-first analytics for web apps
+
+隐私优先的Web应用分析

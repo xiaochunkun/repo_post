@@ -7,3 +7,5 @@ image: assets/Circuit_Digest_ESP_Drone_20260309_111801_992_20260309_111942_44619
 # [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone)
 
 Drone development platform using ESP32 and Wi-Fi control
+
+使用 ESP32 和 Wi-Fi 控制的无人机开发平台

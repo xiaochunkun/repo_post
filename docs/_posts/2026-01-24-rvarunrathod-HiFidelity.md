@@ -7,3 +7,5 @@ image: assets/rvarunrathod_HiFidelity_20260123_172921_583_20260123_172947_ddc94b
 # [rvarunrathod/HiFidelity](https://github.com/rvarunrathod/HiFidelity)
 
 Offline music player for macOS with bit-perfect playback
+
+macOS 的离线音乐播放器，支持无损播放

@@ -7,3 +7,5 @@ image: assets/ak_tr_rpimon_20260206_120840_513_20260206_120923_28bed5.png
 # [ak-tr/rpimon](https://github.com/ak-tr/rpimon)
 
 Terminal monitor for Raspberry Pi system stats and weather
+
+Raspberry Pi系统状态和天气的终端监控器

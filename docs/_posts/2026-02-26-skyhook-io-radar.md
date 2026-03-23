@@ -7,3 +7,5 @@ image: assets/skyhook_io_radar_20260224_063044_989_20260224_063116_337edb.png
 # [skyhook-io/radar](https://github.com/skyhook-io/radar)
 
 Kubernetes visibility from a binary without cluster-side installation
+
+无需集群端安装的Kubernetes二进制可见性工具

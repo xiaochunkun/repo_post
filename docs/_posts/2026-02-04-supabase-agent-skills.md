@@ -7,3 +7,5 @@ image: assets/supabase_agent_skills_20260202_230535_509_20260202_230601_55b95e.p
 # [supabase/agent-skills](https://github.com/supabase/agent-skills)
 
 Instructions for AI agents to use Supabase
+
+AI代理使用Supabase的指南

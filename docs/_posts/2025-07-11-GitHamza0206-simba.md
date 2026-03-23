@@ -7,3 +7,5 @@ image: assets/GitHamza0206_simba_cropped.png
 # [GitHamza0206/simba](https://github.com/GitHamza0206/simba)
 
 portable knowledge management system for RAG workflows
+
+用于RAG工作流的便携式知识管理系统

@@ -7,3 +7,5 @@ image: assets/DIYgod_RSSHub_Radar_20260103_191908_422_20260103_191948_d11642.png
 # [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar/)
 
 Finds and subscribes to RSS feeds from the browser
+
+从浏览器查找和订阅RSS源

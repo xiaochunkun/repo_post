@@ -7,3 +7,5 @@ image: assets/kottster_kottster_20260129_012829_114_20260129_012907_665031.png
 # [kottster/kottster](https://github.com/kottster/kottster)
 
 Node.js admin panel for database management and dashboards
+
+Node.js管理面板用于数据库管理和仪表板

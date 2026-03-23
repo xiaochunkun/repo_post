@@ -7,3 +7,5 @@ image: assets/Ayoub_Sekoum_automattuner_20260113_233640_678_20260113_233654_bf43
 # [Ayoub-Sekoum/automattuner](https://github.com/Ayoub-Sekoum/automattuner)
 
 Publishes Winget packages to Microsoft Intune
+
+将Winget包发布到Microsoft Intune

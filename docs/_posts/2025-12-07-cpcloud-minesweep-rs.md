@@ -7,3 +7,5 @@ image: assets/cpcloud_minesweep_rs_20251205_014029_565_20251205_014052_a28f84.pn
 # [cpcloud/minesweep-rs](https://github.com/cpcloud/minesweep-rs/)
 
 Minesweeper game written in Rust using tui-rs
+
+使用tui-rs编写的Rust扫雷游戏

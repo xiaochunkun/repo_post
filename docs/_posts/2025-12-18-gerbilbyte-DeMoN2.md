@@ -7,3 +7,5 @@ image: assets/gerbilbyte_DeMoN2_20251217_110052_303_20251217_110115_c0de7e.png
 # [gerbilbyte/DeMoN2](https://github.com/gerbilbyte/DeMoN2/)
 
 Amiga 500 cartridge for hardware development
+
+用于硬件开发的 Amiga 500 卡带

@@ -7,3 +7,5 @@ image: assets/Lissy93_networking_toolbox_20260128_232505_365_20260128_232615_dc2
 # [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
 
 Offline networking tools for sysadmins
+
+系统管理员用的离线网络工具

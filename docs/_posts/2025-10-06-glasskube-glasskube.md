@@ -7,3 +7,5 @@ image: assets/20251005T101854046--glasskube--glasskube--20251005T103033723--crop
 # [glasskube/glasskube](https://github.com/glasskube/glasskube)
 
 open source Kubernetes package manager with GUI, CLI, and GitOps support
+
+开源 Kubernetes 包管理器，支持 GUI、CLI 和 GitOps

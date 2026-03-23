@@ -7,3 +7,5 @@ image: assets/Cyclenerd_static_status_20251026_225520_563_20251027_001900_506325
 # [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status/)
 
 Bash script to generate a static status page
+
+生成静态状态页面的 Bash 脚本

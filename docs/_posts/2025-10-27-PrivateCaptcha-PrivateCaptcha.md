@@ -7,3 +7,5 @@ image: assets/PrivateCaptcha_PrivateCaptcha_20251026_220555_962_20251027_001303_
 # [PrivateCaptcha/PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha/)
 
 Privacy-first, self-hostable proof-of-work CAPTCHA
+
+隐私优先、可自托管的工作量证明 CAPTCHA

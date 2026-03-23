@@ -7,3 +7,5 @@ image: assets/AlexxIT_WebRTC_20251118_101836_378_20251119_062642_fc689d--2025111
 # [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC/)
 
 Home Assistant component for camera streaming with WebRTC
+
+Home Assistant 组件，用于通过 WebRTC 进行摄像头流传输

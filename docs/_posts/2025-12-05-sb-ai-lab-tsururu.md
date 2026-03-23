@@ -7,3 +7,5 @@ image: assets/sb_ai_lab_tsururu_20251202_234646_714_20251202_234752_804233.png
 # [sb-ai-lab/tsururu](https://github.com/sb-ai-lab/tsururu/)
 
 Time series forecasting strategies framework
+
+时间序列预测策略框架

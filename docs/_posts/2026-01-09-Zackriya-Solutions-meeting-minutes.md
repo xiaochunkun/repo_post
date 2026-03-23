@@ -7,3 +7,5 @@ image: assets/Zackriya_Solutions_meeting_minutes_20260108_021943_083_20260108_02
 # [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
 
 Transcribes and summarizes meetings locally
+
+本地转录和总结会议

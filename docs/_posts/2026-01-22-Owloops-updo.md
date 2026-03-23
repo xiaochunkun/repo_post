@@ -7,3 +7,5 @@ image: assets/Owloops_updo_20260122_021327_214_20260122_021349_cc5a75.png
 # [Owloops/updo](https://github.com/Owloops/updo)
 
 Monitors website uptime and performance from the command line
+
+从命令行监控网站正常运行时间和性能

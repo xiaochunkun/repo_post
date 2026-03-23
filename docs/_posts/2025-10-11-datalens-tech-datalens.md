@@ -7,3 +7,5 @@ image: assets/20251010T205414563--datalens-tech--datalens--20251010T205841548--c
 # [datalens-tech/datalens](https://github.com/datalens-tech/datalens)
 
 open source BI and data viz system originally built at Yandex
+
+开源 BI 和数据可视化系统，最初在 Yandex 构建

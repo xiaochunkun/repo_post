@@ -7,3 +7,5 @@ image: assets/KarthikDani_LinkedIn_Company_Data_Scraping_System_20260113_045146_
 # [KarthikDani/LinkedIn-Company-Data-Scraping-System](https://github.com/KarthikDani/LinkedIn-Company-Data-Scraping-System)
 
 Scrapes company profiles from LinkedIn directory
+
+从 LinkedIn 目录抓取公司资料

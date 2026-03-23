@@ -7,3 +7,5 @@ image: assets/kairi003_Get_cookies_txt_LOCALLY_20251201_014857_236_20251201_0149
 # [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY/)
 
 Exports browser cookies locally in Netscape or JSON format
+
+本地导出浏览器 Cookie 为 Netscape 或 JSON 格式

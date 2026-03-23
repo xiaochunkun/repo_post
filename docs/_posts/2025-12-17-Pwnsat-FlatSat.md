@@ -7,3 +7,5 @@ image: assets/Pwnsat_FlatSat_20251216_091024_423_20251216_091049_540d2b.png
 # [Pwnsat/FlatSat](https://github.com/Pwnsat/FlatSat/)
 
 Hackable satellite for $35
+
+35美元的可黑客卫星

@@ -7,3 +7,5 @@ image: assets/awinterstein_habitica_20251216_123420_612_20251216_123454_61d4c5.p
 # [awinterstein/habitica](https://github.com/awinterstein/habitica/)
 
 Self-hosting adaptations for habit-building program
+
+习惯养成程序的自托管适配

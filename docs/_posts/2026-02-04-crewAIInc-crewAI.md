@@ -7,3 +7,5 @@ image: assets/crewAIInc_crewAI_20260202_225541_649_20260202_225559_968f46.png
 # [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
 
 Orchestrates role-playing agents for tasks
+
+编排角色扮演智能体执行任务

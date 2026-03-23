@@ -7,3 +7,5 @@ image: assets/OpenBAS_Platform_openbas_20260122_121035_837_20260122_121053_6fede
 # [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas)
 
 Platform for adversary simulation campaigns
+
+对手模拟活动的平台

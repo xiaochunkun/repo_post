@@ -7,3 +7,5 @@ image: assets/AleksNeStu_ai-real-estate-assistant--20250812T232513--cropped.png
 # [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant)
 
 AI chat app for property search with RAG and Streamlit
+
+基于RAG和Streamlit的房产搜索AI聊天应用

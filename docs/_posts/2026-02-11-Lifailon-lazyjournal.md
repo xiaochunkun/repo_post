@@ -7,3 +7,5 @@ image: assets/Lifailon_lazyjournal_20260203_004844_967_20260203_004921_6c74ee.pn
 # [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal)
 
 TUI for viewing logs from journald, Docker, and Kubernetes
+
+用于查看 journald、Docker 和 Kubernetes 日志的 TUI

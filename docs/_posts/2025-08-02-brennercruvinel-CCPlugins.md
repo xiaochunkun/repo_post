@@ -7,3 +7,5 @@ image: assets/brennercruvinel_CCPlugins_cropped.png
 # [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins)
 
 Commands for automating Claude Code CLI tasks and dev workflows
+
+用于自动化 Claude Code CLI 任务和开发工作流的命令

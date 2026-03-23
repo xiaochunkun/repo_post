@@ -7,3 +7,5 @@ image: assets/BearTS_actual_budget_app_20251225_063024_589_20251225_063049_23668
 # [BearTS/actual-budget-app](https://github.com/BearTS/actual-budget-app/)
 
 iOS client for the Actual Budget server
+
+Actual Budget 服务器的 iOS 客户端

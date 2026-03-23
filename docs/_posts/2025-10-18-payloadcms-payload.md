@@ -7,3 +7,5 @@ image: assets/payloadcms_payload_20251018_165220_378_20251018_182358--20251018T2
 # [payloadcms/payload](https://github.com/payloadcms/payload/)
 
 Next.js native CMS for app folders
+
+适用于 app 文件夹的 Next.js 原生 CMS

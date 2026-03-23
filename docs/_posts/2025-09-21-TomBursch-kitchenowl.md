@@ -7,3 +7,5 @@ image: assets/20250921T021845884--TomBursch--kitchenowl--20250921T022725254--cro
 # [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
 
 self-hosted grocery list and recipe manager with real-time sync and meal planning
+
+自托管的购物清单和食谱管理器，支持实时同步和膳食计划

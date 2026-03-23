@@ -7,3 +7,5 @@ image: assets/20250906T223731996--projectdiscovery--nuclei-templates--20250908T1
 # [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
 
 community-made templates for finding security bugs with nuclei
+
+社区制作的 nuclei 安全漏洞扫描模板

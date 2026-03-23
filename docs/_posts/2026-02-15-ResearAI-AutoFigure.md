@@ -7,3 +7,5 @@ image: assets/ResearAI_AutoFigure_20260208_030728_968_20260208_030815_ea40c2.png
 # [ResearAI/AutoFigure](https://github.com/ResearAI/AutoFigure)
 
 Generates scientific diagrams from text or papers
+
+从文本或论文生成科学图表

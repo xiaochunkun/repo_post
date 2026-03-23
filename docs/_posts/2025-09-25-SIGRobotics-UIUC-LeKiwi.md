@@ -7,3 +7,5 @@ image: assets/20250925T042021522--SIGRobotics-UIUC--LeKiwi--20250925T042549783--
 # [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi)
 
 open-source mobile robot platform for AI research and hands-on robotics
+
+用于AI研究和动手机器人学的开源移动机器人平台

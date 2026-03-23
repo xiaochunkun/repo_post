@@ -7,3 +7,5 @@ image: assets/lowlighter_mizu_cropped.png
 # [lowlighter/mizu](https://github.com/lowlighter/mizu)
 
 HTML templating library for web apps
+
+Web 应用的 HTML 模板库

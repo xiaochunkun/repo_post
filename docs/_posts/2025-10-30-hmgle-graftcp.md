@@ -7,3 +7,5 @@ image: assets/hmgle_graftcp_20251030_025401_070_20251030_164923_81cfb1--20251030
 # [hmgle/graftcp](https://github.com/hmgle/graftcp/)
 
 Redirects TCP connections for any program
+
+为任何程序重定向 TCP 连接

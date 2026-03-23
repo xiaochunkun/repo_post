@@ -7,3 +7,5 @@ image: assets/laudspeaker_laudspeaker_cropped.png
 # [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker)
 
 open source customer engagement and onboarding tool
+
+开源客户互动和引导工具

@@ -7,3 +7,5 @@ image: assets/hakluke_hakrawler_20251114_214741_025_20251115_201736_282f05--2025
 # [hakluke/hakrawler](https://github.com/hakluke/hakrawler/)
 
 Web crawler for discovering endpoints and assets
+
+用于发现端点和资产的网络爬虫

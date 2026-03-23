@@ -7,3 +7,5 @@ image: assets/kitspace_awesome_electronics_20260203_144054_473_20260203_144128_6
 # [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
 
 Resources for electronic engineers and hobbyists
+
+电子工程师和爱好者的资源

@@ -7,3 +7,5 @@ image: assets/trykimu_videoeditor_20260209_024429_733_20260209_024503_2e2d57.png
 # [trykimu/videoeditor](https://github.com/trykimu/videoeditor)
 
 Video editor with AI assistant and multi-track timeline
+
+集成AI助手和多轨道时间线的视频编辑器

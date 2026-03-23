@@ -7,3 +7,5 @@ image: assets/s1lvax_whoami_20251217_193614_942_20251217_193636_ea2eb3.png
 # [s1lvax/whoami](https://github.com/s1lvax/whoami/)
 
 Self-hosted personal profile and portfolio platform built with Rails 8
+
+基于 Rails 8 构建的自托管个人资料和作品集平台

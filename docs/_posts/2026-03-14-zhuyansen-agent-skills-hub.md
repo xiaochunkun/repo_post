@@ -7,3 +7,5 @@ image: assets/zhuyansen_agent_skills_hub_20260313_133845_049_20260313_134251_542
 # [zhuyansen/agent-skills-hub](https://github.com/zhuyansen/agent-skills-hub)
 
 Scores 6,000+ agent skills on 6 dimensions
+
+在6个维度上评分6000+代理技能

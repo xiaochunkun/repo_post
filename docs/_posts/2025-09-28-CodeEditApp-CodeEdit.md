@@ -7,3 +7,5 @@ image: assets/20250928T053908521--CodeEditApp--CodeEdit--20250928T055218523--cro
 # [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
 macOS code editor with syntax highlighting, git integration, and extensions
+
+macOS代码编辑器，支持语法高亮、git集成和扩展

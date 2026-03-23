@@ -7,3 +7,5 @@ image: assets/AlexW00_Buffertab_20251229_025539_614_20251229_025556_d02c9b.png
 # [AlexW00/Buffertab](https://github.com/AlexW00/Buffertab/)
 
 Markdown editor with storage in the URL
+
+将内容存储在 URL 中的 Markdown 编辑器

@@ -7,3 +7,5 @@ image: assets/lin_stephanie_astro_antfustyle_theme_20251208_223517_268_20251208_
 # [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme/)
 
 Minimalist Astro 5 theme for developers
+
+面向开发者的极简Astro 5主题

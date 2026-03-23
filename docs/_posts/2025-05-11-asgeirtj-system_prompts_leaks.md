@@ -7,3 +7,5 @@ image: assets/asgeirtj_system_prompts_leaks_cropped.png
 # [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
 Repository containing leaked system prompts from various AI models
+
+包含各种 AI 模型泄露系统提示的仓库

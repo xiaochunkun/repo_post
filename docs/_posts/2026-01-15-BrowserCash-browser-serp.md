@@ -7,3 +7,5 @@ image: assets/BrowserCash_browser_serp_20260115_084151_369_20260115_084204_d1c8b
 # [BrowserCash/browser-serp](https://github.com/BrowserCash/browser-serp)
 
 Extracts Google search results using remote browsers
+
+使用远程浏览器提取 Google 搜索结果

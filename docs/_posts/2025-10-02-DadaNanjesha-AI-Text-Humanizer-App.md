@@ -7,3 +7,5 @@ image: assets/20251001T203452990--DadaNanjesha--AI-Text-Humanizer-App--20251001T
 # [DadaNanjesha/AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App)
 
 Turn AI text into formal, human-like, or academic writing with a simple web app
+
+通过简单Web应用将AI文本转换为正式、人性化或学术写作

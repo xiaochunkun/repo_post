@@ -7,3 +7,5 @@ image: assets/ref-tools_ref-tools-mcp--20250814T025119193--cropped.png
 # [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp)
 
 MCP server for fast, token-efficient AI access to API and code docs
+
+MCP服务器，为AI提供快速、节省token的API和代码文档访问

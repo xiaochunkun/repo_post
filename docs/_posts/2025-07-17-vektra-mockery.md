@@ -7,3 +7,5 @@ image: assets/vektra_mockery_cropped.png
 # [vektra/mockery](https://github.com/vektra/mockery)
 
 generate Go interface mocks automatically
+
+自动生成 Go 接口模拟

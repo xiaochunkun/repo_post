@@ -7,3 +7,5 @@ image: assets/fccview_scatola_magica_20251228_015725_549_20251228_015741_3ce398.
 # [fccview/scatola-magica](https://github.com/fccview/scatola-magica/)
 
 Self-hosted file storage with encryption
+
+具有加密功能的自托管文件存储

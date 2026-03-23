@@ -7,3 +7,5 @@ image: assets/vanhoefm_airsnitch_20260302_024501_284_20260302_024656_dccafb.png
 # [vanhoefm/airsnitch](https://github.com/vanhoefm/airsnitch)
 
 Bypasses Wi-Fi client isolation to test network security
+
+绕过 Wi-Fi 客户端隔离以测试网络安全

@@ -7,3 +7,5 @@ image: assets/ilkerzg_ad_assets_generator_20260112_113826_676_20260112_113840_4f
 # [ilkerzg/ad-assets-generator](https://github.com/ilkerzg/ad-assets-generator)
 
 Generates ad assets using AI agents
+
+使用 AI 代理生成广告素材

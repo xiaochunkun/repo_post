@@ -7,3 +7,5 @@ image: assets/shadcnblocks_shadcn_ui_blocks_20260221_082804_212_20260221_082823_
 # [shadcnblocks/shadcn-ui-blocks](https://github.com/shadcnblocks/shadcn-ui-blocks)
 
 Marketing blocks for shadcn/ui and Tailwind
+
+用于shadcn/ui和Tailwind的营销区块

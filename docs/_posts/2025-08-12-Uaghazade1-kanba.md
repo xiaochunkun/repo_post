@@ -7,3 +7,5 @@ image: assets/Uaghazade1_kanba--20250812T005930--cropped.png
 # [Uaghazade1/kanba](https://github.com/Uaghazade1/kanba)
 
 Next.js SaaS starter with Supabase and Stripe
+
+基于Next.js、Supabase和Stripe的SaaS启动模板

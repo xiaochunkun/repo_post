@@ -7,3 +7,5 @@ image: assets/oobabooga_text_generation_webui_20260108_041823_822_20260108_04183
 # [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 Gradio interface for large language models
+
+大型语言模型的Gradio界面

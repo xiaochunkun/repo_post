@@ -7,3 +7,5 @@ image: assets/ElDavoo_wa_crypt_tools_20251231_030152_015_20251231_030212_7eb957.
 # [ElDavoo/wa-crypt-tools](https://github.com/ElDavoo/wa-crypt-tools/)
 
 Decrypts and encrypts WhatsApp backup files
+
+解密和加密 WhatsApp 备份文件

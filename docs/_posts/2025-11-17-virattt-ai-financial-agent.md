@@ -7,3 +7,5 @@ image: assets/virattt_ai_financial_agent_20251115_052454_082_20251116_221249_a17
 # [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent/)
 
 AI agent for investment research with 30+ years of data
+
+使用30多年数据进行投资研究的AI代理

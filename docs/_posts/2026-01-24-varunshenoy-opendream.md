@@ -7,3 +7,5 @@ image: assets/varunshenoy_opendream_20260120_092900_717_20260120_092922_00db71.p
 # [varunshenoy/opendream](https://github.com/varunshenoy/opendream)
 
 Diffusion web UI with layers and non-destructive editing
+
+支持图层和非破坏性编辑的Diffusion网页界面

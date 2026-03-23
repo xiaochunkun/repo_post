@@ -7,3 +7,5 @@ image: assets/Swetrix_swetrix_20260213_053724_085_20260213_053825_ed7102.png
 # [Swetrix/swetrix](https://github.com/Swetrix/swetrix)
 
 Web analytics without cookies
+
+无需Cookie的网站分析工具
